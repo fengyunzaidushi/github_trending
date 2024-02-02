@@ -253,7 +253,7 @@ async def main():
 
 
 
-        # await discord_callback(today_list,date,prefix)
+        await discord_callback(today_list,date,prefix)
 
 
 
@@ -297,16 +297,6 @@ async def discord_callback(repositories,date,prefix):
         if lines:
             await channel.send("\n".join(lines))
 
-
-        # for i in msg.content.splitlines():
-        #     if i.startswith(("# ", "## ", "### ")):
-        #         if lines:
-        #             await channel.send("\n".join(lines))
-        #             lines = []
-        #     lines.append(i)
-        #
-        # if lines:
-        #     await channel.send("\n".join(lines))
 
 if __name__ == "__main__":
     asyncio.run(main())
