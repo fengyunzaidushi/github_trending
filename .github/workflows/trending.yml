@@ -37,4 +37,6 @@ jobs:
       env:
         secret_id: ${{ secrets.secret_id }}
         secret_key: ${{ secrets.secret_key }}
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
 
