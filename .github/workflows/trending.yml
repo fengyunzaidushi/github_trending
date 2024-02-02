@@ -1,0 +1,40 @@
+# This workflow will install Python dependencies, run tests and lint with a single version of Python
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python
+
+name: trending抓取
+
+on:
+  schedule:
+    # 早上8点执行
+    - cron: '00 08 * * *'
+    # 下午8点执行
+    - cron: '00 20 * * *'
+
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/New_York
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v3
+      with:
+        python-version: "3.9"
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    - name: Run weather Report
+      run: |
+        python github_trending.py
+      env:
+        secret_id: ${{ secrets.secret_id }}
+        secret_key: ${{ secrets.secret_key }}
+
