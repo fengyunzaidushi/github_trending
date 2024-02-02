@@ -32,9 +32,11 @@ jobs:
     - name: Run github_trending
       run: |
         python github_trending.py
-        # 在脚本中添加复制回仓库的命令
-#        cp -r $GITHUB_WORKSPACE/data/* data/
-
+      env:
+        secret_id: ${{ secrets.secret_id }}
+        secret_key: ${{ secrets.secret_key }}
+        DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
     - name: Commit and push changes back to the repository
       run: |
         git config --global user.email "fengxiaoyang163@163.com"
