@@ -218,7 +218,7 @@ async def main():
     urls.extend(urls2)
     urls.extend(urls3)
     date = get_date()
-    for url in urls[:]:
+    for url in urls[:1]:
         print(url)
         separators = "/="
         split_text = re.split('[{}]'.format(separators), url)
