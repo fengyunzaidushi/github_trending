@@ -37,10 +37,12 @@ jobs:
         secret_key: ${{ secrets.secret_key }}
         DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
         DISCORD_CHANNEL_ID: ${{ secrets.DISCORD_CHANNEL_ID }}
-#    - name: Commit and push changes back to the repository
-#      run: |
-#        git config --global user.email "fengxiaoyang163@163.com"
-#        git config --global user.name "fengyunzaidushi"
-#        git add data/github/*.json
-#        git commit -m "Update data from GitHub Actions"
-#        git push origin main
+    - name: Commit and push changes back to the repository
+      run: |
+        git config --global user.email "fengxiaoyang163@163.com"
+        git config --global user.name "fengyunzaidushi"
+        git add data/github/*.json
+        git commit -m "Update data from GitHub Actions"
+        git push origin main
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
