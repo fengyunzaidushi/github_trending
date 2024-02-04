@@ -15,7 +15,8 @@ from bs4 import BeautifulSoup
 import markdown
 import requests
 import base64
-
+from dotenv import load_dotenv
+load_dotenv()
 
 async def fetch_readme_content(session, url):
     """
