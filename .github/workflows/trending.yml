@@ -42,6 +42,7 @@ jobs:
         git config --global user.email "fengxiaoyang163@163.com"
         git config --global user.name "fengyunzaidushi"
         git add data/github/*.json
+        git add data/github/*.jsonl
         git commit -m "Update data from GitHub Actions"
         git push origin main
       env:
