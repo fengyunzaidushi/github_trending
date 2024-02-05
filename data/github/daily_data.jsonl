@@ -11523,3 +11523,257 @@
         }
     ]
 }
+{
+    "02月05日": [
+        {
+            "zh_des": "OLMO的建模、培训、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "2,130",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "512 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI.",
+            "stars": "4,452",
+            "forks": "335",
+            "language": "Python",
+            "stars_today": "614 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-2B：端侧LLM的性能优于Llama2-13B。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+            "stars": "2,223",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "1,051 stars today"
+        },
+        {
+            "zh_des": "在CLI中生成并自动执行Python脚本",
+            "url": "https://github.com/AbanteAI/rawdog",
+            "name": "AbanteAI /rawdog",
+            "description": "Generate and auto-execute Python scripts in the cli",
+            "stars": "676",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "66,567",
+            "forks": "27,121",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "20,379",
+            "forks": "3,215",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "用于生成和检查奥尔莫预训数据的数据和工具。",
+            "url": "https://github.com/allenai/dolma",
+            "name": "allenai /dolma",
+            "description": "Data and tools for generating and inspecting OLMo pre-training data.",
+            "stars": "481",
+            "forks": "35",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "移动代理：具有视觉感知的自主多通道移动设备代理",
+            "url": "https://github.com/X-PLUG/MobileAgent",
+            "name": "X-PLUG /MobileAgent",
+            "description": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+            "stars": "665",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "由Sota AI Model提供支持的图像修复工具。从你的图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换(由稳定扩散提供动力)图片上的任何东西。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "15,369",
+            "forks": "1,564",
+            "language": "Python",
+            "stars_today": "263 stars today"
+        },
+        {
+            "zh_des": "培训开放式遵循教学的语言模型此repo是在公开可用的数据集上调整流行的预先培训的语言模型的一项公开努力",
+            "url": "https://github.com/allenai/open-instruct",
+            "name": "allenai /open-instruct",
+            "description": "Training Open Instruction-Following Language ModelsThis repo serves as an open effort on instruction-tuning popular pretrained language models on publicly available datasets",
+            "stars": "765",
+            "forks": "87",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "自动SQL注入和数据库接管工具",
+            "url": "https://github.com/sqlmapproject/sqlmap",
+            "name": "sqlmapproject /sqlmap",
+            "description": "Automatic SQL injection and database takeover tool",
+            "stars": "29,826",
+            "forks": "5,631",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用于构建Web应用程序的Python微框架。",
+            "url": "https://github.com/pallets/flask",
+            "name": "pallets /flask",
+            "description": "The Python micro framework for building web applications.",
+            "stars": "65,643",
+            "forks": "16,153",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🍪是一个全功能的、可破解的平铺窗口管理器，用PYTHON语言(X11+Wayland)编写和配置",
+            "url": "https://github.com/qtile/qtile",
+            "name": "qtile /qtile",
+            "description": "🍪 A full-featured, hackable tiling window manager written and configured in Python (X11 + Wayland)",
+            "stars": "4,463",
+            "forks": "698",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、csv文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "stars": "22,229",
+            "forks": "2,470",
+            "language": "Python",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "使用GPT-4V和Vimium浏览网页",
+            "url": "https://github.com/ishan0102/vimGPT",
+            "name": "ishan0102 /vimGPT",
+            "description": "Browse the web with GPT-4V and Vimium",
+            "stars": "2,289",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "30,224",
+            "forks": "3,446",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "4,976",
+            "forks": "351",
+            "language": "Python",
+            "stars_today": "285 stars today"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "555",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "在多个GPU、TPU上预先训练、优化和部署AI模型，无需更改代码。",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "name": "Lightning-AI /pytorch-lightning",
+            "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+            "stars": "26,128",
+            "forks": "3,199",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "55,096",
+            "forks": "13,956",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用于低成本管理的评估套件",
+            "url": "https://github.com/allenai/OLMo-Eval",
+            "name": "allenai /OLMo-Eval",
+            "description": "Evaluation suite for LLMs",
+            "stars": "98",
+            "forks": "18",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "使用GPT构建游戏",
+            "url": "https://github.com/JimLiu/gpt-games",
+            "name": "JimLiu /gpt-games",
+            "description": "Build games with GPT",
+            "stars": "238",
+            "forks": "22",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "图雅智能生活家居助手集成",
+            "url": "https://github.com/tuya/tuya-smart-life",
+            "name": "tuya /tuya-smart-life",
+            "description": "Tuya Smart Life Home Assistant Integration",
+            "stars": "217",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "14,154",
+            "forks": "1,427",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "6,272",
+            "forks": "782",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        }
+    ]
+}
