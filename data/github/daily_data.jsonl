@@ -12539,3 +12539,257 @@
         }
     ]
 }
+{
+    "02月06日": [
+        {
+            "zh_des": "在Python中生成并自动执行Python脚本",
+            "url": "https://github.com/AbanteAI/rawdog",
+            "name": "AbanteAI /rawdog",
+            "description": "Generate and auto-execute Python scripts in the cli",
+            "stars": "1,081",
+            "forks": "107",
+            "language": "Python",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "OLMo的建模、训练、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "2,606",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "LLM通过OSS-Fuzz提供模糊功能。",
+            "url": "https://github.com/google/oss-fuzz-gen",
+            "name": "google /oss-fuzz-gen",
+            "description": "LLM powered fuzzing via OSS-Fuzz.",
+            "stars": "417",
+            "forks": "47",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "66,819",
+            "forks": "27,198",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "Mobile-Agent：具有视觉感知的自主多模移动终端Agent",
+            "url": "https://github.com/X-PLUG/MobileAgent",
+            "name": "X-PLUG /MobileAgent",
+            "description": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+            "stars": "907",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "AWS zero to hero repo让Devops工程师在30天内学习AWS。此存储库包括项目，演示文稿，面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "3,961",
+            "forks": "4,750",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "使用MoviepPy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviepPy.",
+            "stars": "122",
+            "forks": "22",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "SegMoE：Segmind混合扩散专家",
+            "url": "https://github.com/segmind/segmoe",
+            "name": "segmind /segmoe",
+            "description": "SegMoE: Segmind Mixture of Diffusion Experts",
+            "stars": "203",
+            "forks": "9",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "In this paper，the author introduces the principle and application of the mechanism of mechanical mechanism.",
+            "url": "https://github.com/cuifengcn/TAICHI-flet",
+            "name": "cuifengcn /TAICHI-flet",
+            "description": "基于flet的一款windows桌面应用，实现了浏览图片、音乐、小说、漫画、各种资源的功能。",
+            "stars": "2,343",
+            "forks": "290",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "在Pytorch中对比训练模型",
+            "url": "https://github.com/nomic-ai/contrastors",
+            "name": "nomic-ai /contrastors",
+            "description": "Train Models Contrastively in Pytorch",
+            "stars": "235",
+            "forks": "21",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "Python的Twitter API包装器，** 不需要API密钥 **| 没有API密钥|免费|Twitter scraper| Twitter机器人",
+            "url": "https://github.com/d60/twikit",
+            "name": "d60 /twikit",
+            "description": "Twitter API wrapper for Python with **no API key required** | Without api key | Free | Twitter scraper | Twitter Bot",
+            "stars": "191",
+            "forks": "16",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "Curso de ingreso en PYTHON",
+            "url": "https://github.com/octaviovillegas/Curso_de_ingreso_PYTHON",
+            "name": "octaviovillegas /Curso_de_ingreso_PYTHON",
+            "description": "Curso de ingreso en PYTHON",
+            "stars": "61",
+            "forks": "847",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时面部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "20,463",
+            "forks": "3,228",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为slave，设置cicd，使用Argo CD以GitOps方式将应用程序部署到k8s。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "3,907",
+            "forks": "6,887",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "transThe Multi-Agent Framework：给定一行需求，返回PRD、设计、任务、回购",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "34,109",
+            "forks": "4,044",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "一个灵活的包管理器，支持多个版本、配置、平台和编译器。",
+            "url": "https://github.com/spack/spack",
+            "name": "spack /spack",
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "stars": "3,828",
+            "forks": "2,116",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一个高吞吐量和内存效率的LLM推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "14,396",
+            "forks": "1,779",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "注重激励和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "30,337",
+            "forks": "3,467",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "开源功能标记和远程配置服务。本地托管或使用我们的托管版本，网址：https：flagsmith.com/",
+            "url": "https://github.com/Flagsmith/flagsmith",
+            "name": "Flagsmith /flagsmith",
+            "description": "Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version athttps://flagsmith.com/",
+            "stars": "3,555",
+            "forks": "282",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "机器人算法的Python示例代码。",
+            "url": "https://github.com/AtsushiSakai/PythonRobotics",
+            "name": "AtsushiSakai /PythonRobotics",
+            "description": "Python sample codes for robotics algorithms.",
+            "stars": "20,991",
+            "forks": "6,299",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "正在进行的大规模研究培训Transformer模型",
+            "url": "https://github.com/NVIDIA/Megatron-LM",
+            "name": "NVIDIA /Megatron-LM",
+            "description": "Ongoing research training transformer models at scale",
+            "stars": "7,724",
+            "forks": "1,772",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+            "url": "https://github.com/mouredev/roadmap-retos-programacion",
+            "name": "mouredev /roadmap-retos-programacion",
+            "description": "Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+            "stars": "1,032",
+            "forks": "796",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "这是什么？它有什么作用？我如何使用它？这对其他发射器（lutris/瓶子/英雄/传奇等）意味着什么？Steam Linux 2013",
+            "url": "https://github.com/Open-Wine-Components/ULWGL-launcher",
+            "name": "Open-Wine-Components /ULWGL-launcher",
+            "description": "ULWGLWHAT IS THIS?WHAT DOES IT DO?HOW DO I USE IT?WHAT DOES THIS MEAN FOR OTHER LAUNCHERS (lutris/bottles/heroic/legendary,etc):WHAT IS THE BASIC PLAN OF PUTTING THIS INTO ACTION?Steam Linux Runtime 3",
+            "stars": "419",
+            "forks": "9",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "DLRover：一个自动分布式深度学习系统",
+            "url": "https://github.com/intelligent-machine-learning/dlrover",
+            "name": "intelligent-machine-learning /dlrover",
+            "description": "DLRover: An Automatic Distributed Deep Learning System",
+            "stars": "719",
+            "forks": "92",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "The most important technology for the development of the technology is the technology of technology.",
+            "url": "https://github.com/Stock-Fund/XCrawler",
+            "name": "Stock-Fund /XCrawler",
+            "description": "轻量型A股爬虫项目",
+            "stars": "57",
+            "forks": "13",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        }
+    ]
+}

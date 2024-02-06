@@ -760,3 +760,257 @@
         }
     ]
 }
+{
+    "02月06日": [
+        {
+            "zh_des": "此回购旨在作为机器学习/人工智能技术面试的指南。",
+            "url": "https://github.com/alirezadir/Machine-Learning-Interviews",
+            "name": "alirezadir /Machine-Learning-Interviews",
+            "description": "This repo is meant to serve as a guide for Machine Learning/AI technical interviews.",
+            "stars": "2,853",
+            "forks": "513",
+            "language": "Jupyter Notebook",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "启用下一代大型语言模型应用程序。加入我们的不和：https://discord.gg/pAbnFJrkgZ",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "Enable Next-Gen Large Language Model Applications. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "21,509",
+            "forks": "2,865",
+            "language": "Jupyter Notebook",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "已弃用Seehttps://github.com/ageron/handson-ml3instead.-⛔️",
+            "url": "https://github.com/ageron/handson-ml",
+            "name": "ageron /handson-ml",
+            "description": "⛔️ DEPRECATED – Seehttps://github.com/ageron/handson-ml3instead.",
+            "stars": "25,093",
+            "forks": "13,020",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "9,298",
+            "forks": "1,090",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "15,273",
+            "forks": "4,023",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Paper-YOLOv7的实施：可训练的免费袋为实时物体探测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "12,228",
+            "forks": "3,887",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "3,967",
+            "forks": "2,688",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "42,089",
+            "forks": "4,961",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,092",
+            "forks": "7,798",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "⚠Leia A期FIXADA！Reposationório do Lab Contribuindo em Um Projeto Open Source no GitHub da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "2,859",
+            "forks": "21,117",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "TensorFlow示例",
+            "url": "https://github.com/tensorflow/examples",
+            "name": "tensorflow /examples",
+            "description": "TensorFlow examples",
+            "stars": "7,619",
+            "forks": "7,364",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,690",
+            "forks": "2,315",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "9,796",
+            "forks": "1,306",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "“：https://github.com/datawhalechina/leedl-tutorial/releases”，pdf李宏毅深度学习教程下载地址",
+            "url": "https://github.com/datawhalechina/leedl-tutorial",
+            "name": "datawhalechina /leedl-tutorial",
+            "description": "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+            "stars": "8,969",
+            "forks": "2,459",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "在这个项目中，我探索了如何使用本地LLM来标记数据和支持分析。具体地说，我使用了Llama2模型来自动对我的银行交易数据进行分类。",
+            "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+            "name": "thu-vu92 /local-llms-analyse-finance",
+            "description": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+            "stars": "105",
+            "forks": "19",
+            "language": "Jupyter Notebook",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "强化学习算法的实现。Python、OpenAI健身房、TensorFlow。随同萨顿的书和大卫·西尔弗的课程的练习和解决方案。",
+            "url": "https://github.com/dennybritz/reinforcement-learning",
+            "name": "dennybritz /reinforcement-learning",
+            "description": "Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.",
+            "stars": "19,855",
+            "forks": "6,000",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于AutoDl快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于AutoDL快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "604",
+            "forks": "83",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure机器学习示例，使用GitHub操作进行了测试。",
+            "url": "https://github.com/Azure/azureml-examples",
+            "name": "Azure /azureml-examples",
+            "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+            "stars": "1,450",
+            "forks": "1,160",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "40,776",
+            "forks": "17,572",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "7,613",
+            "forks": "773",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,803",
+            "forks": "82,675",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,435",
+            "forks": "3,181",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "27,236",
+            "forks": "4,640",
+            "language": "Jupyter Notebook",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "用博弈论的方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "21,105",
+            "forks": "3,118",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,174",
+            "forks": "7,804",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
