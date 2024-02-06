@@ -10412,3 +10412,257 @@
         }
     ]
 }
+{
+    "02月06日": [
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "5,605",
+            "forks": "578",
+            "language": "TypeScript",
+            "stars_today": "3,539 stars this week"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "12,848",
+            "forks": "1,224",
+            "language": "C",
+            "stars_today": "7,804 stars this week"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,229",
+            "forks": "1,367",
+            "language": "Python",
+            "stars_today": "1,093 stars this week"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "8,422",
+            "forks": "485",
+            "language": "Jupyter Notebook",
+            "stars_today": "4,842 stars this week"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "1,689",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "914 stars this week"
+        },
+        {
+            "zh_des": "🚂12306购票助手，支持集群，多账号，多任务购票以及网络页面管理",
+            "url": "https://github.com/pjialin/py12306",
+            "name": "pjialin /py12306",
+            "description": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+            "stars": "13,474",
+            "forks": "3,399",
+            "language": "Python",
+            "stars_today": "573 stars this week"
+        },
+        {
+            "zh_des": "InstantID：秒级身份保持零生成🔥",
+            "url": "https://github.com/InstantID/InstantID",
+            "name": "InstantID /InstantID",
+            "description": "InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥",
+            "stars": "6,816",
+            "forks": "415",
+            "language": "Python",
+            "stars_today": "2,554 stars this week"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "23,802",
+            "forks": "1,729",
+            "language": "Go",
+            "stars_today": "977 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "5,879",
+            "forks": "377",
+            "language": "Python",
+            "stars_today": "614 stars this week"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "9,234",
+            "forks": "961",
+            "language": "Python",
+            "stars_today": "2,179 stars this week"
+        },
+        {
+            "zh_des": "用于将Palworld.sav文件转换为JSON或将其转换为JSON的工具",
+            "url": "https://github.com/cheahjs/palworld-save-tools",
+            "name": "cheahjs /palworld-save-tools",
+            "description": "Tools for converting Palworld .sav files to JSON and back",
+            "stars": "562",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "252 stars this week"
+        },
+        {
+            "zh_des": "一个Docker Container，可以轻松运行Palworld专用服务器。",
+            "url": "https://github.com/thijsvanloef/palworld-server-docker",
+            "name": "thijsvanloef /palworld-server-docker",
+            "description": "A Docker Container to easily run a Palworld dedicated server.",
+            "stars": "1,908",
+            "forks": "229",
+            "language": "Shell",
+            "stars_today": "400 stars this week"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "8,642",
+            "forks": "3,194",
+            "language": "PowerShell",
+            "stars_today": "116 stars this week"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,062",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "278 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,508",
+            "forks": "1,417",
+            "language": "Python",
+            "stars_today": "701 stars this week"
+        },
+        {
+            "zh_des": "Slint是一个声明性的图形用户界面工具包，用于为Rust、C++或JavaScript应用程序构建本机用户界面。",
+            "url": "https://github.com/slint-ui/slint",
+            "name": "slint-ui /slint",
+            "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+            "stars": "12,949",
+            "forks": "416",
+            "language": "Rust",
+            "stars_today": "575 stars this week"
+        },
+        {
+            "zh_des": "开源助手API和GPTS的替代方案。Dify.AI是一个LLM应用程序开发平台。它集成了后端即服务和LLMOps的概念，涵盖了构建生成性AI原生应用程序所需的核心技术堆栈，包括内置的RAG引擎。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.",
+            "stars": "15,066",
+            "forks": "2,016",
+            "language": "Python",
+            "stars_today": "513 stars this week"
+        },
+        {
+            "zh_des": "骆驼模型的推理码",
+            "url": "https://github.com/facebookresearch/llama",
+            "name": "facebookresearch /llama",
+            "description": "Inference code for LLaMA models",
+            "stars": "49,427",
+            "forks": "8,536",
+            "language": "Python",
+            "stars_today": "494 stars this week"
+        },
+        {
+            "zh_des": "主吨位单价",
+            "url": "https://github.com/ton-blockchain/ton",
+            "name": "ton-blockchain /ton",
+            "description": "Main TON monorepo",
+            "stars": "2,177",
+            "forks": "617",
+            "language": "C++",
+            "stars_today": "26 stars this week"
+        },
+        {
+            "zh_des": "现代C++程序设计课程(C++11/14/17/20/23)",
+            "url": "https://github.com/federico-busato/Modern-CPP-Programming",
+            "name": "federico-busato /Modern-CPP-Programming",
+            "description": "Modern C++ Programming Course (C++11/14/17/20/23)",
+            "stars": "9,918",
+            "forks": "712",
+            "language": "HTML",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "轻松驾驭CVE丛林。",
+            "url": "https://github.com/projectdiscovery/cvemap",
+            "name": "projectdiscovery /cvemap",
+            "description": "Navigate the CVE jungle with ease.",
+            "stars": "1,108",
+            "forks": "63",
+            "language": "Go",
+            "stars_today": "348 stars this week"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "19,347",
+            "forks": "633",
+            "language": "Rust",
+            "stars_today": "3,888 stars this week"
+        },
+        {
+            "zh_des": "仅限C++头的HTTP/HTTPS服务器和客户端库",
+            "url": "https://github.com/yhirose/cpp-httplib",
+            "name": "yhirose /cpp-httplib",
+            "description": "A C++ header-only HTTP/HTTPS server and client library",
+            "stars": "11,367",
+            "forks": "2,152",
+            "language": "C++",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "完善的集装箱管理平台",
+            "url": "https://github.com/rancher/rancher",
+            "name": "rancher /rancher",
+            "description": "Complete container management platform",
+            "stars": "22,281",
+            "forks": "3,002",
+            "language": "Go",
+            "stars_today": "212 stars this week"
+        },
+        {
+            "zh_des": "欢迎来到New Expensify：以聊天为中心的金融协作的完全重新想象。通过分享反馈并贡献代码，帮助我们构建下一代Expensify。",
+            "url": "https://github.com/Expensify/App",
+            "name": "Expensify /App",
+            "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+            "stars": "2,381",
+            "forks": "2,334",
+            "language": "TypeScript",
+            "stars_today": "152 stars this week"
+        }
+    ]
+}
