@@ -11428,3 +11428,257 @@
         }
     ]
 }
+{
+    "02月08日": [
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "14,725",
+            "forks": "1,419",
+            "language": "C",
+            "stars_today": "10,441 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI.",
+            "stars": "4,807",
+            "forks": "372",
+            "language": "Python",
+            "stars_today": "4,263 stars this week"
+        },
+        {
+            "zh_des": "用于Excel和相关文件的16位CPU",
+            "url": "https://github.com/InkboxSoftware/excelCPU",
+            "name": "InkboxSoftware /excelCPU",
+            "description": "16-bit CPU for Excel, and related files",
+            "stars": "3,663",
+            "forks": "291",
+            "language": "Python",
+            "stars_today": "2,321 stars this week"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,285",
+            "forks": "1,376",
+            "language": "Python",
+            "stars_today": "632 stars this week"
+        },
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "5,727",
+            "forks": "587",
+            "language": "TypeScript",
+            "stars_today": "1,383 stars this week"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "20,619",
+            "forks": "1,478",
+            "language": "Ruby",
+            "stars_today": "5,877 stars this week"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "24,231",
+            "forks": "1,782",
+            "language": "Go",
+            "stars_today": "1,461 stars this week"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "8,612",
+            "forks": "502",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,806 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,612",
+            "forks": "1,434",
+            "language": "Python",
+            "stars_today": "720 stars this week"
+        },
+        {
+            "zh_des": "InstantID：秒级身份保持零生成🔥",
+            "url": "https://github.com/InstantID/InstantID",
+            "name": "InstantID /InstantID",
+            "description": "InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥",
+            "stars": "7,150",
+            "forks": "449",
+            "language": "Python",
+            "stars_today": "2,612 stars this week"
+        },
+        {
+            "zh_des": "WhisperFusion以WhisperLive和WhisperSpeech的能力为基础，提供与人工智能的无缝对话。",
+            "url": "https://github.com/collabora/WhisperFusion",
+            "name": "collabora /WhisperFusion",
+            "description": "WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.",
+            "stars": "1,135",
+            "forks": "67",
+            "language": "Python",
+            "stars_today": "359 stars this week"
+        },
+        {
+            "zh_des": "一种简化人工智能服务构建的Pythonic框架",
+            "url": "https://github.com/leptonai/leptonai",
+            "name": "leptonai /leptonai",
+            "description": "A Pythonic framework to simplify AI service building",
+            "stars": "2,084",
+            "forks": "131",
+            "language": "Python",
+            "stars_today": "867 stars this week"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "7,704",
+            "forks": "506",
+            "language": "TypeScript",
+            "stars_today": "1,107 stars this week"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "8,658",
+            "forks": "3,194",
+            "language": "PowerShell",
+            "stars_today": "126 stars this week"
+        },
+        {
+            "zh_des": "🚂12306购票助手，支持集群，多账号，多任务购票以及网络页面管理",
+            "url": "https://github.com/pjialin/py12306",
+            "name": "pjialin /py12306",
+            "description": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+            "stars": "13,512",
+            "forks": "3,406",
+            "language": "Python",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "55,694",
+            "forks": "19,048",
+            "language": "Java",
+            "stars_today": "174 stars this week"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "1,734",
+            "forks": "127",
+            "language": "Python",
+            "stars_today": "467 stars this week"
+        },
+        {
+            "zh_des": "Slint是一个声明性的图形用户界面工具包，用于为Rust、C++或JavaScript应用程序构建本机用户界面。",
+            "url": "https://github.com/slint-ui/slint",
+            "name": "slint-ui /slint",
+            "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+            "stars": "13,048",
+            "forks": "417",
+            "language": "Rust",
+            "stars_today": "644 stars this week"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,241",
+            "forks": "24,022",
+            "language": "Python",
+            "stars_today": "142 stars this week"
+        },
+        {
+            "zh_des": "采用任何编程语言的🔥LeetCode解决方案|多种编程语言实现LeetCode、“剑指Offer(第2版)”、“程序员面试金典(第6版)”题解",
+            "url": "https://github.com/doocs/leetcode",
+            "name": "doocs /leetcode",
+            "description": "🔥LeetCode solutions in any programming language | 多种编程语言实现 LeetCode、《剑指 Offer（第 2 版）》、《程序员面试金典（第 6 版）》题解",
+            "stars": "27,713",
+            "forks": "4,767",
+            "language": "Java",
+            "stars_today": "665 stars this week"
+        },
+        {
+            "zh_des": "欢迎来到New Expensify：以聊天为中心的金融协作的完全重新想象。通过分享反馈并贡献代码，帮助我们构建下一代Expensify。",
+            "url": "https://github.com/Expensify/App",
+            "name": "Expensify /App",
+            "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+            "stars": "2,524",
+            "forks": "2,359",
+            "language": "TypeScript",
+            "stars_today": "299 stars this week"
+        },
+        {
+            "zh_des": "最佳DDoS攻击脚本Python3，(Cyber/DDoS)攻击，共56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "10,591",
+            "forks": "2,405",
+            "language": "Python",
+            "stars_today": "229 stars this week"
+        },
+        {
+            "zh_des": "用于AI原生应用程序开发的开源平台。",
+            "url": "https://github.com/TaskingAI/TaskingAI",
+            "name": "TaskingAI /TaskingAI",
+            "description": "The open source platform for AI-native application development.",
+            "stars": "1,679",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "507 stars this week"
+        },
+        {
+            "zh_des": "TraderBotStartup🚀其他参考🔗谁、何时、为什么？构建一个交易员机器人，它可以查看实时新闻事件的情绪，并适当地进行交易",
+            "url": "https://github.com/nicknochnack/MLTradingBot",
+            "name": "nicknochnack /MLTradingBot",
+            "description": "TraderBotStartup 🚀Other References 🔗Who, When, Why?Build a trader bot which looks at sentiment of live news events and trades appropriately",
+            "stars": "473",
+            "forks": "126",
+            "language": "HTML",
+            "stars_today": "97 stars this week"
+        },
+        {
+            "zh_des": "Leetcode高级解锁器2024",
+            "url": "https://github.com/31b4/Leetcode-Premium-Bypass",
+            "name": "31b4 /Leetcode-Premium-Bypass",
+            "description": "Leetcode Premium Unlocker 2024",
+            "stars": "2,660",
+            "forks": "113",
+            "language": "JavaScript",
+            "stars_today": "565 stars this week"
+        }
+    ]
+}
