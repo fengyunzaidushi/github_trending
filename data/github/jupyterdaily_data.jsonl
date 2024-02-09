@@ -2030,3 +2030,257 @@
         }
     ]
 }
+{
+    "02月09日": [
+        {
+            "zh_des": "社区为LLMS制作的数据加载器库--将与LlamaIndex和/或LangChain一起使用",
+            "url": "https://github.com/run-llama/llama-hub",
+            "name": "run-llama /llama-hub",
+            "description": "A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain",
+            "stars": "3,275",
+            "forks": "714",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "在这个项目中，我探索了如何使用本地LLM来标记数据和支持分析。具体地说，我使用了Llama2模型来自动对我的银行交易数据进行分类。",
+            "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+            "name": "thu-vu92 /local-llms-analyse-finance",
+            "description": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+            "stars": "301",
+            "forks": "54",
+            "language": "Jupyter Notebook",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "🦖𝗟𝗲𝗮𝗿𝗻通过设计、培训和部署实时财务顾问LLm系统免费了解𝗟𝗟𝗠𝘀、𝗟𝗟𝗠𝗢𝗽𝘀和𝘃𝗲𝗰𝘁𝗼𝗿𝗗𝗕𝘀~𝘴𝘰𝘶𝘳𝘤𝘦𝘤𝘰𝘥𝘦+𝘷𝘪𝘥𝘦𝘰&𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "1,848",
+            "forks": "269",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "机器学习基础：线性代数、微积分、统计学和计算机科学",
+            "url": "https://github.com/jonkrohn/ML-foundations",
+            "name": "jonkrohn /ML-foundations",
+            "description": "Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science",
+            "stars": "2,735",
+            "forks": "1,345",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "9,315",
+            "forks": "1,095",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "所有Azure OpenAI样例的存储库，补充了OpenAI食谱。",
+            "url": "https://github.com/Azure-Samples/openai",
+            "name": "Azure-Samples /openai",
+            "description": "The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.",
+            "stars": "790",
+            "forks": "266",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure机器学习示例，使用GitHub操作进行了测试。",
+            "url": "https://github.com/Azure/azureml-examples",
+            "name": "Azure /azureml-examples",
+            "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+            "stars": "1,454",
+            "forks": "1,164",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于AutoDl快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于AutoDL快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "623",
+            "forks": "90",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "大型语言模型项目",
+            "url": "https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects",
+            "name": "MuhammadMoinFaisal /LargeLanguageModelsProjects",
+            "description": "Large Language Model Projects",
+            "stars": "261",
+            "forks": "180",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "此repo托管官方MediaTube示例，目的是展示使用我们的机器学习平台创建应用程序所涉及的基本步骤",
+            "url": "https://github.com/googlesamples/mediapipe",
+            "name": "googlesamples /mediapipe",
+            "description": "This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform",
+            "stars": "963",
+            "forks": "250",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "6,744",
+            "forks": "3,441",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Kubernetes社区内容",
+            "url": "https://github.com/kubernetes/community",
+            "name": "kubernetes /community",
+            "description": "Kubernetes community content",
+            "stars": "11,515",
+            "forks": "5,208",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "大型语言模型是零次时间序列预报器该存储库包含该白皮书的代码\n大型语言模型是零次时间序列预测者\n内特·格鲁弗、马克·芬齐、邱诗凯和安德鲁·戈登·威尔逊(NeurIPS 2023)",
+            "url": "https://github.com/ngruver/llmtime",
+            "name": "ngruver /llmtime",
+            "description": "Large Language Models Are Zero Shot Time Series ForecastersThis repository contains the code for the paper\nLarge Language Models Are Zero Shot Time Series Forecasters\nby Nate Gruver, Marc Finzi, Shikai Qiu and Andrew Gordon Wilson (NeurIPS 2023)",
+            "stars": "381",
+            "forks": "73",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,443",
+            "forks": "3,183",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "结构化状态空间序列模型",
+            "url": "https://github.com/state-spaces/s4",
+            "name": "state-spaces /s4",
+            "description": "Structured state space sequence models",
+            "stars": "1,807",
+            "forks": "227",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Jupyter笔记本，帮助您亲身体验松果矢量数据库",
+            "url": "https://github.com/pinecone-io/examples",
+            "name": "pinecone-io /examples",
+            "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+            "stars": "2,223",
+            "forks": "875",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,703",
+            "forks": "2,318",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "12课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "12 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "23,656",
+            "forks": "15,039",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure AI示例",
+            "url": "https://github.com/Azure-Samples/azureai-samples",
+            "name": "Azure-Samples /azureai-samples",
+            "description": "Official community-driven Azure AI Examples",
+            "stars": "70",
+            "forks": "39",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,818",
+            "forks": "82,696",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "疯狂快语者一个固执己见的CLI转录音频文件与耳语设备！由🤗变形金刚提供支持，最佳与闪存-TL；灾难恢复-转录150分钟(2",
+            "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+            "name": "Vaibhavs10 /insanely-fast-whisper",
+            "description": "Insanely Fast WhisperAn opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 Transformers, Optimum & flash-attnTL;DR - Transcribe 150 minutes (2",
+            "stars": "5,345",
+            "forks": "483",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "欢迎使用《朗格史密斯手册》--掌握朗格史密斯的实用指南",
+            "url": "https://github.com/langchain-ai/langsmith-cookbook",
+            "name": "langchain-ai /langsmith-cookbook",
+            "description": "LangSmith CookbookWelcome to the LangSmith Cookbook — your practical guide to mastering LangSmith",
+            "stars": "472",
+            "forks": "71",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "16,741",
+            "forks": "2,133",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "深度学习",
+            "url": "https://github.com/https-deeplearning-ai/tensorflow-1-public",
+            "name": "https-deeplearning-ai /tensorflow-1-public",
+            "description": "DeepLearning",
+            "stars": "2,052",
+            "forks": "2,376",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用大型语言模型自动生成可视化和信息图表",
+            "url": "https://github.com/microsoft/lida",
+            "name": "microsoft /lida",
+            "description": "Automatic Generation of Visualizations and Infographics using Large Language Models",
+            "stars": "2,127",
+            "forks": "185",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
