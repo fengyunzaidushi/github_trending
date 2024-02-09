@@ -14063,3 +14063,257 @@
         }
     ]
 }
+{
+    "02月09日": [
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "4,862",
+            "forks": "573",
+            "language": "Python",
+            "stars_today": "2,173 stars today"
+        },
+        {
+            "zh_des": "本地用户",
+            "url": "https://github.com/GoogleCloudPlatform/localllm",
+            "name": "GoogleCloudPlatform /localllm",
+            "description": "localllm",
+            "stars": "528",
+            "forks": "38",
+            "language": "Python",
+            "stars_today": "136 stars today"
+        },
+        {
+            "zh_des": "通过多模式大语言模型指导基于指令的图像编辑此报告此报告包含通过多模式大语言模型(ICLR‘24 Spotlight)指导基于指令的图像编辑的代码MGIE是\n“基于多模式大语言模型的指导式图像编辑”\n傅资瑞、胡文泽、杜宪志、王威廉、杨银飞、哲干\n在2024国际学习表征会议(ICLR)上，基于指令的图像编辑通过自然命令提高了图像处理的可控性和灵活性，而不需要复杂的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "2,518",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "988 stars today"
+        },
+        {
+            "zh_des": "人工智能--人类水平的语音智能",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "AI for human-level speech intelligence",
+            "stars": "1,086",
+            "forks": "107",
+            "language": "Python",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "HTTP服务器和代理的差异测试和模糊化",
+            "url": "https://github.com/narfindustries/http-garden",
+            "name": "narfindustries /http-garden",
+            "description": "Differential testing and fuzzing of HTTP servers and proxies",
+            "stars": "379",
+            "forks": "38",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "686",
+            "forks": "85",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "用代码设计电路板！软件已经找到了非常有效的方法来重复使用、配置、验证和共享工作。我们也希望硬件能做到这一点！从电子产品开始",
+            "url": "https://github.com/atopile/atopile",
+            "name": "atopile /atopile",
+            "description": "Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics",
+            "stars": "1,006",
+            "forks": "71",
+            "language": "Python",
+            "stars_today": "208 stars today"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易学，编码速度快，可投入生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "67,926",
+            "forks": "5,759",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,064",
+            "forks": "109",
+            "language": "Python",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "无界上下文📚🦙的LLMS内存管理教学",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Teaching LLMs memory management for unbounded context 📚🦙",
+            "stars": "7,717",
+            "forks": "836",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,344",
+            "forks": "2,388",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "789",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "256 stars today"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,278",
+            "forks": "24,026",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "LAG-LAMA：迈向概率时间序列预测的基础模型",
+            "url": "https://github.com/time-series-foundation-models/lag-llama",
+            "name": "time-series-foundation-models /lag-llama",
+            "description": "Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting",
+            "stars": "248",
+            "forks": "22",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "DynamiCrafter：预先设置视频扩散的开域图像动画",
+            "url": "https://github.com/Doubiiu/DynamiCrafter",
+            "name": "Doubiiu /DynamiCrafter",
+            "description": "DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors",
+            "stars": "705",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "通过加法Quantizationhttps://arxiv.org/pdf/2401.06118.pdf对大型语言模型进行极端压缩的官方Pytorch存储库",
+            "url": "https://github.com/Vahe1994/AQLM",
+            "name": "Vahe1994 /AQLM",
+            "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantizationhttps://arxiv.org/pdf/2401.06118.pdf",
+            "stars": "184",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "领先的ETL/ELT数据集成平台，用于从API、数据库和文件到数据仓库、数据湖和数据湖库的数据管道。包括自托管和云托管。",
+            "url": "https://github.com/airbytehq/airbyte",
+            "name": "airbytehq /airbyte",
+            "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",
+            "stars": "13,141",
+            "forks": "3,444",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "微搜索",
+            "url": "https://github.com/alexmolas/microsearch",
+            "name": "alexmolas /microsearch",
+            "description": "microsearch",
+            "stars": "225",
+            "forks": "15",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "使用GPT的功能与您的文档进行交互，100%私密，不会泄露数据",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "47,378",
+            "forks": "6,332",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,106",
+            "forks": "2,670",
+            "language": "Python",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "广泛的节点套件，使ComfyUI能够使用尖端算法(3DGS、NERF等)处理3D输入(网格和UV纹理等)",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "353",
+            "forks": "22",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "基于Google的R包的Python因果影响实现。使用TensorFlow概率构建。",
+            "url": "https://github.com/WillianFuks/tfcausalimpact",
+            "name": "WillianFuks /tfcausalimpact",
+            "description": "Python Causal Impact Implementation Based on Google's R Package. Built using TensorFlow Probability.",
+            "stars": "534",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "67,226",
+            "forks": "27,277",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "🚀是为您的仪表板查找图标的最佳位置。",
+            "url": "https://github.com/walkxcode/dashboard-icons",
+            "name": "walkxcode /dashboard-icons",
+            "description": "🚀 The best place to find icons for your dashboards.",
+            "stars": "3,614",
+            "forks": "366",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "一种条码生成器",
+            "url": "https://github.com/rocketseat-education/nlw-expert-python",
+            "name": "rocketseat-education /nlw-expert-python",
+            "description": "A barcode generator",
+            "stars": "26",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        }
+    ]
+}

@@ -2284,3 +2284,257 @@
         }
     ]
 }
+{
+    "02月09日": [
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,008",
+            "forks": "2,714",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Jupyter笔记本，获取《用Python进行深度学习》一书的代码示例",
+            "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+            "name": "fchollet /deep-learning-with-python-notebooks",
+            "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+            "stars": "17,582",
+            "forks": "8,461",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "最先进的语音和文本翻译的基本模式",
+            "url": "https://github.com/facebookresearch/seamless_communication",
+            "name": "facebookresearch /seamless_communication",
+            "description": "Foundational Models for State-of-the-Art Speech and Text Translation",
+            "stars": "9,656",
+            "forks": "980",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "社区为LLMS制作的数据加载器库--将与LlamaIndex和/或LangChain一起使用",
+            "url": "https://github.com/run-llama/llama-hub",
+            "name": "run-llama /llama-hub",
+            "description": "A library of data loaders for LLMs made by the community -- to be used with LlamaIndex and/or LangChain",
+            "stars": "3,288",
+            "forks": "715",
+            "language": "Jupyter Notebook",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "在这个项目中，我探索了如何使用本地LLM来标记数据和支持分析。具体地说，我使用了Llama2模型来自动对我的银行交易数据进行分类。",
+            "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+            "name": "thu-vu92 /local-llms-analyse-finance",
+            "description": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+            "stars": "315",
+            "forks": "56",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "笔记本电脑&用于搜索的示例应用程序和使用Elasticearch的AI应用程序",
+            "url": "https://github.com/elastic/elasticsearch-labs",
+            "name": "elastic /elasticsearch-labs",
+            "description": "Notebooks & Example Apps for Search & AI Applications with Elasticsearch",
+            "stars": "258",
+            "forks": "75",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "16,747",
+            "forks": "2,132",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": ".NET提供初学者的视频、代码和链接。",
+            "url": "https://github.com/dotnet/beginner-series",
+            "name": "dotnet /beginner-series",
+            "description": ".NET for beginner's videos, code, and links.",
+            "stars": "143",
+            "forks": "28",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure AI示例",
+            "url": "https://github.com/Azure-Samples/azureai-samples",
+            "name": "Azure-Samples /azureai-samples",
+            "description": "Official community-driven Azure AI Examples",
+            "stars": "71",
+            "forks": "39",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于将自然语言问题转换为SQL查询的SOTA LLM",
+            "url": "https://github.com/defog-ai/sqlcoder",
+            "name": "defog-ai /sqlcoder",
+            "description": "SoTA LLM for converting natural language questions to SQL queries",
+            "stars": "2,251",
+            "forks": "133",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Kubernetes社区内容",
+            "url": "https://github.com/kubernetes/community",
+            "name": "kubernetes /community",
+            "description": "Kubernetes community content",
+            "stars": "11,515",
+            "forks": "5,208",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,268",
+            "forks": "6,561",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "谷歌云上生成式人工智能的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud",
+            "stars": "4,661",
+            "forks": "1,033",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,826",
+            "forks": "82,703",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用一个开源培训库轻松培训或微调SOTA计算机视觉模型。Yolo-Nas的故乡。",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,166",
+            "forks": "461",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "4,543",
+            "forks": "639",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "6,834",
+            "forks": "6,376",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "20,804",
+            "forks": "4,408",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "所有Azure OpenAI样例的存储库，补充了OpenAI食谱。",
+            "url": "https://github.com/Azure-Samples/openai",
+            "name": "Azure-Samples /openai",
+            "description": "The repository for all Azure OpenAI Samples complementing the OpenAI cookbook.",
+            "stars": "791",
+            "forks": "266",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "编码",
+            "url": "https://github.com/Mouneshgouda/Coding",
+            "name": "Mouneshgouda /Coding",
+            "description": "Coding",
+            "stars": "19",
+            "forks": "19",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure机器学习示例，使用GitHub操作进行了测试。",
+            "url": "https://github.com/Azure/azureml-examples",
+            "name": "Azure /azureml-examples",
+            "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+            "stars": "1,456",
+            "forks": "1,165",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "来自我的YouTube频道的一组朗廷教程",
+            "url": "https://github.com/samwit/langchain-tutorials",
+            "name": "samwit /langchain-tutorials",
+            "description": "A set of LangChain Tutorials from my youtube channel",
+            "stars": "703",
+            "forks": "192",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "746",
+            "forks": "328",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "机器学习在计算流体力学中的应用",
+            "url": "https://github.com/AndreWeiner/ml-cfd-lecture",
+            "name": "AndreWeiner /ml-cfd-lecture",
+            "description": "Lecture material for machine learning applied to computational fluid mechanics",
+            "stars": "169",
+            "forks": "81",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "TensorFlow示例",
+            "url": "https://github.com/tensorflow/examples",
+            "name": "tensorflow /examples",
+            "description": "TensorFlow examples",
+            "stars": "7,626",
+            "forks": "7,371",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
