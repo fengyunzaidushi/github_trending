@@ -2538,3 +2538,257 @@
         }
     ]
 }
+{
+    "02月10日": [
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,375",
+            "forks": "773",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "外卖手机应用程序",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react-native",
+            "name": "rocketseat-education /nlw-expert-react-native",
+            "description": "A food delivery mobile app",
+            "stars": "79",
+            "forks": "39",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用Node.js构建的实时投票系统",
+            "url": "https://github.com/rocketseat-education/nlw-expert-nodejs",
+            "name": "rocketseat-education /nlw-expert-nodejs",
+            "description": "Real-time voting system built with Node.js",
+            "stars": "134",
+            "forks": "54",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用Reaction自动将音频备注转换为文本",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react",
+            "name": "rocketseat-education /nlw-expert-react",
+            "description": "Automatic convert audio notes to text with React",
+            "stars": "179",
+            "forks": "51",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "该资源库用于积极开发Azure SDK for JavaScript(NodeJS&Browser)。对于SDK的消费者，我们建议访问我们的公共开发人员文档athttps://docs.microsoft.com/javascript/azure/or我们的版本开发人员文档，网址为https://azure.github.io/azure-sdk-for-js.",
+            "url": "https://github.com/Azure/azure-sdk-for-js",
+            "name": "Azure /azure-sdk-for-js",
+            "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/javascript/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-js.",
+            "stars": "1,876",
+            "forks": "1,141",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "也许：开源个人理财应用🚨注意：不再维护这个代码库",
+            "url": "https://github.com/maybe-finance/maybe-archive",
+            "name": "maybe-finance /maybe-archive",
+            "description": "Maybe: Open-source personal finance app🚨 NOTE: This codebase is no longer being maintained",
+            "stars": "160",
+            "forks": "58",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放平台",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open platform for building developer portals",
+            "stars": "25,358",
+            "forks": "5,113",
+            "language": "TypeScript",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "LeapHeadshot AI-使用AI的专业头像介绍Headshot AI，这是👨‍💼AI的一个开源项目，可以在几分钟内生成专业的AI头像",
+            "url": "https://github.com/leap-ai/headshots-starter",
+            "name": "leap-ai /headshots-starter",
+            "description": "👨‍💼 Headshot AI - Professional Headshots with AIIntroducing Headshot AI, an open-source project from Leap AI that generates Professional AI Headshots in minutes",
+            "stars": "3,108",
+            "forks": "460",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "虫洞区块链互操作性协议的参考实现。",
+            "url": "https://github.com/wormhole-foundation/wormhole",
+            "name": "wormhole-foundation /wormhole",
+            "description": "A reference implementation for the Wormhole blockchain interoperability protocol.",
+            "stars": "1,389",
+            "forks": "561",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🤖用于Reaction(和Friends)的全类型安全路由器，具有内置缓存、一级搜索参数API、客户端缓存集成和同构渲染。",
+            "url": "https://github.com/TanStack/router",
+            "name": "TanStack /router",
+            "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+            "stars": "6,503",
+            "forks": "416",
+            "language": "TypeScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "10,951",
+            "forks": "3,650",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "基于OpenAPI规范生成类型脚本或Java脚本客户端的NodeJS库",
+            "url": "https://github.com/ferdikoomen/openapi-typescript-codegen",
+            "name": "ferdikoomen /openapi-typescript-codegen",
+            "description": "NodeJS library that generates Typescript or Javascript clients based on the OpenAPI specification",
+            "stars": "2,392",
+            "forks": "528",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "725",
+            "forks": "263",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Bitwarden客户端应用程序(Web、浏览器扩展、桌面和CLI)",
+            "url": "https://github.com/bitwarden/clients",
+            "name": "bitwarden /clients",
+            "description": "Bitwarden client applications (web, browser extension, desktop, and cli)",
+            "stars": "7,918",
+            "forks": "1,060",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用于Kubernetes的机器学习工具包",
+            "url": "https://github.com/kubeflow/kubeflow",
+            "name": "kubeflow /kubeflow",
+            "description": "Machine Learning Toolkit for Kubernetes",
+            "stars": "13,410",
+            "forks": "2,268",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "106,612",
+            "forks": "13,700",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "24,669",
+            "forks": "3,470",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "帮助您构建自适应、可访问和强大的用户体验的库和工具的集合。",
+            "url": "https://github.com/adobe/react-spectrum",
+            "name": "adobe /react-spectrum",
+            "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "stars": "10,986",
+            "forks": "901",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "38,337",
+            "forks": "4,581",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "由Azure开放AI服务支持的🤖💼Azure聊天解决方案加速器",
+            "url": "https://github.com/microsoft/azurechat",
+            "name": "microsoft /azurechat",
+            "description": "🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service",
+            "stars": "904",
+            "forks": "633",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "构建管理面板、内部工具和仪表板的平台。与25个以上的数据库和任何API集成。",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "name": "appsmithorg /appsmith",
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "stars": "30,639",
+            "forks": "3,316",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "59,185",
+            "forks": "11,614",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "适用于JS的Microsoft验证库(MSAL)",
+            "url": "https://github.com/AzureAD/microsoft-authentication-library-for-js",
+            "name": "AzureAD /microsoft-authentication-library-for-js",
+            "description": "Microsoft Authentication Library (MSAL) for JS",
+            "stars": "3,354",
+            "forks": "2,610",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "在几分钟内构建交互式仪表板。",
+            "url": "https://github.com/gridstack/gridstack.js",
+            "name": "gridstack /gridstack.js",
+            "description": "Build interactive dashboards in minutes.",
+            "stars": "5,710",
+            "forks": "1,238",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "38,253",
+            "forks": "9,844",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        }
+    ]
+}

@@ -12190,3 +12190,257 @@
         }
     ]
 }
+{
+    "02月10日": [
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,135",
+            "forks": "391",
+            "language": "Python",
+            "stars_today": "1,587 stars this month"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "7,089",
+            "forks": "763",
+            "language": "Python",
+            "stars_today": "3,499 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "575",
+            "forks": "169",
+            "language": "Python",
+            "stars_today": "435 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/KillianLucas/open-interpreter",
+            "name": "KillianLucas /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "40,130",
+            "forks": "3,526",
+            "language": "Python",
+            "stars_today": "3,749 stars this month"
+        },
+        {
+            "zh_des": "一个面向nerf的协作友好的工作室",
+            "url": "https://github.com/nerfstudio-project/nerfstudio",
+            "name": "nerfstudio-project /nerfstudio",
+            "description": "A collaboration friendly studio for NeRFs",
+            "stars": "7,983",
+            "forks": "1,023",
+            "language": "Python",
+            "stars_today": "590 stars this month"
+        },
+        {
+            "zh_des": "12306智能刷票，订票",
+            "url": "https://github.com/testerSunshine/12306",
+            "name": "testerSunshine /12306",
+            "description": "12306智能刷票，订票",
+            "stars": "33,424",
+            "forks": "9,847",
+            "language": "Python",
+            "stars_today": "423 stars this month"
+        },
+        {
+            "zh_des": "为了加快LLMS的推理速度并增强LLM对关键信息的感知，对Prompt和KV-Cache进行了压缩，在最小性能损失的情况下实现了高达20倍的压缩。",
+            "url": "https://github.com/microsoft/LLMLingua",
+            "name": "microsoft /LLMLingua",
+            "description": "To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.",
+            "stars": "2,772",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "1,102 stars this month"
+        },
+        {
+            "zh_des": "用于验收测试和RPA的通用自动化框架",
+            "url": "https://github.com/robotframework/robotframework",
+            "name": "robotframework /robotframework",
+            "description": "Generic automation framework for acceptance testing and RPA",
+            "stars": "8,767",
+            "forks": "2,237",
+            "language": "Python",
+            "stars_today": "150 stars this month"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "4,195",
+            "forks": "697",
+            "language": "Python",
+            "stars_today": "806 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "3,950",
+            "forks": "323",
+            "language": "Python",
+            "stars_today": "3,598 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,319",
+            "forks": "1,383",
+            "language": "Python",
+            "stars_today": "1,443 stars this month"
+        },
+        {
+            "zh_des": "用于合并预先训练的大型语言模型的工具。",
+            "url": "https://github.com/arcee-ai/mergekit",
+            "name": "arcee-ai /mergekit",
+            "description": "Tools for merging pretrained large language models.",
+            "stars": "2,156",
+            "forks": "171",
+            "language": "Python",
+            "stars_today": "986 stars this month"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "33,936",
+            "forks": "2,217",
+            "language": "Python",
+            "stars_today": "1,723 stars this month"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "33,444",
+            "forks": "13,478",
+            "language": "Python",
+            "stars_today": "507 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,688",
+            "forks": "1,447",
+            "language": "Python",
+            "stars_today": "1,438 stars this month"
+        },
+        {
+            "zh_des": "机器学习工程开放读物",
+            "url": "https://github.com/stas00/ml-engineering",
+            "name": "stas00 /ml-engineering",
+            "description": "Machine Learning Engineering Open Book",
+            "stars": "7,644",
+            "forks": "440",
+            "language": "Python",
+            "stars_today": "3,451 stars this month"
+        },
+        {
+            "zh_des": "泄露的GPTS提示绕过25条消息限制，或者在没有Plus订阅的情况下尝试GPTS。",
+            "url": "https://github.com/friuns2/Leaked-GPTs",
+            "name": "friuns2 /Leaked-GPTs",
+            "description": "Leaked GPTs Prompts Bypass the 25 message limit or to try out GPTs without a Plus subscription.",
+            "stars": "1,377",
+            "forks": "249",
+            "language": "Python",
+            "stars_today": "984 stars this month"
+        },
+        {
+            "zh_des": "GFPGAN旨在开发实用的真实人脸恢复算法。",
+            "url": "https://github.com/TencentARC/GFPGAN",
+            "name": "TencentARC /GFPGAN",
+            "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+            "stars": "33,938",
+            "forks": "5,709",
+            "language": "Python",
+            "stars_today": "619 stars this month"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "61,704",
+            "forks": "13,382",
+            "language": "Python",
+            "stars_today": "1,529 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "67,231",
+            "forks": "27,281",
+            "language": "Python",
+            "stars_today": "1,894 stars this month"
+        },
+        {
+            "zh_des": "SpiderFoot自动执行OSINT，提供威胁情报和绘制攻击面。",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "name": "smicallef /spiderfoot",
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "stars": "11,178",
+            "forks": "2,074",
+            "language": "Python",
+            "stars_today": "259 stars this month"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "278,863",
+            "forks": "31,310",
+            "language": "Python",
+            "stars_today": "5,031 stars this month"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "245,733",
+            "forks": "42,635",
+            "language": "Python",
+            "stars_today": "4,203 stars this month"
+        },
+        {
+            "zh_des": "密集检索和增强检索的LLMS",
+            "url": "https://github.com/FlagOpen/FlagEmbedding",
+            "name": "FlagOpen /FlagEmbedding",
+            "description": "Dense Retrieval and Retrieval-augmented LLMs",
+            "stars": "3,433",
+            "forks": "219",
+            "language": "Python",
+            "stars_today": "947 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,147",
+            "forks": "2,383",
+            "language": "Python",
+            "stars_today": "467 stars this month"
+        }
+    ]
+}
