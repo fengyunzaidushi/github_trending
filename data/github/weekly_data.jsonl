@@ -12952,3 +12952,257 @@
         }
     ]
 }
+{
+    "02月10日": [
+        {
+            "zh_des": "OLMO的建模、培训、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "2,819",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "2,043 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-2B：端侧LLM的性能优于Llama2-13B。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+            "stars": "2,640",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "1,884 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI.",
+            "stars": "5,028",
+            "forks": "398",
+            "language": "Python",
+            "stars_today": "2,238 stars this week"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,360",
+            "forks": "2,389",
+            "language": "Python",
+            "stars_today": "472 stars this week"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,300",
+            "forks": "24,031",
+            "language": "Python",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,706",
+            "forks": "1,451",
+            "language": "Python",
+            "stars_today": "475 stars this week"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易学，编码速度快，可投入生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "68,025",
+            "forks": "5,763",
+            "language": "Python",
+            "stars_today": "410 stars this week"
+        },
+        {
+            "zh_des": "适用于Python的数据应用和仪表板。不需要任何Java脚本。",
+            "url": "https://github.com/plotly/dash",
+            "name": "plotly /dash",
+            "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+            "stars": "20,073",
+            "forks": "2,041",
+            "language": "Python",
+            "stars_today": "53 stars this week"
+        },
+        {
+            "zh_des": "最佳DDoS攻击脚本Python3，(Cyber/DDoS)攻击，共56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "10,676",
+            "forks": "2,408",
+            "language": "Python",
+            "stars_today": "306 stars this week"
+        },
+        {
+            "zh_des": "移动代理：具有视觉感知的自主多通道移动设备代理",
+            "url": "https://github.com/X-PLUG/MobileAgent",
+            "name": "X-PLUG /MobileAgent",
+            "description": "Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception",
+            "stars": "1,164",
+            "forks": "112",
+            "language": "Python",
+            "stars_today": "789 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "67,254",
+            "forks": "27,294",
+            "language": "Python",
+            "stars_today": "1,018 stars this week"
+        },
+        {
+            "zh_des": "图雅智能生活家居助手集成",
+            "url": "https://github.com/tuya/tuya-smart-life",
+            "name": "tuya /tuya-smart-life",
+            "description": "Tuya Smart Life Home Assistant Integration",
+            "stars": "255",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "93 stars this week"
+        },
+        {
+            "zh_des": "由Sota AI Model提供支持的图像修复工具。从你的图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换(由稳定扩散提供动力)图片上的任何东西。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "15,763",
+            "forks": "1,584",
+            "language": "Python",
+            "stars_today": "758 stars this week"
+        },
+        {
+            "zh_des": "InstantID：秒级身份保持零生成🔥",
+            "url": "https://github.com/InstantID/InstantID",
+            "name": "InstantID /InstantID",
+            "description": "InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥",
+            "stars": "7,327",
+            "forks": "461",
+            "language": "Python",
+            "stars_today": "1,656 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,154",
+            "forks": "392",
+            "language": "Python",
+            "stars_today": "446 stars this week"
+        },
+        {
+            "zh_des": "大型视觉语言模型的专家混合",
+            "url": "https://github.com/PKU-YuanGroup/MoE-LLaVA",
+            "name": "PKU-YuanGroup /MoE-LLaVA",
+            "description": "Mixture-of-Experts for Large Vision-Language Models",
+            "stars": "1,123",
+            "forks": "64",
+            "language": "Python",
+            "stars_today": "353 stars this week"
+        },
+        {
+            "zh_des": "GPT Newspor欢迎使用GPT报纸项目，这是一个创新的自主代理，旨在创建根据用户偏好定制的个性化报纸",
+            "url": "https://github.com/assafelovic/gpt-newspaper",
+            "name": "assafelovic /gpt-newspaper",
+            "description": "GPT NewspaperWelcome to the GPT Newspaper project, an innovative autonomous agent designed to create personalized newspapers tailored to user preferences",
+            "stars": "744",
+            "forks": "78",
+            "language": "Python",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "SUPIR致力于开发实用的野外照片真实感图像恢复算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "1,008",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "319 stars this week"
+        },
+        {
+            "zh_des": "广泛的节点套件，使ComfyUI能够使用尖端算法(3DGS、NERF等)处理3D输入(网格和UV纹理等)",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "414",
+            "forks": "27",
+            "language": "Python",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "基于巨蟒的网页自动化工具.既能控制浏览器，也能收发数据包.可兼顾浏览器自动化的便利性和请求的高效率。功能强大，内置无数人性化设计和便捷功能.语法简洁而优雅，代码量少.",
+            "url": "https://github.com/g1879/DrissionPage",
+            "name": "g1879 /DrissionPage",
+            "description": "基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。",
+            "stars": "3,865",
+            "forks": "379",
+            "language": "Python",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "这个自动博客作者使用GPT助手的API在电子商务网站上自动写博客",
+            "url": "https://github.com/IncomeStreamSurfer/chatgptassistantautoblogger",
+            "name": "IncomeStreamSurfer /chatgptassistantautoblogger",
+            "description": "This autoblogger uses the GPT assistant's API to autoblog on ecommerce websites",
+            "stars": "230",
+            "forks": "148",
+            "language": "Python",
+            "stars_today": "90 stars this week"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "3,971",
+            "forks": "7,003",
+            "language": "Python",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,128",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "674 stars this week"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "4,748",
+            "forks": "2,890",
+            "language": "Python",
+            "stars_today": "72 stars this week"
+        },
+        {
+            "zh_des": "为有最后期限的完美主义者准备的Web框架。",
+            "url": "https://github.com/django/django",
+            "name": "django /django",
+            "description": "The Web framework for perfectionists with deadlines.",
+            "stars": "75,473",
+            "forks": "30,946",
+            "language": "Python",
+            "stars_today": "159 stars this week"
+        }
+    ]
+}

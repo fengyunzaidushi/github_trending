@@ -2792,3 +2792,257 @@
         }
     ]
 }
+{
+    "02月10日": [
+        {
+            "zh_des": "使用Reaction自动将音频备注转换为文本",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react",
+            "name": "rocketseat-education /nlw-expert-react",
+            "description": "Automatic convert audio notes to text with React",
+            "stars": "223",
+            "forks": "54",
+            "language": "TypeScript",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "用Node.js构建的实时投票系统",
+            "url": "https://github.com/rocketseat-education/nlw-expert-nodejs",
+            "name": "rocketseat-education /nlw-expert-nodejs",
+            "description": "Real-time voting system built with Node.js",
+            "stars": "147",
+            "forks": "56",
+            "language": "TypeScript",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,355",
+            "forks": "366",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,392",
+            "forks": "774",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "快速、轻便、符合Web标准",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Fast, Lightweight, Web-standards",
+            "stars": "11,345",
+            "forks": "305",
+            "language": "TypeScript",
+            "stars_today": "326 stars today"
+        },
+        {
+            "zh_des": "外卖手机应用程序",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react-native",
+            "name": "rocketseat-education /nlw-expert-react-native",
+            "description": "A food delivery mobile app",
+            "stars": "90",
+            "forks": "40",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Vercel",
+            "url": "https://github.com/hkirat/vercel",
+            "name": "hkirat /vercel",
+            "description": "vercel",
+            "stars": "36",
+            "forks": "12",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "无限红经过战斗测试的反应原生项目样板，以及CLI、组件/模型生成器等！",
+            "url": "https://github.com/infinitered/ignite",
+            "name": "infinitered /ignite",
+            "description": "Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!",
+            "stars": "16,291",
+            "forks": "1,358",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "10,953",
+            "forks": "3,650",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "20,335",
+            "forks": "10,297",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "使用CodeSandbox创建",
+            "url": "https://github.com/dikshikaaa/Valentines-Day",
+            "name": "dikshikaaa /Valentines-Day",
+            "description": "Created with CodeSandbox",
+            "stars": "18",
+            "forks": "90",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "帮助您构建自适应、可访问和强大的用户体验的库和工具的集合。",
+            "url": "https://github.com/adobe/react-spectrum",
+            "name": "adobe /react-spectrum",
+            "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "stars": "10,993",
+            "forks": "904",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于常规提交的自动释放",
+            "url": "https://github.com/google-github-actions/release-please-action",
+            "name": "google-github-actions /release-please-action",
+            "description": "automated releases based on conventional commits",
+            "stars": "1,280",
+            "forks": "177",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于构建分布式、实时协作Web应用程序的库",
+            "url": "https://github.com/microsoft/FluidFramework",
+            "name": "microsoft /FluidFramework",
+            "description": "Library for building distributed, real-time collaborative web applications",
+            "stars": "4,585",
+            "forks": "513",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Storybook是一个前端研讨会，用于单独构建UI组件和页面。专为用户界面开发、测试和文档而设计。",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+            "stars": "81,793",
+            "forks": "9,065",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "梅芯：即用即用的基础Reaction组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "90,677",
+            "forks": "31,333",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "为iOS、安卓和网络⚡️构建跨平台的原生渐进式网络应用",
+            "url": "https://github.com/ionic-team/capacitor",
+            "name": "ionic-team /capacitor",
+            "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+            "stars": "10,779",
+            "forks": "941",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "🔥具有全功能嵌入式通知中心🚀🚀🚀的开源通知基础设施",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀",
+            "stars": "31,791",
+            "forks": "3,381",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Bitwarden客户端应用程序(Web、浏览器扩展、桌面和CLI)",
+            "url": "https://github.com/bitwarden/clients",
+            "name": "bitwarden /clients",
+            "description": "Bitwarden client applications (web, browser extension, desktop, and cli)",
+            "stars": "7,921",
+            "forks": "1,059",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一款支付应用程序，用于演示Cypress测试方法、模式和工作流程的真实使用情况。",
+            "url": "https://github.com/cypress-io/cypress-realworld-app",
+            "name": "cypress-io /cypress-realworld-app",
+            "description": "A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.",
+            "stars": "5,081",
+            "forks": "1,945",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "零运行时样式表-输入脚本",
+            "url": "https://github.com/vanilla-extract-css/vanilla-extract",
+            "name": "vanilla-extract-css /vanilla-extract",
+            "description": "Zero-runtime Stylesheets-in-TypeScript",
+            "stars": "9,099",
+            "forks": "258",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Reaction本机日历组件🗓️📆",
+            "url": "https://github.com/wix/react-native-calendars",
+            "name": "wix /react-native-calendars",
+            "description": "React Native Calendar Components 🗓️ 📆",
+            "stars": "9,021",
+            "forks": "2,862",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "反应本机跨平台WebView",
+            "url": "https://github.com/react-native-webview/react-native-webview",
+            "name": "react-native-webview /react-native-webview",
+            "description": "React Native Cross-Platform WebView",
+            "stars": "6,088",
+            "forks": "2,903",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "启动完整堆栈、类型安全的Next.js应用程序的最佳方式",
+            "url": "https://github.com/t3-oss/create-t3-app",
+            "name": "t3-oss /create-t3-app",
+            "description": "The best way to start a full-stack, typesafe Next.js app",
+            "stars": "22,331",
+            "forks": "995",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "针对浏览器和Node.js的无缝REST/GraphQL API模拟库。",
+            "url": "https://github.com/mswjs/msw",
+            "name": "mswjs /msw",
+            "description": "Seamless REST/GraphQL API mocking library for browser and Node.js.",
+            "stars": "14,363",
+            "forks": "447",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
