@@ -15586,3 +15586,257 @@
         }
     ]
 }
+{
+    "02月11日": [
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "6,688",
+            "forks": "793",
+            "language": "Python",
+            "stars_today": "1,623 stars today"
+        },
+        {
+            "zh_des": "本地化",
+            "url": "https://github.com/GoogleCloudPlatform/localllm",
+            "name": "GoogleCloudPlatform /localllm",
+            "description": "localllm",
+            "stars": "1,129",
+            "forks": "91",
+            "language": "Python",
+            "stars_today": "493 stars today"
+        },
+        {
+            "zh_des": "带KVM后端的VirtualBox",
+            "url": "https://github.com/cyberus-technology/virtualbox-kvm",
+            "name": "cyberus-technology /virtualbox-kvm",
+            "description": "VirtualBox with KVM Backend",
+            "stars": "546",
+            "forks": "49",
+            "language": "C",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "通过多模态大型语言模型进行基于指导说明的图像编辑sgit clone this repo此repo包含通过多模态大型语言模型进行基于指导说明的图像编辑的代码（ICLR'24 Spotlight）MGIE是 \n“通过多模态大语言模型指导基于教学的图像编辑” \n傅祖瑞，胡文泽，杜贤智，王扬，杨音飞，甘哲 \n基于指令的图像编辑通过自然的命令提高了图像操作的可控性和灵活性，而无需详细的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "2,887",
+            "forks": "199",
+            "language": "Python",
+            "stars_today": "348 stars today"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "928",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "通知ERC 404",
+            "url": "https://github.com/0xacme/ERC404",
+            "name": "0xacme /ERC404",
+            "description": "NOTICEERC404",
+            "stars": "365",
+            "forks": "200",
+            "language": "Solidity",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "LLRT（Low Latency Runtime）是一个实验性的轻量级JavaScript运行时，旨在满足对快速高效的无服务器应用程序日益增长的需求。",
+            "url": "https://github.com/awslabs/llrt",
+            "name": "awslabs /llrt",
+            "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "stars": "2,936",
+            "forks": "69",
+            "language": "JavaScript",
+            "stars_today": "859 stars today"
+        },
+        {
+            "zh_des": "一个SaaS、PaaS和IaaS产品列表，这些产品具有Devops和Infradev感兴趣的免费层",
+            "url": "https://github.com/jixserver/free-for-dev",
+            "name": "jixserver /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "1,714",
+            "forks": "268",
+            "language": "",
+            "stars_today": "220 stars today"
+        },
+        {
+            "zh_des": "一个SaaS、PaaS和IaaS产品列表，这些产品具有Devops和Infradev感兴趣的免费层",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "79,893",
+            "forks": "8,749",
+            "language": "HTML",
+            "stars_today": "310 stars today"
+        },
+        {
+            "zh_des": "一个一站式的知识库，用于生成AI研究更新，采访资源，笔记本等等！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "331",
+            "forks": "57",
+            "language": "",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "类人情感TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, emotive TTS",
+            "stars": "1,489",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "341 stars today"
+        },
+        {
+            "zh_des": "收集于互联网的一些高清直播源。",
+            "url": "https://github.com/YueChan/Live",
+            "name": "YueChan /Live",
+            "description": "收集于互联网的一些高清直播源。",
+            "stars": "2,641",
+            "forks": "255",
+            "language": "",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "Huly平台-用于线性/Jira、Slack、Notion、Motion等的一体化替代品",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+            "stars": "601",
+            "forks": "72",
+            "language": "Svelte",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "一个广泛的节点套件，使ComfyUI能够使用尖端算法（3DGS，NeRF等）处理3D输入（网格和UV纹理等）。",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "473",
+            "forks": "53",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "使用纯文本投掷、运行和测试HTTP请求。",
+            "url": "https://github.com/Orange-OpenSource/hurl",
+            "name": "Orange-OpenSource /hurl",
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "stars": "7,972",
+            "forks": "252",
+            "language": "Rust",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "在本地使用Llama 2、Mistral和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, and other large language models locally.",
+            "stars": "36,573",
+            "forks": "2,420",
+            "language": "Go",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "使用React自动将音频注释转换为文本",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react",
+            "name": "rocketseat-education /nlw-expert-react",
+            "description": "Automatic convert audio notes to text with React",
+            "stars": "278",
+            "forks": "71",
+            "language": "TypeScript",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "NOTICEERC 404此存储库已不再有效维护",
+            "url": "https://github.com/Pandora-Labs-Org/erc404-legacy",
+            "name": "Pandora-Labs-Org /erc404-legacy",
+            "description": "NOTICEERC404This repository is no longer being actively maintained",
+            "stars": "55",
+            "forks": "31",
+            "language": "Solidity",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM可为整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,069",
+            "forks": "2,730",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的Python解释器",
+            "url": "https://github.com/RustPython/RustPython",
+            "name": "RustPython /RustPython",
+            "description": "A Python Interpreter written in Rust",
+            "stars": "16,901",
+            "forks": "1,206",
+            "language": "Rust",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "Repositório da 2ª edição da Rinha de Backend",
+            "url": "https://github.com/zanfranceschi/rinha-de-backend-2024-q1",
+            "name": "zanfranceschi /rinha-de-backend-2024-q1",
+            "description": "Repositório da 2ª edição da Rinha de Backend",
+            "stars": "1,022",
+            "forks": "341",
+            "language": "PLpgSQL",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "🦁Leo编程语言一种用于形式验证、零知识应用的程序设计语言",
+            "url": "https://github.com/AleoHQ/leo",
+            "name": "AleoHQ /leo",
+            "description": "🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+            "stars": "4,311",
+            "forks": "711",
+            "language": "Rust",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "JavaScript和TypeScript的现代运行时。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "92,231",
+            "forks": "5,230",
+            "language": "Rust",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用代码设计电路板！软件已经找到了令人难以置信的有效方法来重用，配置，验证和共享工作。我们也希望这是硬件！从电子产品开始",
+            "url": "https://github.com/atopile/atopile",
+            "name": "atopile /atopile",
+            "description": "Design circuit boards with code! Software has worked out incredibly potent ways to reuse, configure, validate and share work. We want that for hardware too! Starting with electronics",
+            "stars": "1,247",
+            "forks": "98",
+            "language": "Python",
+            "stars_today": "208 stars today"
+        },
+        {
+            "zh_des": "Proxmox VE辅助工具",
+            "url": "https://github.com/tteck/Proxmox",
+            "name": "tteck /Proxmox",
+            "description": "Proxmox VE Helper-Scripts",
+            "stars": "8,301",
+            "forks": "1,358",
+            "language": "Shell",
+            "stars_today": "30 stars today"
+        }
+    ]
+}

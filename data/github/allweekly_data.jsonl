@@ -12952,3 +12952,257 @@
         }
     ]
 }
+{
+    "02月11日": [
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "16,363",
+            "forks": "1,556",
+            "language": "C",
+            "stars_today": "10,192 stars this week"
+        },
+        {
+            "zh_des": "OLMO的建模、培训、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "2,830",
+            "forks": "232",
+            "language": "Python",
+            "stars_today": "1,996 stars this week"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "21,892",
+            "forks": "1,627",
+            "language": "Ruby",
+            "stars_today": "7,930 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-2B：端侧LLM的性能优于Llama2-13B。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+            "stars": "2,659",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "1,581 stars this week"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "24,398",
+            "forks": "1,789",
+            "language": "Go",
+            "stars_today": "1,306 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI.",
+            "stars": "5,078",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "1,380 stars this week"
+        },
+        {
+            "zh_des": "SeaweedFS是一个快速的分布式存储系统，用于存储BLOB、对象、文件和数据湖，存储数十亿个文件！BLOB存储有O(1)个磁盘寻道、云分层。Filer支持云硬盘、跨DC主动-主动复制、Kubernetes、POSIX熔丝挂载、S3 API、S3网关、Hadoop、WebDAV、加密、擦除编码。",
+            "url": "https://github.com/seaweedfs/seaweedfs",
+            "name": "seaweedfs /seaweedfs",
+            "description": "SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.",
+            "stars": "20,326",
+            "forks": "2,145",
+            "language": "Go",
+            "stars_today": "559 stars this week"
+        },
+        {
+            "zh_des": "使用Nextjs14的SaaS网站生成器、项目管理和控制面板使用Nextjs14、Bun、Stiped Connect、Prisma、MySQL、TailwinLicense：非商业用途",
+            "url": "https://github.com/webprodigies/plura-production",
+            "name": "webprodigies /plura-production",
+            "description": "SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, TailwindLicense: Not for commercial purpose",
+            "stars": "695",
+            "forks": "333",
+            "language": "TypeScript",
+            "stars_today": "298 stars this week"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,364",
+            "forks": "2,975",
+            "language": "C++",
+            "stars_today": "292 stars this week"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,364",
+            "forks": "2,389",
+            "language": "Python",
+            "stars_today": "487 stars this week"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "7,877",
+            "forks": "514",
+            "language": "TypeScript",
+            "stars_today": "1,015 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,361",
+            "forks": "366",
+            "language": "TypeScript",
+            "stars_today": "94 stars this week"
+        },
+        {
+            "zh_des": "代理Discorde-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型",
+            "url": "https://github.com/deanxv/coze-discord-proxy",
+            "name": "deanxv /coze-discord-proxy",
+            "description": "代理Discord-Bot对话Coze-Bot，实现API形式请求GPT4对话模型/微调模型",
+            "stars": "1,087",
+            "forks": "309",
+            "language": "Go",
+            "stars_today": "454 stars this week"
+        },
+        {
+            "zh_des": "Readmeen https://t-中文Сообщество",
+            "url": "https://github.com/TrueCarry/JettonGramGpuMiner",
+            "name": "TrueCarry /JettonGramGpuMiner",
+            "description": "READMEEN中文Сообщество - https://t",
+            "stars": "98",
+            "forks": "54",
+            "language": "JavaScript",
+            "stars_today": "34 stars this week"
+        },
+        {
+            "zh_des": "为链提供元数据",
+            "url": "https://github.com/ethereum-lists/chains",
+            "name": "ethereum-lists /chains",
+            "description": "provides metadata for chains",
+            "stars": "7,574",
+            "forks": "5,925",
+            "language": "Kotlin",
+            "stars_today": "163 stars this week"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "63,048",
+            "forks": "13,155",
+            "language": "JavaScript",
+            "stars_today": "160 stars this week"
+        },
+        {
+            "zh_des": "OpenGPTS",
+            "url": "https://github.com/langchain-ai/opengpts",
+            "name": "langchain-ai /opengpts",
+            "description": "OpenGPTs",
+            "stars": "5,542",
+            "forks": "695",
+            "language": "Rich Text Format",
+            "stars_today": "121 stars this week"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,308",
+            "forks": "24,032",
+            "language": "Python",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "Hyprland是一个高度可定制的动态平铺Wayland合成器，不会牺牲它的外观。",
+            "url": "https://github.com/hyprwm/Hyprland",
+            "name": "hyprwm /Hyprland",
+            "description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+            "stars": "14,280",
+            "forks": "552",
+            "language": "C++",
+            "stars_today": "265 stars this week"
+        },
+        {
+            "zh_des": "最先进的前端拖放页面构建器。以创纪录的速度创建高端、像素完美的网站。任何主题，任何页面，任何设计。",
+            "url": "https://github.com/elementor/elementor",
+            "name": "elementor /elementor",
+            "description": "The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.",
+            "stars": "6,097",
+            "forks": "1,379",
+            "language": "JavaScript",
+            "stars_today": "79 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,711",
+            "forks": "1,452",
+            "language": "Python",
+            "stars_today": "414 stars this week"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易学，编码速度快，可投入生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "68,044",
+            "forks": "5,764",
+            "language": "Python",
+            "stars_today": "407 stars this week"
+        },
+        {
+            "zh_des": "一种新的基于标记的排版系统，功能强大，易于学习。",
+            "url": "https://github.com/typst/typst",
+            "name": "typst /typst",
+            "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+            "stars": "25,972",
+            "forks": "673",
+            "language": "Rust",
+            "stars_today": "434 stars this week"
+        },
+        {
+            "zh_des": "这是谷歌Android团队使用的Rust课程。它为您提供了快速教授铁锈的材料。",
+            "url": "https://github.com/google/comprehensive-rust",
+            "name": "google /comprehensive-rust",
+            "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+            "stars": "24,264",
+            "forks": "1,477",
+            "language": "Rust",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "28,024",
+            "forks": "928",
+            "language": "TypeScript",
+            "stars_today": "99 stars this week"
+        }
+    ]
+}
