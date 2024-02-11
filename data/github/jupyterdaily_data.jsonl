@@ -3300,3 +3300,257 @@
         }
     ]
 }
+{
+    "02月11日": [
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,073",
+            "forks": "2,731",
+            "language": "Jupyter Notebook",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "16,792",
+            "forks": "2,135",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,218",
+            "forks": "7,817",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "注重质量的多语音TTS系统",
+            "url": "https://github.com/neonbjb/tortoise-tts",
+            "name": "neonbjb /tortoise-tts",
+            "description": "A multi-voice TTS system trained with an emphasis on quality",
+            "stars": "10,950",
+            "forks": "1,583",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "算法交易的机器学习代码，第2版。",
+            "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+            "name": "stefan-jansen /machine-learning-for-trading",
+            "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+            "stars": "11,303",
+            "forks": "3,887",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "7,313",
+            "forks": "942",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "2,351",
+            "forks": "1,590",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "又名“黑客的贝叶斯方法”：介绍贝叶斯方法+概率编程，其中包含计算/理解--首先是数学--第二种观点。全部使用纯Python语言；)",
+            "url": "https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+            "name": "CamDavidsonPilon /Probabilistic-Programming-and-Bayesian-Methods-for-Hackers",
+            "description": "aka \"Bayesian Methods for Hackers\": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)",
+            "stars": "26,200",
+            "forks": "7,861",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,521",
+            "forks": "1,955",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Langchain LLM库教程",
+            "url": "https://github.com/codebasics/langchain",
+            "name": "codebasics /langchain",
+            "description": "Tutorial for langchain LLM library",
+            "stars": "48",
+            "forks": "89",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "100天的机器学习",
+            "url": "https://github.com/campusx-official/100-days-of-machine-learning",
+            "name": "campusx-official /100-days-of-machine-learning",
+            "description": "100-days-of-machine-learning",
+            "stars": "756",
+            "forks": "1,299",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一种高质量的动漫视频实时扩充器",
+            "url": "https://github.com/bloc97/Anime4K",
+            "name": "bloc97 /Anime4K",
+            "description": "A High-Quality Real Time Upscaler for Anime Video",
+            "stars": "17,477",
+            "forks": "1,349",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "20,875",
+            "forks": "4,427",
+            "language": "Jupyter Notebook",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "免费代码营-从Scratch依赖项构建https://download(假设Windows)：pip安装Pylzma Numpy ipycore jupyter torch--index-url LLM",
+            "url": "https://github.com/Infatoshi/fcc-intro-to-llms",
+            "name": "Infatoshi /fcc-intro-to-llms",
+            "description": "FreeCodeCamp - Building LLMs from ScratchDependencies (assuming windows): pip install pylzma numpy ipykernel jupyter torch --index-url https://download",
+            "stars": "320",
+            "forks": "146",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Fast.ai课程笔记本",
+            "url": "https://github.com/fastai/course22",
+            "name": "fastai /course22",
+            "description": "The fast.ai course notebooks",
+            "stars": "1,956",
+            "forks": "773",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "稳定扩散，SDXL，LORA培训，DreamBooth培训，Automatic1111 Web UI，DeepFake，Deep Fkes，TTS，动画，Text to Video，教程，指南，讲座，课程，ComfyUI，Google Colab，RunPod，笔记本，ControlNet，TTS，语音克隆，AI，AI News，ML，ML News，News，Tech，Tech News，Kohya Lora，Kandinsky 2，DeepFloyd IF，MidRoad",
+            "url": "https://github.com/FurkanGozukara/Stable-Diffusion",
+            "name": "FurkanGozukara /Stable-Diffusion",
+            "description": "Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney",
+            "stars": "1,546",
+            "forks": "191",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "LangChain공식文档、食谱、그밖의실용예제를바탕으로작성한한국어튜토리얼입니다。본튜토리얼을통해Lang Chain을더쉽고효과적으로사용하는방법을배울수있습니다.",
+            "url": "https://github.com/teddylee777/langchain-kr",
+            "name": "teddylee777 /langchain-kr",
+            "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+            "stars": "33",
+            "forks": "6",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "想想《数字信号处理》，艾伦·B·唐尼著。",
+            "url": "https://github.com/AllenDowney/ThinkDSP",
+            "name": "AllenDowney /ThinkDSP",
+            "description": "Think DSP: Digital Signal Processing in Python, by Allen B. Downey.",
+            "stars": "3,645",
+            "forks": "3,052",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "练习你的熊猫技能！",
+            "url": "https://github.com/guipsamora/pandas_exercises",
+            "name": "guipsamora /pandas_exercises",
+            "description": "Practice your pandas skills!",
+            "stars": "9,768",
+            "forks": "7,770",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "8,247",
+            "forks": "1,661",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "改编的fromhttps://note.com/kohya_ss/n/nbf7ce8d80f29for更易于克隆",
+            "url": "https://github.com/Linaqruf/kohya-trainer",
+            "name": "Linaqruf /kohya-trainer",
+            "description": "Adapted fromhttps://note.com/kohya_ss/n/nbf7ce8d80f29for easier cloning",
+            "stars": "1,705",
+            "forks": "255",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "TensorFlow示例",
+            "url": "https://github.com/tensorflow/examples",
+            "name": "tensorflow /examples",
+            "description": "TensorFlow examples",
+            "stars": "7,628",
+            "forks": "7,371",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "🔊文本提示生成性音频模型",
+            "url": "https://github.com/suno-ai/bark",
+            "name": "suno-ai /bark",
+            "description": "🔊 Text-Prompted Generative Audio Model",
+            "stars": "30,411",
+            "forks": "3,607",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "使用PEFT进行LLM微调",
+            "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+            "name": "ashishpatel26 /LLM-Finetuning",
+            "description": "LLM Finetuning with peft",
+            "stars": "1,021",
+            "forks": "318",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "机器学习在计算流体力学中的应用",
+            "url": "https://github.com/AndreWeiner/ml-cfd-lecture",
+            "name": "AndreWeiner /ml-cfd-lecture",
+            "description": "Lecture material for machine learning applied to computational fluid mechanics",
+            "stars": "174",
+            "forks": "84",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
