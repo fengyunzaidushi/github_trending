@@ -3554,3 +3554,257 @@
         }
     ]
 }
+{
+    "02月12日": [
+        {
+            "zh_des": "SubQuery是一个开放、灵活、快速和通用的Web3数据索引框架。我们的使命是帮助开发人员创建未来的去中心化产品。",
+            "url": "https://github.com/subquery/subql",
+            "name": "subquery /subql",
+            "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+            "stars": "13,690",
+            "forks": "244",
+            "language": "TypeScript",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "ProjectX旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/projectx",
+            "name": "projectx-codehagen /projectx",
+            "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "941",
+            "forks": "103",
+            "language": "TypeScript",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "构建LMS平台：下一步",
+            "url": "https://github.com/AntonioErdeljac/next13-lms-platform",
+            "name": "AntonioErdeljac /next13-lms-platform",
+            "description": "Build an LMS Platform: Next",
+            "stars": "630",
+            "forks": "282",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用Reaction自动将音频备注转换为文本",
+            "url": "https://github.com/rocketseat-education/nlw-expert-react",
+            "name": "rocketseat-education /nlw-expert-react",
+            "description": "Automatic convert audio notes to text with React",
+            "stars": "297",
+            "forks": "79",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "9,284",
+            "forks": "478",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "模型、文本倒排等内容的存储库",
+            "url": "https://github.com/civitai/civitai",
+            "name": "civitai /civitai",
+            "description": "A repository of models, textual inversions, and more",
+            "stars": "5,233",
+            "forks": "475",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用Node.js构建的实时投票系统",
+            "url": "https://github.com/rocketseat-education/nlw-expert-nodejs",
+            "name": "rocketseat-education /nlw-expert-nodejs",
+            "description": "Real-time voting system built with Node.js",
+            "stars": "166",
+            "forks": "64",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "736",
+            "forks": "269",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Arduino IDE 2.x",
+            "url": "https://github.com/arduino/arduino-ide",
+            "name": "arduino /arduino-ide",
+            "description": "Arduino IDE 2.x",
+            "stars": "1,924",
+            "forks": "337",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "155,832",
+            "forks": "28,243",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "🤖强大的异步状态管理、服务器状态实用程序和Web数据获取。TS/JS、Reaction查询、Solid Query、Svelte Query和Vue Query。",
+            "url": "https://github.com/TanStack/query",
+            "name": "TanStack /query",
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "stars": "38,439",
+            "forks": "2,568",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人类，顶点AI，Ollama，LLMS，您可以与用户分享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "27,888",
+            "forks": "3,191",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,425",
+            "forks": "778",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "快速、轻便、符合Web标准",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Fast, Lightweight, Web-standards",
+            "stars": "11,462",
+            "forks": "308",
+            "language": "TypeScript",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "11,377",
+            "forks": "482",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🚀准备运行的PRISMA示例项目",
+            "url": "https://github.com/prisma/prisma-examples",
+            "name": "prisma /prisma-examples",
+            "description": "🚀 Ready-to-run Prisma example projects",
+            "stars": "5,693",
+            "forks": "1,387",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "使用HTML5画布构建的高性能财务图表",
+            "url": "https://github.com/tradingview/lightweight-charts",
+            "name": "tradingview /lightweight-charts",
+            "description": "Performant financial charts built with HTML5 canvas",
+            "stars": "7,779",
+            "forks": "1,433",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用实时光标、Nextjs 13、条纹、毛雨ORM、TailWind、Supabase、Sockets构建SaaS应用程序|🟢全视频|🔴演示|\n\n|全视频|Demo|如果你想学习如何在今年通过网站赚钱，请免费加入社区！分享不和谐中的所有错误和解决方案",
+            "url": "https://github.com/webprodigies/webprodigies-cypress",
+            "name": "webprodigies /webprodigies-cypress",
+            "description": "Build a SaaS App with Realtime cursors, Nextjs 13, Stripe, Drizzle ORM, Tailwind, Supabase, Sockets| 🟢 Full Video | 🔴 Demo |\n|------------|------|\n| Full Video | Demo |Join the Community for FREE if you want to learn how to make money this year with websites! Share all bugs and solutions in the discord",
+            "stars": "344",
+            "forks": "107",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "免费和开源的AI图像升级器，适用于🆙、MacOS和Windows，构建于LinuxFirst。",
+            "url": "https://github.com/upscayl/upscayl",
+            "name": "upscayl /upscayl",
+            "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
+            "stars": "22,626",
+            "forks": "986",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "PAVER：一个Palworld保存Editora全面且可扩展的Palworld保存编辑器和报告工具，旨在与任何版本的Palworld V0一起使用",
+            "url": "https://github.com/adefee/paver-palworld-save-editor",
+            "name": "adefee /paver-palworld-save-editor",
+            "description": "Paver: A Palworld Save EditorA comprehensive and extensible save editor and reporting tool for Palworld, intended to work with any version of Palworld v0",
+            "stars": "23",
+            "forks": "6",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一个功能完善的打字特效系统，具有丰富的标准库",
+            "url": "https://github.com/Effect-TS/effect",
+            "name": "Effect-TS /effect",
+            "description": "A fully-fledged functional effect system for TypeScript with a rich standard library",
+            "stars": "3,368",
+            "forks": "121",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Medplum是一个医疗保健平台，可帮助您快速开发高质量的合规应用程序。",
+            "url": "https://github.com/medplum/medplum",
+            "name": "medplum /medplum",
+            "description": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
+            "stars": "1,041",
+            "forks": "240",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "全堆栈网格克隆：下一步",
+            "url": "https://github.com/AntonioErdeljac/next13-trello",
+            "name": "AntonioErdeljac /next13-trello",
+            "description": "Fullstack Trello Clone: Next",
+            "stars": "481",
+            "forks": "135",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "NestJS样板。Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。",
+            "url": "https://github.com/brocoders/nestjs-boilerplate",
+            "name": "brocoders /nestjs-boilerplate",
+            "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+            "stars": "1,963",
+            "forks": "423",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "自托管照片和视频备份解决方案，直接从您的手机。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+            "stars": "25,537",
+            "forks": "1,191",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        }
+    ]
+}

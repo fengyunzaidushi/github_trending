@@ -16094,3 +16094,257 @@
         }
     ]
 }
+{
+    "02月12日": [
+        {
+            "zh_des": "LLRT(Low Latency Runtime)是一个实验性的、轻量级的JavaScript运行时，旨在满足快速高效的无服务器应用程序日益增长的需求。",
+            "url": "https://github.com/awslabs/llrt",
+            "name": "awslabs /llrt",
+            "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "stars": "4,089",
+            "forks": "161",
+            "language": "JavaScript",
+            "stars_today": "583 stars today"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "1,540",
+            "forks": "170",
+            "language": "Python",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "SubQuery是一个开放、灵活、快速和通用的Web3数据索引框架。我们的使命是帮助开发人员创建未来的去中心化产品。",
+            "url": "https://github.com/subquery/subql",
+            "name": "subquery /subql",
+            "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+            "stars": "13,690",
+            "forks": "244",
+            "language": "TypeScript",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "1,750",
+            "forks": "216",
+            "language": "Python",
+            "stars_today": "243 stars today"
+        },
+        {
+            "zh_des": "使用纯文本抛出、运行和测试HTTP请求。",
+            "url": "https://github.com/Orange-OpenSource/hurl",
+            "name": "Orange-OpenSource /hurl",
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "stars": "8,177",
+            "forks": "281",
+            "language": "Rust",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "带KVM后端的VirtualBox",
+            "url": "https://github.com/cyberus-technology/virtualbox-kvm",
+            "name": "cyberus-technology /virtualbox-kvm",
+            "description": "VirtualBox with KVM Backend",
+            "stars": "647",
+            "forks": "91",
+            "language": "C",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "🦁是LEO编程语言。一种用于形式化验证的零知识应用的程序设计语言",
+            "url": "https://github.com/AleoHQ/leo",
+            "name": "AleoHQ /leo",
+            "description": "🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+            "stars": "4,420",
+            "forks": "724",
+            "language": "Rust",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "7,123",
+            "forks": "854",
+            "language": "Python",
+            "stars_today": "1,255 stars today"
+        },
+        {
+            "zh_des": "这是sudo，适用于Windows",
+            "url": "https://github.com/microsoft/sudo",
+            "name": "microsoft /sudo",
+            "description": "It's sudo, for Windows",
+            "stars": "1,833",
+            "forks": "40",
+            "language": "PowerShell",
+            "stars_today": "280 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/jixserver/free-for-dev",
+            "name": "jixserver /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "1,944",
+            "forks": "300",
+            "language": "",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "本地用户",
+            "url": "https://github.com/GoogleCloudPlatform/localllm",
+            "name": "GoogleCloudPlatform /localllm",
+            "description": "localllm",
+            "stars": "1,278",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "418 stars today"
+        },
+        {
+            "zh_des": "广泛的节点套件，使ComfyUI能够使用尖端算法(3DGS、NERF等)处理3D输入(网格和UV纹理等)",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "575",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的一个Python解释器",
+            "url": "https://github.com/RustPython/RustPython",
+            "name": "RustPython /RustPython",
+            "description": "A Python Interpreter written in Rust",
+            "stars": "17,005",
+            "forks": "1,232",
+            "language": "Rust",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "NOTICEERC404不再对此存储库进行主动维护",
+            "url": "https://github.com/Pandora-Labs-Org/erc404-legacy",
+            "name": "Pandora-Labs-Org /erc404-legacy",
+            "description": "NOTICEERC404This repository is no longer being actively maintained",
+            "stars": "94",
+            "forks": "52",
+            "language": "Solidity",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "HULY平台-线性/Jira、松弛、概念、运动等的一体机替代品",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+            "stars": "844",
+            "forks": "89",
+            "language": "Svelte",
+            "stars_today": "315 stars today"
+        },
+        {
+            "zh_des": "ProjectX旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/projectx",
+            "name": "projectx-codehagen /projectx",
+            "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "941",
+            "forks": "103",
+            "language": "TypeScript",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "ODIN程序设计语言",
+            "url": "https://github.com/odin-lang/Odin",
+            "name": "odin-lang /Odin",
+            "description": "Odin Programming Language",
+            "stars": "5,122",
+            "forks": "454",
+            "language": "Odin",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Create Reaction应用程序入门此项目通过Create Reaction应用程序启动",
+            "url": "https://github.com/sangammukherjee/25-reactjs-interview-projects",
+            "name": "sangammukherjee /25-reactjs-interview-projects",
+            "description": "Getting Started with Create React AppThis project was bootstrapped with Create React App",
+            "stars": "94",
+            "forks": "34",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "构建LMS平台：下一步",
+            "url": "https://github.com/AntonioErdeljac/next13-lms-platform",
+            "name": "AntonioErdeljac /next13-lms-platform",
+            "description": "Build an LMS Platform: Next",
+            "stars": "630",
+            "forks": "282",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Rust构建的一个令人耳目一新的简单数据驱动游戏引擎",
+            "url": "https://github.com/bevyengine/bevy",
+            "name": "bevyengine /bevy",
+            "description": "A refreshingly simple data-driven game engine built in Rust",
+            "stars": "30,485",
+            "forks": "2,991",
+            "language": "Rust",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "🌐🔌MetaMASK浏览器扩展支持浏览启用了以太区块链的网站",
+            "url": "https://github.com/MetaMask/metamask-extension",
+            "name": "MetaMask /metamask-extension",
+            "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+            "stars": "11,174",
+            "forks": "4,917",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个现代的运行时，用于脚本和打字。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "92,287",
+            "forks": "5,247",
+            "language": "Rust",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "示例分布式应用程序，由Docker、Compose、Sarm和Kubernetes的多个容器组成",
+            "url": "https://github.com/dockersamples/example-voting-app",
+            "name": "dockersamples /example-voting-app",
+            "description": "Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes",
+            "stars": "4,067",
+            "forks": "8,781",
+            "language": "C#",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "PalWorld服务器工具包-用于保存文件修改，列出球员，修复保存文件等。",
+            "url": "https://github.com/magicbear/palworld-server-toolkit",
+            "name": "magicbear /palworld-server-toolkit",
+            "description": "PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...",
+            "stars": "199",
+            "forks": "36",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Conductor是一个微服务编排引擎。",
+            "url": "https://github.com/conductor-oss/conductor",
+            "name": "conductor-oss /conductor",
+            "description": "Conductor is a microservices orchestration engine.",
+            "stars": "3,107",
+            "forks": "96",
+            "language": "Java",
+            "stars_today": "93 stars today"
+        }
+    ]
+}
