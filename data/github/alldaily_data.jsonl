@@ -16348,3 +16348,257 @@
         }
     ]
 }
+{
+    "02月12日": [
+        {
+            "zh_des": "LLRT(Low Latency Runtime)是一个实验性的、轻量级的JavaScript运行时，旨在满足快速高效的无服务器应用程序日益增长的需求。",
+            "url": "https://github.com/awslabs/llrt",
+            "name": "awslabs /llrt",
+            "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "stars": "4,815",
+            "forks": "195",
+            "language": "JavaScript",
+            "stars_today": "1,334 stars today"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "5,742",
+            "forks": "162",
+            "language": "Java",
+            "stars_today": "914 stars today"
+        },
+        {
+            "zh_des": "自演微调(SPIN)正式实施",
+            "url": "https://github.com/uclaml/SPIN",
+            "name": "uclaml /SPIN",
+            "description": "The official implementation of Self-Play Fine-Tuning (SPIN)",
+            "stars": "333",
+            "forks": "19",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "246,101",
+            "forks": "42,693",
+            "language": "Python",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "73,889",
+            "forks": "36,755",
+            "language": "C++",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "阻止DNS服务器的全网广告和跟踪器",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "name": "AdguardTeam /AdGuardHome",
+            "description": "Network-wide ads & trackers blocking DNS server",
+            "stars": "21,276",
+            "forks": "1,651",
+            "language": "Go",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "自托管照片和视频备份解决方案，直接从您的手机。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+            "stars": "25,637",
+            "forks": "1,195",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "隐私-首先，端到端加密邮件、页面、驱动器和日历。",
+            "url": "https://github.com/skiff-org/skiff-apps",
+            "name": "skiff-org /skiff-apps",
+            "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+            "stars": "241",
+            "forks": "136",
+            "language": "TypeScript",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "面向Android的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion",
+            "name": "bepass-org /oblivion",
+            "description": "Unofficial warp client for android",
+            "stars": "531",
+            "forks": "35",
+            "language": "Java",
+            "stars_today": "273 stars today"
+        },
+        {
+            "zh_des": "带有KVM后端的VirtualBox。在我们目前的开发模式下，我们不能在这里轻松地接受Pull请求。如果您愿意提供帮助，请随时联系我们，我们很乐意找到解决方案。",
+            "url": "https://github.com/cyberus-technology/virtualbox-kvm",
+            "name": "cyberus-technology /virtualbox-kvm",
+            "description": "VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.",
+            "stars": "689",
+            "forks": "100",
+            "language": "C",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "这是sudo，适用于Windows",
+            "url": "https://github.com/microsoft/sudo",
+            "name": "microsoft /sudo",
+            "description": "It's sudo, for Windows",
+            "stars": "2,397",
+            "forks": "47",
+            "language": "PowerShell",
+            "stars_today": "890 stars today"
+        },
+        {
+            "zh_des": "ProjectX旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/projectx",
+            "name": "projectx-codehagen /projectx",
+            "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "991",
+            "forks": "110",
+            "language": "TypeScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "HULY平台-线性/Jira、松弛、概念、运动等的一体机替代品",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+            "stars": "950",
+            "forks": "97",
+            "language": "Svelte",
+            "stars_today": "244 stars today"
+        },
+        {
+            "zh_des": "ODIN程序设计语言",
+            "url": "https://github.com/odin-lang/Odin",
+            "name": "odin-lang /Odin",
+            "description": "Odin Programming Language",
+            "stars": "5,169",
+            "forks": "461",
+            "language": "Odin",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "使用纯文本抛出、运行和测试HTTP请求。",
+            "url": "https://github.com/Orange-OpenSource/hurl",
+            "name": "Orange-OpenSource /hurl",
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "stars": "8,294",
+            "forks": "286",
+            "language": "Rust",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "SubQuery是一个开放、灵活、快速和通用的Web3数据索引框架。我们的使命是帮助开发人员创建未来的去中心化产品。",
+            "url": "https://github.com/subquery/subql",
+            "name": "subquery /subql",
+            "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+            "stars": "13,840",
+            "forks": "250",
+            "language": "TypeScript",
+            "stars_today": "413 stars today"
+        },
+        {
+            "zh_des": "PalWorld服务器工具包-用于保存文件修改，列出球员，修复保存文件等。",
+            "url": "https://github.com/magicbear/palworld-server-toolkit",
+            "name": "magicbear /palworld-server-toolkit",
+            "description": "PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc...",
+            "stars": "229",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "🦁是LEO编程语言。一种用于形式化验证的零知识应用的程序设计语言",
+            "url": "https://github.com/AleoHQ/leo",
+            "name": "AleoHQ /leo",
+            "description": "🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+            "stars": "4,473",
+            "forks": "730",
+            "language": "Rust",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "Ngrok替代方案和其他类似ngrok的隧道软件和服务的列表。专注于自我托管。",
+            "url": "https://github.com/anderspitman/awesome-tunneling",
+            "name": "anderspitman /awesome-tunneling",
+            "description": "List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.",
+            "stars": "11,706",
+            "forks": "575",
+            "language": "",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "带有附加功能和修复的YouTube-dl分支",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A youtube-dl fork with additional features and fixes",
+            "stars": "65,956",
+            "forks": "5,448",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "Rust构建的一个令人耳目一新的简单数据驱动游戏引擎",
+            "url": "https://github.com/bevyengine/bevy",
+            "name": "bevyengine /bevy",
+            "description": "A refreshingly simple data-driven game engine built in Rust",
+            "stars": "30,533",
+            "forks": "2,996",
+            "language": "Rust",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "1,769",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "737 stars today"
+        },
+        {
+            "zh_des": "Conductor是一个微服务编排引擎。",
+            "url": "https://github.com/conductor-oss/conductor",
+            "name": "conductor-oss /conductor",
+            "description": "Conductor is a microservices orchestration engine.",
+            "stars": "3,201",
+            "forks": "100",
+            "language": "Java",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "80,120",
+            "forks": "8,773",
+            "language": "HTML",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/jixserver/free-for-dev",
+            "name": "jixserver /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "2,061",
+            "forks": "315",
+            "language": "",
+            "stars_today": "228 stars today"
+        }
+    ]
+}
