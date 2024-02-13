@@ -4062,3 +4062,257 @@
         }
     ]
 }
+{
+    "02月13日": [
+        {
+            "zh_des": "自托管照片和视频备份解决方案，直接从您的手机。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+            "stars": "25,723",
+            "forks": "1,209",
+            "language": "TypeScript",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "隐私-首先，端到端加密邮件、页面、驱动器和日历。",
+            "url": "https://github.com/skiff-org/skiff-apps",
+            "name": "skiff-org /skiff-apps",
+            "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+            "stars": "330",
+            "forks": "165",
+            "language": "TypeScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "ProjectX旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/projectx",
+            "name": "projectx-codehagen /projectx",
+            "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,088",
+            "forks": "139",
+            "language": "TypeScript",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "SubQuery是一个开放、灵活、快速和通用的Web3数据索引框架。我们的使命是帮助开发人员创建未来的去中心化产品。",
+            "url": "https://github.com/subquery/subql",
+            "name": "subquery /subql",
+            "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+            "stars": "13,938",
+            "forks": "263",
+            "language": "TypeScript",
+            "stars_today": "390 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人类，顶点AI，Ollama，LLMS，您可以与用户分享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "27,922",
+            "forks": "3,190",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "这是一款正式的起动机",
+            "url": "https://github.com/code100x/daily-code",
+            "name": "code100x /daily-code",
+            "description": "Turborepo starterThis is an official starter Turborepo",
+            "stars": "121",
+            "forks": "128",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用CodeSandbox创建",
+            "url": "https://github.com/dikshikaaa/Valentines-Day",
+            "name": "dikshikaaa /Valentines-Day",
+            "description": "Created with CodeSandbox",
+            "stars": "29",
+            "forks": "125",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "PAVER：一个Palworld保存Editora全面且可扩展的Palworld保存编辑器和报告工具，旨在与任何版本的Palworld V0一起使用",
+            "url": "https://github.com/adefee/paver-palworld-save-editor",
+            "name": "adefee /paver-palworld-save-editor",
+            "description": "Paver: A Palworld Save EditorA comprehensive and extensible save editor and reporting tool for Palworld, intended to work with any version of Palworld v0",
+            "stars": "25",
+            "forks": "6",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "此回购包含ERC-404的下一版本🚨🚨",
+            "url": "https://github.com/Pandora-Labs-Org/erc404",
+            "name": "Pandora-Labs-Org /erc404",
+            "description": "ERC-404🚨🚨 This repo contains the next version of ERC-404",
+            "stars": "75",
+            "forks": "37",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "9,424",
+            "forks": "486",
+            "language": "TypeScript",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "构建LMS平台：下一步",
+            "url": "https://github.com/AntonioErdeljac/next13-lms-platform",
+            "name": "AntonioErdeljac /next13-lms-platform",
+            "description": "Build an LMS Platform: Next",
+            "stars": "643",
+            "forks": "287",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "低代码平台让您可以构建业务应用，快速创建仪表板、CRUD应用、管理面板、CRM、CMS等内部工具。支持PostgreSQL、MySQL、Supabase、GraphQL、MongoDB、MSSQL、REST API、拥抱脸、Redis等。通过时间表或WebHook实现工作流自动化。开源改装工具。",
+            "url": "https://github.com/illacloud/illa-builder",
+            "name": "illacloud /illa-builder",
+            "description": "Low-code platform allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automate workflows with schedule or webhook. Open source Retool.",
+            "stars": "10,220",
+            "forks": "1,064",
+            "language": "TypeScript",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "V2Ray Over CloudFlare工作人员的整体解决方案",
+            "url": "https://github.com/vfarid/v2ray-worker",
+            "name": "vfarid /v2ray-worker",
+            "description": "Total solution for V2Ray over Cloudflare's worker",
+            "stars": "346",
+            "forks": "410",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Vercel",
+            "url": "https://github.com/hkirat/vercel",
+            "name": "hkirat /vercel",
+            "description": "vercel",
+            "stars": "59",
+            "forks": "22",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "18,250",
+            "forks": "1,868",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "48,429",
+            "forks": "2,483",
+            "language": "TypeScript",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "“所有演示应用程序之母”--由Reaction、Angel、Node、Django等提供支持的典型的Full Stack Medium.com克隆",
+            "url": "https://github.com/gothinkster/realworld",
+            "name": "gothinkster /realworld",
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "stars": "77,657",
+            "forks": "7,229",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "黑客的笔记本",
+            "url": "https://github.com/silverbulletmd/silverbullet",
+            "name": "silverbulletmd /silverbullet",
+            "description": "The hacker's notebook",
+            "stars": "1,612",
+            "forks": "103",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "17,151",
+            "forks": "376",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "燃料网络类型脚本SDK",
+            "url": "https://github.com/FuelLabs/fuels-ts",
+            "name": "FuelLabs /fuels-ts",
+            "description": "Fuel Network Typescript SDK",
+            "stars": "29,149",
+            "forks": "786",
+            "language": "TypeScript",
+            "stars_today": "230 stars today"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "5,831",
+            "forks": "840",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "梅芯：即用即用的基础Reaction组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "90,701",
+            "forks": "31,353",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "通过自己运行视频来控制您的实时流视频。流媒体+开箱即用的聊天。",
+            "url": "https://github.com/owncast/owncast",
+            "name": "owncast /owncast",
+            "description": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+            "stars": "8,685",
+            "forks": "780",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "383,192",
+            "forks": "35,806",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "266,078",
+            "forks": "36,576",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        }
+    ]
+}
