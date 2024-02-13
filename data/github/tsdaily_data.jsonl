@@ -4316,3 +4316,257 @@
         }
     ]
 }
+{
+    "02月13日": [
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "1,925",
+            "forks": "63",
+            "language": "TypeScript",
+            "stars_today": "352 stars today"
+        },
+        {
+            "zh_des": "此回购包含ERC-404的下一版本🚨🚨",
+            "url": "https://github.com/Pandora-Labs-Org/erc404",
+            "name": "Pandora-Labs-Org /erc404",
+            "description": "ERC-404🚨🚨 This repo contains the next version of ERC-404",
+            "stars": "100",
+            "forks": "52",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "隐私-首先，端到端加密邮件、页面、驱动器和日历。",
+            "url": "https://github.com/skiff-org/skiff-apps",
+            "name": "skiff-org /skiff-apps",
+            "description": "Privacy-first, end-to-end encrypted Mail, Pages, Drive, and Calendar.",
+            "stars": "404",
+            "forks": "181",
+            "language": "TypeScript",
+            "stars_today": "194 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是一个用于VS代码和JetBrains的开源自动驾驶仪--这是使用任何LLm进行编码的最简单方式",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is an open-source autopilot for VS Code and JetBrains—the easiest way to code with any LLM",
+            "stars": "7,008",
+            "forks": "353",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "ProjectX旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/projectx",
+            "name": "projectx-codehagen /projectx",
+            "description": "ProjectX aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,133",
+            "forks": "142",
+            "language": "TypeScript",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "9,465",
+            "forks": "486",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "14,286",
+            "forks": "2,652",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "与Next.js类似的React.useState的类型安全搜索参数状态管理器，但存储在URL查询字符串中。",
+            "url": "https://github.com/47ng/nuqs",
+            "name": "47ng /nuqs",
+            "description": "Type-safe search params state manager for Next.js - Like React.useState, but stored in the URL query string.",
+            "stars": "1,148",
+            "forks": "48",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "自托管照片和视频备份解决方案，直接从您的手机。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+            "stars": "25,778",
+            "forks": "1,215",
+            "language": "TypeScript",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "Node.js的下一代浏览器和移动自动化测试框架",
+            "url": "https://github.com/webdriverio/webdriverio",
+            "name": "webdriverio /webdriverio",
+            "description": "Next-gen browser and mobile automation test framework for Node.js",
+            "stars": "8,504",
+            "forks": "2,423",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "NX控制台是NX&Lerna的用户界面。",
+            "url": "https://github.com/nrwl/nx-console",
+            "name": "nrwl /nx-console",
+            "description": "Nx Console is the user interface for Nx & Lerna.",
+            "stars": "1,260",
+            "forks": "213",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "SubQuery是一个开放、灵活、快速和通用的Web3数据索引框架。我们的使命是帮助开发人员创建未来的去中心化产品。",
+            "url": "https://github.com/subquery/subql",
+            "name": "subquery /subql",
+            "description": "SubQuery is an Open, Flexible, Fast and Universal data indexing framework for web3. Our mission is to help developers create the decentralised products of the future.",
+            "stars": "14,163",
+            "forks": "266",
+            "language": "TypeScript",
+            "stars_today": "243 stars today"
+        },
+        {
+            "zh_des": "NestJS样板。Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。",
+            "url": "https://github.com/brocoders/nestjs-boilerplate",
+            "name": "brocoders /nestjs-boilerplate",
+            "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+            "stars": "1,973",
+            "forks": "425",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "负责任的AI工具箱是一套工具，提供模型和数据探索和评估用户界面和库，使您能够更好地理解AI系统。这些接口和库使AI系统的开发人员和利益相关者能够更负责任地开发和监控AI，并采取更好的数据驱动行动。",
+            "url": "https://github.com/microsoft/responsible-ai-toolbox",
+            "name": "microsoft /responsible-ai-toolbox",
+            "description": "Responsible AI Toolbox is a suite of tools providing model and data exploration and assessment user interfaces and libraries that enable a better understanding of AI systems. These interfaces and libraries empower developers and stakeholders of AI systems to develop and monitor AI more responsibly, and take better data-driven actions.",
+            "stars": "1,116",
+            "forks": "302",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Reaction本机日历组件🗓️📆",
+            "url": "https://github.com/wix/react-native-calendars",
+            "name": "wix /react-native-calendars",
+            "description": "React Native Calendar Components 🗓️ 📆",
+            "stars": "9,029",
+            "forks": "2,864",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Vercel克隆从头开始🚀",
+            "url": "https://github.com/piyushgarg-dev/vercel-clone",
+            "name": "piyushgarg-dev /vercel-clone",
+            "description": "Vercel Clone From Scratch 🚀",
+            "stars": "72",
+            "forks": "31",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "为成长中的团队提供最快的知识库。美观、实时协作、功能丰富、兼容降价。",
+            "url": "https://github.com/outline/outline",
+            "name": "outline /outline",
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "stars": "22,697",
+            "forks": "1,865",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "JWA、JWS、JWE、JWT、JWK、JWKS for Node.js、Browser、Cloudflare Worker、Deno、Bun和其他Web互操作的运行时。",
+            "url": "https://github.com/panva/jose",
+            "name": "panva /jose",
+            "description": "JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.",
+            "stars": "4,471",
+            "forks": "294",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "AdminJS是以node.js编写的应用程序的管理面板",
+            "url": "https://github.com/SoftwareBrothers/adminjs",
+            "name": "SoftwareBrothers /adminjs",
+            "description": "AdminJS is an admin panel for apps written in node.js",
+            "stars": "7,694",
+            "forks": "621",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "155,887",
+            "forks": "28,258",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure.",
+            "stars": "14,637",
+            "forks": "1,380",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "Medplum是一个医疗保健平台，可帮助您快速开发高质量的合规应用程序。",
+            "url": "https://github.com/medplum/medplum",
+            "name": "medplum /medplum",
+            "description": "Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.",
+            "stars": "1,055",
+            "forks": "242",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "383,226",
+            "forks": "35,817",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "氢气是Shopify为无头商业提供的堆栈。它提供了一组工具、实用程序和一流的示例，用于构建动态和高性能的商务应用程序。HIGH旨在与Shopify的全栈Web框架Remix相吻合，但它也提供了一个可移植到其他支持框架的Reaction库。演示商店👇🏼",
+            "url": "https://github.com/Shopify/hydrogen",
+            "name": "Shopify /hydrogen",
+            "description": "Hydrogen is Shopify’s stack for headless commerce. It provides a set of tools, utilities, and best-in-class examples for building dynamic and performant commerce applications. Hydrogen is designed to dovetail with Remix, Shopify’s full stack web framework, but it also provides a React library portable to other supporting frameworks. Demo store 👇🏼",
+            "stars": "1,001",
+            "forks": "211",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "48,487",
+            "forks": "2,491",
+            "language": "TypeScript",
+            "stars_today": "168 stars today"
+        }
+    ]
+}

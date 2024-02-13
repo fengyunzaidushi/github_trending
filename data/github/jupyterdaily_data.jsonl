@@ -4316,3 +4316,257 @@
         }
     ]
 }
+{
+    "02月13日": [
+        {
+            "zh_des": "使用PEFT进行LLM微调",
+            "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+            "name": "ashishpatel26 /LLM-Finetuning",
+            "description": "LLM Finetuning with peft",
+            "stars": "1,233",
+            "forks": "355",
+            "language": "Jupyter Notebook",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "8,986",
+            "forks": "544",
+            "language": "Jupyter Notebook",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "20,958",
+            "forks": "4,447",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,858",
+            "forks": "82,735",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Cuda模式讲座的材料",
+            "url": "https://github.com/cuda-mode/lectures",
+            "name": "cuda-mode /lectures",
+            "description": "Material for cuda-mode lectures",
+            "stars": "266",
+            "forks": "22",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "启用下一代大型语言模型应用程序。加入我们的不和：https://discord.gg/pAbnFJrkgZ",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "Enable Next-Gen Large Language Model Applications. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "21,764",
+            "forks": "2,932",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "6,720",
+            "forks": "2,184",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,198",
+            "forks": "678",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "使用拥抱面库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,098",
+            "forks": "1,350",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "23,591",
+            "forks": "2,300",
+            "language": "Jupyter Notebook",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "4,568",
+            "forks": "643",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "26,477",
+            "forks": "12,405",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,231",
+            "forks": "7,836",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "疯狂快语者一个固执己见的CLI转录音频文件与耳语设备！由🤗变形金刚提供支持，最佳与闪存-TL；灾难恢复-转录150分钟(2",
+            "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+            "name": "Vaibhavs10 /insanely-fast-whisper",
+            "description": "Insanely Fast WhisperAn opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 Transformers, Optimum & flash-attnTL;DR - Transcribe 150 minutes (2",
+            "stars": "5,398",
+            "forks": "489",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "8,257",
+            "forks": "1,666",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "基于OpenAI Whisper的说话人二值化自动语音识别",
+            "url": "https://github.com/MahmoudAshraf97/whisper-diarization",
+            "name": "MahmoudAshraf97 /whisper-diarization",
+            "description": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+            "stars": "1,634",
+            "forks": "171",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "15,387",
+            "forks": "4,030",
+            "language": "Jupyter Notebook",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "金融市场中机器学习的特征工程和特征重要性。",
+            "url": "https://github.com/jo-cho/Technical_Analysis_and_Feature_Engineering",
+            "name": "jo-cho /Technical_Analysis_and_Feature_Engineering",
+            "description": "Feature Engineering and Feature Importance of Machine Learning in Financial Market.",
+            "stars": "88",
+            "forks": "30",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Azure AI Search中的向量搜索功能的代码样本库。",
+            "url": "https://github.com/Azure/azure-search-vector-samples",
+            "name": "Azure /azure-search-vector-samples",
+            "description": "A repository of code samples for Vector search capabilities in Azure AI Search.",
+            "stars": "560",
+            "forks": "232",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "12课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "12 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "23,767",
+            "forks": "15,189",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "在使用大型语言模型(LLM)的生成式人工智能中，您将学习生成式人工智能如何工作的基本原理，以及如何将其部署在现实世界的应用程序中。",
+            "url": "https://github.com/Ryota-Kawamura/Generative-AI-with-LLMs",
+            "name": "Ryota-Kawamura /Generative-AI-with-LLMs",
+            "description": "In Generative AI with Large Language Models (LLMs), you’ll learn the fundamentals of how generative AI works, and how to deploy it in real-world applications.",
+            "stars": "262",
+            "forks": "216",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "结构化状态空间序列模型",
+            "url": "https://github.com/state-spaces/s4",
+            "name": "state-spaces /s4",
+            "description": "Structured state space sequence models",
+            "stars": "1,822",
+            "forks": "231",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Microsoft 365 Defender中高级搜索的示例查询",
+            "url": "https://github.com/microsoft/Microsoft-365-Defender-Hunting-Queries",
+            "name": "microsoft /Microsoft-365-Defender-Hunting-Queries",
+            "description": "Sample queries for Advanced hunting in Microsoft 365 Defender",
+            "stars": "1,804",
+            "forks": "512",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "代码片段",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "name": "CoreyMSchafer /code_snippets",
+            "description": "code_snippets",
+            "stars": "10,135",
+            "forks": "17,696",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "开放机器学习课程",
+            "url": "https://github.com/girafe-ai/ml-course",
+            "name": "girafe-ai /ml-course",
+            "description": "Open Machine Learning course",
+            "stars": "1,955",
+            "forks": "1,029",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        }
+    ]
+}

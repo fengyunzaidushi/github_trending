@@ -13704,3 +13704,257 @@
         }
     ]
 }
+{
+    "02月13日": [
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "22,514",
+            "forks": "1,696",
+            "language": "Ruby",
+            "stars_today": "22,158 stars this month"
+        },
+        {
+            "zh_des": "PhotoMaker",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker",
+            "stars": "7,086",
+            "forks": "532",
+            "language": "Jupyter Notebook",
+            "stars_today": "7,010 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "4,003",
+            "forks": "328",
+            "language": "Python",
+            "stars_today": "3,463 stars this month"
+        },
+        {
+            "zh_des": "🎧开源视频客户端，既不需要高级版，也不使用电子！台式机和移动设备均可使用！",
+            "url": "https://github.com/KRTirtho/spotube",
+            "name": "KRTirtho /spotube",
+            "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+            "stars": "21,872",
+            "forks": "836",
+            "language": "Dart",
+            "stars_today": "10,878 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "5,177",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "4,645 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,304",
+            "forks": "403",
+            "language": "Python",
+            "stars_today": "1,653 stars this month"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "20,958",
+            "forks": "4,447",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,659 stars this month"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "17,436",
+            "forks": "2,898",
+            "language": "TypeScript",
+            "stars_today": "5,809 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "24,586",
+            "forks": "1,797",
+            "language": "Go",
+            "stars_today": "2,551 stars this month"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "7,363",
+            "forks": "791",
+            "language": "Python",
+            "stars_today": "3,056 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,402",
+            "forks": "2,981",
+            "language": "C++",
+            "stars_today": "621 stars this month"
+        },
+        {
+            "zh_des": ".NET应用程序💪的终极干净体系结构模板",
+            "url": "https://github.com/amantinband/clean-architecture",
+            "name": "amantinband /clean-architecture",
+            "description": "The ultimate clean architecture template for .NET applications 💪",
+            "stars": "917",
+            "forks": "125",
+            "language": "C#",
+            "stars_today": "520 stars this month"
+        },
+        {
+            "zh_des": "一个炙手可热的快速人工智能网关。使用1个快速友好的API路由至100多个LLMS。",
+            "url": "https://github.com/Portkey-AI/gateway",
+            "name": "Portkey-AI /gateway",
+            "description": "A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.",
+            "stars": "3,533",
+            "forks": "193",
+            "language": "TypeScript",
+            "stars_today": "2,402 stars this month"
+        },
+        {
+            "zh_des": "使用Reaction开发通用原生应用程序的开源平台。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "26,952",
+            "forks": "4,579",
+            "language": "TypeScript",
+            "stars_today": "1,147 stars this month"
+        },
+        {
+            "zh_des": "高度可定制的主页(或起始页面/应用程序仪表板)，集成了Docker和服务API。",
+            "url": "https://github.com/gethomepage/homepage",
+            "name": "gethomepage /homepage",
+            "description": "A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.",
+            "stars": "13,782",
+            "forks": "750",
+            "language": "JavaScript",
+            "stars_today": "1,514 stars this month"
+        },
+        {
+            "zh_des": "用于构建内部工具、管理面板、仪表板和B2B应用程序的Reaction框架，具有无与伦比的灵活性。",
+            "url": "https://github.com/refinedev/refine",
+            "name": "refinedev /refine",
+            "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+            "stars": "21,619",
+            "forks": "1,605",
+            "language": "TypeScript",
+            "stars_today": "3,182 stars this month"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放平台",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open platform for building developer portals",
+            "stars": "25,435",
+            "forks": "5,130",
+            "language": "TypeScript",
+            "stars_today": "810 stars this month"
+        },
+        {
+            "zh_des": "伺服浏览器引擎",
+            "url": "https://github.com/servo/servo",
+            "name": "servo /servo",
+            "description": "The Servo Browser Engine",
+            "stars": "25,225",
+            "forks": "2,871",
+            "language": "",
+            "stars_today": "600 stars this month"
+        },
+        {
+            "zh_des": "快速的Neovim配置提供可靠的默认设置和漂亮的用户界面，增强您的Neovim体验。",
+            "url": "https://github.com/NvChad/NvChad",
+            "name": "NvChad /NvChad",
+            "description": "Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+            "stars": "21,832",
+            "forks": "1,926",
+            "language": "Lua",
+            "stars_today": "981 stars this month"
+        },
+        {
+            "zh_des": "一种新型的贝壳",
+            "url": "https://github.com/nushell/nushell",
+            "name": "nushell /nushell",
+            "description": "A new type of shell",
+            "stars": "28,752",
+            "forks": "1,510",
+            "language": "Rust",
+            "stars_today": "723 stars this month"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "311,584",
+            "forks": "59,672",
+            "language": "",
+            "stars_today": "5,173 stars this month"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "38,567",
+            "forks": "4,611",
+            "language": "TypeScript",
+            "stars_today": "1,769 stars this month"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "48,487",
+            "forks": "2,491",
+            "language": "TypeScript",
+            "stars_today": "5,605 stars this month"
+        },
+        {
+            "zh_des": "Ruby on Rails",
+            "url": "https://github.com/rails/rails",
+            "name": "rails /rails",
+            "description": "Ruby on Rails",
+            "stars": "54,416",
+            "forks": "21,644",
+            "language": "Ruby",
+            "stars_today": "328 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,776",
+            "forks": "1,464",
+            "language": "Python",
+            "stars_today": "1,418 stars this month"
+        }
+    ]
+}
