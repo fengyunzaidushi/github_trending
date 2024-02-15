@@ -5332,3 +5332,257 @@
         }
     ]
 }
+{
+    "02月15日": [
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "5,461",
+            "forks": "249",
+            "language": "TypeScript",
+            "stars_today": "1,850 stars today"
+        },
+        {
+            "zh_des": "使用Nextjs、FastAPI和Langchain构建受限代理的初学者工具包",
+            "url": "https://github.com/BCG-X-Official/agentkit",
+            "name": "BCG-X-Official /agentkit",
+            "description": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+            "stars": "930",
+            "forks": "104",
+            "language": "TypeScript",
+            "stars_today": "593 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "13,974",
+            "forks": "988",
+            "language": "TypeScript",
+            "stars_today": "353 stars today"
+        },
+        {
+            "zh_des": "录制语音笔记并转录、汇总和获取任务",
+            "url": "https://github.com/Nutlope/notesGPT",
+            "name": "Nutlope /notesGPT",
+            "description": "Record voice notes & transcribe, summarize, and get tasks",
+            "stars": "636",
+            "forks": "85",
+            "language": "TypeScript",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "1,211",
+            "forks": "112",
+            "language": "TypeScript",
+            "stars_today": "287 stars today"
+        },
+        {
+            "zh_des": "一款在情人节给你所爱的人留下深刻印象的简单应用程序！",
+            "url": "https://github.com/saurabhnemade/will-you-be-my-valentine",
+            "name": "saurabhnemade /will-you-be-my-valentine",
+            "description": "A simple application to impress your loved ones on valentines day!!",
+            "stars": "152",
+            "forks": "176",
+            "language": "TypeScript",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "7,231",
+            "forks": "362",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "在本地运行模型的AI笔记应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "1,194",
+            "forks": "21",
+            "language": "TypeScript",
+            "stars_today": "786 stars today"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,127",
+            "forks": "8,043",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "8,485",
+            "forks": "735",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "流畅的UI Web代表了用于构建Web应用程序的实用程序、Reaction组件和Web组件的集合。",
+            "url": "https://github.com/microsoft/fluentui",
+            "name": "microsoft /fluentui",
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "stars": "17,369",
+            "forks": "2,637",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "📓链接提交消息",
+            "url": "https://github.com/conventional-changelog/commitlint",
+            "name": "conventional-changelog /commitlint",
+            "description": "📓 Lint commit messages",
+            "stars": "15,614",
+            "forks": "911",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "WintrCat的游戏报告♟️",
+            "url": "https://github.com/WintrCat/freechess",
+            "name": "WintrCat /freechess",
+            "description": "WintrCat's Game Report ♟️",
+            "stars": "120",
+            "forks": "27",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "用于构建内部工具、管理面板、仪表板和B2B应用程序的Reaction框架，具有无与伦比的灵活性。",
+            "url": "https://github.com/refinedev/refine",
+            "name": "refinedev /refine",
+            "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+            "stars": "21,758",
+            "forks": "1,611",
+            "language": "TypeScript",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "类的基于装饰符的属性验证。",
+            "url": "https://github.com/typestack/class-validator",
+            "name": "typestack /class-validator",
+            "description": "Decorator-based property validation for classes.",
+            "stars": "10,262",
+            "forks": "752",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "使用您的配置项中的数据日志。",
+            "url": "https://github.com/DataDog/datadog-ci",
+            "name": "DataDog /datadog-ci",
+            "description": "Use Datadog from your CI.",
+            "stars": "107",
+            "forks": "49",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "数据日志浏览器SDK",
+            "url": "https://github.com/DataDog/browser-sdk",
+            "name": "DataDog /browser-sdk",
+            "description": "Datadog Browser SDK",
+            "stars": "256",
+            "forks": "128",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "383,356",
+            "forks": "35,844",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "由Azure开放AI服务支持的🤖💼Azure聊天解决方案加速器",
+            "url": "https://github.com/microsoft/azurechat",
+            "name": "microsoft /azurechat",
+            "description": "🤖 💼 Azure Chat Solution Accelerator powered by Azure Open AI Service",
+            "stars": "920",
+            "forks": "650",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "在AWS上使用AWS CDK部署多LLM和多RAG驱动的聊天机器人(Amazon Bedock、Anthropic、HuggingFace、OpenAI、Meta、AI21、Coherhere)的模块化综合解决方案",
+            "url": "https://github.com/aws-samples/aws-genai-llm-chatbot",
+            "name": "aws-samples /aws-genai-llm-chatbot",
+            "description": "A modular and comprehensive solution to deploy a Multi-LLM and Multi-RAG powered chatbot (Amazon Bedrock, Anthropic, HuggingFace, OpenAI, Meta, AI21, Cohere) using AWS CDK on AWS",
+            "stars": "721",
+            "forks": "197",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于角度的CLI工具",
+            "url": "https://github.com/angular/angular-cli",
+            "name": "angular /angular-cli",
+            "description": "CLI tool for Angular",
+            "stars": "26,559",
+            "forks": "12,170",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "10,972",
+            "forks": "3,662",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "模块化的AWS SDK for JavaScript。",
+            "url": "https://github.com/aws/aws-sdk-js-v3",
+            "name": "aws /aws-sdk-js-v3",
+            "description": "Modularized AWS SDK for JavaScript.",
+            "stars": "2,760",
+            "forks": "565",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "简单、可扩展的状态管理。",
+            "url": "https://github.com/mobxjs/mobx",
+            "name": "mobxjs /mobx",
+            "description": "Simple, scalable state management.",
+            "stars": "27,037",
+            "forks": "1,818",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个功能完善的打字特效系统，具有丰富的标准库",
+            "url": "https://github.com/Effect-TS/effect",
+            "name": "Effect-TS /effect",
+            "description": "A fully-fledged functional effect system for TypeScript with a rich standard library",
+            "stars": "3,404",
+            "forks": "127",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
