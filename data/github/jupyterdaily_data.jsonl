@@ -5840,3 +5840,257 @@
         }
     ]
 }
+{
+    "02月16日": [
+        {
+            "zh_des": "稳定级联这是稳定级联的官方代码库",
+            "url": "https://github.com/Stability-AI/StableCascade",
+            "name": "Stability-AI /StableCascade",
+            "description": "Stable CascadeThis is the official codebase for Stable Cascade",
+            "stars": "3,750",
+            "forks": "243",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,462 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "42,254",
+            "forks": "4,988",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,290",
+            "forks": "6,569",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "谷歌云上生成式人工智能的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud",
+            "stars": "4,714",
+            "forks": "1,050",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "ScratchRetrival增强生成(RAG)中的RAG是连接LLMS与外部数据源的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "51",
+            "forks": "18",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "该存储库主要由Omar Santos(@santosomar)维护，包括与道德黑客、漏洞赏金、数字取证和事件响应(DFIR)、人工智能安全、漏洞研究、漏洞开发、逆向工程等相关的数千个资源。",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "name": "The-Art-of-Hacking /h4cker",
+            "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+            "stars": "15,875",
+            "forks": "2,854",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "使用一个开源培训库轻松培训或微调SOTA计算机视觉模型。Yolo-Nas的故乡。",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,179",
+            "forks": "464",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "评估和监控ML模型从验证到生产的整个过程。加入我们的不和：https://discord.com/invite/xZjKRaNp8b",
+            "url": "https://github.com/evidentlyai/evidently",
+            "name": "evidentlyai /evidently",
+            "description": "Evaluate and monitor ML models from validation to production. Join our Discord:https://discord.com/invite/xZjKRaNp8b",
+            "stars": "4,405",
+            "forks": "489",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "适用于TimeGPT的Python SDK",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "Python SDK for TimeGPT",
+            "stars": "1,209",
+            "forks": "98",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "19,972",
+            "forks": "11,468",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于📚™的OpenVINO Jupyter笔记本电脑教程",
+            "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+            "name": "openvinotoolkit /openvino_notebooks",
+            "description": "📚 Jupyter notebook tutorials for OpenVINO™",
+            "stars": "1,778",
+            "forks": "663",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure AI示例",
+            "url": "https://github.com/Azure-Samples/azureai-samples",
+            "name": "Azure-Samples /azureai-samples",
+            "description": "Official community-driven Azure AI Examples",
+            "stars": "87",
+            "forks": "46",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "20,673",
+            "forks": "2,851",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Lang Chain图书馆概述和教程",
+            "url": "https://github.com/gkamradt/langchain-tutorials",
+            "name": "gkamradt /langchain-tutorials",
+            "description": "Overview and tutorial of the LangChain Library",
+            "stars": "5,874",
+            "forks": "1,759",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,891",
+            "forks": "82,774",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "巨蟒程序，通常很短，难度相当大，以完善特定的技能。",
+            "url": "https://github.com/norvig/pytudes",
+            "name": "norvig /pytudes",
+            "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+            "stars": "22,196",
+            "forks": "2,395",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Paper-YOLOv7的实施：可训练的免费袋为实时物体探测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "12,261",
+            "forks": "3,894",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "机器学习基础：线性代数、微积分、统计学和计算机科学",
+            "url": "https://github.com/jonkrohn/ML-foundations",
+            "name": "jonkrohn /ML-foundations",
+            "description": "Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science",
+            "stars": "2,750",
+            "forks": "1,357",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "驯服变压器以实现高分辨率图像合成",
+            "url": "https://github.com/CompVis/taming-transformers",
+            "name": "CompVis /taming-transformers",
+            "description": "Taming Transformers for High-Resolution Image Synthesis",
+            "stars": "5,116",
+            "forks": "1,050",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,087",
+            "forks": "2,741",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,209",
+            "forks": "683",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "接地-SAM：将接地-Dino与Segment Anything&稳定扩散和识别Anything相结合-自动检测、分段和生成任何内容",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "12,615",
+            "forks": "1,143",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "从不同上下文长度的LLM模型中进行简单检索，以测量准确性",
+            "url": "https://github.com/gkamradt/LLMTest_NeedleInAHaystack",
+            "name": "gkamradt /LLMTest_NeedleInAHaystack",
+            "description": "Doing simple retrieval from LLM models at various context lengths to measure accuracy",
+            "stars": "503",
+            "forks": "50",
+            "language": "Jupyter Notebook",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "AI-in-a-Box",
+            "url": "https://github.com/Azure/AI-in-a-Box",
+            "name": "Azure /AI-in-a-Box",
+            "description": "AI-in-a-Box",
+            "stars": "148",
+            "forks": "43",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion-colab",
+            "name": "facefusion /facefusion-colab",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "77",
+            "forks": "39",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
