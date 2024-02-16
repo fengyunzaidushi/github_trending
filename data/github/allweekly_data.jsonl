@@ -15492,3 +15492,257 @@
         }
     ]
 }
+{
+    "02月16日": [
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "7,569",
+            "forks": "926",
+            "language": "Python",
+            "stars_today": "5,223 stars this week"
+        },
+        {
+            "zh_des": "通过多模式大语言模型指导基于指令的图像编辑此报告此报告包含通过多模式大语言模型(ICLR‘24 Spotlight)指导基于指令的图像编辑的代码MGIE是\n“基于多模式大语言模型的指导式图像编辑”\n傅资瑞、胡文泽、杜宪志、王威廉、杨银飞、哲干\n在2024国际学习表征会议(ICLR)上，基于指令的图像编辑通过自然命令提高了图像处理的可控性和灵活性，而不需要复杂的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "3,303",
+            "forks": "227",
+            "language": "Python",
+            "stars_today": "1,734 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "2,050",
+            "forks": "256",
+            "language": "Python",
+            "stars_today": "1,217 stars this week"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "7,320",
+            "forks": "224",
+            "language": "Java",
+            "stars_today": "3,997 stars this week"
+        },
+        {
+            "zh_des": "NOTICEERC404",
+            "url": "https://github.com/0xacme/ERC404",
+            "name": "0xacme /ERC404",
+            "description": "NOTICEERC404",
+            "stars": "397",
+            "forks": "214",
+            "language": "Solidity",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,344",
+            "forks": "92",
+            "language": "Python",
+            "stars_today": "773 stars this week"
+        },
+        {
+            "zh_des": "快速、轻便、符合Web标准",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Fast, Lightweight, Web-standards",
+            "stars": "11,699",
+            "forks": "315",
+            "language": "TypeScript",
+            "stars_today": "713 stars this week"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,501",
+            "forks": "1,147",
+            "language": "Go",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "Hyprland是一个高度可定制的动态平铺Wayland合成器，不会牺牲它的外观。",
+            "url": "https://github.com/hyprwm/Hyprland",
+            "name": "hyprwm /Hyprland",
+            "description": "Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+            "stars": "14,448",
+            "forks": "564",
+            "language": "C++",
+            "stars_today": "277 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,423",
+            "forks": "368",
+            "language": "TypeScript",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,515",
+            "forks": "789",
+            "language": "TypeScript",
+            "stars_today": "257 stars this week"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,495",
+            "forks": "2,981",
+            "language": "C++",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "Rinha de Backend收藏库2？EDIção da Rinha de后端",
+            "url": "https://github.com/zanfranceschi/rinha-de-backend-2024-q1",
+            "name": "zanfranceschi /rinha-de-backend-2024-q1",
+            "description": "Repositório da 2ª edição da Rinha de Backend",
+            "stars": "1,232",
+            "forks": "529",
+            "language": "PLpgSQL",
+            "stars_today": "479 stars this week"
+        },
+        {
+            "zh_des": "用Rust编写的一个Python解释器",
+            "url": "https://github.com/RustPython/RustPython",
+            "name": "RustPython /RustPython",
+            "description": "A Python Interpreter written in Rust",
+            "stars": "17,088",
+            "forks": "1,240",
+            "language": "Rust",
+            "stars_today": "532 stars this week"
+        },
+        {
+            "zh_des": "这是一个Repo，其中包含您想要了解的有关数据工程的所有内容的链接",
+            "url": "https://github.com/DataEngineer-io/data-engineer-handbook",
+            "name": "DataEngineer-io /data-engineer-handbook",
+            "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+            "stars": "6,518",
+            "forks": "938",
+            "language": "",
+            "stars_today": "741 stars this week"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "80,485",
+            "forks": "8,819",
+            "language": "HTML",
+            "stars_today": "1,290 stars this week"
+        },
+        {
+            "zh_des": "一种新型的贝壳",
+            "url": "https://github.com/nushell/nushell",
+            "name": "nushell /nushell",
+            "description": "A new type of shell",
+            "stars": "28,927",
+            "forks": "1,523",
+            "language": "Rust",
+            "stars_today": "451 stars this week"
+        },
+        {
+            "zh_des": "使用TensorRT-LLM在Windows上创建检索增强生成(RAG)聊天机器人的开发人员参考项目",
+            "url": "https://github.com/NVIDIA/trt-llm-rag-windows",
+            "name": "NVIDIA /trt-llm-rag-windows",
+            "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+            "stars": "1,079",
+            "forks": "90",
+            "language": "Python",
+            "stars_today": "684 stars this week"
+        },
+        {
+            "zh_des": "在这个项目中，我探索了如何使用本地LLM来标记数据和支持分析。具体地说，我使用了Llama2模型来自动对我的银行交易数据进行分类。",
+            "url": "https://github.com/thu-vu92/local-llms-analyse-finance",
+            "name": "thu-vu92 /local-llms-analyse-finance",
+            "description": "In this project, I explored how local LLMs can be used to label data and support analyses. Specifically, I used Llama2 model to automatically categorise my bank transaction data.",
+            "stars": "406",
+            "forks": "81",
+            "language": "Jupyter Notebook",
+            "stars_today": "110 stars this week"
+        },
+        {
+            "zh_des": "阻止DNS服务器的全网广告和跟踪器",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "name": "AdguardTeam /AdGuardHome",
+            "description": "Network-wide ads & trackers blocking DNS server",
+            "stars": "21,503",
+            "forks": "1,681",
+            "language": "Go",
+            "stars_today": "542 stars this week"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "75,776",
+            "forks": "1,550",
+            "language": "JavaScript",
+            "stars_today": "343 stars this week"
+        },
+        {
+            "zh_des": "💻🎉是一份非常棒的、精心策划的Windows最佳应用程序和工具列表。",
+            "url": "https://github.com/Awesome-Windows/Awesome",
+            "name": "Awesome-Windows /Awesome",
+            "description": "💻 🎉 An awesome & curated list of best applications and tools for Windows.",
+            "stars": "26,354",
+            "forks": "2,425",
+            "language": "",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "广泛的节点套件，使ComfyUI能够使用尖端算法(3DGS、NERF等)处理3D输入(网格和UV纹理等)",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "703",
+            "forks": "85",
+            "language": "Python",
+            "stars_today": "416 stars this week"
+        },
+        {
+            "zh_des": "Ngrok/Cloudflare隧道备选方案以及其他隧道软件和服务的列表。专注于自我托管。",
+            "url": "https://github.com/anderspitman/awesome-tunneling",
+            "name": "anderspitman /awesome-tunneling",
+            "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
+            "stars": "12,133",
+            "forks": "600",
+            "language": "",
+            "stars_today": "682 stars this week"
+        },
+        {
+            "zh_des": "一种简单、非常实验性的LPC总线TPM嗅探器",
+            "url": "https://github.com/stacksmashing/pico-tpmsniffer",
+            "name": "stacksmashing /pico-tpmsniffer",
+            "description": "A simple, very experimental TPM sniffer for LPC bus",
+            "stars": "363",
+            "forks": "53",
+            "language": "C",
+            "stars_today": "98 stars this week"
+        }
+    ]
+}

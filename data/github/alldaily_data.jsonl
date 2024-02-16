@@ -18126,3 +18126,257 @@
         }
     ]
 }
+{
+    "02月16日": [
+        {
+            "zh_des": "稳定级联这是稳定级联的官方代码库",
+            "url": "https://github.com/Stability-AI/StableCascade",
+            "name": "Stability-AI /StableCascade",
+            "description": "Stable CascadeThis is the official codebase for Stable Cascade",
+            "stars": "3,053",
+            "forks": "194",
+            "language": "Jupyter Notebook",
+            "stars_today": "577 stars today"
+        },
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "5,976",
+            "forks": "268",
+            "language": "TypeScript",
+            "stars_today": "1,935 stars today"
+        },
+        {
+            "zh_des": "马里奥·卡丁车3",
+            "url": "https://github.com/Lunakepio/Mario-Kart-3.js",
+            "name": "Lunakepio /Mario-Kart-3.js",
+            "description": "Mario Kart 3",
+            "stars": "972",
+            "forks": "183",
+            "language": "JavaScript",
+            "stars_today": "230 stars today"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,010",
+            "forks": "761",
+            "language": "Python",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "AMD GPU上的CUDA",
+            "url": "https://github.com/vosen/ZLUDA",
+            "name": "vosen /ZLUDA",
+            "description": "CUDA on AMD GPUs",
+            "stars": "4,316",
+            "forks": "195",
+            "language": "Rust",
+            "stars_today": "364 stars today"
+        },
+        {
+            "zh_des": "使用纯文本抛出、运行和测试HTTP请求。",
+            "url": "https://github.com/Orange-OpenSource/hurl",
+            "name": "Orange-OpenSource /hurl",
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "stars": "9,872",
+            "forks": "376",
+            "language": "Rust",
+            "stars_today": "251 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,385",
+            "forks": "2,409",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "使用Nextjs、FastAPI和Langchain构建受限代理的初学者工具包",
+            "url": "https://github.com/BCG-X-Official/agentkit",
+            "name": "BCG-X-Official /agentkit",
+            "description": "Starter-kit to build constrained agents with Nextjs, FastAPI and Langchain",
+            "stars": "981",
+            "forks": "110",
+            "language": "TypeScript",
+            "stars_today": "597 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,537",
+            "forks": "2,251",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "14,108",
+            "forks": "996",
+            "language": "TypeScript",
+            "stars_today": "359 stars today"
+        },
+        {
+            "zh_des": "利用反作用轮在角落或边缘保持自身平衡的立方体",
+            "url": "https://github.com/willem-pennings/balancing-cube",
+            "name": "willem-pennings /balancing-cube",
+            "description": "A cube that balances itself in a corner or edge using reaction wheels",
+            "stars": "822",
+            "forks": "88",
+            "language": "C++",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "录制语音笔记并转录、汇总和获取任务",
+            "url": "https://github.com/Nutlope/notesGPT",
+            "name": "Nutlope /notesGPT",
+            "description": "Record voice notes & transcribe, summarize, and get tasks",
+            "stars": "746",
+            "forks": "101",
+            "language": "TypeScript",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "机器学习工程开放读物",
+            "url": "https://github.com/stas00/ml-engineering",
+            "name": "stas00 /ml-engineering",
+            "description": "Machine Learning Engineering Open Book",
+            "stars": "8,450",
+            "forks": "530",
+            "language": "Python",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "TerraForm使您能够安全、可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，可以将API编码到声明性配置文件中，这些配置文件可以在团队成员之间共享，被视为代码，进行编辑、审查和版本控制。",
+            "url": "https://github.com/hashicorp/terraform",
+            "name": "hashicorp /terraform",
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+            "stars": "40,546",
+            "forks": "9,429",
+            "language": "Go",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "DBT使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,482",
+            "forks": "1,465",
+            "language": "Python",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "1,308",
+            "forks": "126",
+            "language": "TypeScript",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "为SagerNet/Sing-Box打造的高级Web面板",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "569",
+            "forks": "50",
+            "language": "Vue",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "1,683",
+            "forks": "1,319",
+            "language": "Rust",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "Triton语言和编译器的开发库",
+            "url": "https://github.com/openai/triton",
+            "name": "openai /triton",
+            "description": "Development repository for the Triton language and compiler",
+            "stars": "9,907",
+            "forks": "1,109",
+            "language": "C++",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "支持bash的外壳解析器、格式器和解释器；包括shfmt",
+            "url": "https://github.com/mvdan/sh",
+            "name": "mvdan /sh",
+            "description": "A shell parser, formatter, and interpreter with bash support; includes shfmt",
+            "stars": "6,579",
+            "forks": "341",
+            "language": "Go",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "11,254",
+            "forks": "1,164",
+            "language": "Python",
+            "stars_today": "642 stars today"
+        },
+        {
+            "zh_des": "一款在情人节给你所爱的人留下深刻印象的简单应用程序！",
+            "url": "https://github.com/saurabhnemade/will-you-be-my-valentine",
+            "name": "saurabhnemade /will-you-be-my-valentine",
+            "description": "A simple application to impress your loved ones on valentines day!!",
+            "stars": "172",
+            "forks": "174",
+            "language": "TypeScript",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "SUPIR致力于开发实用的野外照片真实感图像恢复算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "1,317",
+            "forks": "83",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "使用TensorRT-LLM在Windows上创建检索增强生成(RAG)聊天机器人的开发人员参考项目",
+            "url": "https://github.com/NVIDIA/trt-llm-rag-windows",
+            "name": "NVIDIA /trt-llm-rag-windows",
+            "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+            "stars": "1,079",
+            "forks": "90",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": ".NET新闻、公告、发行说明等！",
+            "url": "https://github.com/dotnet/core",
+            "name": "dotnet /core",
+            "description": ".NET news, announcements, release notes, and more!",
+            "stars": "19,752",
+            "forks": "4,962",
+            "language": "PowerShell",
+            "stars_today": "13 stars today"
+        }
+    ]
+}
