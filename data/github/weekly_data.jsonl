@@ -16254,3 +16254,257 @@
         }
     ]
 }
+{
+    "02月17日": [
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "7,699",
+            "forks": "936",
+            "language": "Python",
+            "stars_today": "3,474 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "2,132",
+            "forks": "264",
+            "language": "Python",
+            "stars_today": "1,115 stars this week"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "2,133",
+            "forks": "224",
+            "language": "Python",
+            "stars_today": "1,527 stars this week"
+        },
+        {
+            "zh_des": "通过多模式大语言模型指导基于指令的图像编辑此报告此报告包含通过多模式大语言模型(ICLR‘24 Spotlight)指导基于指令的图像编辑的代码MGIE是\n“基于多模式大语言模型的指导式图像编辑”\n傅资瑞、胡文泽、杜宪志、王威廉、杨银飞、哲干\n在2024国际学习表征会议(ICLR)上，基于指令的图像编辑通过自然命令提高了图像处理的可控性和灵活性，而不需要复杂的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "3,348",
+            "forks": "229",
+            "language": "Python",
+            "stars_today": "941 stars this week"
+        },
+        {
+            "zh_des": "本地用户",
+            "url": "https://github.com/GoogleCloudPlatform/localllm",
+            "name": "GoogleCloudPlatform /localllm",
+            "description": "localllm",
+            "stars": "1,360",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "1,033 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,433",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "613 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,514",
+            "forks": "145",
+            "language": "Python",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "欢迎您对🙌开源小项目的贡献！",
+            "url": "https://github.com/ndleah/python-mini-project",
+            "name": "ndleah /python-mini-project",
+            "description": "🙌 Welcome open-source Python mini-project contributions!",
+            "stars": "1,559",
+            "forks": "789",
+            "language": "Python",
+            "stars_today": "499 stars this week"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "2,496",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,547",
+            "forks": "2,446",
+            "language": "Python",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "广泛的节点套件，使ComfyUI能够使用尖端算法(3DGS、NERF等)处理3D输入(网格和UV纹理等)",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "721",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "SUPIR致力于开发实用的野外照片真实感图像恢复算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "1,391",
+            "forks": "103",
+            "language": "Python",
+            "stars_today": "374 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,074",
+            "forks": "782",
+            "language": "Python",
+            "stars_today": "510 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "11,023",
+            "forks": "1,456",
+            "language": "Python",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "DBT使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,504",
+            "forks": "1,471",
+            "language": "Python",
+            "stars_today": "268 stars this week"
+        },
+        {
+            "zh_des": "DynamiCrafter：预先设置视频扩散的开域图像动画",
+            "url": "https://github.com/Doubiiu/DynamiCrafter",
+            "name": "Doubiiu /DynamiCrafter",
+            "description": "DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors",
+            "stars": "809",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "29,101",
+            "forks": "4,255",
+            "language": "Python",
+            "stars_today": "259 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,568",
+            "forks": "2,253",
+            "language": "Python",
+            "stars_today": "288 stars this week"
+        },
+        {
+            "zh_des": "100个麻木练习(附解答)",
+            "url": "https://github.com/rougier/numpy-100",
+            "name": "rougier /numpy-100",
+            "description": "100 numpy exercises (with solutions)",
+            "stars": "11,234",
+            "forks": "5,440",
+            "language": "Python",
+            "stars_today": "97 stars this week"
+        },
+        {
+            "zh_des": "EfficientViT是一种新的高效高分辨率视觉模型家族。",
+            "url": "https://github.com/mit-han-lab/efficientvit",
+            "name": "mit-han-lab /efficientvit",
+            "description": "EfficientViT is a new family of vision models for efficient high-resolution vision.",
+            "stars": "941",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "92 stars this week"
+        },
+        {
+            "zh_des": "用代码设计电路板！✨获得类似软件的设计重用🚀、验证、版本控制以及硬件方面的协作；从电子⚡️开始",
+            "url": "https://github.com/atopile/atopile",
+            "name": "atopile /atopile",
+            "description": "Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️",
+            "stars": "1,343",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "400 stars this week"
+        },
+        {
+            "zh_des": "在Neovim与GitHub副驾驶聊天",
+            "url": "https://github.com/CopilotC-Nvim/CopilotChat.nvim",
+            "name": "CopilotC-Nvim /CopilotChat.nvim",
+            "description": "Chat with GitHub Copilot in Neovim",
+            "stars": "274",
+            "forks": "24",
+            "language": "Python",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "大卫·阿滕伯勒讲述你的生活",
+            "url": "https://github.com/cbh123/narrator",
+            "name": "cbh123 /narrator",
+            "description": "David Attenborough narrates your life",
+            "stars": "3,631",
+            "forks": "414",
+            "language": "Python",
+            "stars_today": "68 stars this week"
+        },
+        {
+            "zh_des": "适用于Python的数据应用和仪表板。不需要任何Java脚本。",
+            "url": "https://github.com/plotly/dash",
+            "name": "plotly /dash",
+            "description": "Data Apps & Dashboards for Python. No JavaScript Required.",
+            "stars": "20,123",
+            "forks": "2,043",
+            "language": "Python",
+            "stars_today": "61 stars this week"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,455",
+            "forks": "2,405",
+            "language": "Python",
+            "stars_today": "113 stars this week"
+        }
+    ]
+}
