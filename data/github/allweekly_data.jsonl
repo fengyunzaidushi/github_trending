@@ -16254,3 +16254,257 @@
         }
     ]
 }
+{
+    "02月17日": [
+        {
+            "zh_des": "LLRT(Low Latency Runtime)是一个实验性的、轻量级的JavaScript运行时，旨在满足快速高效的无服务器应用程序日益增长的需求。",
+            "url": "https://github.com/awslabs/llrt",
+            "name": "awslabs /llrt",
+            "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "stars": "6,321",
+            "forks": "287",
+            "language": "JavaScript",
+            "stars_today": "4,597 stars this week"
+        },
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "7,750",
+            "forks": "942",
+            "language": "Python",
+            "stars_today": "3,474 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "2,163",
+            "forks": "267",
+            "language": "Python",
+            "stars_today": "1,115 stars this week"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "2,158",
+            "forks": "225",
+            "language": "Python",
+            "stars_today": "1,527 stars this week"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "7,537",
+            "forks": "226",
+            "language": "Java",
+            "stars_today": "4,086 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,472",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "613 stars this week"
+        },
+        {
+            "zh_des": "通过多模式大语言模型指导基于指令的图像编辑此报告此报告包含通过多模式大语言模型(ICLR‘24 Spotlight)指导基于指令的图像编辑的代码MGIE是\n“基于多模式大语言模型的指导式图像编辑”\n傅资瑞、胡文泽、杜宪志、王威廉、杨银飞、哲干\n在2024国际学习表征会议(ICLR)上，基于指令的图像编辑通过自然命令提高了图像处理的可控性和灵活性，而不需要复杂的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "3,361",
+            "forks": "232",
+            "language": "Python",
+            "stars_today": "941 stars this week"
+        },
+        {
+            "zh_des": "Rinha de Backend收藏库2？EDIção da Rinha de后端",
+            "url": "https://github.com/zanfranceschi/rinha-de-backend-2024-q1",
+            "name": "zanfranceschi /rinha-de-backend-2024-q1",
+            "description": "Repositório da 2ª edição da Rinha de Backend",
+            "stars": "1,310",
+            "forks": "558",
+            "language": "PLpgSQL",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "Conductor是一个微服务编排引擎。",
+            "url": "https://github.com/conductor-oss/conductor",
+            "name": "conductor-oss /conductor",
+            "description": "Conductor is a microservices orchestration engine.",
+            "stars": "3,912",
+            "forks": "129",
+            "language": "Java",
+            "stars_today": "1,103 stars this week"
+        },
+        {
+            "zh_des": "Badget旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/Badget",
+            "name": "projectx-codehagen /Badget",
+            "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,395",
+            "forks": "151",
+            "language": "TypeScript",
+            "stars_today": "636 stars this week"
+        },
+        {
+            "zh_des": "阻止DNS服务器的全网广告和跟踪器",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "name": "AdguardTeam /AdGuardHome",
+            "description": "Network-wide ads & trackers blocking DNS server",
+            "stars": "21,559",
+            "forks": "1,685",
+            "language": "Go",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "本地用户",
+            "url": "https://github.com/GoogleCloudPlatform/localllm",
+            "name": "GoogleCloudPlatform /localllm",
+            "description": "localllm",
+            "stars": "1,366",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "1,033 stars this week"
+        },
+        {
+            "zh_des": "Flipper Zero固件中的DOM。给你的鳍状肢它真正渴望的力量和自由。让它向你展示它的真实面貌。不要耽搁，今天就切换到唯一真正的师父吧！",
+            "url": "https://github.com/Flipper-XFW/Xtreme-Firmware",
+            "name": "Flipper-XFW /Xtreme-Firmware",
+            "description": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!",
+            "stars": "8,034",
+            "forks": "590",
+            "language": "C",
+            "stars_today": "288 stars this week"
+        },
+        {
+            "zh_des": "用于苹果应用程序开发的FireBase SDK",
+            "url": "https://github.com/firebase/firebase-ios-sdk",
+            "name": "firebase /firebase-ios-sdk",
+            "description": "Firebase SDK for Apple App Development",
+            "stars": "4,902",
+            "forks": "1,392",
+            "language": "Objective-C",
+            "stars_today": "25 stars this week"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,612",
+            "forks": "2,472",
+            "language": "Python",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,434",
+            "forks": "370",
+            "language": "TypeScript",
+            "stars_today": "95 stars this week"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,505",
+            "forks": "1,147",
+            "language": "Go",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "7,282",
+            "forks": "370",
+            "language": "TypeScript",
+            "stars_today": "500 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,578",
+            "forks": "169",
+            "language": "Python",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "这是sudo，适用于Windows",
+            "url": "https://github.com/microsoft/sudo",
+            "name": "microsoft /sudo",
+            "description": "It's sudo, for Windows",
+            "stars": "3,221",
+            "forks": "85",
+            "language": "PowerShell",
+            "stars_today": "2,407 stars this week"
+        },
+        {
+            "zh_des": "这是一个Repo，其中包含您想要了解的有关数据工程的所有内容的链接",
+            "url": "https://github.com/DataEngineer-io/data-engineer-handbook",
+            "name": "DataEngineer-io /data-engineer-handbook",
+            "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+            "stars": "6,590",
+            "forks": "945",
+            "language": "",
+            "stars_today": "767 stars this week"
+        },
+        {
+            "zh_des": "HULY平台-线性/Jira、松弛、概念、运动等的一体机替代品",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+            "stars": "1,113",
+            "forks": "111",
+            "language": "Svelte",
+            "stars_today": "808 stars this week"
+        },
+        {
+            "zh_des": "像书呆子一样，祝你所爱的人过情人节。",
+            "url": "https://github.com/GovindCodes/ValentineWish",
+            "name": "GovindCodes /ValentineWish",
+            "description": "Wish Valentine's Day to Your loved ones like a Nerd.",
+            "stars": "174",
+            "forks": "550",
+            "language": "JavaScript",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "2,510",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "14,201",
+            "forks": "1,004",
+            "language": "TypeScript",
+            "stars_today": "751 stars this week"
+        }
+    ]
+}
