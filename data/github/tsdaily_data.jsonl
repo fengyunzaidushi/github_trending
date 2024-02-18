@@ -6856,3 +6856,257 @@
         }
     ]
 }
+{
+    "02月18日": [
+        {
+            "zh_des": "在本地运行模型的AI笔记应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "2,505",
+            "forks": "113",
+            "language": "TypeScript",
+            "stars_today": "377 stars today"
+        },
+        {
+            "zh_des": "使用Next.js 14、Clerk、MongoDB、Cloudinary AI和Strip构建一个真正的软件即服务应用程序，它具有人工智能功能和支付与信用系统，您甚至可能会将其转变为附带收入或商业想法。",
+            "url": "https://github.com/adrianhajdin/ai_saas_app",
+            "name": "adrianhajdin /ai_saas_app",
+            "description": "Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.",
+            "stars": "186",
+            "forks": "57",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🌎--星际微博平台🚀",
+            "url": "https://github.com/misskey-dev/misskey",
+            "name": "misskey-dev /misskey",
+            "description": "🌎 An interplanetary microblogging platform 🚀",
+            "stars": "9,167",
+            "forks": "1,220",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "60,738",
+            "forks": "52,221",
+            "language": "TypeScript",
+            "stars_today": "304 stars today"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "1,720",
+            "forks": "189",
+            "language": "TypeScript",
+            "stars_today": "217 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "10,451",
+            "forks": "568",
+            "language": "TypeScript",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "Bingo，一个让你呼吸顺畅新Bing。",
+            "url": "https://github.com/weaigc/bingo",
+            "name": "weaigc /bingo",
+            "description": "Bingo，一个让你呼吸顺畅 New Bing。",
+            "stars": "2,064",
+            "forks": "818",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "开源创建者文档",
+            "url": "https://github.com/Roblox/creator-docs",
+            "name": "Roblox /creator-docs",
+            "description": "Open Source Creator Documentation",
+            "stars": "231",
+            "forks": "556",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "107,004",
+            "forks": "13,736",
+            "language": "TypeScript",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "NestJS样板。Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。",
+            "url": "https://github.com/brocoders/nestjs-boilerplate",
+            "name": "brocoders /nestjs-boilerplate",
+            "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+            "stars": "2,012",
+            "forks": "433",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "对话式RPA SDK，适用于聊天机器人制造商。加入我们的不和：https://discord.gg/7q8NBZbQzt",
+            "url": "https://github.com/wechaty/wechaty",
+            "name": "wechaty /wechaty",
+            "description": "Conversational RPA SDK for Chatbot Makers. Join our Discord:https://discord.gg/7q8NBZbQzt",
+            "stars": "18,369",
+            "forks": "2,554",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🤖lobe Chat--一个开源、高性能的AI聊天框架。支持一键免费部署您的私人ChatGPT/Gemini/Local LLM应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.",
+            "stars": "17,850",
+            "forks": "3,729",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "在燃料网络上种植🍅。",
+            "url": "https://github.com/FuelLabs/sway-farm",
+            "name": "FuelLabs /sway-farm",
+            "description": "Farm 🍅 on the Fuel network.",
+            "stars": "477",
+            "forks": "61",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "掌上电脑联网-代理",
+            "url": "https://github.com/antergone/palm-netlify-proxy",
+            "name": "antergone /palm-netlify-proxy",
+            "description": "palm-netlify-proxy",
+            "stars": "113",
+            "forks": "170",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "虫洞区块链互操作性协议的参考实现。",
+            "url": "https://github.com/wormhole-foundation/wormhole",
+            "name": "wormhole-foundation /wormhole",
+            "description": "A reference implementation for the Wormhole blockchain interoperability protocol.",
+            "stars": "1,412",
+            "forks": "572",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "使用Next.js克隆、部署和完全定制SaaS订阅应用程序。",
+            "url": "https://github.com/vercel/nextjs-subscription-payments",
+            "name": "vercel /nextjs-subscription-payments",
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "stars": "4,821",
+            "forks": "956",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🥞煎饼的主要特征(农场、游泳池、IFO、彩票、个人资料)",
+            "url": "https://github.com/pancakeswap/pancake-frontend",
+            "name": "pancakeswap /pancake-frontend",
+            "description": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
+            "stars": "2,502",
+            "forks": "3,563",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "使用T3堆栈和EXPO REPACT Native进行干净、简单的入门回购",
+            "url": "https://github.com/t3-oss/create-t3-turbo",
+            "name": "t3-oss /create-t3-turbo",
+            "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+            "stars": "3,717",
+            "forks": "305",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "3,970",
+            "forks": "1,031",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于数据应用程序、仪表板、报告等的静态站点生成器。可观察框架将前端的交互图形的JavaScript与后端的任何语言相结合，以进行数据分析。",
+            "url": "https://github.com/observablehq/framework",
+            "name": "observablehq /framework",
+            "description": "A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.",
+            "stars": "1,015",
+            "forks": "19",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "GeminiPro的最小Web用户界面。",
+            "url": "https://github.com/babaohuang/GeminiProChat",
+            "name": "babaohuang /GeminiProChat",
+            "description": "Minimal web UI for GeminiPro.",
+            "stars": "3,586",
+            "forks": "10,886",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "35,126",
+            "forks": "5,527",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "38,312",
+            "forks": "9,871",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "35,715",
+            "forks": "4,221",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "循序渐进地学习打字稿",
+            "url": "https://github.com/panaverse/learn-typescript",
+            "name": "panaverse /learn-typescript",
+            "description": "Learning TypeScript in Baby Steps",
+            "stars": "750",
+            "forks": "410",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}

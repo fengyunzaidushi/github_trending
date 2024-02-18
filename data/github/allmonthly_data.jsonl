@@ -16244,3 +16244,257 @@
         }
     ]
 }
+{
+    "02月18日": [
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "13,354",
+            "forks": "1,408",
+            "language": "Python",
+            "stars_today": "11,107 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "22,999",
+            "forks": "1,734",
+            "language": "Ruby",
+            "stars_today": "12,861 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,330",
+            "forks": "132",
+            "language": "Python",
+            "stars_today": "921 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,535",
+            "forks": "433",
+            "language": "Python",
+            "stars_today": "1,721 stars this month"
+        },
+        {
+            "zh_des": "🎧开源视频客户端，既不需要高级版，也不使用电子！台式机和移动设备均可使用！",
+            "url": "https://github.com/KRTirtho/spotube",
+            "name": "KRTirtho /spotube",
+            "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+            "stars": "22,117",
+            "forks": "840",
+            "language": "Dart",
+            "stars_today": "10,790 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,722",
+            "forks": "2,501",
+            "language": "Python",
+            "stars_today": "853 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,484",
+            "forks": "1,405",
+            "language": "Python",
+            "stars_today": "1,493 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "4,223",
+            "forks": "342",
+            "language": "Python",
+            "stars_today": "3,272 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,546",
+            "forks": "2,990",
+            "language": "C++",
+            "stars_today": "711 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "24,812",
+            "forks": "1,810",
+            "language": "Go",
+            "stars_today": "2,582 stars this month"
+        },
+        {
+            "zh_des": "∠BCE=∠ADE[10]&E，C，A共线[03]&E，B，D共线[02]&∠EBC=∠EAD[11]⇒AD⟂BCT存储库包含以下所需的代码\n复制DDAR和AlphaGeometry，\n两个几何定理证明者\n在《自然2024》的论文中介绍了：",
+            "url": "https://github.com/google-deepmind/alphageometry",
+            "name": "google-deepmind /alphageometry",
+            "description": "Solving Olympiad Geometry without Human Demonstrations∠BCE = ∠ADE [10] & E,C,A are collinear [03] & E,B,D are collinear [02] & ∠EBC = ∠EAD [11] ⇒  AD ⟂ BCThis repository contains the code necessary to\nreproduce DDAR and AlphaGeometry,\nthe two geometry theorem provers\nintroduced in the Nature 2024 paper:",
+            "stars": "3,328",
+            "forks": "332",
+            "language": "Python",
+            "stars_today": "3,330 stars this month"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,087",
+            "forks": "4,484",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,396 stars this month"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放平台",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open platform for building developer portals",
+            "stars": "25,542",
+            "forks": "5,157",
+            "language": "TypeScript",
+            "stars_today": "855 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,925",
+            "forks": "1,481",
+            "language": "Python",
+            "stars_today": "1,451 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,510",
+            "forks": "1,147",
+            "language": "Go",
+            "stars_today": "62 stars this month"
+        },
+        {
+            "zh_des": "一种面向编程工具的增量式语法分析系统",
+            "url": "https://github.com/tree-sitter/tree-sitter",
+            "name": "tree-sitter /tree-sitter",
+            "description": "An incremental parsing system for programming tools",
+            "stars": "15,246",
+            "forks": "1,216",
+            "language": "Rust",
+            "stars_today": "984 stars this month"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "107,004",
+            "forks": "13,736",
+            "language": "TypeScript",
+            "stars_today": "2,728 stars this month"
+        },
+        {
+            "zh_des": "伺服浏览器引擎",
+            "url": "https://github.com/servo/servo",
+            "name": "servo /servo",
+            "description": "The Servo Browser Engine",
+            "stars": "25,320",
+            "forks": "2,872",
+            "language": "",
+            "stars_today": "673 stars this month"
+        },
+        {
+            "zh_des": "使用Reaction开发通用原生应用程序的开源平台。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "27,110",
+            "forks": "4,586",
+            "language": "TypeScript",
+            "stars_today": "1,218 stars this month"
+        },
+        {
+            "zh_des": "在本地运行giHub操作🚀",
+            "url": "https://github.com/nektos/act",
+            "name": "nektos /act",
+            "description": "Run your GitHub Actions locally 🚀",
+            "stars": "47,947",
+            "forks": "1,232",
+            "language": "Go",
+            "stars_today": "1,292 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,468",
+            "forks": "2,406",
+            "language": "Python",
+            "stars_today": "721 stars this month"
+        },
+        {
+            "zh_des": "Slint是一个声明性的图形用户界面工具包，用于为Rust、C++或JavaScript应用程序构建本机用户界面。",
+            "url": "https://github.com/slint-ui/slint",
+            "name": "slint-ui /slint",
+            "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+            "stars": "13,443",
+            "forks": "425",
+            "language": "Rust",
+            "stars_today": "1,417 stars this month"
+        },
+        {
+            "zh_des": "12306智能刷票，订票",
+            "url": "https://github.com/testerSunshine/12306",
+            "name": "testerSunshine /12306",
+            "description": "12306智能刷票，订票",
+            "stars": "33,510",
+            "forks": "9,865",
+            "language": "Python",
+            "stars_today": "455 stars this month"
+        },
+        {
+            "zh_des": "一个分散的、相当于以太的ZK-ROLLUP。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A decentralized, Ethereum-equivalent ZK-Rollup. 🥁",
+            "stars": "2,761",
+            "forks": "1,429",
+            "language": "HTML",
+            "stars_today": "268 stars this month"
+        },
+        {
+            "zh_des": "Storybook是一个前端研讨会，用于单独构建UI组件和页面。专为用户界面开发、测试和文档而设计。",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+            "stars": "81,995",
+            "forks": "9,094",
+            "language": "TypeScript",
+            "stars_today": "710 stars this month"
+        }
+    ]
+}

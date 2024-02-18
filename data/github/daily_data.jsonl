@@ -18635,3 +18635,257 @@
         }
     ]
 }
+{
+    "02月18日": [
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "2,211",
+            "forks": "160",
+            "language": "Python",
+            "stars_today": "829 stars today"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "2,601",
+            "forks": "113",
+            "language": "Python",
+            "stars_today": "433 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "13,354",
+            "forks": "1,408",
+            "language": "Python",
+            "stars_today": "1,609 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "121,397",
+            "forks": "24,186",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "936",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "ComfyUI中扩散器稳定级联的简单推理",
+            "url": "https://github.com/kijai/ComfyUI-DiffusersStableCascade",
+            "name": "kijai /ComfyUI-DiffusersStableCascade",
+            "description": "Simple inference with StableCascade using diffusers in ComfyUI",
+            "stars": "247",
+            "forks": "44",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "GraphCast：学习巧妙的中期全球天气预报",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "GraphCast: Learning skillful medium-range global weather forecasting",
+            "stars": "3,821",
+            "forks": "450",
+            "language": "Python",
+            "stars_today": "159 stars today"
+        },
+        {
+            "zh_des": "《变形金刚可伸缩扩散模型》的官方实施",
+            "url": "https://github.com/facebookresearch/DiT",
+            "name": "facebookresearch /DiT",
+            "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+            "stars": "2,287",
+            "forks": "179",
+            "language": "Python",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "651",
+            "forks": "38",
+            "language": "Python",
+            "stars_today": "187 stars today"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "11,394",
+            "forks": "1,511",
+            "language": "Python",
+            "stars_today": "345 stars today"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,797",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,722",
+            "forks": "2,501",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "name": "xaitax /CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "stars": "161",
+            "forks": "36",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "22,285",
+            "forks": "3,923",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "25,457",
+            "forks": "2,731",
+            "language": "Python",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "Web路径扫描仪",
+            "url": "https://github.com/maurosoria/dirsearch",
+            "name": "maurosoria /dirsearch",
+            "description": "Web path scanner",
+            "stars": "10,910",
+            "forks": "2,263",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "889",
+            "forks": "137",
+            "language": "Python",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "46,953",
+            "forks": "6,010",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "I茅台，葫芦娃预约脚本",
+            "url": "https://github.com/yize8888/maotai",
+            "name": "yize8888 /maotai",
+            "description": "i茅台，葫芦娃预约脚本",
+            "stars": "726",
+            "forks": "161",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "51,658",
+            "forks": "6,726",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "一次性和临时电子邮件地址域列表",
+            "url": "https://github.com/disposable-email-domains/disposable-email-domains",
+            "name": "disposable-email-domains /disposable-email-domains",
+            "description": "a list of disposable and temporary email address domains",
+            "stars": "2,087",
+            "forks": "481",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "RSA攻击工具(主要用于CTF)-从弱公钥和/或未加密数据中检索私钥",
+            "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+            "name": "RsaCtfTool /RsaCtfTool",
+            "description": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+            "stars": "5,056",
+            "forks": "887",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,595",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "一种由LLMS提供支持的人工智能代理，可以简化整个数据分析过程。🚀",
+            "url": "https://github.com/Wilson-ZheLin/Streamline-Analyst",
+            "name": "Wilson-ZheLin /Streamline-Analyst",
+            "description": "An AI agent powered by LLMs that streamlines the entire process of data analysis. 🚀",
+            "stars": "78",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "7,717",
+            "forks": "833",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        }
+    ]
+}
