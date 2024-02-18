@@ -18381,3 +18381,257 @@
         }
     ]
 }
+{
+    "02月18日": [
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "12,884",
+            "forks": "1,340",
+            "language": "Python",
+            "stars_today": "343 stars today"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "1,596",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "483 stars today"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,730",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "11,316",
+            "forks": "1,502",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,687",
+            "forks": "2,496",
+            "language": "Python",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,185",
+            "forks": "798",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "869",
+            "forks": "137",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "GraphCast：学习巧妙的中期全球天气预报",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "GraphCast: Learning skillful medium-range global weather forecasting",
+            "stars": "3,761",
+            "forks": "435",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "FLOW：一种友好的联邦学习框架",
+            "url": "https://github.com/adap/flower",
+            "name": "adap /flower",
+            "description": "Flower: A Friendly Federated Learning Framework",
+            "stars": "3,709",
+            "forks": "700",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "骆驼模型的推理码",
+            "url": "https://github.com/facebookresearch/llama",
+            "name": "facebookresearch /llama",
+            "description": "Inference code for LLaMA models",
+            "stars": "49,832",
+            "forks": "8,637",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "4,197",
+            "forks": "4,989",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "ComfyUI中扩散器稳定级联的简单推理",
+            "url": "https://github.com/kijai/ComfyUI-DiffusersStableCascade",
+            "name": "kijai /ComfyUI-DiffusersStableCascade",
+            "description": "Simple inference with StableCascade using diffusers in ComfyUI",
+            "stars": "222",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "715",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "339 stars today"
+        },
+        {
+            "zh_des": "SUPIR致力于开发实用的野外照片真实感图像恢复算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "1,418",
+            "forks": "104",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "Audiocraft是一个用于音频处理和生成的库，具有深度学习。它配备了最先进的EnCodec音频压缩器/令牌化器，以及MusicGen，这是一种简单可控的音乐生成LM，具有文本和旋律调节功能。",
+            "url": "https://github.com/facebookresearch/audiocraft",
+            "name": "facebookresearch /audiocraft",
+            "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+            "stars": "18,801",
+            "forks": "1,874",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "549",
+            "forks": "29",
+            "language": "Python",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "用于开发、生产和观察数据资产的编排平台。",
+            "url": "https://github.com/dagster-io/dagster",
+            "name": "dagster-io /dagster",
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "stars": "9,639",
+            "forks": "1,203",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "机器学习算法实现的最小且干净的示例",
+            "url": "https://github.com/rushter/MLAlgorithms",
+            "name": "rushter /MLAlgorithms",
+            "description": "Minimal and clean examples of machine learning algorithms implementations",
+            "stars": "10,129",
+            "forks": "1,768",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "适用于大型语言模型的GRadio Web用户界面。支持变压器、GPTQ、AWQ、EXL2、Llama.cpp(GGUF)、Llama型号。",
+            "url": "https://github.com/oobabooga/text-generation-webui",
+            "name": "oobabooga /text-generation-webui",
+            "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+            "stars": "32,897",
+            "forks": "4,494",
+            "language": "Python",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "1,001",
+            "forks": "98",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "46,763",
+            "forks": "6,004",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "⚡在不知道密钥或密码的情况下自动解密加密、解码编码和破解散列⚡",
+            "url": "https://github.com/Ciphey/Ciphey",
+            "name": "Ciphey /Ciphey",
+            "description": "⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡",
+            "stars": "15,310",
+            "forks": "990",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "使用TensorRT-LLM在Windows上创建检索增强生成(RAG)聊天机器人的开发人员参考项目",
+            "url": "https://github.com/NVIDIA/trt-llm-rag-windows",
+            "name": "NVIDIA /trt-llm-rag-windows",
+            "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+            "stars": "1,307",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "《数据导报》",
+            "url": "https://github.com/Dataherald/dataherald",
+            "name": "Dataherald /dataherald",
+            "description": "dataherald",
+            "stars": "944",
+            "forks": "75",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "121,275",
+            "forks": "24,149",
+            "language": "Python",
+            "stars_today": "174 stars today"
+        }
+    ]
+}

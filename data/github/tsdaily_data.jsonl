@@ -6602,3 +6602,257 @@
         }
     ]
 }
+{
+    "02月18日": [
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "1,669",
+            "forks": "188",
+            "language": "TypeScript",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "在本地运行模型的AI笔记应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "2,311",
+            "forks": "97",
+            "language": "TypeScript",
+            "stars_today": "629 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "60,652",
+            "forks": "52,179",
+            "language": "TypeScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "用于数据应用程序、仪表板、报告等的静态站点生成器。可观察框架将前端的交互图形的JavaScript与后端的任何语言相结合，以进行数据分析。",
+            "url": "https://github.com/observablehq/framework",
+            "name": "observablehq /framework",
+            "description": "A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.",
+            "stars": "968",
+            "forks": "17",
+            "language": "TypeScript",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "录制语音笔记并转录、汇总和获取任务",
+            "url": "https://github.com/Nutlope/notesGPT",
+            "name": "Nutlope /notesGPT",
+            "description": "Record voice notes & transcribe, summarize, and get tasks",
+            "stars": "962",
+            "forks": "147",
+            "language": "TypeScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "156,224",
+            "forks": "28,311",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "10,374",
+            "forks": "561",
+            "language": "TypeScript",
+            "stars_today": "383 stars today"
+        },
+        {
+            "zh_des": "📆解析、格式化、操作和国际化脚本中的日期和时间。",
+            "url": "https://github.com/formkit/tempo",
+            "name": "formkit /tempo",
+            "description": "📆 Parse, format, manipulate, and internationalize dates and times in JavaScript and TypeScript.",
+            "stars": "781",
+            "forks": "6",
+            "language": "TypeScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "由Stellaswap赞助的将代数农业子图迁移到SubSquid的探索",
+            "url": "https://github.com/subsquid-quests/algebra-farming-subgraph-migration",
+            "name": "subsquid-quests /algebra-farming-subgraph-migration",
+            "description": "A Stellaswap-sponsored quest to migrate the Algebra Farming subgraph to Subsquid",
+            "stars": "36",
+            "forks": "21",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "14,234",
+            "forks": "1,005",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "Bingo，一个让你呼吸顺畅新Bing。",
+            "url": "https://github.com/weaigc/bingo",
+            "name": "weaigc /bingo",
+            "description": "Bingo，一个让你呼吸顺畅 New Bing。",
+            "stars": "2,060",
+            "forks": "817",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Stellaswap赞助的将代数子图迁移到SubSquid的探索",
+            "url": "https://github.com/subsquid-quests/algebra-subgraph-migration",
+            "name": "subsquid-quests /algebra-subgraph-migration",
+            "description": "Stellaswap-sponsored quest to migrate the Algebra subgraph to Subsquid",
+            "stars": "58",
+            "forks": "18",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "93,600",
+            "forks": "25,207",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "😱一个更好的获取API。在节点、浏览器和工作进程上工作。",
+            "url": "https://github.com/unjs/ofetch",
+            "name": "unjs /ofetch",
+            "description": "😱 A better fetch API. Works on node, browser and workers.",
+            "stars": "3,032",
+            "forks": "102",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "📦🐈主动开发纱线⚒的主干",
+            "url": "https://github.com/yarnpkg/berry",
+            "name": "yarnpkg /berry",
+            "description": "📦🐈 Active development trunk for Yarn ⚒",
+            "stars": "6,984",
+            "forks": "1,124",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "循序渐进地学习打字稿",
+            "url": "https://github.com/panaverse/learn-typescript",
+            "name": "panaverse /learn-typescript",
+            "description": "Learning TypeScript in Baby Steps",
+            "stars": "738",
+            "forks": "406",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "383,590",
+            "forks": "35,893",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "🤖无头用户界面，用于为TS/JS-Reaction-Table、Vue-Table、Solid-Table、Svelte-Table构建强大的表格和数据网格",
+            "url": "https://github.com/TanStack/table",
+            "name": "TanStack /table",
+            "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table",
+            "stars": "23,587",
+            "forks": "3,008",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "7,673",
+            "forks": "699",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "一个现代搜索引擎API的动画，电影/电视节目，书籍，轻小说，漫画等。",
+            "url": "https://github.com/consumet/api.consumet.org",
+            "name": "consumet /api.consumet.org",
+            "description": "A Modern Search Engine API for Anime, Movies/TVShows, Books, Light Novels, Manga, etc.",
+            "stars": "793",
+            "forks": "309",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一种支持二期SubSquid网络统一加载的Quest Squid",
+            "url": "https://github.com/subsquid-quests/network-test-one-uniform-load-squid",
+            "name": "subsquid-quests /network-test-one-uniform-load-squid",
+            "description": "A quest squid designed to load Phase 2 Subsquid Network uniformly",
+            "stars": "79",
+            "forks": "107",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "10,796",
+            "forks": "844",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在整个团队/基础设施中同步秘密，防止秘密泄露。",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.",
+            "stars": "11,097",
+            "forks": "536",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "24,719",
+            "forks": "3,489",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "任何电子商务的开源前端。使用PWA和无头方法构建，使用现代JS堆栈。我们有与Magento、CommercTool、Shopware和Shopify的定制集成，总覆盖只是一个时间问题。API方法还允许您将VSF与CMS、支付网关或分析等任何第三方工具合并。Ne…",
+            "url": "https://github.com/vuestorefront/vue-storefront",
+            "name": "vuestorefront /vue-storefront",
+            "description": "The open-source frontend for any eCommerce. Built with a PWA and headless approach, using a modern JS stack. We have custom integrations with Magento, commercetools, Shopware and Shopify and total coverage is just a matter of time. The API approach also allows you to merge VSF with any third-party tool like CMS, payment gateways or analytics. Ne…",
+            "stars": "10,405",
+            "forks": "2,077",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        }
+    ]
+}
