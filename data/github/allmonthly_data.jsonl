@@ -16752,3 +16752,257 @@
         }
     ]
 }
+{
+    "02月19日": [
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(few（Shot Voice Cloning）",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "13,930",
+            "forks": "1,460",
+            "language": "Python",
+            "stars_today": "11,892 stars this month"
+        },
+        {
+            "zh_des": "操作系统为您的个人财务",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "23,090",
+            "forks": "1,739",
+            "language": "Ruby",
+            "stars_today": "11,601 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而非编程基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,585",
+            "forks": "438",
+            "language": "Python",
+            "stars_today": "1,739 stars this month"
+        },
+        {
+            "zh_des": "不妥协的Python代码格式化程序",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,757",
+            "forks": "2,500",
+            "language": "Python",
+            "stars_today": "978 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,510",
+            "forks": "1,408",
+            "language": "Python",
+            "stars_today": "1,514 stars this month"
+        },
+        {
+            "zh_des": "问题和答案基于任何东西。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "4,305",
+            "forks": "349",
+            "language": "Python",
+            "stars_today": "3,013 stars this month"
+        },
+        {
+            "zh_des": "Serenity操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,567",
+            "forks": "2,994",
+            "language": "C++",
+            "stars_today": "725 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的精彩想法。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "24,883",
+            "forks": "1,814",
+            "language": "Go",
+            "stars_today": "2,616 stars this month"
+        },
+        {
+            "zh_des": "一种用于程序设计工具的增量式语法分析系统",
+            "url": "https://github.com/tree-sitter/tree-sitter",
+            "name": "tree-sitter /tree-sitter",
+            "description": "An incremental parsing system for programming tools",
+            "stars": "15,300",
+            "forks": "1,220",
+            "language": "Rust",
+            "stars_today": "1,005 stars this month"
+        },
+        {
+            "zh_des": "Backstage是一个用于构建开发人员门户的开放平台",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open platform for building developer portals",
+            "stars": "25,566",
+            "forks": "5,160",
+            "language": "TypeScript",
+            "stars_today": "855 stars this month"
+        },
+        {
+            "zh_des": "为忙碌的软件工程师精心策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "107,060",
+            "forks": "13,740",
+            "language": "TypeScript",
+            "stars_today": "2,749 stars this month"
+        },
+        {
+            "zh_des": "免费数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,115",
+            "forks": "4,490",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,247 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,514",
+            "forks": "1,147",
+            "language": "Go",
+            "stars_today": "65 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS'23口头]视觉指令调整（LLaVA）建立在GPT-4V水平的能力和超越。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "13,980",
+            "forks": "1,485",
+            "language": "Python",
+            "stars_today": "1,455 stars this month"
+        },
+        {
+            "zh_des": "一个开源平台，用于使用React制作通用的原生应用程序。Expo可在Android、iOS和Web上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "27,129",
+            "forks": "4,589",
+            "language": "TypeScript",
+            "stars_today": "1,222 stars this month"
+        },
+        {
+            "zh_des": "Servo，可嵌入、独立、内存安全、模块化、并行Web渲染引擎",
+            "url": "https://github.com/servo/servo",
+            "name": "servo /servo",
+            "description": "Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+            "stars": "25,335",
+            "forks": "2,872",
+            "language": "",
+            "stars_today": "688 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache 2下的开源。公开演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,483",
+            "forks": "2,409",
+            "language": "Python",
+            "stars_today": "726 stars this month"
+        },
+        {
+            "zh_des": "Slint是一个声明式GUI工具包，用于为Rust、C++或JavaScript应用程序构建原生用户界面。",
+            "url": "https://github.com/slint-ui/slint",
+            "name": "slint-ui /slint",
+            "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+            "stars": "13,478",
+            "forks": "425",
+            "language": "Rust",
+            "stars_today": "1,436 stars this month"
+        },
+        {
+            "zh_des": "在本地运行GitHub操作",
+            "url": "https://github.com/nektos/act",
+            "name": "nektos /act",
+            "description": "Run your GitHub Actions locally 🚀",
+            "stars": "47,989",
+            "forks": "1,232",
+            "language": "Go",
+            "stars_today": "1,303 stars this month"
+        },
+        {
+            "zh_des": "12306智能刷票，订票",
+            "url": "https://github.com/testerSunshine/12306",
+            "name": "testerSunshine /12306",
+            "description": "12306智能刷票，订票",
+            "stars": "33,520",
+            "forks": "9,867",
+            "language": "Python",
+            "stars_today": "461 stars this month"
+        },
+        {
+            "zh_des": "Storybook是一个用于隔离构建UI组件和页面的前端研讨会。用于UI开发、测试和文档编制。",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+            "stars": "82,024",
+            "forks": "9,098",
+            "language": "TypeScript",
+            "stars_today": "710 stars this month"
+        },
+        {
+            "zh_des": "一个去中心化的，与以太坊等价的ZK-Rollup。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A decentralized, Ethereum-equivalent ZK-Rollup. 🥁",
+            "stars": "2,771",
+            "forks": "1,434",
+            "language": "HTML",
+            "stars_today": "275 stars this month"
+        },
+        {
+            "zh_des": "Ruby on Rails",
+            "url": "https://github.com/rails/rails",
+            "name": "rails /rails",
+            "description": "Ruby on Rails",
+            "stars": "54,470",
+            "forks": "21,654",
+            "language": "Ruby",
+            "stars_today": "327 stars this month"
+        },
+        {
+            "zh_des": "crewAI的示例crewAI旨在促进角色扮演AI代理的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "708",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "422 stars this month"
+        },
+        {
+            "zh_des": "一种新型炮弹",
+            "url": "https://github.com/nushell/nushell",
+            "name": "nushell /nushell",
+            "description": "A new type of shell",
+            "stars": "29,020",
+            "forks": "1,534",
+            "language": "Rust",
+            "stars_today": "932 stars this month"
+        }
+    ]
+}

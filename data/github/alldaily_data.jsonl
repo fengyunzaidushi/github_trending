@@ -19904,3 +19904,257 @@
         }
     ]
 }
+{
+    "02月19日": [
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "3,825",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "1,371 stars today"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "3,918",
+            "forks": "292",
+            "language": "Python",
+            "stars_today": "1,904 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "13,930",
+            "forks": "1,460",
+            "language": "Python",
+            "stars_today": "823 stars today"
+        },
+        {
+            "zh_des": "《变形金刚可伸缩扩散模型》的官方实施",
+            "url": "https://github.com/facebookresearch/DiT",
+            "name": "facebookresearch /DiT",
+            "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+            "stars": "2,670",
+            "forks": "209",
+            "language": "Python",
+            "stars_today": "387 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "60,901",
+            "forks": "52,322",
+            "language": "TypeScript",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "1,906",
+            "forks": "1,495",
+            "language": "Rust",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "62,593",
+            "forks": "7,722",
+            "language": "Java",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "4,784",
+            "forks": "208",
+            "language": "Python",
+            "stars_today": "2,626 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "121,631",
+            "forks": "24,229",
+            "language": "Python",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "在一页中掌握命令行",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "name": "jlevy /the-art-of-command-line",
+            "description": "Master the command line, in one page",
+            "stars": "144,754",
+            "forks": "14,210",
+            "language": "",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "I茅台应用程序自动预约，每日自动预约，支持Docker一键部署",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署",
+            "stars": "2,428",
+            "forks": "702",
+            "language": "Java",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "17,718",
+            "forks": "1,743",
+            "language": "C",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "支持所有平台的现代下载管理器。用高朗和飞舞打造。",
+            "url": "https://github.com/GopeedLab/gopeed",
+            "name": "GopeedLab /gopeed",
+            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "stars": "9,336",
+            "forks": "778",
+            "language": "Dart",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "51,716",
+            "forks": "6,732",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "886",
+            "forks": "49",
+            "language": "Python",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "25,638",
+            "forks": "2,740",
+            "language": "Python",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "《萤火虫3》：个人理财经理",
+            "url": "https://github.com/firefly-iii/firefly-iii",
+            "name": "firefly-iii /firefly-iii",
+            "description": "Firefly III: a personal finances manager",
+            "stars": "13,356",
+            "forks": "1,273",
+            "language": "PHP",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,746",
+            "forks": "110",
+            "language": "Python",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "156,960",
+            "forks": "21,183",
+            "language": "",
+            "stars_today": "237 stars today"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "11,503",
+            "forks": "1,520",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "21,465",
+            "forks": "6,066",
+            "language": "Python",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "245,448",
+            "forks": "23,571",
+            "language": "",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "这个资源库指导想要为Scroll生态系统做贡献的开发人员。",
+            "url": "https://github.com/scroll-tech/contribute-to-scroll",
+            "name": "scroll-tech /contribute-to-scroll",
+            "description": "This repository guides developers wanting to contribute to the Scroll ecosystem.",
+            "stars": "701",
+            "forks": "375",
+            "language": "",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "·安洵忽悠国家安全机关0\n1\n·员工抱怨",
+            "url": "https://github.com/I-S00N/I-S00N",
+            "name": "I-S00N /I-S00N",
+            "description": "• 安洵忽悠国家安全机关0\n1\n• 员工抱怨",
+            "stars": "893",
+            "forks": "604",
+            "language": "",
+            "stars_today": "389 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "52,856",
+            "forks": "12,919",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        }
+    ]
+}
