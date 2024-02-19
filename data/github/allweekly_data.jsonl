@@ -17016,3 +17016,257 @@
         }
     ]
 }
+{
+    "02月19日": [
+        {
+            "zh_des": "LLRT(Low Latency Runtime)是一个实验性的、轻量级的JavaScript运行时，旨在满足快速高效的无服务器应用程序日益增长的需求。",
+            "url": "https://github.com/awslabs/llrt",
+            "name": "awslabs /llrt",
+            "description": "LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.",
+            "stars": "6,432",
+            "forks": "292",
+            "language": "JavaScript",
+            "stars_today": "3,358 stars this week"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "7,700",
+            "forks": "229",
+            "language": "Java",
+            "stars_today": "3,442 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "2,277",
+            "forks": "272",
+            "language": "Python",
+            "stars_today": "689 stars this week"
+        },
+        {
+            "zh_des": "使用函数调用构建AI助手",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants using function calling",
+            "stars": "2,238",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "1,238 stars this week"
+        },
+        {
+            "zh_des": "Rinha de Backend收藏库2？EDIção da Rinha de后端",
+            "url": "https://github.com/zanfranceschi/rinha-de-backend-2024-q1",
+            "name": "zanfranceschi /rinha-de-backend-2024-q1",
+            "description": "Repositório da 2ª edição da Rinha de Backend",
+            "stars": "1,356",
+            "forks": "604",
+            "language": "PLpgSQL",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "阻止DNS服务器的全网广告和跟踪器",
+            "url": "https://github.com/AdguardTeam/AdGuardHome",
+            "name": "AdguardTeam /AdGuardHome",
+            "description": "Network-wide ads & trackers blocking DNS server",
+            "stars": "21,613",
+            "forks": "1,686",
+            "language": "Go",
+            "stars_today": "465 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,668",
+            "forks": "107",
+            "language": "Python",
+            "stars_today": "610 stars this week"
+        },
+        {
+            "zh_des": "Badget旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/Badget",
+            "name": "projectx-codehagen /Badget",
+            "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,448",
+            "forks": "152",
+            "language": "TypeScript",
+            "stars_today": "575 stars this week"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,733",
+            "forks": "2,501",
+            "language": "Python",
+            "stars_today": "601 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,226",
+            "forks": "803",
+            "language": "Python",
+            "stars_today": "654 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,848",
+            "forks": "199",
+            "language": "Python",
+            "stars_today": "651 stars this week"
+        },
+        {
+            "zh_des": "I茅台应用程序自动预约，每日自动预约，支持Docker一键部署",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署",
+            "stars": "2,354",
+            "forks": "690",
+            "language": "Java",
+            "stars_today": "613 stars this week"
+        },
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "7,354",
+            "forks": "373",
+            "language": "TypeScript",
+            "stars_today": "532 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,447",
+            "forks": "371",
+            "language": "TypeScript",
+            "stars_today": "83 stars this week"
+        },
+        {
+            "zh_des": "可视化多模式数据流。速度快、使用方便、集成简单。内置铁锈使用EGUI。",
+            "url": "https://github.com/rerun-io/rerun",
+            "name": "rerun-io /rerun",
+            "description": "Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.",
+            "stars": "4,204",
+            "forks": "199",
+            "language": "Rust",
+            "stars_today": "217 stars this week"
+        },
+        {
+            "zh_des": "Flipper Zero固件中的DOM。给你的鳍状肢它真正渴望的力量和自由。让它向你展示它的真实面貌。不要耽搁，今天就切换到唯一真正的师父吧！",
+            "url": "https://github.com/Flipper-XFW/Xtreme-Firmware",
+            "name": "Flipper-XFW /Xtreme-Firmware",
+            "description": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!",
+            "stars": "8,075",
+            "forks": "592",
+            "language": "C",
+            "stars_today": "305 stars this week"
+        },
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "6,875",
+            "forks": "322",
+            "language": "TypeScript",
+            "stars_today": "6,355 stars this week"
+        },
+        {
+            "zh_des": "这是sudo，适用于Windows",
+            "url": "https://github.com/microsoft/sudo",
+            "name": "microsoft /sudo",
+            "description": "It's sudo, for Windows",
+            "stars": "3,335",
+            "forks": "85",
+            "language": "PowerShell",
+            "stars_today": "2,108 stars this week"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "2,560",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "582 stars this week"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "1,086",
+            "forks": "125",
+            "language": "Python",
+            "stars_today": "616 stars this week"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "14,288",
+            "forks": "1,009",
+            "language": "TypeScript",
+            "stars_today": "822 stars this week"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "1,744",
+            "forks": "190",
+            "language": "TypeScript",
+            "stars_today": "1,025 stars this week"
+        },
+        {
+            "zh_des": "LAG-LAMA：迈向概率时间序列预测的基础模型",
+            "url": "https://github.com/time-series-foundation-models/lag-llama",
+            "name": "time-series-foundation-models /lag-llama",
+            "description": "Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting",
+            "stars": "600",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "263 stars this week"
+        },
+        {
+            "zh_des": "Ngrok/Cloudflare隧道备选方案以及其他隧道软件和服务的列表。专注于自我托管。",
+            "url": "https://github.com/anderspitman/awesome-tunneling",
+            "name": "anderspitman /awesome-tunneling",
+            "description": "List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.",
+            "stars": "12,201",
+            "forks": "604",
+            "language": "",
+            "stars_today": "619 stars this week"
+        },
+        {
+            "zh_des": "用于直播和流媒体的跨平台、可定制的ML解决方案。",
+            "url": "https://github.com/google/mediapipe",
+            "name": "google /mediapipe",
+            "description": "Cross-platform, customizable ML solutions for live and streaming media.",
+            "stars": "24,814",
+            "forks": "4,956",
+            "language": "C++",
+            "stars_today": "172 stars this week"
+        }
+    ]
+}
