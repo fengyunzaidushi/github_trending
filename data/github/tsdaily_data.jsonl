@@ -7618,3 +7618,257 @@
         }
     ]
 }
+{
+    "02月20日": [
+        {
+            "zh_des": "一个跨平台的ChatGPT/Gemini UI（Web / PWA / Linux / Win / MacOS）。一键拥有你自己的聊天平台 ChatGPT/Gemini 应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "61,095",
+            "forks": "52,399",
+            "language": "TypeScript",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "构建一个真正的软件即服务应用程序，具有AI功能和支付&信用系统，您甚至可以使用Next.js 14，Clerk，MongoDB，Cloudinary AI和Stripe将其转化为额外收入或商业想法。",
+            "url": "https://github.com/adrianhajdin/ai_saas_app",
+            "name": "adrianhajdin /ai_saas_app",
+            "description": "Build a REAL Software-as-a-Service app with AI features and payments & credits system that you might even turn into a side income or business idea using Next.js 14, Clerk, MongoDB, Cloudinary AI, and Stripe.",
+            "stars": "351",
+            "forks": "80",
+            "language": "TypeScript",
+            "stars_today": "202 stars today"
+        },
+        {
+            "zh_des": "FastGPT是一个基于LLM的知识平台，提供开箱即用的数据处理和模型调用功能，允许通过Flow可视化进行工作流编排！",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!",
+            "stars": "9,809",
+            "forks": "2,281",
+            "language": "TypeScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "可能不止是意念和米罗AFFiNE（发音为['fain]）是一个下一代知识库，将规划、排序和创建结合在一起。隐私第一，开源，可定制和随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "26,598",
+            "forks": "1,923",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "🤖Lobe Chat -一个开源的高性能AI聊天框架。支持一键免费部署您的私人ChatGPT/Gemini/Local LLM应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.",
+            "stars": "17,934",
+            "forks": "3,718",
+            "language": "TypeScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "一个本地优先的个人理财应用程序",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "10,943",
+            "forks": "850",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "在Baby Steps中学习TypeScript",
+            "url": "https://github.com/panaverse/learn-typescript",
+            "name": "panaverse /learn-typescript",
+            "description": "Learning TypeScript in Baby Steps",
+            "stars": "792",
+            "forks": "417",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "拖放UI来构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "20,708",
+            "forks": "10,552",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "5,976",
+            "forks": "635",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "显示由Element团队制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "22,562",
+            "forks": "12,960",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一个现代的vue管理员。它基于Vue 3，Vite和TypeScript。好快！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+            "stars": "21,380",
+            "forks": "5,923",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "🌎一个星际微博平台",
+            "url": "https://github.com/misskey-dev/misskey",
+            "name": "misskey-dev /misskey",
+            "description": "🌎 An interplanetary microblogging platform 🚀",
+            "stars": "9,246",
+            "forks": "1,226",
+            "language": "TypeScript",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "👨🏻‍💻👩🏻‍💻使用Ant Design像专业人士一样！",
+            "url": "https://github.com/ant-design/ant-design-pro",
+            "name": "ant-design /ant-design-pro",
+            "description": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+            "stars": "35,523",
+            "forks": "8,212",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "企业级UI设计语言和React UI库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "89,390",
+            "forks": "44,625",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "TypeScript类型挑战的集合与在线评审",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "39,057",
+            "forks": "4,221",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "基于 ChatGPT API 的单词翻译浏览器插件和桌面端应用 -基于ChatGPT API的翻译浏览器扩展和跨平台桌面应用。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "19,978",
+            "forks": "1,503",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "Bingo，一个让你呼吸顺畅的新Bing.",
+            "url": "https://github.com/weaigc/bingo",
+            "name": "weaigc /bingo",
+            "description": "Bingo，一个让你呼吸顺畅 New Bing。",
+            "stars": "2,069",
+            "forks": "823",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "AI笔记应用程序，在本地运行模型。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "2,917",
+            "forks": "147",
+            "language": "TypeScript",
+            "stars_today": "431 stars today"
+        },
+        {
+            "zh_des": "YouTube音乐桌面应用程序捆绑自定义插件（和内置的广告拦截器/下载器）",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "5,414",
+            "forks": "359",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在计算机上100%离线运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "10,592",
+            "forks": "582",
+            "language": "TypeScript",
+            "stars_today": "114 stars today"
+        },
+        {
+            "zh_des": "用于与Discord API交互的强大JavaScript库",
+            "url": "https://github.com/discordjs/discord.js",
+            "name": "discordjs /discord.js",
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "stars": "24,556",
+            "forks": "4,157",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Apache ECharts是一个强大的交互式图表和数据可视化库，用于浏览器",
+            "url": "https://github.com/apache/echarts",
+            "name": "apache /echarts",
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "stars": "57,990",
+            "forks": "19,691",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "A music software based on electronic",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "35,163",
+            "forks": "5,526",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "开放式后端框架解决方案，支持使用 React/Vue/Nervv等框架来开发微信/京东/百度/支付宝/版块移动/ QQ 小程序/H5/React Native 等应用。https://taro.zone/",
+            "url": "https://github.com/NervJS/taro",
+            "name": "NervJS /taro",
+            "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。https://taro.zone/",
+            "stars": "34,295",
+            "forks": "4,852",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "全栈电子商务+仪表板& CMS：下一页",
+            "url": "https://github.com/AntonioErdeljac/next13-ecommerce-admin",
+            "name": "AntonioErdeljac /next13-ecommerce-admin",
+            "description": "Full Stack E-Commerce + Dashboard & CMS: Next",
+            "stars": "846",
+            "forks": "351",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
