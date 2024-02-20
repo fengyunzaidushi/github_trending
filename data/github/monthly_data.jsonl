@@ -17524,3 +17524,257 @@
         }
     ]
 }
+{
+    "02月20日": [
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(few（Shot Voice Cloning）",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "14,387",
+            "forks": "1,524",
+            "language": "Python",
+            "stars_today": "11,763 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而非编程基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,622",
+            "forks": "442",
+            "language": "Python",
+            "stars_today": "1,750 stars this month"
+        },
+        {
+            "zh_des": "关于我们",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,371",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "885 stars this month"
+        },
+        {
+            "zh_des": "不妥协的Python代码格式化程序",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,779",
+            "forks": "2,503",
+            "language": "Python",
+            "stars_today": "997 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,543",
+            "forks": "1,412",
+            "language": "Python",
+            "stars_today": "1,526 stars this month"
+        },
+        {
+            "zh_des": "问题和答案基于任何东西。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "4,367",
+            "forks": "354",
+            "language": "Python",
+            "stars_today": "2,625 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS'23口头]视觉指令调整（LLaVA）建立在GPT-4V水平的能力和超越。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "14,025",
+            "forks": "1,486",
+            "language": "Python",
+            "stars_today": "1,470 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache 2下的开源。公开演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,503",
+            "forks": "2,409",
+            "language": "Python",
+            "stars_today": "729 stars this month"
+        },
+        {
+            "zh_des": "crewAI的示例crewAI旨在促进角色扮演AI代理的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "718",
+            "forks": "204",
+            "language": "Python",
+            "stars_today": "424 stars this month"
+        },
+        {
+            "zh_des": "生成式人工智能参考工作流程，针对加速基础设施和微服务架构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "908",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "471 stars this month"
+        },
+        {
+            "zh_des": "12306智能刷票，订票",
+            "url": "https://github.com/testerSunshine/12306",
+            "name": "testerSunshine /12306",
+            "description": "12306智能刷票，订票",
+            "stars": "33,540",
+            "forks": "9,871",
+            "language": "Python",
+            "stars_today": "461 stars this month"
+        },
+        {
+            "zh_des": "12306 购票助手，支持集群，多单号，多任务购票以及 Web界面管理",
+            "url": "https://github.com/pjialin/py12306",
+            "name": "pjialin /py12306",
+            "description": "🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理",
+            "stars": "13,561",
+            "forks": "3,412",
+            "language": "Python",
+            "stars_today": "996 stars this month"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时面部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "20,669",
+            "forks": "3,272",
+            "language": "Python",
+            "stars_today": "1,016 stars this month"
+        },
+        {
+            "zh_des": "论文的正式实现：“使用AlphaCodium生成代码：从提示工程到流程工程”",
+            "url": "https://github.com/Codium-ai/AlphaCodium",
+            "name": "Codium-ai /AlphaCodium",
+            "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\"",
+            "stars": "2,678",
+            "forks": "180",
+            "language": "Python",
+            "stars_today": "1,873 stars this month"
+        },
+        {
+            "zh_des": "深度任意：释放大规模无标签数据的力量。单目深度估计的基础模型",
+            "url": "https://github.com/LiheYoung/Depth-Anything",
+            "name": "LiheYoung /Depth-Anything",
+            "description": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation",
+            "stars": "4,521",
+            "forks": "295",
+            "language": "Python",
+            "stars_today": "4,547 stars this month"
+        },
+        {
+            "zh_des": "SGLang是一种为大型语言模型（LLM）设计的结构化生成语言。它使您与模型的交互更快、更可控。",
+            "url": "https://github.com/sgl-project/sglang",
+            "name": "sgl-project /sglang",
+            "description": "SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.",
+            "stars": "1,501",
+            "forks": "76",
+            "language": "Python",
+            "stars_today": "928 stars this month"
+        },
+        {
+            "zh_des": "机器学习工程Open Book",
+            "url": "https://github.com/stas00/ml-engineering",
+            "name": "stas00 /ml-engineering",
+            "description": "Machine Learning Engineering Open Book",
+            "stars": "8,585",
+            "forks": "537",
+            "language": "Python",
+            "stars_today": "4,341 stars this month"
+        },
+        {
+            "zh_des": "GFPGAN旨在开发用于真实世界人脸恢复的实用算法。",
+            "url": "https://github.com/TencentARC/GFPGAN",
+            "name": "TencentARC /GFPGAN",
+            "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+            "stars": "34,027",
+            "forks": "5,750",
+            "language": "Python",
+            "stars_today": "623 stars this month"
+        },
+        {
+            "zh_des": "🛰️免费的V2 ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "1,195",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "829 stars this month"
+        },
+        {
+            "zh_des": "Linux，Jenkins，AWS，SRE，Prometheus，Docker，Python，Ansible，Git，Kubernetes，Terraform，OpenStack，SQL，NoSQL，Azure，GCP，DNS，Elastic，Network，Virtualization. DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "61,958",
+            "forks": "13,449",
+            "language": "Python",
+            "stars_today": "1,609 stars this month"
+        },
+        {
+            "zh_des": "一个开源助手API和GPT替代品。Dify.AI是一个LLM应用程序开发平台。它集成了后端即服务和LLMOps的概念，涵盖了构建生成式AI原生应用程序所需的核心技术堆栈，包括内置的RAG引擎。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.",
+            "stars": "15,761",
+            "forks": "2,114",
+            "language": "Python",
+            "stars_today": "1,838 stars this month"
+        },
+        {
+            "zh_des": "免费API的集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "279,951",
+            "forks": "31,422",
+            "language": "Python",
+            "stars_today": "5,065 stars this month"
+        },
+        {
+            "zh_des": "Python打包和依赖项管理变得简单",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,615",
+            "forks": "2,256",
+            "language": "Python",
+            "stars_today": "592 stars this month"
+        },
+        {
+            "zh_des": "dbt使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,533",
+            "forks": "1,474",
+            "language": "Python",
+            "stars_today": "401 stars this month"
+        },
+        {
+            "zh_des": "灵活而强大的Python数据分析/操作库，提供类似于R数据的标记数据结构。",
+            "url": "https://github.com/pandas-dev/pandas",
+            "name": "pandas-dev /pandas",
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+            "stars": "41,266",
+            "forks": "17,263",
+            "language": "Python",
+            "stars_today": "387 stars this month"
+        }
+    ]
+}
