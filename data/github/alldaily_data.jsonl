@@ -20666,3 +20666,257 @@
         }
     ]
 }
+{
+    "02月21日": [
+        {
+            "zh_des": "·安洵忽悠国家安全机关0\n1\n·员工抱怨",
+            "url": "https://github.com/I-S00N/I-S00N",
+            "name": "I-S00N /I-S00N",
+            "description": "• 安洵忽悠国家安全机关0\n1\n• 员工抱怨",
+            "stars": "2,933",
+            "forks": "1,513",
+            "language": "",
+            "stars_today": "1,345 stars today"
+        },
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean, code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "6,004",
+            "forks": "432",
+            "language": "Python",
+            "stars_today": "1,939 stars today"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "5,820",
+            "forks": "311",
+            "language": "Python",
+            "stars_today": "958 stars today"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "48,288",
+            "forks": "5,865",
+            "language": "Python",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "《变形金刚可伸缩扩散模型》的官方实施",
+            "url": "https://github.com/facebookresearch/DiT",
+            "name": "facebookresearch /DiT",
+            "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+            "stars": "3,162",
+            "forks": "283",
+            "language": "Python",
+            "stars_today": "338 stars today"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "5,219",
+            "forks": "390",
+            "language": "Python",
+            "stars_today": "1,375 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "53,248",
+            "forks": "12,278",
+            "language": "Python",
+            "stars_today": "291 stars today"
+        },
+        {
+            "zh_des": "🤖lobe Chat--一个开源、高性能的AI聊天框架。支持一键免费部署您的私人ChatGPT/Gemini/Local LLM应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤖 Lobe Chat - an open-source, high-performance AI Chat framework. Support one-click free deployment of your private ChatGPT/Gemini/Local LLM application.",
+            "stars": "18,153",
+            "forks": "3,674",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "1,640",
+            "forks": "144",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "1,255",
+            "forks": "104",
+            "language": "Python",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "63,106",
+            "forks": "7,673",
+            "language": "Java",
+            "stars_today": "346 stars today"
+        },
+        {
+            "zh_des": "多平台自动代理客户端，支持SING-BOX、X光、TUIC、HYRIA、REALITY、特洛伊木马、SSH等。是一个开源、安全、无广告的产品。",
+            "url": "https://github.com/hiddify/hiddify-next",
+            "name": "hiddify /hiddify-next",
+            "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+            "stars": "5,201",
+            "forks": "383",
+            "language": "Dart",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "22,540",
+            "forks": "3,932",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "114,474",
+            "forks": "23,662",
+            "language": "C++",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "以图形用户界面为中心的ROOP",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "2,687",
+            "forks": "369",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "🔥🔥若毅-Vue官方推荐全新Pro版本，优化重构所有功能.基于春靴+MyBatis Plus+Vue&Element实现的后台管理系统+微信小程序，支持基于角色的客户关系管理动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP等功能。明星⭐️⭐️，你的，是作者生发的动力！",
+            "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "name": "YunaiV /ruoyi-vue-pro",
+            "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+            "stars": "22,119",
+            "forks": "4,645",
+            "language": "Java",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "主题医院的开源克隆",
+            "url": "https://github.com/CorsixTH/CorsixTH",
+            "name": "CorsixTH /CorsixTH",
+            "description": "Open source clone of Theme Hospital",
+            "stars": "3,563",
+            "forks": "325",
+            "language": "Lua",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "61,444",
+            "forks": "51,392",
+            "language": "TypeScript",
+            "stars_today": "374 stars today"
+        },
+        {
+            "zh_des": "这个资源库指导想要为Scroll生态系统做贡献的开发人员。",
+            "url": "https://github.com/scroll-tech/contribute-to-scroll",
+            "name": "scroll-tech /contribute-to-scroll",
+            "description": "This repository guides developers wanting to contribute to the Scroll ecosystem.",
+            "stars": "822",
+            "forks": "439",
+            "language": "",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "GLIGEN的直观图形用户界面，在后端使用ComfyUI",
+            "url": "https://github.com/mut-ex/gligen-gui",
+            "name": "mut-ex /gligen-gui",
+            "description": "An intuitive GUI for GLIGEN that uses ComfyUI in the backend",
+            "stars": "678",
+            "forks": "64",
+            "language": "JavaScript",
+            "stars_today": "166 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "121,980",
+            "forks": "23,851",
+            "language": "Python",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "246,096",
+            "forks": "23,380",
+            "language": "",
+            "stars_today": "501 stars today"
+        },
+        {
+            "zh_des": "一系列鼓舞人心的列表、手册、小抄、博客、黑客、一行程序、cli/web工具等等。",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "name": "trimstray /the-book-of-secret-knowledge",
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "stars": "123,309",
+            "forks": "8,331",
+            "language": "",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "在一页中掌握命令行",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "name": "jlevy /the-art-of-command-line",
+            "description": "Master the command line, in one page",
+            "stars": "145,225",
+            "forks": "13,981",
+            "language": "",
+            "stars_today": "369 stars today"
+        },
+        {
+            "zh_des": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "url": "https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "name": "xaitax /CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "description": "Microsoft-Outlook-Remote-Code-Execution-Vulnerability",
+            "stars": "400",
+            "forks": "75",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        }
+    ]
+}

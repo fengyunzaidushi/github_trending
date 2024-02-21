@@ -18286,3 +18286,257 @@
         }
     ]
 }
+{
+    "02月21日": [
+        {
+            "zh_des": "🔎通过用户名在社交网络中搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "48,288",
+            "forks": "5,865",
+            "language": "Python",
+            "stars_today": "1,260 stars this week"
+        },
+        {
+            "zh_des": "不妥协的Python代码格式化程序",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,783",
+            "forks": "2,343",
+            "language": "Python",
+            "stars_today": "640 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并获得私人来源的答案。连接到Slack，GitHub，Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,310",
+            "forks": "811",
+            "language": "Python",
+            "stars_today": "725 stars this week"
+        },
+        {
+            "zh_des": "Stable Diffusion WebUI Forge安装Forge截图ComparisonForge后台UNet Patcher使用--show-controlnet-example查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "1,984",
+            "forks": "131",
+            "language": "Python",
+            "stars_today": "806 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇对象检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "1,992",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "768 stars this week"
+        },
+        {
+            "zh_des": "GraphCast：学习熟练的中期全球天气预报",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "GraphCast: Learning skillful medium-range global weather forecasting",
+            "stars": "3,952",
+            "forks": "464",
+            "language": "Python",
+            "stars_today": "519 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸和增强",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "11,733",
+            "forks": "1,525",
+            "language": "Python",
+            "stars_today": "965 stars this week"
+        },
+        {
+            "zh_des": "LGM：用于高分辨率3D内容创建的大型多视图高斯模型。",
+            "url": "https://github.com/3DTopia/LGM",
+            "name": "3DTopia /LGM",
+            "description": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.",
+            "stars": "665",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "200 stars this week"
+        },
+        {
+            "zh_des": "以GUI为中心的团队",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "2,688",
+            "forks": "369",
+            "language": "Python",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "欢迎对开源Python迷你项目的贡献！",
+            "url": "https://github.com/ndleah/python-mini-project",
+            "name": "ndleah /python-mini-project",
+            "description": "🙌 Welcome open-source Python mini-project contributions!",
+            "stars": "1,834",
+            "forks": "786",
+            "language": "Python",
+            "stars_today": "452 stars this week"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "2,613",
+            "forks": "199",
+            "language": "Python",
+            "stars_today": "301 stars this week"
+        },
+        {
+            "zh_des": "Lag-Llama：概率时间序列预测的基础模型",
+            "url": "https://github.com/time-series-foundation-models/lag-llama",
+            "name": "time-series-foundation-models /lag-llama",
+            "description": "Lag-Llama: Towards Foundation Models for Probabilistic Time Series Forecasting",
+            "stars": "648",
+            "forks": "56",
+            "language": "Python",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "生成式人工智能参考工作流程，针对加速基础设施和微服务架构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "915",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "174 stars this week"
+        },
+        {
+            "zh_des": "SUPIR旨在开发野外照片真实图像恢复的实用算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "1,488",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "439 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的UI。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "3,708",
+            "forks": "184",
+            "language": "Python",
+            "stars_today": "190 stars this week"
+        },
+        {
+            "zh_des": "星际语义大模型-TeleChat",
+            "url": "https://github.com/Tele-AI/Telechat",
+            "name": "Tele-AI /Telechat",
+            "description": "星辰语义大模型-TeleChat",
+            "stars": "1,430",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "935 stars this week"
+        },
+        {
+            "zh_des": "大卫·爱登堡讲述你的生活",
+            "url": "https://github.com/cbh123/narrator",
+            "name": "cbh123 /narrator",
+            "description": "David Attenborough narrates your life",
+            "stars": "3,682",
+            "forks": "423",
+            "language": "Python",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "Self-Play Fine-Tuning（SPIN）",
+            "url": "https://github.com/uclaml/SPIN",
+            "name": "uclaml /SPIN",
+            "description": "The official implementation of Self-Play Fine-Tuning (SPIN)",
+            "stars": "569",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "110 stars this week"
+        },
+        {
+            "zh_des": "dbt使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,537",
+            "forks": "1,460",
+            "language": "Python",
+            "stars_today": "284 stars this week"
+        },
+        {
+            "zh_des": "类人、表达性TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "2,366",
+            "forks": "276",
+            "language": "Python",
+            "stars_today": "467 stars this week"
+        },
+        {
+            "zh_des": "用于训练/微调中型GPT的最简单、最快的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "29,384",
+            "forks": "4,259",
+            "language": "Python",
+            "stars_today": "446 stars this week"
+        },
+        {
+            "zh_des": "由GPT-4等AI大型语言模型提供支持的命令行生产力工具将帮助您更快，更高效地完成任务。",
+            "url": "https://github.com/TheR1D/shell_gpt",
+            "name": "TheR1D /shell_gpt",
+            "description": "A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
+            "stars": "7,460",
+            "forks": "597",
+            "language": "Python",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "Ethereum Improvement Proposal仓库",
+            "url": "https://github.com/ethereum/EIPs",
+            "name": "ethereum /EIPs",
+            "description": "The Ethereum Improvement Proposal repository",
+            "stars": "12,333",
+            "forks": "5,432",
+            "language": "Python",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(few（Shot Voice Cloning）",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "14,532",
+            "forks": "1,527",
+            "language": "Python",
+            "stars_today": "4,460 stars this week"
+        },
+        {
+            "zh_des": "Python打包和依赖项管理变得简单",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,621",
+            "forks": "2,143",
+            "language": "Python",
+            "stars_today": "332 stars this week"
+        }
+    ]
+}
