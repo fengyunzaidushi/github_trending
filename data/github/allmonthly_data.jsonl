@@ -18276,3 +18276,257 @@
         }
     ]
 }
+{
+    "02月22日": [
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "24,175",
+            "forks": "1,785",
+            "language": "Ruby",
+            "stars_today": "11,568 stars this month"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "14,960",
+            "forks": "1,565",
+            "language": "Python",
+            "stars_today": "11,101 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,593",
+            "forks": "1,403",
+            "language": "Python",
+            "stars_today": "1,572 stars this month"
+        },
+        {
+            "zh_des": "深度：释放大规模未标记数据的力量。单目深度估计的基础模型",
+            "url": "https://github.com/LiheYoung/Depth-Anything",
+            "name": "LiheYoung /Depth-Anything",
+            "description": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation",
+            "stars": "4,594",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "4,570 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,710",
+            "forks": "448",
+            "language": "Python",
+            "stars_today": "1,798 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,805",
+            "forks": "2,345",
+            "language": "Python",
+            "stars_today": "1,030 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,430",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "888 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "25,062",
+            "forks": "1,782",
+            "language": "Go",
+            "stars_today": "2,689 stars this month"
+        },
+        {
+            "zh_des": "一种面向编程工具的增量式语法分析系统",
+            "url": "https://github.com/tree-sitter/tree-sitter",
+            "name": "tree-sitter /tree-sitter",
+            "description": "An incremental parsing system for programming tools",
+            "stars": "15,376",
+            "forks": "1,050",
+            "language": "Rust",
+            "stars_today": "1,094 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,602",
+            "forks": "2,903",
+            "language": "C++",
+            "stars_today": "756 stars this month"
+        },
+        {
+            "zh_des": "这是一本学习英语的高级指南，可能会让你受益良多。🎉。离谱的英语学习指南/英语学习教程.",
+            "url": "https://github.com/byoungd/English-level-up-tips",
+            "name": "byoungd /English-level-up-tips",
+            "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。",
+            "stars": "34,503",
+            "forks": "3,920",
+            "language": "HTML",
+            "stars_today": "3,041 stars this month"
+        },
+        {
+            "zh_des": "适用于LLMS的ChatGPT样式WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "5,945",
+            "forks": "515",
+            "language": "Svelte",
+            "stars_today": "2,059 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,525",
+            "forks": "2,367",
+            "language": "Python",
+            "stars_today": "755 stars this month"
+        },
+        {
+            "zh_des": "支持所有平台的现代下载管理器。用高朗和飞舞打造。",
+            "url": "https://github.com/GopeedLab/gopeed",
+            "name": "GopeedLab /gopeed",
+            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "stars": "9,876",
+            "forks": "760",
+            "language": "Dart",
+            "stars_today": "1,318 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "748",
+            "forks": "203",
+            "language": "Python",
+            "stars_today": "417 stars this month"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "63,216",
+            "forks": "13,028",
+            "language": "JavaScript",
+            "stars_today": "510 stars this month"
+        },
+        {
+            "zh_des": "Serve，可嵌入的、独立的、内存安全的模块化并行Web渲染引擎",
+            "url": "https://github.com/servo/servo",
+            "name": "servo /servo",
+            "description": "Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+            "stars": "25,396",
+            "forks": "2,812",
+            "language": "",
+            "stars_today": "740 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "14,114",
+            "forks": "1,445",
+            "language": "Python",
+            "stars_today": "1,526 stars this month"
+        },
+        {
+            "zh_des": "一个速度极快的Python链接器和代码格式化器，用Rust编写。",
+            "url": "https://github.com/astral-sh/ruff",
+            "name": "astral-sh /ruff",
+            "description": "An extremely fast Python linter and code formatter, written in Rust.",
+            "stars": "23,947",
+            "forks": "766",
+            "language": "Rust",
+            "stars_today": "1,678 stars this month"
+        },
+        {
+            "zh_des": "Badget旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/Badget",
+            "name": "projectx-codehagen /Badget",
+            "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,531",
+            "forks": "155",
+            "language": "TypeScript",
+            "stars_today": "1,101 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,531",
+            "forks": "1,147",
+            "language": "Go",
+            "stars_today": "78 stars this month"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "988",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "487 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "48,885",
+            "forks": "5,896",
+            "language": "Python",
+            "stars_today": "2,286 stars this month"
+        },
+        {
+            "zh_des": "《萤火虫3》：个人理财经理",
+            "url": "https://github.com/firefly-iii/firefly-iii",
+            "name": "firefly-iii /firefly-iii",
+            "description": "Firefly III: a personal finances manager",
+            "stars": "13,561",
+            "forks": "1,265",
+            "language": "PHP",
+            "stars_today": "929 stars this month"
+        },
+        {
+            "zh_des": "使用Web前端构建更小、更快、更安全的桌面应用程序。",
+            "url": "https://github.com/tauri-apps/tauri",
+            "name": "tauri-apps /tauri",
+            "description": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+            "stars": "74,890",
+            "forks": "2,161",
+            "language": "Rust",
+            "stars_today": "2,095 stars this month"
+        }
+    ]
+}
