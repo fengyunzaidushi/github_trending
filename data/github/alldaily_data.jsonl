@@ -21926,3 +21926,257 @@
         }
     ]
 }
+{
+    "02月23日": [
+        {
+            "zh_des": "Google Gema模型的官方PyTorch实现",
+            "url": "https://github.com/google/gemma_pytorch",
+            "name": "google /gemma_pytorch",
+            "description": "The official PyTorch implementation of Google's Gemma models",
+            "stars": "2,372",
+            "forks": "158",
+            "language": "Python",
+            "stars_today": "450 stars today"
+        },
+        {
+            "zh_des": "针对Google的Gema模型的轻量级、独立的C++推理引擎。",
+            "url": "https://github.com/google/gemma.cpp",
+            "name": "google /gemma.cpp",
+            "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+            "stars": "1,728",
+            "forks": "108",
+            "language": "C++",
+            "stars_today": "272 stars today"
+        },
+        {
+            "zh_des": "SoraWebui是一个开源的Sora网络客户端，使用户能够使用OpenAI的Sora模型轻松地从文本创建视频。",
+            "url": "https://github.com/SoraWebui/SoraWebui",
+            "name": "SoraWebui /SoraWebui",
+            "description": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+            "stars": "617",
+            "forks": "164",
+            "language": "TypeScript",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "24,944",
+            "forks": "897",
+            "language": "Rust",
+            "stars_today": "543 stars today"
+        },
+        {
+            "zh_des": "反应严格DOM(RSD)是支持Web和本机目标的反应DOM、命令性DOM和CSS的子集",
+            "url": "https://github.com/facebook/react-strict-dom",
+            "name": "facebook /react-strict-dom",
+            "description": "React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+            "stars": "1,682",
+            "forks": "54",
+            "language": "JavaScript",
+            "stars_today": "323 stars today"
+        },
+        {
+            "zh_des": "由Sora.FM开发的Sora AI视频生成器",
+            "url": "https://github.com/all-in-aigc/sorafm",
+            "name": "all-in-aigc /sorafm",
+            "description": "Sora AI Video Generator by Sora.FM",
+            "stars": "363",
+            "forks": "118",
+            "language": "TypeScript",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "146,982",
+            "forks": "50,752",
+            "language": "Python",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "OOT扩散的正式实现：基于融合的潜扩散装备可控虚拟试穿",
+            "url": "https://github.com/levihsu/OOTDiffusion",
+            "name": "levihsu /OOTDiffusion",
+            "description": "Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on",
+            "stars": "1,717",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "527 stars today"
+        },
+        {
+            "zh_des": "自动化在线赚钱的过程。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+            "name": "FujiwaraChoki /MoneyPrinterV2",
+            "description": "Automate the process of making money online.",
+            "stars": "988",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "🚗波斯车牌识别系统波斯车牌识别系统是一种最先进的解决方案，旨在检测和识别图像和视频流中的波斯车牌",
+            "url": "https://github.com/mtkarimi/smart-resident-guard",
+            "name": "mtkarimi /smart-resident-guard",
+            "description": "🚗 Persian License Plate Recognition System (PLPR)The Persian License Plate Recognition (PLPR) system is a state-of-the-art solution designed for detecting and recognizing Persian license plates in images and video streams",
+            "stars": "242",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "28,804",
+            "forks": "1,382",
+            "language": "Dart",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "17,862",
+            "forks": "2,942",
+            "language": "Jupyter Notebook",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "来自谷歌DeepMind的Open Weight LLM。",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "795",
+            "forks": "86",
+            "language": "Jupyter Notebook",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,068",
+            "forks": "6,111",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "ChatGPT/LLMS用户界面/框架--一个开源的、现代设计的🤯。支持语音合成、多模式、可扩展的插件系统。一键免费部署您的私人ChatGPT/Gemini/Ollama聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.",
+            "stars": "20,134",
+            "forks": "3,949",
+            "language": "TypeScript",
+            "stars_today": "1,463 stars today"
+        },
+        {
+            "zh_des": "I-Soon/安迅泄密相关资料",
+            "url": "https://github.com/soufianetahiri/Anxun-isoon",
+            "name": "soufianetahiri /Anxun-isoon",
+            "description": "I-SOON/Anxun leak related stuff",
+            "stars": "107",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "收录独立开发者出海技术栈和工具",
+            "url": "https://github.com/weijunext/indie-hacker-tools",
+            "name": "weijunext /indie-hacker-tools",
+            "description": "收录独立开发者出海技术栈和工具",
+            "stars": "1,715",
+            "forks": "133",
+            "language": "",
+            "stars_today": "706 stars today"
+        },
+        {
+            "zh_des": "一份精选的StarkNet资源、库、工具等列表",
+            "url": "https://github.com/keep-starknet-strange/awesome-starknet",
+            "name": "keep-starknet-strange /awesome-starknet",
+            "description": "A curated list of awesome StarkNet resources, libraries, tools and more",
+            "stars": "1,320",
+            "forks": "266",
+            "language": "",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "114,662",
+            "forks": "23,706",
+            "language": "C++",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "OpenTelemeter C++客户端",
+            "url": "https://github.com/open-telemetry/opentelemetry-cpp",
+            "name": "open-telemetry /opentelemetry-cpp",
+            "description": "The OpenTelemetry C++ Client",
+            "stars": "658",
+            "forks": "338",
+            "language": "C++",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "10,147",
+            "forks": "2,395",
+            "language": "JavaScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "39,603",
+            "forks": "2,451",
+            "language": "Go",
+            "stars_today": "436 stars today"
+        },
+        {
+            "zh_des": "🚀用人工智能增强您的世界-探索、扩展和赋能。",
+            "url": "https://github.com/lencx/Noi",
+            "name": "lencx /Noi",
+            "description": "🚀 Power Your World with AI - Explore, Extend, Empower.",
+            "stars": "1,940",
+            "forks": "93",
+            "language": "JavaScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "Starknet条款的合格身份列表。",
+            "url": "https://github.com/starknet-io/provisions-data",
+            "name": "starknet-io /provisions-data",
+            "description": "Lists of eligible identities for Starknet provisions.",
+            "stars": "119",
+            "forks": "45",
+            "language": "",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "4,870",
+            "forks": "2,948",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        }
+    ]
+}

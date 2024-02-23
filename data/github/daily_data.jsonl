@@ -21175,3 +21175,257 @@
         }
     ]
 }
+{
+    "02月23日": [
+        {
+            "zh_des": "Google Gema模型的官方PyTorch实现",
+            "url": "https://github.com/google/gemma_pytorch",
+            "name": "google /gemma_pytorch",
+            "description": "The official PyTorch implementation of Google's Gemma models",
+            "stars": "2,372",
+            "forks": "158",
+            "language": "Python",
+            "stars_today": "450 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "146,982",
+            "forks": "50,752",
+            "language": "Python",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "OOT扩散的正式实现：基于融合的潜扩散装备可控虚拟试穿",
+            "url": "https://github.com/levihsu/OOTDiffusion",
+            "name": "levihsu /OOTDiffusion",
+            "description": "Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on",
+            "stars": "1,717",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "527 stars today"
+        },
+        {
+            "zh_des": "自动化在线赚钱的过程。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+            "name": "FujiwaraChoki /MoneyPrinterV2",
+            "description": "Automate the process of making money online.",
+            "stars": "988",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "🚗波斯车牌识别系统波斯车牌识别系统是一种最先进的解决方案，旨在检测和识别图像和视频流中的波斯车牌",
+            "url": "https://github.com/mtkarimi/smart-resident-guard",
+            "name": "mtkarimi /smart-resident-guard",
+            "description": "🚗 Persian License Plate Recognition System (PLPR)The Persian License Plate Recognition (PLPR) system is a state-of-the-art solution designed for detecting and recognizing Persian license plates in images and video streams",
+            "stars": "242",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,068",
+            "forks": "6,111",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "I-Soon/安迅泄密相关资料",
+            "url": "https://github.com/soufianetahiri/Anxun-isoon",
+            "name": "soufianetahiri /Anxun-isoon",
+            "description": "I-SOON/Anxun leak related stuff",
+            "stars": "107",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "4,870",
+            "forks": "2,948",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "120,709",
+            "forks": "23,952",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "MosaicML基础模型的LLM培训代码",
+            "url": "https://github.com/mosaicml/llm-foundry",
+            "name": "mosaicml /llm-foundry",
+            "description": "LLM training code for MosaicML foundation models",
+            "stars": "3,405",
+            "forks": "430",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "CKAN是一个开源的DMS(数据管理系统)，用于支持数据中心和数据门户。CKAN使发布、共享和使用数据变得容易。它为Catalog.data.gov、Open.canada.ca/data、data.humdata.org等许多网站提供支持。",
+            "url": "https://github.com/ckan/ckan",
+            "name": "ckan /ckan",
+            "description": "CKAN is an open-source DMS (data management system) for powering data hubs and data portals. CKAN makes it easy to publish, share and use data. It powers catalog.data.gov, open.canada.ca/data, data.humdata.org among many other sites.",
+            "stars": "4,196",
+            "forks": "1,930",
+            "language": "Python",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "基于Awel和代理的AI原生数据应用开发框架",
+            "url": "https://github.com/eosphoros-ai/DB-GPT",
+            "name": "eosphoros-ai /DB-GPT",
+            "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+            "stars": "9,954",
+            "forks": "1,171",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "23,631",
+            "forks": "4,084",
+            "language": "Python",
+            "stars_today": "792 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "15,082",
+            "forks": "1,823",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "在多个GPU、TPU上预先训练、优化和部署AI模型，无需更改代码。",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "name": "Lightning-AI /pytorch-lightning",
+            "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+            "stars": "26,279",
+            "forks": "3,180",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "19,447",
+            "forks": "7,199",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Latte：用于视频生成的潜在扩散变压器。",
+            "url": "https://github.com/Vchitect/Latte",
+            "name": "Vchitect /Latte",
+            "description": "Latte: Latent Diffusion Transformer for Video Generation.",
+            "stars": "568",
+            "forks": "63",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "15,819",
+            "forks": "928",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "ModelScope：将模型即服务的概念变为现实。",
+            "url": "https://github.com/modelscope/modelscope",
+            "name": "modelscope /modelscope",
+            "description": "ModelScope: bring the notion of Model-as-a-Service to life.",
+            "stars": "5,656",
+            "forks": "600",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "“GaussianObject：只需拍摄四张图像即可获得高质量的高斯飞溅3D对象”的代码",
+            "url": "https://github.com/GaussianObject/GaussianObject",
+            "name": "GaussianObject /GaussianObject",
+            "description": "Code for \"GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting\"",
+            "stars": "392",
+            "forks": "11",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "NEMO：一种产生式人工智能框架",
+            "url": "https://github.com/NVIDIA/NeMo",
+            "name": "NVIDIA /NeMo",
+            "description": "NeMo: a framework for generative AI",
+            "stars": "9,354",
+            "forks": "2,000",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "未经身份验证的远程代码执行-Brick<=1.9.6",
+            "url": "https://github.com/Chocapikk/CVE-2024-25600",
+            "name": "Chocapikk /CVE-2024-25600",
+            "description": "Unauthenticated Remote Code Execution – Bricks <= 1.9.6",
+            "stars": "65",
+            "forks": "12",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "人类的深度学习",
+            "url": "https://github.com/keras-team/keras",
+            "name": "keras-team /keras",
+            "description": "Deep Learning for humans",
+            "stars": "60,489",
+            "forks": "19,296",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "为好奇的软件工程师提供的学习资源集合",
+            "url": "https://github.com/charlax/professional-programming",
+            "name": "charlax /professional-programming",
+            "description": "A collection of learning resources for curious software engineers",
+            "stars": "41,868",
+            "forks": "3,254",
+            "language": "Python",
+            "stars_today": "989 stars today"
+        },
+        {
+            "zh_des": "FLARE团队的开源工具，用于识别可执行文件中的功能。",
+            "url": "https://github.com/mandiant/capa",
+            "name": "mandiant /capa",
+            "description": "The FLARE team's open-source tool to identify capabilities in executable files.",
+            "stars": "3,703",
+            "forks": "473",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
