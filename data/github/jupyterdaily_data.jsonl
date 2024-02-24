@@ -9650,3 +9650,257 @@
         }
     ]
 }
+{
+    "02月24日": [
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "17,932",
+            "forks": "2,976",
+            "language": "Jupyter Notebook",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "LLM来自Google DeepMind。",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "929",
+            "forks": "110",
+            "language": "Jupyter Notebook",
+            "stars_today": "260 stars today"
+        },
+        {
+            "zh_des": "Google的Generative AI开发者网站文档",
+            "url": "https://github.com/google/generative-ai-docs",
+            "name": "google /generative-ai-docs",
+            "description": "Documentation for Google's Generative AI developer site",
+            "stars": "991",
+            "forks": "326",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个小型的标量值autograd引擎和一个神经网络库，上面有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "7,532",
+            "forks": "969",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "Mistral AI 7 B v0.1模型的参考实现。",
+            "url": "https://github.com/mistralai/mistral-src",
+            "name": "mistralai /mistral-src",
+            "description": "Reference implementation of Mistral AI 7B v0.1 model.",
+            "stars": "7,648",
+            "forks": "616",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w? sub_confirmation=1",
+            "url": "https://github.com/bnsreenu/python_for_microscopists",
+            "name": "bnsreenu /python_for_microscopists",
+            "description": "https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+            "stars": "3,433",
+            "forks": "2,221",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "HF博客文章的公共存储库",
+            "url": "https://github.com/huggingface/blog",
+            "name": "huggingface /blog",
+            "description": "Public repo for HF blog posts",
+            "stars": "1,792",
+            "forks": "562",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Google Research",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,226",
+            "forks": "7,603",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "免费数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,223",
+            "forks": "4,478",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Llama 2，以覆盖单/多节点GPU。支持默认和自定义数据集的应用程序，如总结和问答。支持大量的坦诚推理解决方案，如HF TGI，VLLM，用于本地或云部署。演示应用程序，展示适用于WhatsApp和Messenger的Llama 2",
+            "url": "https://github.com/facebookresearch/llama-recipes",
+            "name": "facebookresearch /llama-recipes",
+            "description": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+            "stars": "7,560",
+            "forks": "1,047",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "从零开始，一步一步地实现类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "9,401",
+            "forks": "602",
+            "language": "Jupyter Notebook",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "论文的实施-YOLOv 7：可训练的免费赠品袋为实时物体检测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "12,322",
+            "forks": "3,894",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从传统的ResNet到YOLO和物体检测变压器（如DETR），再到最新的型号（如Grounding DINO和SAM），了解一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "3,815",
+            "forks": "598",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "150",
+            "forks": "25",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🧑‍🏫60篇深度学习论文的实现/教程，并附有并排注释;包括transformers（original，xl，switch，feedback，vit，...），📝优化器（adam，adabelief，sophia，.），gans（cyclegan，stylegan 2，...），🎮强化学习（ppo，dqn），capsnet，蒸馏，.🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "43,682",
+            "forks": "4,624",
+            "language": "Jupyter Notebook",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "OpenMMLab Multimodal Advanced，Generative，and Intelligent Creation（多模式高级、生成和智能创建）使用神奇的AI：Generative-AI（AIGC），易于使用的API，令人惊叹的模型动物园，扩散模型，用于文本到图像生成，图像/视频恢复/增强等。",
+            "url": "https://github.com/open-mmlab/mmagic",
+            "name": "open-mmlab /mmagic",
+            "description": "OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, for text-to-image generation, image/video restoration/enhancement, etc.",
+            "stars": "6,383",
+            "forks": "1,018",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "📓演示如何使用AWSAmazon SageMaker构建、训练和部署机器学习模型的AWS笔记本示例。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,320",
+            "forks": "6,537",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Data Analyst Portfolio Project Repository此存储库将保存我们创建的Portfolio Project中的所有代码和查询",
+            "url": "https://github.com/AlexTheAnalyst/PortfolioProjects",
+            "name": "AlexTheAnalyst /PortfolioProjects",
+            "description": "Data Analyst Portfolio Project RepositoryThis Repository will hold all of the code and queries from the Portfolio Projects we create",
+            "stars": "922",
+            "forks": "910",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "CLIP（对比图像预训练），预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "20,812",
+            "forks": "2,852",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "EPFL CS-552：Modern NLP class的知识库",
+            "url": "https://github.com/epfl-nlp/cs-552-modern-nlp",
+            "name": "epfl-nlp /cs-552-modern-nlp",
+            "description": "Repository for EPFL's CS-552: Modern NLP class",
+            "stars": "15",
+            "forks": "24",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "LLM 入门教程，面向开发者，柯达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/prompt-engineering-for-developers",
+            "name": "datawhalechina /prompt-engineering-for-developers",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "8,164",
+            "forks": "975",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "16,328",
+            "forks": "886",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "基于潜扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "9,946",
+            "forks": "1,327",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "LAVIS -一站式图书馆-视觉智能",
+            "url": "https://github.com/salesforce/LAVIS",
+            "name": "salesforce /LAVIS",
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "stars": "8,192",
+            "forks": "818",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "使用Hugging Face库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,125",
+            "forks": "1,352",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
