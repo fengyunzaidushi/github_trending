@@ -20064,3 +20064,257 @@
         }
     ]
 }
+{
+    "02月25日": [
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "6,506",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "5,218 stars this week"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,252",
+            "forks": "5,917",
+            "language": "Python",
+            "stars_today": "2,512 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包安装程序和解析器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package installer and resolver, written in Rust.",
+            "stars": "6,963",
+            "forks": "201",
+            "language": "Rust",
+            "stars_today": "3,193 stars this week"
+        },
+        {
+            "zh_des": "ChatGPT/LLMS用户界面/框架--一个开源的、现代设计的🤯。支持语音合成、多模式、可扩展的插件系统。一键免费部署您的私人ChatGPT/Gemini/Ollama聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.",
+            "stars": "20,557",
+            "forks": "4,007",
+            "language": "TypeScript",
+            "stars_today": "2,657 stars this week"
+        },
+        {
+            "zh_des": "用自然语言开发LLM应用程序",
+            "url": "https://github.com/gptscript-ai/gptscript",
+            "name": "gptscript-ai /gptscript",
+            "description": "Develop LLM Apps in Natural Language",
+            "stars": "1,295",
+            "forks": "99",
+            "language": "Go",
+            "stars_today": "812 stars this week"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "23,714",
+            "forks": "4,106",
+            "language": "Python",
+            "stars_today": "1,523 stars this week"
+        },
+        {
+            "zh_des": "支持所有平台的现代下载管理器。用高朗和飞舞打造。",
+            "url": "https://github.com/GopeedLab/gopeed",
+            "name": "GopeedLab /gopeed",
+            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "stars": "9,974",
+            "forks": "764",
+            "language": "Dart",
+            "stars_today": "1,041 stars this week"
+        },
+        {
+            "zh_des": "Starknet条款的合格身份列表。",
+            "url": "https://github.com/starknet-io/provisions-data",
+            "name": "starknet-io /provisions-data",
+            "description": "Lists of eligible identities for Starknet provisions.",
+            "stars": "177",
+            "forks": "76",
+            "language": "",
+            "stars_today": "137 stars this week"
+        },
+        {
+            "zh_des": "稳定叶栅的官方代码",
+            "url": "https://github.com/Stability-AI/StableCascade",
+            "name": "Stability-AI /StableCascade",
+            "description": "Official Code for Stable Cascade",
+            "stars": "5,601",
+            "forks": "414",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,260 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "2,262",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "773 stars this week"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "2,077",
+            "forks": "1,502",
+            "language": "Rust",
+            "stars_today": "382 stars this week"
+        },
+        {
+            "zh_des": "在本地运行模型的AI笔记应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "3,236",
+            "forks": "173",
+            "language": "TypeScript",
+            "stars_today": "1,182 stars this week"
+        },
+        {
+            "zh_des": "AMD GPU上的CUDA",
+            "url": "https://github.com/vosen/ZLUDA",
+            "name": "vosen /ZLUDA",
+            "description": "CUDA on AMD GPUs",
+            "stars": "5,761",
+            "forks": "276",
+            "language": "Rust",
+            "stars_today": "938 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,027",
+            "forks": "1,562",
+            "language": "Python",
+            "stars_today": "969 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,986",
+            "forks": "825",
+            "language": "Python",
+            "stars_today": "793 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "3,946",
+            "forks": "192",
+            "language": "Python",
+            "stars_today": "322 stars this week"
+        },
+        {
+            "zh_des": "以图形用户界面为中心的ROOP",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "2,804",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "309 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,183",
+            "forks": "6,166",
+            "language": "Python",
+            "stars_today": "875 stars this week"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "63,822",
+            "forks": "7,767",
+            "language": "Java",
+            "stars_today": "1,531 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥若毅-Vue官方推荐全新Pro版本，优化重构所有功能.基于春靴+MyBatis Plus+Vue&Element实现的后台管理系统+微信小程序，支持基于角色的客户关系管理动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP等功能。明星⭐️⭐️，你的，是作者生发的动力！",
+            "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "name": "YunaiV /ruoyi-vue-pro",
+            "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+            "stars": "22,257",
+            "forks": "4,673",
+            "language": "Java",
+            "stars_today": "384 stars this week"
+        },
+        {
+            "zh_des": "多平台自动代理客户端，支持SING-BOX、X光、TUIC、HYRIA、REALITY、特洛伊木马、SSH等。是一个开源、安全、无广告的产品。",
+            "url": "https://github.com/hiddify/hiddify-next",
+            "name": "hiddify /hiddify-next",
+            "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+            "stars": "5,769",
+            "forks": "491",
+            "language": "Dart",
+            "stars_today": "1,057 stars this week"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "247,280",
+            "forks": "23,506",
+            "language": "",
+            "stars_today": "2,584 stars this week"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "21,004",
+            "forks": "10,610",
+            "language": "TypeScript",
+            "stars_today": "444 stars this week"
+        },
+        {
+            "zh_des": "实时开放词汇目标检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "Real-Time Open-Vocabulary Object Detection",
+            "stars": "2,227",
+            "forks": "212",
+            "language": "Python",
+            "stars_today": "687 stars this week"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "10,224",
+            "forks": "2,421",
+            "language": "JavaScript",
+            "stars_today": "472 stars this week"
+        }
+    ]
+}

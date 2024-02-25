@@ -21937,3 +21937,257 @@
         }
     ]
 }
+{
+    "02月25日": [
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "2,192",
+            "forks": "264",
+            "language": "Python",
+            "stars_today": "392 stars today"
+        },
+        {
+            "zh_des": "Google Gema模型的官方PyTorch实现",
+            "url": "https://github.com/google/gemma_pytorch",
+            "name": "google /gemma_pytorch",
+            "description": "The official PyTorch implementation of Google's Gemma models",
+            "stars": "3,459",
+            "forks": "327",
+            "language": "Python",
+            "stars_today": "1,532 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "147,252",
+            "forks": "50,854",
+            "language": "Python",
+            "stars_today": "217 stars today"
+        },
+        {
+            "zh_des": "OOT扩散的正式实现：基于融合的潜扩散装备可控虚拟试穿",
+            "url": "https://github.com/levihsu/OOTDiffusion",
+            "name": "levihsu /OOTDiffusion",
+            "description": "Official implementation of OOTDiffusion: Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on",
+            "stars": "1,978",
+            "forks": "295",
+            "language": "Python",
+            "stars_today": "246 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "1,740",
+            "forks": "257",
+            "language": "Python",
+            "stars_today": "244 stars today"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "7,986",
+            "forks": "825",
+            "language": "Python",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "75,843",
+            "forks": "20,536",
+            "language": "Python",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "23,714",
+            "forks": "4,106",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "I-Soon/安迅泄密相关资料",
+            "url": "https://github.com/soufianetahiri/Anxun-isoon",
+            "name": "soufianetahiri /Anxun-isoon",
+            "description": "I-SOON/Anxun leak related stuff",
+            "stars": "171",
+            "forks": "105",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "面向所有人的数据密集型科学。",
+            "url": "https://github.com/galaxyproject/galaxy",
+            "name": "galaxyproject /galaxy",
+            "description": "Data intensive science for everyone.",
+            "stars": "1,279",
+            "forks": "942",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Latte：用于视频生成的潜在扩散变压器。",
+            "url": "https://github.com/Vchitect/Latte",
+            "name": "Vchitect /Latte",
+            "description": "Latte: Latent Diffusion Transformer for Video Generation.",
+            "stars": "598",
+            "forks": "65",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "21,560",
+            "forks": "1,857",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "用于机器学习的特征存储",
+            "url": "https://github.com/feast-dev/feast",
+            "name": "feast-dev /feast",
+            "description": "Feature Store for Machine Learning",
+            "stars": "5,140",
+            "forks": "906",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "引导扩散",
+            "url": "https://github.com/openai/guided-diffusion",
+            "name": "openai /guided-diffusion",
+            "description": "guided-diffusion",
+            "stars": "5,247",
+            "forks": "717",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "15,856",
+            "forks": "928",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "论文正式实现代码<AnyText：多语言可视化文本生成与编辑>",
+            "url": "https://github.com/tyxsspa/AnyText",
+            "name": "tyxsspa /AnyText",
+            "description": "Official implementation code of the paper <AnyText: Multilingual Visual Text Generation And Editing>",
+            "stars": "3,426",
+            "forks": "219",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "稳定性人工智能的产生式模型",
+            "url": "https://github.com/Stability-AI/generative-models",
+            "name": "Stability-AI /generative-models",
+            "description": "Generative Models by Stability AI",
+            "stars": "19,955",
+            "forks": "2,118",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "4,935",
+            "forks": "2,980",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "构建高质量的LLM应用程序-从原型、测试到生产部署和监控。",
+            "url": "https://github.com/microsoft/promptflow",
+            "name": "microsoft /promptflow",
+            "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+            "stars": "7,423",
+            "forks": "559",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "279",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "人类的深度学习",
+            "url": "https://github.com/keras-team/keras",
+            "name": "keras-team /keras",
+            "description": "Deep Learning for humans",
+            "stars": "60,503",
+            "forks": "19,296",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "基于“Docker”/“青龙面板”/“群晖”的每日签到脚本(支持多账号)签到列表：|爱奇艺|全民K歌|有道云笔记|百度贴吧|bilibili|V2ex|AcFun|什么值得买|阿里云盘|i茅台申购|小米运动|百度搜索资源平台|恩山论坛|奥拉星|",
+            "url": "https://github.com/Sitoi/dailycheckin",
+            "name": "Sitoi /dailycheckin",
+            "description": "基于「Docker」/「青龙面板」/「群晖」的每日签到脚本（支持多账号）签到列表: ｜爱奇艺｜全民K歌｜有道云笔记｜百度贴吧｜Bilibili｜V2EX｜AcFun｜什么值得买｜阿里云盘｜i茅台申购｜小米运动｜百度搜索资源平台｜恩山论坛｜奥拉星｜",
+            "stars": "4,979",
+            "forks": "1,040",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "QWEN-VL(通义千问-VL)聊天的官方回购&阿里云提出的预训练大视觉语言模型。",
+            "url": "https://github.com/QwenLM/Qwen-VL",
+            "name": "QwenLM /Qwen-VL",
+            "description": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+            "stars": "2,945",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/Stability-AI/stablediffusion",
+            "name": "Stability-AI /stablediffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "34,754",
+            "forks": "4,495",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "🚀CodiumAI公关代理：一款基于人工智能的🤖工具，用于自动拉取请求分析、反馈、建议等！💻🔍",
+            "url": "https://github.com/Codium-ai/pr-agent",
+            "name": "Codium-ai /pr-agent",
+            "description": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+            "stars": "3,566",
+            "forks": "268",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        }
+    ]
+}
