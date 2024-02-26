@@ -21080,3 +21080,257 @@
         }
     ]
 }
+{
+    "02月26日": [
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "7,180",
+            "forks": "575",
+            "language": "Python",
+            "stars_today": "5,333 stars this week"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "6,019",
+            "forks": "469",
+            "language": "Python",
+            "stars_today": "4,119 stars this week"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,398",
+            "forks": "5,928",
+            "language": "Python",
+            "stars_today": "2,528 stars this week"
+        },
+        {
+            "zh_des": "《变形金刚可伸缩扩散模型》的官方实施",
+            "url": "https://github.com/facebookresearch/DiT",
+            "name": "facebookresearch /DiT",
+            "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+            "stars": "3,888",
+            "forks": "360",
+            "language": "Python",
+            "stars_today": "1,527 stars this week"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "6,694",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "4,624 stars this week"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "23,819",
+            "forks": "4,119",
+            "language": "Python",
+            "stars_today": "1,549 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "4,026",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "2,374",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "726 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "8,079",
+            "forks": "837",
+            "language": "Python",
+            "stars_today": "818 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "147,503",
+            "forks": "50,889",
+            "language": "Python",
+            "stars_today": "818 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,113",
+            "forks": "1,570",
+            "language": "Python",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,282",
+            "forks": "6,188",
+            "language": "Python",
+            "stars_today": "857 stars this week"
+        },
+        {
+            "zh_des": "以图形用户界面为中心的ROOP",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "2,826",
+            "forks": "397",
+            "language": "Python",
+            "stars_today": "305 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "53,866",
+            "forks": "12,372",
+            "language": "Python",
+            "stars_today": "1,193 stars this week"
+        },
+        {
+            "zh_des": "一个自我完善的具体化对话代理，无缝集成到操作系统中，使我们的日常任务自动化。",
+            "url": "https://github.com/OS-Copilot/FRIDAY",
+            "name": "OS-Copilot /FRIDAY",
+            "description": "An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.",
+            "stars": "716",
+            "forks": "62",
+            "language": "Python",
+            "stars_today": "178 stars this week"
+        },
+        {
+            "zh_des": "LGM：用于高分辨率3D内容创建的大型多视点高斯模型。",
+            "url": "https://github.com/3DTopia/LGM",
+            "name": "3DTopia /LGM",
+            "description": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation.",
+            "stars": "829",
+            "forks": "53",
+            "language": "Python",
+            "stars_today": "263 stars this week"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "2,108",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "1,153 stars this week"
+        },
+        {
+            "zh_des": "自动化在线赚钱的过程。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+            "name": "FujiwaraChoki /MoneyPrinterV2",
+            "description": "Automate the process of making money online.",
+            "stars": "1,271",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "1,115 stars this week"
+        },
+        {
+            "zh_des": "人类的深度学习",
+            "url": "https://github.com/keras-team/keras",
+            "name": "keras-team /keras",
+            "description": "Deep Learning for humans",
+            "stars": "60,519",
+            "forks": "19,300",
+            "language": "Python",
+            "stars_today": "225 stars this week"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "2,856",
+            "forks": "378",
+            "language": "Python",
+            "stars_today": "1,262 stars this week"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "1,565",
+            "forks": "132",
+            "language": "Python",
+            "stars_today": "909 stars this week"
+        },
+        {
+            "zh_des": "宏伟的应用程序，更正您之前的控制台命令。",
+            "url": "https://github.com/nvbn/thefuck",
+            "name": "nvbn /thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "stars": "81,933",
+            "forks": "3,379",
+            "language": "Python",
+            "stars_today": "529 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "122,845",
+            "forks": "23,986",
+            "language": "Python",
+            "stars_today": "1,386 stars this week"
+        },
+        {
+            "zh_des": "欢迎您对🙌开源小项目的贡献！",
+            "url": "https://github.com/ndleah/python-mini-project",
+            "name": "ndleah /python-mini-project",
+            "description": "🙌 Welcome open-source Python mini-project contributions!",
+            "stars": "2,058",
+            "forks": "851",
+            "language": "Python",
+            "stars_today": "421 stars this week"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.75个班级，37个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,219",
+            "forks": "1,325",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        }
+    ]
+}
