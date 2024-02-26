@@ -23196,3 +23196,257 @@
         }
     ]
 }
+{
+    "02月26日": [
+        {
+            "zh_des": "针对Google的Gema模型的轻量级、独立的C++推理引擎。",
+            "url": "https://github.com/google/gemma.cpp",
+            "name": "google /gemma.cpp",
+            "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+            "stars": "3,986",
+            "forks": "285",
+            "language": "C++",
+            "stars_today": "317 stars today"
+        },
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "3,175",
+            "forks": "336",
+            "language": "Python",
+            "stars_today": "1,064 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "40,919",
+            "forks": "2,560",
+            "language": "Go",
+            "stars_today": "477 stars today"
+        },
+        {
+            "zh_des": "SoraWebui是一个开源的Sora网络客户端，使用户能够使用OpenAI的Sora模型轻松地从文本创建视频。",
+            "url": "https://github.com/SoraWebui/SoraWebui",
+            "name": "SoraWebui /SoraWebui",
+            "description": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+            "stars": "1,351",
+            "forks": "304",
+            "language": "TypeScript",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "2,052",
+            "forks": "294",
+            "language": "Python",
+            "stars_today": "321 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "147,437",
+            "forks": "50,881",
+            "language": "Python",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "稳定性人工智能的产生式模型",
+            "url": "https://github.com/Stability-AI/generative-models",
+            "name": "Stability-AI /generative-models",
+            "description": "Generative Models by Stability AI",
+            "stars": "20,119",
+            "forks": "2,130",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "25,791",
+            "forks": "1,005",
+            "language": "Rust",
+            "stars_today": "217 stars today"
+        },
+        {
+            "zh_des": "SSH-Snake是一个自传播、自复制、无文件的脚本，可自动执行SSH私钥和主机发现的利用后任务。",
+            "url": "https://github.com/MegaManSec/SSH-Snake",
+            "name": "MegaManSec /SSH-Snake",
+            "description": "SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",
+            "stars": "1,589",
+            "forks": "143",
+            "language": "Shell",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "GLIGEN的直观图形用户界面，在后端使用ComfyUI",
+            "url": "https://github.com/mut-ex/gligen-gui",
+            "name": "mut-ex /gligen-gui",
+            "description": "An intuitive GUI for GLIGEN that uses ComfyUI in the backend",
+            "stars": "1,346",
+            "forks": "127",
+            "language": "JavaScript",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "41,024",
+            "forks": "4,323",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "453",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "Google Gema模型的官方PyTorch实现",
+            "url": "https://github.com/google/gemma_pytorch",
+            "name": "google /gemma_pytorch",
+            "description": "The official PyTorch implementation of Google's Gemma models",
+            "stars": "3,767",
+            "forks": "355",
+            "language": "Python",
+            "stars_today": "307 stars today"
+        },
+        {
+            "zh_des": "Rust全节点执行Fuel v2协议。",
+            "url": "https://github.com/FuelLabs/fuel-core",
+            "name": "FuelLabs /fuel-core",
+            "description": "Rust full node implementation of the Fuel v2 protocol.",
+            "stars": "41,871",
+            "forks": "1,407",
+            "language": "Rust",
+            "stars_today": "534 stars today"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "2,208",
+            "forks": "100",
+            "language": "Vue",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "建设互联网上最好的系统设计资源",
+            "url": "https://github.com/systemdesign42/system-design",
+            "name": "systemdesign42 /system-design",
+            "description": "Building the best system design resource in the internet",
+            "stars": "2,920",
+            "forks": "258",
+            "language": "",
+            "stars_today": "367 stars today"
+        },
+        {
+            "zh_des": "此存储库包含系统设计资源，这些资源在准备面试和学习分布式系统时非常有用",
+            "url": "https://github.com/ashishps1/awesome-system-design-resources",
+            "name": "ashishps1 /awesome-system-design-resources",
+            "description": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
+            "stars": "7,585",
+            "forks": "1,827",
+            "language": "",
+            "stars_today": "296 stars today"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.75个班级，37个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,125",
+            "forks": "1,302",
+            "language": "Python",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "性能可移植、与长度无关的SIMD，支持运行时调度",
+            "url": "https://github.com/google/highway",
+            "name": "google /highway",
+            "description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+            "stars": "3,336",
+            "forks": "234",
+            "language": "C++",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "ZK信条",
+            "url": "https://github.com/zksync/credo",
+            "name": "zksync /credo",
+            "description": "ZK Credo",
+            "stars": "1,664",
+            "forks": "906",
+            "language": "",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "67,631",
+            "forks": "27,232",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "21,697",
+            "forks": "1,864",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "使用机器学习检测reggaeton风格，并发送数据包以禁用BT扬声器(希望如此)",
+            "url": "https://github.com/ronibandini/reggaetonBeGone",
+            "name": "ronibandini /reggaetonBeGone",
+            "description": "detects reggaeton style with Machine Learning and sends packets to disable BT speakers (hopefully)",
+            "stars": "168",
+            "forks": "11",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "I-Soon/安迅泄密相关资料",
+            "url": "https://github.com/soufianetahiri/Anxun-isoon",
+            "name": "soufianetahiri /Anxun-isoon",
+            "description": "I-SOON/Anxun leak related stuff",
+            "stars": "204",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "反应严格DOM(RSD)是支持Web和本机目标的反应DOM、命令性DOM和CSS的子集",
+            "url": "https://github.com/facebook/react-strict-dom",
+            "name": "facebook /react-strict-dom",
+            "description": "React Strict DOM (RSD) is a subset of React DOM, imperative DOM, and CSS that supports web and native targets",
+            "stars": "2,097",
+            "forks": "108",
+            "language": "JavaScript",
+            "stars_today": "110 stars today"
+        }
+    ]
+}

@@ -20572,3 +20572,257 @@
         }
     ]
 }
+{
+    "02月26日": [
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "7,125",
+            "forks": "569",
+            "language": "Python",
+            "stars_today": "5,333 stars this week"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "5,968",
+            "forks": "463",
+            "language": "Python",
+            "stars_today": "4,119 stars this week"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "6,634",
+            "forks": "357",
+            "language": "Python",
+            "stars_today": "4,624 stars this week"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,354",
+            "forks": "5,922",
+            "language": "Python",
+            "stars_today": "2,528 stars this week"
+        },
+        {
+            "zh_des": "ChatGPT/LLMS用户界面/框架--一个开源的、现代设计的🤯。支持语音合成、多模式、可扩展的插件系统。一键免费部署您的私人ChatGPT/Gemini/Ollama聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design ChatGPT/LLMs UI/Framework. Supports speech-synthesis, multi-modal, and extensible plugin system. One-click FREE deployment of your private ChatGPT/Gemini/Ollama chat application.",
+            "stars": "20,706",
+            "forks": "4,034",
+            "language": "TypeScript",
+            "stars_today": "2,884 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包安装程序和解析器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package installer and resolver, written in Rust.",
+            "stars": "7,160",
+            "forks": "202",
+            "language": "Rust",
+            "stars_today": "2,552 stars this week"
+        },
+        {
+            "zh_des": "I茅台APP自动预约，每日自动预约，支持Dock一键部署(本项目不提供成品，使用的是已淘汰的算法)",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）",
+            "stars": "3,083",
+            "forks": "883",
+            "language": "Java",
+            "stars_today": "822 stars this week"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "23,775",
+            "forks": "4,114",
+            "language": "Python",
+            "stars_today": "1,549 stars this week"
+        },
+        {
+            "zh_des": "用自然语言开发LLM应用程序",
+            "url": "https://github.com/gptscript-ai/gptscript",
+            "name": "gptscript-ai /gptscript",
+            "description": "Develop LLM Apps in Natural Language",
+            "stars": "1,362",
+            "forks": "104",
+            "language": "Go",
+            "stars_today": "808 stars this week"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "2,097",
+            "forks": "1,512",
+            "language": "Rust",
+            "stars_today": "311 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "2,339",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "726 stars this week"
+        },
+        {
+            "zh_des": "更聪明的CD命令。支持所有主要的炮弹。",
+            "url": "https://github.com/ajeetdsouza/zoxide",
+            "name": "ajeetdsouza /zoxide",
+            "description": "A smarter cd command. Supports all major shells.",
+            "stars": "16,235",
+            "forks": "472",
+            "language": "Rust",
+            "stars_today": "1,078 stars this week"
+        },
+        {
+            "zh_des": "一个自我完善的具体化对话代理，无缝集成到操作系统中，使我们的日常任务自动化。",
+            "url": "https://github.com/OS-Copilot/FRIDAY",
+            "name": "OS-Copilot /FRIDAY",
+            "description": "An self-improving embodied conversational agent seamlessly integrated into the operating system to automate our daily tasks.",
+            "stars": "705",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "178 stars this week"
+        },
+        {
+            "zh_des": "支持所有平台的现代下载管理器。用高朗和飞舞打造。",
+            "url": "https://github.com/GopeedLab/gopeed",
+            "name": "GopeedLab /gopeed",
+            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "stars": "10,013",
+            "forks": "765",
+            "language": "Dart",
+            "stars_today": "813 stars this week"
+        },
+        {
+            "zh_des": "以图形用户界面为中心的ROOP",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "2,820",
+            "forks": "395",
+            "language": "Python",
+            "stars_today": "305 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "3,992",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "21,085",
+            "forks": "10,630",
+            "language": "TypeScript",
+            "stars_today": "451 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,092",
+            "forks": "1,564",
+            "language": "Python",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/GLm-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,252",
+            "forks": "6,183",
+            "language": "Python",
+            "stars_today": "857 stars this week"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "8,053",
+            "forks": "832",
+            "language": "Python",
+            "stars_today": "818 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "53,845",
+            "forks": "12,368",
+            "language": "Python",
+            "stars_today": "1,193 stars this week"
+        },
+        {
+            "zh_des": "在本地运行模型的AI笔记应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "AI note-taking app that runs models locally.",
+            "stars": "3,286",
+            "forks": "176",
+            "language": "TypeScript",
+            "stars_today": "876 stars this week"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "63,912",
+            "forks": "7,781",
+            "language": "Java",
+            "stars_today": "1,498 stars this week"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "247,462",
+            "forks": "23,520",
+            "language": "",
+            "stars_today": "2,417 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "147,437",
+            "forks": "50,881",
+            "language": "Python",
+            "stars_today": "818 stars this week"
+        }
+    ]
+}
