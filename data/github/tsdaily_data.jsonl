@@ -11174,3 +11174,257 @@
         }
     ]
 }
+{
+    "02月27日": [
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "41,191",
+            "forks": "4,373",
+            "language": "TypeScript",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "SoraWebui是一个开源的Sora网络客户端，使用户能够使用OpenAI的Sora模型轻松地从文本创建视频。",
+            "url": "https://github.com/SoraWebui/SoraWebui",
+            "name": "SoraWebui /SoraWebui",
+            "description": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+            "stars": "1,489",
+            "forks": "328",
+            "language": "TypeScript",
+            "stars_today": "374 stars today"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "20,763",
+            "forks": "1,519",
+            "language": "TypeScript",
+            "stars_today": "243 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "18,712",
+            "forks": "1,978",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "267,348",
+            "forks": "36,256",
+            "language": "TypeScript",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "轻量级Postgres以WASM的形式打包到用于浏览器、Node.js、Bun和Deno的打字库中",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
+            "stars": "2,038",
+            "forks": "16",
+            "language": "TypeScript",
+            "stars_today": "632 stars today"
+        },
+        {
+            "zh_des": "⚡️⚡️⚡️自行托管的协作式书签管理器，用于收集、组织和保存网页和文章。",
+            "url": "https://github.com/linkwarden/linkwarden",
+            "name": "linkwarden /linkwarden",
+            "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.",
+            "stars": "4,462",
+            "forks": "160",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "8,030",
+            "forks": "361",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "了解如何使用NEXT 14、STRIPE、TYPESCRIPT和PayLoad CMS建立一个具有管理仪表板和CMS的令人难以置信的电子商务网店。",
+            "url": "https://github.com/adrianhajdin/ecommerce",
+            "name": "adrianhajdin /ecommerce",
+            "description": "Learn how to build an incredible e-commerce webshop with an admin dashboard and CMS using Next 14, Stripe, TypeScript, and Payload CMS.",
+            "stars": "631",
+            "forks": "167",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "模型、文本倒排等内容的存储库",
+            "url": "https://github.com/civitai/civitai",
+            "name": "civitai /civitai",
+            "description": "A repository of models, textual inversions, and more",
+            "stars": "5,335",
+            "forks": "481",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "去中心化自主监管公司(DARC)，运行在任何与EVM兼容的区块链上的公司虚拟机，具有链上法律体系、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "7,087",
+            "forks": "5,447",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "录制语音笔记并转录、汇总和获取任务",
+            "url": "https://github.com/Nutlope/notesGPT",
+            "name": "Nutlope /notesGPT",
+            "description": "Record voice notes & transcribe, summarize, and get tasks",
+            "stars": "1,281",
+            "forks": "181",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "49,966",
+            "forks": "2,504",
+            "language": "TypeScript",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "384,163",
+            "forks": "34,737",
+            "language": "TypeScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "通过TensorFlow.js在客户端检测NSFW",
+            "url": "https://github.com/infinitered/nsfwjs",
+            "name": "infinitered /nsfwjs",
+            "description": "NSFW detection on the client-side via TensorFlow.js",
+            "stars": "7,442",
+            "forks": "503",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "ApacheECharts是一个功能强大的交互式图表和数据可视化浏览器库",
+            "url": "https://github.com/apache/echarts",
+            "name": "apache /echarts",
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "stars": "58,315",
+            "forks": "19,542",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "HomeKit为不耐烦的人提供支持。",
+            "url": "https://github.com/homebridge/homebridge",
+            "name": "homebridge /homebridge",
+            "description": "HomeKit support for the impatient.",
+            "stars": "23,132",
+            "forks": "1,971",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "这是一个Next.js，Tailind的css博客入门模板。开箱即用，配置了最新的技术，使技术编写变得轻而易举。可轻松配置和定制。作为现有Jekyll和Hugo个人博客的完美替代品。",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+            "name": "timlrx /tailwind-nextjs-starter-blog",
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "stars": "6,634",
+            "forks": "1,634",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Reaction的开源、可用于生产的动画和手势库",
+            "url": "https://github.com/framer/motion",
+            "name": "framer /motion",
+            "description": "Open source, production-ready animation and gesture library for React",
+            "stars": "21,413",
+            "forks": "693",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "用于Uniswap协议的🦄开源接口",
+            "url": "https://github.com/Uniswap/interface",
+            "name": "Uniswap /interface",
+            "description": "🦄 Open source interfaces for the Uniswap protocol",
+            "stars": "4,522",
+            "forks": "4,553",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "💬个人人工智能应用程序由GPT-4及更高版本支持，具有AI人物角色、AGI功能、文本到图像、语音、响应流、代码突出显示和执行、PDF导入、为开发人员预设等功能。部署并赠送#Big-AGI-Energy！使用Next.js，反应，喜悦。",
+            "url": "https://github.com/enricoros/big-AGI",
+            "name": "enricoros /big-AGI",
+            "description": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
+            "stars": "2,882",
+            "forks": "720",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "让Docker和Kubernetes的管理变得容易。",
+            "url": "https://github.com/portainer/portainer",
+            "name": "portainer /portainer",
+            "description": "Making Docker and Kubernetes management easy.",
+            "stars": "28,200",
+            "forks": "2,330",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序生成器。使用FastAPI、PostgreSQL作为数据库、Docker、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+            "name": "tiangolo /full-stack-fastapi-postgresql",
+            "description": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+            "stars": "14,695",
+            "forks": "2,556",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "燃料网络类型脚本SDK",
+            "url": "https://github.com/FuelLabs/fuels-ts",
+            "name": "FuelLabs /fuels-ts",
+            "description": "Fuel Network Typescript SDK",
+            "stars": "33,572",
+            "forks": "778",
+            "language": "TypeScript",
+            "stars_today": "376 stars today"
+        },
+        {
+            "zh_des": "易于打印的简约简历页面",
+            "url": "https://github.com/BartoszJarocki/cv",
+            "name": "BartoszJarocki /cv",
+            "description": "Print-friendly, minimalist CV page",
+            "stars": "8,015",
+            "forks": "773",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        }
+    ]
+}

@@ -22953,3 +22953,257 @@
         }
     ]
 }
+{
+    "02月27日": [
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "4,328",
+            "forks": "499",
+            "language": "Python",
+            "stars_today": "1,034 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "3,403",
+            "forks": "465",
+            "language": "Python",
+            "stars_today": "394 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "281,140",
+            "forks": "30,721",
+            "language": "Python",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/KillianLucas/open-interpreter",
+            "name": "KillianLucas /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "40,987",
+            "forks": "3,561",
+            "language": "Python",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.75个班级，37个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,311",
+            "forks": "1,354",
+            "language": "Python",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "曼巴",
+            "url": "https://github.com/state-spaces/mamba",
+            "name": "state-spaces /mamba",
+            "description": "Mamba",
+            "stars": "6,888",
+            "forks": "547",
+            "language": "Python",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "OpenCodeInterpreter：将代码生成与执行和精化相结合",
+            "url": "https://github.com/OpenCodeInterpreter/OpenCodeInterpreter",
+            "name": "OpenCodeInterpreter /OpenCodeInterpreter",
+            "description": "OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement",
+            "stars": "641",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "114 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "675",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "21,880",
+            "forks": "1,906",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "Скриптпоработесо卷轴",
+            "url": "https://github.com/czbag/scroll",
+            "name": "czbag /scroll",
+            "description": "Скрипт по работе со Scroll",
+            "stars": "147",
+            "forks": "76",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "67,666",
+            "forks": "27,245",
+            "language": "Python",
+            "stars_today": "188 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "147,550",
+            "forks": "50,900",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "8,228",
+            "forks": "888",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "820",
+            "forks": "223",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "6,504",
+            "forks": "768",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "基于NanGPT的最先进的开源LLM的可破解实现。支持闪光关注、4位和8位量化、LORA和骆驼适配器微调、预培训。Apache2.0-获得许可。",
+            "url": "https://github.com/Lightning-AI/lit-gpt",
+            "name": "Lightning-AI /lit-gpt",
+            "description": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+            "stars": "5,115",
+            "forks": "532",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "199,151",
+            "forks": "24,234",
+            "language": "Python",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "一个简单的PYTHON语言MUD服务器，用于教学目的，可以在Raspberry PI上运行",
+            "url": "https://github.com/Frimkron/mud-pi",
+            "name": "Frimkron /mud-pi",
+            "description": "A simple MUD server in Python, for teaching purposes, which could be run on a Raspberry Pi",
+            "stars": "322",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "247,555",
+            "forks": "42,498",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "一种使用基于意图的提示校准进行提示调整的框架",
+            "url": "https://github.com/Eladlev/AutoPrompt",
+            "name": "Eladlev /AutoPrompt",
+            "description": "A framework for prompt tuning using Intent-based Prompt Calibration",
+            "stars": "338",
+            "forks": "13",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "用于🤖🏴‍☠️-4🦜的GPTradare2插件。自动解决问题🪄",
+            "url": "https://github.com/dnakov/r2d2",
+            "name": "dnakov /r2d2",
+            "description": "🤖🏴‍☠️ radare2 plugin for GPT-4 🦜. Solve crackmes automatically 🪄",
+            "stars": "178",
+            "forks": "11",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Rich是一个Python库，用于终端中的富文本和漂亮的格式设置。",
+            "url": "https://github.com/Textualize/rich",
+            "name": "Textualize /rich",
+            "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+            "stars": "46,525",
+            "forks": "1,654",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "62,169",
+            "forks": "13,359",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "用于现实世界应用程序的低代码Web框架，使用Python和Java脚本",
+            "url": "https://github.com/frappe/frappe",
+            "name": "frappe /frappe",
+            "description": "Low code web framework for real world applications, in Python and Javascript",
+            "stars": "6,281",
+            "forks": "3,033",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "13,782",
+            "forks": "1,260",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        }
+    ]
+}

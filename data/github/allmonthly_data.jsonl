@@ -20562,3 +20562,257 @@
         }
     ]
 }
+{
+    "02月27日": [
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "6,139",
+            "forks": "654",
+            "language": "TypeScript",
+            "stars_today": "6,206 stars this month"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "26,088",
+            "forks": "1,021",
+            "language": "Rust",
+            "stars_today": "18,020 stars this month"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "9,526",
+            "forks": "607",
+            "language": "Jupyter Notebook",
+            "stars_today": "8,207 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "25,023",
+            "forks": "1,886",
+            "language": "Ruby",
+            "stars_today": "12,004 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,675",
+            "forks": "1,406",
+            "language": "Python",
+            "stars_today": "1,597 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "6,894",
+            "forks": "465",
+            "language": "Python",
+            "stars_today": "1,787 stars this month"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,016",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "1,496 stars this month"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "16,049",
+            "forks": "1,659",
+            "language": "Python",
+            "stars_today": "10,624 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,515",
+            "forks": "148",
+            "language": "Python",
+            "stars_today": "885 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "14,267",
+            "forks": "1,465",
+            "language": "Python",
+            "stars_today": "1,543 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,869",
+            "forks": "2,349",
+            "language": "Python",
+            "stars_today": "1,056 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记服务。轻松捕捉和分享您的伟大思想。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open source, lightweight note-taking service. Easily capture and share your great thoughts.",
+            "stars": "25,253",
+            "forks": "1,803",
+            "language": "Go",
+            "stars_today": "2,789 stars this month"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "6,731",
+            "forks": "589",
+            "language": "Svelte",
+            "stars_today": "2,666 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,452",
+            "forks": "5,933",
+            "language": "Python",
+            "stars_today": "3,169 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,670",
+            "forks": "2,907",
+            "language": "C++",
+            "stars_today": "804 stars this month"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "8,101",
+            "forks": "837",
+            "language": "Python",
+            "stars_today": "1,673 stars this month"
+        },
+        {
+            "zh_des": "一个Docker Container，可以轻松运行Palworld专用服务器。",
+            "url": "https://github.com/thijsvanloef/palworld-server-docker",
+            "name": "thijsvanloef /palworld-server-docker",
+            "description": "A Docker Container to easily run a Palworld dedicated server.",
+            "stars": "2,240",
+            "forks": "273",
+            "language": "Shell",
+            "stars_today": "1,117 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,578",
+            "forks": "2,372",
+            "language": "Python",
+            "stars_today": "786 stars this month"
+        },
+        {
+            "zh_des": "一种面向编程工具的增量式语法分析系统",
+            "url": "https://github.com/tree-sitter/tree-sitter",
+            "name": "tree-sitter /tree-sitter",
+            "description": "An incremental parsing system for programming tools",
+            "stars": "15,485",
+            "forks": "1,056",
+            "language": "Rust",
+            "stars_today": "1,060 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "820",
+            "forks": "223",
+            "language": "Python",
+            "stars_today": "375 stars this month"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,506",
+            "forks": "367",
+            "language": "TypeScript",
+            "stars_today": "282 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,540",
+            "forks": "1,113",
+            "language": "Go",
+            "stars_today": "86 stars this month"
+        },
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "7,845",
+            "forks": "396",
+            "language": "TypeScript",
+            "stars_today": "1,475 stars this month"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "20,808",
+            "forks": "3,234",
+            "language": "Python",
+            "stars_today": "1,049 stars this month"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "21,166",
+            "forks": "10,657",
+            "language": "TypeScript",
+            "stars_today": "1,407 stars this month"
+        }
+    ]
+}
