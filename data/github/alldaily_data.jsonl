@@ -23958,3 +23958,257 @@
         }
     ]
 }
+{
+    "02月27日": [
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "4,829",
+            "forks": "547",
+            "language": "Python",
+            "stars_today": "1,206 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "281,874",
+            "forks": "30,764",
+            "language": "Python",
+            "stars_today": "648 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "764",
+            "forks": "117",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "3,675",
+            "forks": "498",
+            "language": "Python",
+            "stars_today": "1,384 stars today"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "4,926",
+            "forks": "208",
+            "language": "Zig",
+            "stars_today": "909 stars today"
+        },
+        {
+            "zh_des": "Rust全节点执行Fuel v2协议。",
+            "url": "https://github.com/FuelLabs/fuel-core",
+            "name": "FuelLabs /fuel-core",
+            "description": "Rust full node implementation of the Fuel v2 protocol.",
+            "stars": "42,895",
+            "forks": "1,569",
+            "language": "Rust",
+            "stars_today": "862 stars today"
+        },
+        {
+            "zh_des": "🌴使每个人都能够构建可靠、高效的智能合同。",
+            "url": "https://github.com/FuelLabs/sway",
+            "name": "FuelLabs /sway",
+            "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+            "stars": "54,044",
+            "forks": "3,488",
+            "language": "Rust",
+            "stars_today": "668 stars today"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "6,148",
+            "forks": "1,189",
+            "language": "JavaScript",
+            "stars_today": "232 stars today"
+        },
+        {
+            "zh_des": "针对Google的Gema模型的轻量级、独立的C++推理引擎。",
+            "url": "https://github.com/google/gemma.cpp",
+            "name": "google /gemma.cpp",
+            "description": "lightweight, standalone C++ inference engine for Google's Gemma models.",
+            "stars": "4,541",
+            "forks": "350",
+            "language": "C++",
+            "stars_today": "263 stars today"
+        },
+        {
+            "zh_des": "一种使用基于意图的提示校准进行提示调整的框架",
+            "url": "https://github.com/Eladlev/AutoPrompt",
+            "name": "Eladlev /AutoPrompt",
+            "description": "A framework for prompt tuning using Intent-based Prompt Calibration",
+            "stars": "401",
+            "forks": "17",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.75个班级，37个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,364",
+            "forks": "1,355",
+            "language": "Python",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "🎓免费自学计算机科学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "158,888",
+            "forks": "19,865",
+            "language": "",
+            "stars_today": "325 stars today"
+        },
+        {
+            "zh_des": "燃料网络类型脚本SDK",
+            "url": "https://github.com/FuelLabs/fuels-ts",
+            "name": "FuelLabs /fuels-ts",
+            "description": "Fuel Network Typescript SDK",
+            "stars": "33,674",
+            "forks": "788",
+            "language": "TypeScript",
+            "stars_today": "322 stars today"
+        },
+        {
+            "zh_des": "燃料网络锈蚀SDK",
+            "url": "https://github.com/FuelLabs/fuels-rs",
+            "name": "FuelLabs /fuels-rs",
+            "description": "Fuel Network Rust SDK",
+            "stars": "34,078",
+            "forks": "831",
+            "language": "Rust",
+            "stars_today": "344 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "27,157",
+            "forks": "1,704",
+            "language": "TypeScript",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "加速你的拥抱脸变形金刚6-7倍。《拥抱面孔》和《火炬》的原住民。",
+            "url": "https://github.com/MDK8888/GPTFast",
+            "name": "MDK8888 /GPTFast",
+            "description": "Accelerate your Hugging Face Transformers 6-7x. Native to Hugging Face and PyTorch.",
+            "stars": "293",
+            "forks": "11",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/KillianLucas/open-interpreter",
+            "name": "KillianLucas /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "41,065",
+            "forks": "3,569",
+            "language": "Python",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "ZK信条",
+            "url": "https://github.com/zksync/credo",
+            "name": "zksync /credo",
+            "description": "ZK Credo",
+            "stars": "1,813",
+            "forks": "952",
+            "language": "",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "轻量级Postgres以WASM的形式打包到用于浏览器、Node.js、Bun和Deno的打字库中",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno",
+            "stars": "2,207",
+            "forks": "17",
+            "language": "TypeScript",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "使用HWID/OHOOK/KMS38/Online KMS激活方法的Windows和Office激活器，重点关注开源代码和较少的防病毒检测。",
+            "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+            "name": "massgravel /Microsoft-Activation-Scripts",
+            "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+            "stars": "65,141",
+            "forks": "6,485",
+            "language": "Batchfile",
+            "stars_today": "1,528 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "41,803",
+            "forks": "2,678",
+            "language": "Go",
+            "stars_today": "639 stars today"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "23,946",
+            "forks": "6,616",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "此存储库包含系统设计资源，这些资源在准备面试和学习分布式系统时非常有用",
+            "url": "https://github.com/ashishps1/awesome-system-design-resources",
+            "name": "ashishps1 /awesome-system-design-resources",
+            "description": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
+            "stars": "8,307",
+            "forks": "1,970",
+            "language": "",
+            "stars_today": "475 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "28,827",
+            "forks": "2,398",
+            "language": "",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "41,262",
+            "forks": "4,378",
+            "language": "TypeScript",
+            "stars_today": "175 stars today"
+        }
+    ]
+}
