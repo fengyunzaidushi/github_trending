@@ -24466,3 +24466,257 @@
         }
     ]
 }
+{
+    "02月28日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "8,316",
+            "forks": "620",
+            "language": "TypeScript",
+            "stars_today": "694 stars today"
+        },
+        {
+            "zh_des": "用于Reaction-Three-Fibre的📱用户界面",
+            "url": "https://github.com/pmndrs/uikit",
+            "name": "pmndrs /uikit",
+            "description": "📱 user interfaces for react-three-fiber",
+            "stars": "758",
+            "forks": "14",
+            "language": "TypeScript",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "4,032",
+            "forks": "576",
+            "language": "Python",
+            "stars_today": "416 stars today"
+        },
+        {
+            "zh_des": "OpenCodeInterpreter：将代码生成与执行和精化相结合",
+            "url": "https://github.com/OpenCodeInterpreter/OpenCodeInterpreter",
+            "name": "OpenCodeInterpreter /OpenCodeInterpreter",
+            "description": "OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement",
+            "stars": "802",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "18,868",
+            "forks": "2,009",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "27,497",
+            "forks": "1,753",
+            "language": "TypeScript",
+            "stars_today": "390 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "8,388",
+            "forks": "912",
+            "language": "Python",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "283,052",
+            "forks": "30,875",
+            "language": "Python",
+            "stars_today": "1,690 stars today"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "5,339",
+            "forks": "248",
+            "language": "Zig",
+            "stars_today": "542 stars today"
+        },
+        {
+            "zh_des": "一个分散的、相当于以太的ZK-ROLLUP。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A decentralized, Ethereum-equivalent ZK-Rollup. 🥁",
+            "stars": "3,202",
+            "forks": "1,523",
+            "language": "HTML",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "1,810",
+            "forks": "83",
+            "language": "Shell",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "此存储库包含系统设计资源，这些资源在准备面试和学习分布式系统时非常有用",
+            "url": "https://github.com/ashishps1/awesome-system-design-resources",
+            "name": "ashishps1 /awesome-system-design-resources",
+            "description": "This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems",
+            "stars": "8,639",
+            "forks": "2,022",
+            "language": "",
+            "stars_today": "446 stars today"
+        },
+        {
+            "zh_des": "用于快速开发和部署可投入生产的RAG系统的框架",
+            "url": "https://github.com/SciPhi-AI/R2R",
+            "name": "SciPhi-AI /R2R",
+            "description": "A framework for rapid development and deployment of production-ready RAG systems",
+            "stars": "633",
+            "forks": "24",
+            "language": "Python",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "452",
+            "forks": "38",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "数据-科学-项目-简历",
+            "url": "https://github.com/krishnaik06/Data-Science-Projects-For-Resumes",
+            "name": "krishnaik06 /Data-Science-Projects-For-Resumes",
+            "description": "Data-Science-Projects-For-Resumes",
+            "stars": "329",
+            "forks": "129",
+            "language": "",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "🎓免费自学计算机科学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "159,162",
+            "forks": "19,915",
+            "language": "",
+            "stars_today": "325 stars today"
+        },
+        {
+            "zh_des": "自动填充服务。",
+            "url": "https://github.com/polyfillpolyfill/polyfill-service",
+            "name": "polyfillpolyfill /polyfill-service",
+            "description": "Automatic polyfill service.",
+            "stars": "6,269",
+            "forks": "538",
+            "language": "",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "24,507",
+            "forks": "15,696",
+            "language": "Jupyter Notebook",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "西北风AI 7B v0.1模型的参考实现。",
+            "url": "https://github.com/mistralai/mistral-src",
+            "name": "mistralai /mistral-src",
+            "description": "Reference implementation of Mistral AI 7B v0.1 model.",
+            "stars": "7,809",
+            "forks": "635",
+            "language": "Jupyter Notebook",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "🚀免费节点，🚀6免费订阅地址，免费节点小时更新一次，共享节点，节点质量高可用，完全免费。免费Clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/特洛伊木马节点、谷歌商店、翻墙梯子。注意:目前进入官网需开启代理.",
+            "url": "https://github.com/Pawdroid/Free-servers",
+            "name": "Pawdroid /Free-servers",
+            "description": "🚀 免费订阅地址，🚀 免费节点，🚀 6小时更新一次，共享节点，节点质量高可用，完全免费。免费clash订阅地址，免费翻墙、免费科学上网、免费梯子、免费ss/v2ray/trojan节点、谷歌商店、翻墙梯子。注意：目前进入官网需开启代理。",
+            "stars": "7,999",
+            "forks": "487",
+            "language": "",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "5,514",
+            "forks": "653",
+            "language": "Python",
+            "stars_today": "935 stars today"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "28,606",
+            "forks": "2,650",
+            "language": "C#",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "74,140",
+            "forks": "7,514",
+            "language": "Shell",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "🔥全面esm+VUE3+VITE+元素加+打字编写的一款后台管理系统(兼容移动端)",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "12,402",
+            "forks": "2,381",
+            "language": "Vue",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "🌴使每个人都能够构建可靠、高效的智能合同。",
+            "url": "https://github.com/FuelLabs/sway",
+            "name": "FuelLabs /sway",
+            "description": "🌴 Empowering everyone to build reliable and efficient smart contracts.",
+            "stars": "54,450",
+            "forks": "3,678",
+            "language": "Rust",
+            "stars_today": "548 stars today"
+        }
+    ]
+}

@@ -11936,3 +11936,257 @@
         }
     ]
 }
+{
+    "02月28日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "8,317",
+            "forks": "620",
+            "language": "TypeScript",
+            "stars_today": "694 stars today"
+        },
+        {
+            "zh_des": "用于Reaction-Three-Fibre的📱用户界面",
+            "url": "https://github.com/pmndrs/uikit",
+            "name": "pmndrs /uikit",
+            "description": "📱 user interfaces for react-three-fiber",
+            "stars": "758",
+            "forks": "14",
+            "language": "TypeScript",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "18,868",
+            "forks": "2,009",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "27,497",
+            "forks": "1,753",
+            "language": "TypeScript",
+            "stars_today": "390 stars today"
+        },
+        {
+            "zh_des": "模块化的AWS SDK for JavaScript。",
+            "url": "https://github.com/aws/aws-sdk-js-v3",
+            "name": "aws /aws-sdk-js-v3",
+            "description": "Modularized AWS SDK for JavaScript.",
+            "stars": "2,775",
+            "forks": "522",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "德古拉刺穿了一切。",
+            "url": "https://github.com/Herm-Studio/StakeVladDracula",
+            "name": "Herm-Studio /StakeVladDracula",
+            "description": "StakeVladDracula pierces all.",
+            "stars": "235",
+            "forks": "36",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "41,377",
+            "forks": "4,407",
+            "language": "TypeScript",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "下一代服务器工具包。使用您需要的一切创建Web服务器，并将其部署在您喜欢的任何位置。",
+            "url": "https://github.com/unjs/nitro",
+            "name": "unjs /nitro",
+            "description": "Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.",
+            "stars": "4,464",
+            "forks": "396",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "使用静态类型推理的TypeScrip优先模式验证",
+            "url": "https://github.com/colinhacks/zod",
+            "name": "colinhacks /zod",
+            "description": "TypeScript-first schema validation with static type inference",
+            "stars": "29,108",
+            "forks": "998",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "用于EVM链的模块化水龙头，具有不同的保护方法(验证码、挖矿、IP、Mainnet Balance、吉特币护照等)",
+            "url": "https://github.com/pk910/PoWFaucet",
+            "name": "pk910 /PoWFaucet",
+            "description": "Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)",
+            "stars": "2,831",
+            "forks": "1,063",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "FastGPT是一个建立在LLM上的基于知识的平台，提供开箱即用的数据处理和模型调用功能，允许通过流可视化进行工作流编排！",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!",
+            "stars": "10,270",
+            "forks": "2,368",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "面向开发人员的演示文稿幻灯片",
+            "url": "https://github.com/slidevjs/slidev",
+            "name": "slidevjs /slidev",
+            "description": "Presentation Slides for Developers",
+            "stars": "30,215",
+            "forks": "1,171",
+            "language": "TypeScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,001",
+            "forks": "6,628",
+            "language": "TypeScript",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "ZkSync时代：欢迎使用zkSync硬帽插件存储库zkSync时代是第2层汇总，它使用零知识证明来扩展以太，而不会影响安全性或\n分权",
+            "url": "https://github.com/matter-labs/hardhat-zksync",
+            "name": "matter-labs /hardhat-zksync",
+            "description": "zkSync Era: Welcome to zkSync Hardhat plugins repositoryzkSync Era is a layer 2 rollup that uses zero-knowledge proofs to scale Ethereum without compromising on security or\ndecentralization",
+            "stars": "223",
+            "forks": "167",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "Chatbot Ollama是Ollama的开源聊天用户界面。",
+            "url": "https://github.com/ivanfioravanti/chatbot-ollama",
+            "name": "ivanfioravanti /chatbot-ollama",
+            "description": "Chatbot Ollama is an open source chat UI for Ollama.",
+            "stars": "702",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "前端低代码框架，通过Json配置就能生成各种页面.",
+            "url": "https://github.com/baidu/amis",
+            "name": "baidu /amis",
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "stars": "15,787",
+            "forks": "2,291",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一次性密码输入。无障碍和无风格。",
+            "url": "https://github.com/guilhermerodz/input-otp",
+            "name": "guilhermerodz /input-otp",
+            "description": "One time passcode Input. Accessible & unstyled.",
+            "stars": "1,226",
+            "forks": "26",
+            "language": "TypeScript",
+            "stars_today": "296 stars today"
+        },
+        {
+            "zh_des": "Reaction Native(Android和iOS)的材料设计",
+            "url": "https://github.com/callstack/react-native-paper",
+            "name": "callstack /react-native-paper",
+            "description": "Material Design for React Native (Android & iOS)",
+            "stars": "12,020",
+            "forks": "2,022",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于🔧电子的开源工具箱，免费集成丰富的插件。基于电子的开源工具箱，自由集成丰富插件。",
+            "url": "https://github.com/rubickCenter/rubick",
+            "name": "rubickCenter /rubick",
+            "description": "🔧 Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。",
+            "stars": "6,731",
+            "forks": "701",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "57,168",
+            "forks": "12,180",
+            "language": "TypeScript",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "50,165",
+            "forks": "2,514",
+            "language": "TypeScript",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "⚡️👉🏻vue2&vue3虚拟虚拟滚动列表3kb📑[VUE一个支持][VUE虚拟滚动列表][VUE虚拟列表][VUE虚拟滚动列表][VUE虚拟滚动列表]",
+            "url": "https://github.com/keno-lee/vue-virt-list",
+            "name": "keno-lee /vue-virt-list",
+            "description": "⚡️ 一个支持vue2&vue3的高性能虚拟(滚动)列表组件 👉🏻 轻量3KB 百万数据渲染 满帧率滚动 丰富场景支持 📑 [vue虚拟列表] [vue虚拟滚动列表] [vue-virtual-list] [vue-virtual-scroll-list] [vue-virtual-scroller]",
+            "stars": "111",
+            "forks": "18",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "19,668",
+            "forks": "3,729",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "6,192",
+            "forks": "663",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "10,995",
+            "forks": "3,608",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        }
+    ]
+}
