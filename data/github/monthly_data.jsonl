@@ -21334,3 +21334,257 @@
         }
     ]
 }
+{
+    "02月28日": [
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/facebookresearch/codellama",
+            "name": "facebookresearch /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "13,706",
+            "forks": "1,409",
+            "language": "Python",
+            "stars_today": "1,613 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "7,053",
+            "forks": "474",
+            "language": "Python",
+            "stars_today": "1,812 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,537",
+            "forks": "5,944",
+            "language": "Python",
+            "stars_today": "3,265 stars this month"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "16,331",
+            "forks": "1,685",
+            "language": "Python",
+            "stars_today": "10,554 stars this month"
+        },
+        {
+            "zh_des": "用自然语言提问，并得到私人来源支持的答案。连接到Slack、GitHub、Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "8,158",
+            "forks": "841",
+            "language": "Python",
+            "stars_today": "1,720 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS‘23口头]视觉指令调整(LLaVA)针对GPT-4V级别和更高级别的功能而构建。",
+            "url": "https://github.com/haotian-liu/LLaVA",
+            "name": "haotian-liu /LLaVA",
+            "description": "[NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.",
+            "stars": "14,305",
+            "forks": "1,468",
+            "language": "Python",
+            "stars_today": "1,575 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,539",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "881 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,885",
+            "forks": "2,351",
+            "language": "Python",
+            "stars_today": "1,064 stars this month"
+        },
+        {
+            "zh_des": "WhisperFusion以WhisperLive和WhisperSpeech的能力为基础，提供与人工智能的无缝对话。",
+            "url": "https://github.com/collabora/WhisperFusion",
+            "name": "collabora /WhisperFusion",
+            "description": "WhisperFusion builds upon the capabilities of WhisperLive and WhisperSpeech to provide a seamless conversations with an AI.",
+            "stars": "1,271",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "1,202 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,586",
+            "forks": "2,372",
+            "language": "Python",
+            "stars_today": "786 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "840",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "395 stars this month"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,041",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "1,475 stars this month"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,067",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "478 stars this month"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "20,824",
+            "forks": "3,236",
+            "language": "Python",
+            "stars_today": "1,071 stars this month"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,190",
+            "forks": "1,586",
+            "language": "Python",
+            "stars_today": "1,816 stars this month"
+        },
+        {
+            "zh_des": "灵活而强大的Python数据分析/操作库，提供类似于R数据的标记数据结构。框架对象、统计函数等",
+            "url": "https://github.com/pandas-dev/pandas",
+            "name": "pandas-dev /pandas",
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+            "stars": "41,354",
+            "forks": "17,089",
+            "language": "Python",
+            "stars_today": "414 stars this month"
+        },
+        {
+            "zh_des": "InstantID：秒级身份保持零生成🔥",
+            "url": "https://github.com/InstantID/InstantID",
+            "name": "InstantID /InstantID",
+            "description": "InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥",
+            "stars": "8,392",
+            "forks": "556",
+            "language": "Python",
+            "stars_today": "4,723 stars this month"
+        },
+        {
+            "zh_des": "用于Excel和相关文件的16位CPU",
+            "url": "https://github.com/InkboxSoftware/excelCPU",
+            "name": "InkboxSoftware /excelCPU",
+            "description": "16-bit CPU for Excel, and related files",
+            "stars": "3,889",
+            "forks": "321",
+            "language": "Python",
+            "stars_today": "3,959 stars this month"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "1,351",
+            "forks": "181",
+            "language": "Python",
+            "stars_today": "1,011 stars this month"
+        },
+        {
+            "zh_des": "用于将Palworld.sav文件转换为JSON或将其转换为JSON的工具",
+            "url": "https://github.com/cheahjs/palworld-save-tools",
+            "name": "cheahjs /palworld-save-tools",
+            "description": "Tools for converting Palworld .sav files to JSON and back",
+            "stars": "694",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "529 stars this month"
+        },
+        {
+            "zh_des": "由Sota AI Model提供支持的图像修复工具。从你的图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换(由稳定扩散提供动力)图片上的任何东西。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "16,022",
+            "forks": "1,592",
+            "language": "Python",
+            "stars_today": "1,144 stars this month"
+        },
+        {
+            "zh_des": "最佳DDoS攻击脚本Python3，(Cyber/DDoS)攻击，共56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "10,802",
+            "forks": "2,271",
+            "language": "Python",
+            "stars_today": "530 stars this month"
+        },
+        {
+            "zh_des": "SGLang是一种为大型语言模型(LLM)设计的结构化生成语言。它使您与模型的交互更快、更可控。",
+            "url": "https://github.com/sgl-project/sglang",
+            "name": "sgl-project /sglang",
+            "description": "SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable.",
+            "stars": "1,598",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "670 stars this month"
+        },
+        {
+            "zh_des": "GraphCast：学习巧妙的中期全球天气预报",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "GraphCast: Learning skillful medium-range global weather forecasting",
+            "stars": "4,033",
+            "forks": "476",
+            "language": "Python",
+            "stars_today": "685 stars this month"
+        },
+        {
+            "zh_des": "DBT使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,592",
+            "forks": "1,460",
+            "language": "Python",
+            "stars_today": "427 stars this month"
+        }
+    ]
+}
