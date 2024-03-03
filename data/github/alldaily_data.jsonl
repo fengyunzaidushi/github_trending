@@ -26244,3 +26244,257 @@
         }
     ]
 }
+{
+    "03月03日": [
+        {
+            "zh_des": "用于构建快速、可靠和可演进的网络服务的库。",
+            "url": "https://github.com/cloudflare/pingora",
+            "name": "cloudflare /pingora",
+            "description": "A library for building fast, reliable and evolvable network services.",
+            "stars": "12,722",
+            "forks": "666",
+            "language": "Rust",
+            "stars_today": "2,483 stars today"
+        },
+        {
+            "zh_des": "🕵️‍️分析任何网站的一体化OSINT工具",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "14,604",
+            "forks": "1,072",
+            "language": "TypeScript",
+            "stars_today": "1,388 stars today"
+        },
+        {
+            "zh_des": "自动填充服务。",
+            "url": "https://github.com/polyfillpolyfill/polyfill-service",
+            "name": "polyfillpolyfill /polyfill-service",
+            "description": "Automatic polyfill service.",
+            "stars": "6,589",
+            "forks": "642",
+            "language": "",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "EMO",
+            "url": "https://github.com/HumanAIGC/EMO",
+            "name": "HumanAIGC /EMO",
+            "description": "EMO",
+            "stars": "4,904",
+            "forks": "400",
+            "language": "",
+            "stars_today": "474 stars today"
+        },
+        {
+            "zh_des": "免费课程和认证的精选列表。",
+            "url": "https://github.com/cloudcommunity/Free-Certifications",
+            "name": "cloudcommunity /Free-Certifications",
+            "description": "A curated list of free courses & certifications.",
+            "stars": "19,240",
+            "forks": "1,483",
+            "language": "",
+            "stars_today": "544 stars today"
+        },
+        {
+            "zh_des": "Nintendo Switch模拟器",
+            "url": "https://github.com/yuzu-emu/yuzu",
+            "name": "yuzu-emu /yuzu",
+            "description": "Nintendo Switch emulator",
+            "stars": "38,586",
+            "forks": "4,000",
+            "language": "C++",
+            "stars_today": "449 stars today"
+        },
+        {
+            "zh_des": "18堂课，开始使用生成式AI构建 https：microsoft.github.io/generative-ai-for-beginners/",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "25,465",
+            "forks": "16,006",
+            "language": "Jupyter Notebook",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "Animate Anyone：一致和可控的角色动画图像到视频合成",
+            "url": "https://github.com/HumanAIGC/AnimateAnyone",
+            "name": "HumanAIGC /AnimateAnyone",
+            "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+            "stars": "13,463",
+            "forks": "850",
+            "language": "",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "在Pytorch中实现“BitNet：Scaling 1-bit Transformers for Large Language Models”",
+            "url": "https://github.com/kyegomez/BitNet",
+            "name": "kyegomez /BitNet",
+            "description": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+            "stars": "855",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的Windows",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "3,972",
+            "forks": "266",
+            "language": "Shell",
+            "stars_today": "550 stars today"
+        },
+        {
+            "zh_des": "Rust Fuel v2协议的完整节点实现。",
+            "url": "https://github.com/FuelLabs/fuel-core",
+            "name": "FuelLabs /fuel-core",
+            "description": "Rust full node implementation of the Fuel v2 protocol.",
+            "stars": "45,041",
+            "forks": "1,872",
+            "language": "Rust",
+            "stars_today": "573 stars today"
+        },
+        {
+            "zh_des": "🔥每周突出显示顶级ML论文。",
+            "url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
+            "name": "dair-ai /ML-Papers-of-the-Week",
+            "description": "🔥Highlighting the top ML papers every week.",
+            "stars": "7,425",
+            "forks": "327",
+            "language": "",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "In this paper，the author introduces the principle and application of the mathematical model of the mathematical model.",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "29,828",
+            "forks": "2,510",
+            "language": "",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "此存储库是River反向代理应用程序的未来之家，基于Cloudflare的pingora库。",
+            "url": "https://github.com/memorysafety/river",
+            "name": "memorysafety /river",
+            "description": "This repository is the future home of the River reverse proxy application, based on the pingora library from Cloudflare.",
+            "stars": "504",
+            "forks": "33",
+            "language": "",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "立即将数据和AI算法转化为生产就绪的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "6,878",
+            "forks": "468",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "一个一站式的知识库，用于生成AI研究更新，采访资源，笔记本等等！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "957",
+            "forks": "198",
+            "language": "",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "Wazuh -开源安全平台。针对端点和云工作负载的统一XDR和SIEM保护。",
+            "url": "https://github.com/wazuh/wazuh",
+            "name": "wazuh /wazuh",
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "stars": "8,664",
+            "forks": "1,374",
+            "language": "C",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "MyShell.ai提供的高质量多语言文本到语音库。支持英语，西班牙语，法语，中文，日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "1,171",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "169 stars today"
+        },
+        {
+            "zh_des": "全面的ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "12,786",
+            "forks": "2,464",
+            "language": "Vue",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "Python打包和依赖项管理变得简单",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,812",
+            "forks": "2,164",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "跨任务、语言和模式的大规模自我监督预训练",
+            "url": "https://github.com/microsoft/unilm",
+            "name": "microsoft /unilm",
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "stars": "17,546",
+            "forks": "2,290",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "🚀一个健壮的，以性能为中心的，功能齐全的Redis客户端，用于Node.js。",
+            "url": "https://github.com/redis/ioredis",
+            "name": "redis /ioredis",
+            "description": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+            "stars": "13,330",
+            "forks": "1,139",
+            "language": "TypeScript",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "Fuel Network Rust SDK",
+            "url": "https://github.com/FuelLabs/fuels-rs",
+            "name": "FuelLabs /fuels-rs",
+            "description": "Fuel Network Rust SDK",
+            "stars": "35,578",
+            "forks": "963",
+            "language": "Rust",
+            "stars_today": "432 stars today"
+        },
+        {
+            "zh_des": "🎓通往计算机科学免费自学教育的道路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "159,839",
+            "forks": "20,024",
+            "language": "",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "开源RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,008",
+            "forks": "957",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        }
+    ]
+}
