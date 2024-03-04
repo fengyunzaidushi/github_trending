@@ -26255,3 +26255,257 @@
         }
     ]
 }
+{
+    "03月04日": [
+        {
+            "zh_des": "DUSt3R",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R",
+            "stars": "1,817",
+            "forks": "147",
+            "language": "Python",
+            "stars_today": "993 stars today"
+        },
+        {
+            "zh_des": "[WIP]WebUI的层扩散（通过Forge）",
+            "url": "https://github.com/layerdiffusion/sd-forge-layerdiffusion",
+            "name": "layerdiffusion /sd-forge-layerdiffusion",
+            "description": "[WIP] Layer Diffusion for WebUI (via Forge)",
+            "stars": "1,856",
+            "forks": "180",
+            "language": "Python",
+            "stars_today": "1,188 stars today"
+        },
+        {
+            "zh_des": "稳定扩散网页UI",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "123,942",
+            "forks": "24,209",
+            "language": "Python",
+            "stars_today": "341 stars today"
+        },
+        {
+            "zh_des": "一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。",
+            "url": "https://github.com/lining808/CS-Ebook",
+            "name": "lining808 /CS-Ebook",
+            "description": "一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。",
+            "stars": "1,013",
+            "forks": "82",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "StarCoder 2的家！",
+            "url": "https://github.com/bigcode-project/starcoder2",
+            "name": "bigcode-project /starcoder2",
+            "description": "Home of StarCoder2!",
+            "stars": "840",
+            "forks": "84",
+            "language": "Python",
+            "stars_today": "272 stars today"
+        },
+        {
+            "zh_des": "GaussianPro：3D高斯溅射与渐进传播",
+            "url": "https://github.com/kcheng1021/GaussianPro",
+            "name": "kcheng1021 /GaussianPro",
+            "description": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation",
+            "stars": "256",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Stable Diffusion WebUI Forge安装Forge截图ComparisonForge后台UNet Patcher使用--show-controlnet-example查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "2,875",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "更快地构建更好的UI。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "5,728",
+            "forks": "244",
+            "language": "Python",
+            "stars_today": "525 stars today"
+        },
+        {
+            "zh_des": "crewAI的示例crewAI旨在促进角色扮演AI代理的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "945",
+            "forks": "261",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "带有附加功能和修复的Youtube-DL分叉",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A youtube-dl fork with additional features and fixes",
+            "stars": "67,179",
+            "forks": "5,321",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "开源RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,074",
+            "forks": "976",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "免费、开源的加密货币交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "24,718",
+            "forks": "5,390",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "3,837",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "In this paper，the author introduces the principle and application of the method for the determination of water content in the water resources，and discusses the principle and application of the method of water resources.",
+            "url": "https://github.com/ihmily/DouyinLiveRecorder",
+            "name": "ihmily /DouyinLiveRecorder",
+            "description": "可循环值守和多人录制的直播录制软件，支持抖音、TikTok、快手、虎牙、斗鱼、B站、小红书、网易cc、pandaTV等平台直播录制，抓取多平台直播源地址，抖音无水印解析，快手无水印解析",
+            "stars": "2,153",
+            "forks": "224",
+            "language": "Python",
+            "stars_today": "209 stars today"
+        },
+        {
+            "zh_des": "Mini Sora项目旨在探索Sora的实现路径和未来发展方向。",
+            "url": "https://github.com/mini-sora/minisora",
+            "name": "mini-sora /minisora",
+            "description": "The Mini Sora project aims to explore the implementation path and future development direction of Sora.",
+            "stars": "410",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "我们给你做了一个你无法拒绝的包装",
+            "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+            "name": "python-telegram-bot /python-telegram-bot",
+            "description": "We have made you a wrapper you can't refuse",
+            "stars": "24,364",
+            "forks": "4,970",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融API",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "11,434",
+            "forks": "2,154",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "立即将数据和AI算法转化为生产就绪的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "6,998",
+            "forks": "497",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "248,114",
+            "forks": "42,583",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "一个JavaScript / TypeScript / Python / C# / PHP加密货币交易API，支持100多个比特币/山寨币交易所",
+            "url": "https://github.com/ccxt/ccxt",
+            "name": "ccxt /ccxt",
+            "description": "A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+            "stars": "30,660",
+            "forks": "7,147",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "图像修复工具由SOTA AI Model提供支持。删除任何不需要的对象，缺陷，从您的图片或擦除和替换（由稳定扩散供电）的图片上的任何东西的人。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "16,161",
+            "forks": "1,613",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "Lazy Predict帮助构建大量基本模型，无需编写大量代码，并帮助理解哪些模型在没有任何参数调优的情况下工作得更好",
+            "url": "https://github.com/shankarpandala/lazypredict",
+            "name": "shankarpandala /lazypredict",
+            "description": "Lazy Predict help build a lot of basic models without much code and helps understand which models works better without any parameter tuning",
+            "stars": "2,603",
+            "forks": "299",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "英特尔® NPU加速库",
+            "url": "https://github.com/intel/intel-npu-acceleration-library",
+            "name": "intel /intel-npu-acceleration-library",
+            "description": "Intel® NPU Acceleration Library",
+            "stars": "165",
+            "forks": "7",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "OLMo的建模、训练、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "3,356",
+            "forks": "289",
+            "language": "Python",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "SploitScan是一个复杂的网络安全实用程序，旨在提供有关漏洞和相关概念验证（proof-of-concept，缩写为ECOC）漏洞的详细信息。",
+            "url": "https://github.com/xaitax/SploitScan",
+            "name": "xaitax /SploitScan",
+            "description": "SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated proof-of-concept (PoC) exploits.",
+            "stars": "455",
+            "forks": "63",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        }
+    ]
+}
