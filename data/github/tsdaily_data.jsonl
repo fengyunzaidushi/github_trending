@@ -14222,3 +14222,257 @@
         }
     ]
 }
+{
+    "03月04日": [
+        {
+            "zh_des": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号rss生成(基于微信读书)。",
+            "url": "https://github.com/cooderl/wewe-rss",
+            "name": "cooderl /wewe-rss",
+            "description": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。",
+            "stars": "1,308",
+            "forks": "150",
+            "language": "TypeScript",
+            "stars_today": "293 stars today"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "3,796",
+            "forks": "179",
+            "language": "TypeScript",
+            "stars_today": "1,257 stars today"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "6,360",
+            "forks": "786",
+            "language": "TypeScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "3,359",
+            "forks": "5,615",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "15,446",
+            "forks": "1,150",
+            "language": "TypeScript",
+            "stars_today": "1,410 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,829",
+            "forks": "762",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "63,008",
+            "forks": "52,315",
+            "language": "TypeScript",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "用于与不一致API进行交互的功能强大的JavaScript库",
+            "url": "https://github.com/discordjs/discord.js",
+            "name": "discordjs /discord.js",
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "stars": "24,606",
+            "forks": "3,904",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用于构建内部工具、管理面板、仪表板和B2B应用程序的Reaction框架，具有无与伦比的灵活性。",
+            "url": "https://github.com/refinedev/refine",
+            "name": "refinedev /refine",
+            "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+            "stars": "22,629",
+            "forks": "1,656",
+            "language": "TypeScript",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "18,053",
+            "forks": "397",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "材料设计Web组件",
+            "url": "https://github.com/material-components/material-web",
+            "name": "material-components /material-web",
+            "description": "Material Design Web Components",
+            "stars": "8,323",
+            "forks": "790",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "384,520",
+            "forks": "34,799",
+            "language": "TypeScript",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "针对复杂应用程序逻辑的基于参与者的状态管理和编排。",
+            "url": "https://github.com/statelyai/xstate",
+            "name": "statelyai /xstate",
+            "description": "Actor-based state management & orchestration for complex app logic.",
+            "stars": "25,862",
+            "forks": "1,198",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "10,043",
+            "forks": "645",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "37,646",
+            "forks": "4,477",
+            "language": "TypeScript",
+            "stars_today": "703 stars today"
+        },
+        {
+            "zh_des": "这是一个不断扩展的开源Reaction UI库，使用了楔形设计系统、Radix原语和TailWind CSS构建而成。",
+            "url": "https://github.com/lmsqueezy/wedges",
+            "name": "lmsqueezy /wedges",
+            "description": "An ever-expanding, open-source React UI library built with the Wedges Design System, Radix primitives, and Tailwind CSS.",
+            "stars": "1,048",
+            "forks": "36",
+            "language": "TypeScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "在WhatsApp的ChatGPT应用程序中，聊天机器人正在探索一种集成方式，聊天机器人正在协助虚拟的Capaz de realizar和它的朋友之间的交流，客户的回应方式是e muito mais，comum toque de Human ização Nas对话。",
+            "url": "https://github.com/marcusGoncalvess/zap-gpt",
+            "name": "marcusGoncalvess /zap-gpt",
+            "description": "Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.",
+            "stars": "128",
+            "forks": "46",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "自托管照片和视频备份解决方案，直接从您的手机。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "Self-hosted photo and video backup solution directly from your mobile phone.",
+            "stars": "26,762",
+            "forks": "1,216",
+            "language": "TypeScript",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人类，顶点AI，Ollama，LLMS，您可以与用户分享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "28,680",
+            "forks": "2,764",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "Amica是一个开源接口，用于通过语音合成和语音识别与3D字符进行交互通信。",
+            "url": "https://github.com/semperai/amica",
+            "name": "semperai /amica",
+            "description": "Amica is an open source interface for interactive communication with 3D characters with voice synthesis and speech recognition.",
+            "stars": "402",
+            "forks": "64",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "您可以自行托管的会话重播和分析工具。非常适合复制问题、与用户共同浏览和优化您的产品。",
+            "url": "https://github.com/openreplay/openreplay",
+            "name": "openreplay /openreplay",
+            "description": "Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.",
+            "stars": "8,591",
+            "forks": "458",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "实时F1仪表盘",
+            "url": "https://github.com/Slowlydev/f1-dash",
+            "name": "Slowlydev /f1-dash",
+            "description": "A real-time F1 dashboard",
+            "stars": "220",
+            "forks": "21",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,563",
+            "forks": "374",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "LiteloaderQQNT的OneBot接口插件",
+            "url": "https://github.com/LLOneBot/LLOneBot",
+            "name": "LLOneBot /LLOneBot",
+            "description": "LiteloaderQQNT的OneBot API插件",
+            "stars": "288",
+            "forks": "58",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🔥具有全功能嵌入式通知中心🚀🚀🚀的开源通知基础设施",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀",
+            "stars": "32,033",
+            "forks": "3,353",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        }
+    ]
+}
