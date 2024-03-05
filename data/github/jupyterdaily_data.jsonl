@@ -14984,3 +14984,257 @@
         }
     ]
 }
+{
+    "03月05日": [
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "3,146",
+            "forks": "252",
+            "language": "Python",
+            "stars_today": "616 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "26,926",
+            "forks": "16,493",
+            "language": "Jupyter Notebook",
+            "stars_today": "562 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "28,909",
+            "forks": "4,571",
+            "language": "Jupyter Notebook",
+            "stars_today": "449 stars today"
+        },
+        {
+            "zh_des": "理解深度学习--西蒙·J·D·普林斯",
+            "url": "https://github.com/udlbook/udlbook",
+            "name": "udlbook /udlbook",
+            "description": "Understanding Deep Learning - Simon J.D. Prince",
+            "stars": "4,442",
+            "forks": "920",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习AI平台，支持SSO登录，多租户/多项目组，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习AI平台，支持sso登录，多租户/多项目组，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "2,008",
+            "forks": "443",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "✔(已完结)最全面的深度学习笔记[土堆火炬)[李沐动手学深度学习][吴恩达深度学习]",
+            "url": "https://github.com/AccumulateMore/CV",
+            "name": "AccumulateMore /CV",
+            "description": "✔（已完结）最全面的 深度学习 笔记【土堆 Pytorch】【李沐 动手学深度学习】【吴恩达 深度学习】",
+            "stars": "2,983",
+            "forks": "454",
+            "language": "Jupyter Notebook",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "深度学习系统核心原理介绍。",
+            "url": "https://github.com/chenzomi12/DeepLearningSystem",
+            "name": "chenzomi12 /DeepLearningSystem",
+            "description": "Deep Learning System core principles introduction.",
+            "stars": "7,157",
+            "forks": "969",
+            "language": "Jupyter Notebook",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。加入我们的不和：https://discord.gg/pAbnFJrkgZ",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "22,465",
+            "forks": "3,039",
+            "language": "Jupyter Notebook",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,247",
+            "forks": "680",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "25,997",
+            "forks": "82,776",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,361",
+            "forks": "7,616",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "该存储库包含客户开始使用Amazon Bedock Service的示例。其中包含所有可用的基本模型的示例",
+            "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+            "name": "aws-samples /amazon-bedrock-samples",
+            "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all availble foundational models",
+            "stars": "147",
+            "forks": "67",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "开源且基础较强的图像识别模型。",
+            "url": "https://github.com/xinyu1205/recognize-anything",
+            "name": "xinyu1205 /recognize-anything",
+            "description": "Open-source and strong foundation image recognition models.",
+            "stars": "2,229",
+            "forks": "209",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "YOLOv6：致力于工业应用的单级目标检测框架。",
+            "url": "https://github.com/meituan/YOLOv6",
+            "name": "meituan /YOLOv6",
+            "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+            "stars": "5,468",
+            "forks": "979",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "使用Python、ChatGPT和其他模型构建大型语言模型(LLM)应用程序。这是LangChain关于产生式人工智能一书的配套知识库。",
+            "url": "https://github.com/benman1/generative_ai_with_langchain",
+            "name": "benman1 /generative_ai_with_langchain",
+            "description": "Build large language model (LLM) apps with Python, ChatGPT and other models. This is the companion repository for the book on generative AI with LangChain.",
+            "stars": "345",
+            "forks": "124",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "6,955",
+            "forks": "2,257",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "9,779",
+            "forks": "639",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "评估和监控ML模型从验证到生产的整个过程。加入我们的不和：https://discord.com/invite/xZjKRaNp8b",
+            "url": "https://github.com/evidentlyai/evidently",
+            "name": "evidentlyai /evidently",
+            "description": "Evaluate and monitor ML models from validation to production. Join our Discord:https://discord.com/invite/xZjKRaNp8b",
+            "stars": "4,453",
+            "forks": "491",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "42,752",
+            "forks": "5,013",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "20,040",
+            "forks": "11,405",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "AI可观察性和评估-在笔记本中评估、故障排除和微调您的LLM、CV和NLP模型。",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation - Evaluate, troubleshoot, and fine tune your LLM, CV, and NLP models in a notebook.",
+            "stars": "2,220",
+            "forks": "149",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "10,059",
+            "forks": "1,348",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "使用一个开源培训库轻松培训或微调SOTA计算机视觉模型。Yolo-Nas的故乡。",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,234",
+            "forks": "456",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "DINOv2自我监督学习方法的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/dinov2",
+            "name": "facebookresearch /dinov2",
+            "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+            "stars": "7,408",
+            "forks": "586",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用于将自然语言问题转换为SQL查询的SOTA LLM",
+            "url": "https://github.com/defog-ai/sqlcoder",
+            "name": "defog-ai /sqlcoder",
+            "description": "SoTA LLM for converting natural language questions to SQL queries",
+            "stars": "2,432",
+            "forks": "144",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        }
+    ]
+}

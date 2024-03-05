@@ -24352,3 +24352,257 @@
         }
     ]
 }
+{
+    "03月05日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "15,915",
+            "forks": "1,183",
+            "language": "TypeScript",
+            "stars_today": "9,436 stars this month"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "8,728",
+            "forks": "235",
+            "language": "Java",
+            "stars_today": "7,535 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "49,923",
+            "forks": "5,982",
+            "language": "Python",
+            "stars_today": "3,519 stars this month"
+        },
+        {
+            "zh_des": "I茅台APP自动预约，每日自动预约，支持Dock一键部署(本项目不提供成品，使用的是已淘汰的算法)",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）",
+            "stars": "3,298",
+            "forks": "969",
+            "language": "Java",
+            "stars_today": "1,716 stars this month"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "19,633",
+            "forks": "1,999",
+            "language": "C",
+            "stars_today": "10,749 stars this month"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "5,972",
+            "forks": "252",
+            "language": "Python",
+            "stars_today": "2,382 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,856",
+            "forks": "763",
+            "language": "TypeScript",
+            "stars_today": "752 stars this month"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,567",
+            "forks": "375",
+            "language": "TypeScript",
+            "stars_today": "334 stars this month"
+        },
+        {
+            "zh_des": "多功能应用程序，可查找重复项、空文件夹、相似图像等。",
+            "url": "https://github.com/qarmin/czkawka",
+            "name": "qarmin /czkawka",
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "stars": "16,148",
+            "forks": "537",
+            "language": "Rust",
+            "stars_today": "2,183 stars this month"
+        },
+        {
+            "zh_des": "基于汇总的汇总。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A based rollup. 🥁",
+            "stars": "3,470",
+            "forks": "1,669",
+            "language": "Solidity",
+            "stars_today": "958 stars this month"
+        },
+        {
+            "zh_des": "适用于Apple Silicon的带有Whisper的SWIFT原生设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "Swift native on-device speech recognition with Whisper for Apple Silicon",
+            "stars": "1,591",
+            "forks": "125",
+            "language": "Swift",
+            "stars_today": "762 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "25,608",
+            "forks": "1,920",
+            "language": "Ruby",
+            "stars_today": "11,494 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "44,545",
+            "forks": "2,923",
+            "language": "Go",
+            "stars_today": "9,105 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,967",
+            "forks": "2,352",
+            "language": "Python",
+            "stars_today": "963 stars this month"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "7,953",
+            "forks": "715",
+            "language": "Svelte",
+            "stars_today": "3,389 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,884",
+            "forks": "2,944",
+            "language": "C++",
+            "stars_today": "890 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "966",
+            "forks": "271",
+            "language": "Python",
+            "stars_today": "452 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,657",
+            "forks": "2,378",
+            "language": "Python",
+            "stars_today": "793 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "7,636",
+            "forks": "514",
+            "language": "Python",
+            "stars_today": "1,786 stars this month"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "27,839",
+            "forks": "1,121",
+            "language": "Rust",
+            "stars_today": "8,932 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,714",
+            "forks": "170",
+            "language": "Python",
+            "stars_today": "670 stars this month"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,339",
+            "forks": "7,748",
+            "language": "Lua",
+            "stars_today": "1,214 stars this month"
+        },
+        {
+            "zh_des": "Badget旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/Badget",
+            "name": "projectx-codehagen /Badget",
+            "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,702",
+            "forks": "182",
+            "language": "TypeScript",
+            "stars_today": "1,034 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,556",
+            "forks": "1,118",
+            "language": "Go",
+            "stars_today": "92 stars this month"
+        },
+        {
+            "zh_des": "一种面向编程工具的增量式语法分析系统",
+            "url": "https://github.com/tree-sitter/tree-sitter",
+            "name": "tree-sitter /tree-sitter",
+            "description": "An incremental parsing system for programming tools",
+            "stars": "15,696",
+            "forks": "1,087",
+            "language": "Rust",
+            "stars_today": "786 stars this month"
+        }
+    ]
+}
