@@ -28022,3 +28022,257 @@
         }
     ]
 }
+{
+    "03月06日": [
+        {
+            "zh_des": "用C#编写的实验性Nintendo Switch Emulator",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "28,606",
+            "forks": "3,139",
+            "language": "C#",
+            "stars_today": "588 stars today"
+        },
+        {
+            "zh_des": "放入屏幕截图并将其转换为干净的代码（HTML/Tailwind/React/Vue）",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "42,228",
+            "forks": "4,958",
+            "language": "TypeScript",
+            "stars_today": "976 stars today"
+        },
+        {
+            "zh_des": "DUSt3R",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R",
+            "stars": "2,773",
+            "forks": "302",
+            "language": "Python",
+            "stars_today": "365 stars today"
+        },
+        {
+            "zh_des": "微视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,398",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "🦄️🎃👻Clash Premium 规则集（RULE-SET），兼容 ClashX Pro，Clash for Windows 客户端.",
+            "url": "https://github.com/Loyalsoldier/clash-rules",
+            "name": "Loyalsoldier /clash-rules",
+            "description": "🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。",
+            "stars": "15,050",
+            "forks": "1,267",
+            "language": "",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "Dolphin是一个GameCube / Wii模拟器，允许您在PC上玩这两个平台的游戏。",
+            "url": "https://github.com/dolphin-emu/dolphin",
+            "name": "dolphin-emu /dolphin",
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "stars": "11,717",
+            "forks": "2,502",
+            "language": "C++",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "层漫射自定义节点",
+            "url": "https://github.com/huchenlei/ComfyUI-layerdiffuse",
+            "name": "huchenlei /ComfyUI-layerdiffuse",
+            "description": "Layer Diffuse custom nodes",
+            "stars": "513",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单UI示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "2,540",
+            "forks": "494",
+            "language": "HTML",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "Nintendo Switch模拟器（非官方镜像分叉）",
+            "url": "https://github.com/yuzu-mirror/yuzu",
+            "name": "yuzu-mirror /yuzu",
+            "description": "Nintendo Switch emulator (unofficial mirror fork)",
+            "stars": "1,269",
+            "forks": "983",
+            "language": "C++",
+            "stars_today": "577 stars today"
+        },
+        {
+            "zh_des": "任天堂3DS模拟器",
+            "url": "https://github.com/PabloMK7/citra",
+            "name": "PabloMK7 /citra",
+            "description": "A Nintendo 3DS Emulator",
+            "stars": "559",
+            "forks": "304",
+            "language": "C++",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "一个名为柑橘类水果的模拟器的抢先体验源代码",
+            "url": "https://github.com/pineappleEA/pineapple-src",
+            "name": "pineappleEA /pineapple-src",
+            "description": "A former citrus fruit-named emulator's Early Access source code",
+            "stars": "5,229",
+            "forks": "1,132",
+            "language": "C++",
+            "stars_today": "342 stars today"
+        },
+        {
+            "zh_des": "Ryujinx的Release channel：master",
+            "url": "https://github.com/Ryujinx/release-channel-master",
+            "name": "Ryujinx /release-channel-master",
+            "description": "Ryujinx's Release channel: master",
+            "stars": "943",
+            "forks": "75",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "DOTS示例学习DOTS发行说明对于那些DOTS新手，以下是推荐的顺序，以遵循Entities示例项目中的介绍性材料：一些短视频介绍了作业系统和ECS的基本概念：您可能还想阅读Entities API概述，它比手册更简短，结构更有序",
+            "url": "https://github.com/Unity-Technologies/EntityComponentSystemSamples",
+            "name": "Unity-Technologies /EntityComponentSystemSamples",
+            "description": "DOTS SamplesLearning DOTSRelease notesFor those new to DOTS, here's the recommended sequence to follow through the introductory material in the Entities samples project:A few short videos introduce the basic concepts of the job system and ECS:You may also want to read the Entities API overview, which is briefer and more sequentially structured than the manual",
+            "stars": "6,660",
+            "forks": "1,506",
+            "language": "C#",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "health learning to 150-human systems tension unfully guidelines",
+            "url": "https://github.com/zijie0/HumanSystemOptimization",
+            "name": "zijie0 /HumanSystemOptimization",
+            "description": "健康学习到150岁 - 人体系统调优不完全指南",
+            "stars": "11,885",
+            "forks": "867",
+            "language": "",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "🔥每周突出显示顶级ML论文。",
+            "url": "https://github.com/dair-ai/ML-Papers-of-the-Week",
+            "name": "dair-ai /ML-Papers-of-the-Week",
+            "description": "🔥Highlighting the top ML papers every week.",
+            "stars": "8,054",
+            "forks": "437",
+            "language": "",
+            "stars_today": "231 stars today"
+        },
+        {
+            "zh_des": "一个用PHP编写的PHP解析器",
+            "url": "https://github.com/nikic/PHP-Parser",
+            "name": "nikic /PHP-Parser",
+            "description": "A PHP parser written in PHP",
+            "stars": "16,664",
+            "forks": "1,004",
+            "language": "PHP",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "基于 ChatGPT API 的单词翻译浏览器插件和桌面端应用 -基于ChatGPT API的翻译浏览器扩展和跨平台桌面应用。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,467",
+            "forks": "1,570",
+            "language": "TypeScript",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "🇨🇳 GitHub中文排序，各语言设置\"软件|资料\"收回单，精确定位中文好项目。各取所需，高效学习。",
+            "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+            "name": "GrowingGit /GitHub-Chinese-Top-Charts",
+            "description": "🇨🇳 GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。",
+            "stars": "85,340",
+            "forks": "11,717",
+            "language": "Java",
+            "stars_today": "313 stars today"
+        },
+        {
+            "zh_des": "AMD GPU上的CUDA",
+            "url": "https://github.com/vosen/ZLUDA",
+            "name": "vosen /ZLUDA",
+            "description": "CUDA on AMD GPUs",
+            "stars": "6,469",
+            "forks": "328",
+            "language": "Rust",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "您个人的nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,479",
+            "forks": "7,839",
+            "language": "Lua",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，全部使用Python。transstar支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "26,930",
+            "forks": "1,933",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Atmosphere是Nintendo Switch的定制固件。",
+            "url": "https://github.com/Atmosphere-NX/Atmosphere",
+            "name": "Atmosphere-NX /Atmosphere",
+            "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+            "stars": "13,359",
+            "forks": "1,146",
+            "language": "C++",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的Agent框架和应用程序，具有函数调用，代码解释器，RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "807",
+            "forks": "81",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个轻量级的纯Swift库，用于从Web下载和缓存图像。",
+            "url": "https://github.com/onevcat/Kingfisher",
+            "name": "onevcat /Kingfisher",
+            "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+            "stars": "22,096",
+            "forks": "2,473",
+            "language": "Swift",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Cemu - Wii U模拟器",
+            "url": "https://github.com/cemu-project/Cemu",
+            "name": "cemu-project /Cemu",
+            "description": "Cemu - Wii U emulator",
+            "stars": "6,113",
+            "forks": "441",
+            "language": "C++",
+            "stars_today": "22 stars today"
+        }
+    ]
+}
