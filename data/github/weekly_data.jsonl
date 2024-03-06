@@ -24896,3 +24896,257 @@
 {
     "03月05日": []
 }
+{
+    "03月06日": [
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "4,910",
+            "forks": "696",
+            "language": "Python",
+            "stars_today": "1,263 stars this week"
+        },
+        {
+            "zh_des": "实施文件-YOLOv9：使用可编程梯度信息了解您想要了解的内容",
+            "url": "https://github.com/WongKinYiu/yolov9",
+            "name": "WongKinYiu /yolov9",
+            "description": "Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information",
+            "stars": "6,328",
+            "forks": "753",
+            "language": "Python",
+            "stars_today": "1,682 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,040",
+            "forks": "252",
+            "language": "Python",
+            "stars_today": "1,950 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,885",
+            "forks": "2,176",
+            "language": "Python",
+            "stars_today": "231 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "284,403",
+            "forks": "31,022",
+            "language": "Python",
+            "stars_today": "3,134 stars this week"
+        },
+        {
+            "zh_des": "CrewAI-示例",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "crewAI-examples",
+            "stars": "975",
+            "forks": "273",
+            "language": "Python",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "开放源码RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,112",
+            "forks": "978",
+            "language": "Python",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "用于开发和比较强化学习算法的工具包。",
+            "url": "https://github.com/openai/gym",
+            "name": "openai /gym",
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+            "stars": "33,629",
+            "forks": "8,545",
+            "language": "Python",
+            "stars_today": "61 stars this week"
+        },
+        {
+            "zh_des": "一种使用基于意图的提示校准进行提示调整的框架",
+            "url": "https://github.com/Eladlev/AutoPrompt",
+            "name": "Eladlev /AutoPrompt",
+            "description": "A framework for prompt tuning using Intent-based Prompt Calibration",
+            "stars": "1,299",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "970 stars this week"
+        },
+        {
+            "zh_des": "生产就绪型、轻量级、灵活且可扩展的ASGI API框架|轻松构建高性能API",
+            "url": "https://github.com/litestar-org/litestar",
+            "name": "litestar-org /litestar",
+            "description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+            "stars": "4,189",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "用于快速开发和部署可投入生产的RAG系统的框架",
+            "url": "https://github.com/SciPhi-AI/R2R",
+            "name": "SciPhi-AI /R2R",
+            "description": "A framework for rapid development and deployment of production-ready RAG systems",
+            "stars": "834",
+            "forks": "57",
+            "language": "Python",
+            "stars_today": "355 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "52,476",
+            "forks": "6,654",
+            "language": "Python",
+            "stars_today": "385 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,040",
+            "forks": "500",
+            "language": "Python",
+            "stars_today": "1,171 stars this week"
+        },
+        {
+            "zh_des": "OpenCodeInterpreter是一套开放源代码的代码生成系统，旨在弥合大型语言模型和复杂的专有系统(如GPT-4代码解释器)之间的差距。它通过集成执行和迭代精化功能显著增强了代码生成能力。",
+            "url": "https://github.com/OpenCodeInterpreter/OpenCodeInterpreter",
+            "name": "OpenCodeInterpreter /OpenCodeInterpreter",
+            "description": "OpenCodeInterpreter is a suite of open-source code generation systems aimed at bridging the gap between large language models and sophisticated proprietary systems like the GPT-4 Code Interpreter. It significantly enhances code generation capabilities by integrating execution and iterative refinement functionalities.",
+            "stars": "1,122",
+            "forks": "160",
+            "language": "Python",
+            "stars_today": "437 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "9,027",
+            "forks": "1,046",
+            "language": "Python",
+            "stars_today": "760 stars this week"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "3,984",
+            "forks": "375",
+            "language": "Python",
+            "stars_today": "557 stars this week"
+        },
+        {
+            "zh_des": "与您的数据(SQL、CSV、熊猫、Polars、NoSQL等)聊天。PandasAI使用LLMS(GPT 3.5/4，Anthropic，Vertex AI)和RAG进行数据分析对话。",
+            "url": "https://github.com/Sinaptik-AI/pandas-ai",
+            "name": "Sinaptik-AI /pandas-ai",
+            "description": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+            "stars": "10,153",
+            "forks": "891",
+            "language": "Python",
+            "stars_today": "294 stars this week"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "22,206",
+            "forks": "1,942",
+            "language": "Python",
+            "stars_today": "260 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "124,266",
+            "forks": "24,253",
+            "language": "Python",
+            "stars_today": "1,407 stars this week"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.75个班级，37个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,670",
+            "forks": "1,393",
+            "language": "Python",
+            "stars_today": "337 stars this week"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "1,060",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "AnimateDiff的正式实施。",
+            "url": "https://github.com/guoyww/AnimateDiff",
+            "name": "guoyww /AnimateDiff",
+            "description": "Official implementation of AnimateDiff.",
+            "stars": "8,032",
+            "forks": "648",
+            "language": "Python",
+            "stars_today": "179 stars this week"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "24,744",
+            "forks": "5,398",
+            "language": "Python",
+            "stars_today": "285 stars this week"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "82,821",
+            "forks": "9,362",
+            "language": "Python",
+            "stars_today": "398 stars this week"
+        },
+        {
+            "zh_des": "在<1000 LOC的Python中简单高效地生成pytorch原生转换器文本。",
+            "url": "https://github.com/pytorch-labs/gpt-fast",
+            "name": "pytorch-labs /gpt-fast",
+            "description": "Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.",
+            "stars": "4,855",
+            "forks": "426",
+            "language": "Python",
+            "stars_today": "89 stars this week"
+        }
+    ]
+}

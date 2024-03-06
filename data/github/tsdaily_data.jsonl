@@ -15238,3 +15238,257 @@
         }
     ]
 }
+{
+    "03月06日": [
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "5,175",
+            "forks": "320",
+            "language": "TypeScript",
+            "stars_today": "842 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "41,518",
+            "forks": "4,883",
+            "language": "TypeScript",
+            "stars_today": "3,116 stars today"
+        },
+        {
+            "zh_des": "开放式跨端跨框架解决方案，支持使用REACT/VUE/NERV等框架来开发微信/京东/百度/支付宝/字节跳动/QQ小程序/H5/REACT本地等应用。Https://taro.zone/",
+            "url": "https://github.com/NervJS/taro",
+            "name": "NervJS /taro",
+            "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。https://taro.zone/",
+            "stars": "34,458",
+            "forks": "4,692",
+            "language": "TypeScript",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "6,719",
+            "forks": "849",
+            "language": "TypeScript",
+            "stars_today": "305 stars today"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,343",
+            "forks": "1,563",
+            "language": "TypeScript",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "63,673",
+            "forks": "5,612",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "燃料网络类型脚本SDK",
+            "url": "https://github.com/FuelLabs/fuels-ts",
+            "name": "FuelLabs /fuels-ts",
+            "description": "Fuel Network Typescript SDK",
+            "stars": "37,785",
+            "forks": "1,028",
+            "language": "TypeScript",
+            "stars_today": "991 stars today"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序生成器。使用FastAPI、PostgreSQL作为数据库、Docker、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-postgresql",
+            "name": "tiangolo /full-stack-fastapi-postgresql",
+            "description": "Full stack, modern web application generator. Using FastAPI, PostgreSQL as database, Docker, automatic HTTPS and more.",
+            "stars": "14,824",
+            "forks": "2,571",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号rss生成(基于微信读书)。",
+            "url": "https://github.com/cooderl/wewe-rss",
+            "name": "cooderl /wewe-rss",
+            "description": "🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）。",
+            "stars": "1,751",
+            "forks": "279",
+            "language": "TypeScript",
+            "stars_today": "293 stars today"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "3,532",
+            "forks": "5,643",
+            "language": "TypeScript",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "在WhatsApp的ChatGPT应用程序中，聊天机器人正在探索一种集成方式，聊天机器人正在协助虚拟的Capaz de realizar和它的朋友之间的交流，客户的回应方式是e muito mais，comum toque de Human ização Nas对话。",
+            "url": "https://github.com/marcusGoncalvess/zap-gpt",
+            "name": "marcusGoncalvess /zap-gpt",
+            "description": "Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.",
+            "stars": "262",
+            "forks": "104",
+            "language": "TypeScript",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "8,864",
+            "forks": "364",
+            "language": "TypeScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "Solana JavaScript SDK",
+            "url": "https://github.com/solana-labs/solana-web3.js",
+            "name": "solana-labs /solana-web3.js",
+            "description": "Solana JavaScript SDK",
+            "stars": "1,650",
+            "forks": "663",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "嘿是一个使用镜头协议🌿构建的去中心化和无权限的社交媒体应用程序",
+            "url": "https://github.com/heyxyz/hey",
+            "name": "heyxyz /hey",
+            "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol 🌿",
+            "stars": "22,024",
+            "forks": "1,388",
+            "language": "TypeScript",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "63,325",
+            "forks": "52,491",
+            "language": "TypeScript",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "通过nextjs运行comfy Deploy API的演示",
+            "url": "https://github.com/BennyKok/comfyui-deploy-next-example",
+            "name": "BennyKok /comfyui-deploy-next-example",
+            "description": "A demo for running comfy deploy api via nextjs",
+            "stars": "86",
+            "forks": "17",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于Volar.js的⚡高性能VUE语言工具",
+            "url": "https://github.com/vuejs/language-tools",
+            "name": "vuejs /language-tools",
+            "description": "⚡ High-performance Vue language tooling based-on Volar.js",
+            "stars": "5,177",
+            "forks": "324",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一款针对Python的反应式笔记本--运行可重现的实验，以脚本形式执行，以应用程序形式部署，并使用Git进行版本控制。",
+            "url": "https://github.com/marimo-team/marimo",
+            "name": "marimo-team /marimo",
+            "description": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+            "stars": "3,550",
+            "forks": "76",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "89,618",
+            "forks": "44,662",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "22,682",
+            "forks": "13,121",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放平台",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open platform for building developer portals",
+            "stars": "25,769",
+            "forks": "5,159",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Airtable APITable，这是一个面向🚀🎉📚的低代码平台，用于构建协作应用程序，比所有其他Airtable开源替代方案都要好。",
+            "url": "https://github.com/apitable/apitable",
+            "name": "apitable /apitable",
+            "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+            "stars": "11,409",
+            "forks": "939",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "TypeScrip是可编译为干净的JavaScript输出的JavaScript的超集。",
+            "url": "https://github.com/microsoft/TypeScript",
+            "name": "microsoft /TypeScript",
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "stars": "97,063",
+            "forks": "12,090",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "19,733",
+            "forks": "3,742",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "风格反应迅速，在Reaction Native上具有100%的奇偶性，这是一个可选的UI工具包，并优化了编译器。",
+            "url": "https://github.com/tamagui/tamagui",
+            "name": "tamagui /tamagui",
+            "description": "Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.",
+            "stars": "9,582",
+            "forks": "387",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        }
+    ]
+}
