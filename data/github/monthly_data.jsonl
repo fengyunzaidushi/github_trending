@@ -25398,3 +25398,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "🔎通过用户名在社交网络中搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "50,029",
+            "forks": "5,989",
+            "language": "Python",
+            "stars_today": "3,601 stars this month"
+        },
+        {
+            "zh_des": "更快地构建更好的UI。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,135",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "2,757 stars this month"
+        },
+        {
+            "zh_des": "crewAI的示例crewAI旨在促进角色扮演AI代理的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "991",
+            "forks": "278",
+            "language": "Python",
+            "stars_today": "453 stars this month"
+        },
+        {
+            "zh_des": "不妥协的Python代码格式化程序",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,997",
+            "forks": "2,353",
+            "language": "Python",
+            "stars_today": "983 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而非编程基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "7,779",
+            "forks": "526",
+            "language": "Python",
+            "stars_today": "1,861 stars this month"
+        },
+        {
+            "zh_des": "下一代换脸和增强",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,460",
+            "forks": "1,647",
+            "language": "Python",
+            "stars_today": "1,867 stars this month"
+        },
+        {
+            "zh_des": "华丽的应用程序，纠正您以前的控制台命令。",
+            "url": "https://github.com/nvbn/thefuck",
+            "name": "nvbn /thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "stars": "82,145",
+            "forks": "3,386",
+            "language": "Python",
+            "stars_today": "975 stars this month"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache 2下的开源。公开演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "14,669",
+            "forks": "2,379",
+            "language": "Python",
+            "stars_today": "767 stars this month"
+        },
+        {
+            "zh_des": "免费API的集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "284,508",
+            "forks": "31,034",
+            "language": "Python",
+            "stars_today": "6,568 stars this month"
+        },
+        {
+            "zh_des": "关于我们",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "1,754",
+            "forks": "176",
+            "language": "Python",
+            "stars_today": "680 stars this month"
+        },
+        {
+            "zh_des": "Stable Diffusion WebUI Forge安装Forge截图ComparisonForge后台UNet Patcher使用--show-controlnet-example查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "3,064",
+            "forks": "220",
+            "language": "Python",
+            "stars_today": "2,780 stars this month"
+        },
+        {
+            "zh_des": "通过多模态大型语言模型进行基于指导说明的图像编辑sgit clone this repo此repo包含通过多模态大型语言模型进行基于指导说明的图像编辑的代码（ICLR'24 Spotlight）MGIE是 \n“通过多模态大语言模型指导基于教学的图像编辑” \n傅祖瑞，胡文泽，杜贤智，王扬，杨音飞，甘哲 \n基于指令的图像编辑通过自然的命令提高了图像操作的可控性和灵活性，而无需详细的描述或区域掩模",
+            "url": "https://github.com/apple/ml-mgie",
+            "name": "apple /ml-mgie",
+            "description": "Guiding Instruction-based Image Editing via Multimodal Large Language Modelsgit clone this repoThis repo contains the code for Guiding Instruction-based Image Editing via Multimodal Large Language Models (ICLR'24 Spotlight)MGIE is an implementation of \n\"Guiding Instruction-based Image Editing via Multimodal Large Language Models\" \nTsu-Jui Fu, Wenze Hu, Xianzhi Du, William Yang Wang, Yinfei Yang, and Zhe Gan \nin International Conference on Learning Representations (ICLR) 2024Instruction-based image editing improves the controllability and flexibility of image manipulation via natural commands without elaborate descriptions or regional masks",
+            "stars": "3,600",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "3,169 stars this month"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(few（Shot Voice Cloning）",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "17,623",
+            "forks": "1,847",
+            "language": "Python",
+            "stars_today": "8,497 stars this month"
+        },
+        {
+            "zh_des": "开发人员参考项目，用于使用TensorRT-LLM在Windows上创建检索增强生成（RAG）聊天机器人",
+            "url": "https://github.com/NVIDIA/trt-llm-rag-windows",
+            "name": "NVIDIA /trt-llm-rag-windows",
+            "description": "A developer reference project for creating Retrieval Augmented Generation (RAG) chatbots on Windows using TensorRT-LLM",
+            "stars": "1,892",
+            "forks": "184",
+            "language": "Python",
+            "stars_today": "1,629 stars this month"
+        },
+        {
+            "zh_des": "🛰️免费的V2 ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "1,492",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "1,133 stars this month"
+        },
+        {
+            "zh_des": "SUPIR旨在开发野外照片真实图像恢复的实用算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "2,253",
+            "forks": "153",
+            "language": "Python",
+            "stars_today": "1,304 stars this month"
+        },
+        {
+            "zh_des": "用自然语言提问，并获得私人来源的答案。连接到Slack，GitHub，Confluence等工具。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Ask Questions in natural language and get Answers backed by private sources. Connects to tools like Slack, GitHub, Confluence, etc.",
+            "stars": "8,480",
+            "forks": "872",
+            "language": "Python",
+            "stars_today": "1,991 stars this month"
+        },
+        {
+            "zh_des": "GraphCast：学习熟练的中期全球天气预报",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "GraphCast: Learning skillful medium-range global weather forecasting",
+            "stars": "4,076",
+            "forks": "483",
+            "language": "Python",
+            "stars_today": "686 stars this month"
+        },
+        {
+            "zh_des": "本课程旨在学习Python编程语言，主要内容是。75个班级，37个小时的视频，视频，项目和聊天小组。基础，前端，后端，测试，IA.",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 75 clases, 37 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "20,698",
+            "forks": "1,393",
+            "language": "Python",
+            "stars_today": "1,357 stars this month"
+        },
+        {
+            "zh_des": "生成式人工智能参考工作流程，针对加速基础设施和微服务架构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,132",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "420 stars this month"
+        },
+        {
+            "zh_des": "Python - 100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "148,073",
+            "forks": "50,975",
+            "language": "Python",
+            "stars_today": "2,049 stars this month"
+        },
+        {
+            "zh_des": "基于大模型搭建的微信补天机器人，同时支持微信、企业微信、公众号、文本、缩略语接入，可选择GPT3.5/GPT4.0/Claude/文心一言/北斗星火/通意访问/Gemini/GLM-4/LinkAI，能够处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制化企业智能客户服务。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "22,832",
+            "forks": "6,297",
+            "language": "Python",
+            "stars_today": "1,796 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散GUI，API和后端，具有图形/节点接口。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "27,801",
+            "forks": "2,877",
+            "language": "Python",
+            "stars_today": "3,443 stars this month"
+        },
+        {
+            "zh_des": "基于Kubernetes的标准化无服务器ML推理平台",
+            "url": "https://github.com/kserve/kserve",
+            "name": "kserve /kserve",
+            "description": "Standardized Serverless ML Inference Platform on Kubernetes",
+            "stars": "2,870",
+            "forks": "925",
+            "language": "Python",
+            "stars_today": "126 stars this month"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易于学习，快速编码，可用于生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "68,976",
+            "forks": "5,764",
+            "language": "Python",
+            "stars_today": "1,352 stars this month"
+        }
+    ]
+}

@@ -25114,3 +25114,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "16,261",
+            "forks": "1,219",
+            "language": "TypeScript",
+            "stars_today": "9,993 stars this month"
+        },
+        {
+            "zh_des": "配置为具有丰富验证和工具的代码语言。",
+            "url": "https://github.com/apple/pkl",
+            "name": "apple /pkl",
+            "description": "A configuration as code language with rich validation and tooling.",
+            "stars": "8,781",
+            "forks": "235",
+            "language": "Java",
+            "stars_today": "6,358 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "50,029",
+            "forks": "5,989",
+            "language": "Python",
+            "stars_today": "3,601 stars this month"
+        },
+        {
+            "zh_des": "I茅台APP自动预约，每日自动预约，支持Dock一键部署(本项目不提供成品，使用的是已淘汰的算法)",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）",
+            "stars": "3,335",
+            "forks": "978",
+            "language": "Java",
+            "stars_today": "1,730 stars this month"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,135",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "2,757 stars this month"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "29,516",
+            "forks": "3,254",
+            "language": "C#",
+            "stars_today": "1,940 stars this month"
+        },
+        {
+            "zh_des": "多功能应用程序，可查找重复项、空文件夹、相似图像等。",
+            "url": "https://github.com/qarmin/czkawka",
+            "name": "qarmin /czkawka",
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "stars": "16,241",
+            "forks": "541",
+            "language": "Rust",
+            "stars_today": "2,372 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "5,884",
+            "forks": "767",
+            "language": "TypeScript",
+            "stars_today": "773 stars this month"
+        },
+        {
+            "zh_des": "基于汇总的汇总。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A based rollup. 🥁",
+            "stars": "3,512",
+            "forks": "1,680",
+            "language": "Solidity",
+            "stars_today": "994 stars this month"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,582",
+            "forks": "375",
+            "language": "TypeScript",
+            "stars_today": "341 stars this month"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "8,320",
+            "forks": "740",
+            "language": "Svelte",
+            "stars_today": "3,469 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "45,218",
+            "forks": "2,990",
+            "language": "Go",
+            "stars_today": "9,589 stars this month"
+        },
+        {
+            "zh_des": "适用于Apple Silicon的带有Whisper的SWIFT原生设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "Swift native on-device speech recognition with Whisper for Apple Silicon",
+            "stars": "1,625",
+            "forks": "129",
+            "language": "Swift",
+            "stars_today": "859 stars this month"
+        },
+        {
+            "zh_des": "宁静操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "27,907",
+            "forks": "2,943",
+            "language": "C++",
+            "stars_today": "910 stars this month"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "991",
+            "forks": "278",
+            "language": "Python",
+            "stars_today": "453 stars this month"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,548",
+            "forks": "7,887",
+            "language": "Lua",
+            "stars_today": "1,520 stars this month"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,997",
+            "forks": "2,353",
+            "language": "Python",
+            "stars_today": "983 stars this month"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,610",
+            "forks": "1,573",
+            "language": "TypeScript",
+            "stars_today": "1,612 stars this month"
+        },
+        {
+            "zh_des": "在本地运行giHub操作🚀",
+            "url": "https://github.com/nektos/act",
+            "name": "nektos /act",
+            "description": "Run your GitHub Actions locally 🚀",
+            "stars": "48,685",
+            "forks": "1,197",
+            "language": "Go",
+            "stars_today": "1,522 stars this month"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "6,772",
+            "forks": "855",
+            "language": "TypeScript",
+            "stars_today": "1,037 stars this month"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "7,779",
+            "forks": "526",
+            "language": "Python",
+            "stars_today": "1,861 stars this month"
+        },
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "8,488",
+            "forks": "423",
+            "language": "TypeScript",
+            "stars_today": "1,779 stars this month"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,563",
+            "forks": "1,119",
+            "language": "Go",
+            "stars_today": "95 stars this month"
+        },
+        {
+            "zh_des": "Badget旨在通过用户友好的界面和强大的后端来简化财务管理",
+            "url": "https://github.com/projectx-codehagen/Badget",
+            "name": "projectx-codehagen /Badget",
+            "description": "Badget aims to simplify financial management with a user-friendly interface and robust backend",
+            "stars": "1,725",
+            "forks": "181",
+            "language": "TypeScript",
+            "stars_today": "1,033 stars this month"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "2,405",
+            "forks": "1,724",
+            "language": "Rust",
+            "stars_today": "1,031 stars this month"
+        }
+    ]
+}

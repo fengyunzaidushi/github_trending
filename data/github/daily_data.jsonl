@@ -27525,3 +27525,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "DUSt3R",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R",
+            "stars": "2,892",
+            "forks": "321",
+            "language": "Python",
+            "stars_today": "380 stars today"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,557",
+            "forks": "205",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "层漫反射自定义节点",
+            "url": "https://github.com/huchenlei/ComfyUI-layerdiffuse",
+            "name": "huchenlei /ComfyUI-layerdiffuse",
+            "description": "Layer Diffuse custom nodes",
+            "stars": "557",
+            "forks": "62",
+            "language": "Python",
+            "stars_today": "184 stars today"
+        },
+        {
+            "zh_des": "Ryujinx的发布频道：大师",
+            "url": "https://github.com/Ryujinx/release-channel-master",
+            "name": "Ryujinx /release-channel-master",
+            "description": "Ryujinx's Release channel: master",
+            "stars": "964",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,004",
+            "forks": "1,938",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "925",
+            "forks": "87",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "4,845",
+            "forks": "413",
+            "language": "Python",
+            "stars_today": "2,017 stars today"
+        },
+        {
+            "zh_des": "一个高质量、经典计算机书籍推荐清单，特点为:只收集高质量，各方向经典书籍，不求书多，只求书精.",
+            "url": "https://github.com/lining808/CS-Ebook",
+            "name": "lining808 /CS-Ebook",
+            "description": "一个高质量、经典计算机书籍推荐清单，特点为：只收集高质量，各方向经典书籍，不求书多，只求书精。",
+            "stars": "1,472",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "这是“Swin Transformer：使用移动窗口的分层视觉转换器”的正式实现。",
+            "url": "https://github.com/microsoft/Swin-Transformer",
+            "name": "microsoft /Swin-Transformer",
+            "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+            "stars": "12,586",
+            "forks": "1,963",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "非常强大的盗贼+矿工+老鼠+键盘记录器+剪刀",
+            "url": "https://github.com/PrometheusStealer/Prometheus",
+            "name": "PrometheusStealer /Prometheus",
+            "description": "Very powerful stealer + miner + rat + keylogger + clipper",
+            "stars": "160",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]物理-高斯：用于生成动力学的物理集成的3D高斯",
+            "url": "https://github.com/XPandora/PhysGaussian",
+            "name": "XPandora /PhysGaussian",
+            "description": "[CVPR 2024] PhysGaussian: Physics-Integrated 3D Gaussians for Generative Dynamics",
+            "stars": "709",
+            "forks": "18",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "925",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "360 stars today"
+        },
+        {
+            "zh_des": "迷你苍井空项目旨在探索苍井空的实施路径和未来发展方向。",
+            "url": "https://github.com/mini-sora/minisora",
+            "name": "mini-sora /minisora",
+            "description": "The Mini Sora project aims to explore the implementation path and future development direction of Sora.",
+            "stars": "710",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "695",
+            "forks": "80",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "从零开始实现流行的最大似然算法",
+            "url": "https://github.com/AssemblyAI-Examples/Machine-Learning-From-Scratch",
+            "name": "AssemblyAI-Examples /Machine-Learning-From-Scratch",
+            "description": "Implementation of popular ML algorithms from scratch",
+            "stars": "523",
+            "forks": "178",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "4,528",
+            "forks": "702",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "QWEN-VL(通义千问-VL)聊天的官方回购&阿里云提出的预训练大视觉语言模型。",
+            "url": "https://github.com/QwenLM/Qwen-VL",
+            "name": "QwenLM /Qwen-VL",
+            "description": "The official repo of Qwen-VL (通义千问-VL) chat & pretrained large vision language model proposed by Alibaba Cloud.",
+            "stars": "3,084",
+            "forks": "226",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "一个用于安装/更新NS模拟器的工具",
+            "url": "https://github.com/triwinds/ns-emu-tools",
+            "name": "triwinds /ns-emu-tools",
+            "description": "一个用于安装/更新 NS 模拟器的工具",
+            "stars": "3,742",
+            "forks": "131",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Android in Docker解决方案，支持noVNC和视频录制",
+            "url": "https://github.com/budtmo/docker-android",
+            "name": "budtmo /docker-android",
+            "description": "Android in docker solution with noVNC supported and video recording",
+            "stars": "6,955",
+            "forks": "1,049",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "让每个人都能在每个人的设备上原生开发、优化和部署AI模型。",
+            "url": "https://github.com/mlc-ai/mlc-llm",
+            "name": "mlc-ai /mlc-llm",
+            "description": "Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.",
+            "stars": "16,087",
+            "forks": "1,203",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "用于严格评估LLM合成代码的EvalPlus",
+            "url": "https://github.com/evalplus/evalplus",
+            "name": "evalplus /evalplus",
+            "description": "EvalPlus for rigourous evaluation of LLM-synthesized code",
+            "stars": "716",
+            "forks": "63",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "使用PyQt6和PyTube构建的YouTube下载工具",
+            "url": "https://github.com/rohankishore/Youtility",
+            "name": "rohankishore /Youtility",
+            "description": "YouTube downloader tools built with PyQt6 and PyTube",
+            "stars": "119",
+            "forks": "7",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "36,997",
+            "forks": "2,353",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "用于开发、生产和观察数据资产的编排平台。",
+            "url": "https://github.com/dagster-io/dagster",
+            "name": "dagster-io /dagster",
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "stars": "9,794",
+            "forks": "1,214",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "PYTEST框架使编写小测试变得很容易，同时还可以扩展以支持复杂的功能测试",
+            "url": "https://github.com/pytest-dev/pytest",
+            "name": "pytest-dev /pytest",
+            "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+            "stars": "11,192",
+            "forks": "2,454",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
