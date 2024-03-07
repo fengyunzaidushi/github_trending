@@ -16000,3 +16000,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "27,746",
+            "forks": "16,785",
+            "language": "Jupyter Notebook",
+            "stars_today": "258 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "10,066",
+            "forks": "694",
+            "language": "Jupyter Notebook",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "29,346",
+            "forks": "4,623",
+            "language": "Jupyter Notebook",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "525",
+            "forks": "46",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "理解深度学习--西蒙·J·D·普林斯",
+            "url": "https://github.com/udlbook/udlbook",
+            "name": "udlbook /udlbook",
+            "description": "Understanding Deep Learning - Simon J.D. Prince",
+            "stars": "4,508",
+            "forks": "926",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "评估和监控ML模型从验证到生产的整个过程。加入我们的不和：https://discord.com/invite/xZjKRaNp8b",
+            "url": "https://github.com/evidentlyai/evidently",
+            "name": "evidentlyai /evidently",
+            "description": "Evaluate and monitor ML models from validation to production. Join our Discord:https://discord.com/invite/xZjKRaNp8b",
+            "stars": "4,474",
+            "forks": "497",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "谷歌云上生成式人工智能的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud",
+            "stars": "4,876",
+            "forks": "1,084",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "收集用于股票预测的机器学习和深度学习模型，包括交易机器人和模拟",
+            "url": "https://github.com/huseinzol05/Stock-Prediction-Models",
+            "name": "huseinzol05 /Stock-Prediction-Models",
+            "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
+            "stars": "7,285",
+            "forks": "2,637",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "6,981",
+            "forks": "2,272",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "大型语言模型是零次时间序列预报器该存储库包含该白皮书的代码\n大型语言模型是零次时间序列预测者\n内特·格鲁弗、马克·芬齐、邱诗凯和安德鲁·戈登·威尔逊(NeurIPS 2023)",
+            "url": "https://github.com/ngruver/llmtime",
+            "name": "ngruver /llmtime",
+            "description": "Large Language Models Are Zero Shot Time Series ForecastersThis repository contains the code for the paper\nLarge Language Models Are Zero Shot Time Series Forecasters\nby Nate Gruver, Marc Finzi, Shikai Qiu and Andrew Gordon Wilson (NeurIPS 2023)",
+            "stars": "453",
+            "forks": "103",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用博弈论的方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "21,289",
+            "forks": "3,123",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "这是MobileSAM项目的官方代码，该项目使SAM变得轻量级，适用于移动应用程序和其他应用程序！",
+            "url": "https://github.com/ChaoningZhang/MobileSAM",
+            "name": "ChaoningZhang /MobileSAM",
+            "description": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
+            "stars": "4,116",
+            "forks": "432",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "使用一个开源培训库轻松培训或微调SOTA计算机视觉模型。Yolo-Nas的故乡。",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,239",
+            "forks": "462",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "AI-in-a-Box",
+            "url": "https://github.com/Azure/AI-in-a-Box",
+            "name": "Azure /AI-in-a-Box",
+            "description": "AI-in-a-Box",
+            "stars": "214",
+            "forks": "69",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "url": "https://github.com/TommyZihao/Train_Custom_Dataset",
+            "name": "TommyZihao /Train_Custom_Dataset",
+            "description": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "stars": "2,409",
+            "forks": "536",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "视频GPT：使用VQ-VAE和变形金刚生成视频",
+            "url": "https://github.com/wilson1yan/VideoGPT",
+            "name": "wilson1yan /VideoGPT",
+            "description": "VideoGPT: Video Generation using VQ-VAE and Transformers",
+            "stars": "783",
+            "forks": "89",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "15,517",
+            "forks": "3,999",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Lavis--语言视觉智能的一站式图书馆",
+            "url": "https://github.com/salesforce/LAVIS",
+            "name": "salesforce /LAVIS",
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "stars": "8,309",
+            "forks": "835",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "“：https://github.com/datawhalechina/leedl-tutorial/releases”，pdf李宏毅深度学习教程下载地址",
+            "url": "https://github.com/datawhalechina/leedl-tutorial",
+            "name": "datawhalechina /leedl-tutorial",
+            "description": "《李宏毅深度学习教程》，PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+            "stars": "9,160",
+            "forks": "2,475",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Vision Transformer和MLP-Mixer架构如果使用GPU：如果使用TPU：设置以下所有命令使用的变量",
+            "url": "https://github.com/google-research/vision_transformer",
+            "name": "google-research /vision_transformer",
+            "description": "Vision Transformer and MLP-Mixer ArchitecturesIf using GPU:If using TPU:Set variables used by all commands below",
+            "stars": "8,907",
+            "forks": "1,156",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "分割医学图像中的任何内容",
+            "url": "https://github.com/bowang-lab/MedSAM",
+            "name": "bowang-lab /MedSAM",
+            "description": "Segment Anything in Medical Images",
+            "stars": "1,887",
+            "forks": "232",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "⚠Leia A期FIXADA！Reposationório do Lab Contribuindo em Um Projeto Open Source no GitHub da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "2,998",
+            "forks": "22,356",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "《概率机器学习》--凯文·墨菲的丛书",
+            "url": "https://github.com/probml/pml-book",
+            "name": "probml /pml-book",
+            "description": "\"Probabilistic Machine Learning\" - a book series by Kevin Murphy",
+            "stars": "4,615",
+            "forks": "551",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习AI平台，支持SSO登录，多租户/多项目组，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习AI平台，支持sso登录，多租户/多项目组，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "2,051",
+            "forks": "444",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "利用LangGraph支持的多个表演示表推理链的存储库",
+            "url": "https://github.com/CYQIQ/MultiCoT",
+            "name": "CYQIQ /MultiCoT",
+            "description": "Repository to demonstrate Chain of Table reasoning with multiple tables powered by LangGraph",
+            "stars": "76",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        }
+    ]
+}

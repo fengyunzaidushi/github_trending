@@ -27779,3 +27779,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "1,402",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "1,122",
+            "forks": "95",
+            "language": "Python",
+            "stars_today": "245 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "4,972",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "383 stars today"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,707",
+            "forks": "227",
+            "language": "Python",
+            "stars_today": "315 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,098",
+            "forks": "1,958",
+            "language": "Python",
+            "stars_today": "181 stars today"
+        },
+        {
+            "zh_des": "层漫反射自定义节点",
+            "url": "https://github.com/huchenlei/ComfyUI-layerdiffuse",
+            "name": "huchenlei /ComfyUI-layerdiffuse",
+            "description": "Layer Diffuse custom nodes",
+            "stars": "618",
+            "forks": "87",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "4,434",
+            "forks": "5,399",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "迷你苍井空项目旨在探索苍井空的实施路径和未来发展方向。",
+            "url": "https://github.com/mini-sora/minisora",
+            "name": "mini-sora /minisora",
+            "description": "The Mini Sora project aims to explore the implementation path and future development direction of Sora.",
+            "stars": "731",
+            "forks": "124",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型。",
+            "url": "https://github.com/alibaba-damo-academy/FunASR",
+            "name": "alibaba-damo-academy /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.",
+            "stars": "2,652",
+            "forks": "322",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "57,204",
+            "forks": "6,483",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "22,253",
+            "forks": "1,954",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "[ICLR2024]《🦙Time-LLM：通过重新编程大型语言模型进行时间序列预测》的正式实施",
+            "url": "https://github.com/KimMeen/Time-LLM",
+            "name": "KimMeen /Time-LLM",
+            "description": "[ICLR 2024] Official implementation of \" 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models\"",
+            "stars": "321",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "基于OpenTelemeter的LLM应用程序的开源可观察性",
+            "url": "https://github.com/traceloop/openllmetry",
+            "name": "traceloop /openllmetry",
+            "description": "Open-source observability for your LLM application, based on OpenTelemetry",
+            "stars": "890",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "欢迎来到拉加图耶",
+            "url": "https://github.com/bclavie/RAGatouille",
+            "name": "bclavie /RAGatouille",
+            "description": "Welcome to RAGatouille",
+            "stars": "1,747",
+            "forks": "119",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "963",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "232 stars today"
+        },
+        {
+            "zh_des": "机器学习生命周期的开源平台",
+            "url": "https://github.com/mlflow/mlflow",
+            "name": "mlflow /mlflow",
+            "description": "Open source platform for the machine learning lifecycle",
+            "stars": "16,905",
+            "forks": "3,865",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "视频中用于V-JEPA自我监督学习的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/jepa",
+            "name": "facebookresearch /jepa",
+            "description": "PyTorch code and models for V-JEPA self-supervised learning from video.",
+            "stars": "1,898",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "Comfyui的TripoSR自定义节点",
+            "url": "https://github.com/flowtyone/ComfyUI-Flowty-TripoSR",
+            "name": "flowtyone /ComfyUI-Flowty-TripoSR",
+            "description": "TripoSR custom node for comfyui",
+            "stars": "150",
+            "forks": "17",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Python SQL解析器和转换程序",
+            "url": "https://github.com/tobymao/sqlglot",
+            "name": "tobymao /sqlglot",
+            "description": "Python SQL Parser and Transpiler",
+            "stars": "5,061",
+            "forks": "499",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "7,374",
+            "forks": "916",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Ryujinx的发布频道：大师",
+            "url": "https://github.com/Ryujinx/release-channel-master",
+            "name": "Ryujinx /release-channel-master",
+            "description": "Ryujinx's Release channel: master",
+            "stars": "978",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "707",
+            "forks": "80",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "一种基于GPT的渗透测试工具",
+            "url": "https://github.com/GreyDGL/PentestGPT",
+            "name": "GreyDGL /PentestGPT",
+            "description": "A GPT-empowered penetration testing tool",
+            "stars": "6,068",
+            "forks": "717",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "绵羊的金属精炼器",
+            "url": "https://github.com/mianayang/chromego_merge",
+            "name": "mianayang /chromego_merge",
+            "description": "绵羊的金属精炼器",
+            "stars": "852",
+            "forks": "315",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "该资源库包含正式实施的研究论文《MobileCLIP：通过多模式强化训练的快速图像-文本模型》CVPR 2024",
+            "url": "https://github.com/apple/ml-mobileclip",
+            "name": "apple /ml-mobileclip",
+            "description": "This repository contains the official implementation of the research paper, \"MobileCLIP: Fast Image-Text Models through Multi-Modal Reinforced Training\" CVPR 2024",
+            "stars": "200",
+            "forks": "7",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        }
+    ]
+}

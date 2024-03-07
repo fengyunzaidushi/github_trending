@@ -25658,3 +25658,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,192",
+            "forks": "254",
+            "language": "Python",
+            "stars_today": "1,996 stars this week"
+        },
+        {
+            "zh_des": "OpenDiT：一种简单、快速、高效的DIT训练和推理系统",
+            "url": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+            "name": "NUS-HPC-AI-Lab /OpenDiT",
+            "description": "OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference",
+            "stars": "751",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,123",
+            "forks": "505",
+            "language": "Python",
+            "stars_today": "1,085 stars this week"
+        },
+        {
+            "zh_des": "一种使用基于意图的提示校准进行提示调整的框架",
+            "url": "https://github.com/Eladlev/AutoPrompt",
+            "name": "Eladlev /AutoPrompt",
+            "description": "A framework for prompt tuning using Intent-based Prompt Calibration",
+            "stars": "1,343",
+            "forks": "104",
+            "language": "Python",
+            "stars_today": "720 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "4,615",
+            "forks": "771",
+            "language": "Python",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "开放源码RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,138",
+            "forks": "980",
+            "language": "Python",
+            "stars_today": "310 stars this week"
+        },
+        {
+            "zh_des": "Azure中运行的RAG模式的解决方案加速器，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的要求和最佳实践。",
+            "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+            "name": "Azure-Samples /chat-with-your-data-solution-accelerator",
+            "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+            "stars": "378",
+            "forks": "186",
+            "language": "Python",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "22,253",
+            "forks": "1,954",
+            "language": "Python",
+            "stars_today": "293 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,098",
+            "forks": "1,958",
+            "language": "Python",
+            "stars_today": "381 stars this week"
+        },
+        {
+            "zh_des": "使用MLX框架在Apple Silicon上原生与您的数据聊天。",
+            "url": "https://github.com/qnguyen3/chat-with-mlx",
+            "name": "qnguyen3 /chat-with-mlx",
+            "description": "Chat with your data natively on Apple Silicon using MLX Framework.",
+            "stars": "798",
+            "forks": "74",
+            "language": "Python",
+            "stars_today": "385 stars this week"
+        },
+        {
+            "zh_des": "跨任务、语言和模式的大规模自我监督预培训",
+            "url": "https://github.com/microsoft/unilm",
+            "name": "microsoft /unilm",
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "stars": "17,704",
+            "forks": "2,307",
+            "language": "Python",
+            "stars_today": "449 stars this week"
+        },
+        {
+            "zh_des": "让大型人工智能模型更便宜、更快、更容易获得",
+            "url": "https://github.com/hpcaitech/ColossalAI",
+            "name": "hpcaitech /ColossalAI",
+            "description": "Making large AI models cheaper, faster and more accessible",
+            "stars": "36,583",
+            "forks": "4,107",
+            "language": "Python",
+            "stars_today": "115 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "1,382",
+            "forks": "171",
+            "language": "Python",
+            "stars_today": "711 stars this week"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "4,081",
+            "forks": "377",
+            "language": "Python",
+            "stars_today": "612 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,902",
+            "forks": "2,177",
+            "language": "Python",
+            "stars_today": "242 stars this week"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "963",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "与您的数据(SQL、CSV、熊猫、Polars、NoSQL等)聊天。PandasAI使用LLMS(GPT 3.5/4，Anthropic，Vertex AI)和RAG进行数据分析对话。",
+            "url": "https://github.com/Sinaptik-AI/pandas-ai",
+            "name": "Sinaptik-AI /pandas-ai",
+            "description": "Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+            "stars": "10,195",
+            "forks": "895",
+            "language": "Python",
+            "stars_today": "293 stars this week"
+        },
+        {
+            "zh_des": "🤗扩散器：用于在PYTORCH中生成图像和音频的最先进的扩散模型",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch",
+            "stars": "21,511",
+            "forks": "4,426",
+            "language": "Python",
+            "stars_today": "231 stars this week"
+        },
+        {
+            "zh_des": "Ingestr是一种CLI工具，可以使用单个命令在任何数据库之间无缝复制数据。",
+            "url": "https://github.com/bruin-data/ingestr",
+            "name": "bruin-data /ingestr",
+            "description": "ingestr is a CLI tool to copy data between any databases with a single command seamlessly.",
+            "stars": "1,800",
+            "forks": "37",
+            "language": "Python",
+            "stars_today": "729 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "9,150",
+            "forks": "1,068",
+            "language": "Python",
+            "stars_today": "740 stars this week"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "78,548",
+            "forks": "11,839",
+            "language": "Python",
+            "stars_today": "773 stars this week"
+        },
+        {
+            "zh_des": "深度学习用于图像处理，包括分类和目标检测等。",
+            "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+            "name": "WZMIAOMIAO /deep-learning-for-image-processing",
+            "description": "deep learning for image processing including classification and object-detection etc.",
+            "stars": "19,903",
+            "forks": "7,619",
+            "language": "Python",
+            "stars_today": "130 stars this week"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "24,779",
+            "forks": "5,406",
+            "language": "Python",
+            "stars_today": "301 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "124,537",
+            "forks": "24,293",
+            "language": "Python",
+            "stars_today": "1,438 stars this week"
+        },
+        {
+            "zh_des": "萤火虫：Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom大模型训练工具，支持训练等大模型",
+            "url": "https://github.com/yangjianxin1/Firefly",
+            "name": "yangjianxin1 /Firefly",
+            "description": "Firefly: 大模型训练工具，支持训练Gemma、MiniCPM、Yi、Deepseek、Orion、Xverse、Mixtral-8x7B、Zephyr、Mistral、Baichuan2、Llma2、Llama、Qwen、Baichuan、ChatGLM2、InternLM、Ziya2、Vicuna、Bloom等大模型",
+            "stars": "3,919",
+            "forks": "339",
+            "language": "Python",
+            "stars_today": "97 stars this week"
+        }
+    ]
+}

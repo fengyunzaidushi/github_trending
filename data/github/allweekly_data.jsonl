@@ -25866,3 +25866,257 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "一个用于构建快速、可靠和可演进的网络服务的库。",
+            "url": "https://github.com/cloudflare/pingora",
+            "name": "cloudflare /pingora",
+            "description": "A library for building fast, reliable and evolvable network services.",
+            "stars": "15,956",
+            "forks": "844",
+            "language": "Rust",
+            "stars_today": "9,890 stars this week"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "16,368",
+            "forks": "1,225",
+            "language": "TypeScript",
+            "stars_today": "9,252 stars this week"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "30,091",
+            "forks": "3,341",
+            "language": "C#",
+            "stars_today": "1,644 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "43,475",
+            "forks": "5,079",
+            "language": "TypeScript",
+            "stars_today": "5,632 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "5,292",
+            "forks": "378",
+            "language": "Shell",
+            "stars_today": "3,004 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "27,746",
+            "forks": "16,785",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,164 stars this week"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,606",
+            "forks": "7,949",
+            "language": "Lua",
+            "stars_today": "971 stars this week"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "29,346",
+            "forks": "4,623",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,663 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,192",
+            "forks": "254",
+            "language": "Python",
+            "stars_today": "1,996 stars this week"
+        },
+        {
+            "zh_des": "Dolphin是一个GameCube/Wii模拟器，允许你在改进后的PC上为这两个平台玩游戏。",
+            "url": "https://github.com/dolphin-emu/dolphin",
+            "name": "dolphin-emu /dolphin",
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "stars": "11,829",
+            "forks": "2,517",
+            "language": "C++",
+            "stars_today": "192 stars this week"
+        },
+        {
+            "zh_des": "OpenDiT：一种简单、快速、高效的DIT训练和推理系统",
+            "url": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+            "name": "NUS-HPC-AI-Lab /OpenDiT",
+            "description": "OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference",
+            "stars": "751",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,123",
+            "forks": "505",
+            "language": "Python",
+            "stars_today": "1,085 stars this week"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,673",
+            "forks": "1,580",
+            "language": "TypeScript",
+            "stars_today": "553 stars this week"
+        },
+        {
+            "zh_des": "安卓实时显控软件",
+            "url": "https://github.com/barry-ran/QtScrcpy",
+            "name": "barry-ran /QtScrcpy",
+            "description": "Android real-time display control software",
+            "stars": "14,690",
+            "forks": "2,083",
+            "language": "Java",
+            "stars_today": "536 stars this week"
+        },
+        {
+            "zh_des": "马里奥·卡丁车3",
+            "url": "https://github.com/Lunakepio/Mario-Kart-3.js",
+            "name": "Lunakepio /Mario-Kart-3.js",
+            "description": "Mario Kart 3",
+            "stars": "3,317",
+            "forks": "773",
+            "language": "JavaScript",
+            "stars_today": "1,480 stars this week"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "2,704",
+            "forks": "530",
+            "language": "HTML",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "一种使用基于意图的提示校准进行提示调整的框架",
+            "url": "https://github.com/Eladlev/AutoPrompt",
+            "name": "Eladlev /AutoPrompt",
+            "description": "A framework for prompt tuning using Intent-based Prompt Calibration",
+            "stars": "1,343",
+            "forks": "104",
+            "language": "Python",
+            "stars_today": "720 stars this week"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "19,387",
+            "forks": "2,138",
+            "language": "TypeScript",
+            "stars_today": "611 stars this week"
+        },
+        {
+            "zh_des": "基于汇总的汇总。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A based rollup. 🥁",
+            "stars": "3,516",
+            "forks": "1,681",
+            "language": "Solidity",
+            "stars_today": "425 stars this week"
+        },
+        {
+            "zh_des": "🔥全面esm+VUE3+VITE+元素加+打字编写的一款后台管理系统(兼容移动端)",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "12,907",
+            "forks": "2,495",
+            "language": "Vue",
+            "stars_today": "586 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "4,615",
+            "forks": "771",
+            "language": "Python",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "用于Reaction-Three-Fibre的🎨用户界面",
+            "url": "https://github.com/pmndrs/uikit",
+            "name": "pmndrs /uikit",
+            "description": "🎨 user interfaces for react-three-fiber",
+            "stars": "1,578",
+            "forks": "89",
+            "language": "TypeScript",
+            "stars_today": "1,059 stars this week"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "6,142",
+            "forks": "310",
+            "language": "Zig",
+            "stars_today": "868 stars this week"
+        },
+        {
+            "zh_des": "开放源码RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,138",
+            "forks": "980",
+            "language": "Python",
+            "stars_today": "310 stars this week"
+        },
+        {
+            "zh_des": "平衡GIT回购的镜子：仪式客户端",
+            "url": "https://github.com/QuilibriumNetwork/ceremonyclient",
+            "name": "QuilibriumNetwork /ceremonyclient",
+            "description": "Mirror of Quilibrium git repo: ceremonyclient",
+            "stars": "170",
+            "forks": "48",
+            "language": "Go",
+            "stars_today": "44 stars this week"
+        }
+    ]
+}
