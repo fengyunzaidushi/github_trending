@@ -26166,3 +26166,257 @@
         }
     ]
 }
+{
+    "03月08日": [
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "43,751",
+            "forks": "5,118",
+            "language": "TypeScript",
+            "stars_today": "7,295 stars this week"
+        },
+        {
+            "zh_des": "“Bitnet：Scaling 1-bit Transformers for Large Language Model”在PYTORCH中的实现",
+            "url": "https://github.com/kyegomez/BitNet",
+            "name": "kyegomez /BitNet",
+            "description": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+            "stars": "1,017",
+            "forks": "87",
+            "language": "Python",
+            "stars_today": "461 stars this week"
+        },
+        {
+            "zh_des": "OpenDiT：一种简单、快速、高效的DIT训练和推理系统",
+            "url": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+            "name": "NUS-HPC-AI-Lab /OpenDiT",
+            "description": "OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference",
+            "stars": "780",
+            "forks": "43",
+            "language": "Python",
+            "stars_today": "256 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,291",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "2,034 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,177",
+            "forks": "509",
+            "language": "Python",
+            "stars_today": "794 stars this week"
+        },
+        {
+            "zh_des": "开放源码RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,174",
+            "forks": "982",
+            "language": "Python",
+            "stars_today": "307 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,915",
+            "forks": "2,177",
+            "language": "Python",
+            "stars_today": "246 stars this week"
+        },
+        {
+            "zh_des": "使用MLX框架在Apple Silicon上原生与您的数据聊天。",
+            "url": "https://github.com/qnguyen3/chat-with-mlx",
+            "name": "qnguyen3 /chat-with-mlx",
+            "description": "Chat with your data natively on Apple Silicon using MLX Framework.",
+            "stars": "820",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "373 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "4,640",
+            "forks": "773",
+            "language": "Python",
+            "stars_today": "170 stars this week"
+        },
+        {
+            "zh_des": "🤗Introduction📝Release Plans🎞️Examples⚒️Installation[可选]使用PIP创建虚拟环境Install With PIP：🚀培训和推理🎨GRadio演示社区贡献🖌️Try on Mobi Ma亮⚖️免责声明🙏🏻确认更新🏋️🏋️🏋️我们发布培训代码！！现在你可以训练你自己的动画Anyone模特了",
+            "url": "https://github.com/MooreThreads/Moore-AnimateAnyone",
+            "name": "MooreThreads /Moore-AnimateAnyone",
+            "description": "🤗 Introduction📝 Release Plans🎞️ Examples⚒️ Installation[Optional] Create a virtual envInstall with pip:🚀 Training and Inference🎨 Gradio DemoCommunity Contributions🖌️ Try on Mobi MaLiang⚖️ Disclaimer🙏🏻 Acknowledgementsupdate 🏋️🏋️🏋️ We release our training codes!! Now you can train your own AnimateAnyone models",
+            "stars": "2,317",
+            "forks": "178",
+            "language": "Python",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "1,062",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "281 stars this week"
+        },
+        {
+            "zh_des": "《星码2》的故乡！",
+            "url": "https://github.com/bigcode-project/starcoder2",
+            "name": "bigcode-project /starcoder2",
+            "description": "Home of StarCoder2!",
+            "stars": "1,057",
+            "forks": "109",
+            "language": "Python",
+            "stars_today": "728 stars this week"
+        },
+        {
+            "zh_des": "跨任务、语言和模式的大规模自我监督预培训",
+            "url": "https://github.com/microsoft/unilm",
+            "name": "microsoft /unilm",
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "stars": "17,718",
+            "forks": "2,308",
+            "language": "Python",
+            "stars_today": "388 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励生成证明(Docker)生成证明(本地sh脚本)生成证明(本地python脚本)docker构建-t dev-reward-script",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsGenerate proof (docker)Generate proof (local sh script)Generate proof (local python script)docker build -t dev-reward-script ",
+            "stars": "182",
+            "forks": "134",
+            "language": "Python",
+            "stars_today": "56 stars this week"
+        },
+        {
+            "zh_des": "与本地GPT进行私密聊天，使用文档、图像、视频等。100%私密，Apache2.0。支持oLLaMa、Mixtral、llama.cpp等。Demo:https://gpt.h2o.ai/https://codellama.h2o.ai/",
+            "url": "https://github.com/h2oai/h2ogpt",
+            "name": "h2oai /h2ogpt",
+            "description": "Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo:https://gpt.h2o.ai/https://codellama.h2o.ai/",
+            "stars": "9,970",
+            "forks": "1,112",
+            "language": "Python",
+            "stars_today": "107 stars this week"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "22,276",
+            "forks": "1,959",
+            "language": "Python",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "1,736",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "699 stars this week"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "4,133",
+            "forks": "380",
+            "language": "Python",
+            "stars_today": "667 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,282",
+            "forks": "1,983",
+            "language": "Python",
+            "stars_today": "416 stars this week"
+        },
+        {
+            "zh_des": "让大型人工智能模型更便宜、更快、更容易获得",
+            "url": "https://github.com/hpcaitech/ColossalAI",
+            "name": "hpcaitech /ColossalAI",
+            "description": "Making large AI models cheaper, faster and more accessible",
+            "stars": "36,594",
+            "forks": "4,108",
+            "language": "Python",
+            "stars_today": "120 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "7,112",
+            "forks": "257",
+            "language": "Python",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型。",
+            "url": "https://github.com/alibaba-damo-academy/FunASR",
+            "name": "alibaba-damo-academy /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.",
+            "stars": "2,677",
+            "forks": "324",
+            "language": "Python",
+            "stars_today": "87 stars this week"
+        },
+        {
+            "zh_des": "免费的ChatGPT接口密钥、免费ChatGPT接口、支持GPT4接口(免费)、ChatGPT国内可用免费转发接口、直连无需代理。可以搭配Chatbox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天.",
+            "url": "https://github.com/chatanywhere/GPT_API_free",
+            "name": "chatanywhere /GPT_API_free",
+            "description": "Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。",
+            "stars": "13,409",
+            "forks": "1,012",
+            "language": "Python",
+            "stars_today": "416 stars this week"
+        },
+        {
+            "zh_des": "深度学习用于图像处理，包括分类和目标检测等。",
+            "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+            "name": "WZMIAOMIAO /deep-learning-for-image-processing",
+            "description": "deep learning for image processing including classification and object-detection etc.",
+            "stars": "19,942",
+            "forks": "7,623",
+            "language": "Python",
+            "stars_today": "192 stars this week"
+        },
+        {
+            "zh_des": "Azure中运行的RAG模式的解决方案加速器，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的要求和最佳实践。",
+            "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+            "name": "Azure-Samples /chat-with-your-data-solution-accelerator",
+            "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+            "stars": "381",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "18 stars this week"
+        }
+    ]
+}
