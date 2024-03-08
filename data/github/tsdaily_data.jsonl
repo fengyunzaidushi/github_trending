@@ -16254,3 +16254,257 @@
         }
     ]
 }
+{
+    "03月08日": [
+        {
+            "zh_des": "用于数据应用程序、仪表板、报告等的静态站点生成器。可观察框架将前端的交互图形的JavaScript与后端的任何语言相结合，以进行数据分析。",
+            "url": "https://github.com/observablehq/framework",
+            "name": "observablehq /framework",
+            "description": "A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data analysis.",
+            "stars": "1,537",
+            "forks": "52",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,701",
+            "forks": "1,582",
+            "language": "TypeScript",
+            "stars_today": "301 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "43,627",
+            "forks": "5,089",
+            "language": "Python",
+            "stars_today": "1,703 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人类，顶点AI，Ollama，LLMS，您可以与用户分享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "28,843",
+            "forks": "2,792",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure.",
+            "stars": "15,050",
+            "forks": "1,405",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "8,710",
+            "forks": "789",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "22,712",
+            "forks": "13,154",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Comflow空间是一个直观、用户友好、开源的AI工具，用于生成图像和视频，使人们能够大众化地使用AI技术。",
+            "url": "https://github.com/6174/comflowyspace",
+            "name": "6174 /comflowyspace",
+            "description": "Comflowyspace is an intuitive, user-friendly, open-source AI tool for generating images and videos, democratizing access to AI technology.",
+            "stars": "623",
+            "forks": "22",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "使用Reaction&Node.js开发全栈Web应用程序的最快方法。",
+            "url": "https://github.com/wasp-lang/wasp",
+            "name": "wasp-lang /wasp",
+            "description": "The fastest way to develop full-stack web apps with React & Node.js.",
+            "stars": "10,298",
+            "forks": "1,046",
+            "language": "TypeScript",
+            "stars_today": "237 stars today"
+        },
+        {
+            "zh_des": "LeapHeadshot AI-使用AI的专业头像介绍Headshot AI，这是👨‍💼AI的一个开源项目，可以在几分钟内生成专业的AI头像",
+            "url": "https://github.com/leap-ai/headshots-starter",
+            "name": "leap-ai /headshots-starter",
+            "description": "👨‍💼 Headshot AI - Professional Headshots with AIIntroducing Headshot AI, an open-source project from Leap AI that generates Professional AI Headshots in minutes",
+            "stars": "3,285",
+            "forks": "492",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "每一位模特的AI聊天。",
+            "url": "https://github.com/mckaywrigley/chatbot-ui",
+            "name": "mckaywrigley /chatbot-ui",
+            "description": "AI chat for every model.",
+            "stars": "25,111",
+            "forks": "6,789",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "Focalboard是Trello、Contation和Asana的开源、自托管的替代品。",
+            "url": "https://github.com/mattermost/focalboard",
+            "name": "mattermost /focalboard",
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "stars": "18,806",
+            "forks": "1,598",
+            "language": "TypeScript",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "Web上最受欢迎的JamStack前端模板(样板)，用于使用Reaction构建Web应用程序",
+            "url": "https://github.com/kriasoft/react-starter-kit",
+            "name": "kriasoft /react-starter-kit",
+            "description": "The web's most popular Jamstack front-end template (boilerplate) for building web applications with React",
+            "stars": "22,453",
+            "forks": "4,142",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "虫洞区块链互操作性协议的参考实现。",
+            "url": "https://github.com/wormhole-foundation/wormhole",
+            "name": "wormhole-foundation /wormhole",
+            "description": "A reference implementation for the Wormhole blockchain interoperability protocol.",
+            "stars": "1,500",
+            "forks": "570",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "21,494",
+            "forks": "2,137",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "51,131",
+            "forks": "2,585",
+            "language": "TypeScript",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "📦🐈主动开发纱线⚒的主干",
+            "url": "https://github.com/yarnpkg/berry",
+            "name": "yarnpkg /berry",
+            "description": "📦🐈 Active development trunk for Yarn ⚒",
+            "stars": "7,017",
+            "forks": "1,028",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "FastGPT是一个建立在LLM上的基于知识的平台，提供开箱即用的数据处理和模型调用功能，允许通过流可视化进行工作流编排！",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!",
+            "stars": "10,695",
+            "forks": "2,499",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "用于美观着色画布的React.js组件库",
+            "url": "https://github.com/latentcat/uvcanvas",
+            "name": "latentcat /uvcanvas",
+            "description": "An React.js component library for beautifully shaded canvas",
+            "stars": "746",
+            "forks": "26",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "支持应用路由器和页面路由器的Next.js 14+的🚀🎉📚样板和启动器，TailWind CSS3.4和TypeScrip⚡️首先由开发人员经验制作：Next.js+TypeScrip+ESLint+Prettier+Husky+Lint-Stage+Jest+测试库+赛普拉斯+故事书+委员会+VSCode+Netlify+PostCss+TailWind Css",
+            "url": "https://github.com/ixartz/Next-js-Boilerplate",
+            "name": "ixartz /Next-js-Boilerplate",
+            "description": "🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS",
+            "stars": "6,086",
+            "forks": "1,165",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "😋🥗🍎应用程序的基础上没有材料的选择。",
+            "url": "https://github.com/orodrigogo/react-native-na-pratica-1",
+            "name": "orodrigogo /react-native-na-pratica-1",
+            "description": "😋🥗🍎 App que sugere receitas baseadas nos ingredientes selecionados.",
+            "stars": "87",
+            "forks": "62",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "帮助您构建自适应、可访问和强大的用户体验的库和工具的集合。",
+            "url": "https://github.com/adobe/react-spectrum",
+            "name": "adobe /react-spectrum",
+            "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "stars": "11,176",
+            "forks": "908",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "21,604",
+            "forks": "4,370",
+            "language": "TypeScript",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "用于角度的CLI工具",
+            "url": "https://github.com/angular/angular-cli",
+            "name": "angular /angular-cli",
+            "description": "CLI tool for Angular",
+            "stars": "26,576",
+            "forks": "11,995",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Google Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "8,414",
+            "forks": "1,508",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        }
+    ]
+}
