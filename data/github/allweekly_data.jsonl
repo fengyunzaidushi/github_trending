@@ -26628,3 +26628,257 @@
         }
     ]
 }
+{
+    "03月09日": [
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "30,430",
+            "forks": "3,399",
+            "language": "C#",
+            "stars_today": "3,736 stars this week"
+        },
+        {
+            "zh_des": "一个以前的柑橘类水果命名仿真器的早期访问源代码",
+            "url": "https://github.com/pineappleEA/pineapple-src",
+            "name": "pineappleEA /pineapple-src",
+            "description": "A former citrus fruit-named emulator's Early Access source code",
+            "stars": "5,405",
+            "forks": "1,178",
+            "language": "C++",
+            "stars_today": "1,331 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "43,868",
+            "forks": "5,132",
+            "language": "TypeScript",
+            "stars_today": "7,530 stars this week"
+        },
+        {
+            "zh_des": "一个用于构建快速、可靠和可演进的网络服务的库。",
+            "url": "https://github.com/cloudflare/pingora",
+            "name": "cloudflare /pingora",
+            "description": "A library for building fast, reliable and evolvable network services.",
+            "stars": "16,264",
+            "forks": "860",
+            "language": "Rust",
+            "stars_today": "6,914 stars this week"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "16,750",
+            "forks": "1,241",
+            "language": "TypeScript",
+            "stars_today": "4,340 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "28,278",
+            "forks": "16,943",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,464 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "6,074",
+            "forks": "423",
+            "language": "Shell",
+            "stars_today": "2,673 stars this week"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,707",
+            "forks": "8,044",
+            "language": "Lua",
+            "stars_today": "1,063 stars this week"
+        },
+        {
+            "zh_des": "“Bitnet：Scaling 1-bit Transformers for Large Language Model”在PYTORCH中的实现",
+            "url": "https://github.com/kyegomez/BitNet",
+            "name": "kyegomez /BitNet",
+            "description": "Implementation of \"BitNet: Scaling 1-bit Transformers for Large Language Models\" in pytorch",
+            "stars": "1,028",
+            "forks": "87",
+            "language": "Python",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "29,448",
+            "forks": "4,633",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,813 stars this week"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "3,400",
+            "forks": "688",
+            "language": "HTML",
+            "stars_today": "789 stars this week"
+        },
+        {
+            "zh_des": "🚀是针对Node.js的健壮的、注重性能的、功能齐全的Redis客户端。",
+            "url": "https://github.com/redis/ioredis",
+            "name": "redis /ioredis",
+            "description": "🚀 A robust, performance-focused, and full-featured Redis client for Node.js.",
+            "stars": "13,576",
+            "forks": "1,161",
+            "language": "TypeScript",
+            "stars_today": "498 stars this week"
+        },
+        {
+            "zh_des": "Dolphin是一个GameCube/Wii模拟器，允许你在改进后的PC上为这两个平台玩游戏。",
+            "url": "https://github.com/dolphin-emu/dolphin",
+            "name": "dolphin-emu /dolphin",
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "stars": "11,864",
+            "forks": "2,520",
+            "language": "C++",
+            "stars_today": "295 stars this week"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,737",
+            "forks": "1,582",
+            "language": "TypeScript",
+            "stars_today": "811 stars this week"
+        },
+        {
+            "zh_des": "OpenDiT：一种简单、快速、高效的DIT训练和推理系统",
+            "url": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+            "name": "NUS-HPC-AI-Lab /OpenDiT",
+            "description": "OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference",
+            "stars": "789",
+            "forks": "43",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,316",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "2,088 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,193",
+            "forks": "510",
+            "language": "Python",
+            "stars_today": "523 stars this week"
+        },
+        {
+            "zh_des": "安卓实时显控软件",
+            "url": "https://github.com/barry-ran/QtScrcpy",
+            "name": "barry-ran /QtScrcpy",
+            "description": "Android real-time display control software",
+            "stars": "14,946",
+            "forks": "2,113",
+            "language": "Java",
+            "stars_today": "863 stars this week"
+        },
+        {
+            "zh_des": "从分子到基因组尺度的DNA基础建模",
+            "url": "https://github.com/evo-design/evo",
+            "name": "evo-design /evo",
+            "description": "DNA foundation modeling from molecular to genome scale",
+            "stars": "581",
+            "forks": "66",
+            "language": "Jupyter Notebook",
+            "stars_today": "177 stars this week"
+        },
+        {
+            "zh_des": "开放源码RAG框架",
+            "url": "https://github.com/embedchain/embedchain",
+            "name": "embedchain /embedchain",
+            "description": "The Open Source RAG framework",
+            "stars": "8,183",
+            "forks": "984",
+            "language": "Python",
+            "stars_today": "327 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,920",
+            "forks": "2,178",
+            "language": "Python",
+            "stars_today": "244 stars this week"
+        },
+        {
+            "zh_des": "使用MLX框架在Apple Silicon上原生与您的数据聊天。",
+            "url": "https://github.com/qnguyen3/chat-with-mlx",
+            "name": "qnguyen3 /chat-with-mlx",
+            "description": "Chat with your data natively on Apple Silicon using MLX Framework.",
+            "stars": "826",
+            "forks": "78",
+            "language": "Python",
+            "stars_today": "312 stars this week"
+        },
+        {
+            "zh_des": "一种快速反向代理，可帮助您将NAT或防火墙后的本地服务器暴露给互联网。",
+            "url": "https://github.com/fatedier/frp",
+            "name": "fatedier /frp",
+            "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+            "stars": "77,976",
+            "forks": "12,472",
+            "language": "Go",
+            "stars_today": "309 stars this week"
+        },
+        {
+            "zh_des": "🔥全面esm+VUE3+VITE+元素加+打字编写的一款后台管理系统(兼容移动端)",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "🔥 全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "12,996",
+            "forks": "2,505",
+            "language": "Vue",
+            "stars_today": "318 stars this week"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "219,832",
+            "forks": "44,917",
+            "language": "JavaScript",
+            "stars_today": "573 stars this week"
+        }
+    ]
+}

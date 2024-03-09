@@ -16762,3 +16762,257 @@
         }
     ]
 }
+{
+    "03月09日": [
+        {
+            "zh_des": "🔥企业SaaS初学者工具包-使用Next.js SaaS样板🚀启动您的企业应用程序开发",
+            "url": "https://github.com/boxyhq/saas-starter-kit",
+            "name": "boxyhq /saas-starter-kit",
+            "description": "🔥 Enterprise SaaS Starter Kit - Kickstart your enterprise app development with the Next.js SaaS boilerplate 🚀",
+            "stars": "1,722",
+            "forks": "336",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "支持应用路由器和页面路由器的Next.js 14+的🚀🎉📚样板和启动器，TailWind CSS3.4和TypeScrip⚡️首先由开发人员经验制作：Next.js+TypeScrip+ESLint+Prettier+Husky+Lint-Stage+Jest+测试库+赛普拉斯+故事书+委员会+VSCode+Netlify+PostCss+TailWind Css",
+            "url": "https://github.com/ixartz/Next-js-Boilerplate",
+            "name": "ixartz /Next-js-Boilerplate",
+            "description": "🚀🎉📚 Boilerplate and Starter for Next.js 14+ with App Router and Page Router support, Tailwind CSS 3.4 and TypeScript ⚡️ Made with developer experience first: Next.js + TypeScript + ESLint + Prettier + Husky + Lint-Staged + Jest + Testing Library + Cypress + Storybook + Commitlint + VSCode + Netlify + PostCSS + Tailwind CSS",
+            "stars": "6,285",
+            "forks": "1,206",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人类，顶点AI，Ollama，LLMS，您可以与用户分享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "29,087",
+            "forks": "2,816",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "21,696",
+            "forks": "4,395",
+            "language": "TypeScript",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "用于构建企业应用程序的最佳JavaScript数据表。支持REACT/ANGLINE/VUE/Plain JavaScript。",
+            "url": "https://github.com/ag-grid/ag-grid",
+            "name": "ag-grid /ag-grid",
+            "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+            "stars": "11,541",
+            "forks": "1,757",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "43,383",
+            "forks": "6,325",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "AWS-使用Bedock+Claude的原生聊天机器人",
+            "url": "https://github.com/aws-samples/bedrock-claude-chat",
+            "name": "aws-samples /bedrock-claude-chat",
+            "description": "AWS-native chatbot using Bedrock + Claude",
+            "stars": "233",
+            "forks": "71",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "由Canvas/SVG创建的富文本编辑器",
+            "url": "https://github.com/Hufe921/canvas-editor",
+            "name": "Hufe921 /canvas-editor",
+            "description": "rich text editor by canvas/svg",
+            "stars": "2,576",
+            "forks": "348",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "Focalboard是Trello、Contation和Asana的开源、自托管的替代品。",
+            "url": "https://github.com/mattermost/focalboard",
+            "name": "mattermost /focalboard",
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "stars": "18,846",
+            "forks": "1,599",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "运行任何设置为零的ComfyUI工作流。",
+            "url": "https://github.com/ComfyWorkflows/ComfyUI-Launcher",
+            "name": "ComfyWorkflows /ComfyUI-Launcher",
+            "description": "Run any ComfyUI workflow w/ ZERO setup.",
+            "stars": "147",
+            "forks": "14",
+            "language": "TypeScript",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "模块化的AWS SDK for JavaScript。",
+            "url": "https://github.com/aws/aws-sdk-js-v3",
+            "name": "aws /aws-sdk-js-v3",
+            "description": "Modularized AWS SDK for JavaScript.",
+            "stars": "2,790",
+            "forks": "521",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于云的编程语言☁️一个统一的编程模型，将基础设施和运行时代码组合成一种语言⚡",
+            "url": "https://github.com/winglang/wing",
+            "name": "winglang /wing",
+            "description": "A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡",
+            "stars": "3,511",
+            "forks": "139",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "使用Reaction&Node.js开发全栈Web应用程序的最快方法。",
+            "url": "https://github.com/wasp-lang/wasp",
+            "name": "wasp-lang /wasp",
+            "description": "The fastest way to develop full-stack web apps with React & Node.js.",
+            "stars": "10,333",
+            "forks": "1,046",
+            "language": "TypeScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "🎯🤑💵💰应用程序为Pessoal提供资金。",
+            "url": "https://github.com/orodrigogo/react-native-na-pratica-2",
+            "name": "orodrigogo /react-native-na-pratica-2",
+            "description": "🎯🤑💵💰 App de metas financeiras pessoal.",
+            "stars": "44",
+            "forks": "55",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "TypeSpec",
+            "url": "https://github.com/microsoft/typespec",
+            "name": "microsoft /typespec",
+            "description": "TypeSpec",
+            "stars": "2,123",
+            "forks": "124",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "ChatGPT在黑社会的一名副驾驶",
+            "url": "https://github.com/logancyang/obsidian-copilot",
+            "name": "logancyang /obsidian-copilot",
+            "description": "A ChatGPT Copilot in Obsidian",
+            "stars": "1,268",
+            "forks": "97",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "57,365",
+            "forks": "12,241",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "27,659",
+            "forks": "6,182",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "38,446",
+            "forks": "9,794",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "JITO BACKRUN ARB Bot JITO BACKRUN ARB Bot旨在Solana区块链上执行Backrun Arb，专门针对SOL和USDC交易",
+            "url": "https://github.com/jito-labs/mev-bot",
+            "name": "jito-labs /mev-bot",
+            "description": "Jito Backrun Arb BotThe Jito Backrun Arb Bot is designed to perform backrun arbs on the Solana blockchain, specifically targeting SOL and USDC trades",
+            "stars": "401",
+            "forks": "155",
+            "language": "TypeScript",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "⛅️牧马人之家，云耀斑工作人员®的命令行界面",
+            "url": "https://github.com/cloudflare/workers-sdk",
+            "name": "cloudflare /workers-sdk",
+            "description": "⛅️ Home to Wrangler, the CLI for Cloudflare Workers®",
+            "stars": "2,098",
+            "forks": "438",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,025",
+            "forks": "6,638",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "在Shopify上，氢气可以让你在更短的时间内建立更快的无头店面。",
+            "url": "https://github.com/Shopify/hydrogen",
+            "name": "Shopify /hydrogen",
+            "description": "Hydrogen lets you build faster headless storefronts in less time, on Shopify.",
+            "stars": "1,053",
+            "forks": "212",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "基于Volar.js的⚡高性能VUE语言工具",
+            "url": "https://github.com/vuejs/language-tools",
+            "name": "vuejs /language-tools",
+            "description": "⚡ High-performance Vue language tooling based-on Volar.js",
+            "stars": "5,203",
+            "forks": "329",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Yamada的反应UI组件，由Yamada为Yamada构建的反应和情感。",
+            "url": "https://github.com/yamada-ui/yamada-ui",
+            "name": "yamada-ui /yamada-ui",
+            "description": "React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.",
+            "stars": "365",
+            "forks": "69",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
