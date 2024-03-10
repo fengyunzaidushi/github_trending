@@ -17524,3 +17524,257 @@
         }
     ]
 }
+{
+    "03月10日": [
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "10,743",
+            "forks": "839",
+            "language": "Jupyter Notebook",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "795",
+            "forks": "109",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用QLoRA+FSDP训练LLMS",
+            "url": "https://github.com/AnswerDotAI/fsdp_qlora",
+            "name": "AnswerDotAI /fsdp_qlora",
+            "description": "Training LLMs with QLoRA + FSDP",
+            "stars": "615",
+            "forks": "75",
+            "language": "Jupyter Notebook",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "用于自动化浏览器交互的大型操作模型框架",
+            "url": "https://github.com/dhuynh95/LaVague",
+            "name": "dhuynh95 /LaVague",
+            "description": "Large Action Model framework to automate browser interaction",
+            "stars": "284",
+            "forks": "36",
+            "language": "Jupyter Notebook",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "7,022",
+            "forks": "2,284",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Paper-YOLOv7的实施：可训练的免费袋为实时物体探测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "12,441",
+            "forks": "3,921",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,775",
+            "forks": "2,347",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Fastai深度学习图书馆",
+            "url": "https://github.com/fastai/fastai",
+            "name": "fastai /fastai",
+            "description": "The fastai deep learning library",
+            "stars": "25,366",
+            "forks": "7,487",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "MSP_我的世界-服务器-项目",
+            "url": "https://github.com/Luc4st1574/MSP_MINECRAFT-SERVER-PROJECT",
+            "name": "Luc4st1574 /MSP_MINECRAFT-SERVER-PROJECT",
+            "description": "MSP_MINECRAFT-SERVER-PROJECT",
+            "stars": "67",
+            "forks": "37",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "面向深度学习的公共回购。AI MLEP专业化认证",
+            "url": "https://github.com/https-deeplearning-ai/machine-learning-engineering-for-production-public",
+            "name": "https-deeplearning-ai /machine-learning-engineering-for-production-public",
+            "description": "Public repo for DeepLearning.AI MLEP Specialization",
+            "stars": "1,755",
+            "forks": "2,246",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "用生成性人工智能在几分钟内组织你的STEM文章。",
+            "url": "https://github.com/Dillettant/Athena",
+            "name": "Dillettant /Athena",
+            "description": "Structure your STEM essay in several minutes with Generative AI.",
+            "stars": "70",
+            "forks": "22",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,502",
+            "forks": "3,211",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "12306查票，找到一张能上车的票",
+            "url": "https://github.com/elroy93/12306spy",
+            "name": "elroy93 /12306spy",
+            "description": "12306查票, 找到一张能上车的票",
+            "stars": "438",
+            "forks": "48",
+            "language": "Jupyter Notebook",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法对Llama2进行微调的脚本，以覆盖单节点/多节点GPU。支持应用程序的默认和自定义数据集，如摘要和问题回答。支持多种直截了当的推理解决方案，例如用于本地或云部署的HF TGI、VLLM。演示用于WhatsApp和Messenger的Llama2应用程序",
+            "url": "https://github.com/facebookresearch/llama-recipes",
+            "name": "facebookresearch /llama-recipes",
+            "description": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+            "stars": "7,836",
+            "forks": "1,083",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "26,645",
+            "forks": "12,411",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "25,488",
+            "forks": "2,490",
+            "language": "Jupyter Notebook",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "5,700",
+            "forks": "2,317",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "树皮语音克隆和汉语语音克隆",
+            "url": "https://github.com/KevinWang676/Bark-Voice-Cloning",
+            "name": "KevinWang676 /Bark-Voice-Cloning",
+            "description": "Bark Voice Cloning and Voice Cloning for Chinese Speech",
+            "stars": "2,023",
+            "forks": "279",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "该存储库包含使用从YouTube视频收集的数据构建小型语言模型所需的代码。我的主要目标是尝试建立一个SLM",
+            "url": "https://github.com/shivendrra/SmallLanguageModel-project",
+            "name": "shivendrra /SmallLanguageModel-project",
+            "description": "This repository contains codes required to build a Small Language Model, using data gathered from Youtube Videos. My main goal is to try to build a SLM",
+            "stars": "76",
+            "forks": "6",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "关于leetcode溢价的公司智慧问题列表。公司目录中的每个CSV文件都对应于基于leetcode公司标签的特定公司的leetcode问题列表。自2022年5月起更新。",
+            "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022",
+            "name": "hxu296 /leetcode-company-wise-problems-2022",
+            "description": "Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.",
+            "stars": "3,589",
+            "forks": "939",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "为代理获取LIM",
+            "url": "https://github.com/SalesforceAIResearch/AgentLite",
+            "name": "SalesforceAIResearch /AgentLite",
+            "description": "get the llm for agent",
+            "stars": "94",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "深度学习",
+            "url": "https://github.com/https-deeplearning-ai/tensorflow-1-public",
+            "name": "https-deeplearning-ai /tensorflow-1-public",
+            "description": "DeepLearning",
+            "stars": "2,103",
+            "forks": "2,404",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Jupyter笔记本，获取《用Python进行深度学习》一书的代码示例",
+            "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+            "name": "fchollet /deep-learning-with-python-notebooks",
+            "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+            "stars": "17,657",
+            "forks": "8,396",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "100天的机器学习",
+            "url": "https://github.com/campusx-official/100-days-of-machine-learning",
+            "name": "campusx-official /100-days-of-machine-learning",
+            "description": "100-days-of-machine-learning",
+            "stars": "790",
+            "forks": "1,324",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "教你只用最基本的巨蟒语法和NumPy一步步实现深度学习框架",
+            "url": "https://github.com/princepride/scratch-pytorch-step-by-step",
+            "name": "princepride /scratch-pytorch-step-by-step",
+            "description": "教你只用最基本的python语法和numpy一步步实现深度学习框架",
+            "stars": "55",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        }
+    ]
+}
