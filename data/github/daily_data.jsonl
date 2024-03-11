@@ -29811,3 +29811,257 @@
         }
     ]
 }
+{
+    "03月11日": [
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "285,129",
+            "forks": "31,112",
+            "language": "Python",
+            "stars_today": "262 stars today"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,243",
+            "forks": "267",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,405",
+            "forks": "633",
+            "language": "Python",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励生成证明(Docker)生成证明(本地sh脚本)生成证明(本地python脚本)docker构建-t dev-reward-script",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsGenerate proof (docker)Generate proof (local sh script)Generate proof (local python script)docker build -t dev-reward-script ",
+            "stars": "260",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "通过加法Quantizationhttps://arxiv.org/pdf/2401.06118.pdf对大型语言模型进行极端压缩的官方Pytorch存储库",
+            "url": "https://github.com/Vahe1994/AQLM",
+            "name": "Vahe1994 /AQLM",
+            "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantizationhttps://arxiv.org/pdf/2401.06118.pdf",
+            "stars": "577",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "213 stars today"
+        },
+        {
+            "zh_des": "一个免费的在线学习平台，让所有人都能获得优质教育。",
+            "url": "https://github.com/oppia/oppia",
+            "name": "oppia /oppia",
+            "description": "A free, online learning platform to make quality education accessible for all.",
+            "stars": "5,591",
+            "forks": "3,690",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "14,870",
+            "forks": "1,328",
+            "language": "Python",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "一个简单、高性能、可伸缩的Jax LLM！",
+            "url": "https://github.com/google/maxtext",
+            "name": "google /maxtext",
+            "description": "A simple, performant and scalable Jax LLM!",
+            "stars": "878",
+            "forks": "165",
+            "language": "Python",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "让大型人工智能模型更便宜、更快、更容易获得",
+            "url": "https://github.com/hpcaitech/ColossalAI",
+            "name": "hpcaitech /ColossalAI",
+            "description": "Making large AI models cheaper, faster and more accessible",
+            "stars": "36,661",
+            "forks": "4,123",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "ControlNet的WebUI扩展",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "name": "Mikubill /sd-webui-controlnet",
+            "description": "WebUI extension for ControlNet",
+            "stars": "15,410",
+            "forks": "1,807",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,446",
+            "forks": "385",
+            "language": "Python",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/OpenAccess-AI-Collective/axolotl",
+            "name": "OpenAccess-AI-Collective /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "4,883",
+            "forks": "539",
+            "language": "Python",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "10,452",
+            "forks": "1,028",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "6,668",
+            "forks": "867",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "丰富的",
+            "url": "https://github.com/jiaweizzhao/GaLore",
+            "name": "jiaweizzhao /GaLore",
+            "description": "GaLore",
+            "stars": "614",
+            "forks": "62",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "Draggan官方代码(SIGGRAPH 2023)",
+            "url": "https://github.com/XingangPan/DragGAN",
+            "name": "XingangPan /DragGAN",
+            "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+            "stars": "34,664",
+            "forks": "3,305",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "18,227",
+            "forks": "1,927",
+            "language": "Python",
+            "stars_today": "168 stars today"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "2,808",
+            "forks": "235",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "《我的世界》的CBScrip",
+            "url": "https://github.com/SethBling/cbscript",
+            "name": "SethBling /cbscript",
+            "description": "CBScript for Minecraft",
+            "stars": "788",
+            "forks": "12",
+            "language": "Python",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "RSA攻击工具(主要用于CTF)-从弱公钥和/或未加密数据中检索私钥",
+            "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+            "name": "RsaCtfTool /RsaCtfTool",
+            "description": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+            "stars": "5,124",
+            "forks": "872",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "56,804",
+            "forks": "5,537",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "带有附加功能和修复的YouTube-dl分支",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A youtube-dl fork with additional features and fixes",
+            "stars": "67,657",
+            "forks": "5,375",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "带花括号的巨蟒。因为Python很棒，但空格很可怕。",
+            "url": "https://github.com/mathialo/bython",
+            "name": "mathialo /bython",
+            "description": "Python with braces. Because python is awesome, but whitespace is awful.",
+            "stars": "852",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "由GPT-4等AI大型语言模型支持的命令行生产力工具将帮助您更快、更高效地完成任务。",
+            "url": "https://github.com/TheR1D/shell_gpt",
+            "name": "TheR1D /shell_gpt",
+            "description": "A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.",
+            "stars": "7,809",
+            "forks": "610",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "🦜️🔗Chat语言链用于跟踪此repo是本地托管的聊天机器人的实现，专门专注于通过语言链文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainfor tracingThis repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "4,520",
+            "forks": "1,016",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        }
+    ]
+}
