@@ -28406,3 +28406,257 @@
         }
     ]
 }
+{
+    "03月12日": [
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "30,855",
+            "forks": "3,548",
+            "language": "C#",
+            "stars_today": "4,077 stars this week"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "5,869",
+            "forks": "1,056",
+            "language": "HTML",
+            "stars_today": "3,196 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "44,728",
+            "forks": "5,242",
+            "language": "TypeScript",
+            "stars_today": "6,588 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "5,500",
+            "forks": "488",
+            "language": "Python",
+            "stars_today": "3,449 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "7,639",
+            "forks": "529",
+            "language": "Shell",
+            "stars_today": "2,950 stars this week"
+        },
+        {
+            "zh_des": "DUSt3R",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R",
+            "stars": "3,253",
+            "forks": "385",
+            "language": "Python",
+            "stars_today": "1,593 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "28,842",
+            "forks": "17,275",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,419 stars this week"
+        },
+        {
+            "zh_des": "[WIP]WebUI的层扩散(通过Forge)",
+            "url": "https://github.com/layerdiffusion/sd-forge-layerdiffuse",
+            "name": "layerdiffusion /sd-forge-layerdiffuse",
+            "description": "[WIP] Layer Diffusion for WebUI (via Forge)",
+            "stars": "2,868",
+            "forks": "278",
+            "language": "Python",
+            "stars_today": "1,079 stars this week"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "6,234",
+            "forks": "398",
+            "language": "TypeScript",
+            "stars_today": "2,118 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "15,201",
+            "forks": "665",
+            "language": "JavaScript",
+            "stars_today": "2,059 stars this week"
+        },
+        {
+            "zh_des": "OpenGFW是一个灵活、易用、开源的中国长城防火墙在Linux上的实现",
+            "url": "https://github.com/apernet/OpenGFW",
+            "name": "apernet /OpenGFW",
+            "description": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
+            "stars": "7,826",
+            "forks": "577",
+            "language": "Go",
+            "stars_today": "1,281 stars this week"
+        },
+        {
+            "zh_des": "使用JavaScript、HTML和CSS构建跨平台桌面应用程序",
+            "url": "https://github.com/electron/electron",
+            "name": "electron /electron",
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "stars": "111,299",
+            "forks": "14,771",
+            "language": "C++",
+            "stars_today": "437 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "31,549",
+            "forks": "1,580",
+            "language": "Dart",
+            "stars_today": "1,565 stars this week"
+        },
+        {
+            "zh_des": "Dolphin是一个GameCube/Wii模拟器，允许你在改进后的PC上为这两个平台玩游戏。",
+            "url": "https://github.com/dolphin-emu/dolphin",
+            "name": "dolphin-emu /dolphin",
+            "description": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+            "stars": "11,916",
+            "forks": "2,526",
+            "language": "C++",
+            "stars_today": "331 stars this week"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "11,018",
+            "forks": "871",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,407 stars this week"
+        },
+        {
+            "zh_des": "“JAVA学习+面试指南”一份涵盖大部分JAVA程序员所需要掌握的核心知识.准备JAVA面试，首选Java指南！",
+            "url": "https://github.com/Snailclimb/JavaGuide",
+            "name": "Snailclimb /JavaGuide",
+            "description": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+            "stars": "141,585",
+            "forks": "45,037",
+            "language": "Java",
+            "stars_today": "356 stars this week"
+        },
+        {
+            "zh_des": "下面是一个快速示例，说明如何使用Three.js和LocalStorage在多个窗口中“同步”3D场景",
+            "url": "https://github.com/bgstaal/multipleWindow3dScene",
+            "name": "bgstaal /multipleWindow3dScene",
+            "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+            "stars": "15,471",
+            "forks": "2,422",
+            "language": "JavaScript",
+            "stars_today": "643 stars this week"
+        },
+        {
+            "zh_des": "语言链接的Java版本",
+            "url": "https://github.com/langchain4j/langchain4j",
+            "name": "langchain4j /langchain4j",
+            "description": "Java version of LangChain",
+            "stars": "2,335",
+            "forks": "453",
+            "language": "Java",
+            "stars_today": "458 stars this week"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "12,964",
+            "forks": "8,249",
+            "language": "Lua",
+            "stars_today": "844 stars this week"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,862",
+            "forks": "1,591",
+            "language": "TypeScript",
+            "stars_today": "805 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励生成证明(Docker)生成证明(本地sh脚本)生成证明(本地python脚本)docker构建-t dev-reward-script",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsGenerate proof (docker)Generate proof (local sh script)Generate proof (local python script)docker build -t dev-reward-script ",
+            "stars": "293",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "183 stars this week"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,212",
+            "forks": "2,628",
+            "language": "Python",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "构建-一次运行-Anywhere c库",
+            "url": "https://github.com/jart/cosmopolitan",
+            "name": "jart /cosmopolitan",
+            "description": "build-once run-anywhere c library",
+            "stars": "14,299",
+            "forks": "460",
+            "language": "C",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "29,666",
+            "forks": "4,660",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,250 stars this week"
+        },
+        {
+            "zh_des": "免费开源IT资产/许可证管理系统",
+            "url": "https://github.com/snipe/snipe-it",
+            "name": "snipe /snipe-it",
+            "description": "A free open source IT asset/license management system",
+            "stars": "9,472",
+            "forks": "2,902",
+            "language": "PHP",
+            "stars_today": "279 stars this week"
+        }
+    ]
+}
