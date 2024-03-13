@@ -30573,3 +30573,257 @@
         }
     ]
 }
+{
+    "03月13日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "6,777",
+            "forks": "630",
+            "language": "Python",
+            "stars_today": "406 stars today"
+        },
+        {
+            "zh_des": "Qlib是一个面向人工智能的量化投资平台，旨在利用人工智能技术在量化投资中实现潜力、赋权研究和创造价值，从探索想法到实施产品。Qlib支持多种机器学习建模范例。包括监督学习、市场动态建模和RL。",
+            "url": "https://github.com/microsoft/qlib",
+            "name": "microsoft /qlib",
+            "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+            "stars": "13,802",
+            "forks": "2,388",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "285,728",
+            "forks": "31,190",
+            "language": "Python",
+            "stars_today": "553 stars today"
+        },
+        {
+            "zh_des": "通过加法Quantizationhttps://arxiv.org/pdf/2401.06118.pdf对大型语言模型进行极端压缩的官方Pytorch存储库",
+            "url": "https://github.com/Vahe1994/AQLM",
+            "name": "Vahe1994 /AQLM",
+            "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantizationhttps://arxiv.org/pdf/2401.06118.pdf",
+            "stars": "702",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,471",
+            "forks": "639",
+            "language": "Python",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "QLoRA微调速度提高5倍，内存减少60%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "5X faster 60% less memory QLoRA finetuning",
+            "stars": "4,218",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "ChatGLM3系列：开放双语聊天LLMS|开源双语对话语言模型",
+            "url": "https://github.com/THUDM/ChatGLM3",
+            "name": "THUDM /ChatGLM3",
+            "description": "ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型",
+            "stars": "10,608",
+            "forks": "1,188",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "28,962",
+            "forks": "2,180",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "适用于Python的可选静态类型",
+            "url": "https://github.com/python/mypy",
+            "name": "python /mypy",
+            "description": "Optional static typing for Python",
+            "stars": "17,341",
+            "forks": "2,660",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,057",
+            "forks": "1,702",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "5,209",
+            "forks": "436",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,514",
+            "forks": "293",
+            "language": "Python",
+            "stars_today": "381 stars today"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,515",
+            "forks": "392",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "测试",
+            "url": "https://github.com/Misaka-blog/chromego_merge",
+            "name": "Misaka-blog /chromego_merge",
+            "description": "test",
+            "stars": "136",
+            "forks": "261",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励生成证明(Docker)生成证明(本地sh脚本)生成证明(本地python脚本)docker构建-t dev-reward-script",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsGenerate proof (docker)Generate proof (local sh script)Generate proof (local python script)docker build -t dev-reward-script ",
+            "stars": "299",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "利用在线强化学习微调LLM代理",
+            "url": "https://github.com/KhoomeiK/LlamaGym",
+            "name": "KhoomeiK /LlamaGym",
+            "description": "Fine-tune LLM agents with online reinforcement learning",
+            "stars": "683",
+            "forks": "22",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "15,948",
+            "forks": "1,987",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "一个免费的在线学习平台，让所有人都能获得优质教育。",
+            "url": "https://github.com/oppia/oppia",
+            "name": "oppia /oppia",
+            "description": "A free, online learning platform to make quality education accessible for all.",
+            "stars": "5,604",
+            "forks": "3,690",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "经过精心筛选，从5000+个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在发出中留言或提交拉取请求。感谢您的关注！",
+            "url": "https://github.com/jackhawks/rectg",
+            "name": "jackhawks /rectg",
+            "description": "经过精心筛选，从 5000+ 个电报群组/频道/机器人中挑选出的优质推荐！如果您有更多值得推荐的电报群组/频道/机器人，欢迎在 issues 中留言或提交 pull requests。感谢您的关注！",
+            "stars": "4,399",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,215",
+            "forks": "2,629",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/OpenAccess-AI-Collective/axolotl",
+            "name": "OpenAccess-AI-Collective /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "4,921",
+            "forks": "541",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "121,978",
+            "forks": "24,197",
+            "language": "Python",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "56,833",
+            "forks": "5,538",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "🦜️🔗Chat语言链用于跟踪此repo是本地托管的聊天机器人的实现，专门专注于通过语言链文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainfor tracingThis repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "4,543",
+            "forks": "1,017",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "用于单代理强化学习环境的API标准，具有流行的参考环境和相关实用程序(以前称为GYM)",
+            "url": "https://github.com/Farama-Foundation/Gymnasium",
+            "name": "Farama-Foundation /Gymnasium",
+            "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+            "stars": "5,316",
+            "forks": "615",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        }
+    ]
+}
