@@ -28706,3 +28706,257 @@
         }
     ]
 }
+{
+    "03月13日": [
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "2,857",
+            "forks": "327",
+            "language": "Python",
+            "stars_today": "2,240 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "5,588",
+            "forks": "497",
+            "language": "Python",
+            "stars_today": "2,997 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "7,318",
+            "forks": "686",
+            "language": "Python",
+            "stars_today": "937 stars this week"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "2,970",
+            "forks": "248",
+            "language": "Python",
+            "stars_today": "753 stars this week"
+        },
+        {
+            "zh_des": "[WIP]WebUI的层扩散(通过Forge)",
+            "url": "https://github.com/layerdiffusion/sd-forge-layerdiffuse",
+            "name": "layerdiffusion /sd-forge-layerdiffuse",
+            "description": "[WIP] Layer Diffusion for WebUI (via Forge)",
+            "stars": "2,897",
+            "forks": "280",
+            "language": "Python",
+            "stars_today": "898 stars this week"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,600",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "304 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,536",
+            "forks": "294",
+            "language": "Python",
+            "stars_today": "1,270 stars this week"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "2,149",
+            "forks": "226",
+            "language": "Python",
+            "stars_today": "1,448 stars this week"
+        },
+        {
+            "zh_des": "层漫反射自定义节点",
+            "url": "https://github.com/huchenlei/ComfyUI-layerdiffuse",
+            "name": "huchenlei /ComfyUI-layerdiffuse",
+            "description": "Layer Diffuse custom nodes",
+            "stars": "795",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "539 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "8,194",
+            "forks": "570",
+            "language": "Python",
+            "stars_today": "519 stars this week"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "1,240",
+            "forks": "146",
+            "language": "Python",
+            "stars_today": "591 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励生成证明(Docker)生成证明(本地sh脚本)生成证明(本地python脚本)docker构建-t dev-reward-script",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsGenerate proof (docker)Generate proof (local sh script)Generate proof (local python script)docker build -t dev-reward-script ",
+            "stars": "304",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "7,532",
+            "forks": "937",
+            "language": "Python",
+            "stars_today": "208 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "55,021",
+            "forks": "10,234",
+            "language": "Python",
+            "stars_today": "437 stars this week"
+        },
+        {
+            "zh_des": "深度学习用于图像处理，包括分类和目标检测等。",
+            "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+            "name": "WZMIAOMIAO /deep-learning-for-image-processing",
+            "description": "deep learning for image processing including classification and object-detection etc.",
+            "stars": "20,055",
+            "forks": "7,641",
+            "language": "Python",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "一个简单、高性能、可伸缩的Jax LLM！",
+            "url": "https://github.com/google/maxtext",
+            "name": "google /maxtext",
+            "description": "A simple, performant and scalable Jax LLM!",
+            "stars": "886",
+            "forks": "167",
+            "language": "Python",
+            "stars_today": "391 stars this week"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,477",
+            "forks": "640",
+            "language": "Python",
+            "stars_today": "325 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "13,120",
+            "forks": "1,606",
+            "language": "Python",
+            "stars_today": "507 stars this week"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/OpenAccess-AI-Collective/axolotl",
+            "name": "OpenAccess-AI-Collective /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "4,932",
+            "forks": "543",
+            "language": "Python",
+            "stars_today": "476 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "10,482",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "QLoRA微调速度提高5倍，内存减少60%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "5X faster 60% less memory QLoRA finetuning",
+            "stars": "4,267",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "363 stars this week"
+        },
+        {
+            "zh_des": "DUSt3R",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R",
+            "stars": "3,333",
+            "forks": "390",
+            "language": "Python",
+            "stars_today": "851 stars this week"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型。",
+            "url": "https://github.com/alibaba-damo-academy/FunASR",
+            "name": "alibaba-damo-academy /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models.",
+            "stars": "2,732",
+            "forks": "327",
+            "language": "Python",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,217",
+            "forks": "2,630",
+            "language": "Python",
+            "stars_today": "66 stars this week"
+        },
+        {
+            "zh_des": "[ICLR2024]《🦙Time-LLM：通过重新编程大型语言模型进行时间序列预测》的正式实施",
+            "url": "https://github.com/KimMeen/Time-LLM",
+            "name": "KimMeen /Time-LLM",
+            "description": "[ICLR 2024] Official implementation of \" 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models\"",
+            "stars": "375",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "80 stars this week"
+        }
+    ]
+}
