@@ -28960,3 +28960,257 @@
         }
     ]
 }
+{
+    "03月14日": [
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "2,930",
+            "forks": "333",
+            "language": "Python",
+            "stars_today": "2,232 stars this week"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "2,208",
+            "forks": "234",
+            "language": "Python",
+            "stars_today": "1,411 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,029",
+            "forks": "777",
+            "language": "Python",
+            "stars_today": "1,038 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,589",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "1,316 stars this week"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,745",
+            "forks": "399",
+            "language": "Python",
+            "stars_today": "341 stars this week"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,485",
+            "forks": "643",
+            "language": "Python",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "13,211",
+            "forks": "1,623",
+            "language": "Python",
+            "stars_today": "525 stars this week"
+        },
+        {
+            "zh_des": "基于Qwen1.5构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen1.5, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "1,260",
+            "forks": "146",
+            "language": "Python",
+            "stars_today": "551 stars this week"
+        },
+        {
+            "zh_des": "层漫反射自定义节点",
+            "url": "https://github.com/huchenlei/ComfyUI-layerdiffuse",
+            "name": "huchenlei /ComfyUI-layerdiffuse",
+            "description": "Layer Diffuse custom nodes",
+            "stars": "806",
+            "forks": "103",
+            "language": "Python",
+            "stars_today": "335 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励此回购允许开发人员为Fluence开发人员奖励申请生成证明签名",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsThis repo allows the one to generate proof signature for Fluence dev reward claiming",
+            "stars": "319",
+            "forks": "206",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "7,544",
+            "forks": "939",
+            "language": "Python",
+            "stars_today": "216 stars this week"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/OpenAccess-AI-Collective/axolotl",
+            "name": "OpenAccess-AI-Collective /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "4,948",
+            "forks": "550",
+            "language": "Python",
+            "stars_today": "480 stars this week"
+        },
+        {
+            "zh_des": "[CVPR‘24]高斯飞溅大满贯",
+            "url": "https://github.com/muskie82/MonoGS",
+            "name": "muskie82 /MonoGS",
+            "description": "[CVPR'24] Gaussian Splatting SLAM",
+            "stars": "548",
+            "forks": "33",
+            "language": "Python",
+            "stars_today": "172 stars this week"
+        },
+        {
+            "zh_des": "一个简单、高性能、可伸缩的Jax LLM！",
+            "url": "https://github.com/google/maxtext",
+            "name": "google /maxtext",
+            "description": "A simple, performant and scalable Jax LLM!",
+            "stars": "888",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "397 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "10,488",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "QLoRA微调速度提高5倍，内存减少60%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "5X faster 60% less memory QLoRA finetuning",
+            "stars": "4,314",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "464 stars this week"
+        },
+        {
+            "zh_des": "开发人员工具，从头开始编写可扩展的应用程序，同时由开发人员监督实施",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "Dev tool that writes scalable apps from scratch while the developer oversees the implementation",
+            "stars": "22,753",
+            "forks": "2,072",
+            "language": "Python",
+            "stars_today": "359 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "55,080",
+            "forks": "10,238",
+            "language": "Python",
+            "stars_today": "440 stars this week"
+        },
+        {
+            "zh_des": "让大型人工智能模型更便宜、更快、更容易获得",
+            "url": "https://github.com/hpcaitech/ColossalAI",
+            "name": "hpcaitech /ColossalAI",
+            "description": "Making large AI models cheaper, faster and more accessible",
+            "stars": "36,721",
+            "forks": "4,124",
+            "language": "Python",
+            "stars_today": "163 stars this week"
+        },
+        {
+            "zh_des": "🦜️🔗Chat语言链用于跟踪此repo是本地托管的聊天机器人的实现，专门专注于通过语言链文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainfor tracingThis repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "4,552",
+            "forks": "1,017",
+            "language": "Python",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,532",
+            "forks": "2,013",
+            "language": "Python",
+            "stars_today": "595 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "8,236",
+            "forks": "573",
+            "language": "Python",
+            "stars_today": "463 stars this week"
+        },
+        {
+            "zh_des": "用于在NVIDIA图形处理器上加速变压器模型的库，包括在Hopper和Ada图形处理器上使用8位浮点(FP8)精度，以在训练和推理中以较低的内存使用率提供更好的性能。",
+            "url": "https://github.com/NVIDIA/TransformerEngine",
+            "name": "NVIDIA /TransformerEngine",
+            "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.",
+            "stars": "1,293",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "34 stars this week"
+        },
+        {
+            "zh_des": "深度学习用于图像处理，包括分类和目标检测等。",
+            "url": "https://github.com/WZMIAOMIAO/deep-learning-for-image-processing",
+            "name": "WZMIAOMIAO /deep-learning-for-image-processing",
+            "description": "deep learning for image processing including classification and object-detection etc.",
+            "stars": "20,089",
+            "forks": "7,649",
+            "language": "Python",
+            "stars_today": "249 stars this week"
+        },
+        {
+            "zh_des": "[ICLR2024]《🦙Time-LLM：通过重新编程大型语言模型进行时间序列预测》的正式实施",
+            "url": "https://github.com/KimMeen/Time-LLM",
+            "name": "KimMeen /Time-LLM",
+            "description": "[ICLR 2024] Official implementation of \" 🦙 Time-LLM: Time Series Forecasting by Reprogramming Large Language Models\"",
+            "stars": "387",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "74 stars this week"
+        }
+    ]
+}
