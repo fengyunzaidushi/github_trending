@@ -29676,3 +29676,257 @@
         }
     ]
 }
+{
+    "03月15日": [
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,244",
+            "forks": "1,116",
+            "language": "HTML",
+            "stars_today": "4,126 stars this week"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS!",
+            "stars": "9,112",
+            "forks": "435",
+            "language": "JavaScript",
+            "stars_today": "5,160 stars this week"
+        },
+        {
+            "zh_des": "OpenGFW是一个灵活、易用、开源的中国长城防火墙在Linux上的实现",
+            "url": "https://github.com/apernet/OpenGFW",
+            "name": "apernet /OpenGFW",
+            "description": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
+            "stars": "8,174",
+            "forks": "614",
+            "language": "Go",
+            "stars_today": "2,520 stars this week"
+        },
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "2,958",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "2,040 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "8,366",
+            "forks": "583",
+            "language": "Shell",
+            "stars_today": "3,052 stars this week"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "2,257",
+            "forks": "236",
+            "language": "Python",
+            "stars_today": "1,270 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "15,840",
+            "forks": "712",
+            "language": "JavaScript",
+            "stars_today": "3,202 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,170",
+            "forks": "795",
+            "language": "Python",
+            "stars_today": "2,020 stars this week"
+        },
+        {
+            "zh_des": "使用JavaScript、HTML和CSS构建跨平台桌面应用程序",
+            "url": "https://github.com/electron/electron",
+            "name": "electron /electron",
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "stars": "111,410",
+            "forks": "14,799",
+            "language": "C++",
+            "stars_today": "724 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "32,277",
+            "forks": "1,622",
+            "language": "Dart",
+            "stars_today": "2,702 stars this week"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "11,120",
+            "forks": "884",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,293 stars this week"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "17,150",
+            "forks": "2,961",
+            "language": "TypeScript",
+            "stars_today": "1,080 stars this week"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "68,529",
+            "forks": "8,449",
+            "language": "Java",
+            "stars_today": "3,060 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "29,241",
+            "forks": "17,476",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,616 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "45,263",
+            "forks": "5,319",
+            "language": "Python",
+            "stars_today": "1,825 stars this week"
+        },
+        {
+            "zh_des": "Fay是一个开源的数字人类框架，集成了语言模型和数字字符。它为不同的应用提供零售、助理和代理版本，如虚拟导购、广播、助理、服务员、教师和基于语音或文本的移动助理。",
+            "url": "https://github.com/xszyou/Fay",
+            "name": "xszyou /Fay",
+            "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+            "stars": "7,265",
+            "forks": "1,505",
+            "language": "",
+            "stars_today": "179 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,622",
+            "forks": "299",
+            "language": "Python",
+            "stars_today": "1,322 stars this week"
+        },
+        {
+            "zh_des": "语言链接的Java版本",
+            "url": "https://github.com/langchain4j/langchain4j",
+            "name": "langchain4j /langchain4j",
+            "description": "Java version of LangChain",
+            "stars": "2,397",
+            "forks": "462",
+            "language": "Java",
+            "stars_today": "483 stars this week"
+        },
+        {
+            "zh_des": "Kubernetes集群的通用Web用户界面",
+            "url": "https://github.com/kubernetes/dashboard",
+            "name": "kubernetes /dashboard",
+            "description": "General-purpose web UI for Kubernetes clusters",
+            "stars": "13,669",
+            "forks": "4,060",
+            "language": "Go",
+            "stars_today": "156 stars this week"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,772",
+            "forks": "400",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "6,363",
+            "forks": "350",
+            "language": "JavaScript",
+            "stars_today": "215 stars this week"
+        },
+        {
+            "zh_des": "下面是一个快速示例，说明如何使用Three.js和LocalStorage在多个窗口中“同步”3D场景",
+            "url": "https://github.com/bgstaal/multipleWindow3dScene",
+            "name": "bgstaal /multipleWindow3dScene",
+            "description": "A quick example of how one can \"synchronize\" a 3d scene across multiple windows using three.js and localStorage",
+            "stars": "15,541",
+            "forks": "2,431",
+            "language": "JavaScript",
+            "stars_today": "504 stars this week"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,499",
+            "forks": "648",
+            "language": "Python",
+            "stars_today": "338 stars this week"
+        },
+        {
+            "zh_des": "⭐️是一种用于构建类型安全、可伸缩系统的友好语言！",
+            "url": "https://github.com/gleam-lang/gleam",
+            "name": "gleam-lang /gleam",
+            "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+            "stars": "12,854",
+            "forks": "538",
+            "language": "Rust",
+            "stars_today": "6,480 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "13,268",
+            "forks": "1,631",
+            "language": "Python",
+            "stars_today": "525 stars this week"
+        }
+    ]
+}

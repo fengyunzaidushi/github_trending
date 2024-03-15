@@ -29178,3 +29178,257 @@
         }
     ]
 }
+{
+    "03月15日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "17,446",
+            "forks": "1,276",
+            "language": "TypeScript",
+            "stars_today": "11,192 stars this month"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,244",
+            "forks": "1,116",
+            "language": "HTML",
+            "stars_today": "4,653 stars this month"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "30,994",
+            "forks": "3,590",
+            "language": "C#",
+            "stars_today": "4,833 stars this month"
+        },
+        {
+            "zh_des": "稳定叶栅的官方代码",
+            "url": "https://github.com/Stability-AI/StableCascade",
+            "name": "Stability-AI /StableCascade",
+            "description": "Official Code for Stable Cascade",
+            "stars": "6,048",
+            "forks": "462",
+            "language": "Jupyter Notebook",
+            "stars_today": "4,761 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "3,446",
+            "forks": "254",
+            "language": "Python",
+            "stars_today": "2,236 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "45,263",
+            "forks": "5,319",
+            "language": "Python",
+            "stars_today": "9,979 stars this month"
+        },
+        {
+            "zh_des": "GitButler版本控制客户端，由Git支持，由Tauri/Rust/Svelte提供支持",
+            "url": "https://github.com/gitbutlerapp/gitbutler",
+            "name": "gitbutlerapp /gitbutler",
+            "description": "The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte",
+            "stars": "9,252",
+            "forks": "375",
+            "language": "TypeScript",
+            "stars_today": "6,036 stars this month"
+        },
+        {
+            "zh_des": "马里奥·卡丁车3",
+            "url": "https://github.com/Lunakepio/Mario-Kart-3.js",
+            "name": "Lunakepio /Mario-Kart-3.js",
+            "description": "Mario Kart 3",
+            "stars": "3,551",
+            "forks": "811",
+            "language": "JavaScript",
+            "stars_today": "3,070 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "50,372",
+            "forks": "6,022",
+            "language": "Python",
+            "stars_today": "3,876 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "29,241",
+            "forks": "17,476",
+            "language": "Jupyter Notebook",
+            "stars_today": "5,687 stars this month"
+        },
+        {
+            "zh_des": "I茅台APP自动预约，每日自动预约，支持Dock一键部署(本项目不提供成品，使用的是已淘汰的算法)",
+            "url": "https://github.com/oddfar/campus-imaotai",
+            "name": "oddfar /campus-imaotai",
+            "description": "i茅台app自动预约，每日自动预约，支持docker一键部署（本项目不提供成品，使用的是已淘汰的算法）",
+            "stars": "3,501",
+            "forks": "1,026",
+            "language": "Java",
+            "stars_today": "1,793 stars this month"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,636",
+            "forks": "266",
+            "language": "Python",
+            "stars_today": "3,186 stars this month"
+        },
+        {
+            "zh_des": "多功能应用程序，可查找重复项、空文件夹、相似图像等。",
+            "url": "https://github.com/qarmin/czkawka",
+            "name": "qarmin /czkawka",
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "stars": "16,653",
+            "forks": "554",
+            "language": "Rust",
+            "stars_today": "2,693 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "47,596",
+            "forks": "3,202",
+            "language": "Go",
+            "stars_today": "10,440 stars this month"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "9,465",
+            "forks": "871",
+            "language": "Svelte",
+            "stars_today": "4,362 stars this month"
+        },
+        {
+            "zh_des": "ERC-404 Uniswap v2 Uniswap v3🚨🚨此回购包含eRC-404的下一个版本",
+            "url": "https://github.com/Pandora-Labs-Org/erc404",
+            "name": "Pandora-Labs-Org /erc404",
+            "description": "ERC-404Uniswap v2Uniswap v3🚨🚨 This repo contains the next version of ERC-404",
+            "stars": "310",
+            "forks": "149",
+            "language": "TypeScript",
+            "stars_today": "188 stars this month"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "13,095",
+            "forks": "8,375",
+            "language": "Lua",
+            "stars_today": "2,009 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "15,840",
+            "forks": "712",
+            "language": "JavaScript",
+            "stars_today": "3,956 stars this month"
+        },
+        {
+            "zh_des": "安卓实时显控软件",
+            "url": "https://github.com/barry-ran/QtScrcpy",
+            "name": "barry-ran /QtScrcpy",
+            "description": "Android real-time display control software",
+            "stars": "15,276",
+            "forks": "2,142",
+            "language": "Java",
+            "stars_today": "1,526 stars this month"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,753",
+            "forks": "1,692",
+            "language": "Python",
+            "stars_today": "2,032 stars this month"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "7,004",
+            "forks": "883",
+            "language": "TypeScript",
+            "stars_today": "1,236 stars this month"
+        },
+        {
+            "zh_des": "基于汇总的汇总。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A based rollup. 🥁",
+            "stars": "3,669",
+            "forks": "1,735",
+            "language": "Solidity",
+            "stars_today": "1,077 stars this month"
+        },
+        {
+            "zh_des": "深度学习系统核心原理介绍。",
+            "url": "https://github.com/chenzomi12/DeepLearningSystem",
+            "name": "chenzomi12 /DeepLearningSystem",
+            "description": "Deep Learning System core principles introduction.",
+            "stars": "7,374",
+            "forks": "1,004",
+            "language": "Jupyter Notebook",
+            "stars_today": "908 stars this month"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "220,119",
+            "forks": "44,984",
+            "language": "JavaScript",
+            "stars_today": "1,968 stars this month"
+        },
+        {
+            "zh_des": "适用于Apple Silicon的带有Whisper的SWIFT原生设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "Swift native on-device speech recognition with Whisper for Apple Silicon",
+            "stars": "1,779",
+            "forks": "146",
+            "language": "Swift",
+            "stars_today": "932 stars this month"
+        }
+    ]
+}
