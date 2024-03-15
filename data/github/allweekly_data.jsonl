@@ -29930,3 +29930,257 @@
         }
     ]
 }
+{
+    "03月15日": [
+        {
+            "zh_des": "来自我的社交媒体的简单UI示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,262",
+            "forks": "1,118",
+            "language": "HTML",
+            "stars_today": "4,126 stars this week"
+        },
+        {
+            "zh_des": "一种用于构建类型安全、可伸缩系统的友好语言！️",
+            "url": "https://github.com/gleam-lang/gleam",
+            "name": "gleam-lang /gleam",
+            "description": "⭐️ A friendly language for building type-safe, scalable systems!",
+            "stars": "12,978",
+            "forks": "544",
+            "language": "Rust",
+            "stars_today": "6,480 stars this week"
+        },
+        {
+            "zh_des": "OpenGFW是一个灵活、易于使用、开源的GFW（中国防火长城）在Linux上的实现",
+            "url": "https://github.com/apernet/OpenGFW",
+            "name": "apernet /OpenGFW",
+            "description": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
+            "stars": "8,208",
+            "forks": "615",
+            "language": "Go",
+            "stars_today": "2,520 stars this week"
+        },
+        {
+            "zh_des": "开源开发环境管理器",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "4,263",
+            "forks": "145",
+            "language": "Go",
+            "stars_today": "2,431 stars this week"
+        },
+        {
+            "zh_des": "fabric是一个开源框架，用于使用人工智能增强人类。它提供了一个模块化的框架，用于使用一组众包的人工智能提示来解决特定问题，这些提示可以在任何地方使用。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,261",
+            "forks": "830",
+            "language": "Python",
+            "stars_today": "2,020 stars this week"
+        },
+        {
+            "zh_des": "《Hello算法》：动画绘图，关键运行的数据结构与算法教程，支持Python，C++，Java，C#，Go，Swift，JS，TS，Dart，Rust，C，Zig等语言.英文版正在进行",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "69,141",
+            "forks": "8,572",
+            "language": "Java",
+            "stars_today": "3,060 stars this week"
+        },
+        {
+            "zh_des": "🌐 Internet OS！",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS!",
+            "stars": "9,211",
+            "forks": "439",
+            "language": "JavaScript",
+            "stars_today": "5,160 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api's的开源IDE（轻量级替代邮递员/失眠）",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "15,957",
+            "forks": "714",
+            "language": "JavaScript",
+            "stars_today": "3,202 stars this week"
+        },
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "2,982",
+            "forks": "341",
+            "language": "Python",
+            "stars_today": "2,040 stars this week"
+        },
+        {
+            "zh_des": "像OpenAI的Sora一样构建自己的视频生成模型",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "2,280",
+            "forks": "236",
+            "language": "Python",
+            "stars_today": "1,270 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的Windows",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "8,455",
+            "forks": "592",
+            "language": "Shell",
+            "stars_today": "3,052 stars this week"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "17,740",
+            "forks": "3,029",
+            "language": "TypeScript",
+            "stars_today": "1,080 stars this week"
+        },
+        {
+            "zh_des": "使用JavaScript、HTML和CSS构建跨平台桌面应用",
+            "url": "https://github.com/electron/electron",
+            "name": "electron /electron",
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "stars": "111,418",
+            "forks": "14,806",
+            "language": "C++",
+            "stars_today": "724 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代品",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "32,343",
+            "forks": "1,624",
+            "language": "Dart",
+            "stars_today": "2,702 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "23,148",
+            "forks": "2,141",
+            "language": "Python",
+            "stars_today": "458 stars this week"
+        },
+        {
+            "zh_des": "由developers@01—ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,787",
+            "forks": "400",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "一步一步地从零开始实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "11,134",
+            "forks": "888",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,293 stars this week"
+        },
+        {
+            "zh_des": "一系列笔记本/食谱展示了一些有趣和有效的使用克劳德的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "1,084",
+            "forks": "148",
+            "language": "Jupyter Notebook",
+            "stars_today": "597 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai提供的高质量多语言文本到语音库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,645",
+            "forks": "301",
+            "language": "Python",
+            "stars_today": "1,322 stars this week"
+        },
+        {
+            "zh_des": "用于Kubernetes集群的通用Web UI",
+            "url": "https://github.com/kubernetes/dashboard",
+            "name": "kubernetes /dashboard",
+            "description": "General-purpose web UI for Kubernetes clusters",
+            "stars": "13,677",
+            "forks": "4,062",
+            "language": "Go",
+            "stars_today": "156 stars this week"
+        },
+        {
+            "zh_des": "最先进的Web机器学习直接在浏览器中运行NTFS Transformers，无需服务器！🤗",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "6,378",
+            "forks": "350",
+            "language": "JavaScript",
+            "stars_today": "215 stars this week"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式AI教程构建https：//www.example.com🔗",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "29,286",
+            "forks": "17,519",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,616 stars this week"
+        },
+        {
+            "zh_des": "QLoRA微调速度提高5倍",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "5X faster 60% less memory QLoRA finetuning",
+            "stars": "4,363",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "LangChain的Java版本",
+            "url": "https://github.com/langchain4j/langchain4j",
+            "name": "langchain4j /langchain4j",
+            "description": "Java version of LangChain",
+            "stars": "2,409",
+            "forks": "465",
+            "language": "Java",
+            "stars_today": "483 stars this week"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "26,080",
+            "forks": "2,579",
+            "language": "Jupyter Notebook",
+            "stars_today": "689 stars this week"
+        }
+    ]
+}

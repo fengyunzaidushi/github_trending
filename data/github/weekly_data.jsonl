@@ -29722,3 +29722,257 @@
         }
     ]
 }
+{
+    "03月15日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,261",
+            "forks": "830",
+            "language": "Python",
+            "stars_today": "2,020 stars this week"
+        },
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "2,982",
+            "forks": "341",
+            "language": "Python",
+            "stars_today": "2,040 stars this week"
+        },
+        {
+            "zh_des": "构建自己的视频生成模型，就像OpenAI的Sora",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Building your own video generation model like OpenAI's Sora",
+            "stars": "2,280",
+            "forks": "236",
+            "language": "Python",
+            "stars_today": "1,270 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "23,148",
+            "forks": "2,141",
+            "language": "Python",
+            "stars_today": "458 stars this week"
+        },
+        {
+            "zh_des": "由Developers@01-ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,787",
+            "forks": "400",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,645",
+            "forks": "301",
+            "language": "Python",
+            "stars_today": "1,322 stars this week"
+        },
+        {
+            "zh_des": "QLoRA微调速度提高5倍，内存减少60%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "5X faster 60% less memory QLoRA finetuning",
+            "stars": "4,363",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,509",
+            "forks": "648",
+            "language": "Python",
+            "stars_today": "338 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励此回购允许开发人员为Fluence开发人员奖励申请生成证明签名",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsThis repo allows the one to generate proof signature for Fluence dev reward claiming",
+            "stars": "325",
+            "forks": "209",
+            "language": "Python",
+            "stars_today": "196 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "10,500",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/OpenAccess-AI-Collective/axolotl",
+            "name": "OpenAccess-AI-Collective /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "4,983",
+            "forks": "553",
+            "language": "Python",
+            "stars_today": "474 stars this week"
+        },
+        {
+            "zh_des": "[CVPR‘24]高斯飞溅大满贯",
+            "url": "https://github.com/muskie82/MonoGS",
+            "name": "muskie82 /MonoGS",
+            "description": "[CVPR'24] Gaussian Splatting SLAM",
+            "stars": "575",
+            "forks": "35",
+            "language": "Python",
+            "stars_today": "175 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：给定一行需求，返回PRD、设计、任务、回购",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "35,565",
+            "forks": "4,111",
+            "language": "Python",
+            "stars_today": "713 stars this week"
+        },
+        {
+            "zh_des": "使用GPT的功能与您的文档进行交互，100%私密，不会泄露数据",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "48,818",
+            "forks": "6,428",
+            "language": "Python",
+            "stars_today": "630 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "27,569",
+            "forks": "2,017",
+            "language": "Python",
+            "stars_today": "552 stars this week"
+        },
+        {
+            "zh_des": "一个简单、高性能、可伸缩的Jax LLM！",
+            "url": "https://github.com/google/maxtext",
+            "name": "google /maxtext",
+            "description": "A simple, performant and scalable Jax LLM!",
+            "stars": "893",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "382 stars this week"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "37,431",
+            "forks": "7,126",
+            "language": "Python",
+            "stars_today": "504 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "13,307",
+            "forks": "1,634",
+            "language": "Python",
+            "stars_today": "525 stars this week"
+        },
+        {
+            "zh_des": "🦜️🔗Chat语言链用于跟踪此repo是本地托管的聊天机器人的实现，专门专注于通过语言链文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainfor tracingThis repo is an implementation of a locally hosted chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "4,561",
+            "forks": "1,018",
+            "language": "Python",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "55,131",
+            "forks": "10,248",
+            "language": "Python",
+            "stars_today": "453 stars this week"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "773",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "57,912",
+            "forks": "6,602",
+            "language": "Python",
+            "stars_today": "567 stars this week"
+        },
+        {
+            "zh_des": "Qlib是一个面向人工智能的量化投资平台，旨在利用人工智能技术在量化投资中实现潜力、赋权研究和创造价值，从探索想法到实施产品。Qlib支持多种机器学习建模范例。包括监督学习、市场动态建模和RL。",
+            "url": "https://github.com/microsoft/qlib",
+            "name": "microsoft /qlib",
+            "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+            "stars": "13,918",
+            "forks": "2,410",
+            "language": "Python",
+            "stars_today": "362 stars this week"
+        },
+        {
+            "zh_des": "带有附加功能和修复的YouTube-dl分支",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A youtube-dl fork with additional features and fixes",
+            "stars": "67,986",
+            "forks": "5,394",
+            "language": "Python",
+            "stars_today": "591 stars this week"
+        },
+        {
+            "zh_des": "用于在NVIDIA图形处理器上加速变压器模型的库，包括在Hopper和Ada图形处理器上使用8位浮点(FP8)精度，以在训练和推理中以较低的内存使用率提供更好的性能。",
+            "url": "https://github.com/NVIDIA/TransformerEngine",
+            "name": "NVIDIA /TransformerEngine",
+            "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.",
+            "stars": "1,302",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "36 stars this week"
+        }
+    ]
+}
