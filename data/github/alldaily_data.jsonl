@@ -33356,3 +33356,257 @@
         }
     ]
 }
+{
+    "03月17日": [
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "18,953",
+            "forks": "3,184",
+            "language": "TypeScript",
+            "stars_today": "783 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "2,845",
+            "forks": "521",
+            "language": "Python",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "Slint是一个声明式GUI工具包，用于为Rust、C++或JavaScript应用程序构建本地用户界面。",
+            "url": "https://github.com/slint-ui/slint",
+            "name": "slint-ui /slint",
+            "description": "Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.",
+            "stars": "14,307",
+            "forks": "438",
+            "language": "Rust",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "23,547",
+            "forks": "2,184",
+            "language": "Python",
+            "stars_today": "304 stars today"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：给定一行需求，返回PRD，Design，Tasks，Repo",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "35,909",
+            "forks": "4,159",
+            "language": "Python",
+            "stars_today": "277 stars today"
+        },
+        {
+            "zh_des": "冬天来了...❄️",
+            "url": "https://github.com/wasmerio/winterjs",
+            "name": "wasmerio /winterjs",
+            "description": "Winter is coming... ❄️",
+            "stars": "2,103",
+            "forks": "32",
+            "language": "JavaScript",
+            "stars_today": "368 stars today"
+        },
+        {
+            "zh_des": "Megacity—Metro：一款令人兴奋的射击游戏，使用Netcode for Entities为多人体验，支持128+玩家。最新的DOTS包和Unity Gaming Services提升了用户体验，演示了如何制作引人入胜的多人游戏。",
+            "url": "https://github.com/Unity-Technologies/megacity-metro",
+            "name": "Unity-Technologies /megacity-metro",
+            "description": "Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.",
+            "stars": "157",
+            "forks": "33",
+            "language": "C#",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "《Hello算法》：动画绘图，关键运行的数据结构与算法教程，支持Python，C++，Java，C#，Go，Swift，JS，TS，Dart，Rust，C，Zig等语言.英文版正在进行",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "70,100",
+            "forks": "8,681",
+            "language": "Java",
+            "stars_today": "1,032 stars today"
+        },
+        {
+            "zh_des": "去中心化自治监管公司（DARC），一个在任何EVM兼容区块链上运行的公司虚拟机，具有链上法律系统、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "8,188",
+            "forks": "6,362",
+            "language": "TypeScript",
+            "stars_today": "346 stars today"
+        },
+        {
+            "zh_des": "使用LLM和计算机视觉自动化基于浏览器的工作流程",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "1,709",
+            "forks": "69",
+            "language": "Python",
+            "stars_today": "367 stars today"
+        },
+        {
+            "zh_des": "软件开发者组合网站使用next.js和tailwind CSS构建，帮助您展示作为软件开发人员的工作和技能。",
+            "url": "https://github.com/said7388/developer-portfolio",
+            "name": "said7388 /developer-portfolio",
+            "description": "Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.",
+            "stars": "370",
+            "forks": "122",
+            "language": "JavaScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,423",
+            "forks": "9,708",
+            "language": "C++",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "EMAA超快速、实时、专业、开发人员友好、无代码数据库",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ A Super fast, Real-time, Professional, Developer friendly, No code database",
+            "stars": "3,647",
+            "forks": "151",
+            "language": "TypeScript",
+            "stars_today": "514 stars today"
+        },
+        {
+            "zh_des": "Redis Go客户端",
+            "url": "https://github.com/redis/go-redis",
+            "name": "redis /go-redis",
+            "description": "Redis Go client",
+            "stars": "19,063",
+            "forks": "2,262",
+            "language": "Go",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "MyViewOfLinuxSystems",
+            "url": "https://github.com/lsc4719/MyViewOfLinuxSystems",
+            "name": "lsc4719 /MyViewOfLinuxSystems",
+            "description": "MyViewOfLinuxSystems",
+            "stars": "453",
+            "forks": "18",
+            "language": "",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Suyu是世界上最流行的开源任天堂Switch模拟器yuzu的延续。它是用C++编写的，考虑到了可移植性，我们积极维护Windows，Linux和Android的版本。",
+            "url": "https://github.com/suyu-emu/suyu",
+            "name": "suyu-emu /suyu",
+            "description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.",
+            "stars": "1,561",
+            "forks": "211",
+            "language": "C++",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "下一代换脸机和增强剂",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "12,884",
+            "forks": "1,706",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Diia此资料库概述了乌克兰数字化转型部开发的旗舰产品Diia",
+            "url": "https://github.com/diia-open-source/ios-diia",
+            "name": "diia-open-source /ios-diia",
+            "description": "DiiaThis repository provides an overview over the flagship product Diia developed by the Ministry of Digital Transformation of Ukraine",
+            "stars": "303",
+            "forks": "51",
+            "language": "Swift",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "ASP.NET Core是一个跨平台的. NET框架，用于在Windows、Mac或Linux上构建现代基于云的Web应用程序。",
+            "url": "https://github.com/dotnet/aspnetcore",
+            "name": "dotnet /aspnetcore",
+            "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+            "stars": "34,114",
+            "forks": "9,617",
+            "language": "C#",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "WingetUI：为您的包管理器提供更好的UI",
+            "url": "https://github.com/marticliment/WingetUI",
+            "name": "marticliment /WingetUI",
+            "description": "WingetUI: A better UI for your package managers",
+            "stars": "7,656",
+            "forks": "247",
+            "language": "C#",
+            "stars_today": "270 stars today"
+        },
+        {
+            "zh_des": "一个跨平台的ChatGPT/Gemini UI（Web/PWA/Linux/Win/MacOS）。关键有你自己的平台ChatGPT/Gemini应用程序.",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "64,651",
+            "forks": "53,200",
+            "language": "TypeScript",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "🤯 Lobe Chat—一个开源的，现代设计的LLM/AI聊天框架。支持多个人工智能供应商（OpenAI/Claude 3/Gemini/Perplexity/Bedrock/Azure/Mistral/Olama），多模态（视觉/TTS）和插件系统。一键免费部署私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "22,523",
+            "forks": "4,679",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "🥞 Pancake的主要特点（农场、游泳池、IFO、彩票、简介）",
+            "url": "https://github.com/pancakeswap/pancake-frontend",
+            "name": "pancakeswap /pancake-frontend",
+            "description": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
+            "stars": "2,559",
+            "forks": "3,452",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "简单、安全的储存和分配张量的方法",
+            "url": "https://github.com/huggingface/safetensors",
+            "name": "huggingface /safetensors",
+            "description": "Simple, safe way to store and distribute tensors",
+            "stars": "2,247",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "使用Large Action Model框架实现自动化",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Automate automation with Large Action Model framework",
+            "stars": "2,593",
+            "forks": "186",
+            "language": "Python",
+            "stars_today": "509 stars today"
+        }
+    ]
+}
