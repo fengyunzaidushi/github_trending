@@ -21080,3 +21080,257 @@
         }
     ]
 }
+{
+    "03月17日": [
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "19,391",
+            "forks": "3,249",
+            "language": "TypeScript",
+            "stars_today": "955 stars today"
+        },
+        {
+            "zh_des": "使用Nextjs构建Duolingo克隆，反应，毛毛雨，条纹(2024)这是一个YouTube视频《使用Nextjs，反应，毛毛雨，条纹构建多林戈克隆(2024)》的存储库",
+            "url": "https://github.com/AntonioErdeljac/next14-duolingo-clone",
+            "name": "AntonioErdeljac /next14-duolingo-clone",
+            "description": "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)This is a repository for a \"Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)\" youtube video",
+            "stars": "119",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "去中心化自主监管公司(DARC)，运行在任何与EVM兼容的区块链上的公司虚拟机，具有链上法律体系、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "8,258",
+            "forks": "6,405",
+            "language": "TypeScript",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "22,604",
+            "forks": "4,698",
+            "language": "TypeScript",
+            "stars_today": "276 stars today"
+        },
+        {
+            "zh_des": "使用DuckDB-WASM和PRQL进行开源的浏览器本地数据探索",
+            "url": "https://github.com/pretzelai/pretzelai",
+            "name": "pretzelai /pretzelai",
+            "description": "Open-source, browser-local data exploration using DuckDB-Wasm and PRQL",
+            "stars": "481",
+            "forks": "13",
+            "language": "TypeScript",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "385,090",
+            "forks": "34,912",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "2,420",
+            "forks": "251",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "💬个人人工智能应用程序由GPT-4及更高版本支持，具有AI人物角色、AGI功能、文本到图像、语音、响应流、代码突出显示和执行、PDF导入、为开发人员预设等功能。部署并赠送#Big-AGI-Energy！使用Next.js，反应，喜悦。",
+            "url": "https://github.com/enricoros/big-AGI",
+            "name": "enricoros /big-AGI",
+            "description": "💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.",
+            "stars": "3,155",
+            "forks": "780",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Google Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "8,740",
+            "forks": "1,561",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/fdundjer/solana-sniper-bot",
+            "name": "fdundjer /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "173",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "268,989",
+            "forks": "36,417",
+            "language": "TypeScript",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "循序渐进地学习打字稿",
+            "url": "https://github.com/panaverse/learn-typescript",
+            "name": "panaverse /learn-typescript",
+            "description": "Learning TypeScript in Baby Steps",
+            "stars": "899",
+            "forks": "454",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用Nextjs14的SaaS网站生成器、项目管理和控制面板使用Nextjs14、Bun、Stiped Connect、Prisma、MySQL、TailwinLicense：非商业用途",
+            "url": "https://github.com/webprodigies/plura-production",
+            "name": "webprodigies /plura-production",
+            "description": "SaaS Website Builder, Project Management And Dashboard With Stripe using Nextjs14, Bun, Stripe Connect, Prisma, MySQL, TailwindLicense: Not for commercial purpose",
+            "stars": "1,012",
+            "forks": "454",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🥞煎饼的主要特征(农场、游泳池、IFO、彩票、个人资料)",
+            "url": "https://github.com/pancakeswap/pancake-frontend",
+            "name": "pancakeswap /pancake-frontend",
+            "description": "🥞 Pancake main features (farms, pools, IFO, lottery, profiles)",
+            "stars": "2,566",
+            "forks": "3,454",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "用于Reaction-Three-Fibre的🎨用户界面",
+            "url": "https://github.com/pmndrs/uikit",
+            "name": "pmndrs /uikit",
+            "description": "🎨 user interfaces for react-three-fiber",
+            "stars": "1,681",
+            "forks": "95",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Next Auth v5-高级指南(2024)这是Next Auth v5-高级指南(2024)视频TUTORIAL的存储库主要功能：\n-🔐下一次身份验证v5(身份验证",
+            "url": "https://github.com/AntonioErdeljac/next-auth-v5-advanced-guide",
+            "name": "AntonioErdeljac /next-auth-v5-advanced-guide",
+            "description": "Next Auth v5 - Advanced Guide (2024)This is a repository for Next Auth v5 - Advanced Guide (2024)VIDEO TUTORIALKey Features:\n- 🔐 Next-auth v5 (Auth",
+            "stars": "896",
+            "forks": "216",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Clash Nyanpasu！(∠·⌒☆​<)ω",
+            "url": "https://github.com/LibNyanpasu/clash-nyanpasu",
+            "name": "LibNyanpasu /clash-nyanpasu",
+            "description": "Clash Nyanpasu! (∠・ω< )⌒☆​",
+            "stars": "5,263",
+            "forks": "356",
+            "language": "TypeScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "Airtable APITable，这是一个面向🚀🎉📚的低代码平台，用于构建协作应用程序，比所有其他Airtable开源替代方案都要好。",
+            "url": "https://github.com/apitable/apitable",
+            "name": "apitable /apitable",
+            "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+            "stars": "11,555",
+            "forks": "962",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "提供免费的OpenAI GPT-4 API！这是xtekky/gpt4free打字版本的复制项目",
+            "url": "https://github.com/xiangsx/gpt4free-ts",
+            "name": "xiangsx /gpt4free-ts",
+            "description": "Providing a free OpenAI GPT-4 API ! This is a replication project for the typescript version of xtekky/gpt4free",
+            "stars": "7,247",
+            "forks": "1,235",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Bitburner源代码。",
+            "url": "https://github.com/bitburner-official/bitburner-src",
+            "name": "bitburner-official /bitburner-src",
+            "description": "Bitburner source code.",
+            "stars": "570",
+            "forks": "200",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "27,445",
+            "forks": "1,245",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "🌱是一个快速的、包含电池的静态站点生成器，可以将Markdown内容转换为功能齐全的网站",
+            "url": "https://github.com/jackyzha0/quartz",
+            "name": "jackyzha0 /quartz",
+            "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+            "stars": "4,583",
+            "forks": "2,238",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "这是一个完整的Stack应用程序入门程序，设置并配置了基本的东西，让您可以开始运行您的下一个史诗般的想法。",
+            "url": "https://github.com/epicweb-dev/epic-stack",
+            "name": "epicweb-dev /epic-stack",
+            "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+            "stars": "3,753",
+            "forks": "287",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "人体工效学框架",
+            "url": "https://github.com/elysiajs/elysia",
+            "name": "elysiajs /elysia",
+            "description": "Ergonomic Framework for Humans",
+            "stars": "7,241",
+            "forks": "155",
+            "language": "TypeScript",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "JITO BACKRUN ARB Bot JITO BACKRUN ARB Bot旨在Solana区块链上执行Backrun Arb，专门针对SOL和USDC交易",
+            "url": "https://github.com/jito-labs/mev-bot",
+            "name": "jito-labs /mev-bot",
+            "description": "Jito Backrun Arb BotThe Jito Backrun Arb Bot is designed to perform backrun arbs on the Solana blockchain, specifically targeting SOL and USDC trades",
+            "stars": "471",
+            "forks": "177",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        }
+    ]
+}
