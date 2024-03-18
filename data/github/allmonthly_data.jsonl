@@ -30956,3 +30956,257 @@
         }
     ]
 }
+{
+    "03月18日": [
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "17,693",
+            "forks": "1,285",
+            "language": "TypeScript",
+            "stars_today": "11,411 stars this month"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,330",
+            "forks": "1,119",
+            "language": "HTML",
+            "stars_today": "4,700 stars this month"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "31,166",
+            "forks": "3,621",
+            "language": "C#",
+            "stars_today": "4,930 stars this month"
+        },
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "7,671",
+            "forks": "643",
+            "language": "Python",
+            "stars_today": "7,173 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "45,714",
+            "forks": "5,376",
+            "language": "Python",
+            "stars_today": "10,192 stars this month"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "6,499",
+            "forks": "510",
+            "language": "Python",
+            "stars_today": "5,697 stars this month"
+        },
+        {
+            "zh_des": "《变形金刚可伸缩扩散模型》的官方实施",
+            "url": "https://github.com/facebookresearch/DiT",
+            "name": "facebookresearch /DiT",
+            "description": "Official PyTorch Implementation of \"Scalable Diffusion Models with Transformers\"",
+            "stars": "4,593",
+            "forks": "408",
+            "language": "Python",
+            "stars_today": "2,563 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "29,664",
+            "forks": "17,737",
+            "language": "Jupyter Notebook",
+            "stars_today": "5,966 stars this month"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "20,209",
+            "forks": "3,352",
+            "language": "TypeScript",
+            "stars_today": "4,838 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 2、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 2, Mistral, Gemma, and other large language models.",
+            "stars": "48,596",
+            "forks": "3,278",
+            "language": "C++",
+            "stars_today": "10,623 stars this month"
+        },
+        {
+            "zh_des": "利用深度学习检测文件内容类型",
+            "url": "https://github.com/google/magika",
+            "name": "google /magika",
+            "description": "Detect file content types with deep learning",
+            "stars": "7,141",
+            "forks": "372",
+            "language": "Python",
+            "stars_today": "5,868 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "3,557",
+            "forks": "261",
+            "language": "Python",
+            "stars_today": "2,091 stars this month"
+        },
+        {
+            "zh_des": "多功能应用程序，可查找重复项、空文件夹、相似图像等。",
+            "url": "https://github.com/qarmin/czkawka",
+            "name": "qarmin /czkawka",
+            "description": "Multi functional app to find duplicates, empty folders, similar images etc.",
+            "stars": "16,787",
+            "forks": "553",
+            "language": "Rust",
+            "stars_today": "2,789 stars this month"
+        },
+        {
+            "zh_des": "自然语言编程",
+            "url": "https://github.com/gptscript-ai/gptscript",
+            "name": "gptscript-ai /gptscript",
+            "description": "Natural Language Programming",
+            "stars": "2,161",
+            "forks": "201",
+            "language": "Go",
+            "stars_today": "1,754 stars this month"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "70,757",
+            "forks": "8,787",
+            "language": "Java",
+            "stars_today": "8,218 stars this month"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "21,985",
+            "forks": "1,593",
+            "language": "TypeScript",
+            "stars_today": "2,120 stars this month"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "6,744",
+            "forks": "268",
+            "language": "Python",
+            "stars_today": "3,207 stars this month"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "50,539",
+            "forks": "6,032",
+            "language": "Python",
+            "stars_today": "3,908 stars this month"
+        },
+        {
+            "zh_des": "一个速度极快的Python包安装程序和解析器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package installer and resolver, written in Rust.",
+            "stars": "8,894",
+            "forks": "244",
+            "language": "Rust",
+            "stars_today": "5,189 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "16,403",
+            "forks": "727",
+            "language": "JavaScript",
+            "stars_today": "4,297 stars this month"
+        },
+        {
+            "zh_des": "马里奥·卡丁车3",
+            "url": "https://github.com/Lunakepio/Mario-Kart-3.js",
+            "name": "Lunakepio /Mario-Kart-3.js",
+            "description": "Mario Kart 3",
+            "stars": "3,635",
+            "forks": "828",
+            "language": "JavaScript",
+            "stars_today": "2,504 stars this month"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "13,282",
+            "forks": "8,578",
+            "language": "Lua",
+            "stars_today": "2,131 stars this month"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "9,892",
+            "forks": "921",
+            "language": "Svelte",
+            "stars_today": "4,542 stars this month"
+        },
+        {
+            "zh_des": "安卓实时显控软件",
+            "url": "https://github.com/barry-ran/QtScrcpy",
+            "name": "barry-ran /QtScrcpy",
+            "description": "Android real-time display control software",
+            "stars": "15,414",
+            "forks": "2,153",
+            "language": "Java",
+            "stars_today": "1,616 stars this month"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "7,089",
+            "forks": "892",
+            "language": "TypeScript",
+            "stars_today": "1,284 stars this month"
+        }
+    ]
+}

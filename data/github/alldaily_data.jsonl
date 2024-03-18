@@ -34118,3 +34118,257 @@
         }
     ]
 }
+{
+    "03月18日": [
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "6,578",
+            "forks": "1,092",
+            "language": "Python",
+            "stars_today": "3,032 stars today"
+        },
+        {
+            "zh_des": "OpenAI Grok曲线实验",
+            "url": "https://github.com/openai/grok",
+            "name": "openai /grok",
+            "description": "OpenAI Grok Curve Experiments",
+            "stars": "2,465",
+            "forks": "272",
+            "language": "Python",
+            "stars_today": "433 stars today"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "24,089",
+            "forks": "2,300",
+            "language": "Python",
+            "stars_today": "465 stars today"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：给定一行需求，返回PRD，Design，Tasks，Repo",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "36,455",
+            "forks": "4,282",
+            "language": "Python",
+            "stars_today": "513 stars today"
+        },
+        {
+            "zh_des": "一个简单的webapp与rembg",
+            "url": "https://github.com/codediodeio/rembg-webapp-tutorial",
+            "name": "codediodeio /rembg-webapp-tutorial",
+            "description": "a simple webapp with rembg",
+            "stars": "210",
+            "forks": "69",
+            "language": "HTML",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、React、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "20,209",
+            "forks": "3,352",
+            "language": "TypeScript",
+            "stars_today": "1,087 stars today"
+        },
+        {
+            "zh_des": "开源Roblox & UEFN替代品让你自由拥有你所创造的东西。基于Godot构建的多功能、实时、协作游戏开发平台。",
+            "url": "https://github.com/the-mirror-gdp/the-mirror",
+            "name": "the-mirror-gdp /the-mirror",
+            "description": "The open-source Roblox & UEFN alternative giving you freedom to own what you create. An all-in-one, real-time, collaborative game development platform built on Godot.",
+            "stars": "485",
+            "forks": "52",
+            "language": "GDScript",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "清晰度放大器：为每个人重新设想图像放大",
+            "url": "https://github.com/philz1337x/clarity-upscaler",
+            "name": "philz1337x /clarity-upscaler",
+            "description": "Clarity-Upscaler: Reimagined image upscaling for everyone",
+            "stars": "1,022",
+            "forks": "118",
+            "language": "Python",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "使用LLM和计算机视觉自动化基于浏览器的工作流程",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "2,426",
+            "forks": "171",
+            "language": "Python",
+            "stars_today": "645 stars today"
+        },
+        {
+            "zh_des": "David Attenborough讲述你的生活",
+            "url": "https://github.com/cbh123/narrator",
+            "name": "cbh123 /narrator",
+            "description": "David Attenborough narrates your life",
+            "stars": "4,080",
+            "forks": "507",
+            "language": "Python",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLM API。使用Bedrock，Azure，OpenAI，Cohere，Anthropic，Olama，Sagemaker，HuggingFace，Copy（100 + LLM）",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+            "stars": "6,448",
+            "forks": "712",
+            "language": "Python",
+            "stars_today": "281 stars today"
+        },
+        {
+            "zh_des": "🤯 Lobe Chat—一个开源的，现代设计的LLM/AI聊天框架。支持多个人工智能供应商（OpenAI/Claude 3/Gemini/Perplexity/Bedrock/Azure/Mistral/Olama），多模态（视觉/TTS）和插件系统。一键免费部署私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "22,926",
+            "forks": "4,777",
+            "language": "TypeScript",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "WingetUI：为您的包管理器提供更好的UI",
+            "url": "https://github.com/marticliment/WingetUI",
+            "name": "marticliment /WingetUI",
+            "description": "WingetUI: A better UI for your package managers",
+            "stars": "7,831",
+            "forks": "261",
+            "language": "C#",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "您需要的表格",
+            "url": "https://github.com/ianand/spreadsheets-are-all-you-need",
+            "name": "ianand /spreadsheets-are-all-you-need",
+            "description": "Spreadsheets-are-all-you-need",
+            "stars": "605",
+            "forks": "82",
+            "language": "",
+            "stars_today": "303 stars today"
+        },
+        {
+            "zh_des": "Suyu是世界上最流行的开源任天堂Switch模拟器yuzu的延续。它是用C++编写的，考虑到了可移植性，我们积极维护Windows，Linux和Android的版本。",
+            "url": "https://github.com/suyu-emu/suyu",
+            "name": "suyu-emu /suyu",
+            "description": "suyu is the continuation of the world's most popular, open-source, Nintendo Switch emulator, yuzu. It is written in C++ with portability in mind, and we actively maintain builds for Windows, Linux and Android.",
+            "stars": "1,879",
+            "forks": "294",
+            "language": "C++",
+            "stars_today": "313 stars today"
+        },
+        {
+            "zh_des": "一个基于内核的Android根解决方案",
+            "url": "https://github.com/tiann/KernelSU",
+            "name": "tiann /KernelSU",
+            "description": "A Kernel based root solution for Android",
+            "stars": "7,474",
+            "forks": "1,263",
+            "language": "Kotlin",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "使用GPT的强大功能与您的文档交互，100%私密，无数据泄露",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "49,251",
+            "forks": "6,522",
+            "language": "Python",
+            "stars_today": "307 stars today"
+        },
+        {
+            "zh_des": "一站式存储库，用于生成人工智能研究更新，采访资源，笔记本和更多！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "1,606",
+            "forks": "415",
+            "language": "",
+            "stars_today": "286 stars today"
+        },
+        {
+            "zh_des": "一个自由轻量级的Android流媒体前端。",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "name": "TeamNewPipe /NewPipe",
+            "description": "A libre lightweight streaming front-end for Android.",
+            "stars": "28,094",
+            "forks": "2,875",
+            "language": "Java",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "Serenity操作系统🐞",
+            "url": "https://github.com/SerenityOS/serenity",
+            "name": "SerenityOS /serenity",
+            "description": "The Serenity Operating System 🐞",
+            "stars": "28,131",
+            "forks": "2,998",
+            "language": "C++",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "计算机的自然语言接口",
+            "url": "https://github.com/KillianLucas/open-interpreter",
+            "name": "KillianLucas /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "41,958",
+            "forks": "3,684",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "OpenDevin：代码更少，制造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "OpenDevin: Code Less, Make More",
+            "stars": "1,632",
+            "forks": "110",
+            "language": "TypeScript",
+            "stars_today": "216 stars today"
+        },
+        {
+            "zh_des": "💽 为Tmux制作舒缓粉彩主题！",
+            "url": "https://github.com/catppuccin/tmux",
+            "name": "catppuccin /tmux",
+            "description": "💽 Soothing pastel theme for Tmux!",
+            "stars": "1,053",
+            "forks": "372",
+            "language": "Shell",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "软件开发者组合网站使用next.js和tailwind CSS构建，帮助您展示作为软件开发人员的工作和技能。",
+            "url": "https://github.com/said7388/developer-portfolio",
+            "name": "said7388 /developer-portfolio",
+            "description": "Software Developer Portfolio Website built with next.js and tailwind CSS that helps you showcase your work and skills as a software developer.",
+            "stars": "629",
+            "forks": "183",
+            "language": "JavaScript",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱管理器和膳食规划器，具有RestAPI后端和一个内置于Vue的反应式前端应用程序，为全家人提供愉快的用户体验。通过提供URL，轻松地将食谱添加到您的数据库中，mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "4,733",
+            "forks": "510",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        }
+    ]
+}
