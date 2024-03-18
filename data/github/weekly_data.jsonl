@@ -30992,3 +30992,257 @@
         }
     ]
 }
+{
+    "03月18日": [
+        {
+            "zh_des": "fabric是一个开源框架，用于使用人工智能增强人类。它提供了一个模块化的框架，用于使用一组众包的人工智能提示来解决特定问题，这些提示可以在任何地方使用。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,473",
+            "forks": "858",
+            "language": "Python",
+            "stars_today": "2,550 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "23,886",
+            "forks": "2,251",
+            "language": "Python",
+            "stars_today": "1,444 stars this week"
+        },
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "5,148",
+            "forks": "867",
+            "language": "Python",
+            "stars_today": "1,716 stars this week"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：给定一行需求，返回PRD，Design，Tasks，Repo",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "36,278",
+            "forks": "4,234",
+            "language": "Python",
+            "stars_today": "1,221 stars this week"
+        },
+        {
+            "zh_des": "快2—5倍QLoRA和LoRA微调内存减少70%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "2-5X faster 70% less memory QLoRA & LoRA finetuning",
+            "stars": "4,523",
+            "forks": "206",
+            "language": "Python",
+            "stars_today": "538 stars this week"
+        },
+        {
+            "zh_des": "由developers@01—ai从头开始训练的一系列大型语言模型",
+            "url": "https://github.com/01-ai/Yi",
+            "name": "01-ai /Yi",
+            "description": "A series of large language models trained from scratch by developers@01-ai",
+            "stars": "6,850",
+            "forks": "402",
+            "language": "Python",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "Fluence开发人员奖励此存储库允许开发人员为Fluence开发人员奖励申请生成证明签名",
+            "url": "https://github.com/fluencelabs/dev-rewards",
+            "name": "fluencelabs /dev-rewards",
+            "description": "Fluence Developer RewardsThis repo allows the one to generate proof signature for Fluence dev reward claiming",
+            "stars": "337",
+            "forks": "212",
+            "language": "Python",
+            "stars_today": "192 stars this week"
+        },
+        {
+            "zh_des": "统一100 + LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "13,441",
+            "forks": "1,650",
+            "language": "Python",
+            "stars_today": "552 stars this week"
+        },
+        {
+            "zh_des": "使用GPT的强大功能与您的文档交互，100%私密，无数据泄露",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "49,100",
+            "forks": "6,488",
+            "language": "Python",
+            "stars_today": "720 stars this week"
+        },
+        {
+            "zh_des": "指定你想要它构建什么，AI要求澄清，然后构建它。",
+            "url": "https://github.com/gpt-engineer-org/gpt-engineer",
+            "name": "gpt-engineer-org /gpt-engineer",
+            "description": "Specify what you want it to build, the AI asks for clarification, and then builds it.",
+            "stars": "49,722",
+            "forks": "6,454",
+            "language": "Python",
+            "stars_today": "247 stars this week"
+        },
+        {
+            "zh_des": "Qlib是一个以人工智能为导向的量化投资平台，旨在利用人工智能技术在量化投资中发挥潜力，赋能研究，并创造价值，从探索创意到实施产品。Qlib支持多种机器学习建模范式。包括监督学习、市场动态建模和RL。",
+            "url": "https://github.com/microsoft/qlib",
+            "name": "microsoft /qlib",
+            "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+            "stars": "13,941",
+            "forks": "2,413",
+            "language": "Python",
+            "stars_today": "367 stars this week"
+        },
+        {
+            "zh_des": "Open—Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "5,203",
+            "forks": "472",
+            "language": "Python",
+            "stars_today": "503 stars this week"
+        },
+        {
+            "zh_des": "注：（现行）第6版",
+            "url": "https://github.com/baker-laboratory/RoseTTAFold-All-Atom",
+            "name": "baker-laboratory /RoseTTAFold-All-Atom",
+            "description": "NOTE: (current) version 6",
+            "stars": "307",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "91 stars this week"
+        },
+        {
+            "zh_des": "官方Pytorch存储库用于通过加法量化实现大型语言模型的极限压缩https：//www.example.com",
+            "url": "https://github.com/Vahe1994/AQLM",
+            "name": "Vahe1994 /AQLM",
+            "description": "Official Pytorch repository for Extreme Compression of Large Language Models via Additive Quantizationhttps://arxiv.org/pdf/2401.06118.pdf",
+            "stars": "747",
+            "forks": "147",
+            "language": "Python",
+            "stars_today": "439 stars this week"
+        },
+        {
+            "zh_des": "一个具有附加特性和修复的youtube—dl分支",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A youtube-dl fork with additional features and fixes",
+            "stars": "68,164",
+            "forks": "5,409",
+            "language": "Python",
+            "stars_today": "614 stars this week"
+        },
+        {
+            "zh_des": "让大型人工智能模型更便宜、更快、更容易获得",
+            "url": "https://github.com/hpcaitech/ColossalAI",
+            "name": "hpcaitech /ColossalAI",
+            "description": "Making large AI models cheaper, faster and more accessible",
+            "stars": "36,812",
+            "forks": "4,130",
+            "language": "Python",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "用于合并预训练的大型语言模型的工具。",
+            "url": "https://github.com/arcee-ai/mergekit",
+            "name": "arcee-ai /mergekit",
+            "description": "Tools for merging pretrained large language models.",
+            "stars": "2,641",
+            "forks": "206",
+            "language": "Python",
+            "stars_today": "132 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "58,056",
+            "forks": "6,620",
+            "language": "Python",
+            "stars_today": "711 stars this week"
+        },
+        {
+            "zh_des": "分布式容错任务队列",
+            "url": "https://github.com/hatchet-dev/hatchet",
+            "name": "hatchet-dev /hatchet",
+            "description": "A distributed, fault-tolerant task queue",
+            "stars": "2,478",
+            "forks": "83",
+            "language": "Python",
+            "stars_today": "732 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai提供的高质量多语言文本到语音库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "2,698",
+            "forks": "308",
+            "language": "Python",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "[CVPR'24]高斯溅射SLAM",
+            "url": "https://github.com/muskie82/MonoGS",
+            "name": "muskie82 /MonoGS",
+            "description": "[CVPR'24] Gaussian Splatting SLAM",
+            "stars": "592",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "128 stars this week"
+        },
+        {
+            "zh_des": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "55,243",
+            "forks": "10,263",
+            "language": "Python",
+            "stars_today": "372 stars this week"
+        },
+        {
+            "zh_des": "galore",
+            "url": "https://github.com/jiaweizzhao/GaLore",
+            "name": "jiaweizzhao /GaLore",
+            "description": "GaLore",
+            "stars": "797",
+            "forks": "80",
+            "language": "Python",
+            "stars_today": "278 stars this week"
+        },
+        {
+            "zh_des": "SuperAGI—一个开发者第一个开源自主AI代理框架。️使开发人员能够快速可靠地构建、管理和运行有用的自治代理。",
+            "url": "https://github.com/TransformerOptimus/SuperAGI",
+            "name": "TransformerOptimus /SuperAGI",
+            "description": "<⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.",
+            "stars": "14,061",
+            "forks": "1,670",
+            "language": "Python",
+            "stars_today": "126 stars this week"
+        },
+        {
+            "zh_des": "构建高质量的LLM应用程序—从原型设计、测试到生产部署和监控。",
+            "url": "https://github.com/microsoft/promptflow",
+            "name": "microsoft /promptflow",
+            "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+            "stars": "7,647",
+            "forks": "599",
+            "language": "Python",
+            "stars_today": "88 stars this week"
+        }
+    ]
+}

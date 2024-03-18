@@ -21334,3 +21334,257 @@
         }
     ]
 }
+{
+    "03月18日": [
+        {
+            "zh_des": "LangChain공식文档、食谱、그밖의실용예제를바탕으로작성한한국어튜토리얼입니다。본튜토리얼을통해Lang Chain을더쉽고효과적으로사용하는방법을배울수있습니다.",
+            "url": "https://github.com/teddylee777/langchain-kr",
+            "name": "teddylee777 /langchain-kr",
+            "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+            "stars": "229",
+            "forks": "45",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "该项目分析视频中的网球运动员，以测量他们的速度、击球速度和击球次数。该项目将使用YOLO检测球员和网球，并使用CNN来提取球场关键点。这个动手项目是完善您的机器学习和计算机视觉技能的完美选择。",
+            "url": "https://github.com/abdullahtarek/tennis_analysis",
+            "name": "abdullahtarek /tennis_analysis",
+            "description": "This project analyzes Tennis players in a video to measure their speed, ball shot speed and number of shots. This project will detect players and the tennis ball using YOLO and also utilizes CNNs to extract court keypoints. This hands on project is perfect for polishing your machine learning, and computer vision skills.",
+            "stars": "82",
+            "forks": "36",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "论文《StreamMultiDiffulation：基于区域的语义控制的实时交互生成》的官方代码。",
+            "url": "https://github.com/ironjr/StreamMultiDiffusion",
+            "name": "ironjr /StreamMultiDiffusion",
+            "description": "Official code for the paper \"StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.\"",
+            "stars": "113",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,165",
+            "forks": "2,755",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "7,140",
+            "forks": "2,323",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "7,833",
+            "forks": "1,028",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "5,764",
+            "forks": "2,349",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于强化学习的精灵宝可梦红",
+            "url": "https://github.com/PWhiddy/PokemonRedExperiments",
+            "name": "PWhiddy /PokemonRedExperiments",
+            "description": "Playing Pokemon Red with Reinforcement Learning",
+            "stars": "6,388",
+            "forks": "544",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一种用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "16,726",
+            "forks": "913",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,767",
+            "forks": "4,625",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "18,619",
+            "forks": "3,083",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "关于leetcode溢价的公司智慧问题列表。公司目录中的每个CSV文件都对应于基于leetcode公司标签的特定公司的leetcode问题列表。自2022年5月起更新。",
+            "url": "https://github.com/hxu296/leetcode-company-wise-problems-2022",
+            "name": "hxu296 /leetcode-company-wise-problems-2022",
+            "description": "Lists of company wise questions available on leetcode premium. Every csv file in the companies directory corresponds to a list of questions on leetcode for a specific company based on the leetcode company tags. Updated as of May, 2022.",
+            "stars": "3,627",
+            "forks": "947",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "YSDA自然语言处理课程",
+            "url": "https://github.com/yandexdataschool/nlp_course",
+            "name": "yandexdataschool /nlp_course",
+            "description": "YSDA course in Natural Language Processing",
+            "stars": "9,362",
+            "forks": "2,494",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "华为诺亚方舟实验室开发的贝叶斯优化与强化学习库",
+            "url": "https://github.com/huawei-noah/HEBO",
+            "name": "huawei-noah /HEBO",
+            "description": "Bayesian optimisation & Reinforcement Learning library developped by Huawei Noah's Ark Lab",
+            "stars": "2,692",
+            "forks": "498",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一种高质量的动漫视频实时扩充器",
+            "url": "https://github.com/bloc97/Anime4K",
+            "name": "bloc97 /Anime4K",
+            "description": "A High-Quality Real Time Upscaler for Anime Video",
+            "stars": "17,604",
+            "forks": "1,327",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "木星笔记本",
+            "url": "https://github.com/YBIFoundation/Fundamental",
+            "name": "YBIFoundation /Fundamental",
+            "description": "Jupyter Notebook",
+            "stars": "1,204",
+            "forks": "434",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "《机器学习的数学》一书的配套网页",
+            "url": "https://github.com/mml-book/mml-book.github.io",
+            "name": "mml-book /mml-book.github.io",
+            "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+            "stars": "12,252",
+            "forks": "2,318",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "各种深度学习架构、模型和技巧的集合",
+            "url": "https://github.com/rasbt/deeplearning-models",
+            "name": "rasbt /deeplearning-models",
+            "description": "A collection of various deep learning architectures, models, and tips",
+            "stars": "16,233",
+            "forks": "3,962",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一本计算机科学教科书",
+            "url": "https://github.com/algorithmica-org/algorithmica",
+            "name": "algorithmica-org /algorithmica",
+            "description": "A computer science textbook",
+            "stars": "2,932",
+            "forks": "276",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "支持我在https://bratanic-tomaz.medium.com/上发表的图表数据科学博客文章的Jupyter笔记本",
+            "url": "https://github.com/tomasonjo/blogs",
+            "name": "tomasonjo /blogs",
+            "description": "Jupyter notebooks that support my graph data science blog posts athttps://bratanic-tomaz.medium.com/",
+            "stars": "735",
+            "forks": "240",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "注重质量的多语音TTS系统",
+            "url": "https://github.com/neonbjb/tortoise-tts",
+            "name": "neonbjb /tortoise-tts",
+            "description": "A multi-voice TTS system trained with an emphasis on quality",
+            "stars": "11,348",
+            "forks": "1,608",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "2021年的🐍完整的巨蟒职业训练营",
+            "url": "https://github.com/lenargasimov/100-days-of-python",
+            "name": "lenargasimov /100-days-of-python",
+            "description": "🐍 The Complete Python Pro Bootcamp for 2021",
+            "stars": "229",
+            "forks": "127",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "微调Whisper以获得动态音频上下文健壮性我们的想法是能够在Whisper中设置AUDIO_CTX参数",
+            "url": "https://github.com/futo-org/whisper-acft",
+            "name": "futo-org /whisper-acft",
+            "description": "Finetuning Whisper for dynamic audio context robustnessThe idea is to be able to set the audio_ctx parameter in whisper",
+            "stars": "23",
+            "forks": "1",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "驯服变压器以实现高分辨率图像合成",
+            "url": "https://github.com/CompVis/taming-transformers",
+            "name": "CompVis /taming-transformers",
+            "description": "Taming Transformers for High-Resolution Image Synthesis",
+            "stars": "5,233",
+            "forks": "1,064",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "2,520",
+            "forks": "1,690",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
