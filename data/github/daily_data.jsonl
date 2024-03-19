@@ -33875,3 +33875,257 @@
         }
     ]
 }
+{
+    "03月19日": [
+        {
+            "zh_des": "Grok开放释放",
+            "url": "https://github.com/xai-org/grok-1",
+            "name": "xai-org /grok-1",
+            "description": "Grok open release",
+            "stars": "34,586",
+            "forks": "5,565",
+            "language": "Python",
+            "stars_today": "12,940 stars today"
+        },
+        {
+            "zh_des": "Open—Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "8,332",
+            "forks": "742",
+            "language": "Python",
+            "stars_today": "1,621 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "8,919",
+            "forks": "1,473",
+            "language": "",
+            "stars_today": "2,994 stars today"
+        },
+        {
+            "zh_des": "我们编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "10,897",
+            "forks": "855",
+            "language": "Python",
+            "stars_today": "626 stars today"
+        },
+        {
+            "zh_des": "OpenAI Grok曲线实验",
+            "url": "https://github.com/openai/grok",
+            "name": "openai /grok",
+            "description": "OpenAI Grok Curve Experiments",
+            "stars": "3,439",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "1,465 stars today"
+        },
+        {
+            "zh_des": "Chronos：用于概率时间序列预测的预训练（语言）模型",
+            "url": "https://github.com/amazon-science/chronos-forecasting",
+            "name": "amazon-science /chronos-forecasting",
+            "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+            "stars": "778",
+            "forks": "130",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：提供人工智能软件公司，走向自然语言编程",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming",
+            "stars": "36,758",
+            "forks": "4,322",
+            "language": "Python",
+            "stars_today": "420 stars today"
+        },
+        {
+            "zh_des": "逆向工程：用大型语言模型反编译二进制代码",
+            "url": "https://github.com/albertan017/LLM4Decompile",
+            "name": "albertan017 /LLM4Decompile",
+            "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+            "stars": "1,509",
+            "forks": "80",
+            "language": "Python",
+            "stars_today": "326 stars today"
+        },
+        {
+            "zh_des": "使用GPT的强大功能与您的文档交互，100%私密，无数据泄露",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "49,575",
+            "forks": "6,573",
+            "language": "Python",
+            "stars_today": "350 stars today"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "24,477",
+            "forks": "2,341",
+            "language": "Python",
+            "stars_today": "478 stars today"
+        },
+        {
+            "zh_des": "概念证明原型，用于生成和查询不断扩展的知识图与人工智能",
+            "url": "https://github.com/yoheinakajima/mindgraph",
+            "name": "yoheinakajima /mindgraph",
+            "description": "proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai",
+            "stars": "454",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Python + NumPy程序的可组合转换：区分、向量化、JIT到GPU/TPU等",
+            "url": "https://github.com/google/jax",
+            "name": "google /jax",
+            "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+            "stars": "27,269",
+            "forks": "2,492",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "本项目旨在复制Sora（Open AI T2V模型），但我们的资源有限。我们衷心希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "6,010",
+            "forks": "535",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "使用函数调用构建人工智能助理，并将LLM连接到外部工具。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with function calling and connect LLMs to external tools.",
+            "stars": "2,772",
+            "forks": "287",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "清晰度放大器：为每个人重新设想图像放大",
+            "url": "https://github.com/philz1337x/clarity-upscaler",
+            "name": "philz1337x /clarity-upscaler",
+            "description": "Clarity-Upscaler: Reimagined image upscaling for everyone",
+            "stars": "1,296",
+            "forks": "138",
+            "language": "Python",
+            "stars_today": "467 stars today"
+        },
+        {
+            "zh_des": "David Attenborough讲述你的生活",
+            "url": "https://github.com/cbh123/narrator",
+            "name": "cbh123 /narrator",
+            "description": "David Attenborough narrates your life",
+            "stars": "4,141",
+            "forks": "513",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "👋 嘿，新毕业生不喜欢！🎉我们已经为SWE，Quantant，PM和技术职位在2024年收集了一系列全职职位空缺！🚀",
+            "url": "https://github.com/ReaVNaiL/New-Grad-2024",
+            "name": "ReaVNaiL /New-Grad-2024",
+            "description": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀",
+            "stars": "5,613",
+            "forks": "517",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用LLM和计算机视觉自动化基于浏览器的工作流程",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "2,659",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "356 stars today"
+        },
+        {
+            "zh_des": "JumpServer是一个开源的防火墙，是符合4A规范的专业运动安全审核系统.",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "name": "jumpserver /jumpserver",
+            "description": "JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。",
+            "stars": "23,307",
+            "forks": "5,163",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "机器学习容器",
+            "url": "https://github.com/replicate/cog",
+            "name": "replicate /cog",
+            "description": "Containers for machine learning",
+            "stars": "6,805",
+            "forks": "460",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "DynamiCrafter：使用视频扩散先验创建开放域图像动画",
+            "url": "https://github.com/Doubiiu/DynamiCrafter",
+            "name": "Doubiiu /DynamiCrafter",
+            "description": "DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors",
+            "stars": "1,186",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱管理器和膳食规划器，具有RestAPI后端和一个内置于Vue的反应式前端应用程序，为全家人提供愉快的用户体验。通过提供URL，轻松地将食谱添加到您的数据库中，mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "4,861",
+            "forks": "520",
+            "language": "Python",
+            "stars_today": "251 stars today"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLM API。使用Bedrock，Azure，OpenAI，Cohere，Anthropic，Olama，Sagemaker，HuggingFace，Copy（100 + LLM）",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+            "stars": "6,599",
+            "forks": "722",
+            "language": "Python",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "Supir升级包装器用于ComfyUI",
+            "url": "https://github.com/kijai/ComfyUI-SUPIR",
+            "name": "kijai /ComfyUI-SUPIR",
+            "description": "SUPIR upscaling wrapper for ComfyUI",
+            "stars": "637",
+            "forks": "25",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "把任何脸变成一个视频游戏角色，像素艺术，粘土，3D或玩具",
+            "url": "https://github.com/fofr/cog-face-to-many",
+            "name": "fofr /cog-face-to-many",
+            "description": "Turn any face into a video game character, pixel art, claymation, 3D or toy",
+            "stars": "260",
+            "forks": "56",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        }
+    ]
+}

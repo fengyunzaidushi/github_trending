@@ -22096,3 +22096,257 @@
         }
     ]
 }
+{
+    "03月19日": [
+        {
+            "zh_des": "实用数据工程：实用房地产项目指南",
+            "url": "https://github.com/sspaeti-com/practical-data-engineering",
+            "name": "sspaeti-com /practical-data-engineering",
+            "description": "Practical Data Engineering: A Hands-On Real-Estate Project Guide",
+            "stars": "390",
+            "forks": "68",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "The results showed that the results of the results.",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于AutoDL快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "1,067",
+            "forks": "136",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型（LLM）的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "26,421",
+            "forks": "2,623",
+            "language": "Jupyter Notebook",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "分割医学图像中的任何东西",
+            "url": "https://github.com/bowang-lab/MedSAM",
+            "name": "bowang-lab /MedSAM",
+            "description": "Segment Anything in Medical Images",
+            "stars": "1,979",
+            "forks": "238",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "这个项目是机器学习（Machine Learning），深度学习（Deep Learning），NLP面试中通常会学到的知识点和代码实现，也是作为一个计算机工程师必会的理论基础知识.",
+            "url": "https://github.com/NLP-LOVE/ML-NLP",
+            "name": "NLP-LOVE /ML-NLP",
+            "description": "此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。",
+            "stars": "14,930",
+            "forks": "4,443",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "存储库提供了使用SegmentAnything Model（SAM）运行推理的代码、下载训练过的模型检查点的链接以及演示如何使用模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "43,110",
+            "forks": "5,051",
+            "language": "Jupyter Notebook",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "推荐系统入门教程，在线阅读地址：https：//www.example.com",
+            "url": "https://github.com/datawhalechina/fun-rec",
+            "name": "datawhalechina /fun-rec",
+            "description": "推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/",
+            "stars": "3,221",
+            "forks": "696",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "图书目录_1_《程序不易》|jamin尾花书：从添加删除到机器学习；请许多批发指南！",
+            "url": "https://github.com/Visualize-ML/Book1_Python-For-Beginners",
+            "name": "Visualize-ML /Book1_Python-For-Beginners",
+            "description": "Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；请多多批评指正！",
+            "stars": "3,068",
+            "forks": "563",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]用于实时动态场景渲染的4D高斯溅射",
+            "url": "https://github.com/hustvl/4DGaussians",
+            "name": "hustvl /4DGaussians",
+            "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+            "stars": "1,509",
+            "forks": "109",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式AI教程构建https：//www.example.com🔗",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "29,837",
+            "forks": "17,872",
+            "language": "Jupyter Notebook",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "AI in—a—Box",
+            "url": "https://github.com/Azure/AI-in-a-Box",
+            "name": "Azure /AI-in-a-Box",
+            "description": "AI-in-a-Box",
+            "stars": "259",
+            "forks": "90",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "使用TensorFlow从零到掌握深度学习课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,790",
+            "forks": "2,361",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Google DeepMind的LLM",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "1,773",
+            "forks": "215",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Agentic AI的编程框架。加入我们的Discord：www.example.com",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "23,088",
+            "forks": "3,160",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "PyTorch代码和DINOv2自监督学习方法的模型。",
+            "url": "https://github.com/facebookresearch/dinov2",
+            "name": "facebookresearch /dinov2",
+            "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+            "stars": "7,525",
+            "forks": "593",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "“StreamMultiDiffusion：Real—Time Interactive Generation with Region—Based Semantic Control”（基于区域的语义控制）。”",
+            "url": "https://github.com/ironjr/StreamMultiDiffusion",
+            "name": "ironjr /StreamMultiDiffusion",
+            "description": "Official code for the paper \"StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.\"",
+            "stars": "138",
+            "forks": "10",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "使用笔记本，帮助您掌握松果矢量数据库",
+            "url": "https://github.com/pinecone-io/examples",
+            "name": "pinecone-io /examples",
+            "description": "Jupyter Notebooks to help you get hands-on with Pinecone vector databases",
+            "stars": "2,333",
+            "forks": "902",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "基于kohya—ss和Linaqruf的工作，用于Stable Diffusion Lora训练的可靠Google Colab笔记本",
+            "url": "https://github.com/hollowstrawberry/kohya-colab",
+            "name": "hollowstrawberry /kohya-colab",
+            "description": "Accessible Google Colab notebooks for Stable Diffusion Lora training, based on the work of kohya-ss and Linaqruf",
+            "stars": "455",
+            "forks": "62",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用一个开源训练库轻松训练或微调SOTA计算机视觉模型。Yolo—NAS的家",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,266",
+            "forks": "467",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "FullStackRetrievalSignup for FullStackRetrieval",
+            "url": "https://github.com/FullStackRetrieval-com/RetrievalTutorials",
+            "name": "FullStackRetrieval-com /RetrievalTutorials",
+            "description": "Full Stack RetrievalSignup for Full Stack Retrieval at FullStackRetrieval",
+            "stars": "217",
+            "forks": "28",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "RAG From ScrechRetrieval augmentation generation（RAG）是一种将LLM与外部数据源连接起来的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "237",
+            "forks": "55",
+            "language": "Jupyter Notebook",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "免费数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,821",
+            "forks": "4,632",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "机器学习应用程序的软件设计原则",
+            "url": "https://github.com/aai-institute/beyond-jupyter",
+            "name": "aai-institute /beyond-jupyter",
+            "description": "Software design principles for machine learning applications",
+            "stars": "119",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "官方代码库用于开发Vision Transformer、SigLIP、MLP—Mixer、LiT等。",
+            "url": "https://github.com/google-research/big_vision",
+            "name": "google-research /big_vision",
+            "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+            "stars": "1,447",
+            "forks": "96",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的Generative AI示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud",
+            "stars": "4,995",
+            "forks": "1,128",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
