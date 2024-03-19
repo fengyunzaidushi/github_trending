@@ -31708,3 +31708,257 @@
         }
     ]
 }
+{
+    "03月19日": [
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "20,499",
+            "forks": "3,381",
+            "language": "TypeScript",
+            "stars_today": "5,510 stars this week"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "70,896",
+            "forks": "8,815",
+            "language": "Java",
+            "stars_today": "5,838 stars this week"
+        },
+        {
+            "zh_des": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "8,149",
+            "forks": "1,326",
+            "language": "Python",
+            "stars_today": "4,551 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "24,297",
+            "forks": "2,322",
+            "language": "Python",
+            "stars_today": "1,863 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "8,594",
+            "forks": "871",
+            "language": "Python",
+            "stars_today": "2,626 stars this week"
+        },
+        {
+            "zh_des": "使用与Rollup兼容的API的快速Rust捆绑器。",
+            "url": "https://github.com/rolldown/rolldown",
+            "name": "rolldown /rolldown",
+            "description": "Fast Rust bundler for JavaScript with Rollup-compatible API.",
+            "stars": "5,739",
+            "forks": "341",
+            "language": "Rust",
+            "stars_today": "1,290 stars this week"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,335",
+            "forks": "1,121",
+            "language": "HTML",
+            "stars_today": "1,599 stars this week"
+        },
+        {
+            "zh_des": "OpenGFW是一个灵活、易用、开源的中国长城防火墙在Linux上的实现",
+            "url": "https://github.com/apernet/OpenGFW",
+            "name": "apernet /OpenGFW",
+            "description": "OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux",
+            "stars": "8,410",
+            "forks": "632",
+            "language": "Go",
+            "stars_today": "1,701 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：给定一行需求，返回PRD、设计、任务、回购",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo",
+            "stars": "36,619",
+            "forks": "4,296",
+            "language": "Python",
+            "stars_today": "1,668 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "16,561",
+            "forks": "736",
+            "language": "JavaScript",
+            "stars_today": "2,086 stars this week"
+        },
+        {
+            "zh_des": "速度提高2-5倍，内存减少70%QLoRA和Lora优化",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "2-5X faster 70% less memory QLoRA & LoRA finetuning",
+            "stars": "4,649",
+            "forks": "210",
+            "language": "Python",
+            "stars_today": "520 stars this week"
+        },
+        {
+            "zh_des": "Fay是一个开源的数字人类框架，集成了语言模型和数字字符。它为不同的应用提供零售、助理和代理版本，如虚拟导购、广播、助理、服务员、教师和基于语音或文本的移动助理。",
+            "url": "https://github.com/xszyou/Fay",
+            "name": "xszyou /Fay",
+            "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+            "stars": "7,448",
+            "forks": "1,535",
+            "language": "",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "IP2Region(2.0-xdb)是一个离线IP地址管理框架和定位器，支持数十亿个数据段，十微秒的搜索性能。多种编程语言的XDB引擎实现",
+            "url": "https://github.com/lionsoul2014/ip2region",
+            "name": "lionsoul2014 /ip2region",
+            "description": "Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages",
+            "stars": "15,511",
+            "forks": "2,638",
+            "language": "Go",
+            "stars_today": "458 stars this week"
+        },
+        {
+            "zh_des": "开放源码开发环境管理器。",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "4,523",
+            "forks": "156",
+            "language": "Go",
+            "stars_today": "1,078 stars this week"
+        },
+        {
+            "zh_des": "使用JavaScript、HTML和CSS构建跨平台桌面应用程序",
+            "url": "https://github.com/electron/electron",
+            "name": "electron /electron",
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "stars": "111,479",
+            "forks": "14,821",
+            "language": "C++",
+            "stars_today": "515 stars this week"
+        },
+        {
+            "zh_des": "打造一支数百人的团队_",
+            "url": "https://github.com/appwrite/appwrite",
+            "name": "appwrite /appwrite",
+            "description": "Build like a team of hundreds_",
+            "stars": "40,402",
+            "forks": "3,638",
+            "language": "TypeScript",
+            "stars_today": "425 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,457",
+            "forks": "9,709",
+            "language": "C++",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "启用IBC的合同模板启动器，稳固，可与Vibc-core-Smart-Contents一起使用",
+            "url": "https://github.com/open-ibc/ibc-app-solidity-template",
+            "name": "open-ibc /ibc-app-solidity-template",
+            "description": "Template starter for IBC enabled contracts in Solidity for use with vibc-core-smart-contracts",
+            "stars": "322",
+            "forks": "744",
+            "language": "JavaScript",
+            "stars_today": "170 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "32,756",
+            "forks": "1,645",
+            "language": "Dart",
+            "stars_today": "2,074 stars this week"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "10,309",
+            "forks": "469",
+            "language": "C++",
+            "stars_today": "411 stars this week"
+        },
+        {
+            "zh_des": "ApacheDubbo的Java实现。RPC和微服务框架。",
+            "url": "https://github.com/apache/dubbo",
+            "name": "apache /dubbo",
+            "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+            "stars": "39,898",
+            "forks": "26,215",
+            "language": "Java",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLMAPI。使用BedRock、Azure、OpenAI、Cohery、Anthropic、Ollama、Sagemaker、HuggingFace、Replate(100+LLMS)",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+            "stars": "6,552",
+            "forks": "717",
+            "language": "Python",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "13,053",
+            "forks": "904",
+            "language": "TypeScript",
+            "stars_today": "1,751 stars this week"
+        },
+        {
+            "zh_des": "24节课，12周，作为Web开发人员入门",
+            "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+            "name": "microsoft /Web-Dev-For-Beginners",
+            "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+            "stars": "80,970",
+            "forks": "12,117",
+            "language": "JavaScript",
+            "stars_today": "310 stars this week"
+        },
+        {
+            "zh_des": "使用GPT的功能与您的文档进行交互，100%私密，不会泄露数据",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "49,416",
+            "forks": "6,538",
+            "language": "Python",
+            "stars_today": "971 stars this week"
+        }
+    ]
+}
