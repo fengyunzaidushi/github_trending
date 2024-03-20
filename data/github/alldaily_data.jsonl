@@ -34880,3 +34880,257 @@
         }
     ]
 }
+{
+    "03月20日": [
+        {
+            "zh_des": "Grok开放释放",
+            "url": "https://github.com/xai-org/grok-1",
+            "name": "xai-org /grok-1",
+            "description": "Grok open release",
+            "stars": "37,964",
+            "forks": "6,180",
+            "language": "Python",
+            "stars_today": "12,591 stars today"
+        },
+        {
+            "zh_des": "Open—Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "9,862",
+            "forks": "865",
+            "language": "Python",
+            "stars_today": "1,615 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "9,051",
+            "forks": "1,658",
+            "language": "",
+            "stars_today": "2,996 stars today"
+        },
+        {
+            "zh_des": "我们编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "11,204",
+            "forks": "894",
+            "language": "Python",
+            "stars_today": "630 stars today"
+        },
+        {
+            "zh_des": "OpenAI Grok曲线实验",
+            "url": "https://github.com/openai/grok",
+            "name": "openai /grok",
+            "description": "OpenAI Grok Curve Experiments",
+            "stars": "3,610",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "1,446 stars today"
+        },
+        {
+            "zh_des": "Chronos：用于概率时间序列预测的预训练（语言）模型",
+            "url": "https://github.com/amazon-science/chronos-forecasting",
+            "name": "amazon-science /chronos-forecasting",
+            "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+            "stars": "905",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：提供人工智能软件公司，走向自然语言编程",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: Providing AI Software Company, Towards Natural Language Programming",
+            "stars": "36,909",
+            "forks": "4,348",
+            "language": "Python",
+            "stars_today": "419 stars today"
+        },
+        {
+            "zh_des": "My ComfyUI工作流集合|我的ComfyUI工作流集合",
+            "url": "https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO",
+            "name": "ZHO-ZHO-ZHO /ComfyUI-Workflows-ZHO",
+            "description": "我的 ComfyUI 工作流合集 | My ComfyUI workflows collection",
+            "stars": "1,387",
+            "forks": "143",
+            "language": "",
+            "stars_today": "244 stars today"
+        },
+        {
+            "zh_des": "逆向工程：用大型语言模型反编译二进制代码",
+            "url": "https://github.com/albertan017/LLM4Decompile",
+            "name": "albertan017 /LLM4Decompile",
+            "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+            "stars": "1,673",
+            "forks": "106",
+            "language": "Python",
+            "stars_today": "330 stars today"
+        },
+        {
+            "zh_des": "翻译—科学网上，自由网上，免费科学网上，免费翻译，油管youtube，fanqiang，VPN，一个关键的搜索浏览器，vps关键的搜索服务器教程/教程，免费shadowsocks/ssr/v2 ray/gofflyway搜索号/点，翻译子，电脑，手机，iOS，安卓，windows，Mac，Linux，路由器，科学网上",
+            "url": "https://github.com/Alvin9999/new-pac",
+            "name": "Alvin9999 /new-pac",
+            "description": "翻墙-科学上网、自由上网、免费科学上网、免费翻墙、油管youtube、fanqiang、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网",
+            "stars": "50,847",
+            "forks": "8,957",
+            "language": "",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "使用任何LML—Continue编程的最简单方法是VS Code和JetBrains的开源自动驾驶仪。",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "9,189",
+            "forks": "504",
+            "language": "TypeScript",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "一个巨大的网站封锁列表，包含人工智能生成的uBlock Origin和uBlacklist的内容。",
+            "url": "https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist",
+            "name": "laylavish /uBlockOrigin-HUGE-AI-Blocklist",
+            "description": "A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.",
+            "stars": "468",
+            "forks": "34",
+            "language": "",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "使用GPT的强大功能与您的文档交互，100%私密，无数据泄露",
+            "url": "https://github.com/imartinez/privateGPT",
+            "name": "imartinez /privateGPT",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "49,702",
+            "forks": "6,597",
+            "language": "Python",
+            "stars_today": "350 stars today"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "24,654",
+            "forks": "2,363",
+            "language": "Python",
+            "stars_today": "478 stars today"
+        },
+        {
+            "zh_des": "概念证明原型，用于生成和查询不断扩展的知识图与人工智能",
+            "url": "https://github.com/yoheinakajima/mindgraph",
+            "name": "yoheinakajima /mindgraph",
+            "description": "proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai",
+            "stars": "528",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "您需要的表格",
+            "url": "https://github.com/ianand/spreadsheets-are-all-you-need",
+            "name": "ianand /spreadsheets-are-all-you-need",
+            "description": "Spreadsheets-are-all-you-need",
+            "stars": "811",
+            "forks": "132",
+            "language": "",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "重新创建Apple iPhone 15 Pro网站，结合GSAP动画和Three.js 3D效果。从自定义动画到动画3D模型，本教程涵盖了所有内容。",
+            "url": "https://github.com/adrianhajdin/iphone",
+            "name": "adrianhajdin /iphone",
+            "description": "Recreate the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects. From custom animations to animated 3D models, this tutorial covers it all.",
+            "stars": "268",
+            "forks": "59",
+            "language": "JavaScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Python + NumPy程序的可组合转换：区分、向量化、JIT到GPU/TPU等",
+            "url": "https://github.com/google/jax",
+            "name": "google /jax",
+            "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+            "stars": "27,358",
+            "forks": "2,501",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "一站式存储库，用于生成人工智能研究更新，采访资源，笔记本和更多！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "1,902",
+            "forks": "451",
+            "language": "",
+            "stars_today": "220 stars today"
+        },
+        {
+            "zh_des": "使用React和Redux构建的工作组实时看板板。",
+            "url": "https://github.com/plankanban/planka",
+            "name": "plankanban /planka",
+            "description": "The realtime kanban board for workgroups built with React and Redux.",
+            "stars": "5,594",
+            "forks": "522",
+            "language": "JavaScript",
+            "stars_today": "851 stars today"
+        },
+        {
+            "zh_des": "拖放UI来构建定制的LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "22,334",
+            "forks": "11,296",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "为开发商准备的瑞士军刀。",
+            "url": "https://github.com/DevToys-app/DevToys",
+            "name": "DevToys-app /DevToys",
+            "description": "A Swiss Army knife for developers.",
+            "stars": "21,739",
+            "forks": "1,174",
+            "language": "C#",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "本项目旨在复制Sora（Open AI T2V模型），但我们的资源有限。我们衷心希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "6,086",
+            "forks": "550",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "Qdrant—高性能，高规模矢量数据库，适用于下一代人工智能。也可以在云中访问https：//www.example.com",
+            "url": "https://github.com/qdrant/qdrant",
+            "name": "qdrant /qdrant",
+            "description": "Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloudhttps://cloud.qdrant.io/",
+            "stars": "17,143",
+            "forks": "1,110",
+            "language": "Rust",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "Playwright是一个Web测试和自动化框架。它允许使用单个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "60,628",
+            "forks": "3,189",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        }
+    ]
+}

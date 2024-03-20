@@ -22350,3 +22350,257 @@
         }
     ]
 }
+{
+    "03月20日": [
+        {
+            "zh_des": "⏩使用任何LLm-Continue进行编码的最简单方法是VS代码和JetBrains的开源自动驾驶仪",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains",
+            "stars": "9,189",
+            "forks": "504",
+            "language": "TypeScript",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "22,334",
+            "forks": "11,296",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "60,629",
+            "forks": "3,189",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "OpenDevin：代码更少，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "OpenDevin: Code Less, Make More",
+            "stars": "2,042",
+            "forks": "141",
+            "language": "TypeScript",
+            "stars_today": "510 stars today"
+        },
+        {
+            "zh_des": "使用Nextjs构建Duolingo克隆，反应，毛毛雨，条纹(2024)这是一个YouTube视频《使用Nextjs，反应，毛毛雨，条纹构建多林戈克隆(2024)》的存储库",
+            "url": "https://github.com/AntonioErdeljac/next14-duolingo-clone",
+            "name": "AntonioErdeljac /next14-duolingo-clone",
+            "description": "Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)This is a repository for a \"Build a Duolingo Clone With Nextjs, React, Drizzle, Stripe (2024)\" youtube video",
+            "stars": "753",
+            "forks": "133",
+            "language": "TypeScript",
+            "stars_today": "166 stars today"
+        },
+        {
+            "zh_des": "捆绑了定制插件(以及内置的广告拦截程序/下载程序)的YouTube音乐桌面应用程序",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "5,798",
+            "forks": "379",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "65,119",
+            "forks": "53,422",
+            "language": "TypeScript",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "23,331",
+            "forks": "4,866",
+            "language": "TypeScript",
+            "stars_today": "554 stars today"
+        },
+        {
+            "zh_des": "用于构建企业应用程序的最佳JavaScript数据表。支持REACT/ANGLINE/VUE/Plain JavaScript。",
+            "url": "https://github.com/ag-grid/ag-grid",
+            "name": "ag-grid /ag-grid",
+            "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+            "stars": "11,593",
+            "forks": "1,764",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/fdundjer/solana-sniper-bot",
+            "name": "fdundjer /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "232",
+            "forks": "140",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "在48小时内让你的网站在谷歌上建立索引的脚本",
+            "url": "https://github.com/goenning/google-indexing-script",
+            "name": "goenning /google-indexing-script",
+            "description": "Script to get your site indexed on Google in less than 48 hours",
+            "stars": "6,348",
+            "forks": "403",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "一个免费的开源修复和图像升级工具，由浏览器上的WebgPU和WASM提供支持。|基于wegpuwasm技术和技术的免费开源修复&扩图工具，纯浏览器端实现。",
+            "url": "https://github.com/lxfater/inpaint-web",
+            "name": "lxfater /inpaint-web",
+            "description": "A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。| 基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。",
+            "stars": "3,436",
+            "forks": "310",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "JITSI Meet-安全、简单且可扩展的视频会议，您可以将其用作独立应用程序或嵌入您的Web应用程序中。",
+            "url": "https://github.com/jitsi/jitsi-meet",
+            "name": "jitsi /jitsi-meet",
+            "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+            "stars": "21,435",
+            "forks": "6,447",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "15,196",
+            "forks": "1,058",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "人体工效学框架",
+            "url": "https://github.com/elysiajs/elysia",
+            "name": "elysiajs /elysia",
+            "description": "Ergonomic Framework for Humans",
+            "stars": "7,316",
+            "forks": "158",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "帮助您构建自适应、可访问和强大的用户体验的库和工具的集合。",
+            "url": "https://github.com/adobe/react-spectrum",
+            "name": "adobe /react-spectrum",
+            "description": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+            "stars": "11,390",
+            "forks": "957",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "14,441",
+            "forks": "2,614",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "一个功能完善的打字特效系统，具有丰富的标准库",
+            "url": "https://github.com/Effect-TS/effect",
+            "name": "Effect-TS /effect",
+            "description": "A fully-fledged functional effect system for TypeScript with a rich standard library",
+            "stars": "3,795",
+            "forks": "136",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🪢开源LLm工程平台。可观察性、指标、评估、提示管理🍊YC W23🤖SDK+针对TypeScrip、PYTHON、OPENAI、LANGCHAIN、LlamaIndex、Litellm的集成",
+            "url": "https://github.com/langfuse/langfuse",
+            "name": "langfuse /langfuse",
+            "description": "🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management 🍊YC W23 🤖 SDKs + integrations for Typescript, Python, OpenAI, Langchain, LlamaIndex, Litellm",
+            "stars": "2,444",
+            "forks": "211",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "Solana应用程序的模块化打字钱包适配器和组件。",
+            "url": "https://github.com/anza-xyz/wallet-adapter",
+            "name": "anza-xyz /wallet-adapter",
+            "description": "Modular TypeScript wallet adapters and components for Solana applications.",
+            "stars": "1,285",
+            "forks": "855",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "一个用于在Raydium上构建应用程序的SDK。",
+            "url": "https://github.com/raydium-io/raydium-sdk",
+            "name": "raydium-io /raydium-sdk",
+            "description": "An SDK for building applications on top of Raydium.",
+            "stars": "192",
+            "forks": "83",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "这是一个完整的Stack应用程序入门程序，设置并配置了基本的东西，让您可以开始运行您的下一个史诗般的想法。",
+            "url": "https://github.com/epicweb-dev/epic-stack",
+            "name": "epicweb-dev /epic-stack",
+            "description": "This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.",
+            "stars": "3,778",
+            "forks": "287",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、LINEAR和ASANA替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "23,375",
+            "forks": "1,184",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "SoraWebui是一个开源的Sora网络客户端，使用户能够使用OpenAI的Sora模型轻松地从文本创建视频。",
+            "url": "https://github.com/SoraWebui/SoraWebui",
+            "name": "SoraWebui /SoraWebui",
+            "description": "SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.",
+            "stars": "1,964",
+            "forks": "402",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "在燃料网络上种植🍅。",
+            "url": "https://github.com/FuelLabs/sway-farm",
+            "name": "FuelLabs /sway-farm",
+            "description": "Farm 🍅 on the Fuel network.",
+            "stars": "974",
+            "forks": "164",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        }
+    ]
+}
