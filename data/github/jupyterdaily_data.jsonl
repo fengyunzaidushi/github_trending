@@ -23440,3 +23440,257 @@
         }
     ]
 }
+{
+    "03月22日": [
+        {
+            "zh_des": "《FeatUp：用于任意分辨率的要素的模型无关框架》的官方代码ICLR 2024",
+            "url": "https://github.com/mhamilton723/FeatUp",
+            "name": "mhamilton723 /FeatUp",
+            "description": "Official code for \"FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution\" ICLR 2024",
+            "stars": "445",
+            "forks": "16",
+            "language": "Jupyter Notebook",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。加入我们的不和：https://discord.gg/pAbnFJrkgZ",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "23,250",
+            "forks": "3,188",
+            "language": "Jupyter Notebook",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "GPT-提示-工程师",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "6,288",
+            "forks": "416",
+            "language": "Jupyter Notebook",
+            "stars_today": "780 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]FRESCO：零镜头视频翻译的时空对应",
+            "url": "https://github.com/williamyang1991/FRESCO",
+            "name": "williamyang1991 /FRESCO",
+            "description": "[CVPR 2024] FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation",
+            "stars": "344",
+            "forks": "20",
+            "language": "Jupyter Notebook",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "此示例包含创建带有Prompt Flow和AI Studio的RAG应用程序的完整End2End过程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI的部署自动化、用于评估和部署的GitHub操作以及用于多个LLM任务映射的意图映射。",
+            "url": "https://github.com/Azure-Samples/contoso-chat",
+            "name": "Azure-Samples /contoso-chat",
+            "description": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+            "stars": "213",
+            "forks": "1,533",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "ScratchRetrival增强生成(RAG)中的RAG是连接LLMS与外部数据源的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "290",
+            "forks": "67",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "100天的算法",
+            "url": "https://github.com/coells/100days",
+            "name": "coells /100days",
+            "description": "100 days of algorithms",
+            "stars": "7,172",
+            "forks": "1,089",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "⚠Leia A期FIXADA！Reposationório do Lab Contribuindo em Um Projeto Open Source no GitHub da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "3,100",
+            "forks": "23,167",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,177",
+            "forks": "2,760",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "使用灵活、健壮且高效的Python包启动您的MLOPS计划。",
+            "url": "https://github.com/fmind/mlops-python-package",
+            "name": "fmind /mlops-python-package",
+            "description": "Kickstart your MLOps initiative with a flexible, robust, and productive Python package.",
+            "stars": "177",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "6,921",
+            "forks": "6,275",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "43,237",
+            "forks": "5,062",
+            "language": "Jupyter Notebook",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "开源人工智能食谱",
+            "url": "https://github.com/huggingface/cookbook",
+            "name": "huggingface /cookbook",
+            "description": "Open-source AI cookbook",
+            "stars": "537",
+            "forks": "89",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "21,453",
+            "forks": "2,919",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "该存储库主要由Omar Santos(@santosomar)维护，包括与道德黑客、漏洞赏金、数字取证和事件响应(DFIR)、人工智能安全、漏洞研究、漏洞开发、逆向工程等相关的数千个资源。",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "name": "The-Art-of-Hacking /h4cker",
+            "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+            "stars": "16,220",
+            "forks": "2,889",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用博弈论的方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "21,388",
+            "forks": "3,138",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "7,921",
+            "forks": "1,041",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "2,358",
+            "forks": "158",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,282",
+            "forks": "689",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "url": "https://github.com/TommyZihao/Train_Custom_Dataset",
+            "name": "TommyZihao /Train_Custom_Dataset",
+            "description": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "stars": "2,481",
+            "forks": "548",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "1,025",
+            "forks": "141",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Jupyter互动笔记本",
+            "url": "https://github.com/jupyter/notebook",
+            "name": "jupyter /notebook",
+            "description": "Jupyter Interactive Notebook",
+            "stars": "11,066",
+            "forks": "4,537",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "30,988",
+            "forks": "18,284",
+            "language": "Jupyter Notebook",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "使用拥抱面库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,178",
+            "forks": "1,386",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "论文《StreamMultiDiffulation：基于区域的语义控制的实时交互生成》的官方代码。",
+            "url": "https://github.com/ironjr/StreamMultiDiffusion",
+            "name": "ironjr /StreamMultiDiffusion",
+            "description": "Official code for the paper \"StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.\"",
+            "stars": "276",
+            "forks": "22",
+            "language": "Jupyter Notebook",
+            "stars_today": "44 stars today"
+        }
+    ]
+}
