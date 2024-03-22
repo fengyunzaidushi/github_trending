@@ -23276,3 +23276,167 @@
         }
     ]
 }
+{
+    "03月22日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "30,802",
+            "forks": "18,236",
+            "language": "Jupyter Notebook",
+            "stars_today": "454 stars today"
+        },
+        {
+            "zh_des": "论文《StreamMultiDiffulation：基于区域的语义控制的实时交互生成》的官方代码。",
+            "url": "https://github.com/ironjr/StreamMultiDiffusion",
+            "name": "ironjr /StreamMultiDiffusion",
+            "description": "Official code for the paper \"StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.\"",
+            "stars": "256",
+            "forks": "21",
+            "language": "Jupyter Notebook",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "一种用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "16,858",
+            "forks": "924",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "《FeatUp：用于任意分辨率的要素的模型无关框架》的官方代码ICLR 2024",
+            "url": "https://github.com/mhamilton723/FeatUp",
+            "name": "mhamilton723 /FeatUp",
+            "description": "Official code for \"FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution\" ICLR 2024",
+            "stars": "412",
+            "forks": "15",
+            "language": "Jupyter Notebook",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "学习Triton的谜题",
+            "url": "https://github.com/srush/Triton-Puzzles",
+            "name": "srush /Triton-Puzzles",
+            "description": "Puzzles for learning Triton",
+            "stars": "459",
+            "forks": "17",
+            "language": "Jupyter Notebook",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "从头开始构建一个RAG(检索增强生成)管道，并在本地运行。",
+            "url": "https://github.com/mrdbourke/simple-local-rag",
+            "name": "mrdbourke /simple-local-rag",
+            "description": "Build a RAG (Retrieval Augmented Generation) pipeline from scratch and have it all run locally.",
+            "stars": "77",
+            "forks": "14",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "21,962",
+            "forks": "4,673",
+            "language": "Jupyter Notebook",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "5,808",
+            "forks": "2,375",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。加入我们的不和：https://discord.gg/pAbnFJrkgZ",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "23,217",
+            "forks": "3,185",
+            "language": "Jupyter Notebook",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "基于OpenAI Whisper的说话人二值化自动语音识别",
+            "url": "https://github.com/MahmoudAshraf97/whisper-diarization",
+            "name": "MahmoudAshraf97 /whisper-diarization",
+            "description": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+            "stars": "1,834",
+            "forks": "192",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLm、FastChat、ModelScope等无缝集成的PyTorch LLm库。",
+            "url": "https://github.com/intel-analytics/BigDL",
+            "name": "intel-analytics /BigDL",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "4,866",
+            "forks": "1,148",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "⚠Leia A期FIXADA！Reposationório do Lab Contribuindo em Um Projeto Open Source no GitHub da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "3,098",
+            "forks": "23,129",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "公开回购高频博客帖子",
+            "url": "https://github.com/huggingface/blog",
+            "name": "huggingface /blog",
+            "description": "Public repo for HF blog posts",
+            "stars": "1,898",
+            "forks": "594",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,078",
+            "forks": "812",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "这是MobileSAM项目的官方代码，该项目使SAM变得轻量级，适用于移动应用程序和其他应用程序！",
+            "url": "https://github.com/ChaoningZhang/MobileSAM",
+            "name": "ChaoningZhang /MobileSAM",
+            "description": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
+            "stars": "4,161",
+            "forks": "439",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "欢迎使用《朗格史密斯手册》--掌握朗格史密斯的实用指南",
+            "url": "https://github.com/langchain-ai/langsmith-cookbook",
+            "name": "langchain-ai /langsmith-cookbook",
+            "description": "LangSmith CookbookWelcome to the LangSmith Cookbook — your practical guide to mastering LangSmith",
+            "stars": "553",
+            "forks": "86",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
