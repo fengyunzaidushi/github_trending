@@ -23694,3 +23694,257 @@
         }
     ]
 }
+{
+    "03月23日": [
+        {
+            "zh_des": "ICLR 2024的官方代码：AModel—Agnostic Framework for Features at Any Resolution",
+            "url": "https://github.com/mhamilton723/FeatUp",
+            "name": "mhamilton723 /FeatUp",
+            "description": "Official code for \"FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution\" ICLR 2024",
+            "stars": "468",
+            "forks": "18",
+            "language": "Jupyter Notebook",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "Agentic AI的编程框架。加入我们的Discord：www.example.com",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Join our Discord:https://discord.gg/pAbnFJrkgZ",
+            "stars": "23,272",
+            "forks": "3,187",
+            "language": "Jupyter Notebook",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "gpt—prompt—engineer",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "6,403",
+            "forks": "430",
+            "language": "Jupyter Notebook",
+            "stars_today": "717 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024年FRESCO：零镜头视频翻译的时空对应",
+            "url": "https://github.com/williamyang1991/FRESCO",
+            "name": "williamyang1991 /FRESCO",
+            "description": "[CVPR 2024] FRESCO: Spatial-Temporal Correspondence for Zero-Shot Video Translation",
+            "stars": "360",
+            "forks": "25",
+            "language": "Jupyter Notebook",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "此示例包含使用Prompt Flow和AI Studio创建RAG应用程序的完整End2End过程。它包括GPT 3.5 Turbo LLM应用程序代码、评估、使用AZD CLI的部署自动化、用于评估和部署的GitHub操作以及用于多个LLM任务映射的意图映射。",
+            "url": "https://github.com/Azure-Samples/contoso-chat",
+            "name": "Azure-Samples /contoso-chat",
+            "description": "This sample has the full End2End process of creating RAG application with Prompt Flow and AI Studio. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.",
+            "stars": "214",
+            "forks": "1,534",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "RAG From ScrechRetrieval augmentation generation（RAG）是一种将LLM与外部数据源连接起来的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "293",
+            "forks": "68",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "100天算法",
+            "url": "https://github.com/coells/100days",
+            "name": "coells /100days",
+            "description": "100 days of algorithms",
+            "stars": "7,175",
+            "forks": "1,090",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个问题固定！实验室贡献实验室项目开源没有GitHub和Digital Innovation One.",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "3,101",
+            "forks": "23,186",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,178",
+            "forks": "2,760",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用灵活、健壮且高效的Python包启动您的MLOps计划。",
+            "url": "https://github.com/fmind/mlops-python-package",
+            "name": "fmind /mlops-python-package",
+            "description": "Kickstart your MLOps initiative with a flexible, robust, and productive Python package.",
+            "stars": "181",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "在www.example.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "6,921",
+            "forks": "6,275",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "存储库提供了使用SegmentAnything Model（SAM）运行推理的代码、下载训练过的模型检查点的链接以及演示如何使用模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "43,244",
+            "forks": "5,063",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "开源AI食谱",
+            "url": "https://github.com/huggingface/cookbook",
+            "name": "huggingface /cookbook",
+            "description": "Open-source AI cookbook",
+            "stars": "538",
+            "forks": "89",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "CLIP（对比图像预训练），预测给定图像最相关的文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "21,469",
+            "forks": "2,919",
+            "language": "Jupyter Notebook",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "该存储库主要由Omar Santos（@ santosomar）维护，包括数千个与道德黑客、bug赏金、数字取证和事件响应（DFIR）、人工智能安全、漏洞研究、漏洞开发、逆向工程等相关的资源。",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "name": "The-Art-of-Hacking /h4cker",
+            "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+            "stars": "16,224",
+            "forks": "2,889",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一种博弈论方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "21,389",
+            "forks": "3,137",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个小型的标量值autograd引擎和一个神经网络库，上面有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "7,922",
+            "forks": "1,042",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "人工智能可观测性和评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "2,362",
+            "forks": "158",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,283",
+            "forks": "689",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "url": "https://github.com/TommyZihao/Train_Custom_Dataset",
+            "name": "TommyZihao /Train_Custom_Dataset",
+            "description": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "stars": "2,482",
+            "forks": "548",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "This project is a large modeling development programme development program，online reading address：https：//www.example.com",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "1,029",
+            "forks": "142",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Eschyter交互式笔记本",
+            "url": "https://github.com/jupyter/notebook",
+            "name": "jupyter /notebook",
+            "description": "Jupyter Interactive Notebook",
+            "stars": "11,068",
+            "forks": "4,537",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式AI教程构建https：//www.example.com🔗",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "31,035",
+            "forks": "18,314",
+            "language": "Jupyter Notebook",
+            "stars_today": "456 stars today"
+        },
+        {
+            "zh_des": "使用Hugging Face库的笔记本🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,179",
+            "forks": "1,386",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "“StreamMultiDiffusion：Real—Time Interactive Generation with Region—Based Semantic Control”（基于区域的语义控制）。”",
+            "url": "https://github.com/ironjr/StreamMultiDiffusion",
+            "name": "ironjr /StreamMultiDiffusion",
+            "description": "Official code for the paper \"StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control.\"",
+            "stars": "288",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        }
+    ]
+}
