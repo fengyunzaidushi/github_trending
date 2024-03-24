@@ -33960,3 +33960,257 @@
         }
     ]
 }
+{
+    "03月24日": [
+        {
+            "zh_des": "小红书笔记|评论虫，房间音视频|评论虫，快速视频|评论虫，B站视频|评论虫，microbrout子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "10,033",
+            "forks": "2,757",
+            "language": "Python",
+            "stars_today": "8,175 stars this week"
+        },
+        {
+            "zh_des": "Open—Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "12,316",
+            "forks": "1,094",
+            "language": "Python",
+            "stars_today": "10,001 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的AI开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "25,693",
+            "forks": "2,513",
+            "language": "Python",
+            "stars_today": "2,430 stars this week"
+        },
+        {
+            "zh_des": "使用LLM和计算机视觉自动化基于浏览器的工作流程",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "2,902",
+            "forks": "204",
+            "language": "Python",
+            "stars_today": "1,506 stars this week"
+        },
+        {
+            "zh_des": "🌟 transThe Multi—Agent Framework：第一家人工智能软件公司，走向自然语言编程",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "37,355",
+            "forks": "4,408",
+            "language": "Python",
+            "stars_today": "1,779 stars this week"
+        },
+        {
+            "zh_des": "计算机的自然语言接口",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "43,317",
+            "forks": "3,794",
+            "language": "Python",
+            "stars_today": "1,388 stars this week"
+        },
+        {
+            "zh_des": "使用GPT的强大功能与您的文档交互，100%私密，无数据泄露",
+            "url": "https://github.com/zylon-ai/private-gpt",
+            "name": "zylon-ai /private-gpt",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "50,227",
+            "forks": "6,673",
+            "language": "Python",
+            "stars_today": "1,432 stars this week"
+        },
+        {
+            "zh_des": "DynamiCrafter：使用视频扩散先验创建开放域图像动画",
+            "url": "https://github.com/Doubiiu/DynamiCrafter",
+            "name": "Doubiiu /DynamiCrafter",
+            "description": "DynamiCrafter: Animating Open-domain Images with Video Diffusion Priors",
+            "stars": "1,308",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "253 stars this week"
+        },
+        {
+            "zh_des": "使用Large Action Model框架实现自动化",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Automate automation with Large Action Model framework",
+            "stars": "3,133",
+            "forks": "236",
+            "language": "Python",
+            "stars_today": "657 stars this week"
+        },
+        {
+            "zh_des": "你喜欢Pytorch吗？你喜欢微型大学吗？你爱提尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "23,141",
+            "forks": "2,581",
+            "language": "Python",
+            "stars_today": "258 stars this week"
+        },
+        {
+            "zh_des": "快2—5倍QLoRA和LoRA微调内存减少70%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "2-5X faster 70% less memory QLoRA & LoRA finetuning",
+            "stars": "4,960",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "537 stars this week"
+        },
+        {
+            "zh_des": "Translate manga/image关键翻译各类图片内文字https：//www.example.com",
+            "url": "https://github.com/zyddnys/manga-image-translator",
+            "name": "zyddnys /manga-image-translator",
+            "description": "Translate manga/image 一键翻译各类图片内文字https://cotrans.touhou.ai/",
+            "stars": "3,887",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "378 stars this week"
+        },
+        {
+            "zh_des": "我们编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "12,277",
+            "forks": "992",
+            "language": "Python",
+            "stars_today": "2,314 stars this week"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLM API。使用Bedrock，Azure，OpenAI，Cohere，Anthropic，Olama，Sagemaker，HuggingFace，Copy（100 + LLM）",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+            "stars": "6,780",
+            "forks": "738",
+            "language": "Python",
+            "stars_today": "742 stars this week"
+        },
+        {
+            "zh_des": "机器学习工程开放书",
+            "url": "https://github.com/stas00/ml-engineering",
+            "name": "stas00 /ml-engineering",
+            "description": "Machine Learning Engineering Open Book",
+            "stars": "9,460",
+            "forks": "557",
+            "language": "Python",
+            "stars_today": "487 stars this week"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱管理器和膳食规划器，具有RestAPI后端和一个内置于Vue的反应式前端应用程序，为全家人提供愉快的用户体验。通过提供URL，轻松地将食谱添加到您的数据库中，mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "5,063",
+            "forks": "563",
+            "language": "Python",
+            "stars_today": "492 stars this week"
+        },
+        {
+            "zh_des": "Gorilla：一个面向LLM的API商店",
+            "url": "https://github.com/ShishirPatil/gorilla",
+            "name": "ShishirPatil /gorilla",
+            "description": "Gorilla: An API store for LLMs",
+            "stars": "9,496",
+            "forks": "692",
+            "language": "Python",
+            "stars_today": "293 stars this week"
+        },
+        {
+            "zh_des": "[ICLR SWE—Bench：语言模型能解决现实世界的Github问题吗？",
+            "url": "https://github.com/princeton-nlp/SWE-bench",
+            "name": "princeton-nlp /SWE-bench",
+            "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+            "stars": "676",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "基于稳定性AI的生成模型",
+            "url": "https://github.com/Stability-AI/generative-models",
+            "name": "Stability-AI /generative-models",
+            "description": "Generative Models by Stability AI",
+            "stars": "21,470",
+            "forks": "2,308",
+            "language": "Python",
+            "stars_today": "661 stars this week"
+        },
+        {
+            "zh_des": "Supir升级包装器用于ComfyUI",
+            "url": "https://github.com/kijai/ComfyUI-SUPIR",
+            "name": "kijai /ComfyUI-SUPIR",
+            "description": "SUPIR upscaling wrapper for ComfyUI",
+            "stars": "684",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "152 stars this week"
+        },
+        {
+            "zh_des": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "55,611",
+            "forks": "10,317",
+            "language": "Python",
+            "stars_today": "473 stars this week"
+        },
+        {
+            "zh_des": "统一100 + LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "14,122",
+            "forks": "1,724",
+            "language": "Python",
+            "stars_today": "694 stars this week"
+        },
+        {
+            "zh_des": "下一代换脸机和增强剂",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "13,402",
+            "forks": "1,795",
+            "language": "Python",
+            "stars_today": "657 stars this week"
+        },
+        {
+            "zh_des": "机器学习容器",
+            "url": "https://github.com/replicate/cog",
+            "name": "replicate /cog",
+            "description": "Containers for machine learning",
+            "stars": "6,891",
+            "forks": "462",
+            "language": "Python",
+            "stars_today": "160 stars this week"
+        },
+        {
+            "zh_des": "BoxMOT：可插拔SOTA跟踪模块，用于分割、物体检测和姿态估计模型",
+            "url": "https://github.com/mikel-brostrom/yolo_tracking",
+            "name": "mikel-brostrom /yolo_tracking",
+            "description": "BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models",
+            "stars": "5,939",
+            "forks": "1,620",
+            "language": "Python",
+            "stars_today": "47 stars this week"
+        }
+    ]
+}
