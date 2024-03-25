@@ -36469,3 +36469,257 @@
         }
     ]
 }
+{
+    "03月25日": [
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "5,723",
+            "forks": "722",
+            "language": "Python",
+            "stars_today": "1,975 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "44,273",
+            "forks": "3,849",
+            "language": "Python",
+            "stars_today": "432 stars today"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "2,985",
+            "forks": "275",
+            "language": "Python",
+            "stars_today": "794 stars today"
+        },
+        {
+            "zh_des": "利用大模型，一键生成短视频",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用大模型，一键生成短视频",
+            "stars": "956",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "仓库描述免责声明:本仓库的所有内容仅供学习和参考之用，禁止用于商业用途.任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益.本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为.对于因使用本仓库内容而引起的任何法律责任，本仓库不承担任何责任.使用本仓库的内容即表示您同意本免责声明的所有条款和条件.小红书爬虫，抖音爬虫，快手爬虫，B站爬虫，微博爬虫",
+            "url": "https://github.com/lewis-007/MediaCrawler",
+            "name": "lewis-007 /MediaCrawler",
+            "description": "仓库描述免责声明：本仓库的所有内容仅供学习和参考之用，禁止用于商业用途。任何人或组织不得将本仓库的内容用于非法用途或侵犯他人合法权益。本仓库所涉及的爬虫技术仅用于学习和研究，不得用于对其他平台进行大规模爬虫或其他非法行为。对于因使用本仓库内容而引起的任何法律责任，本仓库不承担任何责任。使用本仓库的内容即表示您同意本免责声明的所有条款和条件。小红书爬虫，抖音爬虫， 快手爬虫， B站爬虫， 微博爬虫",
+            "stars": "299",
+            "forks": "700",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "641",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "宁静之星的代码",
+            "url": "https://github.com/ezelikman/quiet-star",
+            "name": "ezelikman /quiet-star",
+            "description": "Code for Quiet-STaR",
+            "stars": "208",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫",
+            "url": "https://github.com/jiji262/MediaCrawler-new",
+            "name": "jiji262 /MediaCrawler-new",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "253",
+            "forks": "309",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "一步图像到图像，稳定的扩散加速：sketch2图像，白天2夜，等等",
+            "url": "https://github.com/GaParmar/img2img-turbo",
+            "name": "GaParmar /img2img-turbo",
+            "description": "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more",
+            "stars": "585",
+            "forks": "47",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "让火炬模型闪电快！ThUnder是一个源码到源码的PyTorch编译器。它允许同时使用不同的硬件执行器。",
+            "url": "https://github.com/Lightning-AI/lightning-thunder",
+            "name": "Lightning-AI /lightning-thunder",
+            "description": "Make PyTorch models Lightning fast! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once.",
+            "stars": "622",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "4,866",
+            "forks": "774",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "10,102",
+            "forks": "1,242",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "一种快速简单的ComfyUI换脸扩展节点",
+            "url": "https://github.com/Gourieff/comfyui-reactor-node",
+            "name": "Gourieff /comfyui-reactor-node",
+            "description": "Fast and Simple Face Swap Extension Node for ComfyUI",
+            "stars": "764",
+            "forks": "69",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、csv文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "stars": "24,918",
+            "forks": "2,547",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,068",
+            "forks": "27,591",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "7,677",
+            "forks": "560",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "76,907",
+            "forks": "20,796",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "为了加快LLMS的推理速度并增强LLM对关键信息的感知，对Prompt和KV-Cache进行了压缩，在最小性能损失的情况下实现了高达20倍的压缩。",
+            "url": "https://github.com/microsoft/LLMLingua",
+            "name": "microsoft /LLMLingua",
+            "description": "To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.",
+            "stars": "3,169",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "关注灵活性和用户体验的Django内容管理系统",
+            "url": "https://github.com/wagtail/wagtail",
+            "name": "wagtail /wagtail",
+            "description": "A Django content management system focused on flexibility and user experience",
+            "stars": "16,980",
+            "forks": "3,622",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "33,249",
+            "forks": "3,910",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "用于从多个图像托管站点下载图片库和收藏集的命令行程序",
+            "url": "https://github.com/mikf/gallery-dl",
+            "name": "mikf /gallery-dl",
+            "description": "Command-line program to download image galleries and collections from several image hosting sites",
+            "stars": "9,875",
+            "forks": "834",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "包含视频和材料https://github的大型完整数据科学指南",
+            "url": "https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials",
+            "name": "krishnaik06 /The-Grand-Complete-Data-Science-Materials",
+            "description": "The Grand Complete Data Science Guide With Videos And Materialshttps://github",
+            "stars": "5,492",
+            "forks": "2,894",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "BlueSpy-从蓝牙设备录制音频的PoC",
+            "url": "https://github.com/TarlogicSecurity/BlueSpy",
+            "name": "TarlogicSecurity /BlueSpy",
+            "description": "BlueSpy - PoC to record audio from a Bluetooth device",
+            "stars": "328",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "56,167",
+            "forks": "13,860",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "支持Twitter社区笔记的文档和源代码",
+            "url": "https://github.com/twitter/communitynotes",
+            "name": "twitter /communitynotes",
+            "description": "Documentation and source code powering Twitter's Community Notes",
+            "stars": "1,277",
+            "forks": "170",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        }
+    ]
+}

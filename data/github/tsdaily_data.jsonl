@@ -24670,3 +24670,257 @@
         }
     ]
 }
+{
+    "03月25日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "24,534",
+            "forks": "5,208",
+            "language": "TypeScript",
+            "stars_today": "466 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "28,232",
+            "forks": "1,267",
+            "language": "TypeScript",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "去中心化自主监管公司(DARC)，运行在任何与EVM兼容的区块链上的公司虚拟机，具有链上法律体系、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "8,914",
+            "forks": "7,000",
+            "language": "TypeScript",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "124",
+            "forks": "204",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "VUE-纯管理员官方精简版",
+            "url": "https://github.com/pure-admin/pure-admin-thin",
+            "name": "pure-admin /pure-admin-thin",
+            "description": "vue-pure-admin官方精简版",
+            "stars": "1,388",
+            "forks": "878",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Web应用程序，将来自社交网络和RSS的提要结合在一起，帮助阅读更有意义和更深入的内容",
+            "url": "https://github.com/hplush/slowreader",
+            "name": "hplush /slowreader",
+            "description": "Web app to combine feeds from social networks and RSS and to help read more meaningful and deep content",
+            "stars": "84",
+            "forks": "19",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "12,800",
+            "forks": "698",
+            "language": "TypeScript",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "8,540",
+            "forks": "385",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "更明智地运营您的业务。",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter.",
+            "stars": "830",
+            "forks": "58",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🧡一切都是RSSible",
+            "url": "https://github.com/DIYgod/RSSHub",
+            "name": "DIYgod /RSSHub",
+            "description": "🧡 Everything is RSSible",
+            "stars": "28,944",
+            "forks": "6,556",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🚀准备运行的PRISMA示例项目",
+            "url": "https://github.com/prisma/prisma-examples",
+            "name": "prisma /prisma-examples",
+            "description": "🚀 Ready-to-run Prisma example projects",
+            "stars": "5,777",
+            "forks": "1,393",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🌎--星际微博平台🚀",
+            "url": "https://github.com/misskey-dev/misskey",
+            "name": "misskey-dev /misskey",
+            "description": "🌎 An interplanetary microblogging platform 🚀",
+            "stars": "9,382",
+            "forks": "1,227",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "❍--SST的新引擎",
+            "url": "https://github.com/sst/ion",
+            "name": "sst /ion",
+            "description": "❍ — a new engine for SST",
+            "stars": "554",
+            "forks": "29",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "6,232",
+            "forks": "887",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "53,651",
+            "forks": "2,765",
+            "language": "TypeScript",
+            "stars_today": "295 stars today"
+        },
+        {
+            "zh_des": "即时加载Web应用程序，无需费力",
+            "url": "https://github.com/BuilderIO/qwik",
+            "name": "BuilderIO /qwik",
+            "description": "Instant-loading web apps, without effort",
+            "stars": "20,046",
+            "forks": "1,197",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "实用打字课程报名参加我们为寻求从基础到高级概念的全面理解的开发人员设计的“实用打字”课程，深入打字的世界",
+            "url": "https://github.com/john-smilga/typescript-course",
+            "name": "john-smilga /typescript-course",
+            "description": "Practical TypeScript CourseEnrollDive into the world of TypeScript with our \"Practical TypeScript\" course, designed for developers seeking a comprehensive understanding from the basics to advanced concepts",
+            "stars": "66",
+            "forks": "17",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "涡旋",
+            "url": "https://github.com/jarvis2f/vortex",
+            "name": "jarvis2f /vortex",
+            "description": "Vortex",
+            "stars": "221",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "一个基于Reaction原生开发的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-mobile",
+            "name": "lyswhut /lx-music-mobile",
+            "description": "一个基于 React native 开发的音乐软件",
+            "stars": "8,512",
+            "forks": "1,202",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "19,618",
+            "forks": "2,229",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "7,444",
+            "forks": "548",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "29,180",
+            "forks": "1,879",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "一个独一无二的简历建造者，它会把你的隐私牢记在心。完全安全，可定制，可移植，开源，永远免费。今天就试试吧！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "19,529",
+            "forks": "2,034",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "闪存操作系统映像到SD卡和USB驱动器，安全、轻松。",
+            "url": "https://github.com/balena-io/etcher",
+            "name": "balena-io /etcher",
+            "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+            "stars": "27,482",
+            "forks": "1,969",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "捆绑了定制插件(以及内置的广告拦截程序/下载程序)的YouTube音乐桌面应用程序",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "5,851",
+            "forks": "378",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}
