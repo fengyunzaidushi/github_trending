@@ -24924,3 +24924,257 @@
         }
     ]
 }
+{
+    "03月25日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "24,752",
+            "forks": "5,278",
+            "language": "TypeScript",
+            "stars_today": "556 stars today"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "4,320",
+            "forks": "5,761",
+            "language": "TypeScript",
+            "stars_today": "258 stars today"
+        },
+        {
+            "zh_des": "去中心化自主监管公司(DARC)，运行在任何与EVM兼容的区块链上的公司虚拟机，具有链上法律体系、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "9,046",
+            "forks": "7,103",
+            "language": "TypeScript",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "⚡️⚡️⚡️自行托管的协作式书签管理器，用于收集、组织和保存网页和文章。",
+            "url": "https://github.com/linkwarden/linkwarden",
+            "name": "linkwarden /linkwarden",
+            "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.",
+            "stars": "5,315",
+            "forks": "187",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "12,981",
+            "forks": "708",
+            "language": "TypeScript",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "28,316",
+            "forks": "1,270",
+            "language": "TypeScript",
+            "stars_today": "328 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "257",
+            "forks": "51",
+            "language": "TypeScript",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "专为键盘工人设计的为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件/单词学习和英语肌肉记忆训练软件",
+            "url": "https://github.com/RealKai42/qwerty-learner",
+            "name": "RealKai42 /qwerty-learner",
+            "description": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers",
+            "stars": "14,288",
+            "forks": "1,246",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "这是一款开源的AI可穿戴设备，它可以捕捉你在现实世界中的所见所闻，然后转录并存储在你自己的服务器上。然后你可以使用这款应用程序与Adeus聊天，它会有关于你想要谈论的所有正确的上下文-一个真正个性化的个人人工智能。",
+            "url": "https://github.com/adamcohenhillel/ADeus",
+            "name": "adamcohenhillel /ADeus",
+            "description": "An open source AI wearable device that captures what you say and hear in the real world and then transcribes and stores it on your own server. You can then chat with Adeus using the app, and it will have all the right context about what you want to talk about - a truly personalized, personal AI.",
+            "stars": "2,533",
+            "forks": "261",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "实用打字课程报名参加我们为寻求从基础到高级概念的全面理解的开发人员设计的“实用打字”课程，深入打字的世界",
+            "url": "https://github.com/john-smilga/typescript-course",
+            "name": "john-smilga /typescript-course",
+            "description": "Practical TypeScript CourseEnrollDive into the world of TypeScript with our \"Practical TypeScript\" course, designed for developers seeking a comprehensive understanding from the basics to advanced concepts",
+            "stars": "69",
+            "forks": "18",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "4,413",
+            "forks": "1,121",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "一款针对Python的反应式笔记本--运行可重现的实验，以脚本形式执行，以应用程序形式部署，并使用Git进行版本控制。",
+            "url": "https://github.com/marimo-team/marimo",
+            "name": "marimo-team /marimo",
+            "description": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+            "stars": "3,731",
+            "forks": "88",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "我的个人配置文件",
+            "url": "https://github.com/Aylur/dotfiles",
+            "name": "Aylur /dotfiles",
+            "description": "My personal config files",
+            "stars": "1,721",
+            "forks": "102",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Tact编译器主库",
+            "url": "https://github.com/tact-lang/tact",
+            "name": "tact-lang /tact",
+            "description": "Tact compiler main repository",
+            "stars": "164",
+            "forks": "40",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "编造你自己的故事。用于AI角色扮演的软件。",
+            "url": "https://github.com/kwaroran/RisuAI",
+            "name": "kwaroran /RisuAI",
+            "description": "Make your own story. Software for ai roleplaying.",
+            "stars": "545",
+            "forks": "101",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "捆绑了定制插件(以及内置的广告拦截程序/下载程序)的YouTube音乐桌面应用程序",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "5,864",
+            "forks": "380",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "18,772",
+            "forks": "408",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "面向移动FAST⚡️的团队的开源BI",
+            "url": "https://github.com/lightdash/lightdash",
+            "name": "lightdash /lightdash",
+            "description": "Open source BI for teams that move fast ⚡️",
+            "stars": "3,328",
+            "forks": "344",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于EVM链的模块化水龙头，具有不同的保护方法(验证码、挖矿、IP、Mainnet Balance、吉特币护照等)",
+            "url": "https://github.com/pk910/PoWFaucet",
+            "name": "pk910 /PoWFaucet",
+            "description": "Modularized faucet for EVM chains with different protection methods (Captcha, Mining, IP, Mainnet Balance, Gitcoin Passport and more)",
+            "stars": "3,113",
+            "forks": "1,169",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "❍--SST的新引擎",
+            "url": "https://github.com/sst/ion",
+            "name": "sst /ion",
+            "description": "❍ — a new engine for SST",
+            "stars": "560",
+            "forks": "29",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "让Docker和Kubernetes的管理变得容易。",
+            "url": "https://github.com/portainer/portainer",
+            "name": "portainer /portainer",
+            "description": "Making Docker and Kubernetes management easy.",
+            "stars": "28,475",
+            "forks": "2,334",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/fdundjer/solana-sniper-bot",
+            "name": "fdundjer /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "359",
+            "forks": "192",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "🌎--星际微博平台🚀",
+            "url": "https://github.com/misskey-dev/misskey",
+            "name": "misskey-dev /misskey",
+            "description": "🌎 An interplanetary microblogging platform 🚀",
+            "stars": "9,385",
+            "forks": "1,231",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "专注于重要的事情，而不是与Git争斗。",
+            "url": "https://github.com/desktop/desktop",
+            "name": "desktop /desktop",
+            "description": "Focus on what matters instead of fighting with Git.",
+            "stars": "19,047",
+            "forks": "9,070",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "29,193",
+            "forks": "1,880",
+            "language": "TypeScript",
+            "stars_today": "33 stars today"
+        }
+    ]
+}
