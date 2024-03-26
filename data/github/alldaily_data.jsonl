@@ -37962,3 +37962,257 @@
         }
     ]
 }
+{
+    "03月26日": [
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "9,311",
+            "forks": "1,041",
+            "language": "Python",
+            "stars_today": "2,369 stars today"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "4,899",
+            "forks": "404",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,134 stars today"
+        },
+        {
+            "zh_des": "利用大模型，一键生成短视频",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用大模型，一键生成短视频",
+            "stars": "1,298",
+            "forks": "264",
+            "language": "Python",
+            "stars_today": "195 stars today"
+        },
+        {
+            "zh_des": "去中心化自主监管公司(DARC)，运行在任何与EVM兼容的区块链上的公司虚拟机，具有链上法律体系、多级令牌和分红机制。",
+            "url": "https://github.com/Project-DARC/DARC",
+            "name": "Project-DARC /DARC",
+            "description": "Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.",
+            "stars": "9,166",
+            "forks": "7,158",
+            "language": "TypeScript",
+            "stars_today": "169 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "45,098",
+            "forks": "3,900",
+            "language": "Python",
+            "stars_today": "451 stars today"
+        },
+        {
+            "zh_des": "一站式存储库，提供人工智能研究更新、访谈资源、笔记本等内容！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "2,300",
+            "forks": "536",
+            "language": "",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "✨完全自主的AI代理，可以使用终端、浏览器和编辑器执行复杂的任务和项目。",
+            "url": "https://github.com/semanser/codel",
+            "name": "semanser /codel",
+            "description": "✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.",
+            "stars": "324",
+            "forks": "26",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "12,553",
+            "forks": "1,010",
+            "language": "Jupyter Notebook",
+            "stars_today": "360 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "1,040",
+            "forks": "82",
+            "language": "Python",
+            "stars_today": "266 stars today"
+        },
+        {
+            "zh_des": "建设互联网上最好的系统设计资源",
+            "url": "https://github.com/systemdesign42/system-design",
+            "name": "systemdesign42 /system-design",
+            "description": "Building the best system design resource in the internet",
+            "stars": "6,026",
+            "forks": "610",
+            "language": "",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "108,234",
+            "forks": "13,651",
+            "language": "TypeScript",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "安装配置英语\n|\nРусский\n|\nУкраїнська\n|\n葡萄牙语S巴西莱罗\n|\nPolski Mobox是一个旨在使用Box64和Wine在Termux中运行Windows x86应用程序的项目",
+            "url": "https://github.com/olegos2/mobox",
+            "name": "olegos2 /mobox",
+            "description": "InstallationConfigurationEnglish\n  |   \nРусский\n  |   \nУкраїнська\n  |   \nPortuguês Brasileiro\n  |   \nPolskiMobox is a project designed to run windows x86 applications in Termux using Box64 and Wine",
+            "stars": "1,338",
+            "forks": "54",
+            "language": "Shell",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "莫拉：更像是多面手视频世代的苍井空",
+            "url": "https://github.com/lichao-sun/Mora",
+            "name": "lichao-sun /Mora",
+            "description": "Mora: More like Sora for Generalist Video Generation",
+            "stars": "747",
+            "forks": "30",
+            "language": "Jupyter Notebook",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。名称为占位符。",
+            "url": "https://github.com/placeholderkv/placeholderkv",
+            "name": "placeholderkv /placeholderkv",
+            "description": "A new project to resume development on the formerly open-source Redis project. Name is placeholder.",
+            "stars": "498",
+            "forks": "21",
+            "language": "C",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "T-Rex2：基于文本-视觉提示协同的通用对象检测",
+            "url": "https://github.com/IDEA-Research/T-Rex",
+            "name": "IDEA-Research /T-Rex",
+            "description": "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy",
+            "stars": "932",
+            "forks": "49",
+            "language": "Python",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "AI自主代理的列表",
+            "url": "https://github.com/e2b-dev/awesome-ai-agents",
+            "name": "e2b-dev /awesome-ai-agents",
+            "description": "A list of AI autonomous agents",
+            "stars": "4,794",
+            "forks": "346",
+            "language": "",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "为任何人制作动画：用于角色动画的一致且可控的图像到视频合成",
+            "url": "https://github.com/HumanAIGC/AnimateAnyone",
+            "name": "HumanAIGC /AnimateAnyone",
+            "description": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+            "stars": "13,724",
+            "forks": "883",
+            "language": "",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "[CVPR2024]Glee：面向大规模图像和视频的通用对象基础模型",
+            "url": "https://github.com/FoundationVision/GLEE",
+            "name": "FoundationVision /GLEE",
+            "description": "【CVPR2024】GLEE: General Object Foundation Model for Images and Videos at Scale",
+            "stars": "481",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "GPT-投资者",
+            "url": "https://github.com/mshumer/gpt-investor",
+            "name": "mshumer /gpt-investor",
+            "description": "gpt-investor",
+            "stars": "1,573",
+            "forks": "182",
+            "language": "Jupyter Notebook",
+            "stars_today": "724 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "309",
+            "forks": "61",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "316,412",
+            "forks": "59,472",
+            "language": "",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "13,302",
+            "forks": "717",
+            "language": "TypeScript",
+            "stars_today": "288 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "269,854",
+            "forks": "36,512",
+            "language": "TypeScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/fdundjer/solana-sniper-bot",
+            "name": "fdundjer /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "412",
+            "forks": "208",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "4,511",
+            "forks": "5,778",
+            "language": "TypeScript",
+            "stars_today": "228 stars today"
+        }
+    ]
+}
