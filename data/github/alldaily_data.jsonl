@@ -38724,3 +38724,257 @@
         }
     ]
 }
+{
+    "03月28日": [
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "976",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "7,458",
+            "forks": "601",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,929 stars today"
+        },
+        {
+            "zh_des": "GPT-投资者",
+            "url": "https://github.com/mshumer/gpt-investor",
+            "name": "mshumer /gpt-investor",
+            "description": "gpt-investor",
+            "stars": "1,876",
+            "forks": "213",
+            "language": "Jupyter Notebook",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "270,292",
+            "forks": "36,537",
+            "language": "TypeScript",
+            "stars_today": "325 stars today"
+        },
+        {
+            "zh_des": "📱开源iOS应用协作列表",
+            "url": "https://github.com/dkhamsing/open-source-ios-apps",
+            "name": "dkhamsing /open-source-ios-apps",
+            "description": "📱 Collaborative List of Open-Source iOS Apps",
+            "stars": "39,338",
+            "forks": "5,275",
+            "language": "",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "或者这是下一个",
+            "url": "https://github.com/webprodigies/fuzzie-production",
+            "name": "webprodigies /fuzzie-production",
+            "description": "orororThis is a Next",
+            "stars": "157",
+            "forks": "91",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "9,584",
+            "forks": "945",
+            "language": "Rust",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "开放、免费、便携的云。弹性计算、块存储(非复制)、虚拟网络、托管Postgres和IAM服务处于公测阶段。",
+            "url": "https://github.com/ubicloud/ubicloud",
+            "name": "ubicloud /ubicloud",
+            "description": "Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.",
+            "stars": "2,909",
+            "forks": "75",
+            "language": "Ruby",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "19,916",
+            "forks": "1,416",
+            "language": "Java",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "14,871",
+            "forks": "1,803",
+            "language": "Python",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "😼是人工智能原生的、开源的Tines/Splunk Savar的替代品。",
+            "url": "https://github.com/TracecatHQ/tracecat",
+            "name": "TracecatHQ /tracecat",
+            "description": "😼 The AI-native, open source alternative to Tines / Splunk SOAR.",
+            "stars": "813",
+            "forks": "27",
+            "language": "TypeScript",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "63,529",
+            "forks": "13,445",
+            "language": "JavaScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "11,808",
+            "forks": "1,314",
+            "language": "Python",
+            "stars_today": "1,914 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "12,865",
+            "forks": "1,036",
+            "language": "Jupyter Notebook",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "配备24小时以上电池的AI可穿戴设备",
+            "url": "https://github.com/BasedHardware/Friend",
+            "name": "BasedHardware /Friend",
+            "description": "AI wearable with 24h+ battery",
+            "stars": "566",
+            "forks": "56",
+            "language": "Dart",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "25,412",
+            "forks": "5,512",
+            "language": "TypeScript",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "108,482",
+            "forks": "13,666",
+            "language": "TypeScript",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "👾Go中编写的简单快捷的视频下载库和命令行界面工具",
+            "url": "https://github.com/iawia002/lux",
+            "name": "iawia002 /lux",
+            "description": "👾 Fast and simple video download library and CLI tool written in Go",
+            "stars": "24,365",
+            "forks": "2,732",
+            "language": "Go",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "ZkSync时代",
+            "url": "https://github.com/matter-labs/zksync-era",
+            "name": "matter-labs /zksync-era",
+            "description": "zkSync era",
+            "stars": "2,776",
+            "forks": "1,891",
+            "language": "Rust",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。名称为占位符。",
+            "url": "https://github.com/placeholderkv/placeholderkv",
+            "name": "placeholderkv /placeholderkv",
+            "description": "A new project to resume development on the formerly open-source Redis project. Name is placeholder.",
+            "stars": "642",
+            "forks": "29",
+            "language": "C",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "建设互联网上最好的系统设计资源",
+            "url": "https://github.com/systemdesign42/system-design",
+            "name": "systemdesign42 /system-design",
+            "description": "Building the best system design resource in the internet",
+            "stars": "6,351",
+            "forks": "628",
+            "language": "",
+            "stars_today": "228 stars today"
+        },
+        {
+            "zh_des": "您需要的所有资源，以获得高级工程师和更高级别的人员",
+            "url": "https://github.com/jordan-cutler/path-to-senior-engineer-handbook",
+            "name": "jordan-cutler /path-to-senior-engineer-handbook",
+            "description": "All the resources you need to get to Senior Engineer and beyond",
+            "stars": "8,713",
+            "forks": "839",
+            "language": "",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope等无缝集成的PyTorch LLM库。",
+            "url": "https://github.com/intel-analytics/ipex-llm",
+            "name": "intel-analytics /ipex-llm",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "4,946",
+            "forks": "1,151",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "34,064",
+            "forks": "13,434",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "构建数字商务的基石",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "Building blocks for digital commerce",
+            "stars": "22,264",
+            "forks": "2,064",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        }
+    ]
+}

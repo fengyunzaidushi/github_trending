@@ -37993,3 +37993,257 @@
         }
     ]
 }
+{
+    "03月28日": [
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "976",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "14,871",
+            "forks": "1,803",
+            "language": "Python",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "11,808",
+            "forks": "1,314",
+            "language": "Python",
+            "stars_today": "1,914 stars today"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope等无缝集成的PyTorch LLM库。",
+            "url": "https://github.com/intel-analytics/ipex-llm",
+            "name": "intel-analytics /ipex-llm",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "4,946",
+            "forks": "1,151",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "34,064",
+            "forks": "13,434",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "强大的食谱使语言模型与人类和人工智能偏好保持一致",
+            "url": "https://github.com/huggingface/alignment-handbook",
+            "name": "huggingface /alignment-handbook",
+            "description": "Robust recipes to align language models with human and AI preferences",
+            "stars": "3,556",
+            "forks": "272",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "通过Azure OpenAI实现简单网络聊天体验的示例代码，包括您的数据上的Azure OpenAI。",
+            "url": "https://github.com/microsoft/sample-app-aoai-chatGPT",
+            "name": "microsoft /sample-app-aoai-chatGPT",
+            "description": "Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.",
+            "stars": "1,144",
+            "forks": "1,658",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "FindMy Flipper应用程序将您的FlipperZero转换为AIRTAG或其他跟踪设备，与Apple AIRTAG和三星SmartTag兼容。它使用BLE信标进行广播，允许用户克隆现有标签，为Apple的FindMy网络生成OpenHayStack密钥对，并定制信标间隔和传输功率。",
+            "url": "https://github.com/MatthewKuKanich/FindMyFlipper",
+            "name": "MatthewKuKanich /FindMyFlipper",
+            "description": "The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with both Apple AirTag and Samsung SmartTag. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.",
+            "stars": "423",
+            "forks": "14",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "177,068",
+            "forks": "43,175",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "关注灵活性和用户体验的Django内容管理系统",
+            "url": "https://github.com/wagtail/wagtail",
+            "name": "wagtail /wagtail",
+            "description": "A Django content management system focused on flexibility and user experience",
+            "stars": "17,050",
+            "forks": "3,631",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Conan-开源的C和C++包管理器",
+            "url": "https://github.com/conan-io/conan",
+            "name": "conan-io /conan",
+            "description": "Conan - The open-source C and C++ package manager",
+            "stars": "7,657",
+            "forks": "929",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "给出你自己的提示这是一次测试这是对新博客软件的又一次测试",
+            "url": "https://github.com/mistralai-sf24/hackathon",
+            "name": "mistralai-sf24 /hackathon",
+            "description": "Mistral TransformerTo give your own promptsThis is a testThis is another test of the new blogging software",
+            "stars": "406",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "1,286",
+            "forks": "89",
+            "language": "Python",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "高斯-SLAM：具有照片真实感的密集SLAM与高斯飞溅",
+            "url": "https://github.com/VladimirYugay/Gaussian-SLAM",
+            "name": "VladimirYugay /Gaussian-SLAM",
+            "description": "Gaussian-SLAM: Photo-realistic Dense SLAM with Gaussian Splatting",
+            "stars": "620",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "爬虫入门、爬虫进阶、高级爬虫",
+            "url": "https://github.com/NanmiCoder/CrawlerTutorial",
+            "name": "NanmiCoder /CrawlerTutorial",
+            "description": "爬虫入门、爬虫进阶、高级爬虫",
+            "stars": "264",
+            "forks": "44",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "利用大模型，一键生成短视频",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用大模型，一键生成短视频",
+            "stars": "2,534",
+            "forks": "471",
+            "language": "Python",
+            "stars_today": "642 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析和线条检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, and line detection in 90+ languages",
+            "stars": "5,256",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "4,666",
+            "forks": "667",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "ComfyUI IPAdapter plus为您开放源码，但不为我免费",
+            "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
+            "name": "cubiq /ComfyUI_IPAdapter_plus",
+            "description": "ComfyUI IPAdapter plusOpen source for you but not free for me",
+            "stars": "1,806",
+            "forks": "145",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,213",
+            "forks": "2,114",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "⛽️“算法通关手册”：超详细的“算法与数据结构”基础讲解教程，从零基础开始学习算法知识，800+道“LeetCode题目”详细解析，200道“大厂面试热门题目”。",
+            "url": "https://github.com/itcharge/LeetCode-Py",
+            "name": "itcharge /LeetCode-Py",
+            "description": "⛽️「算法通关手册」：超详细的「算法与数据结构」基础讲解教程，从零基础开始学习算法知识，800+ 道「LeetCode 题目」详细解析，200 道「大厂面试热门题目」。",
+            "stars": "4,400",
+            "forks": "825",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "T-Rex2：基于文本-视觉提示协同的通用对象检测",
+            "url": "https://github.com/IDEA-Research/T-Rex",
+            "name": "IDEA-Research /T-Rex",
+            "description": "T-Rex2: Towards Generic Object Detection via Text-Visual Prompt Synergy",
+            "stars": "1,214",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "统一人工智能框架",
+            "url": "https://github.com/unifyai/ivy",
+            "name": "unifyai /ivy",
+            "description": "The Unified AI Framework",
+            "stars": "13,991",
+            "forks": "5,884",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于最大似然和最小二乘的数据抽取",
+            "url": "https://github.com/katanaml/sparrow",
+            "name": "katanaml /sparrow",
+            "description": "Data extraction with ML and LLM",
+            "stars": "1,186",
+            "forks": "177",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "为了加快LLMS的推理速度并增强LLM对关键信息的感知，对Prompt和KV-Cache进行了压缩，在最小性能损失的情况下实现了高达20倍的压缩。",
+            "url": "https://github.com/microsoft/LLMLingua",
+            "name": "microsoft /LLMLingua",
+            "description": "To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss.",
+            "stars": "3,399",
+            "forks": "167",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        }
+    ]
+}
