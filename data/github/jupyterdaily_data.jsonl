@@ -26488,3 +26488,257 @@
         }
     ]
 }
+{
+    "03月28日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "8,616",
+            "forks": "689",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,714 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "925",
+            "forks": "392",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "通过在《街头霸王3》中的战斗来标杆LLMS！评估激光唱机质量的新方法",
+            "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
+            "name": "OpenGenerativeAI /llm-colosseum",
+            "description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+            "stars": "288",
+            "forks": "30",
+            "language": "Jupyter Notebook",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "🔊文本提示生成性音频模型",
+            "url": "https://github.com/suno-ai/bark",
+            "name": "suno-ai /bark",
+            "description": "🔊 Text-Prompted Generative Audio Model",
+            "stars": "31,616",
+            "forks": "3,711",
+            "language": "Jupyter Notebook",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "AI--记者",
+            "url": "https://github.com/mshumer/ai-journalist",
+            "name": "mshumer /ai-journalist",
+            "description": "AI-Journalist",
+            "stars": "423",
+            "forks": "60",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "用于安装、培训、保存和装载变压器模型新磁头的工具包",
+            "url": "https://github.com/center-for-humans-and-machines/transformer-heads",
+            "name": "center-for-humans-and-machines /transformer-heads",
+            "description": "Toolkit for attaching, training, saving and loading of new heads for transformer models",
+            "stars": "167",
+            "forks": "12",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "接地-SAM：将接地-Dino与Segment Anything&稳定扩散和识别Anything相结合-自动检测、分段和生成任何内容",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "13,133",
+            "forks": "1,187",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "莫拉：更像是多面手视频世代的苍井空",
+            "url": "https://github.com/lichao-sun/Mora",
+            "name": "lichao-sun /Mora",
+            "description": "Mora: More like Sora for Generalist Video Generation",
+            "stars": "944",
+            "forks": "38",
+            "language": "Jupyter Notebook",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "从头开始逐步实施类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM from scratch, step by step",
+            "stars": "12,917",
+            "forks": "1,042",
+            "language": "Jupyter Notebook",
+            "stars_today": "188 stars today"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "8,698",
+            "forks": "1,039",
+            "language": "Jupyter Notebook",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "NERF(神经辐射场)代码发布",
+            "url": "https://github.com/bmild/nerf",
+            "name": "bmild /nerf",
+            "description": "Code release for NeRF (Neural Radiance Fields)",
+            "stars": "9,264",
+            "forks": "1,308",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,188",
+            "forks": "2,767",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "46,296",
+            "forks": "4,851",
+            "language": "Jupyter Notebook",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "与O‘Reilly Media的《实用自然语言处理》一书相关的代码的官方存储库",
+            "url": "https://github.com/practical-nlp/practical-nlp-code",
+            "name": "practical-nlp /practical-nlp-code",
+            "description": "Official Repository for Code associated with 'Practical Natural Language Processing' book by O'Reilly Media",
+            "stars": "1,221",
+            "forks": "569",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "AISystem主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "url": "https://github.com/chenzomi12/AISystem",
+            "name": "chenzomi12 /AISystem",
+            "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "stars": "7,633",
+            "forks": "1,048",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "图像提示适配器被设计为使预先训练的文本到图像扩散模型能够生成具有图像提示的图像。",
+            "url": "https://github.com/tencent-ailab/IP-Adapter",
+            "name": "tencent-ailab /IP-Adapter",
+            "description": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
+            "stars": "3,609",
+            "forks": "228",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "1,433",
+            "forks": "191",
+            "language": "Jupyter Notebook",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "使用PEFT进行LLM微调",
+            "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+            "name": "ashishpatel26 /LLM-Finetuning",
+            "description": "LLM Finetuning with peft",
+            "stars": "1,508",
+            "forks": "415",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure机器学习示例，使用GitHub操作进行了测试。",
+            "url": "https://github.com/Azure/azureml-examples",
+            "name": "Azure /azureml-examples",
+            "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+            "stars": "1,524",
+            "forks": "1,212",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "时间序列深度学习机器学习Pytorch Fastai|最新的时间序列和序列深度学习库",
+            "url": "https://github.com/timeseriesAI/tsai",
+            "name": "timeseriesAI /tsai",
+            "description": "Time series Timeseries Deep Learning Machine Learning Pytorch fastai | State-of-the-art Deep Learning library for Time Series and Sequences in Pytorch / fastai",
+            "stars": "4,585",
+            "forks": "589",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,150",
+            "forks": "83,002",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个开源的、低代码化的机器学习库",
+            "url": "https://github.com/pycaret/pycaret",
+            "name": "pycaret /pycaret",
+            "description": "An open-source, low-code machine learning library in Python",
+            "stars": "8,328",
+            "forks": "1,704",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,437",
+            "forks": "6,572",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Lang Chain图书馆概述和教程",
+            "url": "https://github.com/gkamradt/langchain-tutorials",
+            "name": "gkamradt /langchain-tutorials",
+            "description": "Overview and tutorial of the LangChain Library",
+            "stars": "6,105",
+            "forks": "1,804",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "GPT-LIM-培训师",
+            "url": "https://github.com/mshumer/gpt-llm-trainer",
+            "name": "mshumer /gpt-llm-trainer",
+            "description": "gpt-llm-trainer",
+            "stars": "3,258",
+            "forks": "401",
+            "language": "Jupyter Notebook",
+            "stars_today": "289 stars today"
+        }
+    ]
+}
