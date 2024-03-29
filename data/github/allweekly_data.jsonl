@@ -36962,3 +36962,257 @@
         }
     ]
 }
+{
+    "03月29日": [
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "12,565",
+            "forks": "1,481",
+            "language": "Python",
+            "stars_today": "11,540 stars this week"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "10,215",
+            "forks": "829",
+            "language": "Jupyter Notebook",
+            "stars_today": "5,825 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "45,887",
+            "forks": "3,961",
+            "language": "Python",
+            "stars_today": "3,541 stars this week"
+        },
+        {
+            "zh_des": "Garnet是Microsoft Research的远程缓存存储，可提供强大的性能(吞吐量和延迟)、可扩展性、存储、恢复、集群分片、关键迁移和复制功能。Garnet可以与现有的Redis客户端一起工作。",
+            "url": "https://github.com/microsoft/garnet",
+            "name": "microsoft /garnet",
+            "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+            "stars": "7,741",
+            "forks": "323",
+            "language": "C#",
+            "stars_today": "4,408 stars this week"
+        },
+        {
+            "zh_des": "面向Kubernetes的eBPF分布式网络可观测性工具",
+            "url": "https://github.com/microsoft/retina",
+            "name": "microsoft /retina",
+            "description": "eBPF distributed networking observability tool for Kubernetes",
+            "stars": "2,165",
+            "forks": "136",
+            "language": "Go",
+            "stars_today": "1,499 stars this week"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/snipe-it-com/solana-sniper-bot",
+            "name": "snipe-it-com /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "593",
+            "forks": "250",
+            "language": "TypeScript",
+            "stars_today": "322 stars this week"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "9,696",
+            "forks": "996",
+            "language": "Rust",
+            "stars_today": "285 stars this week"
+        },
+        {
+            "zh_des": "本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "20,122",
+            "forks": "1,427",
+            "language": "Java",
+            "stars_today": "1,175 stars this week"
+        },
+        {
+            "zh_des": "使用JQ的交互式JSON过滤器",
+            "url": "https://github.com/ynqa/jnv",
+            "name": "ynqa /jnv",
+            "description": "interactive JSON filter using jq",
+            "stars": "3,794",
+            "forks": "40",
+            "language": "Rust",
+            "stars_today": "2,065 stars this week"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": "64,286",
+            "forks": "23,329",
+            "language": "C",
+            "stars_today": "484 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥若毅-Vue官方推荐全新Pro版本，优化重构所有功能.基于春靴+MyBatis Plus+Vue&Element实现的后台管理系统+微信小程序，支持基于角色的客户关系管理动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP等功能。明星⭐️⭐️，你的，是作者生发的动力！",
+            "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "name": "YunaiV /ruoyi-vue-pro",
+            "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+            "stars": "23,522",
+            "forks": "4,877",
+            "language": "Java",
+            "stars_today": "706 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "14,132",
+            "forks": "739",
+            "language": "TypeScript",
+            "stars_today": "2,103 stars this week"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "5,133",
+            "forks": "833",
+            "language": "Python",
+            "stars_today": "356 stars this week"
+        },
+        {
+            "zh_des": "SableSarmUI，一个模块化稳定的扩散Web用户界面，重点是使POWER工具易于访问、高性能和可扩展性。",
+            "url": "https://github.com/Stability-AI/StableSwarmUI",
+            "name": "Stability-AI /StableSwarmUI",
+            "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+            "stars": "2,303",
+            "forks": "185",
+            "language": "C#",
+            "stars_today": "189 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "487",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "163 stars this week"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "6,358",
+            "forks": "485",
+            "language": "Python",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "13,387",
+            "forks": "1,035",
+            "language": "Python",
+            "stars_today": "1,534 stars this week"
+        },
+        {
+            "zh_des": "Megacity-Metro：一款激动人心的射击游戏，使用实体的网码来支持128+玩家的多人体验。最新的DOTS包和Unity游戏服务提升了用户体验，展示了如何制作引人入胜的多人游戏。",
+            "url": "https://github.com/Unity-Technologies/megacity-metro",
+            "name": "Unity-Technologies /megacity-metro",
+            "description": "Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.",
+            "stars": "352",
+            "forks": "75",
+            "language": "C#",
+            "stars_today": "99 stars this week"
+        },
+        {
+            "zh_des": "一个简单的外壳脚本，用于扫描您的Xcode SWIFT项目所需的原因API使用情况，以确保隐私合规性并简化隐私清单的创建。",
+            "url": "https://github.com/Wooder/ios_17_required_reason_api_scanner",
+            "name": "Wooder /ios_17_required_reason_api_scanner",
+            "description": "A simple shell script to scan your Xcode Swift project for required reason API usage to ensure privacy compliance and to simplify the creation of privacy manifests.",
+            "stars": "255",
+            "forks": "23",
+            "language": "Shell",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "16,833",
+            "forks": "2,146",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "每个人都需要的开源观察性平台！",
+            "url": "https://github.com/netdata/netdata",
+            "name": "netdata /netdata",
+            "description": "The open-source observability platform everyone needs!",
+            "stars": "67,808",
+            "forks": "5,701",
+            "language": "C",
+            "stars_today": "246 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "270,486",
+            "forks": "36,555",
+            "language": "TypeScript",
+            "stars_today": "1,165 stars this week"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,236",
+            "forks": "2,115",
+            "language": "Python",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "25,629",
+            "forks": "5,598",
+            "language": "TypeScript",
+            "stars_today": "2,103 stars this week"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "3,716",
+            "forks": "343",
+            "language": "Python",
+            "stars_today": "2,491 stars this week"
+        }
+    ]
+}
