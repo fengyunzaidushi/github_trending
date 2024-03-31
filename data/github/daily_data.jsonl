@@ -39263,3 +39263,257 @@
         }
     ]
 }
+{
+    "03月31日": [
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "6,108",
+            "forks": "913",
+            "language": "Python",
+            "stars_today": "908 stars today"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "2,191",
+            "forks": "238",
+            "language": "Python",
+            "stars_today": "865 stars today"
+        },
+        {
+            "zh_des": "MuseV：基于视觉条件并行去噪的无限长高保真虚拟人视频生成",
+            "url": "https://github.com/TMElyralab/MuseV",
+            "name": "TMElyralab /MuseV",
+            "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+            "stars": "276",
+            "forks": "17",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "DBRX的代码示例和资源，DBRX是由Databricks开发的大型语言模型",
+            "url": "https://github.com/databricks/dbrx",
+            "name": "databricks /dbrx",
+            "description": "Code examples and resources for DBRX, a large language model developed by Databricks",
+            "stars": "1,580",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "657",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "16,380",
+            "forks": "1,445",
+            "language": "Python",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "论文《BrushNet：一种基于分解双分支扩散的即插即用图像修复模型》正式实施",
+            "url": "https://github.com/TencentARC/BrushNet",
+            "name": "TencentARC /BrushNet",
+            "description": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "stars": "401",
+            "forks": "20",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "288,194",
+            "forks": "31,421",
+            "language": "Python",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "1,745",
+            "forks": "173",
+            "language": "Python",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "这是一个基于Python和FastAPI的非官方Suno API。它目前支持生成歌曲、歌词等。它带有内置的令牌维护和保持连接功能，所以你不必担心令牌过期。",
+            "url": "https://github.com/SunoAI-API/Suno-API",
+            "name": "SunoAI-API /Suno-API",
+            "description": "This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.",
+            "stars": "547",
+            "forks": "52",
+            "language": "Python",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "10,832",
+            "forks": "1,342",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "领先的Android安全评估框架。",
+            "url": "https://github.com/WithSecureLabs/drozer",
+            "name": "WithSecureLabs /drozer",
+            "description": "The Leading Security Assessment Framework for Android.",
+            "stars": "3,505",
+            "forks": "741",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]FoundationPose：统一的新目标6D位姿估计和跟踪",
+            "url": "https://github.com/NVlabs/FoundationPose",
+            "name": "NVlabs /FoundationPose",
+            "description": "[CVPR 2024] FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects",
+            "stars": "448",
+            "forks": "24",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "55,494",
+            "forks": "12,675",
+            "language": "Python",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "LlamaIndex是您的LLM应用程序的数据框架",
+            "url": "https://github.com/run-llama/llama_index",
+            "name": "run-llama /llama_index",
+            "description": "LlamaIndex is a data framework for your LLM applications",
+            "stars": "30,093",
+            "forks": "4,015",
+            "language": "Python",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序构建平台。它拥有构建AI原生应用程序所需的核心技术，包括RAG、代理功能、模型管理、可观察性等，打包到一个直观的界面中。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.",
+            "stars": "18,604",
+            "forks": "2,418",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "用Krita中的AI生成图像的简化界面。内漆和外漆，可选的文字提示，不需要调整。",
+            "url": "https://github.com/Acly/krita-ai-diffusion",
+            "name": "Acly /krita-ai-diffusion",
+            "description": "Streamlined interface for generating images with AI in Krita. Inpaint and outpaint with optional text prompt, no tweaking required.",
+            "stars": "4,296",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "10,482",
+            "forks": "3,262",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "9,149",
+            "forks": "1,182",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "7,519",
+            "forks": "283",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "语音数据<=10分钟也可以用来训练一个好的VC模型！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Voice data <= 10 mins can also be used to train a good VC model!",
+            "stars": "17,937",
+            "forks": "2,791",
+            "language": "Python",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "用于现实世界应用程序的低代码Web框架，使用Python和Java脚本",
+            "url": "https://github.com/frappe/frappe",
+            "name": "frappe /frappe",
+            "description": "Low code web framework for real world applications, in Python and Javascript",
+            "stars": "6,408",
+            "forks": "3,081",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，但我们的资源有限。我们非常希望所有开源社区都能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project.",
+            "stars": "6,349",
+            "forks": "576",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "[NeurIPS 2022]用码本查找转换器实现稳健的人脸盲恢复",
+            "url": "https://github.com/sczhou/CodeFormer",
+            "name": "sczhou /CodeFormer",
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "stars": "12,982",
+            "forks": "2,801",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "5,929",
+            "forks": "552",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        }
+    ]
+}

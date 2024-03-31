@@ -37470,3 +37470,257 @@
         }
     ]
 }
+{
+    "03月31日": [
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "12,966",
+            "forks": "1,550",
+            "language": "Python",
+            "stars_today": "10,944 stars this week"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "11,662",
+            "forks": "1,014",
+            "language": "Jupyter Notebook",
+            "stars_today": "8,454 stars this week"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "3,825",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "1,988 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "46,103",
+            "forks": "3,983",
+            "language": "Python",
+            "stars_today": "3,081 stars this week"
+        },
+        {
+            "zh_des": "GPT-提示-工程师",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "7,711",
+            "forks": "530",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,216 stars this week"
+        },
+        {
+            "zh_des": "Garnet是Microsoft Research的远程缓存存储，可提供强大的性能(吞吐量和延迟)、可扩展性、存储、恢复、集群分片、关键迁移和复制功能。Garnet可以与现有的Redis客户端一起工作。",
+            "url": "https://github.com/microsoft/garnet",
+            "name": "microsoft /garnet",
+            "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+            "stars": "7,928",
+            "forks": "330",
+            "language": "C#",
+            "stars_today": "2,150 stars this week"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "9,781",
+            "forks": "1,045",
+            "language": "Rust",
+            "stars_today": "392 stars this week"
+        },
+        {
+            "zh_des": "面向Kubernetes的eBPF分布式网络可观测性工具",
+            "url": "https://github.com/microsoft/retina",
+            "name": "microsoft /retina",
+            "description": "eBPF distributed networking observability tool for Kubernetes",
+            "stars": "2,209",
+            "forks": "138",
+            "language": "Go",
+            "stars_today": "604 stars this week"
+        },
+        {
+            "zh_des": "本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "20,325",
+            "forks": "1,458",
+            "language": "Java",
+            "stars_today": "1,340 stars this week"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "18,648",
+            "forks": "2,214",
+            "language": "Mojo",
+            "stars_today": "1,140 stars this week"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/snipe-it-com/solana-sniper-bot",
+            "name": "snipe-it-com /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "628",
+            "forks": "259",
+            "language": "TypeScript",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "更明智地运营您的业务。",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter.",
+            "stars": "1,444",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "一步图像到图像，稳定的扩散加速：sketch2图像，白天2夜，等等",
+            "url": "https://github.com/GaParmar/img2img-turbo",
+            "name": "GaParmar /img2img-turbo",
+            "description": "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more",
+            "stars": "824",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "311 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "14,290",
+            "forks": "754",
+            "language": "TypeScript",
+            "stars_today": "1,871 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "270,653",
+            "forks": "36,563",
+            "language": "TypeScript",
+            "stars_today": "1,187 stars this week"
+        },
+        {
+            "zh_des": "让PyTorch型号的速度提高高达40%！ThUnder是一个源码到源码的PyTorch编译器。它允许同时使用不同的硬件执行器；跨越一个或数千个GPU。",
+            "url": "https://github.com/Lightning-AI/lightning-thunder",
+            "name": "Lightning-AI /lightning-thunder",
+            "description": "Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.",
+            "stars": "859",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "407 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "16,380",
+            "forks": "1,445",
+            "language": "Python",
+            "stars_today": "1,058 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥若毅-Vue官方推荐全新Pro版本，优化重构所有功能.基于春靴+MyBatis Plus+Vue&Element实现的后台管理系统+微信小程序，支持基于角色的客户关系管理动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP等功能。明星⭐️⭐️，你的，是作者生发的动力！",
+            "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "name": "YunaiV /ruoyi-vue-pro",
+            "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+            "stars": "23,559",
+            "forks": "4,884",
+            "language": "Java",
+            "stars_today": "418 stars this week"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": "64,327",
+            "forks": "23,340",
+            "language": "C",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "5,181",
+            "forks": "842",
+            "language": "Python",
+            "stars_today": "391 stars this week"
+        },
+        {
+            "zh_des": "Redis和Memcached的现代替代品",
+            "url": "https://github.com/dragonflydb/dragonfly",
+            "name": "dragonflydb /dragonfly",
+            "description": "A modern replacement for Redis and Memcached",
+            "stars": "23,295",
+            "forks": "842",
+            "language": "C++",
+            "stars_today": "421 stars this week"
+        },
+        {
+            "zh_des": "使用JQ的交互式JSON过滤器",
+            "url": "https://github.com/ynqa/jnv",
+            "name": "ynqa /jnv",
+            "description": "interactive JSON filter using jq",
+            "stars": "3,842",
+            "forks": "40",
+            "language": "Rust",
+            "stars_today": "958 stars this week"
+        },
+        {
+            "zh_des": "每个人都需要的开源观察性平台！",
+            "url": "https://github.com/netdata/netdata",
+            "name": "netdata /netdata",
+            "description": "The open-source observability platform everyone needs!",
+            "stars": "67,859",
+            "forks": "5,701",
+            "language": "C",
+            "stars_today": "272 stars this week"
+        },
+        {
+            "zh_des": "一个简单的外壳脚本，用于扫描您的Xcode SWIFT项目所需的原因API使用情况，以确保隐私合规性并简化隐私清单的创建。",
+            "url": "https://github.com/Wooder/ios_17_required_reason_api_scanner",
+            "name": "Wooder /ios_17_required_reason_api_scanner",
+            "description": "A simple shell script to scan your Xcode Swift project for required reason API usage to ensure privacy compliance and to simplify the creation of privacy manifests.",
+            "stars": "269",
+            "forks": "23",
+            "language": "Shell",
+            "stars_today": "68 stars this week"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,269",
+            "forks": "2,118",
+            "language": "Python",
+            "stars_today": "274 stars this week"
+        }
+    ]
+}

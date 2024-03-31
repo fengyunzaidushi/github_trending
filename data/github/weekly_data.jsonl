@@ -37262,3 +37262,257 @@
         }
     ]
 }
+{
+    "03月31日": [
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "12,966",
+            "forks": "1,550",
+            "language": "Python",
+            "stars_today": "10,944 stars this week"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "3,825",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "1,988 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "46,103",
+            "forks": "3,983",
+            "language": "Python",
+            "stars_today": "3,081 stars this week"
+        },
+        {
+            "zh_des": "一步图像到图像，稳定的扩散加速：sketch2图像，白天2夜，等等",
+            "url": "https://github.com/GaParmar/img2img-turbo",
+            "name": "GaParmar /img2img-turbo",
+            "description": "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more",
+            "stars": "824",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "311 stars this week"
+        },
+        {
+            "zh_des": "让PyTorch型号的速度提高高达40%！ThUnder是一个源码到源码的PyTorch编译器。它允许同时使用不同的硬件执行器；跨越一个或数千个GPU。",
+            "url": "https://github.com/Lightning-AI/lightning-thunder",
+            "name": "Lightning-AI /lightning-thunder",
+            "description": "Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.",
+            "stars": "859",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "407 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "16,380",
+            "forks": "1,445",
+            "language": "Python",
+            "stars_today": "1,058 stars this week"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "5,181",
+            "forks": "842",
+            "language": "Python",
+            "stars_today": "391 stars this week"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,269",
+            "forks": "2,118",
+            "language": "Python",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "16,895",
+            "forks": "2,147",
+            "language": "Python",
+            "stars_today": "371 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "6,108",
+            "forks": "913",
+            "language": "Python",
+            "stars_today": "5,196 stars this week"
+        },
+        {
+            "zh_des": "模型合并方案的进化优化官方资源库",
+            "url": "https://github.com/SakanaAI/evolutionary-model-merge",
+            "name": "SakanaAI /evolutionary-model-merge",
+            "description": "Official repository of Evolutionary Optimization of Model Merging Recipes",
+            "stars": "837",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "451 stars this week"
+        },
+        {
+            "zh_des": "FindMy Flipper应用程序将您的FlipperZero转换为AIRTAG或其他跟踪设备，与Apple AirTag、三星SmartTag和Tile跟踪器兼容。它使用BLE信标进行广播，允许用户克隆现有标签，为Apple的FindMy网络生成OpenHayStack密钥对，并定制信标间隔和传输功率。",
+            "url": "https://github.com/MatthewKuKanich/FindMyFlipper",
+            "name": "MatthewKuKanich /FindMyFlipper",
+            "description": "The FindMy Flipper app turns your FlipperZero into an AirTag or other tracking device, compatible with Apple AirTags and Samsung SmartTag and Tile Trackers. It uses the BLE beacon to broadcast, allowing users to clone existing tags, generate OpenHaystack key pairs for Apple's FindMy network, and customize beacon intervals and transmit power.",
+            "stars": "448",
+            "forks": "15",
+            "language": "Python",
+            "stars_today": "115 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI IPAdapter plusSponsorship当前赞助商IPAdapter型号的ComfyUI参考实现",
+            "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
+            "name": "cubiq /ComfyUI_IPAdapter_plus",
+            "description": "ComfyUI IPAdapter plusSponsorshipCurrent sponsorsComfyUI reference implementation for IPAdapter models",
+            "stars": "1,860",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "220 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序构建平台。它拥有构建AI原生应用程序所需的核心技术，包括RAG、代理功能、模型管理、可观察性等，打包到一个直观的界面中。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app building platform. It has the core tech required to build AI-native apps, including RAG, agent capabilities, model management, observability and more, packaged into one intuitive interface.",
+            "stars": "18,604",
+            "forks": "2,418",
+            "language": "Python",
+            "stars_today": "573 stars this week"
+        },
+        {
+            "zh_des": "包含视频和材料https://github的大型完整数据科学指南",
+            "url": "https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials",
+            "name": "krishnaik06 /The-Grand-Complete-Data-Science-Materials",
+            "description": "The Grand Complete Data Science Guide With Videos And Materialshttps://github",
+            "stars": "5,617",
+            "forks": "2,937",
+            "language": "Python",
+            "stars_today": "210 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "15,653",
+            "forks": "871",
+            "language": "Python",
+            "stars_today": "212 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-tuning of 100+ LLMs",
+            "stars": "15,127",
+            "forks": "1,839",
+            "language": "Python",
+            "stars_today": "1,076 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "123,389",
+            "forks": "24,481",
+            "language": "Python",
+            "stars_today": "622 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "509",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "137 stars this week"
+        },
+        {
+            "zh_des": "使用MoviePy自动创建YouTube短片。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinter",
+            "name": "FujiwaraChoki /MoneyPrinter",
+            "description": "Automate Creation of YouTube Shorts using MoviePy.",
+            "stars": "9,149",
+            "forks": "1,182",
+            "language": "Python",
+            "stars_today": "433 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "10,832",
+            "forks": "1,342",
+            "language": "Python",
+            "stars_today": "738 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "55,494",
+            "forks": "12,675",
+            "language": "Python",
+            "stars_today": "675 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "13,446",
+            "forks": "1,038",
+            "language": "Python",
+            "stars_today": "1,194 stars this week"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "6,391",
+            "forks": "486",
+            "language": "Python",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "687",
+            "forks": "28",
+            "language": "Python",
+            "stars_today": "290 stars this week"
+        }
+    ]
+}

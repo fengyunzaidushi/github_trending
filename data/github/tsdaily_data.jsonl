@@ -27464,3 +27464,257 @@
         }
     ]
 }
+{
+    "03月31日": [
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "1,589",
+            "forks": "242",
+            "language": "TypeScript",
+            "stars_today": "350 stars today"
+        },
+        {
+            "zh_des": "🚀KIMI AI长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路Token支持，自动清理会话痕迹。",
+            "url": "https://github.com/LLM-Red-Team/kimi-free-api",
+            "name": "LLM-Red-Team /kimi-free-api",
+            "description": "🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
+            "stars": "854",
+            "forks": "118",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "欢迎来到New Expensify：以聊天为中心的金融协作的完全重新想象。通过分享反馈并贡献代码，帮助我们构建下一代Expensify。",
+            "url": "https://github.com/Expensify/App",
+            "name": "Expensify /App",
+            "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+            "stars": "2,817",
+            "forks": "2,377",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "构建数字商务的基石",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "Building blocks for digital commerce",
+            "stars": "22,465",
+            "forks": "2,086",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链、GPT3.5/4涡轮增压、私人、人类、Vertex AI、Ollama、LLMS、Groq，您可以与用户共享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "31,279",
+            "forks": "3,025",
+            "language": "TypeScript",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "一个干净，优雅，美丽和强大的管理模板，基于Vue3，Vite5，TypeScrip，Pinia，NaveUI和UnoCSS。一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括Vue3，Vite5，打印，Pinia，NaveUI和UnoCss。",
+            "url": "https://github.com/soybeanjs/soybean-admin",
+            "name": "soybeanjs /soybean-admin",
+            "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+            "stars": "7,182",
+            "forks": "1,348",
+            "language": "TypeScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "不要再买样板或模板了！一次神奇的旅行，以`BUN CREATE SAASFILY‘开始",
+            "url": "https://github.com/saasfly/saasfly",
+            "name": "saasfly /saasfly",
+            "description": "Don't buy boilerplate or template anymore! A magic trip start with `bun create saasfly`",
+            "stars": "221",
+            "forks": "11",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "更明智地运营您的业务。",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter.",
+            "stars": "1,444",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "232 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "148",
+            "forks": "229",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用于Web的身份验证。",
+            "url": "https://github.com/nextauthjs/next-auth",
+            "name": "nextauthjs /next-auth",
+            "description": "Authentication for the Web.",
+            "stars": "21,762",
+            "forks": "2,818",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在整个团队/基础设施中同步秘密，防止秘密泄露。",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.",
+            "stars": "11,722",
+            "forks": "562",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "51,441",
+            "forks": "4,708",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "适用于所有钱包的单一Web3提供商解决方案",
+            "url": "https://github.com/WalletConnect/web3modal",
+            "name": "WalletConnect /web3modal",
+            "description": "A single Web3 provider solution for all Wallets",
+            "stars": "4,598",
+            "forks": "1,254",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "使用Skia的高性能Reaction原生图形",
+            "url": "https://github.com/Shopify/react-native-skia",
+            "name": "Shopify /react-native-skia",
+            "description": "High-performance React Native Graphics using Skia",
+            "stars": "6,276",
+            "forks": "396",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "可自行托管的书签-一切应用(链接、笔记和图像)，基于人工智能的自动标记和全文搜索",
+            "url": "https://github.com/MohamedBassem/hoarder-app",
+            "name": "MohamedBassem /hoarder-app",
+            "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+            "stars": "509",
+            "forks": "14",
+            "language": "TypeScript",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "Univer是一套企业文档和数据协作解决方案。",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is a set of enterprise document and data collaboration solutions.",
+            "stars": "2,260",
+            "forks": "269",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "FastGPT是一个建立在LLM上的基于知识的平台，提供开箱即用的数据处理和模型调用功能，允许通过流可视化进行工作流编排！",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!",
+            "stars": "11,724",
+            "forks": "2,880",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "使用Next.js克隆、部署和完全定制SaaS订阅应用程序。",
+            "url": "https://github.com/vercel/nextjs-subscription-payments",
+            "name": "vercel /nextjs-subscription-payments",
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "stars": "5,083",
+            "forks": "1,005",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "15,431",
+            "forks": "1,072",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "用AsPoem.com学习中国诗歌",
+            "url": "https://github.com/meetqy/aspoem",
+            "name": "meetqy /aspoem",
+            "description": "Learn Chinese Poetry With AsPoem.com",
+            "stars": "1,323",
+            "forks": "131",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "21,734",
+            "forks": "2,151",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一款可以轻松观看电影和节目的小型网络应用程序",
+            "url": "https://github.com/movie-web/movie-web",
+            "name": "movie-web /movie-web",
+            "description": "A small web app for watching movies and shows easily",
+            "stars": "19,713",
+            "forks": "2,268",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "🌱是一个快速的、包含电池的静态站点生成器，可以将Markdown内容转换为功能齐全的网站",
+            "url": "https://github.com/jackyzha0/quartz",
+            "name": "jackyzha0 /quartz",
+            "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+            "stars": "4,703",
+            "forks": "2,260",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "一个基于块(概念风格)且可扩展的Reaction富文本编辑器。建立在ProSemirror和TipTap的基础上。",
+            "url": "https://github.com/TypeCellOS/BlockNote",
+            "name": "TypeCellOS /BlockNote",
+            "description": "A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.",
+            "stars": "4,937",
+            "forks": "292",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "使用Reaction&Node.js开发全栈Web应用程序的最快方法。",
+            "url": "https://github.com/wasp-lang/wasp",
+            "name": "wasp-lang /wasp",
+            "description": "The fastest way to develop full-stack web apps with React & Node.js.",
+            "stars": "10,917",
+            "forks": "1,058",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        }
+    ]
+}
