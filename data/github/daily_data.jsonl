@@ -40025,3 +40025,257 @@
         }
     ]
 }
+{
+    "04月01日": [
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "2,654",
+            "forks": "329",
+            "language": "Python",
+            "stars_today": "340 stars today"
+        },
+        {
+            "zh_des": "采草",
+            "url": "https://github.com/MsLolita/grass",
+            "name": "MsLolita /grass",
+            "description": "grass-mining",
+            "stars": "69",
+            "forks": "30",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "论文《BrushNet：一种基于分解双分支扩散的即插即用图像修复模型》正式实施",
+            "url": "https://github.com/TencentARC/BrushNet",
+            "name": "TencentARC /BrushNet",
+            "description": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "stars": "486",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "13,768",
+            "forks": "586",
+            "language": "Python",
+            "stars_today": "263 stars today"
+        },
+        {
+            "zh_des": "一个用纯Python语言编写的计算机代数系统",
+            "url": "https://github.com/sympy/sympy",
+            "name": "sympy /sympy",
+            "description": "A computer algebra system written in pure Python",
+            "stars": "12,084",
+            "forks": "4,246",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "250,122",
+            "forks": "42,892",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "1,138",
+            "forks": "129",
+            "language": "Python",
+            "stars_today": "450 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "6,859",
+            "forks": "1,013",
+            "language": "Python",
+            "stars_today": "569 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "55,847",
+            "forks": "12,728",
+            "language": "Python",
+            "stars_today": "319 stars today"
+        },
+        {
+            "zh_des": "语音数据<=10分钟也可以用来训练一个好的VC模型！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Voice data <= 10 mins can also be used to train a good VC model!",
+            "stars": "18,137",
+            "forks": "2,825",
+            "language": "Python",
+            "stars_today": "181 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "14,299",
+            "forks": "1,340",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "Backpack Trading🔹在我的电报频道中发现最新动向：BOT用于在背包交易所创建交易量您可以灵活地自定义输入/配置中的参数",
+            "url": "https://github.com/MsLolita/backpack-volume-auto",
+            "name": "MsLolita /backpack-volume-auto",
+            "description": "Backpack Trading 🔹Discover the latest <crypto/> moves in my Telegram Channel:Bot used to create trading volume on the Backpack exchangeYou have the flexibility to customize parameters in inputs/config",
+            "stars": "145",
+            "forks": "44",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "16,536",
+            "forks": "1,457",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️攻击性谷歌框架。",
+            "url": "https://github.com/mxrch/GHunt",
+            "name": "mxrch /GHunt",
+            "description": "🕵️‍♂️ Offensive Google framework.",
+            "stars": "14,836",
+            "forks": "1,225",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "MuseV：基于视觉条件并行去噪的无限长高保真虚拟人视频生成",
+            "url": "https://github.com/TMElyralab/MuseV",
+            "name": "TMElyralab /MuseV",
+            "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+            "stars": "537",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "288,455",
+            "forks": "31,431",
+            "language": "Python",
+            "stars_today": "136 stars today"
+        },
+        {
+            "zh_des": "NOA助理",
+            "url": "https://github.com/brilliantlabsAR/noa-assistant",
+            "name": "brilliantlabsAR /noa-assistant",
+            "description": "Noa Assistant",
+            "stars": "70",
+            "forks": "12",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "30,764",
+            "forks": "4,572",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "这是一个基于Python和FastAPI的非官方Suno API。它目前支持生成歌曲、歌词等。它带有内置的令牌维护和保持连接功能，所以你不必担心令牌过期。",
+            "url": "https://github.com/SunoAI-API/Suno-API",
+            "name": "SunoAI-API /Suno-API",
+            "description": "This is an unofficial Suno API based on Python and FastAPI. It currently supports generating songs, lyrics, etc. It comes with a built-in token maintenance and keep-alive feature, so you don't have to worry about the token expiring.",
+            "stars": "644",
+            "forks": "64",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "基于NanGPT的最先进的开源LLM的可破解实现。支持闪光关注、4位和8位量化、LORA和骆驼适配器微调、预培训。Apache2.0-获得许可。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+            "stars": "5,611",
+            "forks": "595",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "10,967",
+            "forks": "1,358",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "Arc2Face：人脸的基础模型",
+            "url": "https://github.com/foivospar/Arc2Face",
+            "name": "foivospar /Arc2Face",
+            "description": "Arc2Face: A Foundation Model of Human Faces",
+            "stars": "228",
+            "forks": "12",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "18,063",
+            "forks": "1,390",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "69,091",
+            "forks": "5,482",
+            "language": "Python",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "RSA攻击工具(主要用于CTF)-从弱公钥和/或未加密数据中检索私钥",
+            "url": "https://github.com/RsaCtfTool/RsaCtfTool",
+            "name": "RsaCtfTool /RsaCtfTool",
+            "description": "RSA attack tool (mainly for ctf) - retrieve private key from weak public key and/or uncipher data",
+            "stars": "5,189",
+            "forks": "876",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        }
+    ]
+}

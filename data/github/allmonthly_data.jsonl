@@ -37794,3 +37794,137 @@
         }
     ]
 }
+{
+    "04月01日": [
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,516",
+            "forks": "1,143",
+            "language": "HTML",
+            "stars_today": "4,876 stars this month"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "31,667",
+            "forks": "3,683",
+            "language": "C#",
+            "stars_today": "5,323 stars this month"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "26,720",
+            "forks": "2,641",
+            "language": "Python",
+            "stars_today": "5,002 stars this month"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "21,891",
+            "forks": "3,594",
+            "language": "TypeScript",
+            "stars_today": "7,529 stars this month"
+        },
+        {
+            "zh_des": "DUSt3R：轻松实现几何3D视觉",
+            "url": "https://github.com/naver/dust3r",
+            "name": "naver /dust3r",
+            "description": "DUSt3R: Geometric 3D Vision Made Easy",
+            "stars": "3,697",
+            "forks": "421",
+            "language": "Python",
+            "stars_today": "3,834 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "34,562",
+            "forks": "19,632",
+            "language": "Jupyter Notebook",
+            "stars_today": "8,212 stars this month"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "73,021",
+            "forks": "9,123",
+            "language": "Java",
+            "stars_today": "9,193 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "47,402",
+            "forks": "5,611",
+            "language": "Python",
+            "stars_today": "11,362 stars this month"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "10,265",
+            "forks": "746",
+            "language": "Shell",
+            "stars_today": "7,852 stars this month"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "6,737",
+            "forks": "427",
+            "language": "TypeScript",
+            "stars_today": "5,633 stars this month"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "38,024",
+            "forks": "4,479",
+            "language": "Python",
+            "stars_today": "3,656 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "13,499",
+            "forks": "1,041",
+            "language": "Python",
+            "stars_today": "3,812 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "17,682",
+            "forks": "786",
+            "language": "JavaScript",
+            "stars_today": "5,314 stars this month"
+        }
+    ]
+}
