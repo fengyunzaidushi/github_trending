@@ -28774,3 +28774,257 @@
         }
     ]
 }
+{
+    "04月02日": [
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "4,642",
+            "forks": "459",
+            "language": "Jupyter Notebook",
+            "stars_today": "482 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "36,851",
+            "forks": "20,346",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,012 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]实时开放词汇对象检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
+            "stars": "3,024",
+            "forks": "280",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "使用PEFT进行LLM微调",
+            "url": "https://github.com/ashishpatel26/LLM-Finetuning",
+            "name": "ashishpatel26 /LLM-Finetuning",
+            "description": "LLM Finetuning with peft",
+            "stars": "1,547",
+            "forks": "424",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "注重质量的多语音TTS系统",
+            "url": "https://github.com/neonbjb/tortoise-tts",
+            "name": "neonbjb /tortoise-tts",
+            "description": "A multi-voice TTS system trained with an emphasis on quality",
+            "stars": "11,540",
+            "forks": "1,628",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "通过在《街头霸王3》中的战斗来标杆LLMS！评估激光唱机质量的新方法",
+            "url": "https://github.com/OpenGenerativeAI/llm-colosseum",
+            "name": "OpenGenerativeAI /llm-colosseum",
+            "description": "Benchmark LLMs by fighting in Street Fighter 3! The new way to evaluate the quality of an LLM",
+            "stars": "556",
+            "forks": "67",
+            "language": "Jupyter Notebook",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "5,891",
+            "forks": "2,417",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "30,545",
+            "forks": "4,837",
+            "language": "Jupyter Notebook",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,100",
+            "forks": "5,356",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "巨蟒：Do Exceláanálise de DadosConteúdo das Aulas e respostas dos desafios",
+            "url": "https://github.com/alura-cursos/imersao-python-dados-03-2024",
+            "name": "alura-cursos /imersao-python-dados-03-2024",
+            "description": "Imersão Python: do Excel à Análise de DadosConteúdo das aulas e respostas dos desafios",
+            "stars": "30",
+            "forks": "32",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "在4个月内免费学习ML工程！",
+            "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
+            "name": "DataTalksClub /machine-learning-zoomcamp",
+            "description": "Learn ML engineering for free in 4 months!",
+            "stars": "8,199",
+            "forks": "1,953",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一种基于SAM的谷物图像分割模型",
+            "url": "https://github.com/zsylvester/segmenteverygrain",
+            "name": "zsylvester /segmenteverygrain",
+            "description": "A SAM-based model for instance segmentation of images of grains",
+            "stars": "402",
+            "forks": "40",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "快速、准确、轻量级的Python库可实现最先进的嵌入",
+            "url": "https://github.com/qdrant/fastembed",
+            "name": "qdrant /fastembed",
+            "description": "Fast, Accurate, Lightweight Python library to make State of the Art Embedding",
+            "stars": "718",
+            "forks": "59",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Jupyter笔记本，获取《用Python进行深度学习》一书的代码示例",
+            "url": "https://github.com/fchollet/deep-learning-with-python-notebooks",
+            "name": "fchollet /deep-learning-with-python-notebooks",
+            "description": "Jupyter notebooks for the code samples of the book \"Deep Learning with Python\"",
+            "stars": "17,702",
+            "forks": "8,422",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "41,275",
+            "forks": "17,482",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,630",
+            "forks": "2,014",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用生成性人工智能在几分钟内组织你的STEM文章。",
+            "url": "https://github.com/Dillettant/Athena",
+            "name": "Dillettant /Athena",
+            "description": "Structure your STEM essay in several minutes with Generative AI.",
+            "stars": "500",
+            "forks": "102",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "专注于金融衍生品的定价和风险管理的巨蟒金融库，包括固定收益、股票、外汇和信用衍生品。",
+            "url": "https://github.com/domokane/FinancePy",
+            "name": "domokane /FinancePy",
+            "description": "A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.",
+            "stars": "1,873",
+            "forks": "283",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "完整-语言链-教程",
+            "url": "https://github.com/krishnaik06/Complete-Langchain-Tutorials",
+            "name": "krishnaik06 /Complete-Langchain-Tutorials",
+            "description": "Complete-Langchain-Tutorials",
+            "stars": "207",
+            "forks": "166",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "驯服变压器以实现高分辨率图像合成",
+            "url": "https://github.com/CompVis/taming-transformers",
+            "name": "CompVis /taming-transformers",
+            "description": "Taming Transformers for High-Resolution Image Synthesis",
+            "stars": "5,299",
+            "forks": "1,073",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Fastai深度学习图书馆",
+            "url": "https://github.com/fastai/fastai",
+            "name": "fastai /fastai",
+            "description": "The fastai deep learning library",
+            "stars": "25,519",
+            "forks": "7,498",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "22,112",
+            "forks": "4,708",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "10,378",
+            "forks": "1,382",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "TensorFlow中的概率推理与统计分析",
+            "url": "https://github.com/tensorflow/probability",
+            "name": "tensorflow /probability",
+            "description": "Probabilistic reasoning and statistical analysis in TensorFlow",
+            "stars": "4,116",
+            "forks": "1,074",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "AISystem主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "url": "https://github.com/chenzomi12/AISystem",
+            "name": "chenzomi12 /AISystem",
+            "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "stars": "7,717",
+            "forks": "1,057",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        }
+    ]
+}
