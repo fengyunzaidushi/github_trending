@@ -38486,3 +38486,257 @@
         }
     ]
 }
+{
+    "04月02日": [
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "6,981",
+            "forks": "1,031",
+            "language": "Python",
+            "stars_today": "5,846 stars this week"
+        },
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "13,504",
+            "forks": "1,624",
+            "language": "Python",
+            "stars_today": "6,976 stars this week"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "15,278",
+            "forks": "1,485",
+            "language": "Python",
+            "stars_today": "9,980 stars this week"
+        },
+        {
+            "zh_des": "GPT-投资者",
+            "url": "https://github.com/mshumer/gpt-investor",
+            "name": "mshumer /gpt-investor",
+            "description": "gpt-investor",
+            "stars": "2,043",
+            "forks": "246",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,262 stars this week"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "9,896",
+            "forks": "1,091",
+            "language": "Rust",
+            "stars_today": "459 stars this week"
+        },
+        {
+            "zh_des": "本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "20,581",
+            "forks": "1,478",
+            "language": "Java",
+            "stars_today": "1,279 stars this week"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "19,212",
+            "forks": "2,269",
+            "language": "Mojo",
+            "stars_today": "1,709 stars this week"
+        },
+        {
+            "zh_des": "更明智地运营您的业务。",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter.",
+            "stars": "1,831",
+            "forks": "172",
+            "language": "TypeScript",
+            "stars_today": "959 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "15,043",
+            "forks": "831",
+            "language": "TypeScript",
+            "stars_today": "1,822 stars this week"
+        },
+        {
+            "zh_des": "Garnet是Microsoft Research的远程缓存存储，可提供强大的性能(吞吐量和延迟)、可扩展性、存储、恢复、集群分片、关键迁移和复制功能。Garnet可以与现有的Redis客户端一起工作。",
+            "url": "https://github.com/microsoft/garnet",
+            "name": "microsoft /garnet",
+            "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+            "stars": "8,158",
+            "forks": "337",
+            "language": "C#",
+            "stars_today": "1,592 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "16,581",
+            "forks": "1,461",
+            "language": "Python",
+            "stars_today": "1,357 stars this week"
+        },
+        {
+            "zh_des": "适用于台式机、Web、移动设备等的全堆栈图形库。",
+            "url": "https://github.com/DioxusLabs/dioxus",
+            "name": "DioxusLabs /dioxus",
+            "description": "Fullstack GUI library for desktop, web, mobile, and more.",
+            "stars": "17,212",
+            "forks": "655",
+            "language": "Rust",
+            "stars_today": "578 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "46,318",
+            "forks": "4,000",
+            "language": "Python",
+            "stars_today": "1,765 stars this week"
+        },
+        {
+            "zh_des": "GPT-提示-工程师",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "7,812",
+            "forks": "536",
+            "language": "Jupyter Notebook",
+            "stars_today": "775 stars this week"
+        },
+        {
+            "zh_des": "Solana狙击手机器人-概念验证",
+            "url": "https://github.com/snipe-it-com/solana-sniper-bot",
+            "name": "snipe-it-com /solana-sniper-bot",
+            "description": "Solana Sniper Bot - Proof of Concept",
+            "stars": "675",
+            "forks": "280",
+            "language": "TypeScript",
+            "stars_today": "312 stars this week"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,312",
+            "forks": "2,121",
+            "language": "Python",
+            "stars_today": "280 stars this week"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "3,929",
+            "forks": "367",
+            "language": "Python",
+            "stars_today": "822 stars this week"
+        },
+        {
+            "zh_des": "构建数字商务的基石",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "Building blocks for digital commerce",
+            "stars": "22,548",
+            "forks": "2,090",
+            "language": "TypeScript",
+            "stars_today": "372 stars this week"
+        },
+        {
+            "zh_des": "📱开源iOS应用协作列表",
+            "url": "https://github.com/dkhamsing/open-source-ios-apps",
+            "name": "dkhamsing /open-source-ios-apps",
+            "description": "📱 Collaborative List of Open-Source iOS Apps",
+            "stars": "39,676",
+            "forks": "5,288",
+            "language": "",
+            "stars_today": "885 stars this week"
+        },
+        {
+            "zh_des": "用真正的滑块设置应用音量！Deej是一个Arduino&Go项目，让您可以为Windows和Linux构建自己的硬件混合器",
+            "url": "https://github.com/omriharel/deej",
+            "name": "omriharel /deej",
+            "description": "Set app volumes with real sliders! deej is an Arduino & Go project to let you build your own hardware mixer for Windows and Linux",
+            "stars": "3,914",
+            "forks": "348",
+            "language": "Go",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "一步图像到图像，稳定的扩散加速：sketch2图像，白天2夜，等等",
+            "url": "https://github.com/GaParmar/img2img-turbo",
+            "name": "GaParmar /img2img-turbo",
+            "description": "One-step image-to-image with Stable Diffusion turbo: sketch2image, day2night, and more",
+            "stars": "900",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "284 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "271,141",
+            "forks": "36,602",
+            "language": "TypeScript",
+            "stars_today": "1,411 stars this week"
+        },
+        {
+            "zh_des": "一个后现代模式文本编辑器。",
+            "url": "https://github.com/helix-editor/helix",
+            "name": "helix-editor /helix",
+            "description": "A post-modern modal text editor.",
+            "stars": "29,461",
+            "forks": "2,157",
+            "language": "Rust",
+            "stars_today": "331 stars this week"
+        },
+        {
+            "zh_des": "给出你自己的提示这是一次测试这是对新博客软件的又一次测试",
+            "url": "https://github.com/mistralai-sf24/hackathon",
+            "name": "mistralai-sf24 /hackathon",
+            "description": "Mistral TransformerTo give your own promptsThis is a testThis is another test of the new blogging software",
+            "stars": "427",
+            "forks": "37",
+            "language": "Python",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "Megacity-Metro：一款激动人心的射击游戏，使用实体的网码来支持128+玩家的多人体验。最新的DOTS包和Unity游戏服务提升了用户体验，展示了如何制作引人入胜的多人游戏。",
+            "url": "https://github.com/Unity-Technologies/megacity-metro",
+            "name": "Unity-Technologies /megacity-metro",
+            "description": "Megacity-Metro: a thrilling shooter game, using Netcode for Entities for a multiplayer experience supporting 128+ players. Latest DOTS packages and Unity Gaming Services elevate the user experience, demonstrating how to craft engaging multiplayer games.",
+            "stars": "393",
+            "forks": "80",
+            "language": "C#",
+            "stars_today": "121 stars this week"
+        }
+    ]
+}

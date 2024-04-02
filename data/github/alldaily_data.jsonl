@@ -41010,3 +41010,257 @@
         }
     ]
 }
+{
+    "04月02日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "15,278",
+            "forks": "1,485",
+            "language": "Python",
+            "stars_today": "1,036 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "36,106",
+            "forks": "20,055",
+            "language": "Jupyter Notebook",
+            "stars_today": "945 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "4,246",
+            "forks": "431",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,134 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "2,276",
+            "forks": "418",
+            "language": "TypeScript",
+            "stars_today": "368 stars today"
+        },
+        {
+            "zh_des": "HeyForm是一个开源的表单构建器，允许任何人为调查、问卷、测验和民意调查创建引人入胜的对话表单。不需要编码技能。",
+            "url": "https://github.com/heyform/heyform",
+            "name": "heyform /heyform",
+            "description": "HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.",
+            "stars": "1,534",
+            "forks": "162",
+            "language": "TypeScript",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "12周，26节课，52个测验，面向所有人的经典机器学习",
+            "url": "https://github.com/microsoft/ML-For-Beginners",
+            "name": "microsoft /ML-For-Beginners",
+            "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+            "stars": "65,802",
+            "forks": "13,409",
+            "language": "HTML",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "1,555",
+            "forks": "130",
+            "language": "TypeScript",
+            "stars_today": "262 stars today"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "2,813",
+            "forks": "370",
+            "language": "Python",
+            "stars_today": "345 stars today"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。我们将其命名为Valkey，因为它是键值数据存储的一个变种。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+            "stars": "6,035",
+            "forks": "270",
+            "language": "C",
+            "stars_today": "1,222 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "15,043",
+            "forks": "831",
+            "language": "TypeScript",
+            "stars_today": "317 stars today"
+        },
+        {
+            "zh_des": "一个后现代模式文本编辑器。",
+            "url": "https://github.com/helix-editor/helix",
+            "name": "helix-editor /helix",
+            "description": "A post-modern modal text editor.",
+            "stars": "29,461",
+            "forks": "2,157",
+            "language": "Rust",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "翻墙-科学上网",
+            "url": "https://github.com/bannedbook/fanqiang",
+            "name": "bannedbook /fanqiang",
+            "description": "翻墙-科学上网",
+            "stars": "36,202",
+            "forks": "7,059",
+            "language": "Kotlin",
+            "stars_today": "239 stars today"
+        },
+        {
+            "zh_des": "这是谷歌Android团队使用的Rust课程。它为您提供了快速教授铁锈的材料。",
+            "url": "https://github.com/google/comprehensive-rust",
+            "name": "google /comprehensive-rust",
+            "description": "This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.",
+            "stars": "25,538",
+            "forks": "1,493",
+            "language": "Rust",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "学习使用Next.js 14、Stream和TailWind CSS在数小时内开发出专业的企业级视频会议应用程序。",
+            "url": "https://github.com/adrianhajdin/zoom-clone",
+            "name": "adrianhajdin /zoom-clone",
+            "description": "Learn to develop a professional enterprise-ready video conferencing app in hours using Next.js 14, Stream, and Tailwind CSS.",
+            "stars": "454",
+            "forks": "148",
+            "language": "TypeScript",
+            "stars_today": "184 stars today"
+        },
+        {
+            "zh_des": "😱从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者“提升技术深度”提供便利.目前开放春季全家桶，Mybatis、Netty、Dubbo框架，及Redis、Tomcat中间件等",
+            "url": "https://github.com/doocs/source-code-hunter",
+            "name": "doocs /source-code-hunter",
+            "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+            "stars": "17,350",
+            "forks": "3,262",
+            "language": "Java",
+            "stars_today": "264 stars today"
+        },
+        {
+            "zh_des": "适用于台式机、Web、移动设备等的全堆栈图形库。",
+            "url": "https://github.com/DioxusLabs/dioxus",
+            "name": "DioxusLabs /dioxus",
+            "description": "Fullstack GUI library for desktop, web, mobile, and more.",
+            "stars": "17,212",
+            "forks": "655",
+            "language": "Rust",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "Windows下的图形用户界面客户端，支持Xray内核和v2Fly内核等",
+            "url": "https://github.com/2dust/v2rayN",
+            "name": "2dust /v2rayN",
+            "description": "A GUI client for Windows, support Xray core and v2fly core and others",
+            "stars": "60,229",
+            "forks": "10,440",
+            "language": "C#",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "用于更新的🧩补丁程序",
+            "url": "https://github.com/ReVanced/revanced-patches",
+            "name": "ReVanced /revanced-patches",
+            "description": "🧩 Patches for ReVanced",
+            "stars": "1,133",
+            "forks": "125",
+            "language": "Kotlin",
+            "stars_today": "168 stars today"
+        },
+        {
+            "zh_des": "采草",
+            "url": "https://github.com/MsLolita/grass",
+            "name": "MsLolita /grass",
+            "description": "grass-mining",
+            "stars": "116",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "论文《BrushNet：一种基于分解双分支扩散的即插即用图像修复模型》正式实施",
+            "url": "https://github.com/TencentARC/BrushNet",
+            "name": "TencentARC /BrushNet",
+            "description": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "stars": "567",
+            "forks": "63",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Invidious是YouTube的替代前端",
+            "url": "https://github.com/iv-org/invidious",
+            "name": "iv-org /invidious",
+            "description": "Invidious is an alternative front-end to YouTube",
+            "stars": "14,779",
+            "forks": "1,636",
+            "language": "Crystal",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "13,880",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "252,996",
+            "forks": "24,027",
+            "language": "",
+            "stars_today": "415 stars today"
+        },
+        {
+            "zh_des": "Moonlight的自托管游戏流主机。",
+            "url": "https://github.com/LizardByte/Sunshine",
+            "name": "LizardByte /Sunshine",
+            "description": "Self-hosted game stream host for Moonlight.",
+            "stars": "11,917",
+            "forks": "588",
+            "language": "C++",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "一个用纯Python语言编写的计算机代数系统",
+            "url": "https://github.com/sympy/sympy",
+            "name": "sympy /sympy",
+            "description": "A computer algebra system written in pure Python",
+            "stars": "12,177",
+            "forks": "4,274",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
