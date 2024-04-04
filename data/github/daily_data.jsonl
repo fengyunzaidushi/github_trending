@@ -41295,3 +41295,257 @@
         }
     ]
 }
+{
+    "04月04日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "17,595",
+            "forks": "1,743",
+            "language": "Python",
+            "stars_today": "1,144 stars today"
+        },
+        {
+            "zh_des": "$250机械臂此存储库包含用于构建和控制成本约为250美元的低成本机械臂的文件",
+            "url": "https://github.com/AlexanderKoch-Koch/low_cost_robot",
+            "name": "AlexanderKoch-Koch /low_cost_robot",
+            "description": "$250 Robot ArmThis repository contains the files to build and control a low-cost robot arm that costs about $250",
+            "stars": "1,576",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "384 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "1,619",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "308 stars today"
+        },
+        {
+            "zh_des": "一个用纯Python语言编写的计算机代数系统",
+            "url": "https://github.com/sympy/sympy",
+            "name": "sympy /sympy",
+            "description": "A computer algebra system written in pure Python",
+            "stars": "12,302",
+            "forks": "4,283",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "14,073",
+            "forks": "610",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,913",
+            "forks": "23,643",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "[ICLR 2024]SWE-BENCH：语言模型能否解决现实世界的Github问题？",
+            "url": "https://github.com/princeton-nlp/SWE-bench",
+            "name": "princeton-nlp /SWE-bench",
+            "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+            "stars": "917",
+            "forks": "144",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "主西格玛规则存储库",
+            "url": "https://github.com/SigmaHQ/sigma",
+            "name": "SigmaHQ /sigma",
+            "description": "Main Sigma Rule Repository",
+            "stars": "7,531",
+            "forks": "2,085",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "288,946",
+            "forks": "31,478",
+            "language": "Python",
+            "stars_today": "214 stars today"
+        },
+        {
+            "zh_des": "论文《BrushNet：一种基于分解双分支扩散的即插即用图像修复模型》正式实施",
+            "url": "https://github.com/TencentARC/BrushNet",
+            "name": "TencentARC /BrushNet",
+            "description": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "stars": "717",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "Python SQL解析器和转换程序",
+            "url": "https://github.com/tobymao/sqlglot",
+            "name": "tobymao /sqlglot",
+            "description": "Python SQL Parser and Transpiler",
+            "stars": "5,328",
+            "forks": "519",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "250,560",
+            "forks": "42,938",
+            "language": "Python",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,243",
+            "forks": "2,649",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "采草",
+            "url": "https://github.com/MsLolita/grass",
+            "name": "MsLolita /grass",
+            "description": "grass-mining",
+            "stars": "136",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "创建OWASP小抄系列是为了提供关于特定应用程序安全主题的高价值信息的简明集合。",
+            "url": "https://github.com/OWASP/CheatSheetSeries",
+            "name": "OWASP /CheatSheetSeries",
+            "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+            "stars": "26,321",
+            "forks": "3,698",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "视觉Mamba：基于双向状态空间模型的高效视觉表征学习",
+            "url": "https://github.com/hustvl/Vim",
+            "name": "hustvl /Vim",
+            "description": "Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model",
+            "stars": "1,772",
+            "forks": "85",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "构建高质量的LLM应用程序-从原型、测试到生产部署和监控。",
+            "url": "https://github.com/microsoft/promptflow",
+            "name": "microsoft /promptflow",
+            "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+            "stars": "7,846",
+            "forks": "636",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "MuseV：基于视觉条件并行去噪的无限长高保真虚拟人视频生成",
+            "url": "https://github.com/TMElyralab/MuseV",
+            "name": "TMElyralab /MuseV",
+            "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+            "stars": "827",
+            "forks": "75",
+            "language": "Python",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "这是一款提供网页抓取功能的应用程序，包括获取Google和Yelp的评论。",
+            "url": "https://github.com/tamilselvanarjun/pydatascraper",
+            "name": "tamilselvanarjun /pydatascraper",
+            "description": "pydatascraper is a Python application that provides web scraping capabilities, including fetching Google and Yelp reviews.",
+            "stars": "171",
+            "forks": "139",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "🚀“抖音_TikTok_Download_API”是一个开箱即用的高性能异步抖音、快手、TikTok、bilibili数据爬取工具，支持接口调用，在线批量解析及下载。",
+            "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+            "name": "Evil0ctal /Douyin_TikTok_Download_API",
+            "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+            "stars": "6,364",
+            "forks": "1,025",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "FinModels`是一个Python包，它提供了金融和投资分析中常用的各种财务模型的实现。",
+            "url": "https://github.com/tamilselvanarjun/quantmodels",
+            "name": "tamilselvanarjun /quantmodels",
+            "description": "FinModels` is a Python package that provides implementations of various financial models commonly used in finance and investment analysis.",
+            "stars": "152",
+            "forks": "137",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用于将DataFrame附加到不同工作表中的单个Excel文件的实用程序。",
+            "url": "https://github.com/tamilselvanarjun/df2file",
+            "name": "tamilselvanarjun /df2file",
+            "description": "A utility for appending DataFrames to Single Excel file in different sheets.",
+            "stars": "147",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "FinModels是一个Python包，它为分析和优化提供了各种财务模型。",
+            "url": "https://github.com/tamilselvanarjun/finmodels",
+            "name": "tamilselvanarjun /finmodels",
+            "description": "finmodels is a Python package that provides various financial models for analysis and optimization.",
+            "stars": "154",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "使用动态规划的背包问题的一个简单实现。",
+            "url": "https://github.com/tamilselvanarjun/knapsack_algorithm",
+            "name": "tamilselvanarjun /knapsack_algorithm",
+            "description": "A simple implementation of the Knapsack problem using dynamic programming.",
+            "stars": "146",
+            "forks": "139",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "MPLUG-DocOwl：面向文档理解的模块化多通道大型语言模型",
+            "url": "https://github.com/X-PLUG/mPLUG-DocOwl",
+            "name": "X-PLUG /mPLUG-DocOwl",
+            "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+            "stars": "631",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "64 stars today"
+        }
+    ]
+}
