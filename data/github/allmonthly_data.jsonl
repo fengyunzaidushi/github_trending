@@ -39332,3 +39332,257 @@
         }
     ]
 }
+{
+    "04月05日": [
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,743",
+            "forks": "1,180",
+            "language": "HTML",
+            "stars_today": "4,996 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "39,694",
+            "forks": "21,211",
+            "language": "Jupyter Notebook",
+            "stars_today": "13,457 stars this month"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管！",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable!",
+            "stars": "12,042",
+            "forks": "660",
+            "language": "JavaScript",
+            "stars_today": "11,824 stars this month"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "26,986",
+            "forks": "2,670",
+            "language": "Python",
+            "stars_today": "5,248 stars this month"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "73,511",
+            "forks": "9,198",
+            "language": "Java",
+            "stars_today": "9,573 stars this month"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "22,120",
+            "forks": "3,625",
+            "language": "TypeScript",
+            "stars_today": "7,735 stars this month"
+        },
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "3,399",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "3,588 stars this month"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "38,190",
+            "forks": "4,496",
+            "language": "Python",
+            "stars_today": "3,826 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "13,600",
+            "forks": "1,051",
+            "language": "Python",
+            "stars_today": "3,869 stars this month"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "10,611",
+            "forks": "776",
+            "language": "Shell",
+            "stars_today": "6,421 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "18,102",
+            "forks": "810",
+            "language": "JavaScript",
+            "stars_today": "5,532 stars this month"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "10,034",
+            "forks": "1,120",
+            "language": "Rust",
+            "stars_today": "759 stars this month"
+        },
+        {
+            "zh_des": "适用于Web、桌面、移动设备等的全栈图形库。",
+            "url": "https://github.com/DioxusLabs/dioxus",
+            "name": "DioxusLabs /dioxus",
+            "description": "Fullstack GUI library for web, desktop, mobile, and more.",
+            "stars": "17,712",
+            "forks": "671",
+            "language": "Rust",
+            "stars_today": "1,725 stars this month"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": "64,433",
+            "forks": "23,384",
+            "language": "C",
+            "stars_today": "1,023 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "46,676",
+            "forks": "4,025",
+            "language": "Python",
+            "stars_today": "5,470 stars this month"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "12,096",
+            "forks": "566",
+            "language": "C++",
+            "stars_today": "2,389 stars this month"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "19,701",
+            "forks": "2,311",
+            "language": "Mojo",
+            "stars_today": "2,535 stars this month"
+        },
+        {
+            "zh_des": "使用GPT的功能与您的文档进行交互，100%私密，不会泄露数据",
+            "url": "https://github.com/zylon-ai/private-gpt",
+            "name": "zylon-ai /private-gpt",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "51,013",
+            "forks": "6,780",
+            "language": "Python",
+            "stars_today": "3,179 stars this month"
+        },
+        {
+            "zh_des": "Fay是一个开源的数字人类框架，集成了语言模型和数字字符。它为不同的应用提供零售、助理和代理版本，如虚拟导购、广播、助理、服务员、教师和基于语音或文本的移动助理。",
+            "url": "https://github.com/xszyou/Fay",
+            "name": "xszyou /Fay",
+            "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+            "stars": "7,769",
+            "forks": "1,584",
+            "language": "",
+            "stars_today": "813 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥若毅-Vue官方推荐全新Pro版本，优化重构所有功能.基于春靴+MyBatis Plus+Vue&Element实现的后台管理系统+微信小程序，支持基于角色的客户关系管理动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP等功能。明星⭐️⭐️，你的，是作者生发的动力！",
+            "url": "https://github.com/YunaiV/ruoyi-vue-pro",
+            "name": "YunaiV /ruoyi-vue-pro",
+            "description": "🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP 等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！",
+            "stars": "23,728",
+            "forks": "4,912",
+            "language": "Java",
+            "stars_today": "1,399 stars this month"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "3,151",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "1,956 stars this month"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "26,194",
+            "forks": "5,833",
+            "language": "TypeScript",
+            "stars_today": "5,090 stars this month"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "34,071",
+            "forks": "1,721",
+            "language": "Dart",
+            "stars_today": "4,772 stars this month"
+        },
+        {
+            "zh_des": "语言链接的Java版本",
+            "url": "https://github.com/langchain4j/langchain4j",
+            "name": "langchain4j /langchain4j",
+            "description": "Java version of LangChain",
+            "stars": "2,800",
+            "forks": "530",
+            "language": "Java",
+            "stars_today": "951 stars this month"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "56,082",
+            "forks": "10,382",
+            "language": "Python",
+            "stars_today": "1,662 stars this month"
+        }
+    ]
+}

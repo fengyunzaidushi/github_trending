@@ -30044,3 +30044,257 @@
         }
     ]
 }
+{
+    "04月05日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "39,694",
+            "forks": "21,211",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,865 stars today"
+        },
+        {
+            "zh_des": "开源人工智能食谱",
+            "url": "https://github.com/huggingface/cookbook",
+            "name": "huggingface /cookbook",
+            "description": "Open-source AI cookbook",
+            "stars": "1,064",
+            "forks": "138",
+            "language": "Jupyter Notebook",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "⚠Leia A期FIXADA！Reposationório do Lab Contribuindo em Um Projeto Open Source no GitHub da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "⚠LEIA A ISSUE FIXADA! Repositório do lab Contribuindo em um Projeto Open Source no GitHub da Digital Innovation One.",
+            "stars": "3,194",
+            "forks": "23,946",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,454",
+            "forks": "6,580",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "公开回购高频博客帖子",
+            "url": "https://github.com/huggingface/blog",
+            "name": "huggingface /blog",
+            "description": "Public repo for HF blog posts",
+            "stars": "1,936",
+            "forks": "599",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,203",
+            "forks": "827",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "机器学习基础：线性代数、微积分、统计学和计算机科学",
+            "url": "https://github.com/jonkrohn/ML-foundations",
+            "name": "jonkrohn /ML-foundations",
+            "description": "Machine Learning Foundations: Linear Algebra, Calculus, Statistics & Computer Science",
+            "stars": "2,902",
+            "forks": "1,415",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "接地-SAM：将接地-Dino与Segment Anything&稳定扩散和识别Anything相结合-自动检测、分段和生成任何内容",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "13,223",
+            "forks": "1,198",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,151",
+            "forks": "5,370",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]实时开放词汇对象检测",
+            "url": "https://github.com/AILab-CVC/YOLO-World",
+            "name": "AILab-CVC /YOLO-World",
+            "description": "[CVPR 2024] Real-Time Open-Vocabulary Object Detection",
+            "stars": "3,066",
+            "forks": "282",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "22,146",
+            "forks": "4,726",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]用于实时动态场景渲染的四维高斯飞溅",
+            "url": "https://github.com/hustvl/4DGaussians",
+            "name": "hustvl /4DGaussians",
+            "description": "[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+            "stars": "1,593",
+            "forks": "117",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,592",
+            "forks": "7,968",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "8,610",
+            "forks": "1,645",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "用于TimeGPT的PythonSDK，一个基本的时间序列模型",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "Python SDK for TimeGPT, a foundational time series model",
+            "stars": "1,336",
+            "forks": "109",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,215",
+            "forks": "14,809",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个用于AutoML和调优的快速库。加入我们的不和：https://discord.gg/Cppx2vSPVP.",
+            "url": "https://github.com/microsoft/FLAML",
+            "name": "microsoft /FLAML",
+            "description": "A fast library for AutoML and tuning. Join our Discord:https://discord.gg/Cppx2vSPVP.",
+            "stars": "3,646",
+            "forks": "481",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "使用一个开源培训库轻松培训或微调SOTA计算机视觉模型。Yolo-Nas的故乡。",
+            "url": "https://github.com/Deci-AI/super-gradients",
+            "name": "Deci-AI /super-gradients",
+            "description": "Easily train or fine-tune SOTA computer vision models with one open source training library. The home of Yolo-NAS.",
+            "stars": "4,297",
+            "forks": "465",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Brev",
+            "url": "https://github.com/brevdev/notebooks",
+            "name": "brevdev /notebooks",
+            "description": "Brev",
+            "stars": "1,351",
+            "forks": "223",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "FullStackRetrival注册在FullStackRetrieval进行全栈检索",
+            "url": "https://github.com/FullStackRetrieval-com/RetrievalTutorials",
+            "name": "FullStackRetrieval-com /RetrievalTutorials",
+            "description": "Full Stack RetrievalSignup for Full Stack Retrieval at FullStackRetrieval",
+            "stars": "271",
+            "forks": "40",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "谷歌云上生成式人工智能的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud",
+            "stars": "5,158",
+            "forks": "1,187",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "LangChain공식文档、食谱、그밖의실용예제를바탕으로작성한한국어튜토리얼입니다。본튜토리얼을통해Lang Chain을더쉽고효과적으로사용하는방법을배울수있습니다.",
+            "url": "https://github.com/teddylee777/langchain-kr",
+            "name": "teddylee777 /langchain-kr",
+            "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+            "stars": "319",
+            "forks": "65",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+            "url": "https://github.com/bnsreenu/python_for_microscopists",
+            "name": "bnsreenu /python_for_microscopists",
+            "description": "https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+            "stars": "3,544",
+            "forks": "2,255",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于存储样例Python程序的存储库，用于学习",
+            "url": "https://github.com/codebasics/py",
+            "name": "codebasics /py",
+            "description": "Repository to store sample python programs for python learning",
+            "stars": "6,597",
+            "forks": "16,589",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "本项目将“动手学深度学习”(深入学习)原书中的MXnet实现改为Py Torch实现。",
+            "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+            "name": "ShusenTang /Dive-into-DL-PyTorch",
+            "description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+            "stars": "17,712",
+            "forks": "5,332",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
