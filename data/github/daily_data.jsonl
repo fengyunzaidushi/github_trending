@@ -42057,3 +42057,257 @@
         }
     ]
 }
+{
+    "04月05日": [
+        {
+            "zh_des": "SWE-AGENT：使能软件工程语言模型的代理计算机接口",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent: Agent Computer Interfaces Enable Software Engineering Language Models",
+            "stars": "6,074",
+            "forks": "519",
+            "language": "Python",
+            "stars_today": "1,553 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "2,255",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "441 stars today"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "4,633",
+            "forks": "8,245",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "DBT使数据分析师和工程师能够使用软件工程师用于构建应用程序的相同实践来转换他们的数据。",
+            "url": "https://github.com/dbt-labs/dbt-core",
+            "name": "dbt-labs /dbt-core",
+            "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+            "stars": "8,783",
+            "forks": "1,483",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "使用GPT的功能与您的文档进行交互，100%私密，不会泄露数据",
+            "url": "https://github.com/zylon-ai/private-gpt",
+            "name": "zylon-ai /private-gpt",
+            "description": "Interact with your documents using the power of GPT, 100% privately, no data leaks",
+            "stars": "51,038",
+            "forks": "6,787",
+            "language": "Python",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "51,903",
+            "forks": "3,788",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "一种真正可插装的二进制仿真框架",
+            "url": "https://github.com/qilingframework/qiling",
+            "name": "qilingframework /qiling",
+            "description": "A True Instrumentable Binary Emulation Framework",
+            "stars": "4,763",
+            "forks": "718",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "基于HMAC通信的零知识证明在Python语言中的实现",
+            "url": "https://github.com/zk-Call/zkp-hmac-communication-python",
+            "name": "zk-Call /zkp-hmac-communication-python",
+            "description": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in Python",
+            "stars": "797",
+            "forks": "151",
+            "language": "Python",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件.无需申请第三方接口，本地实现。基于人工智能的工具，用于从视频或图片中删除硬编码字幕和类似文本的水印。",
+            "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+            "name": "YaoFANGUK /video-subtitle-remover",
+            "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+            "stars": "1,550",
+            "forks": "211",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "微信朋友圈导出工具-技术爬爬虾",
+            "url": "https://github.com/tech-shrimp/WechatMoments",
+            "name": "tech-shrimp /WechatMoments",
+            "description": "微信朋友圈导出工具-技术爬爬虾",
+            "stars": "146",
+            "forks": "16",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "6,965",
+            "forks": "882",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Panel：强大的数据探索和Web应用程序框架",
+            "url": "https://github.com/holoviz/panel",
+            "name": "holoviz /panel",
+            "description": "Panel: The powerful data exploration & web app framework for Python",
+            "stars": "4,082",
+            "forks": "455",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "6,436",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统，1面板官方出品。开箱即用，支持快速嵌入到第三方业务系统.",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统，1Panel 官方出品。开箱即用，支持快速嵌入到第三方业务系统。",
+            "stars": "141",
+            "forks": "16",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Demisto现在是Cortex XSOAR。使用Cortex XSOAR不断增长的内容存储库，自动执行和协调您的安全操作。拉取请求总是受到欢迎和高度赞赏！",
+            "url": "https://github.com/demisto/content",
+            "name": "demisto /content",
+            "description": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+            "stars": "1,062",
+            "forks": "1,566",
+            "language": "Python",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope等无缝集成的PyTorch LLM库。",
+            "url": "https://github.com/intel-analytics/ipex-llm",
+            "name": "intel-analytics /ipex-llm",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "5,612",
+            "forks": "1,181",
+            "language": "Python",
+            "stars_today": "195 stars today"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "1,264",
+            "forks": "83",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "[ICLR 2024]SWE-BENCH：语言模型能否解决现实世界的Github问题？",
+            "url": "https://github.com/princeton-nlp/SWE-bench",
+            "name": "princeton-nlp /SWE-bench",
+            "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+            "stars": "967",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "60,937",
+            "forks": "23,646",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "评估的宇宙。所有关于LLMS的评估。",
+            "url": "https://github.com/UpstageAI/evalverse",
+            "name": "UpstageAI /evalverse",
+            "description": "The Universe of Evaluation. All about the evaluation for LLMs.",
+            "stars": "109",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "[ICCV 2023]ProPainter：改进视频修复的传播和转换",
+            "url": "https://github.com/sczhou/ProPainter",
+            "name": "sczhou /ProPainter",
+            "description": "[ICCV 2023] ProPainter: Improving Propagation and Transformer for Video Inpainting",
+            "stars": "4,526",
+            "forks": "550",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "289,375",
+            "forks": "31,508",
+            "language": "Python",
+            "stars_today": "316 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "7,303",
+            "forks": "819",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "大世界模型(LWM)",
+            "url": "https://github.com/LargeWorldModel/LWM",
+            "name": "LargeWorldModel /LWM",
+            "description": "Large World Model (LWM)",
+            "stars": "6,669",
+            "forks": "524",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "$250机械臂此存储库包含用于构建和控制成本约为250美元的低成本机械臂的文件",
+            "url": "https://github.com/AlexanderKoch-Koch/low_cost_robot",
+            "name": "AlexanderKoch-Koch /low_cost_robot",
+            "description": "$250 Robot ArmThis repository contains the files to build and control a low-cost robot arm that costs about $250",
+            "stars": "1,724",
+            "forks": "95",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        }
+    ]
+}

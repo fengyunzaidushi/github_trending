@@ -39586,3 +39586,147 @@
         }
     ]
 }
+{
+    "04月05日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "39,854",
+            "forks": "21,313",
+            "language": "Jupyter Notebook",
+            "stars_today": "13,457 stars this month"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "6,775",
+            "forks": "1,187",
+            "language": "HTML",
+            "stars_today": "4,996 stars this month"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "27,019",
+            "forks": "2,672",
+            "language": "Python",
+            "stars_today": "5,248 stars this month"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "22,152",
+            "forks": "3,628",
+            "language": "TypeScript",
+            "stars_today": "7,735 stars this month"
+        },
+        {
+            "zh_des": "你好，算法“：动画图解、一键运行的数据结构与算法教程，支持，C++，JAVA，C#，GO，SWIFT，JS，TS，DART，RUST，C，ZIG等语言。英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing",
+            "stars": "73,574",
+            "forks": "9,202",
+            "language": "Java",
+            "stars_today": "9,573 stars this month"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管！",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable!",
+            "stars": "12,161",
+            "forks": "664",
+            "language": "JavaScript",
+            "stars_today": "11,824 stars this month"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "38,209",
+            "forks": "4,498",
+            "language": "Python",
+            "stars_today": "3,826 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "13,613",
+            "forks": "1,051",
+            "language": "Python",
+            "stars_today": "3,869 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "18,157",
+            "forks": "812",
+            "language": "JavaScript",
+            "stars_today": "5,532 stars this month"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "10,046",
+            "forks": "1,120",
+            "language": "Rust",
+            "stars_today": "759 stars this month"
+        },
+        {
+            "zh_des": "TripoSR",
+            "url": "https://github.com/VAST-AI-Research/TripoSR",
+            "name": "VAST-AI-Research /TripoSR",
+            "description": "TripoSR",
+            "stars": "3,408",
+            "forks": "395",
+            "language": "Python",
+            "stars_today": "3,588 stars this month"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": "64,443",
+            "forks": "23,390",
+            "language": "C",
+            "stars_today": "1,023 stars this month"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "12,137",
+            "forks": "569",
+            "language": "C++",
+            "stars_today": "2,389 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "46,715",
+            "forks": "4,029",
+            "language": "Python",
+            "stars_today": "5,470 stars this month"
+        }
+    ]
+}
