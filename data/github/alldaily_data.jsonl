@@ -43804,3 +43804,257 @@
         }
     ]
 }
+{
+    "04月07日": [
+        {
+            "zh_des": "面向复杂任务的人工智能编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for complex tasks",
+            "stars": "4,788",
+            "forks": "276",
+            "language": "Go",
+            "stars_today": "1,435 stars today"
+        },
+        {
+            "zh_des": "Ore程序的Ore CLIA命令行界面",
+            "url": "https://github.com/HardhatChad/ore-cli",
+            "name": "HardhatChad /ore-cli",
+            "description": "Ore CLIA command line interface for the Ore program",
+            "stars": "643",
+            "forks": "277",
+            "language": "Rust",
+            "stars_today": "377 stars today"
+        },
+        {
+            "zh_des": "计算机自学指南",
+            "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+            "name": "PKUFlyingPig /cs-self-learning",
+            "description": "计算机自学指南",
+            "stars": "47,435",
+            "forks": "5,888",
+            "language": "HTML",
+            "stars_today": "986 stars today"
+        },
+        {
+            "zh_des": "矿石",
+            "url": "https://github.com/HardhatChad/ore",
+            "name": "HardhatChad /ore",
+            "description": "Ore",
+            "stars": "352",
+            "forks": "91",
+            "language": "Rust",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "AstroNvim是一个美观且功能丰富的nevim配置，它是可扩展的，并且易于与一组优秀的插件一起使用",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "name": "AstroNvim /AstroNvim",
+            "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+            "stars": "11,637",
+            "forks": "872",
+            "language": "Lua",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "386,347",
+            "forks": "35,120",
+            "language": "TypeScript",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "318,063",
+            "forks": "59,626",
+            "language": "",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "289,863",
+            "forks": "31,561",
+            "language": "Python",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "免费",
+            "url": "https://github.com/aurora-develop/aurora",
+            "name": "aurora-develop /aurora",
+            "description": "free",
+            "stars": "1,150",
+            "forks": "383",
+            "language": "Go",
+            "stars_today": "233 stars today"
+        },
+        {
+            "zh_des": "以10万美元达到LLaMA2性能",
+            "url": "https://github.com/myshell-ai/JetMoE",
+            "name": "myshell-ai /JetMoE",
+            "description": "Reaching LLaMA2 Performance with 0.1M Dollars",
+            "stars": "529",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "Next.js+🚀🎉📚+Shadcn UI+TypeScrip构建的Next.js SaaS样板。具有身份验证、多租户、角色和权限、I18N、登录页、数据库、日志记录、测试的⚡️全堆栈Reaction应用程序",
+            "url": "https://github.com/ixartz/SaaS-Boilerplate",
+            "name": "ixartz /SaaS-Boilerplate",
+            "description": "🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
+            "stars": "1,424",
+            "forks": "171",
+            "language": "TypeScript",
+            "stars_today": "341 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "11,227",
+            "forks": "829",
+            "language": "Shell",
+            "stars_today": "377 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "272,374",
+            "forks": "36,705",
+            "language": "TypeScript",
+            "stars_today": "291 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "7,597",
+            "forks": "936",
+            "language": "Python",
+            "stars_today": "329 stars today"
+        },
+        {
+            "zh_des": "欢迎来到Orange Meets",
+            "url": "https://github.com/cloudflare/orange",
+            "name": "cloudflare /orange",
+            "description": "Welcome to Orange Meets",
+            "stars": "483",
+            "forks": "31",
+            "language": "TypeScript",
+            "stars_today": "168 stars today"
+        },
+        {
+            "zh_des": "可用光",
+            "url": "https://github.com/availproject/avail-light",
+            "name": "availproject /avail-light",
+            "description": "avail-light",
+            "stars": "374",
+            "forks": "894",
+            "language": "Rust",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "75,886",
+            "forks": "5,230",
+            "language": "Vim Script",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "可用节点",
+            "url": "https://github.com/availproject/avail",
+            "name": "availproject /avail",
+            "description": "Avail Node",
+            "stars": "574",
+            "forks": "396",
+            "language": "Rust",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🎓免费自学计算机科学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "161,764",
+            "forks": "20,305",
+            "language": "",
+            "stars_today": "299 stars today"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+            "stars": "887",
+            "forks": "47",
+            "language": "Python",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "贡献精灵宝可梦精灵是一个基于📝Fangame的浏览器，灵感主要来自流氓类型",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "Contributing📝 CreditsPokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre",
+            "stars": "74",
+            "forks": "28",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "251,152",
+            "forks": "43,013",
+            "language": "Python",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "用于构建内部工具、管理面板、仪表板和B2B应用程序的Reaction框架，具有无与伦比的灵活性。",
+            "url": "https://github.com/refinedev/refine",
+            "name": "refinedev /refine",
+            "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+            "stars": "24,034",
+            "forks": "1,746",
+            "language": "TypeScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "一个多核友好的刚体物理和碰撞检测库，用C++编写，适合游戏和VR应用程序。",
+            "url": "https://github.com/jrouwe/JoltPhysics",
+            "name": "jrouwe /JoltPhysics",
+            "description": "A multi core friendly rigid body physics and collision detection library, written in C++, suitable for games and VR applications.",
+            "stars": "5,333",
+            "forks": "320",
+            "language": "C++",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/logspace-ai/langflow",
+            "name": "logspace-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,094",
+            "forks": "2,386",
+            "language": "JavaScript",
+            "stars_today": "111 stars today"
+        }
+    ]
+}
