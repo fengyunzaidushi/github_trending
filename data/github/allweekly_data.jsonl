@@ -41534,3 +41534,257 @@
         }
     ]
 }
+{
+    "04月08日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "40,447",
+            "forks": "21,681",
+            "language": "Jupyter Notebook",
+            "stars_today": "7,688 stars this week"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "19,407",
+            "forks": "1,984",
+            "language": "Python",
+            "stars_today": "6,991 stars this week"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "5,987",
+            "forks": "597",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,045 stars this week"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。我们将其命名为Valkey，因为它是键值数据存储的一个变种。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+            "stars": "8,665",
+            "forks": "318",
+            "language": "C",
+            "stars_today": "4,047 stars this week"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "2,810",
+            "forks": "476",
+            "language": "TypeScript",
+            "stars_today": "1,118 stars this week"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "3,220",
+            "forks": "419",
+            "language": "Python",
+            "stars_today": "936 stars this week"
+        },
+        {
+            "zh_des": "使用自然语言理念创建定制软件(通过LLM支持的多代理协作)",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "name": "OpenBMB /ChatDev",
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+            "stars": "21,884",
+            "forks": "2,744",
+            "language": "Shell",
+            "stars_today": "1,049 stars this week"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "12,461",
+            "forks": "590",
+            "language": "C++",
+            "stars_today": "1,464 stars this week"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "13,377",
+            "forks": "3,209",
+            "language": "JavaScript",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "8,089",
+            "forks": "1,218",
+            "language": "Python",
+            "stars_today": "1,701 stars this week"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "19,925",
+            "forks": "2,330",
+            "language": "Mojo",
+            "stars_today": "1,198 stars this week"
+        },
+        {
+            "zh_des": "一个后现代模式文本编辑器。",
+            "url": "https://github.com/helix-editor/helix",
+            "name": "helix-editor /helix",
+            "description": "A post-modern modal text editor.",
+            "stars": "29,689",
+            "forks": "2,180",
+            "language": "Rust",
+            "stars_today": "561 stars this week"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "1,834",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "872 stars this week"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "281,728",
+            "forks": "72,240",
+            "language": "",
+            "stars_today": "1,182 stars this week"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope等无缝集成的PyTorch LLM库。",
+            "url": "https://github.com/intel-analytics/ipex-llm",
+            "name": "intel-analytics /ipex-llm",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "5,718",
+            "forks": "1,187",
+            "language": "Python",
+            "stars_today": "688 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "16,265",
+            "forks": "885",
+            "language": "TypeScript",
+            "stars_today": "1,889 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "272,523",
+            "forks": "36,742",
+            "language": "TypeScript",
+            "stars_today": "1,715 stars this week"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "14,160",
+            "forks": "612",
+            "language": "Python",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/logspace-ai/langflow",
+            "name": "logspace-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,223",
+            "forks": "2,415",
+            "language": "JavaScript",
+            "stars_today": "772 stars this week"
+        },
+        {
+            "zh_des": "DBRX的代码示例和资源，DBRX是由Databricks开发的大型语言模型",
+            "url": "https://github.com/databricks/dbrx",
+            "name": "databricks /dbrx",
+            "description": "Code examples and resources for DBRX, a large language model developed by Databricks",
+            "stars": "2,197",
+            "forks": "204",
+            "language": "Python",
+            "stars_today": "565 stars this week"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "254,817",
+            "forks": "24,153",
+            "language": "",
+            "stars_today": "2,757 stars this week"
+        },
+        {
+            "zh_des": "支持所有平台的现代下载管理器。用高朗和飞舞打造。",
+            "url": "https://github.com/GopeedLab/gopeed",
+            "name": "GopeedLab /gopeed",
+            "description": "A modern download manager that supports all platforms. Built with Golang and Flutter.",
+            "stars": "12,462",
+            "forks": "892",
+            "language": "Dart",
+            "stars_today": "622 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "386,494",
+            "forks": "35,160",
+            "language": "TypeScript",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "令人难以置信的快速的JavaScript运行时、绑定器、测试运行器和包管理器-所有这些都集于一身",
+            "url": "https://github.com/oven-sh/bun",
+            "name": "oven-sh /bun",
+            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+            "stars": "70,006",
+            "forks": "2,402",
+            "language": "Zig",
+            "stars_today": "832 stars this week"
+        },
+        {
+            "zh_des": "免费和开源的AI图像升级器，适用于🆙、MacOS和Windows，构建于LinuxFirst。",
+            "url": "https://github.com/upscayl/upscayl",
+            "name": "upscayl /upscayl",
+            "description": "🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.",
+            "stars": "25,581",
+            "forks": "1,113",
+            "language": "TypeScript",
+            "stars_today": "1,631 stars this week"
+        }
+    ]
+}
