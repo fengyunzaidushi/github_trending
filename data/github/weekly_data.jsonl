@@ -41834,3 +41834,257 @@
         }
     ]
 }
+{
+    "04月09日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "19,989",
+            "forks": "2,079",
+            "language": "Python",
+            "stars_today": "6,544 stars this week"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "3,280",
+            "forks": "422",
+            "language": "Python",
+            "stars_today": "674 stars this week"
+        },
+        {
+            "zh_des": "🚀“抖音_TikTok_Download_API”是一个开箱即用的高性能异步抖音、快手、TikTok、bilibili数据爬取工具，支持接口调用，在线批量解析及下载。",
+            "url": "https://github.com/Evil0ctal/Douyin_TikTok_Download_API",
+            "name": "Evil0ctal /Douyin_TikTok_Download_API",
+            "description": "🚀「Douyin_TikTok_Download_API」是一个开箱即用的高性能异步抖音、快手、TikTok、Bilibili数据爬取工具，支持API调用，在线批量解析及下载。",
+            "stars": "6,580",
+            "forks": "1,048",
+            "language": "Python",
+            "stars_today": "471 stars this week"
+        },
+        {
+            "zh_des": "加速本地LLM推理和微调(骆驼、米斯特拉尔、ChatGLM、Qwen、白川、Mixtral、Gema等)在Intel CPU和GPU(例如，带有IGPU的本地PC、独立的GPU，如Arc、Flex和Max)上。一个与llama.cpp、HuggingFace、LangChain、LlamaIndex、DeepSpeed、vLLM、FastChat、ModelScope等无缝集成的PyTorch LLM库。",
+            "url": "https://github.com/intel-analytics/ipex-llm",
+            "name": "intel-analytics /ipex-llm",
+            "description": "Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, Baichuan, Mixtral, Gemma, etc.) on Intel CPU and GPU (e.g., local PC with iGPU, discrete GPU such as Arc, Flex and Max). A PyTorch LLM library that seamlessly integrates with llama.cpp, HuggingFace, LangChain, LlamaIndex, DeepSpeed, vLLM, FastChat, ModelScope, etc.",
+            "stars": "5,752",
+            "forks": "1,189",
+            "language": "Python",
+            "stars_today": "704 stars this week"
+        },
+        {
+            "zh_des": "DBRX的代码示例和资源，DBRX是由Databricks开发的大型语言模型",
+            "url": "https://github.com/databricks/dbrx",
+            "name": "databricks /dbrx",
+            "description": "Code examples and resources for DBRX, a large language model developed by Databricks",
+            "stars": "2,235",
+            "forks": "209",
+            "language": "Python",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "7,225",
+            "forks": "689",
+            "language": "Python",
+            "stars_today": "989 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "8,311",
+            "forks": "1,256",
+            "language": "Python",
+            "stars_today": "1,394 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "290,250",
+            "forks": "31,627",
+            "language": "Python",
+            "stars_today": "1,944 stars this week"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "14,190",
+            "forks": "613",
+            "language": "Python",
+            "stars_today": "466 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "56,463",
+            "forks": "12,812",
+            "language": "Python",
+            "stars_today": "670 stars this week"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "1,989",
+            "forks": "208",
+            "language": "Python",
+            "stars_today": "806 stars this week"
+        },
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "2,337",
+            "forks": "250",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "$250机械臂此存储库包含用于构建和控制成本约为250美元的低成本机械臂的文件",
+            "url": "https://github.com/AlexanderKoch-Koch/low_cost_robot",
+            "name": "AlexanderKoch-Koch /low_cost_robot",
+            "description": "$250 Robot ArmThis repository contains the files to build and control a low-cost robot arm that costs about $250",
+            "stars": "1,843",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "1,200 stars this week"
+        },
+        {
+            "zh_des": "论文《BrushNet：一种基于分解双分支扩散的即插即用图像修复模型》正式实施",
+            "url": "https://github.com/TencentARC/BrushNet",
+            "name": "TencentARC /BrushNet",
+            "description": "The official implementation of paper \"BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion\"",
+            "stars": "773",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "我们提供非官方的Suno AI API，无需部署或设置。👇",
+            "url": "https://github.com/SunoAI-API/Suno-API",
+            "name": "SunoAI-API /Suno-API",
+            "description": "We provide an unofficial Suno AI API, no deployment or setup required.👇",
+            "stars": "867",
+            "forks": "95",
+            "language": "Python",
+            "stars_today": "223 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "251,420",
+            "forks": "43,047",
+            "language": "Python",
+            "stars_today": "1,352 stars this week"
+        },
+        {
+            "zh_des": "MPLUG-DocOwl：面向文档理解的模块化多通道大型语言模型",
+            "url": "https://github.com/X-PLUG/mPLUG-DocOwl",
+            "name": "X-PLUG /mPLUG-DocOwl",
+            "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+            "stars": "724",
+            "forks": "40",
+            "language": "Python",
+            "stars_today": "268 stars this week"
+        },
+        {
+            "zh_des": "MuseV：基于视觉条件并行去噪的无限长高保真虚拟人视频生成",
+            "url": "https://github.com/TMElyralab/MuseV",
+            "name": "TMElyralab /MuseV",
+            "description": "MuseV: Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising",
+            "stars": "1,050",
+            "forks": "91",
+            "language": "Python",
+            "stars_today": "511 stars this week"
+        },
+        {
+            "zh_des": "一个用纯Python语言编写的计算机代数系统",
+            "url": "https://github.com/sympy/sympy",
+            "name": "sympy /sympy",
+            "description": "A computer algebra system written in pure Python",
+            "stars": "12,333",
+            "forks": "4,287",
+            "language": "Python",
+            "stars_today": "287 stars this week"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "34,265",
+            "forks": "22,394",
+            "language": "Python",
+            "stars_today": "172 stars this week"
+        },
+        {
+            "zh_des": "语音数据<=10分钟也可以用来训练一个好的VC模型！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Voice data <= 10 mins can also be used to train a good VC model!",
+            "stars": "18,485",
+            "forks": "2,858",
+            "language": "Python",
+            "stars_today": "359 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,301",
+            "forks": "27,768",
+            "language": "Python",
+            "stars_today": "153 stars this week"
+        },
+        {
+            "zh_des": "TVBox、影视仓、影迷配置文件，自动更新，可自定义配置，可用于IPTV电视，自定义频道菜单，定时自动更新模板直播源接口，过滤ipv4/ipv6接口，按响应时间、分辨率综合排序，保证时效性|自动更新tvbox配置，可为iptv定制，自定义频道菜单，安排实况源更新，过滤ipv4/ipv6接口，按响应时间、分辨率排序，确保及时性",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "TVBox、影视仓、影迷配置文件，自动更新，可自定义配置，可用于IPTV电视，自定义频道菜单，定时自动更新模板直播源接口，过滤ipv4/ipv6接口，按响应时间、分辨率综合排序，保证时效性 | Auto-updating TVBox configs, customizable for IPTV, custom channel menus, scheduled live source updates, filters ipv4/ipv6 interfaces, sorts by response time, resolution, ensures timeliness",
+            "stars": "185",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "让您的公司实现数据驱动。连接到任何数据源，轻松可视化、仪表板和共享您的数据。",
+            "url": "https://github.com/getredash/redash",
+            "name": "getredash /redash",
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.",
+            "stars": "24,858",
+            "forks": "4,235",
+            "language": "Python",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "构建具有长期内存📚🦙的持久LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Building persistent LLM agents with long-term memory 📚🦙",
+            "stars": "8,415",
+            "forks": "935",
+            "language": "Python",
+            "stars_today": "97 stars this week"
+        }
+    ]
+}
