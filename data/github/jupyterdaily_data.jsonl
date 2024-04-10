@@ -32838,3 +32838,257 @@
         }
     ]
 }
+{
+    "04月10日": [
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "2,206",
+            "forks": "263",
+            "language": "Jupyter Notebook",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "AI--记者",
+            "url": "https://github.com/mshumer/ai-journalist",
+            "name": "mshumer /ai-journalist",
+            "description": "AI-Journalist",
+            "stars": "611",
+            "forks": "82",
+            "language": "Jupyter Notebook",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "ViXTTS DemoviXTTS是一个文本到语音转换语音生成工具，提供越南语和其他语言的语音克隆",
+            "url": "https://github.com/thinhlpg/vixtts-demo",
+            "name": "thinhlpg /vixtts-demo",
+            "description": "viXTTS DemoviXTTS is a text-to-speech voice generation tool that offers voice cloning voices in Vietnamese and other languages",
+            "stars": "118",
+            "forks": "64",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "基于图形的检索+GenAI=生产中更好的RAG",
+            "url": "https://github.com/Joshua-Yu/graph-rag",
+            "name": "Joshua-Yu /graph-rag",
+            "description": "Graph based retrieval + GenAI = Better RAG in production",
+            "stars": "75",
+            "forks": "24",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "21,862",
+            "forks": "2,948",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "572",
+            "forks": "50",
+            "language": "Jupyter Notebook",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,683",
+            "forks": "7,674",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "运行良好的💿自由软件，而且碰巧也是开源的。",
+            "url": "https://github.com/mahmoud/awesome-python-applications",
+            "name": "mahmoud /awesome-python-applications",
+            "description": "💿 Free software that works great, and also happens to be open-source Python.",
+            "stars": "16,158",
+            "forks": "2,646",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "移动ALOHA：通过低成本的全身遥操作学习双手移动操作",
+            "url": "https://github.com/MarkFzp/mobile-aloha",
+            "name": "MarkFzp /mobile-aloha",
+            "description": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+            "stars": "3,299",
+            "forks": "582",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "来自谷歌DeepMind的Open Weight LLM。",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "1,957",
+            "forks": "240",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,253",
+            "forks": "2,791",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "AISystem主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "url": "https://github.com/chenzomi12/AISystem",
+            "name": "chenzomi12 /AISystem",
+            "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "stars": "7,912",
+            "forks": "1,086",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,224",
+            "forks": "1,185",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "实用化学信息学教程",
+            "url": "https://github.com/PatWalters/practical_cheminformatics_tutorials",
+            "name": "PatWalters /practical_cheminformatics_tutorials",
+            "description": "Practical Cheminformatics Tutorials",
+            "stars": "594",
+            "forks": "96",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "开源且基础较强的图像识别模型。",
+            "url": "https://github.com/xinyu1205/recognize-anything",
+            "name": "xinyu1205 /recognize-anything",
+            "description": "Open-source and strong foundation image recognition models.",
+            "stars": "2,361",
+            "forks": "216",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Vision Transformer和MLP-Mixer架构如果使用GPU：如果使用TPU：设置以下所有命令使用的变量",
+            "url": "https://github.com/google-research/vision_transformer",
+            "name": "google-research /vision_transformer",
+            "description": "Vision Transformer and MLP-Mixer ArchitecturesIf using GPU:If using TPU:Set variables used by all commands below",
+            "stars": "9,164",
+            "forks": "1,191",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,469",
+            "forks": "6,585",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,621",
+            "forks": "7,984",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "998",
+            "forks": "416",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "了解如何设计、开发、部署和迭代生产级ML应用程序。",
+            "url": "https://github.com/GokuMohandas/Made-With-ML",
+            "name": "GokuMohandas /Made-With-ML",
+            "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+            "stars": "35,546",
+            "forks": "5,716",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法对Llama2进行微调的脚本，以覆盖单节点/多节点GPU。支持应用程序的默认和自定义数据集，如摘要和问题回答。支持多种直截了当的推理解决方案，例如用于本地或云部署的HF TGI、VLLM。演示用于WhatsApp和Messenger的Llama2应用程序",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+            "stars": "8,180",
+            "forks": "1,161",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "分割医学图像中的任何内容",
+            "url": "https://github.com/bowang-lab/MedSAM",
+            "name": "bowang-lab /MedSAM",
+            "description": "Segment Anything in Medical Images",
+            "stars": "2,114",
+            "forks": "260",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,225",
+            "forks": "83,125",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "8,112",
+            "forks": "1,075",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "3,386",
+            "forks": "297",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        }
+    ]
+}
