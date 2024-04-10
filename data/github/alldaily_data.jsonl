@@ -45074,3 +45074,257 @@
         }
     ]
 }
+{
+    "04月10日": [
+        {
+            "zh_des": "FreeAskInternet是一个完全免费的，私有的，本地运行的搜索聚合器和答案生成使用LLM，不需要图形处理器。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到ChatGPT3.5 LLM，并根据搜索结果生成答案。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, private and locally running search aggregator & answer generate using LLM, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to the ChatGPT3.5 LLM and generate the answer based on search results.",
+            "stars": "3,976",
+            "forks": "412",
+            "language": "Python",
+            "stars_today": "1,284 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we deeply wish the open source community contribute to this project.",
+            "stars": "8,036",
+            "forks": "730",
+            "language": "Python",
+            "stars_today": "405 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "3,121",
+            "forks": "541",
+            "language": "TypeScript",
+            "stars_today": "410 stars today"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "2,797",
+            "forks": "177",
+            "language": "JavaScript",
+            "stars_today": "665 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "290,632",
+            "forks": "31,679",
+            "language": "Python",
+            "stars_today": "202 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": "11,942",
+            "forks": "897",
+            "language": "Shell",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "贡献精灵宝可梦精灵是一个基于📝Fangame的浏览器，灵感主要来自流氓类型",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "Contributing📝 CreditsPokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre",
+            "stars": "361",
+            "forks": "135",
+            "language": "TypeScript",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+            "stars": "1,683",
+            "forks": "160",
+            "language": "Python",
+            "stars_today": "323 stars today"
+        },
+        {
+            "zh_des": "面向复杂任务的人工智能编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for complex tasks",
+            "stars": "7,822",
+            "forks": "620",
+            "language": "Go",
+            "stars_today": "1,459 stars today"
+        },
+        {
+            "zh_des": "建设互联网上最好的系统设计资源",
+            "url": "https://github.com/systemdesign42/system-design",
+            "name": "systemdesign42 /system-design",
+            "description": "Building the best system design resource in the internet",
+            "stars": "7,140",
+            "forks": "692",
+            "language": "",
+            "stars_today": "367 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "31,331",
+            "forks": "2,637",
+            "language": "",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "20,144",
+            "forks": "2,627",
+            "language": "Python",
+            "stars_today": "581 stars today"
+        },
+        {
+            "zh_des": "一站式存储库，提供人工智能研究更新、访谈资源、笔记本等内容！",
+            "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+            "name": "aishwaryanr /awesome-generative-ai-guide",
+            "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+            "stars": "3,519",
+            "forks": "687",
+            "language": "",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "66,970",
+            "forks": "54,402",
+            "language": "TypeScript",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "12,585",
+            "forks": "657",
+            "language": "PHP",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "5,319",
+            "forks": "5,952",
+            "language": "TypeScript",
+            "stars_today": "191 stars today"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "2,185",
+            "forks": "244",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "386,849",
+            "forks": "35,211",
+            "language": "TypeScript",
+            "stars_today": "231 stars today"
+        },
+        {
+            "zh_des": "可用节点",
+            "url": "https://github.com/availproject/avail",
+            "name": "availproject /avail",
+            "description": "Avail Node",
+            "stars": "665",
+            "forks": "448",
+            "language": "Rust",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "大语言模型文本生成推理",
+            "url": "https://github.com/huggingface/text-generation-inference",
+            "name": "huggingface /text-generation-inference",
+            "description": "Large Language Model Text Generation Inference",
+            "stars": "7,634",
+            "forks": "830",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "InstantStyle：在文本到图像生成🔥中实现样式保持的免费午餐",
+            "url": "https://github.com/InstantStyle/InstantStyle",
+            "name": "InstantStyle /InstantStyle",
+            "description": "InstantStyle: Free Lunch towards Style-Preserving in Text-to-Image Generation 🔥",
+            "stars": "758",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "Git源代码镜像-这是一个仅发布的存储库，但拉请求可以通过GitGitGadget(https://gitgitgadget.github.io/).)转换为邮件列表的补丁请按照文档/提交补丁程序进行任何改进。",
+            "url": "https://github.com/git/git",
+            "name": "git /git",
+            "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+            "stars": "49,624",
+            "forks": "25,045",
+            "language": "C",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "31,402",
+            "forks": "3,301",
+            "language": "Python",
+            "stars_today": "253 stars today"
+        },
+        {
+            "zh_des": "用于现代C++的JSON",
+            "url": "https://github.com/nlohmann/json",
+            "name": "nlohmann /json",
+            "description": "JSON for Modern C++",
+            "stars": "39,875",
+            "forks": "6,410",
+            "language": "C++",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,685",
+            "forks": "9,762",
+            "language": "C++",
+            "stars_today": "17 stars today"
+        }
+    ]
+}
