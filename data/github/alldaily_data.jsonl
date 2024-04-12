@@ -46090,3 +46090,257 @@
         }
     ]
 }
+{
+    "04月12日": [
+        {
+            "zh_des": "简单、原始C/CUDA的LLM培训",
+            "url": "https://github.com/karpathy/llm.c",
+            "name": "karpathy /llm.c",
+            "description": "LLM training in simple, raw C/CUDA",
+            "stars": "12,944",
+            "forks": "1,189",
+            "language": "Cuda",
+            "stars_today": "2,168 stars today"
+        },
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "6,409",
+            "forks": "649",
+            "language": "Python",
+            "stars_today": "1,275 stars today"
+        },
+        {
+            "zh_des": "人工智能支持的答案引擎，具有生成性用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered answer engine with a generative UI",
+            "stars": "2,432",
+            "forks": "519",
+            "language": "TypeScript",
+            "stars_today": "481 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,812",
+            "forks": "9,822",
+            "language": "C++",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "15,346",
+            "forks": "1,722",
+            "language": "C",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,561",
+            "forks": "859",
+            "language": "Python",
+            "stars_today": "1,059 stars today"
+        },
+        {
+            "zh_des": "以自主程序改进为目标的项目结构感知自主软件工程师",
+            "url": "https://github.com/nus-apr/auto-code-rover",
+            "name": "nus-apr /auto-code-rover",
+            "description": "A project structure aware autonomous software engineer aiming for autonomous program improvement",
+            "stars": "1,586",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "149,563",
+            "forks": "51,246",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "4,185",
+            "forks": "280",
+            "language": "JavaScript",
+            "stars_today": "755 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,033",
+            "forks": "2,766",
+            "language": "TypeScript",
+            "stars_today": "510 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "31,906",
+            "forks": "2,692",
+            "language": "",
+            "stars_today": "309 stars today"
+        },
+        {
+            "zh_des": "用于现代C++的JSON",
+            "url": "https://github.com/nlohmann/json",
+            "name": "nlohmann /json",
+            "description": "JSON for Modern C++",
+            "stars": "39,965",
+            "forks": "6,432",
+            "language": "C++",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "5,678",
+            "forks": "561",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "用于C语言的并行库(协程)",
+            "url": "https://github.com/tidwall/neco",
+            "name": "tidwall /neco",
+            "description": "Concurrency library for C (coroutines)",
+            "stars": "711",
+            "forks": "43",
+            "language": "C",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "贡献精灵宝可梦精灵是一个基于📝Fangame的浏览器，灵感主要来自流氓类型",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "Contributing📝 CreditsPokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre",
+            "stars": "539",
+            "forks": "190",
+            "language": "TypeScript",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "完整的开源模块化MMO解决方案",
+            "url": "https://github.com/azerothcore/azerothcore-wotlk",
+            "name": "azerothcore /azerothcore-wotlk",
+            "description": "Complete Open Source and Modular solution for MMO",
+            "stars": "5,559",
+            "forks": "2,315",
+            "language": "C++",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "165,172",
+            "forks": "21,793",
+            "language": "",
+            "stars_today": "482 stars today"
+        },
+        {
+            "zh_des": "建设互联网上最好的系统设计资源",
+            "url": "https://github.com/systemdesign42/system-design",
+            "name": "systemdesign42 /system-design",
+            "description": "Building the best system design resource in the internet",
+            "stars": "7,600",
+            "forks": "751",
+            "language": "",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "3,395",
+            "forks": "599",
+            "language": "TypeScript",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "Penpot：用于设计和代码协作的开源设计工具",
+            "url": "https://github.com/penpot/penpot",
+            "name": "penpot /penpot",
+            "description": "Penpot: The open-source design tool for design and code collaboration",
+            "stars": "26,861",
+            "forks": "1,287",
+            "language": "Clojure",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "WCDB是微信开发的跨平台数据库框架。",
+            "url": "https://github.com/Tencent/wcdb",
+            "name": "Tencent /wcdb",
+            "description": "WCDB is a cross-platform database framework developed by WeChat.",
+            "stars": "10,406",
+            "forks": "1,375",
+            "language": "C",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "268",
+            "forks": "355",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "马里奥·卡丁车3",
+            "url": "https://github.com/Lunakepio/Mario-Kart-3.js",
+            "name": "Lunakepio /Mario-Kart-3.js",
+            "description": "Mario Kart 3",
+            "stars": "3,897",
+            "forks": "899",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于编写更好脚本的工具",
+            "url": "https://github.com/google/zx",
+            "name": "google /zx",
+            "description": "A tool for writing better scripts",
+            "stars": "41,399",
+            "forks": "1,035",
+            "language": "JavaScript",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "OpenAI GPT(生成性预训练变压器)培训的最小PyTorch重新实现",
+            "url": "https://github.com/karpathy/minGPT",
+            "name": "karpathy /minGPT",
+            "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+            "stars": "18,655",
+            "forks": "2,273",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        }
+    ]
+}

@@ -45359,3 +45359,257 @@
         }
     ]
 }
+{
+    "04月12日": [
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "6,409",
+            "forks": "649",
+            "language": "Python",
+            "stars_today": "1,275 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,561",
+            "forks": "859",
+            "language": "Python",
+            "stars_today": "1,059 stars today"
+        },
+        {
+            "zh_des": "以自主程序改进为目标的项目结构感知自主软件工程师",
+            "url": "https://github.com/nus-apr/auto-code-rover",
+            "name": "nus-apr /auto-code-rover",
+            "description": "A project structure aware autonomous software engineer aiming for autonomous program improvement",
+            "stars": "1,586",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "149,563",
+            "forks": "51,246",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "5,678",
+            "forks": "561",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "OpenAI GPT(生成性预训练变压器)培训的最小PyTorch重新实现",
+            "url": "https://github.com/karpathy/minGPT",
+            "name": "karpathy /minGPT",
+            "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+            "stars": "18,655",
+            "forks": "2,273",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "295",
+            "forks": "15",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "38,686",
+            "forks": "4,551",
+            "language": "Python",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "203,773",
+            "forks": "24,421",
+            "language": "Python",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "InternLM-XComposer2是一个突破性的视觉语言大型模型(VLLM)，擅长自由格式的文本-图像合成和理解。",
+            "url": "https://github.com/InternLM/InternLM-XComposer",
+            "name": "InternLM /InternLM-XComposer",
+            "description": "InternLM-XComposer2 is a groundbreaking vision-language large model (VLLM) excelling in free-form text-image composition and comprehension.",
+            "stars": "1,489",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "5,223",
+            "forks": "3,212",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "AIO：LLM代理操作系统",
+            "url": "https://github.com/agiresearch/AIOS",
+            "name": "agiresearch /AIOS",
+            "description": "AIOS: LLM Agent Operating System",
+            "stars": "2,278",
+            "forks": "247",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "分布式任务队列(开发分支)",
+            "url": "https://github.com/celery/celery",
+            "name": "celery /celery",
+            "description": "Distributed Task Queue (development branch)",
+            "stars": "23,389",
+            "forks": "4,570",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "37,317",
+            "forks": "2,365",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Streamlight-构建和共享数据应用程序的一种更快的方式。",
+            "url": "https://github.com/streamlit/streamlit",
+            "name": "streamlit /streamlit",
+            "description": "Streamlit — A faster way to build and share data apps.",
+            "stars": "31,322",
+            "forks": "2,764",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "31,716",
+            "forks": "3,345",
+            "language": "Python",
+            "stars_today": "182 stars today"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,448",
+            "forks": "225",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "该存储库包含了在ACM多媒体2020上发表的《The Speech to Lip Generation in the Wild》的代码《A Lip Sync Expert is All You Need for Speech to Lip Generation in the Wild》。高清商用机型，请试用Sync Labs",
+            "url": "https://github.com/Rudrabha/Wav2Lip",
+            "name": "Rudrabha /Wav2Lip",
+            "description": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020. For HD commercial model, please try out Sync Labs",
+            "stars": "9,115",
+            "forks": "1,985",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "适用于大型语言模型的GRadio Web用户界面。支持变压器、GPTQ、AWQ、EXL2、Llama.cpp(GGUF)、Llama型号。",
+            "url": "https://github.com/oobabooga/text-generation-webui",
+            "name": "oobabooga /text-generation-webui",
+            "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+            "stars": "35,546",
+            "forks": "4,733",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "290,952",
+            "forks": "31,716",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "ChatGLM2-6B：开放的双语聊天LLM|开源双语对话语言模型",
+            "url": "https://github.com/THUDM/ChatGLM2-6B",
+            "name": "THUDM /ChatGLM2-6B",
+            "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+            "stars": "15,429",
+            "forks": "1,824",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Prefect是一种工作流协调工具，使开发人员能够构建、观察数据管道并对其做出反应",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+            "stars": "14,489",
+            "forks": "1,441",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "快速重写Git存储库历史记录(替换筛选器分支)",
+            "url": "https://github.com/newren/git-filter-repo",
+            "name": "newren /git-filter-repo",
+            "description": "Quickly rewrite git repository history (filter-branch replacement)",
+            "stars": "7,337",
+            "forks": "661",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用Python语言实现GDB的模块化可视化界面",
+            "url": "https://github.com/cyrus-and/gdb-dashboard",
+            "name": "cyrus-and /gdb-dashboard",
+            "description": "Modular visual interface for GDB in Python",
+            "stars": "10,511",
+            "forks": "754",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件.无需申请第三方接口，本地实现。基于人工智能的工具，用于从视频或图片中删除硬编码字幕和类似文本的水印。",
+            "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+            "name": "YaoFANGUK /video-subtitle-remover",
+            "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+            "stars": "2,068",
+            "forks": "256",
+            "language": "Python",
+            "stars_today": "113 stars today"
+        }
+    ]
+}
