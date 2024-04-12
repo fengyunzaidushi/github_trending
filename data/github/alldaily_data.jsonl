@@ -46344,3 +46344,257 @@
         }
     ]
 }
+{
+    "04月12日": [
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "573",
+            "forks": "37",
+            "language": "Python",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "任天堂3DS模拟器",
+            "url": "https://github.com/PabloMK7/citra",
+            "name": "PabloMK7 /citra",
+            "description": "A Nintendo 3DS Emulator",
+            "stars": "1,501",
+            "forks": "392",
+            "language": "C++",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "针对6.4-6.5内核的漏洞攻击和针对5.15-6.5内核的另一漏洞攻击",
+            "url": "https://github.com/YuriiCrimson/ExploitGSM",
+            "name": "YuriiCrimson /ExploitGSM",
+            "description": "Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5",
+            "stars": "607",
+            "forks": "80",
+            "language": "C",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "人工智能支持的答案引擎，具有生成性用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered answer engine with a generative UI",
+            "stars": "2,582",
+            "forks": "543",
+            "language": "TypeScript",
+            "stars_today": "405 stars today"
+        },
+        {
+            "zh_des": "简单、原始C/CUDA的LLM培训",
+            "url": "https://github.com/karpathy/llm.c",
+            "name": "karpathy /llm.c",
+            "description": "LLM training in simple, raw C/CUDA",
+            "stars": "13,561",
+            "forks": "1,240",
+            "language": "Cuda",
+            "stars_today": "2,519 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "2,791",
+            "forks": "342",
+            "language": "Jupyter Notebook",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,847",
+            "forks": "9,826",
+            "language": "C++",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "8,521",
+            "forks": "868",
+            "language": "Python",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "793",
+            "forks": "74",
+            "language": "Jupyter Notebook",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "31,987",
+            "forks": "2,697",
+            "language": "",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,639",
+            "forks": "860",
+            "language": "Python",
+            "stars_today": "236 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "165,334",
+            "forks": "21,811",
+            "language": "",
+            "stars_today": "468 stars today"
+        },
+        {
+            "zh_des": "MagicTime：作为变形模拟器的延时视频生成模型",
+            "url": "https://github.com/PKU-YuanGroup/MagicTime",
+            "name": "PKU-YuanGroup /MagicTime",
+            "description": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators",
+            "stars": "507",
+            "forks": "23",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "289",
+            "forks": "367",
+            "language": "TypeScript",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "基于C++11的WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT服务器和客户端框架",
+            "url": "https://github.com/ZLMediaKit/ZLMediaKit",
+            "name": "ZLMediaKit /ZLMediaKit",
+            "description": "WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11",
+            "stars": "12,556",
+            "forks": "3,118",
+            "language": "C++",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "6,631",
+            "forks": "666",
+            "language": "Python",
+            "stars_today": "847 stars today"
+        },
+        {
+            "zh_des": "采用可编程流水线的Open遥测采集器分配",
+            "url": "https://github.com/grafana/alloy",
+            "name": "grafana /alloy",
+            "description": "OpenTelemetry Collector distribution with programmable pipelines",
+            "stars": "444",
+            "forks": "14",
+            "language": "Go",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "2,025",
+            "forks": "317",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "203,844",
+            "forks": "24,423",
+            "language": "Python",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "27,398",
+            "forks": "6,192",
+            "language": "TypeScript",
+            "stars_today": "202 stars today"
+        },
+        {
+            "zh_des": "✨✨关于多模式大型语言模型及其评估的最新论文和数据集。",
+            "url": "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models",
+            "name": "BradyFU /Awesome-Multimodal-Large-Language-Models",
+            "description": "✨✨Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.",
+            "stars": "8,521",
+            "forks": "551",
+            "language": "",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "《接地恐龙：与恐龙结婚》一文的正式实施",
+            "url": "https://github.com/IDEA-Research/GroundingDINO",
+            "name": "IDEA-Research /GroundingDINO",
+            "description": "Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+            "stars": "4,830",
+            "forks": "499",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "407",
+            "forks": "35",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,216",
+            "forks": "2,785",
+            "language": "TypeScript",
+            "stars_today": "380 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "177,724",
+            "forks": "43,302",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        }
+    ]
+}
