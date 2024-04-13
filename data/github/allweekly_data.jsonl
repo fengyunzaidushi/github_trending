@@ -44074,3 +44074,257 @@
         }
     ]
 }
+{
+    "04月13日": [
+        {
+            "zh_des": "面向复杂任务的人工智能编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for complex tasks",
+            "stars": "8,328",
+            "forks": "644",
+            "language": "Go",
+            "stars_today": "6,728 stars this week"
+        },
+        {
+            "zh_des": "Ore程序的Ore CLIA命令行界面",
+            "url": "https://github.com/HardhatChad/ore-cli",
+            "name": "HardhatChad /ore-cli",
+            "description": "Ore CLIA command line interface for the Ore program",
+            "stars": "910",
+            "forks": "411",
+            "language": "Rust",
+            "stars_today": "835 stars this week"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.29%的错误，运行时间仅为1.5分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+            "stars": "8,979",
+            "forks": "860",
+            "language": "Python",
+            "stars_today": "3,281 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "4,233",
+            "forks": "308",
+            "language": "Python",
+            "stars_today": "2,017 stars this week"
+        },
+        {
+            "zh_des": "LLocalSearch是一个使用LLM代理的完全本地运行的搜索聚合器。用户可以提出问题，系统将使用LLM链来找到答案。用户可以看到代理的进度和最终答案。不需要OpenAI或Google API密钥。",
+            "url": "https://github.com/nilsherzig/LLocalSearch",
+            "name": "nilsherzig /LLocalSearch",
+            "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+            "stars": "4,458",
+            "forks": "246",
+            "language": "Go",
+            "stars_today": "1,722 stars this week"
+        },
+        {
+            "zh_des": "计算机自学指南",
+            "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+            "name": "PKUFlyingPig /cs-self-learning",
+            "description": "计算机自学指南",
+            "stars": "48,922",
+            "forks": "6,105",
+            "language": "HTML",
+            "stars_today": "3,443 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,702",
+            "forks": "875",
+            "language": "Python",
+            "stars_today": "3,219 stars this week"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "5,555",
+            "forks": "488",
+            "language": "TypeScript",
+            "stars_today": "1,919 stars this week"
+        },
+        {
+            "zh_des": "免费",
+            "url": "https://github.com/aurora-develop/aurora",
+            "name": "aurora-develop /aurora",
+            "description": "free",
+            "stars": "1,590",
+            "forks": "539",
+            "language": "Go",
+            "stars_today": "902 stars this week"
+        },
+        {
+            "zh_des": "一项向JavaScript添加信号的建议。",
+            "url": "https://github.com/tc39/proposal-signals",
+            "name": "tc39 /proposal-signals",
+            "description": "A proposal to add signals to JavaScript.",
+            "stars": "2,335",
+            "forks": "38",
+            "language": "TypeScript",
+            "stars_today": "942 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,356",
+            "forks": "2,805",
+            "language": "TypeScript",
+            "stars_today": "2,163 stars this week"
+        },
+        {
+            "zh_des": "利用免费登录的ChatGPT Web提供的无限免费GPT-3.5-Turbo API服务。",
+            "url": "https://github.com/missuo/FreeGPT35",
+            "name": "missuo /FreeGPT35",
+            "description": "Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+            "stars": "2,421",
+            "forks": "649",
+            "language": "JavaScript",
+            "stars_today": "1,174 stars this week"
+        },
+        {
+            "zh_des": "Next.js+🚀🎉📚+Shadcn UI+TypeScrip构建的Next.js SaaS样板。具有身份验证、多租户、角色和权限、I18N、登录页、数据库、日志记录、测试的⚡️全堆栈Reaction应用程序",
+            "url": "https://github.com/ixartz/SaaS-Boilerplate",
+            "name": "ixartz /SaaS-Boilerplate",
+            "description": "🚀🎉📚 SaaS Boilerplate built with Next.js + Tailwind CSS + Shadcn UI + TypeScript. ⚡️ Full-stack React application with Auth, Multi-tenancy, Roles & Permissions, i18n, Landing Page, DB, Logging, Testing",
+            "stars": "1,919",
+            "forks": "243",
+            "language": "TypeScript",
+            "stars_today": "1,186 stars this week"
+        },
+        {
+            "zh_des": "矿石",
+            "url": "https://github.com/HardhatChad/ore",
+            "name": "HardhatChad /ore",
+            "description": "Ore",
+            "stars": "480",
+            "forks": "146",
+            "language": "Rust",
+            "stars_today": "340 stars this week"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,552",
+            "forks": "2,456",
+            "language": "JavaScript",
+            "stars_today": "765 stars this week"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "7,679",
+            "forks": "728",
+            "language": "Python",
+            "stars_today": "1,222 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "387,069",
+            "forks": "35,252",
+            "language": "TypeScript",
+            "stars_today": "1,094 stars this week"
+        },
+        {
+            "zh_des": "TikTok抖音Vue.js",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "TikTok 抖音 Vue.js",
+            "stars": "2,853",
+            "forks": "846",
+            "language": "Vue",
+            "stars_today": "561 stars this week"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "330",
+            "forks": "405",
+            "language": "TypeScript",
+            "stars_today": "124 stars this week"
+        },
+        {
+            "zh_des": "AstroNvim是一个美观且功能丰富的nevim配置，它是可扩展的，并且易于与一组优秀的插件一起使用",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "name": "AstroNvim /AstroNvim",
+            "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+            "stars": "11,803",
+            "forks": "907",
+            "language": "Lua",
+            "stars_today": "527 stars this week"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "318,812",
+            "forks": "59,743",
+            "language": "",
+            "stars_today": "1,195 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,890",
+            "forks": "9,857",
+            "language": "C++",
+            "stars_today": "267 stars this week"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "13,443",
+            "forks": "3,222",
+            "language": "JavaScript",
+            "stars_today": "117 stars this week"
+        },
+        {
+            "zh_des": "Git源代码镜像-这是一个仅发布的存储库，但拉请求可以通过GitGitGadget(https://gitgitgadget.github.io/).)转换为邮件列表的补丁请按照文档/提交补丁程序进行任何改进。",
+            "url": "https://github.com/git/git",
+            "name": "git /git",
+            "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+            "stars": "49,715",
+            "forks": "25,048",
+            "language": "C",
+            "stars_today": "352 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "291,069",
+            "forks": "31,723",
+            "language": "Python",
+            "stars_today": "1,850 stars this week"
+        }
+    ]
+}
