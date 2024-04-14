@@ -46629,3 +46629,257 @@
         }
     ]
 }
+{
+    "04月14日": [
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "1,368",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "1,353",
+            "forks": "134",
+            "language": "Python",
+            "stars_today": "315 stars today"
+        },
+        {
+            "zh_des": "概述该存储库包含用于评估语言模型的轻量级库",
+            "url": "https://github.com/openai/simple-evals",
+            "name": "openai /simple-evals",
+            "description": "OverviewThis repository contains a lightweight library for evaluating language models",
+            "stars": "557",
+            "forks": "50",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "34,287",
+            "forks": "4,176",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "19,846",
+            "forks": "7,393",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "2,254",
+            "forks": "364",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "MagicTime：作为变形模拟器的延时视频生成模型",
+            "url": "https://github.com/PKU-YuanGroup/MagicTime",
+            "name": "PKU-YuanGroup /MagicTime",
+            "description": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators",
+            "stars": "727",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "556",
+            "forks": "74",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,227",
+            "forks": "661",
+            "language": "Python",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,391",
+            "forks": "27,854",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,129",
+            "forks": "1,724",
+            "language": "Python",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "128,517",
+            "forks": "24,990",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "一个API包装器，用于用Python语言编写的不一致。",
+            "url": "https://github.com/Rapptz/discord.py",
+            "name": "Rapptz /discord.py",
+            "description": "An API wrapper for Discord written in Python.",
+            "stars": "14,197",
+            "forks": "3,722",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,314",
+            "forks": "899",
+            "language": "Python",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "178,046",
+            "forks": "43,360",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "2,508",
+            "forks": "274",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "我们给你做了一个你无法拒绝的包装纸",
+            "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+            "name": "python-telegram-bot /python-telegram-bot",
+            "description": "We have made you a wrapper you can't refuse",
+            "stars": "24,670",
+            "forks": "5,017",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,186",
+            "forks": "326",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.0：具有强大的OCR和理解能力的高效端MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities",
+            "stars": "695",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.100个班级，44个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "21,819",
+            "forks": "1,464",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "自动抓取合并互联网上的公开节点.🚀ray、🚀ray、🚀v2ray免费节点、SSR免费节点订阅、Clash免费节点ss/v2ray/特洛伊/Clash免费节点订阅、Clash免费节点订阅，免费梯子，免费翻墙，免费科学上网，免费ss/v2ray/Trojan/Clash节点，谷歌商店，翻墙梯子",
+            "url": "https://github.com/chengaopan/AutoMergePublicNodes",
+            "name": "chengaopan /AutoMergePublicNodes",
+            "description": "自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子",
+            "stars": "261",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "30,647",
+            "forks": "6,306",
+            "language": "Python",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "CrewAIcrewAI的示例旨在促进角色扮演AI代理之间的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "1,385",
+            "forks": "444",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "使用小米AI音箱播放ChatGPT和其他LLM",
+            "url": "https://github.com/yihong0618/xiaogpt",
+            "name": "yihong0618 /xiaogpt",
+            "description": "Play ChatGPT and other LLM with Xiaomi AI Speaker",
+            "stars": "5,145",
+            "forks": "735",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "利用检测模型进行自动检测、掩蔽和修复。",
+            "url": "https://github.com/Bing-su/adetailer",
+            "name": "Bing-su /adetailer",
+            "description": "Auto detecting, masking and inpainting with detection model.",
+            "stars": "3,642",
+            "forks": "281",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        }
+    ]
+}

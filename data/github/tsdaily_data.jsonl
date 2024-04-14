@@ -34830,3 +34830,257 @@
         }
     ]
 }
+{
+    "04月14日": [
+        {
+            "zh_des": "JS Web框架SSR性能基准测试",
+            "url": "https://github.com/eknkc/ssr-benchmark",
+            "name": "eknkc /ssr-benchmark",
+            "description": "Benchmarking JS web framework SSR performance",
+            "stars": "532",
+            "forks": "141",
+            "language": "TypeScript",
+            "stars_today": "352 stars today"
+        },
+        {
+            "zh_des": "本地快速设置安装依赖项每日代码\n纱线安装",
+            "url": "https://github.com/code100x/daily-code",
+            "name": "code100x /daily-code",
+            "description": "Quick Setup LocallyInstall the Dependenciescd daily-code\nyarn install",
+            "stars": "394",
+            "forks": "437",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "420",
+            "forks": "466",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Pplexity/Bedock/Azure/Mistral/Ollama)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "27,615",
+            "forks": "6,284",
+            "language": "TypeScript",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "3,106",
+            "forks": "510",
+            "language": "TypeScript",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Google Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "9,719",
+            "forks": "1,761",
+            "language": "TypeScript",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "29,959",
+            "forks": "1,371",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "RIPL为浏览器中的2D图形渲染提供了统一的API，侧重于高性能和交互式数据可视化。",
+            "url": "https://github.com/andrewcourtice/ripl",
+            "name": "andrewcourtice /ripl",
+            "description": "Ripl provides a unified API for 2D graphics rendering in the browser with a focus towards high performance and interactive data visualization.",
+            "stars": "201",
+            "forks": "7",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "团队和专业人士的现代电子邮件。取代过时的电子邮件技术和工具。Alt to hey.com，Front.com，missiveapp.com",
+            "url": "https://github.com/un/inbox",
+            "name": "un /inbox",
+            "description": "Modern email for teams and professionals. A replacement for outdated email technology and tools. Alt to hey.com, front.com, missiveapp.com",
+            "stars": "929",
+            "forks": "65",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "您的下一个SaaS模板或样板！这是一次神奇的旅行，以‘包子创造萨斯弗莱’开始。明星越多，惊喜就越多",
+            "url": "https://github.com/saasfly/saasfly",
+            "name": "saasfly /saasfly",
+            "description": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
+            "stars": "620",
+            "forks": "50",
+            "language": "TypeScript",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "肩たたき券の発行と管理を行うシステム",
+            "url": "https://github.com/lambda-tech-club/katatataki-bank",
+            "name": "lambda-tech-club /katatataki-bank",
+            "description": "肩たたき券の発行と管理を行うシステム",
+            "stars": "34",
+            "forks": "11",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "4,332",
+            "forks": "333",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "109,192",
+            "forks": "13,731",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "开源创建者文档",
+            "url": "https://github.com/Roblox/creator-docs",
+            "name": "Roblox /creator-docs",
+            "description": "Open Source Creator Documentation",
+            "stars": "256",
+            "forks": "708",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "一个RWKV管理和启动工具，完全自动化，只有8MB。并提供与OpenAI API兼容的接口。RWKV是一个完全开源并可用于商业用途的大型语言模型。",
+            "url": "https://github.com/josStorer/RWKV-Runner",
+            "name": "josStorer /RWKV-Runner",
+            "description": "A RWKV management and startup tool, full automation, only 8MB. And provides an interface compatible with the OpenAI API. RWKV is a large language model that is fully open source and available for commercial use.",
+            "stars": "4,369",
+            "forks": "414",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "用于Uniswap协议的🦄开源接口",
+            "url": "https://github.com/Uniswap/interface",
+            "name": "Uniswap /interface",
+            "description": "🦄 Open source interfaces for the Uniswap protocol",
+            "stars": "4,656",
+            "forks": "4,712",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "或者这是下一个",
+            "url": "https://github.com/WebDevSimplified/next-js-ecommerce-mvp",
+            "name": "WebDevSimplified /next-js-ecommerce-mvp",
+            "description": "orororThis is a Next",
+            "stars": "85",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "移动网络浏览器，提供对使用以太区块链的网站的访问",
+            "url": "https://github.com/MetaMask/metamask-mobile",
+            "name": "MetaMask /metamask-mobile",
+            "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+            "stars": "1,970",
+            "forks": "1,010",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "为您找到免费音乐的流媒体音乐播放器",
+            "url": "https://github.com/nukeop/nuclear",
+            "name": "nukeop /nuclear",
+            "description": "Streaming music player that finds free music for you",
+            "stars": "11,428",
+            "forks": "989",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "支持多租户和自定义域的全栈Next.js应用程序。使用Next.js应用路由器和Vercel域API构建。",
+            "url": "https://github.com/vercel/platforms",
+            "name": "vercel /platforms",
+            "description": "A full-stack Next.js app with multi-tenancy and custom domain support. Built with Next.js App Router and the Vercel Domains API.",
+            "stars": "5,151",
+            "forks": "642",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "157,878",
+            "forks": "27,555",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "使用Next.js克隆、部署和完全定制SaaS订阅应用程序。",
+            "url": "https://github.com/vercel/nextjs-subscription-payments",
+            "name": "vercel /nextjs-subscription-payments",
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "stars": "5,233",
+            "forks": "1,054",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "6,172",
+            "forks": "800",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "141",
+            "forks": "18",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于处理朝鲜语字符的现代JavaScript库。",
+            "url": "https://github.com/toss/es-hangul",
+            "name": "toss /es-hangul",
+            "description": "A modern JavaScript library for handling Hangul characters.",
+            "stars": "160",
+            "forks": "10",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
