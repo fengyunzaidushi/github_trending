@@ -47106,3 +47106,257 @@
         }
     ]
 }
+{
+    "04月14日": [
+        {
+            "zh_des": "JS Web框架SSR性能基准测试",
+            "url": "https://github.com/eknkc/ssr-benchmark",
+            "name": "eknkc /ssr-benchmark",
+            "description": "Benchmarking JS web framework SSR performance",
+            "stars": "470",
+            "forks": "129",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "任天堂3DS模拟器",
+            "url": "https://github.com/PabloMK7/citra",
+            "name": "PabloMK7 /citra",
+            "description": "A Nintendo 3DS Emulator",
+            "stars": "2,124",
+            "forks": "487",
+            "language": "C++",
+            "stars_today": "573 stars today"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "1,206",
+            "forks": "113",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,977",
+            "forks": "9,899",
+            "language": "C++",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": ".NET 2.0-3.5到Windows 9x的后端移植",
+            "url": "https://github.com/itsmattkc/dotnet9x",
+            "name": "itsmattkc /dotnet9x",
+            "description": "Backport of .NET 2.0 - 3.5 to Windows 9x",
+            "stars": "970",
+            "forks": "43",
+            "language": "NSIS",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "1,163",
+            "forks": "132",
+            "language": "Jupyter Notebook",
+            "stars_today": "312 stars today"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "396",
+            "forks": "455",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "用于现代C++的JSON",
+            "url": "https://github.com/nlohmann/json",
+            "name": "nlohmann /json",
+            "description": "JSON for Modern C++",
+            "stars": "40,057",
+            "forks": "6,477",
+            "language": "C++",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "165,828",
+            "forks": "21,893",
+            "language": "",
+            "stars_today": "344 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,301",
+            "forks": "896",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": ".NET Maui是.NET多平台应用程序用户界面，是一个用于构建跨越移动、平板电脑和桌面的本机设备应用程序的框架。",
+            "url": "https://github.com/dotnet/maui",
+            "name": "dotnet /maui",
+            "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+            "stars": "21,493",
+            "forks": "1,594",
+            "language": "C#",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "1,106",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "660 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "30,570",
+            "forks": "6,291",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "一个面向人工智能工程的应用框架",
+            "url": "https://github.com/spring-projects/spring-ai",
+            "name": "spring-projects /spring-ai",
+            "description": "An Application Framework for AI Engineering",
+            "stars": "1,602",
+            "forks": "376",
+            "language": "Java",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Microsoft Copilot for Security是一款高效的人工智能支持的安全解决方案，有助于提高防御者的效率和能力，从而在机器速度和规模上改善安全结果，同时遵守负责任的人工智能原则",
+            "url": "https://github.com/Azure/Copilot-For-Security",
+            "name": "Azure /Copilot-For-Security",
+            "description": "Microsoft Copilot for Security is a generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles",
+            "stars": "200",
+            "forks": "54",
+            "language": "PowerShell",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,566",
+            "forks": "2,847",
+            "language": "TypeScript",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,123",
+            "forks": "650",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "83,443",
+            "forks": "9,049",
+            "language": "HTML",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "OpenAI的密语模型在C/C++中的移植",
+            "url": "https://github.com/ggerganov/whisper.cpp",
+            "name": "ggerganov /whisper.cpp",
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "stars": "29,675",
+            "forks": "2,899",
+            "language": "C",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "人工智能支持的答案引擎，具有生成性用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered answer engine with a generative UI",
+            "stars": "2,841",
+            "forks": "627",
+            "language": "TypeScript",
+            "stars_today": "220 stars today"
+        },
+        {
+            "zh_des": "快速拖放，在任何技术堆栈上获得任何体验",
+            "url": "https://github.com/atlassian/pragmatic-drag-and-drop",
+            "name": "atlassian /pragmatic-drag-and-drop",
+            "description": "Fast drag and drop for any experience on any tech stack",
+            "stars": "4,067",
+            "forks": "59",
+            "language": "TypeScript",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "您的下一个SaaS模板或样板！这是一次神奇的旅行，以‘包子创造萨斯弗莱’开始。明星越多，惊喜就越多",
+            "url": "https://github.com/saasfly/saasfly",
+            "name": "saasfly /saasfly",
+            "description": "Your Next SaaS Template or Boilerplate ! A magic trip start with `bun create saasfly` . The more stars, the more surprises",
+            "stars": "593",
+            "forks": "48",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "用于C语言的并行库(协程)",
+            "url": "https://github.com/tidwall/neco",
+            "name": "tidwall /neco",
+            "description": "Concurrency library for C (coroutines)",
+            "stars": "856",
+            "forks": "68",
+            "language": "C",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "15,490",
+            "forks": "1,750",
+            "language": "C",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "19,801",
+            "forks": "7,381",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        }
+    ]
+}
