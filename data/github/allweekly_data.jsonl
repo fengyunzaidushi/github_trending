@@ -45244,3 +45244,257 @@
         }
     ]
 }
+{
+    "04月15日": [
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "6,993",
+            "forks": "739",
+            "language": "Python",
+            "stars_today": "5,741 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,859",
+            "forks": "885",
+            "language": "Python",
+            "stars_today": "3,286 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,786",
+            "forks": "2,885",
+            "language": "TypeScript",
+            "stars_today": "2,551 stars this week"
+        },
+        {
+            "zh_des": "面向复杂任务的人工智能编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for complex tasks",
+            "stars": "8,532",
+            "forks": "657",
+            "language": "Go",
+            "stars_today": "4,002 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "4,574",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "1,636 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "3,512",
+            "forks": "621",
+            "language": "TypeScript",
+            "stars_today": "1,395 stars this week"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\"",
+            "stars": "2,197",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "1,185 stars this week"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "1,382",
+            "forks": "150",
+            "language": "Jupyter Notebook",
+            "stars_today": "748 stars this week"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "12,997",
+            "forks": "683",
+            "language": "PHP",
+            "stars_today": "861 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "32,999",
+            "forks": "9,902",
+            "language": "C++",
+            "stars_today": "409 stars this week"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "449",
+            "forks": "492",
+            "language": "TypeScript",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "一项向JavaScript添加信号的建议。",
+            "url": "https://github.com/tc39/proposal-signals",
+            "name": "tc39 /proposal-signals",
+            "description": "A proposal to add signals to JavaScript.",
+            "stars": "2,429",
+            "forks": "39",
+            "language": "TypeScript",
+            "stars_today": "725 stars this week"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "739",
+            "forks": "128",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "Git源代码镜像-这是一个仅发布的存储库，但拉请求可以通过GitGitGadget(https://gitgitgadget.github.io/).)转换为邮件列表的补丁请按照文档/提交补丁程序进行任何改进。",
+            "url": "https://github.com/git/git",
+            "name": "git /git",
+            "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+            "stars": "49,785",
+            "forks": "25,055",
+            "language": "C",
+            "stars_today": "342 stars this week"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "31,086",
+            "forks": "1,397",
+            "language": "Rust",
+            "stars_today": "707 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "291,359",
+            "forks": "31,744",
+            "language": "Python",
+            "stars_today": "1,576 stars this week"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,701",
+            "forks": "2,473",
+            "language": "JavaScript",
+            "stars_today": "542 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "8,907",
+            "forks": "935",
+            "language": "Python",
+            "stars_today": "1,449 stars this week"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "7,925",
+            "forks": "755",
+            "language": "Python",
+            "stars_today": "941 stars this week"
+        },
+        {
+            "zh_des": "👁‍🗨罕见和奇异的SAT",
+            "url": "https://github.com/ordinals/ord",
+            "name": "ordinals /ord",
+            "description": "👁‍🗨 Rare and exotic sats",
+            "stars": "3,341",
+            "forks": "1,143",
+            "language": "Rust",
+            "stars_today": "108 stars this week"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "5,799",
+            "forks": "505",
+            "language": "TypeScript",
+            "stars_today": "1,177 stars this week"
+        },
+        {
+            "zh_des": "利用免费登录的ChatGPT Web提供的无限免费GPT-3.5-Turbo API服务。",
+            "url": "https://github.com/missuo/FreeGPT35",
+            "name": "missuo /FreeGPT35",
+            "description": "Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+            "stars": "2,569",
+            "forks": "719",
+            "language": "JavaScript",
+            "stars_today": "934 stars this week"
+        },
+        {
+            "zh_des": "Js®网站",
+            "url": "https://github.com/nodejs/nodejs.org",
+            "name": "nodejs /nodejs.org",
+            "description": "The Node.js® Website",
+            "stars": "5,609",
+            "forks": "6,046",
+            "language": "TypeScript",
+            "stars_today": "649 stars this week"
+        },
+        {
+            "zh_des": "由Sota AI Model提供支持的图像修复工具。从你的图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换(由稳定扩散提供动力)图片上的任何东西。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "16,872",
+            "forks": "1,674",
+            "language": "Python",
+            "stars_today": "271 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "9,898",
+            "forks": "1,233",
+            "language": "Vue",
+            "stars_today": "407 stars this week"
+        }
+    ]
+}
