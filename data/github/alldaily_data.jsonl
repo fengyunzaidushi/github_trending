@@ -48122,3 +48122,257 @@
         }
     ]
 }
+{
+    "04月16日": [
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "284,782",
+            "forks": "72,680",
+            "language": "",
+            "stars_today": "839 stars today"
+        },
+        {
+            "zh_des": "OpenAI的密语模型在C/C++中的移植",
+            "url": "https://github.com/ggerganov/whisper.cpp",
+            "name": "ggerganov /whisper.cpp",
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "stars": "30,444",
+            "forks": "2,964",
+            "language": "C",
+            "stars_today": "169 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Google Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "10,021",
+            "forks": "1,806",
+            "language": "TypeScript",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "178,494",
+            "forks": "43,425",
+            "language": "Python",
+            "stars_today": "353 stars today"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "31,217",
+            "forks": "1,401",
+            "language": "Rust",
+            "stars_today": "288 stars today"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "20,673",
+            "forks": "2,397",
+            "language": "Mojo",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "1,888",
+            "forks": "169",
+            "language": "HTML",
+            "stars_today": "958 stars today"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "1,795",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "333 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "6,274",
+            "forks": "817",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "ORE Miner构建在JITO捆绑包之上，同时支持CPU和GPU。",
+            "url": "https://github.com/tonyke-bot/ore-miner",
+            "name": "tonyke-bot /ore-miner",
+            "description": "ORE Miner built on top of Jito bundle with both CPU and GPU support.",
+            "stars": "274",
+            "forks": "107",
+            "language": "Rust",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "将任何url转换为带有简单前缀https://r.jina.ai/的llm友好输入",
+            "url": "https://github.com/jina-ai/reader",
+            "name": "jina-ai /reader",
+            "description": "Convert any URL to an LLM-friendly input with a simple prefixhttps://r.jina.ai/",
+            "stars": "1,469",
+            "forks": "77",
+            "language": "TypeScript",
+            "stars_today": "455 stars today"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "7,209",
+            "forks": "1,249",
+            "language": "HTML",
+            "stars_today": "136 stars today"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "1,721",
+            "forks": "226",
+            "language": "Jupyter Notebook",
+            "stars_today": "287 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "252,622",
+            "forks": "43,214",
+            "language": "Python",
+            "stars_today": "592 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "109,497",
+            "forks": "13,777",
+            "language": "TypeScript",
+            "stars_today": "339 stars today"
+        },
+        {
+            "zh_des": "坚持分享GitHub上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。GitHub的一个很酷、很有趣的项目清单。",
+            "url": "https://github.com/GitHubDaily/GitHubDaily",
+            "name": "GitHubDaily /GitHubDaily",
+            "description": "坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.",
+            "stars": "28,376",
+            "forks": "3,164",
+            "language": "",
+            "stars_today": "359 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,413",
+            "forks": "910",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.0：具有强大的OCR和理解能力的高效端MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities",
+            "stars": "958",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "12,445",
+            "forks": "4,061",
+            "language": "Python",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "JS Web框架SSR性能基准测试",
+            "url": "https://github.com/eknkc/ssr-benchmark",
+            "name": "eknkc /ssr-benchmark",
+            "description": "Benchmarking JS web framework SSR performance",
+            "stars": "641",
+            "forks": "171",
+            "language": "TypeScript",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "PS3模拟器/调试器",
+            "url": "https://github.com/RPCS3/rpcs3",
+            "name": "RPCS3 /rpcs3",
+            "description": "PS3 emulator/debugger",
+            "stars": "14,260",
+            "forks": "1,818",
+            "language": "C++",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管！",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable!",
+            "stars": "13,246",
+            "forks": "722",
+            "language": "JavaScript",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "284",
+            "forks": "26",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "182,008",
+            "forks": "29,396",
+            "language": "JavaScript",
+            "stars_today": "284 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "19,974",
+            "forks": "7,412",
+            "language": "Python",
+            "stars_today": "92 stars today"
+        }
+    ]
+}
