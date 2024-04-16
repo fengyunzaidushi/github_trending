@@ -45752,3 +45752,257 @@
         }
     ]
 }
+{
+    "04月16日": [
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "7,087",
+            "forks": "745",
+            "language": "Python",
+            "stars_today": "5,435 stars this week"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "5,177",
+            "forks": "327",
+            "language": "JavaScript",
+            "stars_today": "3,335 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "21,979",
+            "forks": "2,918",
+            "language": "TypeScript",
+            "stars_today": "2,622 stars this week"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "1,159",
+            "forks": "207",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,924",
+            "forks": "889",
+            "language": "Python",
+            "stars_today": "3,060 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "4,761",
+            "forks": "364",
+            "language": "Python",
+            "stars_today": "1,436 stars this week"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "1,610",
+            "forks": "158",
+            "language": "Jupyter Notebook",
+            "stars_today": "808 stars this week"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "31,365",
+            "forks": "1,428",
+            "language": "Rust",
+            "stars_today": "917 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "33,011",
+            "forks": "9,900",
+            "language": "C++",
+            "stars_today": "409 stars this week"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "2,334",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "965 stars this week"
+        },
+        {
+            "zh_des": "胞质",
+            "url": "https://github.com/code100x/cms",
+            "name": "code100x /cms",
+            "description": "CMS",
+            "stars": "455",
+            "forks": "496",
+            "language": "TypeScript",
+            "stars_today": "287 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "3,559",
+            "forks": "626",
+            "language": "TypeScript",
+            "stars_today": "1,170 stars this week"
+        },
+        {
+            "zh_des": "贡献精灵宝可梦精灵是一个基于📝Fangame的浏览器，灵感主要来自流氓类型",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "Contributing📝 CreditsPokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre",
+            "stars": "582",
+            "forks": "228",
+            "language": "TypeScript",
+            "stars_today": "326 stars this week"
+        },
+        {
+            "zh_des": "Git源代码镜像-这是一个仅发布的存储库，但拉请求可以通过GitGitGadget(https://gitgitgadget.github.io/).)转换为邮件列表的补丁请按照文档/提交补丁程序进行任何改进。",
+            "url": "https://github.com/git/git",
+            "name": "git /git",
+            "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+            "stars": "49,817",
+            "forks": "25,060",
+            "language": "C",
+            "stars_today": "346 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "8,990",
+            "forks": "943",
+            "language": "Python",
+            "stars_today": "1,505 stars this week"
+        },
+        {
+            "zh_des": "迷你双子座的正式实施",
+            "url": "https://github.com/dvlab-research/MiniGemini",
+            "name": "dvlab-research /MiniGemini",
+            "description": "Official implementation for Mini-Gemini",
+            "stars": "1,369",
+            "forks": "90",
+            "language": "Python",
+            "stars_today": "652 stars this week"
+        },
+        {
+            "zh_des": "👁‍🗨罕见和奇异的SAT",
+            "url": "https://github.com/ordinals/ord",
+            "name": "ordinals /ord",
+            "description": "👁‍🗨 Rare and exotic sats",
+            "stars": "3,360",
+            "forks": "1,146",
+            "language": "Rust",
+            "stars_today": "124 stars this week"
+        },
+        {
+            "zh_des": "完整的开源模块化MMO解决方案",
+            "url": "https://github.com/azerothcore/azerothcore-wotlk",
+            "name": "azerothcore /azerothcore-wotlk",
+            "description": "Complete Open Source and Modular solution for MMO",
+            "stars": "5,823",
+            "forks": "2,344",
+            "language": "C++",
+            "stars_today": "449 stars this week"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "13,132",
+            "forks": "688",
+            "language": "PHP",
+            "stars_today": "816 stars this week"
+        },
+        {
+            "zh_des": "面向复杂任务的人工智能编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for complex tasks",
+            "stars": "8,592",
+            "forks": "660",
+            "language": "Go",
+            "stars_today": "2,291 stars this week"
+        },
+        {
+            "zh_des": "作业",
+            "url": "https://github.com/100xdevs-cohort-2/assignments",
+            "name": "100xdevs-cohort-2 /assignments",
+            "description": "assignments",
+            "stars": "1,978",
+            "forks": "3,254",
+            "language": "JavaScript",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,815",
+            "forks": "2,487",
+            "language": "JavaScript",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": ".NET Maui是.NET多平台应用程序用户界面，是一个用于构建跨越移动、平板电脑和桌面的本机设备应用程序的框架。",
+            "url": "https://github.com/dotnet/maui",
+            "name": "dotnet /maui",
+            "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+            "stars": "21,508",
+            "forks": "1,594",
+            "language": "C#",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "178,654",
+            "forks": "43,466",
+            "language": "Python",
+            "stars_today": "973 stars this week"
+        },
+        {
+            "zh_des": "OpenAI的密语模型在C/C++中的移植",
+            "url": "https://github.com/ggerganov/whisper.cpp",
+            "name": "ggerganov /whisper.cpp",
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "stars": "30,623",
+            "forks": "3,001",
+            "language": "C",
+            "stars_today": "643 stars this week"
+        }
+    ]
+}

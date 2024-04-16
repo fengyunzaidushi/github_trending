@@ -45564,3 +45564,257 @@
         }
     ]
 }
+{
+    "04月16日": [
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "7,087",
+            "forks": "745",
+            "language": "Python",
+            "stars_today": "5,435 stars this week"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "1,159",
+            "forks": "207",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "9,924",
+            "forks": "889",
+            "language": "Python",
+            "stars_today": "3,060 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "4,761",
+            "forks": "364",
+            "language": "Python",
+            "stars_today": "1,436 stars this week"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "2,334",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "965 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "8,990",
+            "forks": "943",
+            "language": "Python",
+            "stars_today": "1,505 stars this week"
+        },
+        {
+            "zh_des": "迷你双子座的正式实施",
+            "url": "https://github.com/dvlab-research/MiniGemini",
+            "name": "dvlab-research /MiniGemini",
+            "description": "Official implementation for Mini-Gemini",
+            "stars": "1,369",
+            "forks": "90",
+            "language": "Python",
+            "stars_today": "652 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "178,654",
+            "forks": "43,466",
+            "language": "Python",
+            "stars_today": "973 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,436",
+            "forks": "916",
+            "language": "Python",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,018",
+            "forks": "765",
+            "language": "Python",
+            "stars_today": "945 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "252,764",
+            "forks": "43,246",
+            "language": "Python",
+            "stars_today": "1,243 stars this week"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "31,485",
+            "forks": "4,715",
+            "language": "Python",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "7,897",
+            "forks": "308",
+            "language": "Python",
+            "stars_today": "220 stars this week"
+        },
+        {
+            "zh_des": "‌آموزشرایگانودائمیفعالسازیآنتندرآیفون۱۴و۱۵بدونردگیریوبستهشدنبادوروشمختلف،بههمراهسورسکدوفایلساختuuidیکتا",
+            "url": "https://github.com/AiGptCode/Iphone-14-15-IRAN-Anten",
+            "name": "AiGptCode /Iphone-14-15-IRAN-Anten",
+            "description": "آموزش رایگان و دائمی فعال‌سازی آنتن در آیفون ۱۴ و ۱۵ بدون ردگیری و بسته شدن با دو روش مختلف، به همراه سورس کد و فایل ساخت UUID یکتا",
+            "stars": "366",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "126 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "291,450",
+            "forks": "31,756",
+            "language": "Python",
+            "stars_today": "1,309 stars this week"
+        },
+        {
+            "zh_des": "本项目旨在分享大模型相关技术原理以及实战经验.",
+            "url": "https://github.com/liguodongiot/llm-action",
+            "name": "liguodongiot /llm-action",
+            "description": "本项目旨在分享大模型相关技术原理以及实战经验。",
+            "stars": "5,869",
+            "forks": "571",
+            "language": "Python",
+            "stars_today": "740 stars this week"
+        },
+        {
+            "zh_des": "大语言模型文本生成推理",
+            "url": "https://github.com/huggingface/text-generation-inference",
+            "name": "huggingface /text-generation-inference",
+            "description": "Large Language Model Text Generation Inference",
+            "stars": "7,746",
+            "forks": "839",
+            "language": "Python",
+            "stars_today": "260 stars this week"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,470",
+            "forks": "685",
+            "language": "Python",
+            "stars_today": "668 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "30,843",
+            "forks": "6,342",
+            "language": "Python",
+            "stars_today": "706 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,210",
+            "forks": "330",
+            "language": "Python",
+            "stars_today": "79 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "32,101",
+            "forks": "3,383",
+            "language": "Python",
+            "stars_today": "1,019 stars this week"
+        },
+        {
+            "zh_des": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件.无需申请第三方接口，本地实现。基于人工智能的工具，用于从视频或图片中删除硬编码字幕和类似文本的水印。",
+            "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+            "name": "YaoFANGUK /video-subtitle-remover",
+            "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+            "stars": "2,175",
+            "forks": "273",
+            "language": "Python",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "204,273",
+            "forks": "24,455",
+            "language": "Python",
+            "stars_today": "941 stars this week"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.100个班级，44个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "21,881",
+            "forks": "1,468",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "8,334",
+            "forks": "1,065",
+            "language": "Python",
+            "stars_today": "294 stars this week"
+        }
+    ]
+}
