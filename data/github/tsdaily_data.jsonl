@@ -36862,3 +36862,257 @@
         }
     ]
 }
+{
+    "04月18日": [
+        {
+            "zh_des": "用于将代码中的设计系统组件与图中的设计系统连接起来的工具",
+            "url": "https://github.com/figma/code-connect",
+            "name": "figma /code-connect",
+            "description": "A tool for connecting your design system components in code with your design system in Figma",
+            "stars": "260",
+            "forks": "15",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Quill是一个现代的所见即所得的编辑器，旨在实现兼容性和可扩展性。",
+            "url": "https://github.com/quilljs/quill",
+            "name": "quilljs /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+            "stars": "39,726",
+            "forks": "3,187",
+            "language": "TypeScript",
+            "stars_today": "295 stars today"
+        },
+        {
+            "zh_des": "您的GenAI Second Brain🧠个人生产力助理(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链、GPT3.5/4涡轮增压、私人、人类、Vertex AI、Ollama、LLMS、Groq，您可以与用户共享！本地和私有OpenAI GPT和ChatGPT的替代方案，由检索增强生成提供支持。",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Your GenAI Second Brain 🧠 A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.",
+            "stars": "32,096",
+            "forks": "3,102",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative.",
+            "stars": "65,544",
+            "forks": "6,110",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "将任何url转换为带有简单前缀https://r.jina.ai/的llm友好输入",
+            "url": "https://github.com/jina-ai/reader",
+            "name": "jina-ai /reader",
+            "description": "Convert any URL to an LLM-friendly input with a simple prefixhttps://r.jina.ai/",
+            "stars": "2,779",
+            "forks": "201",
+            "language": "TypeScript",
+            "stars_today": "578 stars today"
+        },
+        {
+            "zh_des": "基于ChatGPT API的划词翻译浏览器插件和跨平台桌面端应用-基于ChatGPT API的浏览器扩展和跨平台桌面应用程序翻译。",
+            "url": "https://github.com/openai-translator/openai-translator",
+            "name": "openai-translator /openai-translator",
+            "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用 - Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+            "stars": "22,539",
+            "forks": "1,642",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "Snyk CLI扫描并监控您的项目是否存在安全漏洞。",
+            "url": "https://github.com/snyk/cli",
+            "name": "snyk /cli",
+            "description": "Snyk CLI scans and monitors your projects for security vulnerabilities.",
+            "stars": "4,766",
+            "forks": "526",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "61,483",
+            "forks": "3,275",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "HADHAT是一个用于编译、部署、测试和调试您的Etherum软件的开发环境。",
+            "url": "https://github.com/NomicFoundation/hardhat",
+            "name": "NomicFoundation /hardhat",
+            "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.",
+            "stars": "6,747",
+            "forks": "1,285",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "即将出版的全套打字本书的配套回购",
+            "url": "https://github.com/total-typescript/total-typescript-book",
+            "name": "total-typescript /total-typescript-book",
+            "description": "The companion repo for the upcoming Total TypeScript book",
+            "stars": "1,396",
+            "forks": "83",
+            "language": "TypeScript",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "10,456",
+            "forks": "1,883",
+            "language": "TypeScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "23,661",
+            "forks": "12,040",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "使用Reaction和D3构建的重新定义的图表库",
+            "url": "https://github.com/recharts/recharts",
+            "name": "recharts /recharts",
+            "description": "Redefined chart library built with React and D3",
+            "stars": "22,518",
+            "forks": "1,649",
+            "language": "TypeScript",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "12,046",
+            "forks": "502",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "一个集轻盈与美观于一身的自托管文件共享平台，完美实现无缝高效的文件共享。",
+            "url": "https://github.com/stonith404/pingvin-share",
+            "name": "stonith404 /pingvin-share",
+            "description": "A self-hosted file sharing platform that combines lightness and beauty, perfect for seamless and efficient file sharing.",
+            "stars": "1,821",
+            "forks": "141",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "使用DuckDB-WASM和PRQL进行开源的浏览器本地数据探索",
+            "url": "https://github.com/pretzelai/pretzelai",
+            "name": "pretzelai /pretzelai",
+            "description": "Open-source, browser-local data exploration using DuckDB-Wasm and PRQL",
+            "stars": "1,316",
+            "forks": "90",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "Solana Trading Bot-Beta",
+            "url": "https://github.com/warp-id/solana-trading-bot",
+            "name": "warp-id /solana-trading-bot",
+            "description": "Solana Trading Bot - Beta",
+            "stars": "861",
+            "forks": "372",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "基于数据映射器、工作单元和身份映射模式的Node.js的类型脚本ORM。支持MongoDB、MySQL、MariaDB、MS SQL Server、PostgreSQL和SQLite/libSQL数据库。",
+            "url": "https://github.com/mikro-orm/mikro-orm",
+            "name": "mikro-orm /mikro-orm",
+            "description": "TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, MS SQL Server, PostgreSQL and SQLite/libSQL databases.",
+            "stars": "7,125",
+            "forks": "474",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "OHIF零足迹DICOM查看器和肿瘤学特定的病变跟踪器，以及共享的扩展包",
+            "url": "https://github.com/OHIF/Viewers",
+            "name": "OHIF /Viewers",
+            "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+            "stars": "2,890",
+            "forks": "3,008",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "17,226",
+            "forks": "1,410",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建内部工具。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform to build internal tools.",
+            "stars": "5,557",
+            "forks": "766",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "组织世界的知识，探索联系，策划学习之路",
+            "url": "https://github.com/learn-anything/learn-anything.xyz",
+            "name": "learn-anything /learn-anything.xyz",
+            "description": "Organize world's knowledge, explore connections and curate learning paths",
+            "stars": "15,578",
+            "forks": "958",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "🚀美观、快速、现代的Reaction UI库。",
+            "url": "https://github.com/nextui-org/nextui",
+            "name": "nextui-org /nextui",
+            "description": "🚀 Beautiful, fast and modern React UI library.",
+            "stars": "19,148",
+            "forks": "1,082",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web Framework built on Web Standards",
+            "stars": "14,556",
+            "forks": "387",
+            "language": "TypeScript",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "一个功能完善的打字特效系统，具有丰富的标准库",
+            "url": "https://github.com/Effect-TS/effect",
+            "name": "Effect-TS /effect",
+            "description": "A fully-fledged functional effect system for TypeScript with a rich standard library",
+            "stars": "4,338",
+            "forks": "152",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        }
+    ]
+}
