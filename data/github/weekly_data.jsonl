@@ -47088,3 +47088,257 @@
         }
     ]
 }
+{
+    "04月19日": [
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "2,912",
+            "forks": "444",
+            "language": "Python",
+            "stars_today": "2,321 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "2,031",
+            "forks": "226",
+            "language": "Python",
+            "stars_today": "1,246 stars this week"
+        },
+        {
+            "zh_des": "迷你双子座的正式实施",
+            "url": "https://github.com/dvlab-research/MiniGemini",
+            "name": "dvlab-research /MiniGemini",
+            "description": "Official implementation for Mini-Gemini",
+            "stars": "2,624",
+            "forks": "249",
+            "language": "Python",
+            "stars_today": "1,724 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,054",
+            "forks": "6,378",
+            "language": "Python",
+            "stars_today": "730 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "179,192",
+            "forks": "43,598",
+            "language": "Python",
+            "stars_today": "1,672 stars this week"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "20,022",
+            "forks": "7,430",
+            "language": "Python",
+            "stars_today": "342 stars this week"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "1,842",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "418 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "5,247",
+            "forks": "420",
+            "language": "Python",
+            "stars_today": "1,206 stars this week"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "2,596",
+            "forks": "211",
+            "language": "Python",
+            "stars_today": "746 stars this week"
+        },
+        {
+            "zh_des": "PixArt-Σ：用于4K文本到图像生成的扩散转换器的从弱到强训练",
+            "url": "https://github.com/PixArt-alpha/PixArt-sigma",
+            "name": "PixArt-alpha /PixArt-sigma",
+            "description": "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+            "stars": "698",
+            "forks": "30",
+            "language": "Python",
+            "stars_today": "180 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "253,242",
+            "forks": "43,328",
+            "language": "Python",
+            "stars_today": "1,632 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,237",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "10,200",
+            "forks": "746",
+            "language": "Python",
+            "stars_today": "376 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "7,950",
+            "forks": "311",
+            "language": "Python",
+            "stars_today": "232 stars this week"
+        },
+        {
+            "zh_des": "一个具有项目结构意识的自主软件工程师，旨在自主程序改进。在全SWE工作台中解决了15.95%的任务",
+            "url": "https://github.com/nus-apr/auto-code-rover",
+            "name": "nus-apr /auto-code-rover",
+            "description": "A project structure aware autonomous software engineer aiming for autonomous program improvement. Resolved 15.95% tasks in full SWE-bench",
+            "stars": "1,946",
+            "forks": "183",
+            "language": "Python",
+            "stars_today": "499 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2023]SadTalker：用于风格化音频驱动的单幅图像对话人脸动画的真实感3D运动系数学习",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "name": "OpenTalker /SadTalker",
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": "10,177",
+            "forks": "1,859",
+            "language": "Python",
+            "stars_today": "381 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,499",
+            "forks": "926",
+            "language": "Python",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "55,355",
+            "forks": "6,993",
+            "language": "Python",
+            "stars_today": "1,164 stars this week"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,172",
+            "forks": "1,732",
+            "language": "Python",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "2,031",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "1,780 stars this week"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "2,537",
+            "forks": "429",
+            "language": "Python",
+            "stars_today": "638 stars this week"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,538",
+            "forks": "690",
+            "language": "Python",
+            "stars_today": "660 stars this week"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "5,531",
+            "forks": "1,508",
+            "language": "Python",
+            "stars_today": "68 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "9,195",
+            "forks": "949",
+            "language": "Python",
+            "stars_today": "974 stars this week"
+        },
+        {
+            "zh_des": "MuseTalk：实时高质量的唇部同步化和潜在空间修复",
+            "url": "https://github.com/TMElyralab/MuseTalk",
+            "name": "TMElyralab /MuseTalk",
+            "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+            "stars": "497",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "200 stars this week"
+        }
+    ]
+}

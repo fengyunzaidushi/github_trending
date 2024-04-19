@@ -46478,3 +46478,257 @@
         }
     ]
 }
+{
+    "04月19日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "22,516",
+            "forks": "2,436",
+            "language": "Python",
+            "stars_today": "21,112 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "42,037",
+            "forks": "22,808",
+            "language": "Jupyter Notebook",
+            "stars_today": "12,498 stars this month"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "288,422",
+            "forks": "73,260",
+            "language": "",
+            "stars_today": "8,435 stars this month"
+        },
+        {
+            "zh_des": "Mojo编程语言",
+            "url": "https://github.com/modularml/mojo",
+            "name": "modularml /mojo",
+            "description": "The Mojo Programming Language",
+            "stars": "21,007",
+            "forks": "2,463",
+            "language": "Mojo",
+            "stars_today": "3,752 stars this month"
+        },
+        {
+            "zh_des": "Garnet是Microsoft Research的远程缓存存储，可提供强大的性能(吞吐量和延迟)、可扩展性、存储、恢复、集群分片、关键迁移和复制功能。Garnet可以与现有的Redis客户端一起工作。",
+            "url": "https://github.com/microsoft/garnet",
+            "name": "microsoft /garnet",
+            "description": "Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.",
+            "stars": "8,997",
+            "forks": "396",
+            "language": "C#",
+            "stars_today": "9,024 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "47,495",
+            "forks": "4,107",
+            "language": "Python",
+            "stars_today": "5,753 stars this month"
+        },
+        {
+            "zh_des": "Solana Trading Bot-Beta",
+            "url": "https://github.com/warp-id/solana-trading-bot",
+            "name": "warp-id /solana-trading-bot",
+            "description": "Solana Trading Bot - Beta",
+            "stars": "874",
+            "forks": "379",
+            "language": "TypeScript",
+            "stars_today": "682 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "22,584",
+            "forks": "3,019",
+            "language": "TypeScript",
+            "stars_today": "4,881 stars this month"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "13,422",
+            "forks": "646",
+            "language": "C++",
+            "stars_today": "3,120 stars this month"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "10,266",
+            "forks": "1,151",
+            "language": "Rust",
+            "stars_today": "951 stars this month"
+        },
+        {
+            "zh_des": "😱从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者“提升技术深度”提供便利.目前开放春季全家桶，Mybatis、Netty、Dubbo框架，及Redis、Tomcat中间件等",
+            "url": "https://github.com/doocs/source-code-hunter",
+            "name": "doocs /source-code-hunter",
+            "description": "😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等",
+            "stars": "19,270",
+            "forks": "3,585",
+            "language": "Java",
+            "stars_today": "3,628 stars this month"
+        },
+        {
+            "zh_des": "面向Kubernetes的eBPF分布式网络可观测性工具",
+            "url": "https://github.com/microsoft/retina",
+            "name": "microsoft /retina",
+            "description": "eBPF distributed networking observability tool for Kubernetes",
+            "stars": "2,386",
+            "forks": "157",
+            "language": "Go",
+            "stars_today": "2,395 stars this month"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": "64,733",
+            "forks": "23,433",
+            "language": "C",
+            "stars_today": "1,172 stars this month"
+        },
+        {
+            "zh_des": "适用于Web、桌面、移动设备等的全栈图形库。",
+            "url": "https://github.com/DioxusLabs/dioxus",
+            "name": "DioxusLabs /dioxus",
+            "description": "Fullstack GUI library for web, desktop, mobile, and more.",
+            "stars": "18,186",
+            "forks": "691",
+            "language": "Rust",
+            "stars_today": "1,905 stars this month"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "16,965",
+            "forks": "2,525",
+            "language": "JavaScript",
+            "stars_today": "1,889 stars this month"
+        },
+        {
+            "zh_des": "使用自然语言理念创建定制软件(通过LLM支持的多代理协作)",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "name": "OpenBMB /ChatDev",
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+            "stars": "22,665",
+            "forks": "2,841",
+            "language": "Shell",
+            "stars_today": "2,250 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "9,195",
+            "forks": "949",
+            "language": "Python",
+            "stars_today": "2,390 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,267",
+            "forks": "784",
+            "language": "Python",
+            "stars_today": "2,852 stars this month"
+        },
+        {
+            "zh_des": "👁‍🗨罕见和奇异的SAT",
+            "url": "https://github.com/ordinals/ord",
+            "name": "ordinals /ord",
+            "description": "👁‍🗨 Rare and exotic sats",
+            "stars": "3,476",
+            "forks": "1,178",
+            "language": "Rust",
+            "stars_today": "358 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "16,742",
+            "forks": "2,004",
+            "language": "Python",
+            "stars_today": "3,230 stars this month"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "13,517",
+            "forks": "701",
+            "language": "PHP",
+            "stars_today": "1,861 stars this month"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "15,700",
+            "forks": "1,781",
+            "language": "C",
+            "stars_today": "1,092 stars this month"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "13,523",
+            "forks": "3,240",
+            "language": "JavaScript",
+            "stars_today": "446 stars this month"
+        },
+        {
+            "zh_des": "本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "21,697",
+            "forks": "1,574",
+            "language": "Java",
+            "stars_today": "2,995 stars this month"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "10,525",
+            "forks": "1,304",
+            "language": "Vue",
+            "stars_today": "1,664 stars this month"
+        }
+    ]
+}
