@@ -47596,3 +47596,257 @@
         }
     ]
 }
+{
+    "04月20日": [
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "3,024",
+            "forks": "457",
+            "language": "Python",
+            "stars_today": "2,533 stars this week"
+        },
+        {
+            "zh_des": "迷你双子座的正式实施",
+            "url": "https://github.com/dvlab-research/MiniGemini",
+            "name": "dvlab-research /MiniGemini",
+            "description": "Official implementation for Mini-Gemini",
+            "stars": "2,698",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "1,923 stars this week"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "2,042",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "1,598 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "179,249",
+            "forks": "43,584",
+            "language": "Python",
+            "stars_today": "1,655 stars this week"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,120",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "1,015 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "2,084",
+            "forks": "228",
+            "language": "Python",
+            "stars_today": "1,228 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,113",
+            "forks": "6,386",
+            "language": "Python",
+            "stars_today": "700 stars this week"
+        },
+        {
+            "zh_des": "MuseTalk：实时高质量的唇部同步化和潜在空间修复",
+            "url": "https://github.com/TMElyralab/MuseTalk",
+            "name": "TMElyralab /MuseTalk",
+            "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+            "stars": "513",
+            "forks": "48",
+            "language": "Python",
+            "stars_today": "198 stars this week"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "14,486",
+            "forks": "1,543",
+            "language": "Python",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "5,338",
+            "forks": "429",
+            "language": "Python",
+            "stars_today": "1,085 stars this week"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "2,637",
+            "forks": "211",
+            "language": "Python",
+            "stars_today": "774 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2023]SadTalker：用于风格化音频驱动的单幅图像对话人脸动画的真实感3D运动系数学习",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "name": "OpenTalker /SadTalker",
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": "10,198",
+            "forks": "1,863",
+            "language": "Python",
+            "stars_today": "384 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "55,466",
+            "forks": "7,003",
+            "language": "Python",
+            "stars_today": "1,180 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "253,316",
+            "forks": "43,330",
+            "language": "Python",
+            "stars_today": "1,665 stars this week"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,177",
+            "forks": "1,732",
+            "language": "Python",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "MagicTime：作为变形模拟器的延时视频生成模型",
+            "url": "https://github.com/PKU-YuanGroup/MagicTime",
+            "name": "PKU-YuanGroup /MagicTime",
+            "description": "MagicTime: Time-lapse Video Generation Models as Metamorphic Simulators",
+            "stars": "988",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "355 stars this week"
+        },
+        {
+            "zh_des": "评估和改进LLM安全性的一套工具。",
+            "url": "https://github.com/meta-llama/PurpleLlama",
+            "name": "meta-llama /PurpleLlama",
+            "description": "Set of tools to assess and improve LLM security.",
+            "stars": "893",
+            "forks": "164",
+            "language": "Python",
+            "stars_today": "218 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,517",
+            "forks": "929",
+            "language": "Python",
+            "stars_today": "309 stars this week"
+        },
+        {
+            "zh_des": "概述该存储库包含用于评估语言模型的轻量级库",
+            "url": "https://github.com/openai/simple-evals",
+            "name": "openai /simple-evals",
+            "description": "OverviewThis repository contains a lightweight library for evaluating language models",
+            "stars": "814",
+            "forks": "85",
+            "language": "Python",
+            "stars_today": "353 stars this week"
+        },
+        {
+            "zh_des": "PixArt-Σ：用于4K文本到图像生成的扩散转换器的从弱到强训练",
+            "url": "https://github.com/PixArt-alpha/PixArt-sigma",
+            "name": "PixArt-alpha /PixArt-sigma",
+            "description": "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+            "stars": "709",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "189 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "16,113",
+            "forks": "904",
+            "language": "Python",
+            "stars_today": "284 stars this week"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "2,552",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "550 stars this week"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "20,034",
+            "forks": "7,429",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "18,009",
+            "forks": "2,371",
+            "language": "Python",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "骆驼模型的推理代码",
+            "url": "https://github.com/meta-llama/llama",
+            "name": "meta-llama /llama",
+            "description": "Inference code for Llama models",
+            "stars": "52,645",
+            "forks": "9,085",
+            "language": "Python",
+            "stars_today": "401 stars this week"
+        }
+    ]
+}
