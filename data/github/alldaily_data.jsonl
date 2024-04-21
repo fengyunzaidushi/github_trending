@@ -50896,3 +50896,257 @@
         }
     ]
 }
+{
+    "04月21日": [
+        {
+            "zh_des": "Meta Llama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "9,980",
+            "forks": "765",
+            "language": "Python",
+            "stars_today": "2,989 stars today"
+        },
+        {
+            "zh_des": "评估和改进LLM安全性的一套工具。",
+            "url": "https://github.com/meta-llama/PurpleLlama",
+            "name": "meta-llama /PurpleLlama",
+            "description": "Set of tools to assess and improve LLM security.",
+            "stars": "1,240",
+            "forks": "226",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "14,623",
+            "forks": "1,601",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "14,715",
+            "forks": "831",
+            "language": "JavaScript",
+            "stars_today": "432 stars today"
+        },
+        {
+            "zh_des": "多人国际象棋平台",
+            "url": "https://github.com/code100x/chess",
+            "name": "code100x /chess",
+            "description": "A multiplayer chess platform",
+            "stars": "681",
+            "forks": "277",
+            "language": "TypeScript",
+            "stars_today": "565 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "319,612",
+            "forks": "59,851",
+            "language": "",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "57,390",
+            "forks": "4,056",
+            "language": "Go",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "🤖是免费的、开源的OpenAI替代方案。自主式、社区驱动型和本地优先。替代在消费级硬件上运行的OpenAI。不需要图形处理器。运行GGUF、变压器、扩散器和更多模型架构。它允许生成文本、音频、视频、图像。还具有语音克隆功能。",
+            "url": "https://github.com/mudler/LocalAI",
+            "name": "mudler /LocalAI",
+            "description": "🤖 The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.",
+            "stars": "19,274",
+            "forks": "1,445",
+            "language": "C++",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "脚本是将考试中心分配给学生",
+            "url": "https://github.com/moest-np/center-randomize",
+            "name": "moest-np /center-randomize",
+            "description": "Script is to assign exam centers to students",
+            "stars": "267",
+            "forks": "84",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "用于维护健壮、优化和可重用软件的通用编程语言和工具链。",
+            "url": "https://github.com/ziglang/zig",
+            "name": "ziglang /zig",
+            "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+            "stars": "30,426",
+            "forks": "2,217",
+            "language": "Zig",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "3,270",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "75,769",
+            "forks": "35,199",
+            "language": "C++",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "9,533",
+            "forks": "934",
+            "language": "TypeScript",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "13,576",
+            "forks": "672",
+            "language": "C++",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "2,475",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "C/C++中的LLM推理",
+            "url": "https://github.com/ggerganov/llama.cpp",
+            "name": "ggerganov /llama.cpp",
+            "description": "LLM inference in C/C++",
+            "stars": "56,061",
+            "forks": "7,929",
+            "language": "C++",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "使用HWID/OHOOK/KMS38/Online KMS激活方法的Windows和Office激活器，重点关注开源代码和较少的防病毒检测。",
+            "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+            "name": "massgravel /Microsoft-Activation-Scripts",
+            "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+            "stars": "71,554",
+            "forks": "7,081",
+            "language": "Batchfile",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "我为了好玩而制作的高质量的PNG标志",
+            "url": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "name": "Aikoyori /ProgrammingVTuberLogos",
+            "description": "High-quality PNGs for logos I made for fun",
+            "stars": "1,619",
+            "forks": "36",
+            "language": "",
+            "stars_today": "475 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "387,747",
+            "forks": "35,360",
+            "language": "TypeScript",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "带有服务器端排序、筛选和分页的shadcn表组件。",
+            "url": "https://github.com/sadmann7/shadcn-table",
+            "name": "sadmann7 /shadcn-table",
+            "description": "A shadcn table component with server-side sorting, filtering, and pagination.",
+            "stars": "1,152",
+            "forks": "89",
+            "language": "TypeScript",
+            "stars_today": "307 stars today"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": "14,669",
+            "forks": "11,888",
+            "language": "Lua",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法对Llama2进行微调的脚本，以覆盖单节点/多节点GPU。支持应用程序的默认和自定义数据集，如摘要和问题回答。支持多种直截了当的推理解决方案，例如用于本地或云部署的HF TGI、VLLM。演示用于WhatsApp和Messenger的Llama2应用程序",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+            "stars": "8,716",
+            "forks": "1,232",
+            "language": "Jupyter Notebook",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "适用于大型语言模型的GRadio Web用户界面。支持变压器、GPTQ、AWQ、EXL2、Llama.cpp(GGUF)、Llama型号。",
+            "url": "https://github.com/oobabooga/text-generation-webui",
+            "name": "oobabooga /text-generation-webui",
+            "description": "A Gradio web UI for Large Language Models. Supports transformers, GPTQ, AWQ, EXL2, llama.cpp (GGUF), Llama models.",
+            "stars": "35,978",
+            "forks": "4,817",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "非名称服务器",
+            "url": "https://github.com/libccy/noname",
+            "name": "libccy /noname",
+            "description": "noname-server",
+            "stars": "1,818",
+            "forks": "498",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "骆驼中文社区，最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
+            "stars": "9,537",
+            "forks": "891",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        }
+    ]
+}
