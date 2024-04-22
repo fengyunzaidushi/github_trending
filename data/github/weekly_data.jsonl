@@ -48612,3 +48612,257 @@
         }
     ]
 }
+{
+    "04月22日": [
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "3,334",
+            "forks": "490",
+            "language": "Python",
+            "stars_today": "2,609 stars this week"
+        },
+        {
+            "zh_des": "官方发布《迷你双子座：挖掘多通道视觉语言模型的潜力》",
+            "url": "https://github.com/dvlab-research/MGM",
+            "name": "dvlab-research /MGM",
+            "description": "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\"",
+            "stars": "2,771",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "2,034 stars this week"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,430",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "1,533 stars this week"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "14,784",
+            "forks": "1,640",
+            "language": "Python",
+            "stars_today": "339 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "179,364",
+            "forks": "43,590",
+            "language": "Python",
+            "stars_today": "1,543 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,230",
+            "forks": "6,402",
+            "language": "Python",
+            "stars_today": "560 stars this week"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "6,371",
+            "forks": "350",
+            "language": "Python",
+            "stars_today": "551 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2023]SadTalker：用于风格化音频驱动的单幅图像对话人脸动画的真实感3D运动系数学习",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "name": "OpenTalker /SadTalker",
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": "10,261",
+            "forks": "1,870",
+            "language": "Python",
+            "stars_today": "409 stars this week"
+        },
+        {
+            "zh_des": "MuseTalk：实时高质量的唇部同步化和潜在空间修复",
+            "url": "https://github.com/TMElyralab/MuseTalk",
+            "name": "TMElyralab /MuseTalk",
+            "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+            "stars": "585",
+            "forks": "51",
+            "language": "Python",
+            "stars_today": "193 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "16,194",
+            "forks": "907",
+            "language": "Python",
+            "stars_today": "339 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "5,519",
+            "forks": "444",
+            "language": "Python",
+            "stars_today": "1,041 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "18,138",
+            "forks": "2,381",
+            "language": "Python",
+            "stars_today": "395 stars this week"
+        },
+        {
+            "zh_des": "评估和改进LLM安全性的一套工具。",
+            "url": "https://github.com/meta-llama/PurpleLlama",
+            "name": "meta-llama /PurpleLlama",
+            "description": "Set of tools to assess and improve LLM security.",
+            "stars": "1,766",
+            "forks": "270",
+            "language": "Python",
+            "stars_today": "454 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "3,538",
+            "forks": "395",
+            "language": "Python",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "55,649",
+            "forks": "7,033",
+            "language": "Python",
+            "stars_today": "1,338 stars this week"
+        },
+        {
+            "zh_des": "InstantMesh：基于单幅图像的稀疏大型重建模型的高效三维网格生成",
+            "url": "https://github.com/TencentARC/InstantMesh",
+            "name": "TencentARC /InstantMesh",
+            "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+            "stars": "1,194",
+            "forks": "83",
+            "language": "Python",
+            "stars_today": "842 stars this week"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "2,601",
+            "forks": "347",
+            "language": "Python",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "253,464",
+            "forks": "43,345",
+            "language": "Python",
+            "stars_today": "1,673 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "5,625",
+            "forks": "947",
+            "language": "Python",
+            "stars_today": "234 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "2,149",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "812 stars this week"
+        },
+        {
+            "zh_des": "基于Evol Insturct的LLMS：WizardLM、WizardCoder、WizardMath",
+            "url": "https://github.com/nlpxucan/WizardLM",
+            "name": "nlpxucan /WizardLM",
+            "description": "LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath",
+            "stars": "8,854",
+            "forks": "672",
+            "language": "Python",
+            "stars_today": "316 stars this week"
+        },
+        {
+            "zh_des": "ML和LLM在数据处理中的应用",
+            "url": "https://github.com/katanaml/sparrow",
+            "name": "katanaml /sparrow",
+            "description": "Data processing with ML and LLM",
+            "stars": "1,776",
+            "forks": "217",
+            "language": "Python",
+            "stars_today": "439 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "49,136",
+            "forks": "5,885",
+            "language": "Python",
+            "stars_today": "962 stars this week"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "2,061",
+            "forks": "335",
+            "language": "Python",
+            "stars_today": "855 stars this week"
+        },
+        {
+            "zh_des": "PixArt-Σ：用于4K文本到图像生成的扩散转换器的从弱到强训练",
+            "url": "https://github.com/PixArt-alpha/PixArt-sigma",
+            "name": "PixArt-alpha /PixArt-sigma",
+            "description": "PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation",
+            "stars": "730",
+            "forks": "33",
+            "language": "Python",
+            "stars_today": "188 stars this week"
+        }
+    ]
+}

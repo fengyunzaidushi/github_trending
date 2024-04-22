@@ -48286,3 +48286,257 @@
         }
     ]
 }
+{
+    "04月22日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "22,805",
+            "forks": "2,472",
+            "language": "Python",
+            "stars_today": "20,744 stars this month"
+        },
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "16,040",
+            "forks": "2,045",
+            "language": "Python",
+            "stars_today": "15,902 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,425",
+            "forks": "801",
+            "language": "Python",
+            "stars_today": "2,834 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "9,299",
+            "forks": "952",
+            "language": "Python",
+            "stars_today": "2,431 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,230",
+            "forks": "6,402",
+            "language": "Python",
+            "stars_today": "1,458 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "17,235",
+            "forks": "2,055",
+            "language": "Python",
+            "stars_today": "3,338 stars this month"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "18,138",
+            "forks": "2,381",
+            "language": "Python",
+            "stars_today": "1,723 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.0：具有强大的OCR和理解能力的高效端MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.0: An Efficient End-side MLLM with Strong OCR and Understanding Capabilities",
+            "stars": "1,249",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "906 stars this month"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "57,229",
+            "forks": "12,901",
+            "language": "Python",
+            "stars_today": "2,923 stars this month"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "10,057",
+            "forks": "907",
+            "language": "Python",
+            "stars_today": "3,989 stars this month"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,575",
+            "forks": "694",
+            "language": "Python",
+            "stars_today": "1,270 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "47,626",
+            "forks": "4,118",
+            "language": "Python",
+            "stars_today": "5,587 stars this month"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "18,813",
+            "forks": "1,428",
+            "language": "Python",
+            "stars_today": "991 stars this month"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "17,293",
+            "forks": "1,549",
+            "language": "Python",
+            "stars_today": "2,259 stars this month"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "12,337",
+            "forks": "1,566",
+            "language": "Python",
+            "stars_today": "2,378 stars this month"
+        },
+        {
+            "zh_des": "Gorilla：LLM的API存储",
+            "url": "https://github.com/ShishirPatil/gorilla",
+            "name": "ShishirPatil /gorilla",
+            "description": "Gorilla: An API store for LLMs",
+            "stars": "9,979",
+            "forks": "754",
+            "language": "Python",
+            "stars_today": "559 stars this month"
+        },
+        {
+            "zh_des": "[ICLR 2024]SWE-BENCH：语言模型能否解决现实世界的Github问题？",
+            "url": "https://github.com/princeton-nlp/SWE-bench",
+            "name": "princeton-nlp /SWE-bench",
+            "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+            "stars": "1,143",
+            "forks": "185",
+            "language": "Python",
+            "stars_today": "495 stars this month"
+        },
+        {
+            "zh_des": "构建高质量的LLM应用程序-从原型、测试到生产部署和监控。",
+            "url": "https://github.com/microsoft/promptflow",
+            "name": "microsoft /promptflow",
+            "description": "Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.",
+            "stars": "8,100",
+            "forks": "670",
+            "language": "Python",
+            "stars_today": "413 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "8,463",
+            "forks": "1,085",
+            "language": "Python",
+            "stars_today": "769 stars this month"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLMAPI。使用BedRock、Azure、OpenAI、Cohery、Anthropic、Ollama、Sagemaker、HuggingFace、Replate(100+LLMS)",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)",
+            "stars": "8,139",
+            "forks": "882",
+            "language": "Python",
+            "stars_today": "1,458 stars this month"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "16,194",
+            "forks": "907",
+            "language": "Python",
+            "stars_today": "882 stars this month"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "9,716",
+            "forks": "1,524",
+            "language": "Python",
+            "stars_today": "9,474 stars this month"
+        },
+        {
+            "zh_des": "开放源码语言模型计算机",
+            "url": "https://github.com/OpenInterpreter/01",
+            "name": "OpenInterpreter /01",
+            "description": "The open-source language model computer",
+            "stars": "4,286",
+            "forks": "406",
+            "language": "Python",
+            "stars_today": "3,928 stars this month"
+        },
+        {
+            "zh_des": "骆驼中文社区，最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，最好的中文Llama大模型，完全开源可商用",
+            "stars": "9,836",
+            "forks": "913",
+            "language": "Python",
+            "stars_today": "999 stars this month"
+        },
+        {
+            "zh_des": "完全免费开源，基于请求模块实现：TikTok主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "完全免费开源，基于 Requests 模块实现：TikTok 主页/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "5,526",
+            "forks": "893",
+            "language": "Python",
+            "stars_today": "795 stars this month"
+        }
+    ]
+}
