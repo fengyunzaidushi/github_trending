@@ -38680,3 +38680,257 @@
         }
     ]
 }
+{
+    "04月22日": [
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法对Llama2进行微调的脚本，以覆盖单节点/多节点GPU。支持应用程序的默认和自定义数据集，如摘要和问题回答。支持多种直截了当的推理解决方案，例如用于本地或云部署的HF TGI、VLLM。演示用于WhatsApp和Messenger的Llama2应用程序",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger",
+            "stars": "8,808",
+            "forks": "1,238",
+            "language": "Jupyter Notebook",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "ScratchRetrival增强生成(RAG)中的RAG是连接LLMS与外部数据源的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "689",
+            "forks": "159",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,286",
+            "forks": "83,203",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "搭建LLM和推荐系统之间的桥梁。",
+            "url": "https://github.com/microsoft/RecAI",
+            "name": "microsoft /RecAI",
+            "description": "Bridging LLM and Recommender System.",
+            "stars": "277",
+            "forks": "21",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "28,552",
+            "forks": "2,905",
+            "language": "Jupyter Notebook",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "FinRL：财务强化学习。🔥",
+            "url": "https://github.com/AI4Finance-Foundation/FinRL",
+            "name": "AI4Finance-Foundation /FinRL",
+            "description": "FinRL: Financial Reinforcement Learning. 🔥",
+            "stars": "9,053",
+            "forks": "2,215",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "100个熊猫数据谜题，从简短简单到超级复杂(60%完成)",
+            "url": "https://github.com/ajcr/100-pandas-puzzles",
+            "name": "ajcr /100-pandas-puzzles",
+            "description": "100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)",
+            "stars": "2,158",
+            "forks": "1,985",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "3,538",
+            "forks": "311",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Book_1_“编程不难”|鸢尾花书:从加减乘除到机器学习；请多多批评指正！",
+            "url": "https://github.com/Visualize-ML/Book1_Python-For-Beginners",
+            "name": "Visualize-ML /Book1_Python-For-Beginners",
+            "description": "Book_1_《编程不难》 | 鸢尾花书：从加减乘除到机器学习；请多多批评指正！",
+            "stars": "3,326",
+            "forks": "630",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,657",
+            "forks": "1,502",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "TensorFlow示例",
+            "url": "https://github.com/tensorflow/examples",
+            "name": "tensorflow /examples",
+            "description": "TensorFlow examples",
+            "stars": "7,743",
+            "forks": "7,350",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🇰🇷무료로한국어파인튜닝모델받아서로컬LLm호스팅.LangServe、Ollama、Streamlight+RAG",
+            "url": "https://github.com/teddylee777/langserve_ollama",
+            "name": "teddylee777 /langserve_ollama",
+            "description": "무료로 한국어🇰🇷 파인튜닝 모델 받아서 로컬 LLM 호스팅. LangServe, Ollama, streamlit + RAG",
+            "stars": "29",
+            "forks": "33",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "稳定扩散的WebUI CoLab",
+            "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+            "name": "camenduru /stable-diffusion-webui-colab",
+            "description": "stable diffusion webui colab",
+            "stars": "15,232",
+            "forks": "2,563",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "机器学习问答与人工智能书籍",
+            "url": "https://github.com/rasbt/MachineLearning-QandAI-book",
+            "name": "rasbt /MachineLearning-QandAI-book",
+            "description": "Machine Learning Q and AI book",
+            "stars": "184",
+            "forks": "46",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2022]用于图像动画的薄板样条线运动模型。",
+            "url": "https://github.com/yoyo-nb/Thin-Plate-Spline-Motion-Model",
+            "name": "yoyo-nb /Thin-Plate-Spline-Motion-Model",
+            "description": "[CVPR 2022] Thin-Plate Spline Motion Model for Image Animation.",
+            "stars": "3,288",
+            "forks": "541",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用于存储样例Python程序的存储库，用于学习",
+            "url": "https://github.com/codebasics/py",
+            "name": "codebasics /py",
+            "description": "Repository to store sample python programs for python learning",
+            "stars": "6,625",
+            "forks": "16,600",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "将任何文本转换为知识图表。这可以用于图扩充生成或基于知识图的QNA",
+            "url": "https://github.com/rahulnyk/knowledge_graph",
+            "name": "rahulnyk /knowledge_graph",
+            "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA",
+            "stars": "882",
+            "forks": "180",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "足球分析与深度学习和计算机视觉项目目标：创建一个Web应用程序来自动化足球分析，并提供有助于决策的有用信息",
+            "url": "https://github.com/Hmzbo/Football-Analytics-with-Deep-Learning-and-Computer-Vision",
+            "name": "Hmzbo /Football-Analytics-with-Deep-Learning-and-Computer-Vision",
+            "description": "Football Analytics with Deep Learning and Computer VisionProject goal: Create a web application to automate football analysis, and provide useful information that helps in decision making",
+            "stars": "49",
+            "forks": "22",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用生成性人工智能在几分钟内组织你的STEM文章。",
+            "url": "https://github.com/Dillettant/Athena",
+            "name": "Dillettant /Athena",
+            "description": "Structure your STEM essay in several minutes with Generative AI.",
+            "stars": "813",
+            "forks": "155",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "一种用于遵循指令的语言模型的自动评估器。人工验证，高质量，廉价，快速。",
+            "url": "https://github.com/tatsu-lab/alpaca_eval",
+            "name": "tatsu-lab /alpaca_eval",
+            "description": "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+            "stars": "1,091",
+            "forks": "159",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "H2O是一个开源、分布式、快速和可扩展的机器学习平台：深度学习、梯度增强(GBM)和XGBoost、随机森林、广义线性建模(GLM和弹性网)、K-Means、PCA、广义加性模型(GAM)、RuleFit、支持向量机(SVM)、堆叠集成、自动机器学习(AutoML)等。",
+            "url": "https://github.com/h2oai/h2o-3",
+            "name": "h2oai /h2o-3",
+            "description": "H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.",
+            "stars": "6,728",
+            "forks": "1,987",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "4,999",
+            "forks": "685",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL：扩大Vision Foundation模型并调整通用视觉语言任务--VIT-22B的开源替代方案",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks —— An Open-Source Alternative to ViT-22B",
+            "stars": "775",
+            "forks": "27",
+            "language": "Jupyter Notebook",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "通过随机微分方程实现基于分数的生成性建模的PyTorch(ICLR 2021，口头)",
+            "url": "https://github.com/yang-song/score_sde_pytorch",
+            "name": "yang-song /score_sde_pytorch",
+            "description": "PyTorch implementation for Score-Based Generative Modeling through Stochastic Differential Equations (ICLR 2021, Oral)",
+            "stars": "1,501",
+            "forks": "277",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一种潜在的文本到图像扩散模型",
+            "url": "https://github.com/CompVis/stable-diffusion",
+            "name": "CompVis /stable-diffusion",
+            "description": "A latent text-to-image diffusion model",
+            "stars": "65,312",
+            "forks": "9,831",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        }
+    ]
+}
