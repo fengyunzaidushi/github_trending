@@ -40418,3 +40418,257 @@
         }
     ]
 }
+{
+    "04月25日": [
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "12,041",
+            "forks": "1,131",
+            "language": "TypeScript",
+            "stars_today": "335 stars today"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "17,445",
+            "forks": "1,243",
+            "language": "TypeScript",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "31,593",
+            "forks": "1,477",
+            "language": "TypeScript",
+            "stars_today": "336 stars today"
+        },
+        {
+            "zh_des": "使用LLMS将任何网页转换为结构化数据",
+            "url": "https://github.com/mishushakov/llm-scraper",
+            "name": "mishushakov /llm-scraper",
+            "description": "Turn any webpage into structured data using LLMs",
+            "stars": "961",
+            "forks": "54",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "24,832",
+            "forks": "3,249",
+            "language": "TypeScript",
+            "stars_today": "474 stars today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "90,200",
+            "forks": "45,913",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "无限的画布。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "Infinite canvas.",
+            "stars": "32,572",
+            "forks": "1,951",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "6,449",
+            "forks": "834",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "4,134",
+            "forks": "780",
+            "language": "TypeScript",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "⏩开源VS代码和JetBrains扩展，使您能够轻松创建自己的模块化AI软件开发系统",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system",
+            "stars": "10,882",
+            "forks": "665",
+            "language": "TypeScript",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "在几分钟内构建对话式人工智能⚡️",
+            "url": "https://github.com/Chainlit/chainlit",
+            "name": "Chainlit /chainlit",
+            "description": "Build Conversational AI in minutes ⚡️",
+            "stars": "5,388",
+            "forks": "668",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "快速拖放，在任何技术堆栈上获得任何体验",
+            "url": "https://github.com/atlassian/pragmatic-drag-and-drop",
+            "name": "atlassian /pragmatic-drag-and-drop",
+            "description": "Fast drag and drop for any experience on any tech stack",
+            "stars": "6,174",
+            "forks": "81",
+            "language": "TypeScript",
+            "stars_today": "873 stars today"
+        },
+        {
+            "zh_des": "一个简单而快速的后端API，基于Hono，可以使用关键字在互联网上搜索相关内容，并将其转换为适合LLM处理的格式。支持在Cloudflare上部署。",
+            "url": "https://github.com/feiandxs/duckrush",
+            "name": "feiandxs /duckrush",
+            "description": "A simple and fast backend API, based on Hono, that can search for relevant content on the internet using keywords and convert it into a format suitable for LLM processing. Supports deployment on Cloudflare.",
+            "stars": "182",
+            "forks": "17",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "一位现代的VUE管理员。它是基于Vue3、Vite和打印脚本的。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+            "stars": "22,095",
+            "forks": "6,066",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,693",
+            "forks": "383",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "根据PR、功能分支或推送提交修改的文件有条件地运行操作",
+            "url": "https://github.com/dorny/paths-filter",
+            "name": "dorny /paths-filter",
+            "description": "Conditionally run actions based on files modified by PR, feature branch or pushed commits",
+            "stars": "1,813",
+            "forks": "208",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Storybook是一个前端研讨会，用于单独构建UI组件和页面。专为用户界面开发、测试和文档而设计。",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+            "stars": "82,804",
+            "forks": "9,009",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "61,697",
+            "forks": "3,293",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "28,465",
+            "forks": "1,647",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "❍--SST的新引擎",
+            "url": "https://github.com/sst/ion",
+            "name": "sst /ion",
+            "description": "❍ — a new engine for SST",
+            "stars": "719",
+            "forks": "56",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "适用于所有钱包的单一Web3提供商解决方案",
+            "url": "https://github.com/WalletConnect/web3modal",
+            "name": "WalletConnect /web3modal",
+            "description": "A single Web3 provider solution for all Wallets",
+            "stars": "4,651",
+            "forks": "1,279",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "23,133",
+            "forks": "13,892",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "60,366",
+            "forks": "11,569",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Reaction的可视化构建器。构建应用程序、网站和内容。与您的代码库集成。",
+            "url": "https://github.com/plasmicapp/plasmic",
+            "name": "plasmicapp /plasmic",
+            "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+            "stars": "4,025",
+            "forks": "340",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Mui X：使用越来越多的高级Reaction组件构建复杂且数据丰富的应用程序，如数据网格、日期和时间选取器、图表等！",
+            "url": "https://github.com/mui/mui-x",
+            "name": "mui /mui-x",
+            "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+            "stars": "3,718",
+            "forks": "1,104",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
