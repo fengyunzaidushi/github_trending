@@ -49980,3 +49980,247 @@
         }
     ]
 }
+{
+    "04月25日": [
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "9,254",
+            "forks": "1,598",
+            "language": "HTML",
+            "stars_today": "1,757 stars this week"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "3,665",
+            "forks": "528",
+            "language": "Python",
+            "stars_today": "1,411 stars this week"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,634",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "1,530 stars this week"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "289,777",
+            "forks": "73,520",
+            "language": "",
+            "stars_today": "3,910 stars this week"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "9,030",
+            "forks": "1,271",
+            "language": "Jupyter Notebook",
+            "stars_today": "744 stars this week"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "14,956",
+            "forks": "1,706",
+            "language": "Python",
+            "stars_today": "670 stars this week"
+        },
+        {
+            "zh_des": "InstantMesh：基于单幅图像的稀疏大型重建模型的高效三维网格生成",
+            "url": "https://github.com/TencentARC/InstantMesh",
+            "name": "TencentARC /InstantMesh",
+            "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+            "stars": "1,346",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "628 stars this week"
+        },
+        {
+            "zh_des": "Quill是一个现代的所见即所得的编辑器，旨在实现兼容性和可扩展性。",
+            "url": "https://github.com/quilljs/quill",
+            "name": "quilljs /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+            "stars": "41,050",
+            "forks": "3,245",
+            "language": "TypeScript",
+            "stars_today": "1,658 stars this week"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "7,130",
+            "forks": "426",
+            "language": "Python",
+            "stars_today": "1,277 stars this week"
+        },
+        {
+            "zh_des": "官方发布《迷你双子座：挖掘多通道视觉语言模型的潜力》",
+            "url": "https://github.com/dvlab-research/MGM",
+            "name": "dvlab-research /MGM",
+            "description": "Official repo for \"Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models\"",
+            "stars": "2,863",
+            "forks": "260",
+            "language": "Python",
+            "stars_today": "1,255 stars this week"
+        },
+        {
+            "zh_des": "暴怒娱乐公司推出的《堕落3》",
+            "url": "https://github.com/DescentDevelopers/Descent3",
+            "name": "DescentDevelopers /Descent3",
+            "description": "Descent 3 by Outrage Entertainment",
+            "stars": "2,560",
+            "forks": "212",
+            "language": "C++",
+            "stars_today": "697 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "3,882",
+            "forks": "373",
+            "language": "Python",
+            "stars_today": "894 stars this week"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "15,957",
+            "forks": "1,617",
+            "language": "Svelte",
+            "stars_today": "2,241 stars this week"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "59,923",
+            "forks": "4,286",
+            "language": "Go",
+            "stars_today": "3,990 stars this week"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "32,409",
+            "forks": "1,534",
+            "language": "Rust",
+            "stars_today": "853 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "16,433",
+            "forks": "913",
+            "language": "Python",
+            "stars_today": "479 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "24,644",
+            "forks": "3,233",
+            "language": "TypeScript",
+            "stars_today": "2,178 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,490",
+            "forks": "6,436",
+            "language": "Python",
+            "stars_today": "563 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "19,390",
+            "forks": "2,317",
+            "language": "Python",
+            "stars_today": "2,562 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "10,986",
+            "forks": "1,365",
+            "language": "Vue",
+            "stars_today": "630 stars this week"
+        },
+        {
+            "zh_des": "2D栅格和矢量编辑器，将传统的层和工具与现代基于节点的、非破坏性的程序工作流程相结合。",
+            "url": "https://github.com/GraphiteEditor/Graphite",
+            "name": "GraphiteEditor /Graphite",
+            "description": "2D raster & vector editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.",
+            "stars": "6,852",
+            "forks": "370",
+            "language": "Rust",
+            "stars_today": "491 stars this week"
+        },
+        {
+            "zh_des": "ArirageLab是一个巨蟒程序库，通过提供来自最好的学术期刊的一套完整的算法，使想要利用均值回归投资组合的交易员能够进行投资。",
+            "url": "https://github.com/hudson-and-thames/arbitragelab",
+            "name": "hudson-and-thames /arbitragelab",
+            "description": "ArbitrageLab is a python library that enables traders who want to exploit mean-reverting portfolios by providing a complete set of algorithms from the best academic journals.",
+            "stars": "340",
+            "forks": "101",
+            "language": "Python",
+            "stars_today": "65 stars this week"
+        },
+        {
+            "zh_des": "用超级记忆力打造你自己的第二个大脑。这是一个ChatGPT为你的书签。使用Chrome扩展导入推文或保存网站和内容。",
+            "url": "https://github.com/Dhravya/supermemory",
+            "name": "Dhravya /supermemory",
+            "description": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+            "stars": "2,348",
+            "forks": "191",
+            "language": "TypeScript",
+            "stars_today": "606 stars this week"
+        },
+        {
+            "zh_des": "一个可信任的开源云本地注册项目，用于存储、签名和扫描内容。",
+            "url": "https://github.com/goharbor/harbor",
+            "name": "goharbor /harbor",
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+            "stars": "22,485",
+            "forks": "4,605",
+            "language": "Go",
+            "stars_today": "181 stars this week"
+        }
+    ]
+}

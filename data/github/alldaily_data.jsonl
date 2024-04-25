@@ -52674,3 +52674,257 @@
         }
     ]
 }
+{
+    "04月25日": [
+        {
+            "zh_des": "用于构建精简版Windows 11映像的脚本。",
+            "url": "https://github.com/ntdevlabs/tiny11builder",
+            "name": "ntdevlabs /tiny11builder",
+            "description": "Scripts to build a trimmed-down Windows 11 image.",
+            "stars": "5,748",
+            "forks": "552",
+            "language": "PowerShell",
+            "stars_today": "514 stars today"
+        },
+        {
+            "zh_des": "我为了好玩而制作的高质量的PNG标志",
+            "url": "https://github.com/Aikoyori/ProgrammingVTuberLogos",
+            "name": "Aikoyori /ProgrammingVTuberLogos",
+            "description": "High-quality PNGs for logos I made for fun",
+            "stars": "3,807",
+            "forks": "234",
+            "language": "",
+            "stars_today": "426 stars today"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "19,390",
+            "forks": "2,317",
+            "language": "Python",
+            "stars_today": "1,443 stars today"
+        },
+        {
+            "zh_des": "Gpt4all：在任何地方运行开源LLMS",
+            "url": "https://github.com/nomic-ai/gpt4all",
+            "name": "nomic-ai /gpt4all",
+            "description": "gpt4all: run open-source LLMs anywhere",
+            "stars": "64,322",
+            "forks": "7,082",
+            "language": "C++",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "31,460",
+            "forks": "1,471",
+            "language": "TypeScript",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "11,595",
+            "forks": "1,111",
+            "language": "TypeScript",
+            "stars_today": "1,277 stars today"
+        },
+        {
+            "zh_des": "向LLMS添加内存、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Add memory, knowledge and tools to LLMs",
+            "stars": "4,079",
+            "forks": "527",
+            "language": "Python",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "MaxBot开源机器人",
+            "url": "https://github.com/max32002/tixcraft_bot",
+            "name": "max32002 /tixcraft_bot",
+            "description": "MaxBot open source code bot",
+            "stars": "2,107",
+            "forks": "543",
+            "language": "JavaScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等.",
+            "url": "https://github.com/HqWu-HITCS/Awesome-Chinese-LLM",
+            "name": "HqWu-HITCS /Awesome-Chinese-LLM",
+            "description": "整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。",
+            "stars": "9,702",
+            "forks": "855",
+            "language": "",
+            "stars_today": "420 stars today"
+        },
+        {
+            "zh_des": "Llama3中文仓库(聚合资料:各种网友及厂商微调、魔改版本有趣权重&训练、推理、部署教程视频&文档)",
+            "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+            "name": "CrazyBoyM /llama3-Chinese-chat",
+            "description": "Llama3 中文仓库（聚合资料：各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、部署教程视频 & 文档）",
+            "stars": "1,624",
+            "forks": "146",
+            "language": "Python",
+            "stars_today": "443 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "24,644",
+            "forks": "3,233",
+            "language": "TypeScript",
+            "stars_today": "479 stars today"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "25,089",
+            "forks": "2,745",
+            "language": "C",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "115,734",
+            "forks": "23,901",
+            "language": "C++",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "这是一本学习英语的高级指南，可能会让你受益良多。🎉。离谱的英语学习指南/英语学习教程.",
+            "url": "https://github.com/byoungd/English-level-up-tips",
+            "name": "byoungd /English-level-up-tips",
+            "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程。",
+            "stars": "35,396",
+            "forks": "4,009",
+            "language": "HTML",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "15,957",
+            "forks": "1,617",
+            "language": "Svelte",
+            "stars_today": "356 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "3,983",
+            "forks": "725",
+            "language": "TypeScript",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "32,716",
+            "forks": "2,788",
+            "language": "",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "12,752",
+            "forks": "1,659",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "59,923",
+            "forks": "4,286",
+            "language": "Go",
+            "stars_today": "722 stars today"
+        },
+        {
+            "zh_des": "基座",
+            "url": "https://github.com/mztacat/Base",
+            "name": "mztacat /Base",
+            "description": "Base",
+            "stars": "164",
+            "forks": "141",
+            "language": "Solidity",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "高效、灵活、功能齐全的大型模型微调工具包(InternLM、Llama、百川、Qwen、ChatGLM)",
+            "url": "https://github.com/InternLM/xtuner",
+            "name": "InternLM /xtuner",
+            "description": "An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM, Llama, Baichuan, Qwen, ChatGLM)",
+            "stars": "2,069",
+            "forks": "176",
+            "language": "Python",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "适用于PyTorch的移动、嵌入式和边缘设备上的AI",
+            "url": "https://github.com/pytorch/executorch",
+            "name": "pytorch /executorch",
+            "description": "On-device AI across mobile, embedded and edge for PyTorch",
+            "stars": "807",
+            "forks": "155",
+            "language": "C++",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "⏩开源VS代码和JetBrains扩展，使您能够轻松创建自己的模块化AI软件开发系统",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Open-source VS Code and JetBrains extensions that enable you to easily create your own modular AI software development system",
+            "stars": "10,825",
+            "forks": "660",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "戈多引擎--多平台2D和3D游戏引擎",
+            "url": "https://github.com/godotengine/godot",
+            "name": "godotengine /godot",
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "stars": "83,385",
+            "forks": "18,151",
+            "language": "C++",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "脚本是将考试中心分配给学生",
+            "url": "https://github.com/moest-np/center-randomize",
+            "name": "moest-np /center-randomize",
+            "description": "Script is to assign exam centers to students",
+            "stars": "652",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        }
+    ]
+}
