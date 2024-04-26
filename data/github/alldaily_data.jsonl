@@ -53436,3 +53436,257 @@
         }
     ]
 }
+{
+    "04月26日": [
+        {
+            "zh_des": "CoreNet：一个训练深度神经网络的库",
+            "url": "https://github.com/apple/corenet",
+            "name": "apple /corenet",
+            "description": "CoreNet: A library for training deep neural networks",
+            "stars": "2,764",
+            "forks": "127",
+            "language": "Python",
+            "stars_today": "511 stars today"
+        },
+        {
+            "zh_des": "🫠ロゴを可愛く作ろう節度を持って利用してください",
+            "url": "https://github.com/SAWARATSUKI/ServiceLogos",
+            "name": "SAWARATSUKI /ServiceLogos",
+            "description": "ロゴを可愛く作ろう　節度を持って利用してください🫠",
+            "stars": "5,731",
+            "forks": "116",
+            "language": "",
+            "stars_today": "1,240 stars today"
+        },
+        {
+            "zh_des": "工具包是一组预构建的组件，使用户能够快速构建和部署RAG应用程序。",
+            "url": "https://github.com/cohere-ai/cohere-toolkit",
+            "name": "cohere-ai /cohere-toolkit",
+            "description": "Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
+            "stars": "1,114",
+            "forks": "96",
+            "language": "TypeScript",
+            "stars_today": "482 stars today"
+        },
+        {
+            "zh_des": "一种文件和照片管理应用程序和系统。",
+            "url": "https://github.com/CyanVoxel/TagStudio",
+            "name": "CyanVoxel /TagStudio",
+            "description": "A file and photo management application and system.",
+            "stars": "920",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "14,276",
+            "forks": "694",
+            "language": "C++",
+            "stars_today": "236 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "4,268",
+            "forks": "814",
+            "language": "TypeScript",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "基于HMAC通信的零知识证明在Java中的实现",
+            "url": "https://github.com/zk-Call/zkp-hmac-communication-js",
+            "name": "zk-Call /zkp-hmac-communication-js",
+            "description": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in JavaScript",
+            "stars": "1,278",
+            "forks": "350",
+            "language": "JavaScript",
+            "stars_today": "590 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "852",
+            "forks": "117",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "骆驼-3代理，可以按照说明浏览网页，并与您交谈",
+            "url": "https://github.com/McGill-NLP/webllama",
+            "name": "McGill-NLP /webllama",
+            "description": "Llama-3 agents that can browse the web by following instructions and talking to you",
+            "stars": "783",
+            "forks": "50",
+            "language": "Python",
+            "stars_today": "278 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "15,811",
+            "forks": "1,436",
+            "language": "Python",
+            "stars_today": "272 stars today"
+        },
+        {
+            "zh_des": "VUE3+PINIA+VITE5仿抖音，完全度为90%。模仿TikTok，完成率达到90%",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia + Vite5 仿抖音，完全度90% . Imitate TikTok with 90% completeness",
+            "stars": "3,294",
+            "forks": "956",
+            "language": "Vue",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "22,490",
+            "forks": "3,634",
+            "language": "Python",
+            "stars_today": "481 stars today"
+        },
+        {
+            "zh_des": "用于构建精简版Windows 11映像的脚本。",
+            "url": "https://github.com/ntdevlabs/tiny11builder",
+            "name": "ntdevlabs /tiny11builder",
+            "description": "Scripts to build a trimmed-down Windows 11 image.",
+            "stars": "6,937",
+            "forks": "668",
+            "language": "PowerShell",
+            "stars_today": "990 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "115,851",
+            "forks": "23,932",
+            "language": "C++",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表--分享大家都在做什么",
+            "url": "https://github.com/1c7/chinese-independent-developer",
+            "name": "1c7 /chinese-independent-developer",
+            "description": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么",
+            "stars": "33,027",
+            "forks": "2,819",
+            "language": "",
+            "stars_today": "211 stars today"
+        },
+        {
+            "zh_des": "SeaTunes是下一代超高性能、分布式、海量数据集成工具。",
+            "url": "https://github.com/apache/seatunnel",
+            "name": "apache /seatunnel",
+            "description": "SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.",
+            "stars": "7,263",
+            "forks": "1,545",
+            "language": "Java",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "使用MLX SWIFT的示例",
+            "url": "https://github.com/ml-explore/mlx-swift-examples",
+            "name": "ml-explore /mlx-swift-examples",
+            "description": "Examples using MLX Swift",
+            "stars": "358",
+            "forks": "55",
+            "language": "Swift",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "17,756",
+            "forks": "1,317",
+            "language": "TypeScript",
+            "stars_today": "324 stars today"
+        },
+        {
+            "zh_des": "用于可视化通过Copilot业务指标API提供的Copilot指标的工具(当前处于公测阶段)",
+            "url": "https://github.com/github-copilot-resources/copilot-metrics-viewer",
+            "name": "github-copilot-resources /copilot-metrics-viewer",
+            "description": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
+            "stars": "82",
+            "forks": "16",
+            "language": "Vue",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "人工智能生成的基因编辑系统",
+            "url": "https://github.com/Profluent-AI/OpenCRISPR",
+            "name": "Profluent-AI /OpenCRISPR",
+            "description": "AI-generated gene editing systems",
+            "stars": "527",
+            "forks": "45",
+            "language": "",
+            "stars_today": "279 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "60,771",
+            "forks": "4,364",
+            "language": "Go",
+            "stars_today": "583 stars today"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "10,817",
+            "forks": "1,011",
+            "language": "Python",
+            "stars_today": "399 stars today"
+        },
+        {
+            "zh_des": "使用同态加密和智能合约支持的私有块DAG",
+            "url": "https://github.com/xelis-project/xelis-blockchain",
+            "name": "xelis-project /xelis-blockchain",
+            "description": "A private blockDAG using Homomorphic Encryption with Smart Contract support",
+            "stars": "128",
+            "forks": "21",
+            "language": "Rust",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "25,227",
+            "forks": "2,774",
+            "language": "C",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "531",
+            "forks": "56",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        }
+    ]
+}
