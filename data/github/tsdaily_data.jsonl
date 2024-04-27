@@ -41434,3 +41434,257 @@
         }
     ]
 }
+{
+    "04月27日": [
+        {
+            "zh_des": "工具包是一组预构建的组件，使用户能够快速构建和部署RAG应用程序。",
+            "url": "https://github.com/cohere-ai/cohere-toolkit",
+            "name": "cohere-ai /cohere-toolkit",
+            "description": "Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
+            "stars": "1,438",
+            "forks": "146",
+            "language": "TypeScript",
+            "stars_today": "444 stars today"
+        },
+        {
+            "zh_des": "🪢开源LLm工程平台。可观察性、指标、评估、即时管理、测试、即时操场、数据集、LLM评估--🍊YC W23🤖通过打字稿、Python/Decorator、OpenAI、语言链、LlamaIndex、Litellm、讲师、西雅图、困惑、克劳德、双子座、顶点进行集成",
+            "url": "https://github.com/langfuse/langfuse",
+            "name": "langfuse /langfuse",
+            "description": "🪢 Open source LLM engineering platform. Observability, metrics, evals, prompt management, testing, prompt playground, datasets, LLM evaluations -- 🍊YC W23 🤖 integrate via Typescript, Python / Decorators, OpenAI, Langchain, LlamaIndex, Litellm, Instructor, Mistral, Perplexity, Claude, Gemini, Vertex",
+            "stars": "3,176",
+            "forks": "274",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "627",
+            "forks": "62",
+            "language": "TypeScript",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择GPT3.5/GPT4.0/懒人百宝箱(后续会支持更多平台)，能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业AI应用.",
+            "url": "https://github.com/lrhh123/ChatGPT-On-CS",
+            "name": "lrhh123 /ChatGPT-On-CS",
+            "description": "基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
+            "stars": "570",
+            "forks": "67",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "互联网上最好的开源项目的众包列表。使用Dub.co API构建。",
+            "url": "https://github.com/dubinc/oss-gallery",
+            "name": "dubinc /oss-gallery",
+            "description": "A crowdsourced list of the best open-source projects on the internet. Built with the Dub.co API.",
+            "stars": "357",
+            "forks": "19",
+            "language": "TypeScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "Vue 2和Vue 3的基本Vue合成实用程序集合",
+            "url": "https://github.com/vueuse/vueuse",
+            "name": "vueuse /vueuse",
+            "description": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+            "stars": "18,726",
+            "forks": "2,352",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "OpenAI API免费反向代理",
+            "url": "https://github.com/PawanOsman/ChatGPT",
+            "name": "PawanOsman /ChatGPT",
+            "description": "OpenAI API Free Reverse Proxy",
+            "stars": "4,403",
+            "forks": "847",
+            "language": "TypeScript",
+            "stars_today": "182 stars today"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "17,917",
+            "forks": "1,337",
+            "language": "TypeScript",
+            "stars_today": "184 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "3,567",
+            "forks": "557",
+            "language": "TypeScript",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "轻松、即时的屏幕共享。开源、跨平台。",
+            "url": "https://github.com/CapSoftware/Cap",
+            "name": "CapSoftware /Cap",
+            "description": "Effortless, instant screen sharing. Open-source and cross-platform.",
+            "stars": "1,494",
+            "forks": "58",
+            "language": "TypeScript",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "缓存依赖项并在GitHub操作中生成输出",
+            "url": "https://github.com/actions/cache",
+            "name": "actions /cache",
+            "description": "Cache dependencies and build outputs in GitHub Actions",
+            "stars": "4,260",
+            "forks": "1,126",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "这是一个麻省理工学院许可的、可部署的入门套件，用于构建和定制您自己版本的AI城镇--一个AI角色生活、聊天和社交的虚拟城镇。",
+            "url": "https://github.com/a16z-infra/ai-town",
+            "name": "a16z-infra /ai-town",
+            "description": "A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.",
+            "stars": "6,319",
+            "forks": "557",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "109,974",
+            "forks": "13,842",
+            "language": "TypeScript",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "与SPT-Aki服务器一起使用的SPT-Aki模块，以允许Coop模块与SPT-Aki服务器通信。",
+            "url": "https://github.com/stayintarkov/SIT.Aki-Server-Mod",
+            "name": "stayintarkov /SIT.Aki-Server-Mod",
+            "description": "A SPT-Aki mod to be used with SPT-Aki Server to allow the Coop Module to communicate with the SPT-Aki Server.",
+            "stars": "178",
+            "forks": "53",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Reaction的可视化编辑器",
+            "url": "https://github.com/measuredco/puck",
+            "name": "measuredco /puck",
+            "description": "The visual editor for React",
+            "stars": "4,374",
+            "forks": "200",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "✨--一种建立在Postgres之上的超高速可升空飞机",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ A Super Fast Airtable alternative build on top of Postgres",
+            "stars": "5,546",
+            "forks": "223",
+            "language": "TypeScript",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "为您的所有集成提供单一API。",
+            "url": "https://github.com/NangoHQ/nango",
+            "name": "NangoHQ /nango",
+            "description": "A single API for all your integrations.",
+            "stars": "4,157",
+            "forks": "362",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "根据PR、功能分支或推送提交修改的文件有条件地运行操作",
+            "url": "https://github.com/dorny/paths-filter",
+            "name": "dorny /paths-filter",
+            "description": "Conditionally run actions based on files modified by PR, feature branch or pushed commits",
+            "stars": "1,837",
+            "forks": "208",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "闪存操作系统映像到SD卡和USB驱动器，安全、轻松。",
+            "url": "https://github.com/balena-io/etcher",
+            "name": "balena-io /etcher",
+            "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+            "stars": "27,677",
+            "forks": "1,988",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🧩是一个带有svg标志的漂亮的图书馆。使用Sveltekit和TailWind CSS构建。",
+            "url": "https://github.com/pheralb/svgl",
+            "name": "pheralb /svgl",
+            "description": "🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.",
+            "stars": "1,629",
+            "forks": "279",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "面向JAVASCRIPT应用程序的快速、本地优先的反应式数据库https://rxdb.info/",
+            "url": "https://github.com/pubkey/rxdb",
+            "name": "pubkey /rxdb",
+            "description": "A fast, local first, reactive Database for JavaScript Applicationshttps://rxdb.info/",
+            "stars": "20,658",
+            "forks": "1,007",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "移动网络浏览器，提供对使用以太区块链的网站的访问",
+            "url": "https://github.com/MetaMask/metamask-mobile",
+            "name": "MetaMask /metamask-mobile",
+            "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+            "stars": "1,988",
+            "forks": "1,020",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "20,680",
+            "forks": "1,388",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "♾的一个图形可视化框架。",
+            "url": "https://github.com/antvis/G6",
+            "name": "antvis /G6",
+            "description": "♾ A Graph Visualization Framework in JavaScript.",
+            "stars": "10,735",
+            "forks": "1,275",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Reaction的可视化构建器。构建应用程序、网站和内容。与您的代码库集成。",
+            "url": "https://github.com/plasmicapp/plasmic",
+            "name": "plasmicapp /plasmic",
+            "description": "Visual builder for React. Build apps, websites, and content. Integrate with your codebase.",
+            "stars": "4,102",
+            "forks": "343",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        }
+    ]
+}

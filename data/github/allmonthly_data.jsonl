@@ -50542,3 +50542,257 @@
         }
     ]
 }
+{
+    "04月27日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "23,335",
+            "forks": "2,536",
+            "language": "Python",
+            "stars_today": "19,291 stars this month"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "290,214",
+            "forks": "73,605",
+            "language": "",
+            "stars_today": "10,243 stars this month"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。我们将其命名为Valkey，因为它是键值数据存储的一个变种。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+            "stars": "12,896",
+            "forks": "449",
+            "language": "C",
+            "stars_today": "12,452 stars this month"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "6,615",
+            "forks": "668",
+            "language": "Jupyter Notebook",
+            "stars_today": "5,629 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "25,211",
+            "forks": "3,308",
+            "language": "TypeScript",
+            "stars_today": "6,953 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "42,711",
+            "forks": "23,280",
+            "language": "Jupyter Notebook",
+            "stars_today": "11,433 stars this month"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "3,567",
+            "forks": "557",
+            "language": "TypeScript",
+            "stars_today": "3,230 stars this month"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "3,669",
+            "forks": "465",
+            "language": "Python",
+            "stars_today": "3,647 stars this month"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "10,229",
+            "forks": "1,594",
+            "language": "Python",
+            "stars_today": "9,129 stars this month"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "14,455",
+            "forks": "719",
+            "language": "C++",
+            "stars_today": "3,575 stars this month"
+        },
+        {
+            "zh_des": "👁‍🗨罕见和奇异的SAT",
+            "url": "https://github.com/ordinals/ord",
+            "name": "ordinals /ord",
+            "description": "👁‍🗨 Rare and exotic sats",
+            "stars": "3,616",
+            "forks": "1,235",
+            "language": "Rust",
+            "stars_today": "524 stars this month"
+        },
+        {
+            "zh_des": "使用自然语言理念创建定制软件(通过LLM支持的多代理协作)",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "name": "OpenBMB /ChatDev",
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+            "stars": "23,007",
+            "forks": "2,876",
+            "language": "Shell",
+            "stars_today": "2,511 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "20,012",
+            "forks": "2,411",
+            "language": "Python",
+            "stars_today": "5,417 stars this month"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "17,316",
+            "forks": "2,575",
+            "language": "JavaScript",
+            "stars_today": "2,075 stars this month"
+        },
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "3,105",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "2,612 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,613",
+            "forks": "6,457",
+            "language": "Python",
+            "stars_today": "1,750 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,748",
+            "forks": "828",
+            "language": "Python",
+            "stars_today": "3,017 stars this month"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,782",
+            "forks": "184",
+            "language": "Python",
+            "stars_today": "2,133 stars this month"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "10,953",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "1,898 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "9,515",
+            "forks": "962",
+            "language": "Python",
+            "stars_today": "2,560 stars this month"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "15,909",
+            "forks": "1,805",
+            "language": "C",
+            "stars_today": "1,240 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "61,160",
+            "forks": "4,392",
+            "language": "Go",
+            "stars_today": "10,338 stars this month"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "13,635",
+            "forks": "3,261",
+            "language": "JavaScript",
+            "stars_today": "512 stars this month"
+        },
+        {
+            "zh_des": "Quill是一个现代的所见即所得的编辑器，旨在实现兼容性和可扩展性。",
+            "url": "https://github.com/quilljs/quill",
+            "name": "quilljs /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility.",
+            "stars": "41,186",
+            "forks": "3,247",
+            "language": "TypeScript",
+            "stars_today": "2,534 stars this month"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "19,217",
+            "forks": "1,732",
+            "language": "Python",
+            "stars_today": "3,249 stars this month"
+        }
+    ]
+}
