@@ -51334,3 +51334,257 @@
         }
     ]
 }
+{
+    "04月28日": [
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "23,398",
+            "forks": "2,549",
+            "language": "Python",
+            "stars_today": "17,352 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "20,234",
+            "forks": "2,435",
+            "language": "Python",
+            "stars_today": "5,359 stars this month"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "10,307",
+            "forks": "1,606",
+            "language": "Python",
+            "stars_today": "8,492 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,668",
+            "forks": "6,463",
+            "language": "Python",
+            "stars_today": "1,770 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,805",
+            "forks": "831",
+            "language": "Python",
+            "stars_today": "3,009 stars this month"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "20,603",
+            "forks": "1,881",
+            "language": "Python",
+            "stars_today": "3,747 stars this month"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "11,129",
+            "forks": "1,049",
+            "language": "Python",
+            "stars_today": "2,020 stars this month"
+        },
+        {
+            "zh_des": "AniPortus：音频驱动的真实感肖像动画合成",
+            "url": "https://github.com/Zejun-Yang/AniPortrait",
+            "name": "Zejun-Yang /AniPortrait",
+            "description": "AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation",
+            "stars": "3,690",
+            "forks": "466",
+            "language": "Python",
+            "stars_today": "3,523 stars this month"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,826",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "2,150 stars this month"
+        },
+        {
+            "zh_des": "CHAMP：3D参数导引下可控且一致的人体图像动画",
+            "url": "https://github.com/fudan-generative-vision/champ",
+            "name": "fudan-generative-vision /champ",
+            "description": "Champ: Controllable and Consistent Human Image Animation with 3D Parametric Guidance",
+            "stars": "3,120",
+            "forks": "360",
+            "language": "Python",
+            "stars_today": "2,418 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "9,546",
+            "forks": "964",
+            "language": "Python",
+            "stars_today": "2,562 stars this month"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "7,757",
+            "forks": "477",
+            "language": "Python",
+            "stars_today": "2,476 stars this month"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "18,581",
+            "forks": "2,454",
+            "language": "Python",
+            "stars_today": "1,874 stars this month"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "13,082",
+            "forks": "1,693",
+            "language": "Python",
+            "stars_today": "2,800 stars this month"
+        },
+        {
+            "zh_des": "Typer，构建出色的CLI。很容易编码。基于Python类型提示。",
+            "url": "https://github.com/tiangolo/typer",
+            "name": "tiangolo /typer",
+            "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+            "stars": "14,367",
+            "forks": "621",
+            "language": "Python",
+            "stars_today": "1,086 stars this month"
+        },
+        {
+            "zh_des": "向LLMS添加内存、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Add memory, knowledge and tools to LLMs",
+            "stars": "4,522",
+            "forks": "600",
+            "language": "Python",
+            "stars_today": "1,594 stars this month"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "10,146",
+            "forks": "913",
+            "language": "Python",
+            "stars_today": "4,025 stars this month"
+        },
+        {
+            "zh_des": "LMS的结构化输出",
+            "url": "https://github.com/jxnl/instructor",
+            "name": "jxnl /instructor",
+            "description": "structured outputs for llms",
+            "stars": "5,090",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "1,080 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "8,637",
+            "forks": "1,112",
+            "language": "Python",
+            "stars_today": "853 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "179,691",
+            "forks": "43,633",
+            "language": "Python",
+            "stars_today": "3,054 stars this month"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "57,464",
+            "forks": "12,942",
+            "language": "Python",
+            "stars_today": "2,831 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2023]SadTalker：用于风格化音频驱动的单幅图像对话人脸动画的真实感3D运动系数学习",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "name": "OpenTalker /SadTalker",
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": "10,392",
+            "forks": "1,891",
+            "language": "Python",
+            "stars_today": "793 stars this month"
+        },
+        {
+            "zh_des": "用于IPAdapter型号的ComfyUI IPAdapter plusSponsorship ComfyUI参考实现",
+            "url": "https://github.com/cubiq/ComfyUI_IPAdapter_plus",
+            "name": "cubiq /ComfyUI_IPAdapter_plus",
+            "description": "ComfyUI IPAdapter plusSponsorshipComfyUI reference implementation for IPAdapter models",
+            "stars": "2,418",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "638 stars this month"
+        },
+        {
+            "zh_des": "InternLM-XComposer2是一个突破性的视觉语言大型模型(VLLM)，擅长自由格式的文本-图像合成和理解。",
+            "url": "https://github.com/InternLM/InternLM-XComposer",
+            "name": "InternLM /InternLM-XComposer",
+            "description": "InternLM-XComposer2 is a groundbreaking vision-language large model (VLLM) excelling in free-form text-image composition and comprehension.",
+            "stars": "1,658",
+            "forks": "103",
+            "language": "Python",
+            "stars_today": "318 stars this month"
+        },
+        {
+            "zh_des": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件.无需申请第三方接口，本地实现。基于人工智能的工具，用于从视频或图片中删除硬编码字幕和类似文本的水印。",
+            "url": "https://github.com/YaoFANGUK/video-subtitle-remover",
+            "name": "YaoFANGUK /video-subtitle-remover",
+            "description": "基于AI的图片/视频硬字幕去除、文本水印去除，无损分辨率生成去字幕、去水印后的图片/视频文件。无需申请第三方API，本地实现。AI-based tool for removing hard-coded subtitles and text-like watermarks from videos or Pictures.",
+            "stars": "2,392",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "993 stars this month"
+        }
+    ]
+}
