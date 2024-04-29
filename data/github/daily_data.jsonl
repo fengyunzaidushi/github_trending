@@ -53995,3 +53995,257 @@
         }
     ]
 }
+{
+    "04月29日": [
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "21,386",
+            "forks": "1,966",
+            "language": "Python",
+            "stars_today": "1,373 stars today"
+        },
+        {
+            "zh_des": "CoreNet：一个训练深度神经网络的库",
+            "url": "https://github.com/apple/corenet",
+            "name": "apple /corenet",
+            "description": "CoreNet: A library for training deep neural networks",
+            "stars": "5,418",
+            "forks": "416",
+            "language": "Python",
+            "stars_today": "1,369 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "56,669",
+            "forks": "7,162",
+            "language": "Python",
+            "stars_today": "236 stars today"
+        },
+        {
+            "zh_des": "一种文件和照片管理应用程序和系统。",
+            "url": "https://github.com/TagStudioDev/TagStudio",
+            "name": "TagStudioDev /TagStudio",
+            "description": "A file and photo management application and system.",
+            "stars": "1,309",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,198",
+            "forks": "238",
+            "language": "Python",
+            "stars_today": "159 stars today"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "23,041",
+            "forks": "3,735",
+            "language": "Python",
+            "stars_today": "224 stars today"
+        },
+        {
+            "zh_des": "用于大型模型培训的原生PyTorch库",
+            "url": "https://github.com/pytorch/torchtitan",
+            "name": "pytorch /torchtitan",
+            "description": "A native PyTorch Library for large model training",
+            "stars": "724",
+            "forks": "51",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "用Python语言编写的简单互联网性能测试器",
+            "url": "https://github.com/plaintextpackets/netprobe_lite",
+            "name": "plaintextpackets /netprobe_lite",
+            "description": "Simple internet performance tester written in Python",
+            "stars": "208",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "48,353",
+            "forks": "4,207",
+            "language": "Python",
+            "stars_today": "238 stars today"
+        },
+        {
+            "zh_des": "Devika是一名代理AI软件工程师，可以理解人类的高级指令，将其分解为步骤，研究相关信息，并编写代码来实现给定的目标。Devika的目标是通过Cognition AI成为Devin的一个有竞争力的开源替代品。",
+            "url": "https://github.com/stitionai/devika",
+            "name": "stitionai /devika",
+            "description": "Devika is an Agentic AI Software Engineer that can understand high-level human instructions, break them down into steps, research relevant information, and write code to achieve the given objective. Devika aims to be a competitive open-source alternative to Devin by Cognition AI.",
+            "stars": "16,535",
+            "forks": "2,114",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "1,096",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "卡梅隆·史密斯*、大卫·查拉坦*、阿尤什·特瓦里和文森特·西茨曼的《流程图：通过渐变下降的高质量相机姿势、本征和深度》的代码",
+            "url": "https://github.com/dcharatan/flowmap",
+            "name": "dcharatan /flowmap",
+            "description": "Code for \"FlowMap: High-Quality Camera Poses, Intrinsics, and Depth via Gradient Descent\" by Cameron Smith*, David Charatan*, Ayush Tewari, and Vincent Sitzmann",
+            "stars": "472",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "用于从多个图像托管站点下载图片库和收藏集的命令行程序",
+            "url": "https://github.com/mikf/gallery-dl",
+            "name": "mikf /gallery-dl",
+            "description": "Command-line program to download image galleries and collections from several image hosting sites",
+            "stars": "10,182",
+            "forks": "848",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "3,423",
+            "forks": "389",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "16,240",
+            "forks": "1,486",
+            "language": "Python",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "254,991",
+            "forks": "43,543",
+            "language": "Python",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "70,880",
+            "forks": "5,642",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "49,626",
+            "forks": "5,979",
+            "language": "Python",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "使用CTranslate2实现更快的密语转录",
+            "url": "https://github.com/SYSTRAN/faster-whisper",
+            "name": "SYSTRAN /faster-whisper",
+            "description": "Faster Whisper transcription with CTranslate2",
+            "stars": "8,862",
+            "forks": "736",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "下一代换脸增强器",
+            "url": "https://github.com/facefusion/facefusion",
+            "name": "facefusion /facefusion",
+            "description": "Next generation face swapper and enhancer",
+            "stars": "14,461",
+            "forks": "2,045",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,695",
+            "forks": "28,026",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "LLaVA++：用Phi-3和🔥🔥-3扩展LLaVA(LLaVA骆驼-3，LLaVA Phi-3)",
+            "url": "https://github.com/mbzuai-oryx/LLaVA-pp",
+            "name": "mbzuai-oryx /LLaVA-pp",
+            "description": "🔥🔥 LLaVA++: Extending LLaVA with Phi-3 and LLaMA-3 (LLaVA LLaMA-3, LLaVA Phi-3)",
+            "stars": "421",
+            "forks": "21",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "在不到5秒的时间内解决谷歌的重新验证码！🚀",
+            "url": "https://github.com/sarperavci/GoogleRecaptchaBypass",
+            "name": "sarperavci /GoogleRecaptchaBypass",
+            "description": "Solve Google reCAPTCHA in less than 5 seconds! 🚀",
+            "stars": "201",
+            "forks": "20",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "Book_4_“矩阵力量”|鸢尾花书:从加减乘除到机器学习；上架！",
+            "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+            "name": "Visualize-ML /Book4_Power-of-Matrix",
+            "description": "Book_4_《矩阵力量》 | 鸢尾花书：从加减乘除到机器学习；上架！",
+            "stars": "7,648",
+            "forks": "1,122",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "8,607",
+            "forks": "622",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
