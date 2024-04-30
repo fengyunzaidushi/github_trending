@@ -52422,3 +52422,257 @@
         }
     ]
 }
+{
+    "04月30日": [
+        {
+            "zh_des": "Meta Llama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "18,512",
+            "forks": "1,602",
+            "language": "Python",
+            "stars_today": "5,376 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "22,702",
+            "forks": "2,083",
+            "language": "Python",
+            "stars_today": "4,611 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "20,514",
+            "forks": "2,461",
+            "language": "Python",
+            "stars_today": "3,260 stars this week"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "11,290",
+            "forks": "1,057",
+            "language": "Python",
+            "stars_today": "1,429 stars this week"
+        },
+        {
+            "zh_des": "高效、灵活且功能齐全的工具包，用于微调大型型号(InternLM2、Llama3、Phi3、Qwen、Mistral等)",
+            "url": "https://github.com/InternLM/xtuner",
+            "name": "InternLM /xtuner",
+            "description": "An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)",
+            "stars": "2,279",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "585 stars this week"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "7,964",
+            "forks": "494",
+            "language": "Python",
+            "stars_today": "1,625 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,225",
+            "forks": "244",
+            "language": "Python",
+            "stars_today": "554 stars this week"
+        },
+        {
+            "zh_des": "脚本是将考试中心分配给学生",
+            "url": "https://github.com/moest-np/center-randomize",
+            "name": "moest-np /center-randomize",
+            "description": "Script is to assign exam centers to students",
+            "stars": "717",
+            "forks": "336",
+            "language": "Python",
+            "stars_today": "339 stars this week"
+        },
+        {
+            "zh_des": "InstantMesh：基于单幅图像的稀疏大型重建模型的高效三维网格生成",
+            "url": "https://github.com/TencentARC/InstantMesh",
+            "name": "TencentARC /InstantMesh",
+            "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+            "stars": "1,689",
+            "forks": "128",
+            "language": "Python",
+            "stars_today": "462 stars this week"
+        },
+        {
+            "zh_des": "MuseTalk：实时高质量的唇部同步化和潜在空间修复",
+            "url": "https://github.com/TMElyralab/MuseTalk",
+            "name": "TMElyralab /MuseTalk",
+            "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+            "stars": "801",
+            "forks": "74",
+            "language": "Python",
+            "stars_today": "201 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "3,469",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "16,451",
+            "forks": "1,518",
+            "language": "Python",
+            "stars_today": "1,231 stars this week"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "1,776",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "167 stars this week"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "4,176",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "819 stars this week"
+        },
+        {
+            "zh_des": "向LLMS添加内存、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Add memory, knowledge and tools to LLMs",
+            "stars": "4,671",
+            "forks": "620",
+            "language": "Python",
+            "stars_today": "1,116 stars this week"
+        },
+        {
+            "zh_des": "集成的Django应用程序集，用于身份验证、注册、帐户管理以及第三方(社交)帐户身份验证。",
+            "url": "https://github.com/pennersr/django-allauth",
+            "name": "pennersr /django-allauth",
+            "description": "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",
+            "stars": "8,899",
+            "forks": "2,939",
+            "language": "Python",
+            "stars_today": "33 stars this week"
+        },
+        {
+            "zh_des": "Llama3中文仓库(聚合资料，各种网友及厂商微调、魔改版本有趣权重&训练、推理、评测、部署教程视频&文档)",
+            "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+            "name": "CrazyBoyM /llama3-Chinese-chat",
+            "description": "Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）",
+            "stars": "2,256",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "1,629 stars this week"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "23,113",
+            "forks": "3,758",
+            "language": "Python",
+            "stars_today": "1,637 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "255,135",
+            "forks": "43,554",
+            "language": "Python",
+            "stars_today": "1,756 stars this week"
+        },
+        {
+            "zh_des": "AppAgent：作为智能手机用户的多模式代理，一个基于LLM的多模式代理框架，旨在操作智能手机应用程序。",
+            "url": "https://github.com/mnotgod96/AppAgent",
+            "name": "mnotgod96 /AppAgent",
+            "description": "AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.",
+            "stars": "4,304",
+            "forks": "454",
+            "language": "Python",
+            "stars_today": "183 stars this week"
+        },
+        {
+            "zh_des": "一个琐碎的程序化的骆驼3越狱。对不起，扎克！",
+            "url": "https://github.com/haizelabs/llama3-jailbreak",
+            "name": "haizelabs /llama3-jailbreak",
+            "description": "A trivial programmatic Llama 3 jailbreak. Sorry Zuck!",
+            "stars": "362",
+            "forks": "36",
+            "language": "Python",
+            "stars_today": "261 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,406",
+            "forks": "376",
+            "language": "Python",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "56,855",
+            "forks": "7,193",
+            "language": "Python",
+            "stars_today": "1,174 stars this week"
+        },
+        {
+            "zh_des": "评估和改进LLM安全性的一套工具。",
+            "url": "https://github.com/meta-llama/PurpleLlama",
+            "name": "meta-llama /PurpleLlama",
+            "description": "Set of tools to assess and improve LLM security.",
+            "stars": "1,892",
+            "forks": "296",
+            "language": "Python",
+            "stars_today": "137 stars this week"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "1,030",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "516 stars this week"
+        }
+    ]
+}
