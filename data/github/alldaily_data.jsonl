@@ -56230,3 +56230,257 @@
         }
     ]
 }
+{
+    "05月02日": [
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "3,100",
+            "forks": "322",
+            "language": "TypeScript",
+            "stars_today": "1,051 stars today"
+        },
+        {
+            "zh_des": "Vue3+Pinia+Vite5仿抖音，Vue在移动端的最佳实践。模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "6,378",
+            "forks": "1,592",
+            "language": "Vue",
+            "stars_today": "397 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "110,574",
+            "forks": "13,934",
+            "language": "TypeScript",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "或者这是下一个",
+            "url": "https://github.com/felipemotarocha/fullstackweek-foods",
+            "name": "felipemotarocha /fullstackweek-foods",
+            "description": "orororThis is a Next",
+            "stars": "135",
+            "forks": "95",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "项目文件，我们的视频制作您的第一个游戏在戈多。",
+            "url": "https://github.com/Brackeys/first-game-in-godot",
+            "name": "Brackeys /first-game-in-godot",
+            "description": "Project files for our video on making your first game in Godot.",
+            "stars": "169",
+            "forks": "26",
+            "language": "GDScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "用铁锈编写的闪电般的速度和功能强大的代码编辑器",
+            "url": "https://github.com/lapce/lapce",
+            "name": "lapce /lapce",
+            "description": "Lightning-fast and Powerful Code Editor written in Rust",
+            "stars": "32,950",
+            "forks": "967",
+            "language": "Rust",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "29,820",
+            "forks": "6,825",
+            "language": "TypeScript",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "Verilog中的最小GPU设计，了解GPU如何从头开始工作",
+            "url": "https://github.com/adam-maj/tiny-gpu",
+            "name": "adam-maj /tiny-gpu",
+            "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+            "stars": "4,333",
+            "forks": "297",
+            "language": "SystemVerilog",
+            "stars_today": "406 stars today"
+        },
+        {
+            "zh_des": "Fika-AkiFika的多人模式是SPT-Aki的模式，允许你和你的朋友玩笼子游戏",
+            "url": "https://github.com/project-fika/Fika-Documentation",
+            "name": "project-fika /Fika-Documentation",
+            "description": "Fika - A multiplayer mod for AkiFika is a mod for SPT-Aki that allows you to play COOP with your friends",
+            "stars": "143",
+            "forks": "28",
+            "language": "",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "使用纯文本抛出、运行和测试HTTP请求。",
+            "url": "https://github.com/Orange-OpenSource/hurl",
+            "name": "Orange-OpenSource /hurl",
+            "description": "Hurl, run and test HTTP requests with plain text.",
+            "stars": "11,086",
+            "forks": "410",
+            "language": "Rust",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用Python语言编写的简单互联网性能测试器",
+            "url": "https://github.com/plaintextpackets/netprobe_lite",
+            "name": "plaintextpackets /netprobe_lite",
+            "description": "Simple internet performance tester written in Python",
+            "stars": "410",
+            "forks": "97",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "用于LLM微调的高质量数据集、工具和概念。",
+            "url": "https://github.com/mlabonne/llm-datasets",
+            "name": "mlabonne /llm-datasets",
+            "description": "High-quality datasets, tools, and concepts for LLM fine-tuning.",
+            "stars": "641",
+            "forks": "58",
+            "language": "",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "为人类定制一致的ID",
+            "url": "https://github.com/JackAILab/ConsistentID",
+            "name": "JackAILab /ConsistentID",
+            "description": "Customized ID Consistent for human",
+            "stars": "365",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "由Meta Llama 3发展而来的中文羊驼大模型三期项目(中国大羊驼-3 LLMS)",
+            "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca-3",
+            "name": "ymcui /Chinese-LLaMA-Alpaca-3",
+            "description": "中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3",
+            "stars": "377",
+            "forks": "35",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "一个用于以一致和可理解的方式构建应用程序的库，并考虑到组合、测试和人体工程学。",
+            "url": "https://github.com/pointfreeco/swift-composable-architecture",
+            "name": "pointfreeco /swift-composable-architecture",
+            "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+            "stars": "11,454",
+            "forks": "1,299",
+            "language": "Swift",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "22,538",
+            "forks": "2,596",
+            "language": "JavaScript",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "由FastAPI专家提供的FastAPI提示！",
+            "url": "https://github.com/Kludex/fastapi-tips",
+            "name": "Kludex /fastapi-tips",
+            "description": "FastAPI Tips by The FastAPI Expert!",
+            "stars": "1,235",
+            "forks": "42",
+            "language": "",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "Kubernetes社区内容",
+            "url": "https://github.com/kubernetes/community",
+            "name": "kubernetes /community",
+            "description": "Kubernetes community content",
+            "stars": "11,699",
+            "forks": "5,100",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "2,146",
+            "forks": "210",
+            "language": "TypeScript",
+            "stars_today": "574 stars today"
+        },
+        {
+            "zh_des": "一个用于培训、服务和评估大型语言模型的开放平台。发布对维库纳和聊天机器人竞技场的回购。",
+            "url": "https://github.com/lm-sys/FastChat",
+            "name": "lm-sys /FastChat",
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "stars": "34,223",
+            "forks": "4,182",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "在Rust中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Rust",
+            "name": "TheAlgorithms /Rust",
+            "description": "All Algorithms implemented in Rust",
+            "stars": "20,224",
+            "forks": "1,983",
+            "language": "Rust",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "👮‍♂️是面向Java的敏感字工具。(敏感词/违禁词/违法词/脏词.基于dfa算法实现的高性能Java敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容.(高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能.)",
+            "url": "https://github.com/houbb/sensitive-word",
+            "name": "houbb /sensitive-word",
+            "description": "👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)",
+            "stars": "3,365",
+            "forks": "438",
+            "language": "Java",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "22,087",
+            "forks": "2,184",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源模型",
+            "stars": "1,336",
+            "forks": "66",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "用于Windows、Linux和MacOS的C++库管理器",
+            "url": "https://github.com/microsoft/vcpkg",
+            "name": "microsoft /vcpkg",
+            "description": "C++ Library Manager for Windows, Linux, and MacOS",
+            "stars": "21,627",
+            "forks": "6,011",
+            "language": "CMake",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
