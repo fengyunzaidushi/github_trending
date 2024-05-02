@@ -44014,3 +44014,257 @@
         }
     ]
 }
+{
+    "05月02日": [
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "22,580",
+            "forks": "4,841",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "Azure Cosmos DB+Azure OpenAI Python开发人员指南",
+            "url": "https://github.com/AzureCosmosDB/Azure-OpenAI-Python-Developer-Guide",
+            "name": "AzureCosmosDB /Azure-OpenAI-Python-Developer-Guide",
+            "description": "Azure Cosmos DB + Azure OpenAI Python Developer Guide",
+            "stars": "36",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,339",
+            "forks": "83,312",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "8,061",
+            "forks": "2,504",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Kubernetes社区内容",
+            "url": "https://github.com/kubernetes/community",
+            "name": "kubernetes /community",
+            "description": "Kubernetes community content",
+            "stars": "11,710",
+            "forks": "5,105",
+            "language": "Jupyter Notebook",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "使用LSTM和ConvNet分析收盘时的期权交易该存储库包含两个为分析收盘时的期权交易而开发的机器学习模型：长期短期记忆(LSTM)模型和卷积神经网络(ConvNet)模型",
+            "url": "https://github.com/nimashahbazi/optiver-trading-close",
+            "name": "nimashahbazi /optiver-trading-close",
+            "description": "Optiver Trading at the Close Analysis with LSTM and ConvNetThis repository contains two machine learning models developed for analyzing Optiver trading at the close on Kaggle Optiver Trading at the Close Competition Overview: a Long Short-Term Memory (LSTM) model and a Convolutional Neural Network (ConvNet) model",
+            "stars": "269",
+            "forks": "63",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "31,237",
+            "forks": "5,031",
+            "language": "Jupyter Notebook",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "2,724",
+            "forks": "1,820",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "2,352",
+            "forks": "251",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上用于生成式人工智能的示例代码和笔记本，包括Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, including Gemini",
+            "stars": "5,481",
+            "forks": "1,303",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "完整-语言链-教程",
+            "url": "https://github.com/krishnaik06/Complete-Langchain-Tutorials",
+            "name": "krishnaik06 /Complete-Langchain-Tutorials",
+            "description": "Complete-Langchain-Tutorials",
+            "stars": "245",
+            "forks": "195",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "深度学习",
+            "url": "https://github.com/https-deeplearning-ai/tensorflow-1-public",
+            "name": "https-deeplearning-ai /tensorflow-1-public",
+            "description": "DeepLearning",
+            "stars": "2,209",
+            "forks": "2,517",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "25,333",
+            "forks": "3,623",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "用生成性人工智能在几分钟内组织你的STEM文章。",
+            "url": "https://github.com/Dillettant/Athena",
+            "name": "Dillettant /Athena",
+            "description": "Structure your STEM essay in several minutes with Generative AI.",
+            "stars": "983",
+            "forks": "181",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "8,809",
+            "forks": "1,692",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "“pdf：https://github.com/datawhalechina/leedl-tutorial/releases👍)，李宏毅深度学习教程”(李宏毅老师推荐下载地址",
+            "url": "https://github.com/datawhalechina/leedl-tutorial",
+            "name": "datawhalechina /leedl-tutorial",
+            "description": "《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+            "stars": "9,747",
+            "forks": "2,540",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "26,944",
+            "forks": "12,488",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用拥抱面库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,297",
+            "forks": "1,423",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,290",
+            "forks": "2,822",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "AI-in-a-Box",
+            "url": "https://github.com/Azure/AI-in-a-Box",
+            "name": "Azure /AI-in-a-Box",
+            "description": "AI-in-a-Box",
+            "stars": "412",
+            "forks": "142",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "微观视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "3,716",
+            "forks": "332",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "100天的机器学习",
+            "url": "https://github.com/campusx-official/100-days-of-machine-learning",
+            "name": "campusx-official /100-days-of-machine-learning",
+            "description": "100-days-of-machine-learning",
+            "stars": "890",
+            "forks": "1,398",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "在4个月内免费学习ML工程！",
+            "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
+            "name": "DataTalksClub /machine-learning-zoomcamp",
+            "description": "Learn ML engineering for free in 4 months!",
+            "stars": "8,311",
+            "forks": "1,993",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于强化学习的精灵宝可梦红",
+            "url": "https://github.com/PWhiddy/PokemonRedExperiments",
+            "name": "PWhiddy /PokemonRedExperiments",
+            "description": "Playing Pokemon Red with Reinforcement Learning",
+            "stars": "6,522",
+            "forks": "567",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,870",
+            "forks": "2,420",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        }
+    ]
+}

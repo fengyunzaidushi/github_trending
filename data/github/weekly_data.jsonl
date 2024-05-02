@@ -53692,3 +53692,257 @@
         }
     ]
 }
+{
+    "05月02日": [
+        {
+            "zh_des": "CoreNet：一个训练深度神经网络的库",
+            "url": "https://github.com/apple/corenet",
+            "name": "apple /corenet",
+            "description": "CoreNet: A library for training deep neural networks",
+            "stars": "6,050",
+            "forks": "483",
+            "language": "Python",
+            "stars_today": "4,526 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "23,383",
+            "forks": "2,142",
+            "language": "Python",
+            "stars_today": "5,944 stars this week"
+        },
+        {
+            "zh_des": "向LLMS添加内存、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Add memory, knowledge and tools to LLMs",
+            "stars": "4,859",
+            "forks": "657",
+            "language": "Python",
+            "stars_today": "904 stars this week"
+        },
+        {
+            "zh_des": "Llama3中文仓库(聚合资料，各种网友及厂商微调、魔改版本有趣权重&训练、推理、评测、部署教程视频&文档)",
+            "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+            "name": "CrazyBoyM /llama3-Chinese-chat",
+            "description": "Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）",
+            "stars": "2,355",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "913 stars this week"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "11,401",
+            "forks": "1,065",
+            "language": "Python",
+            "stars_today": "1,093 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "3,541",
+            "forks": "395",
+            "language": "Python",
+            "stars_today": "204 stars this week"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "8,275",
+            "forks": "520",
+            "language": "Python",
+            "stars_today": "1,175 stars this week"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "56,988",
+            "forks": "7,206",
+            "language": "Python",
+            "stars_today": "1,234 stars this week"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "16,565",
+            "forks": "1,529",
+            "language": "Python",
+            "stars_today": "1,403 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,444",
+            "forks": "382",
+            "language": "Python",
+            "stars_today": "158 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,249",
+            "forks": "246",
+            "language": "Python",
+            "stars_today": "576 stars this week"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "1,495",
+            "forks": "229",
+            "language": "Python",
+            "stars_today": "1,109 stars this week"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "1,153",
+            "forks": "114",
+            "language": "Python",
+            "stars_today": "759 stars this week"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "20,772",
+            "forks": "2,490",
+            "language": "Python",
+            "stars_today": "1,637 stars this week"
+        },
+        {
+            "zh_des": "基于HMAC通信的零知识证明在Python语言中的实现",
+            "url": "https://github.com/zk-Call/zkp-hmac-communication-python",
+            "name": "zk-Call /zkp-hmac-communication-python",
+            "description": "\"Zero-Knowledge\" Proof Implementation with HMAC Communication in Python",
+            "stars": "1,574",
+            "forks": "721",
+            "language": "Python",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "OSWorld：在真实计算机环境中对开放式任务的多通道代理进行基准测试",
+            "url": "https://github.com/xlang-ai/OSWorld",
+            "name": "xlang-ai /OSWorld",
+            "description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+            "stars": "794",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "392 stars this week"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、csv文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告",
+            "stars": "26,812",
+            "forks": "2,768",
+            "language": "Python",
+            "stars_today": "779 stars this week"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "23,216",
+            "forks": "3,785",
+            "language": "Python",
+            "stars_today": "1,652 stars this week"
+        },
+        {
+            "zh_des": "骆驼-3代理，可以按照说明浏览网页，并与您交谈",
+            "url": "https://github.com/McGill-NLP/webllama",
+            "name": "McGill-NLP /webllama",
+            "description": "Llama-3 agents that can browse the web by following instructions and talking to you",
+            "stars": "1,022",
+            "forks": "79",
+            "language": "Python",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "SuperEasy 100%本地抹布配Ollama",
+            "url": "https://github.com/AllAboutAI-YT/easy-local-rag",
+            "name": "AllAboutAI-YT /easy-local-rag",
+            "description": "SuperEasy 100% Local RAG with Ollama",
+            "stars": "272",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "79 stars this week"
+        },
+        {
+            "zh_des": "高效、灵活且功能齐全的工具包，用于微调大型型号(InternLM2、Llama3、Phi3、Qwen、Mistral等)",
+            "url": "https://github.com/InternLM/xtuner",
+            "name": "InternLM /xtuner",
+            "description": "An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)",
+            "stars": "2,363",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "337 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,172",
+            "forks": "375",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "InstantMesh：基于单幅图像的稀疏大型重建模型的高效三维网格生成",
+            "url": "https://github.com/TencentARC/InstantMesh",
+            "name": "TencentARC /InstantMesh",
+            "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+            "stars": "1,734",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "432 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "255,503",
+            "forks": "43,599",
+            "language": "Python",
+            "stars_today": "1,552 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "48,649",
+            "forks": "4,241",
+            "language": "Python",
+            "stars_today": "931 stars this week"
+        }
+    ]
+}
