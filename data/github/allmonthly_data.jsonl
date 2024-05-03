@@ -53590,3 +53590,257 @@
         }
     ]
 }
+{
+    "05月03日": [
+        {
+            "zh_des": "使用LLMS构建复杂的真实软件的AI编码引擎",
+            "url": "https://github.com/plandex-ai/plandex",
+            "name": "plandex-ai /plandex",
+            "description": "An AI coding engine for building complex, real-world software with LLMs",
+            "stars": "8,919",
+            "forks": "668",
+            "language": "Go",
+            "stars_today": "8,773 stars this month"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "290,956",
+            "forks": "73,715",
+            "language": "",
+            "stars_today": "10,770 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "6,308",
+            "forks": "530",
+            "language": "Python",
+            "stars_today": "5,316 stars this month"
+        },
+        {
+            "zh_des": "Vue3+Pinia+Vite5仿抖音，Vue在移动端的最佳实践。模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia + Vite5 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "6,507",
+            "forks": "1,611",
+            "language": "Vue",
+            "stars_today": "5,485 stars this month"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "23,518",
+            "forks": "2,154",
+            "language": "Python",
+            "stars_today": "6,928 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "26,136",
+            "forks": "3,438",
+            "language": "TypeScript",
+            "stars_today": "7,330 stars this month"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.29%的错误，运行时间仅为1.5分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.29% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+            "stars": "10,130",
+            "forks": "977",
+            "language": "Python",
+            "stars_today": "10,061 stars this month"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "11,435",
+            "forks": "1,070",
+            "language": "Python",
+            "stars_today": "2,400 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "20,832",
+            "forks": "2,500",
+            "language": "Python",
+            "stars_today": "5,478 stars this month"
+        },
+        {
+            "zh_des": "计算机自学指南",
+            "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+            "name": "PKUFlyingPig /cs-self-learning",
+            "description": "计算机自学指南",
+            "stars": "50,095",
+            "forks": "6,222",
+            "language": "HTML",
+            "stars_today": "6,770 stars this month"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "6,432",
+            "forks": "576",
+            "language": "TypeScript",
+            "stars_today": "4,712 stars this month"
+        },
+        {
+            "zh_des": "👁‍🗨罕见和奇异的SAT",
+            "url": "https://github.com/ordinals/ord",
+            "name": "ordinals /ord",
+            "description": "👁‍🗨 Rare and exotic sats",
+            "stars": "3,653",
+            "forks": "1,241",
+            "language": "Rust",
+            "stars_today": "494 stars this month"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "63,309",
+            "forks": "4,541",
+            "language": "Go",
+            "stars_today": "11,056 stars this month"
+        },
+        {
+            "zh_des": "LLocalSearch是一个使用LLM代理的完全本地运行的搜索聚合器。用户可以提出问题，系统将使用LLM链来找到答案。用户可以看到代理的进度和最终答案。不需要OpenAI或Google API密钥。",
+            "url": "https://github.com/nilsherzig/LLocalSearch",
+            "name": "nilsherzig /LLocalSearch",
+            "description": "LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress of the agents and the final answer. No OpenAI or Google API keys are needed.",
+            "stars": "5,014",
+            "forks": "314",
+            "language": "Go",
+            "stars_today": "4,913 stars this month"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "15,029",
+            "forks": "818",
+            "language": "PHP",
+            "stars_today": "2,717 stars this month"
+        },
+        {
+            "zh_des": "🚀kimi AI长文本大模型逆向应用编程接口白嫖测试[特长:长文本解读整理]，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路Token支持，自动清理会话痕迹。",
+            "url": "https://github.com/LLM-Red-Team/kimi-free-api",
+            "name": "LLM-Red-Team /kimi-free-api",
+            "description": "🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。",
+            "stars": "2,511",
+            "forks": "356",
+            "language": "TypeScript",
+            "stars_today": "1,548 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "31,881",
+            "forks": "6,492",
+            "language": "Python",
+            "stars_today": "1,914 stars this month"
+        },
+        {
+            "zh_des": "利用免费登录的ChatGPT Web提供的无限免费GPT-3.5-Turbo API服务。",
+            "url": "https://github.com/missuo/FreeGPT35",
+            "name": "missuo /FreeGPT35",
+            "description": "Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.",
+            "stars": "2,988",
+            "forks": "911",
+            "language": "JavaScript",
+            "stars_today": "2,972 stars this month"
+        },
+        {
+            "zh_des": "⛓️语言流是一个动态图，其中每个节点都是一个可执行单元。它的模块化和交互设计促进了快速的实验和原型制作，努力突破了创造力的极限。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.",
+            "stars": "17,548",
+            "forks": "2,607",
+            "language": "JavaScript",
+            "stars_today": "2,228 stars this month"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "8,367",
+            "forks": "525",
+            "language": "Python",
+            "stars_today": "3,041 stars this month"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "16,021",
+            "forks": "1,825",
+            "language": "C",
+            "stars_today": "1,279 stars this month"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "14,961",
+            "forks": "740",
+            "language": "C++",
+            "stars_today": "3,461 stars this month"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "9,373",
+            "forks": "1,314",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,277 stars this month"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "8,969",
+            "forks": "842",
+            "language": "Python",
+            "stars_today": "2,950 stars this month"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "2,984",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "2,252 stars this month"
+        }
+    ]
+}
