@@ -56027,3 +56027,257 @@
         }
     ]
 }
+{
+    "05月03日": [
+        {
+            "zh_des": "这是GLaDOS的个性核心，是Valve从门户系列实现AI的第一步。",
+            "url": "https://github.com/dnhkng/GlaDOS",
+            "name": "dnhkng /GlaDOS",
+            "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+            "stars": "1,465",
+            "forks": "139",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "PPPwn-PlayStation 4 PPPoE RCE",
+            "url": "https://github.com/TheOfficialFloW/PPPwn",
+            "name": "TheOfficialFloW /PPPwn",
+            "description": "PPPwn - PlayStation 4 PPPoE RCE",
+            "stars": "1,002",
+            "forks": "129",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "OSWorld：在真实计算机环境中对开放式任务的多通道代理进行基准测试",
+            "url": "https://github.com/xlang-ai/OSWorld",
+            "name": "xlang-ai /OSWorld",
+            "description": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+            "stars": "828",
+            "forks": "104",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,743",
+            "forks": "28,069",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "高斯主义者的水平",
+            "url": "https://github.com/zju3dv/LoG",
+            "name": "zju3dv /LoG",
+            "description": "Level of Gaussians",
+            "stars": "480",
+            "forks": "16",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "Rich是一个Python库，用于终端中的富文本和漂亮的格式设置。",
+            "url": "https://github.com/Textualize/rich",
+            "name": "Textualize /rich",
+            "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+            "stars": "47,190",
+            "forks": "1,671",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "9,039",
+            "forks": "979",
+            "language": "Python",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "7,371",
+            "forks": "290",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "PYFFRA使用Python实现基础设施自动化。它速度很快，可以从一台服务器扩展到数千台服务器。非常适合临时命令执行、服务部署、配置管理等。",
+            "url": "https://github.com/pyinfra-dev/pyinfra",
+            "name": "pyinfra-dev /pyinfra",
+            "description": "pyinfra automates infrastructure using Python. It’s fast and scales from one server to thousands. Great for ad-hoc command execution, service deployment, configuration management and more.",
+            "stars": "3,238",
+            "forks": "341",
+            "language": "Python",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,190",
+            "forks": "377",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "QCSuper是一个与基于高通的手机和调制解调器通信的工具，允许捕获原始的2G/3G/4G无线电帧等。",
+            "url": "https://github.com/P1sec/QCSuper",
+            "name": "P1sec /QCSuper",
+            "description": "QCSuper is a tool communicating with Qualcomm-based phones and modems, allowing to capture raw 2G/3G/4G radio frames, among other things.",
+            "stars": "1,131",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "解析文件以获得最佳RAG",
+            "url": "https://github.com/run-llama/llama_parse",
+            "name": "run-llama /llama_parse",
+            "description": "Parse files for optimal RAG",
+            "stars": "918",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "朗链+码头+Neo4j+Ollama",
+            "url": "https://github.com/docker/genai-stack",
+            "name": "docker /genai-stack",
+            "description": "Langchain + Docker + Neo4j + Ollama",
+            "stars": "2,947",
+            "forks": "609",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "由Meta Llama 3发展而来的中文羊驼大模型三期项目(中国大羊驼-3 LLMS)",
+            "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca-3",
+            "name": "ymcui /Chinese-LLaMA-Alpaca-3",
+            "description": "中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3",
+            "stars": "444",
+            "forks": "43",
+            "language": "Python",
+            "stars_today": "168 stars today"
+        },
+        {
+            "zh_des": "🪵🔥及更高版本的简单可观察性！",
+            "url": "https://github.com/pydantic/logfire",
+            "name": "pydantic /logfire",
+            "description": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+            "stars": "449",
+            "forks": "8",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "免费电视频道的M3U播放列表",
+            "url": "https://github.com/Free-TV/IPTV",
+            "name": "Free-TV /IPTV",
+            "description": "M3U Playlist for free TV channels",
+            "stars": "3,788",
+            "forks": "650",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "901",
+            "forks": "78",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "10,829",
+            "forks": "812",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "OpenAgents：一个开放的语言代理平台",
+            "url": "https://github.com/xlang-ai/OpenAgents",
+            "name": "xlang-ai /OpenAgents",
+            "description": "OpenAgents: An Open Platform for Language Agents in the Wild",
+            "stars": "3,537",
+            "forks": "366",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Qiskit是一个开源SDK，用于在扩展的量子电路、运算符和原语级别使用量子计算机。",
+            "url": "https://github.com/Qiskit/qiskit",
+            "name": "Qiskit /qiskit",
+            "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+            "stars": "4,633",
+            "forks": "2,232",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "5,322",
+            "forks": "3,326",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Learn.cantrill.io课程的标准和高级演示",
+            "url": "https://github.com/acantril/learn-cantrill-io-labs",
+            "name": "acantril /learn-cantrill-io-labs",
+            "description": "Standard and Advanced Demos for learn.cantrill.io courses",
+            "stars": "5,253",
+            "forks": "2,022",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "一个用于培训、服务和评估大型语言模型的开放平台。发布对维库纳和聊天机器人竞技场的回购。",
+            "url": "https://github.com/lm-sys/FastChat",
+            "name": "lm-sys /FastChat",
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "stars": "34,260",
+            "forks": "4,187",
+            "language": "Python",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "适用于Python的下一代HTTP客户端。🦋",
+            "url": "https://github.com/encode/httpx",
+            "name": "encode /httpx",
+            "description": "A next generation HTTP client for Python. 🦋",
+            "stars": "12,364",
+            "forks": "799",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,049",
+            "forks": "6,348",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
