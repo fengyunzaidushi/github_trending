@@ -55518,3 +55518,257 @@
         }
     ]
 }
+{
+    "05月06日": [
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "3,751",
+            "forks": "423",
+            "language": "TypeScript",
+            "stars_today": "3,030 stars this week"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "23,945",
+            "forks": "2,215",
+            "language": "Python",
+            "stars_today": "3,581 stars this week"
+        },
+        {
+            "zh_des": "Verilog中的最小GPU设计，了解GPU如何从头开始工作",
+            "url": "https://github.com/adam-maj/tiny-gpu",
+            "name": "adam-maj /tiny-gpu",
+            "description": "A minimal GPU design in Verilog to learn how GPUs work from the ground up",
+            "stars": "5,074",
+            "forks": "357",
+            "language": "SystemVerilog",
+            "stars_today": "2,382 stars this week"
+        },
+        {
+            "zh_des": "供参考的MS-DOS 1.25、2.0和4.0的原始源代码",
+            "url": "https://github.com/microsoft/MS-DOS",
+            "name": "microsoft /MS-DOS",
+            "description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+            "stars": "28,659",
+            "forks": "3,992",
+            "language": "Assembly",
+            "stars_today": "3,505 stars this week"
+        },
+        {
+            "zh_des": "VUE3+PINIA仿抖音，VUE在移动端的最佳实践.模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "6,832",
+            "forks": "1,673",
+            "language": "Vue",
+            "stars_today": "2,900 stars this week"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "1,764",
+            "forks": "259",
+            "language": "Python",
+            "stars_today": "796 stars this week"
+        },
+        {
+            "zh_des": "CoreNet：一个训练深度神经网络的库",
+            "url": "https://github.com/apple/corenet",
+            "name": "apple /corenet",
+            "description": "CoreNet: A library for training deep neural networks",
+            "stars": "6,272",
+            "forks": "501",
+            "language": "Python",
+            "stars_today": "1,168 stars this week"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "1,235",
+            "forks": "120",
+            "language": "Python",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "😼是Tines/Splunk Savar的开源替代方案。构建人工智能辅助工作流、协调警报并快速结案。",
+            "url": "https://github.com/TracecatHQ/tracecat",
+            "name": "TracecatHQ /tracecat",
+            "description": "😼 The open source alternative to Tines / Splunk SOAR. Build AI-assisted workflows, orchestrate alerts, and close cases fast.",
+            "stars": "1,903",
+            "forks": "118",
+            "language": "TypeScript",
+            "stars_today": "654 stars this week"
+        },
+        {
+            "zh_des": "Reposationório do Lab“Contribuindo em Um Projeto Open Source no GitHub”da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+            "stars": "4,113",
+            "forks": "30,348",
+            "language": "Jupyter Notebook",
+            "stars_today": "399 stars this week"
+        },
+        {
+            "zh_des": "用于大型模型培训的原生PyTorch库",
+            "url": "https://github.com/pytorch/torchtitan",
+            "name": "pytorch /torchtitan",
+            "description": "A native PyTorch Library for large model training",
+            "stars": "1,091",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "494 stars this week"
+        },
+        {
+            "zh_des": "一种文件和照片管理应用程序和系统。",
+            "url": "https://github.com/TagStudioDev/TagStudio",
+            "name": "TagStudioDev /TagStudio",
+            "description": "A file and photo management application and system.",
+            "stars": "1,615",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "434 stars this week"
+        },
+        {
+            "zh_des": "向LLMS添加内存、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Add memory, knowledge and tools to LLMs",
+            "stars": "5,198",
+            "forks": "703",
+            "language": "Python",
+            "stars_today": "559 stars this week"
+        },
+        {
+            "zh_des": "用铁锈编写的闪电般的速度和功能强大的代码编辑器",
+            "url": "https://github.com/lapce/lapce",
+            "name": "lapce /lapce",
+            "description": "Lightning-fast and Powerful Code Editor written in Rust",
+            "stars": "33,050",
+            "forks": "980",
+            "language": "Rust",
+            "stars_today": "705 stars this week"
+        },
+        {
+            "zh_des": "贡献精灵宝可梦精灵是一个基于📝Fangame的浏览器，灵感主要来自流氓类型",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "Contributing📝 CreditsPokéRogue is a browser based Pokémon fangame heavily inspired by the roguelite genre",
+            "stars": "1,057",
+            "forks": "482",
+            "language": "TypeScript",
+            "stars_today": "318 stars this week"
+        },
+        {
+            "zh_des": "基于汇总的汇总。🥁",
+            "url": "https://github.com/taikoxyz/taiko-mono",
+            "name": "taikoxyz /taiko-mono",
+            "description": "A based rollup. 🥁",
+            "stars": "4,035",
+            "forks": "1,944",
+            "language": "Svelte",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "LayerZero V2OmNichain互操作性协议LayerZero是一种不变的、抗审查和无许可的消息传递协议，它连接区块链(60+和更多)，以实现区块链应用的全方位互操作性",
+            "url": "https://github.com/LayerZero-Labs/LayerZero-v2",
+            "name": "LayerZero-Labs /LayerZero-v2",
+            "description": "LayerZero V2Omnichain Interoperability ProtocolLayerZero is an immutable, censorship-resistant, and permissionless messaging protocol, that connects blockchains (60+ and counting) to enable omnichain interoperability for blockchain applications",
+            "stars": "394",
+            "forks": "242",
+            "language": "Solidity",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,522",
+            "forks": "387",
+            "language": "Python",
+            "stars_today": "154 stars this week"
+        },
+        {
+            "zh_des": "一系列鼓舞人心的列表、手册、小抄、博客、黑客、一行程序、cli/web工具等等。",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "name": "trimstray /the-book-of-secret-knowledge",
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "stars": "130,862",
+            "forks": "8,876",
+            "language": "",
+            "stars_today": "1,135 stars this week"
+        },
+        {
+            "zh_des": "MyShell.ai的高质量多语言文语转换库。支持英语、西班牙语、法语、中文、日语和韩语。",
+            "url": "https://github.com/myshell-ai/MeloTTS",
+            "name": "myshell-ai /MeloTTS",
+            "description": "High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean.",
+            "stars": "3,606",
+            "forks": "402",
+            "language": "Python",
+            "stars_today": "186 stars this week"
+        },
+        {
+            "zh_des": "适用于PyTorch的移动、嵌入式和边缘设备上的AI",
+            "url": "https://github.com/pytorch/executorch",
+            "name": "pytorch /executorch",
+            "description": "On-device AI across mobile, embedded and edge for PyTorch",
+            "stars": "1,127",
+            "forks": "189",
+            "language": "C++",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "6,467",
+            "forks": "241",
+            "language": "TypeScript",
+            "stars_today": "781 stars this week"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "23,885",
+            "forks": "1,686",
+            "language": "Java",
+            "stars_today": "1,506 stars this week"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "23,370",
+            "forks": "3,815",
+            "language": "Python",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "22,162",
+            "forks": "2,198",
+            "language": "TypeScript",
+            "stars_today": "183 stars this week"
+        }
+    ]
+}
