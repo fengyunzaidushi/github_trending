@@ -58059,3 +58059,257 @@
         }
     ]
 }
+{
+    "05月07日": [
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "2,033",
+            "forks": "164",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "9,571",
+            "forks": "1,040",
+            "language": "Python",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,838",
+            "forks": "28,132",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Flet使开发人员能够轻松地使用Python构建实时Web、移动和桌面应用程序。不需要前台经验。",
+            "url": "https://github.com/flet-dev/flet",
+            "name": "flet-dev /flet",
+            "description": "Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.",
+            "stars": "9,299",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "DrEureka：语言模型引导的从模拟到真实的迁移",
+            "url": "https://github.com/eureka-research/DrEureka",
+            "name": "eureka-research /DrEureka",
+            "description": "DrEureka: Language Model Guided Sim-to-Real Transfer",
+            "stars": "391",
+            "forks": "26",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "71,398",
+            "forks": "5,687",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "小红书笔记|评论爬虫、抖音视频|评论爬虫、快手视频|评论爬虫、B站视频|评论爬虫、微博帖子|评论爬虫",
+            "url": "https://github.com/NanmiCoder/MediaCrawler",
+            "name": "NanmiCoder /MediaCrawler",
+            "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫",
+            "stars": "13,417",
+            "forks": "4,417",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个开源的驾驶员辅助系统。OpenPilot为250多个受支持的汽车品牌和车型提供自动车道居中和自适应巡航控制功能。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+            "stars": "47,711",
+            "forks": "8,589",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "Kolmogorov-Arnold网络(KAN)的一种高效的纯PyTorch实现。",
+            "url": "https://github.com/Blealtan/efficient-kan",
+            "name": "Blealtan /efficient-kan",
+            "description": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).",
+            "stars": "806",
+            "forks": "69",
+            "language": "Python",
+            "stars_today": "408 stars today"
+        },
+        {
+            "zh_des": "🪵🔥及更高版本的简单可观察性！",
+            "url": "https://github.com/pydantic/logfire",
+            "name": "pydantic /logfire",
+            "description": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+            "stars": "1,013",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "28,300",
+            "forks": "2,812",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "59,863",
+            "forks": "28,967",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "🔎在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "🔎 Hunt down social media accounts by username across social networks",
+            "stars": "51,501",
+            "forks": "6,205",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "我们给你做了一个你无法拒绝的包装纸",
+            "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+            "name": "python-telegram-bot /python-telegram-bot",
+            "description": "We have made you a wrapper you can't refuse",
+            "stars": "24,877",
+            "forks": "5,061",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Osintgram是Instagram上的OSINT工具。它提供了一个交互外壳，可以通过昵称对任何用户的Instagram账户进行分析",
+            "url": "https://github.com/Datalux/Osintgram",
+            "name": "Datalux /Osintgram",
+            "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+            "stars": "8,811",
+            "forks": "1,889",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,520",
+            "forks": "393",
+            "language": "Python",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "小红书链接提取/作品采集工具:提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "url": "https://github.com/JoeanAmier/XHS-Downloader",
+            "name": "JoeanAmier /XHS-Downloader",
+            "description": "小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "stars": "3,784",
+            "forks": "548",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "在家里聊天室！基本上是更好的Google Nest Hub或Amazon Alexa家庭助理。使用OpenAI API在Raspberry PI上构建。",
+            "url": "https://github.com/judahpaul16/gpt-home",
+            "name": "judahpaul16 /gpt-home",
+            "description": "ChatGPT at home! Basically a better Google Nest Hub or Amazon Alexa home assistant. Built on the Raspberry Pi using the OpenAI API.",
+            "stars": "212",
+            "forks": "13",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "具有声明性模式、内置迁移系统和下一代查询语言的图形关系数据库",
+            "url": "https://github.com/edgedb/edgedb",
+            "name": "edgedb /edgedb",
+            "description": "A graph-relational database with declarative schema, built-in migration system, and a next-generation query language",
+            "stars": "12,577",
+            "forks": "386",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "低成本管理的记忆、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Memory, knowledge and tools for LLMs",
+            "stars": "5,362",
+            "forks": "729",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,413",
+            "forks": "293",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "用语音数据轻松训练一个好的VC模型<=10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "19,332",
+            "forks": "2,989",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/Efficient-Large-Model/VILA",
+            "name": "Efficient-Large-Model /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "468",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "社区支持的增强型无纸化版本：扫描、索引和存档您所有的物理文档",
+            "url": "https://github.com/paperless-ngx/paperless-ngx",
+            "name": "paperless-ngx /paperless-ngx",
+            "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+            "stars": "17,041",
+            "forks": "894",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "用普罗米修斯💯评估你的LLM的反应",
+            "url": "https://github.com/prometheus-eval/prometheus-eval",
+            "name": "prometheus-eval /prometheus-eval",
+            "description": "Evaluate your LLM's response with Prometheus 💯",
+            "stars": "325",
+            "forks": "18",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        }
+    ]
+}
