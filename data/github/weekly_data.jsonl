@@ -56994,3 +56994,257 @@
         }
     ]
 }
+{
+    "05月09日": [
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "9,703",
+            "forks": "1,055",
+            "language": "Python",
+            "stars_today": "921 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,615",
+            "forks": "398",
+            "language": "Python",
+            "stars_today": "484 stars this week"
+        },
+        {
+            "zh_des": "低成本管理的记忆、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Memory, knowledge and tools for LLMs",
+            "stars": "5,620",
+            "forks": "765",
+            "language": "Python",
+            "stars_today": "783 stars this week"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "2,027",
+            "forks": "285",
+            "language": "Python",
+            "stars_today": "553 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,473",
+            "forks": "303",
+            "language": "Python",
+            "stars_today": "219 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "9,512",
+            "forks": "1,202",
+            "language": "Python",
+            "stars_today": "614 stars this week"
+        },
+        {
+            "zh_des": "小红书链接提取/作品采集工具:提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "url": "https://github.com/JoeanAmier/XHS-Downloader",
+            "name": "JoeanAmier /XHS-Downloader",
+            "description": "小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "stars": "3,853",
+            "forks": "555",
+            "language": "Python",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "Osintgram是Instagram上的OSINT工具。它提供了一个交互外壳，可以通过昵称对任何用户的Instagram账户进行分析",
+            "url": "https://github.com/Datalux/Osintgram",
+            "name": "Datalux /Osintgram",
+            "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+            "stars": "8,832",
+            "forks": "1,893",
+            "language": "Python",
+            "stars_today": "92 stars this week"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "1,985",
+            "forks": "158",
+            "language": "Python",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "用Python语言编写的简单互联网性能测试器",
+            "url": "https://github.com/plaintextpackets/netprobe_lite",
+            "name": "plaintextpackets /netprobe_lite",
+            "description": "Simple internet performance tester written in Python",
+            "stars": "475",
+            "forks": "107",
+            "language": "Python",
+            "stars_today": "112 stars this week"
+        },
+        {
+            "zh_des": "一个用于培训、服务和评估大型语言模型的开放平台。发布对维库纳和聊天机器人竞技场的回购。",
+            "url": "https://github.com/lm-sys/FastChat",
+            "name": "lm-sys /FastChat",
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "stars": "34,464",
+            "forks": "4,219",
+            "language": "Python",
+            "stars_today": "317 stars this week"
+        },
+        {
+            "zh_des": "更快地构建更好的用户界面。",
+            "url": "https://github.com/pydantic/FastUI",
+            "name": "pydantic /FastUI",
+            "description": "Build better UIs faster.",
+            "stars": "7,460",
+            "forks": "294",
+            "language": "Python",
+            "stars_today": "121 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "68,874",
+            "forks": "28,163",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "C++核心指导方针是一组久经考验的关于C++编码的指导方针、规则和最佳实践",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "name": "isocpp /CppCoreGuidelines",
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+            "stars": "41,657",
+            "forks": "5,376",
+            "language": "Python",
+            "stars_today": "106 stars this week"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "8,927",
+            "forks": "562",
+            "language": "Python",
+            "stars_today": "718 stars this week"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "59,886",
+            "forks": "28,981",
+            "language": "Python",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "LLM2VEC的代码：大型语言模型是秘密强大的文本编码器",
+            "url": "https://github.com/McGill-NLP/llm2vec",
+            "name": "McGill-NLP /llm2vec",
+            "description": "Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'",
+            "stars": "535",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,562",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "从2024年开始到2024年，国家和地区的经济发展将由L的方案指导实践。",
+            "url": "https://github.com/mouredev/roadmap-retos-programacion",
+            "name": "mouredev /roadmap-retos-programacion",
+            "description": "Ruta de estudio basada en ejercicios de código semanales en 2024 de la comunidad MoureDev para aprender y practicar lógica usando cualquier lenguaje de programación.",
+            "stars": "2,204",
+            "forks": "1,654",
+            "language": "Python",
+            "stars_today": "170 stars this week"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "10,352",
+            "forks": "2,305",
+            "language": "Python",
+            "stars_today": "45 stars this week"
+        },
+        {
+            "zh_des": "使用Python编写的SQL数据库，设计简单、兼容和健壮。",
+            "url": "https://github.com/tiangolo/sqlmodel",
+            "name": "tiangolo /sqlmodel",
+            "description": "SQL databases in Python, designed for simplicity, compatibility, and robustness.",
+            "stars": "13,106",
+            "forks": "592",
+            "language": "Python",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "71,526",
+            "forks": "5,700",
+            "language": "Python",
+            "stars_today": "504 stars this week"
+        },
+        {
+            "zh_des": "由Meta Llama 3发展而来的中文羊驼大模型三期项目(中国大羊驼-3 LLMS)",
+            "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca-3",
+            "name": "ymcui /Chinese-LLaMA-Alpaca-3",
+            "description": "中文羊驼大模型三期项目 (Chinese Llama-3 LLMs) developed from Meta Llama 3",
+            "stars": "671",
+            "forks": "62",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "面向开发人员的、面向AI应用程序的无服务器矢量数据库。轻松添加长期记忆到您的LLM应用程序！",
+            "url": "https://github.com/lancedb/lancedb",
+            "name": "lancedb /lancedb",
+            "description": "Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!",
+            "stars": "2,944",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "PPPwn-PlayStation 4 PPPoE RCE",
+            "url": "https://github.com/TheOfficialFloW/PPPwn",
+            "name": "TheOfficialFloW /PPPwn",
+            "description": "PPPwn - PlayStation 4 PPPoE RCE",
+            "stars": "1,588",
+            "forks": "225",
+            "language": "Python",
+            "stars_today": "1,102 stars this week"
+        }
+    ]
+}
