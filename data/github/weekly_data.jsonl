@@ -58010,3 +58010,257 @@
         }
     ]
 }
+{
+    "05月11日": [
+        {
+            "zh_des": "这是GLaDOS的个性核心，是Valve从门户系列实现AI的第一步。",
+            "url": "https://github.com/dnhkng/GlaDOS",
+            "name": "dnhkng /GlaDOS",
+            "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+            "stars": "2,176",
+            "forks": "209",
+            "language": "Python",
+            "stars_today": "433 stars this week"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "9,812",
+            "forks": "1,062",
+            "language": "Python",
+            "stars_today": "703 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,515",
+            "forks": "317",
+            "language": "Python",
+            "stars_today": "243 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "9,911",
+            "forks": "1,240",
+            "language": "Python",
+            "stars_today": "1,135 stars this week"
+        },
+        {
+            "zh_des": "PPPwn-PlayStation 4 PPPoE RCE",
+            "url": "https://github.com/TheOfficialFloW/PPPwn",
+            "name": "TheOfficialFloW /PPPwn",
+            "description": "PPPwn - PlayStation 4 PPPoE RCE",
+            "stars": "1,635",
+            "forks": "239",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,736",
+            "forks": "407",
+            "language": "Python",
+            "stars_today": "505 stars this week"
+        },
+        {
+            "zh_des": "LLM2VEC的代码：大型语言模型是秘密强大的文本编码器",
+            "url": "https://github.com/McGill-NLP/llm2vec",
+            "name": "McGill-NLP /llm2vec",
+            "description": "Code for 'LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders'",
+            "stars": "586",
+            "forks": "37",
+            "language": "Python",
+            "stars_today": "163 stars this week"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "2,190",
+            "forks": "309",
+            "language": "Python",
+            "stars_today": "581 stars this week"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "6,857",
+            "forks": "480",
+            "language": "Python",
+            "stars_today": "5,153 stars this week"
+        },
+        {
+            "zh_des": "小红书链接提取/作品采集工具:提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "url": "https://github.com/JoeanAmier/XHS-Downloader",
+            "name": "JoeanAmier /XHS-Downloader",
+            "description": "小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！",
+            "stars": "3,888",
+            "forks": "559",
+            "language": "Python",
+            "stars_today": "486 stars this week"
+        },
+        {
+            "zh_des": "低成本管理的记忆、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Memory, knowledge and tools for LLMs",
+            "stars": "5,713",
+            "forks": "784",
+            "language": "Python",
+            "stars_today": "765 stars this week"
+        },
+        {
+            "zh_des": "OpenPilot是一个开源的驾驶员辅助系统。OpenPilot为250多个受支持的汽车品牌和车型提供自动车道居中和自适应巡航控制功能。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+            "stars": "48,067",
+            "forks": "8,617",
+            "language": "Python",
+            "stars_today": "462 stars this week"
+        },
+        {
+            "zh_des": "使用LLMS和计算机视觉自动执行基于浏览器的工作流",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "4,701",
+            "forks": "318",
+            "language": "Python",
+            "stars_today": "1,149 stars this week"
+        },
+        {
+            "zh_des": "AlphaFold的开放源代码。",
+            "url": "https://github.com/google-deepmind/alphafold",
+            "name": "google-deepmind /alphafold",
+            "description": "Open source code for AlphaFold.",
+            "stars": "11,800",
+            "forks": "2,100",
+            "language": "Python",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "Osintgram是Instagram上的OSINT工具。它提供了一个交互外壳，可以通过昵称对任何用户的Instagram账户进行分析",
+            "url": "https://github.com/Datalux/Osintgram",
+            "name": "Datalux /Osintgram",
+            "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+            "stars": "8,844",
+            "forks": "1,895",
+            "language": "Python",
+            "stars_today": "83 stars this week"
+        },
+        {
+            "zh_des": "🪵🔥及更高版本的简单可观察性！",
+            "url": "https://github.com/pydantic/logfire",
+            "name": "pydantic /logfire",
+            "description": "Uncomplicated Observability for Python and beyond! 🪵🔥",
+            "stars": "1,252",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "788 stars this week"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "10,361",
+            "forks": "2,306",
+            "language": "Python",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "为有最后期限的完美主义者准备的Web框架。",
+            "url": "https://github.com/django/django",
+            "name": "django /django",
+            "description": "The Web framework for perfectionists with deadlines.",
+            "stars": "77,025",
+            "forks": "30,920",
+            "language": "Python",
+            "stars_today": "158 stars this week"
+        },
+        {
+            "zh_des": "改进的langchain rag教程(V2)，包含本地LLM、数据库更新和测试。",
+            "url": "https://github.com/pixegami/rag-tutorial-v2",
+            "name": "pixegami /rag-tutorial-v2",
+            "description": "An Improved Langchain RAG Tutorial (v2) with local LLMs, database updates, and testing.",
+            "stars": "100",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "29,709",
+            "forks": "3,508",
+            "language": "Python",
+            "stars_today": "240 stars this week"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "59,912",
+            "forks": "28,997",
+            "language": "Python",
+            "stars_today": "229 stars this week"
+        },
+        {
+            "zh_des": "提供基于LLM的企业级开发框架、工具和微调模型。",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Providing enterprise-grade LLM-based development framework, tools, and fine-tuned models.",
+            "stars": "3,718",
+            "forks": "726",
+            "language": "Python",
+            "stars_today": "526 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信 公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "25,291",
+            "forks": "6,894",
+            "language": "Python",
+            "stars_today": "302 stars this week"
+        },
+        {
+            "zh_des": "C++核心指导方针是一组久经考验的关于C++编码的指导方针、规则和最佳实践",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "name": "isocpp /CppCoreGuidelines",
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+            "stars": "41,666",
+            "forks": "5,375",
+            "language": "Python",
+            "stars_today": "80 stars this week"
+        },
+        {
+            "zh_des": "这是一份精选的优秀机器学习框架、库和软件清单。",
+            "url": "https://github.com/josephmisiti/awesome-machine-learning",
+            "name": "josephmisiti /awesome-machine-learning",
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "stars": "63,726",
+            "forks": "14,482",
+            "language": "Python",
+            "stars_today": "147 stars this week"
+        }
+    ]
+}
