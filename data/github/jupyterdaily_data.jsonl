@@ -48586,3 +48586,257 @@
         }
     ]
 }
+{
+    "05月11日": [
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "29,598",
+            "forks": "3,038",
+            "language": "Jupyter Notebook",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "22,470",
+            "forks": "3,004",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "7,891",
+            "forks": "1,244",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "一个开源的、低代码化的机器学习库",
+            "url": "https://github.com/pycaret/pycaret",
+            "name": "pycaret /pycaret",
+            "description": "An open-source, low-code machine learning library in Python",
+            "stars": "8,469",
+            "forks": "1,725",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,951",
+            "forks": "7,710",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "具有接触的多关节动力学。一种通用的物理模拟器。",
+            "url": "https://github.com/google-deepmind/mujoco",
+            "name": "google-deepmind /mujoco",
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+            "stars": "7,253",
+            "forks": "717",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,540",
+            "forks": "6,608",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "YOLOv6：致力于工业应用的单级目标检测框架。",
+            "url": "https://github.com/meituan/YOLOv6",
+            "name": "meituan /YOLOv6",
+            "description": "YOLOv6: a single-stage object detection framework dedicated to industrial applications.",
+            "stars": "5,554",
+            "forks": "999",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "理解深度学习--西蒙·J·D·普林斯",
+            "url": "https://github.com/udlbook/udlbook",
+            "name": "udlbook /udlbook",
+            "description": "Understanding Deep Learning - Simon J.D. Prince",
+            "stars": "4,840",
+            "forks": "1,015",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "26,976",
+            "forks": "12,512",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "此报告包含高级解决方案实验室的笔记本：ML Immersion",
+            "url": "https://github.com/GoogleCloudPlatform/asl-ml-immersion",
+            "name": "GoogleCloudPlatform /asl-ml-immersion",
+            "description": "This repos contains notebooks for the Advanced Solutions Lab: ML Immersion",
+            "stars": "1,536",
+            "forks": "921",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,569",
+            "forks": "857",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "9,575",
+            "forks": "1,134",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "为工程师设计的机器学习课程和教学项目",
+            "url": "https://github.com/lukas/ml-class",
+            "name": "lukas /ml-class",
+            "description": "Machine learning lessons and teaching projects designed for engineers",
+            "stars": "2,269",
+            "forks": "1,152",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "🇰🇷무료로한국어파인튜닝모델받아서로컬LLm호스팅.LangServe、Ollama、Streamlight+RAG",
+            "url": "https://github.com/teddylee777/langserve_ollama",
+            "name": "teddylee777 /langserve_ollama",
+            "description": "무료로 한국어🇰🇷 파인튜닝 모델 받아서 로컬 LLM 호스팅. LangServe, Ollama, streamlit + RAG",
+            "stars": "65",
+            "forks": "50",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "我尝试实现Sepp Hochreiter的新xLSTM体系结构的各个部分",
+            "url": "https://github.com/andrewgcodes/xlstm",
+            "name": "andrewgcodes /xlstm",
+            "description": "my attempts at implementing various bits of Sepp Hochreiter's new xLSTM architecture",
+            "stars": "68",
+            "forks": "5",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "TimeGPT-1：用于预测和异常检测的生产准备预训练时间序列基础模型。生成性预先训练的时间序列转换器，训练超过100B的数据点。只需几行代码🚀，它就能够准确预测零售、电力、金融和物联网等各个领域。",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.",
+            "stars": "1,596",
+            "forks": "127",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "ML-Capsage是一个面向初学者和经验丰富的数据科学爱好者的项目，他们没有导师或指导，希望学习机器学习。使用我们的回购，他们可以学习ML、DL和许多与不同现实世界项目相关的技术，并为面试做好准备。",
+            "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+            "name": "Niketkumardheeryan /ML-CaPsule",
+            "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+            "stars": "267",
+            "forks": "199",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "图形生成器创建本地环境安装依赖项",
+            "url": "https://github.com/rahulnyk/graph_maker",
+            "name": "rahulnyk /graph_maker",
+            "description": "The Graph MakerCreate a local environmentInstall dependencies",
+            "stars": "64",
+            "forks": "15",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "西北风AI 7B v0.1模型的参考实现。",
+            "url": "https://github.com/mistralai/mistral-src",
+            "name": "mistralai /mistral-src",
+            "description": "Reference implementation of Mistral AI 7B v0.1 model.",
+            "stars": "8,739",
+            "forks": "755",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "TensorFlow初学者教程和示例(支持TFv1和v2)",
+            "url": "https://github.com/aymericdamien/TensorFlow-Examples",
+            "name": "aymericdamien /TensorFlow-Examples",
+            "description": "TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)",
+            "stars": "43,234",
+            "forks": "14,991",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "4,257",
+            "forks": "528",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "DINOv2自我监督学习方法的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/dinov2",
+            "name": "facebookresearch /dinov2",
+            "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+            "stars": "7,951",
+            "forks": "646",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "这是MobileSAM项目的官方代码，该项目使SAM变得轻量级，适用于移动应用程序和其他应用程序！",
+            "url": "https://github.com/ChaoningZhang/MobileSAM",
+            "name": "ChaoningZhang /MobileSAM",
+            "description": "This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!",
+            "stars": "4,324",
+            "forks": "446",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "BLIP的PyTorch代码：引导语言--统一视觉语言理解和生成的图像预培训",
+            "url": "https://github.com/salesforce/BLIP",
+            "name": "salesforce /BLIP",
+            "description": "PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+            "stars": "4,301",
+            "forks": "568",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
