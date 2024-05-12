@@ -60853,3 +60853,257 @@
         }
     ]
 }
+{
+    "05月12日": [
+        {
+            "zh_des": "AutoGroq？",
+            "url": "https://github.com/jgravelle/AutoGroq",
+            "name": "jgravelle /AutoGroq",
+            "description": "AutoGroq?",
+            "stars": "359",
+            "forks": "178",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "11,742",
+            "forks": "1,788",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "引子2B，上下文长度为10M，使用无限注意。",
+            "url": "https://github.com/mustafaaljadery/gemma-2B-10M",
+            "name": "mustafaaljadery /gemma-2B-10M",
+            "description": "Gemma 2B with 10M context length using Infini-attention.",
+            "stars": "451",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "6,430",
+            "forks": "1,057",
+            "language": "Python",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "7,261",
+            "forks": "1,004",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "5,196",
+            "forks": "709",
+            "language": "Python",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "Free AskInternet是一个完全免费的、私有的、本地运行的搜索聚合器和答案生成工具，使用多个LLM生成，不需要GPU。用户可以提问，系统会进行多引擎搜索，并将搜索结果合并到LLM，并根据搜索结果生成答案。这都是免费使用的。",
+            "url": "https://github.com/nashsu/FreeAskInternet",
+            "name": "nashsu /FreeAskInternet",
+            "description": "FreeAskInternet is a completely free, PRIVATE and LOCALLY running search aggregator & answer generate using MULTI LLMs, without GPU needed. The user can ask a question and the system will make a multi engine search and combine the search result to LLM and generate the answer based on search results. It's all FREE to use.",
+            "stars": "7,876",
+            "forks": "850",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "更多的重新照明！",
+            "url": "https://github.com/lllyasviel/IC-Light",
+            "name": "lllyasviel /IC-Light",
+            "description": "More relighting!",
+            "stars": "2,527",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "234 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "14,481",
+            "forks": "1,132",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "25,269",
+            "forks": "2,772",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "TimesFM(Time Series Foundation Model，时间序列基础模型)是Google Research开发的用于时间序列预测的预先训练的时间序列基础模型。",
+            "url": "https://github.com/google-research/timesfm",
+            "name": "google-research /timesfm",
+            "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+            "stars": "1,225",
+            "forks": "61",
+            "language": "Python",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "28,064",
+            "forks": "2,913",
+            "language": "Python",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "索拉纳-粪币机器人！Solana-bot Meme令牌机器人。AutoTrade，狙击手机器人，raydium机器人，木星机器人，Solana狙击手机器人，Autorade机器人，交易机器人",
+            "url": "https://github.com/sol3dev/SOL-shitcoinbot",
+            "name": "sol3dev /SOL-shitcoinbot",
+            "description": "Solana-shitcoinbot! Solana-bot Meme token bots. autotrade, sniper bot, raydium bot, jupiter bot, solana sniper bot, autorade bot, trade bot",
+            "stars": "230",
+            "forks": "24",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "开始以更轻松的方式构建支持LLM的多代理应用程序。",
+            "url": "https://github.com/modelscope/agentscope",
+            "name": "modelscope /agentscope",
+            "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+            "stars": "1,708",
+            "forks": "105",
+            "language": "Python",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "4,262",
+            "forks": "411",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "57,878",
+            "forks": "7,303",
+            "language": "Python",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "131,016",
+            "forks": "25,154",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "Gen-AI团队聊天-如果ChatGPT可以访问您团队的独特知识，请考虑ChatGPT。",
+            "url": "https://github.com/danswer-ai/danswer",
+            "name": "danswer-ai /danswer",
+            "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+            "stars": "9,353",
+            "forks": "997",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "1,161",
+            "forks": "105",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "Lumina-T2X是用于文本到任何模式生成的统一框架",
+            "url": "https://github.com/Alpha-VLLM/Lumina-T2X",
+            "name": "Alpha-VLLM /Lumina-T2X",
+            "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+            "stars": "449",
+            "forks": "19",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "5,078",
+            "forks": "743",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "21,787",
+            "forks": "2,617",
+            "language": "Python",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "REAL-ESRGAN旨在开发实用的通用图像/视频恢复算法。",
+            "url": "https://github.com/xinntao/Real-ESRGAN",
+            "name": "xinntao /Real-ESRGAN",
+            "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+            "stars": "26,293",
+            "forks": "3,301",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "《生物分子与AlphaFold3相互作用的精确结构预测》一文中的Alpha Fold3在PyTorch中的实现",
+            "url": "https://github.com/kyegomez/AlphaFold3",
+            "name": "kyegomez /AlphaFold3",
+            "description": "Implementation of Alpha Fold 3 from the paper: \"Accurate structure prediction of biomolecular interactions with AlphaFold3\" in PyTorch",
+            "stars": "414",
+            "forks": "40",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "29,296",
+            "forks": "2,170",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        }
+    ]
+}
