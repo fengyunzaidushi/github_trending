@@ -58192,3 +58192,257 @@
         }
     ]
 }
+{
+    "05月12日": [
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "24,886",
+            "forks": "2,333",
+            "language": "Python",
+            "stars_today": "8,020 stars this month"
+        },
+        {
+            "zh_des": "低成本管理的记忆、知识和工具",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Memory, knowledge and tools for LLMs",
+            "stars": "5,755",
+            "forks": "787",
+            "language": "Python",
+            "stars_today": "2,885 stars this month"
+        },
+        {
+            "zh_des": "骆驼中文社区、骆驼3、在线体验和微调模型已开放，实时汇总最新骆驼3、学习资料，已将所有代码更新适配骆驼3、构建最好的中文骆驼大模型，完全开源可商用",
+            "url": "https://github.com/LlamaFamily/Llama-Chinese",
+            "name": "LlamaFamily /Llama-Chinese",
+            "description": "Llama中文社区，Llama3在线体验和微调模型已开放，实时汇总最新Llama3学习资料，已将所有代码更新适配Llama3，构建最好的中文Llama大模型，完全开源可商用",
+            "stars": "11,835",
+            "forks": "1,097",
+            "language": "Python",
+            "stars_today": "2,685 stars this month"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "9,299",
+            "forks": "586",
+            "language": "Python",
+            "stars_today": "3,742 stars this month"
+        },
+        {
+            "zh_des": "统一100+LLM的高效微调",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unify Efficient Fine-Tuning of 100+ LLMs",
+            "stars": "21,740",
+            "forks": "2,616",
+            "language": "Python",
+            "stars_today": "5,695 stars this month"
+        },
+        {
+            "zh_des": "AIXcoder-7B代码大型语言模型官方资源库",
+            "url": "https://github.com/aixcoder-plugin/aiXcoder-7B",
+            "name": "aixcoder-plugin /aiXcoder-7B",
+            "description": "official repository of aiXcoder-7B Code Large Language Model",
+            "stars": "2,107",
+            "forks": "338",
+            "language": "Python",
+            "stars_today": "1,883 stars this month"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "2,493",
+            "forks": "255",
+            "language": "Python",
+            "stars_today": "1,986 stars this month"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,534",
+            "forks": "323",
+            "language": "Python",
+            "stars_today": "926 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "32,216",
+            "forks": "6,535",
+            "language": "Python",
+            "stars_today": "2,011 stars this month"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "3,127",
+            "forks": "210",
+            "language": "Python",
+            "stars_today": "2,395 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "7,288",
+            "forks": "633",
+            "language": "Python",
+            "stars_today": "3,384 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "10,146",
+            "forks": "1,258",
+            "language": "Python",
+            "stars_today": "1,793 stars this month"
+        },
+        {
+            "zh_des": "[Gpt Beats Difference🔥][视觉生成📈中的缩放法则]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "3,481",
+            "forks": "273",
+            "language": "Python",
+            "stars_today": "1,723 stars this month"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "19,338",
+            "forks": "2,583",
+            "language": "Python",
+            "stars_today": "1,855 stars this month"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "9,857",
+            "forks": "1,068",
+            "language": "Python",
+            "stars_today": "1,416 stars this month"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,598",
+            "forks": "403",
+            "language": "Python",
+            "stars_today": "470 stars this month"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "15,171",
+            "forks": "1,735",
+            "language": "Python",
+            "stars_today": "989 stars this month"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "256,873",
+            "forks": "43,797",
+            "language": "Python",
+            "stars_today": "5,706 stars this month"
+        },
+        {
+            "zh_des": "🦜🕸️语言图",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "🦜🕸️LangGraph",
+            "stars": "3,002",
+            "forks": "425",
+            "language": "Python",
+            "stars_today": "766 stars this month"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "27,985",
+            "forks": "2,907",
+            "language": "Python",
+            "stars_today": "2,396 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "6,773",
+            "forks": "410",
+            "language": "Python",
+            "stars_today": "1,293 stars this month"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "2,037",
+            "forks": "160",
+            "language": "Python",
+            "stars_today": "628 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2023]SadTalker：用于风格化音频驱动的单幅图像对话人脸动画的真实感3D运动系数学习",
+            "url": "https://github.com/OpenTalker/SadTalker",
+            "name": "OpenTalker /SadTalker",
+            "description": "[CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation",
+            "stars": "10,602",
+            "forks": "1,937",
+            "language": "Python",
+            "stars_today": "835 stars this month"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "13,898",
+            "forks": "1,809",
+            "language": "Python",
+            "stars_today": "2,274 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "180,269",
+            "forks": "43,729",
+            "language": "Python",
+            "stars_today": "3,107 stars this month"
+        }
+    ]
+}
