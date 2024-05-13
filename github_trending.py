@@ -175,7 +175,7 @@ def write_github_data(git_dict,date,prefix):
             # ordered_dict = OrderedDict((k, original_dict[k]) for k in key_order)
             sub_list.append(ordered_dict)
         git_dict[key] = sub_list
-
+    os.makedirs(f'./data/github', exist_ok=True)
     # 字典写入json文件,中文不乱码
     with open(f'./data/github/{prefix}_datalist.json', 'a+', encoding='utf-8') as f:
         for key in git_dict.keys():
@@ -213,21 +213,22 @@ def read_jsonl_to_dict(file_path):
                 print(f"Line content: {line}")
     return data
 async def main():
-    urls = ['https://github.com/trending?since=alldaily','https://github.com/trending/python?since=daily']
-    urls2 = ['https://github.com/trending?since=weekly&s=allweekly','https://github.com/trending/python?since=weekly']
-    urls3 = ['https://github.com/trending?since=monthly&s=allmonthly','https://github.com/trending/python?since=monthly']
-    urls4 = ['https://github.com/trending/typescript?since=daily&s=tsdaily',]
-    urls5 = ['https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily',]
+    urls = ['https://github.com/trending?since=alldaily','https://github.com/trending?since=weekly&s=allweekly','https://github.com/trending?since=monthly&s=allmonthly']
+    urls2 = ['https://github.com/trending/python?since=daily','https://github.com/trending/python?since=weekly','https://github.com/trending/python?since=monthly']
+    urls3 = ['https://github.com/trending/typescript?since=daily&s=tsdaily']
+    urls4 = ['https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily']
     urls.extend(urls2)
     urls.extend(urls3)
     urls.extend(urls4)
-    urls.extend(urls5)
     date = get_date()
-    for url in urls[:]:
+    # 遍历列表和索引
+    
+    for idx,url in urls[:]:
         print(url)
         separators = "/="
         split_text = re.split('[{}]'.format(separators), url)
         prefix = split_text[-1]
+        prefix = str(idx).zfill(2) +'_' +prefix
 
         data_path = f'./data/github/{prefix}_list.jsonl'
         if os.path.exists(data_path):
