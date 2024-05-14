@@ -1014,3 +1014,257 @@
         }
     ]
 }
+{
+    "05月14日": [
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "9,610",
+            "forks": "1,814",
+            "language": "Jupyter Notebook",
+            "stars_today": "247 stars today"
+        },
+        {
+            "zh_des": "免费的数据工程课程！",
+            "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+            "name": "DataTalksClub /data-engineering-zoomcamp",
+            "description": "Free Data Engineering course!",
+            "stars": "22,800",
+            "forks": "4,891",
+            "language": "Jupyter Notebook",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "LLm-Powerhouse：通过精心策划的教程、最佳实践和用于定制培训和推理的现成代码，释放LLMS的潜力。",
+            "url": "https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing",
+            "name": "ghimiresunil /LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing",
+            "description": "LLM-PowerHouse: Unleash LLMs' potential through curated tutorials, best practices, and ready-to-use code for custom training and inferencing.",
+            "stars": "472",
+            "forks": "78",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "6,920",
+            "forks": "3,489",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "2,675",
+            "forks": "488",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,600",
+            "forks": "860",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "EfficientSAM：利用蒙版图像预训练有效地分割任何内容",
+            "url": "https://github.com/yformer/EfficientSAM",
+            "name": "yformer /EfficientSAM",
+            "description": "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything",
+            "stars": "1,828",
+            "forks": "139",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "25,831",
+            "forks": "3,708",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "在4个月内免费学习ML工程！",
+            "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
+            "name": "DataTalksClub /machine-learning-zoomcamp",
+            "description": "Learn ML engineering for free in 4 months!",
+            "stars": "8,405",
+            "forks": "2,010",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "9,652",
+            "forks": "1,365",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "DINOv2自我监督学习方法的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/dinov2",
+            "name": "facebookresearch /dinov2",
+            "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+            "stars": "7,979",
+            "forks": "648",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用博弈论的方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "21,733",
+            "forks": "3,178",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "2,738",
+            "forks": "194",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "揭开网络的隐蔽层--一个综合性的网络侦察工具",
+            "url": "https://github.com/spyboy-productions/omnisci3nt",
+            "name": "spyboy-productions /omnisci3nt",
+            "description": "Unveiling the Hidden Layers of the Web – A Comprehensive Web Reconnaissance Tool",
+            "stars": "129",
+            "forks": "12",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "44,410",
+            "forks": "5,232",
+            "language": "Jupyter Notebook",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "43,779",
+            "forks": "24,105",
+            "language": "Jupyter Notebook",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "该存储库包含一个全面的计算机视觉/机器学习足球项目，该项目使用YOLO进行对象检测，使用KMeans进行像素分割，使用光流进行运动跟踪，并使用透视变换来分析足球视频中的球员移动",
+            "url": "https://github.com/abdullahtarek/football_analysis",
+            "name": "abdullahtarek /football_analysis",
+            "description": "This repository contains a comprehensive computer vision/machine learning football project that uses YOLO for object detection, Kmeans for pixel segmentation, optical flow for motion tracking, and perspective transformation to analyze player movements in football videos",
+            "stars": "189",
+            "forks": "60",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "ML-Capsage是一个面向初学者和经验丰富的数据科学爱好者的项目，他们没有导师或指导，希望学习机器学习。使用我们的回购，他们可以学习ML、DL和许多与不同现实世界项目相关的技术，并为面试做好准备。",
+            "url": "https://github.com/Niketkumardheeryan/ML-CaPsule",
+            "name": "Niketkumardheeryan /ML-CaPsule",
+            "description": "ML-capsule is a Project for beginners and experienced data science Enthusiasts who don't have a mentor or guidance and wish to learn Machine learning. Using our repo they can learn ML, DL, and many related technologies with different real-world projects and become Interview ready.",
+            "stars": "286",
+            "forks": "223",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "32,981",
+            "forks": "7,714",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "欢迎使用《朗格史密斯手册》--掌握朗格史密斯的实用指南",
+            "url": "https://github.com/langchain-ai/langsmith-cookbook",
+            "name": "langchain-ai /langsmith-cookbook",
+            "description": "LangSmith CookbookWelcome to the LangSmith Cookbook — your practical guide to mastering LangSmith",
+            "stars": "627",
+            "forks": "109",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "评估和监控ML模型从验证到生产的整个过程。加入我们的不和：https://discord.com/invite/xZjKRaNp8b",
+            "url": "https://github.com/evidentlyai/evidently",
+            "name": "evidentlyai /evidently",
+            "description": "Evaluate and monitor ML models from validation to production. Join our Discord:https://discord.com/invite/xZjKRaNp8b",
+            "stars": "4,694",
+            "forks": "529",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "22,541",
+            "forks": "3,013",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "《FeatUp：用于任意分辨率的要素的模型无关框架》的官方代码ICLR 2024",
+            "url": "https://github.com/mhamilton723/FeatUp",
+            "name": "mhamilton723 /FeatUp",
+            "description": "Official code for \"FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution\" ICLR 2024",
+            "stars": "1,160",
+            "forks": "58",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "了解如何设计、开发、部署和迭代生产级ML应用程序。",
+            "url": "https://github.com/GokuMohandas/Made-With-ML",
+            "name": "GokuMohandas /Made-With-ML",
+            "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+            "stars": "35,983",
+            "forks": "5,759",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于大型语言模型推理的多个NVIDIA GPU或Apple Silicon？",
+            "url": "https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference",
+            "name": "XiongjieDai /GPU-Benchmarks-on-LLM-Inference",
+            "description": "Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?",
+            "stars": "374",
+            "forks": "17",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
