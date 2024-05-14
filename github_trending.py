@@ -68,7 +68,7 @@ async def get_first_paragraph_of_readme_async(git_repo_url):
         text = text.split('.')[0]
         return text
     except Exception as e:
-        print(f'error is {e}')
+        print(f'error is {e},git_repo_url is {git_repo_url}')
         return repo_name
 
 
@@ -203,7 +203,7 @@ def write_github_data(git_dict,date,prefix):
 
 def read_jsonl_to_dict(file_path):
     data = {}
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r',encoding='utf-8') as file:
         for line_number, line in enumerate(file, 1):
             try:
                 line_data = json.loads(line)

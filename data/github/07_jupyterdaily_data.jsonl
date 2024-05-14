@@ -506,3 +506,257 @@
         }
     ]
 }
+{
+    "05月14日": [
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "2,674",
+            "forks": "305",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "了解如何设计、开发、部署和迭代生产级ML应用程序。",
+            "url": "https://github.com/GokuMohandas/Made-With-ML",
+            "name": "GokuMohandas /Made-With-ML",
+            "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+            "stars": "35,974",
+            "forks": "5,758",
+            "language": "Jupyter Notebook",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,817",
+            "forks": "8,079",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,560",
+            "forks": "5,460",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "堆栈溢出是开发人员的专业社区。这个回购分析了Stackoverflow做了3年的开发人员调查，并做了可视化和预测未来数据科学家的工资。",
+            "url": "https://github.com/Recode-Hive/Stackoverflow-Analysis",
+            "name": "Recode-Hive /Stackoverflow-Analysis",
+            "description": "Stack overflow is a professional community for developers. This repo analysis 3 years of developer Survey done by Stackoverflow and do visualization and predict the salary of Data Scientist in future.",
+            "stars": "89",
+            "forks": "61",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "25,779",
+            "forks": "3,702",
+            "language": "Jupyter Notebook",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "LangChain공식文档、食谱、그밖의실용예제를바탕으로작성한한국어튜토리얼입니다。본튜토리얼을통해Lang Chain을더쉽고효과적으로사용하는방법을배울수있습니다.",
+            "url": "https://github.com/teddylee777/langchain-kr",
+            "name": "teddylee777 /langchain-kr",
+            "description": "LangChain 공식 Document, Cookbook, 그 밖의 실용 예제를 바탕으로 작성한 한국어 튜토리얼입니다. 본 튜토리얼을 통해 LangChain을 더 쉽고 효과적으로 사용하는 방법을 배울 수 있습니다.",
+            "stars": "594",
+            "forks": "104",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "8,427",
+            "forks": "1,137",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "6,818",
+            "forks": "683",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "深度学习简化版是一个开源资源库，为愿意开始深度学习之旅的贡献者提供初学者到高级水平的深度学习项目。Devfolio URL，https://devfolio.co/projects/deep-learning-simplified-f013",
+            "url": "https://github.com/abhisheks008/DL-Simplified",
+            "name": "abhisheks008 /DL-Simplified",
+            "description": "Deep Learning Simplified is an Open-source repository, containing beginner to advance level deep learning projects for the contributors, who are willing to start their journey in Deep Learning. Devfolio URL,https://devfolio.co/projects/deep-learning-simplified-f013",
+            "stars": "250",
+            "forks": "225",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "5,154",
+            "forks": "702",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用大型语言模型进行的一系列实验",
+            "url": "https://github.com/svpino/llm",
+            "name": "svpino /llm",
+            "description": "A bunch of experiments using Large Language Models",
+            "stars": "81",
+            "forks": "38",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "此repo托管官方MediaTube示例，目的是展示使用我们的机器学习平台创建应用程序所涉及的基本步骤",
+            "url": "https://github.com/googlesamples/mediapipe",
+            "name": "googlesamples /mediapipe",
+            "description": "This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform",
+            "stars": "1,256",
+            "forks": "325",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "给你的：你的心理健康盟友。我们的人工智能助手凯提供了同情的支持。跟踪您的情绪趋势，在安全的社区中找到慰藉，并快速获取危机资源。我们在这里为您提升福祉的旅程提供动力，利用技术创造更光明的明天。",
+            "url": "https://github.com/TAHIR0110/ThereForYou",
+            "name": "TAHIR0110 /ThereForYou",
+            "description": "ThereForYou: Your mental health ally. Kai, our AI assistant, offers compassionate support. Track your mood trends, find solace in a secure community, and access crisis resources swiftly. We're here to empower your journey towards improved well-being, leveraging technology for a brighter tomorrow.",
+            "stars": "28",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "代码片段",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "name": "CoreyMSchafer /code_snippets",
+            "description": "code_snippets",
+            "stars": "10,209",
+            "forks": "17,652",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "100天的机器学习",
+            "url": "https://github.com/campusx-official/100-days-of-machine-learning",
+            "name": "campusx-official /100-days-of-machine-learning",
+            "description": "100-days-of-machine-learning",
+            "stars": "906",
+            "forks": "1,413",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "由医疗保健领域的各种机器学习和深度学习项目组成的回购。",
+            "url": "https://github.com/SrijanShovit/HealthLearning",
+            "name": "SrijanShovit /HealthLearning",
+            "description": "A repo comprising of various Machine Learning and Deep Learning projects in healthcare domain.",
+            "stars": "14",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "收集用于股票预测的机器学习和深度学习模型，包括交易机器人和模拟",
+            "url": "https://github.com/huseinzol05/Stock-Prediction-Models",
+            "name": "huseinzol05 /Stock-Prediction-Models",
+            "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
+            "stars": "7,488",
+            "forks": "2,697",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "YSDA自然语言处理课程",
+            "url": "https://github.com/yandexdataschool/nlp_course",
+            "name": "yandexdataschool /nlp_course",
+            "description": "YSDA course in Natural Language Processing",
+            "stars": "9,464",
+            "forks": "2,520",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "《FeatUp：用于任意分辨率的要素的模型无关框架》的官方代码ICLR 2024",
+            "url": "https://github.com/mhamilton723/FeatUp",
+            "name": "mhamilton723 /FeatUp",
+            "description": "Official code for \"FeatUp: A Model-Agnostic Frameworkfor Features at Any Resolution\" ICLR 2024",
+            "stars": "1,147",
+            "forks": "57",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,049",
+            "forks": "348",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "DLAI_TF2C1-基于浏览器的TensorFlow模型",
+            "url": "https://github.com/https-deeplearning-ai/tensorflow-2-public",
+            "name": "https-deeplearning-ai /tensorflow-2-public",
+            "description": "dlai_TF2C1 - Browser-based Models with TensorFlow",
+            "stars": "340",
+            "forks": "935",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,714",
+            "forks": "2,054",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "43,726",
+            "forks": "24,062",
+            "language": "Jupyter Notebook",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "6,917",
+            "forks": "3,484",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
