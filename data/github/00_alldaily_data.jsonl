@@ -1268,3 +1268,257 @@
         }
     ]
 }
+{
+    "05月15日": [
+        {
+            "zh_des": "一个由Bilibili用户评论微调的本地聊天机器人。",
+            "url": "https://github.com/linyiLYi/bilibot",
+            "name": "linyiLYi /bilibot",
+            "description": "A local chatbot fine-tuned by bilibili user comments.",
+            "stars": "1,789",
+            "forks": "212",
+            "language": "Python",
+            "stars_today": "567 stars today"
+        },
+        {
+            "zh_des": "用于将N64游戏静态重新编译为本机可执行文件的工具",
+            "url": "https://github.com/Mr-Wiseguy/N64Recomp",
+            "name": "Mr-Wiseguy /N64Recomp",
+            "description": "Tool to statically recompile N64 games into native executables",
+            "stars": "3,276",
+            "forks": "192",
+            "language": "C++",
+            "stars_today": "1,365 stars today"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "9,701",
+            "forks": "1,823",
+            "language": "Jupyter Notebook",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "12,403",
+            "forks": "1,877",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "供参考的MS-DOS 1.25、2.0和4.0的原始源代码",
+            "url": "https://github.com/microsoft/MS-DOS",
+            "name": "microsoft /MS-DOS",
+            "description": "The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes",
+            "stars": "29,589",
+            "forks": "4,193",
+            "language": "Assembly",
+            "stars_today": "249 stars today"
+        },
+        {
+            "zh_des": "来自我的社交媒体的简单用户界面示例",
+            "url": "https://github.com/atherosai/ui",
+            "name": "atherosai /ui",
+            "description": "Simple UI examples from my social media",
+            "stars": "10,347",
+            "forks": "1,831",
+            "language": "HTML",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "在PC(Windows/Linux)上静态重新编译Majora‘s MASK(以及即将推出的Ocarina of Time)",
+            "url": "https://github.com/Mr-Wiseguy/Zelda64Recomp",
+            "name": "Mr-Wiseguy /Zelda64Recomp",
+            "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
+            "stars": "3,023",
+            "forks": "146",
+            "language": "C++",
+            "stars_today": "1,009 stars today"
+        },
+        {
+            "zh_des": "AniTalker：通过身份分离的面部运动编码使生动多样的说话面孔动感起来",
+            "url": "https://github.com/X-LANCE/AniTalker",
+            "name": "X-LANCE /AniTalker",
+            "description": "AniTalker: Animate Vivid and Diverse Talking Faces through Identity-Decoupled Facial Motion Encoding",
+            "stars": "660",
+            "forks": "50",
+            "language": "",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "自托管仪表板，可将所有提要放在一个位置",
+            "url": "https://github.com/glanceapp/glance",
+            "name": "glanceapp /glance",
+            "description": "A self-hosted dashboard that puts all your feeds in one place",
+            "stars": "3,373",
+            "forks": "77",
+            "language": "Go",
+            "stars_today": "604 stars today"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "6,458",
+            "forks": "826",
+            "language": "TypeScript",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "30,407",
+            "forks": "2,818",
+            "language": "C#",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "1,448",
+            "forks": "120",
+            "language": "Python",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "开源、准确、易用的视频剪辑工具，基于LLm的AI剪辑集成||开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能",
+            "url": "https://github.com/alibaba-damo-academy/FunClip",
+            "name": "alibaba-damo-academy /FunClip",
+            "description": "Open-source, accurate and easy-to-use video clipping tool, LLM based AI clipping intergrated || 开源、精准、方便的视频切片工具，集成了大语言模型AI智能剪辑功能",
+            "stars": "1,558",
+            "forks": "162",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "Readmeeste projetoéo前端de um applicativo estinado a Auxiliar na Organização e Distribuição de Subrimentos，além de coordenar voltários duante os alagamentos no Rio Grande do Sul",
+            "url": "https://github.com/SOS-RS/frontend",
+            "name": "SOS-RS /frontend",
+            "description": "READMEEste projeto é o frontend de um aplicativo destinado a auxiliar na organização e distribuição de suprimentos, além de coordenar voluntários durante os alagamentos no Rio Grande do Sul",
+            "stars": "377",
+            "forks": "227",
+            "language": "TypeScript",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "6,741",
+            "forks": "1,097",
+            "language": "Python",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "11,624",
+            "forks": "2,082",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "RT64是一种N64图形渲染器，用于在模拟器和本机端口中使用增强功能。",
+            "url": "https://github.com/rt64/rt64",
+            "name": "rt64 /rt64",
+            "description": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.",
+            "stars": "625",
+            "forks": "27",
+            "language": "C++",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "15,653",
+            "forks": "1,800",
+            "language": "Vue",
+            "stars_today": "383 stars today"
+        },
+        {
+            "zh_des": "J41LBR34K PR0MPT5用于4LL M4J0R LLM5",
+            "url": "https://github.com/elder-plinius/L1B3RT45",
+            "name": "elder-plinius /L1B3RT45",
+            "description": "J41LBR34K PR0MPT5 F0R 4LL M4J0R LLM5",
+            "stars": "581",
+            "forks": "66",
+            "language": "",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "AutoGroq？",
+            "url": "https://github.com/jgravelle/AutoGroq",
+            "name": "jgravelle /AutoGroq",
+            "description": "AutoGroq?",
+            "stars": "710",
+            "forks": "270",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "🔗为程序员提供了一些有用的网站。",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "name": "sdmg15 /Best-websites-a-programmer-should-visit",
+            "description": "🔗 Some useful websites for programmers.",
+            "stars": "57,819",
+            "forks": "7,343",
+            "language": "",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "Lumina-T2X是用于文本到任何模式生成的统一框架",
+            "url": "https://github.com/Alpha-VLLM/Lumina-T2X",
+            "name": "Alpha-VLLM /Lumina-T2X",
+            "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+            "stars": "866",
+            "forks": "31",
+            "language": "Python",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "💬基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "5,584",
+            "forks": "746",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "35,808",
+            "forks": "4,524",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "Jellyfin的Web客户端",
+            "url": "https://github.com/jellyfin/jellyfin-web",
+            "name": "jellyfin /jellyfin-web",
+            "description": "Web Client for Jellyfin",
+            "stars": "2,009",
+            "forks": "1,094",
+            "language": "JavaScript",
+            "stars_today": "72 stars today"
+        }
+    ]
+}
