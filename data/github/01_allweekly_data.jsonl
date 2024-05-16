@@ -1776,3 +1776,257 @@
         }
     ]
 }
+{
+    "05月16日": [
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "8,207",
+            "forks": "575",
+            "language": "Python",
+            "stars_today": "4,993 stars this week"
+        },
+        {
+            "zh_des": "闭路电报视觉以其开源设计和电报API集成彻底改变了位置跟踪。提供50-100米范围内的精确跟踪，用户可以实时监控他人的物流或安全，重新定义我们如何导航周围环境",
+            "url": "https://github.com/IvanGlinkin/CCTV",
+            "name": "IvanGlinkin /CCTV",
+            "description": "Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in real-time for logistics or safety, redefining how we navigate our surroundings",
+            "stars": "1,880",
+            "forks": "257",
+            "language": "JavaScript",
+            "stars_today": "901 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "15,797",
+            "forks": "1,817",
+            "language": "Vue",
+            "stars_today": "3,972 stars this week"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "7,664",
+            "forks": "1,013",
+            "language": "TypeScript",
+            "stars_today": "3,675 stars this week"
+        },
+        {
+            "zh_des": "创造魔法故事！",
+            "url": "https://github.com/HVision-NKU/StoryDiffusion",
+            "name": "HVision-NKU /StoryDiffusion",
+            "description": "Create Magic Story!",
+            "stars": "4,524",
+            "forks": "397",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,873 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：在火炬中为真实世界的机器人提供最先进的机器学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch",
+            "stars": "3,015",
+            "forks": "204",
+            "language": "Python",
+            "stars_today": "1,830 stars this week"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "33,609",
+            "forks": "2,160",
+            "language": "TypeScript",
+            "stars_today": "2,655 stars this week"
+        },
+        {
+            "zh_des": "Kolmogorov-Arnold网络(KAN)的一种高效的纯PyTorch实现。",
+            "url": "https://github.com/Blealtan/efficient-kan",
+            "name": "Blealtan /efficient-kan",
+            "description": "An efficient pure-PyTorch implementation of Kolmogorov-Arnold Network (KAN).",
+            "stars": "2,351",
+            "forks": "199",
+            "language": "Python",
+            "stars_today": "610 stars this week"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "13,609",
+            "forks": "1,121",
+            "language": "HTML",
+            "stars_today": "2,611 stars this week"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "9,838",
+            "forks": "1,847",
+            "language": "Jupyter Notebook",
+            "stars_today": "758 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "10,589",
+            "forks": "1,296",
+            "language": "Python",
+            "stars_today": "1,231 stars this week"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "21,787",
+            "forks": "2,251",
+            "language": "Svelte",
+            "stars_today": "2,363 stars this week"
+        },
+        {
+            "zh_des": "使用LLMS和计算机视觉自动执行基于浏览器的工作流",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "4,909",
+            "forks": "336",
+            "language": "Python",
+            "stars_today": "828 stars this week"
+        },
+        {
+            "zh_des": "Https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
+            "url": "https://github.com/AtotheY/saas-landingpage",
+            "name": "AtotheY /saas-landingpage",
+            "description": "https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
+            "stars": "693",
+            "forks": "87",
+            "language": "TypeScript",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "12,536",
+            "forks": "1,905",
+            "language": "Python",
+            "stars_today": "1,568 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "14,672",
+            "forks": "1,142",
+            "language": "Python",
+            "stars_today": "575 stars this week"
+        },
+        {
+            "zh_des": "基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择GPT3.5/GPT4.0/懒人百宝箱(后续会支持更多平台)，能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业AI应用.",
+            "url": "https://github.com/cs-lazy-tools/ChatGPT-On-CS",
+            "name": "cs-lazy-tools /ChatGPT-On-CS",
+            "description": "基于大模型的智能对话客服工具，支持微信、千牛、哔哩哔哩、抖音企业号、抖音、抖店、微博聊天、小红书专业号运营、小红书、知乎等平台接入，可选择 GPT3.5/GPT4.0/ 懒人百宝箱 （后续会支持更多平台），能处理文本、语音和图片，通过插件访问操作系统和互联网等外部资源，支持基于自有知识库定制企业 AI 应用。",
+            "stars": "1,290",
+            "forks": "129",
+            "language": "TypeScript",
+            "stars_today": "433 stars this week"
+        },
+        {
+            "zh_des": "蚂蚁游戏引擎",
+            "url": "https://github.com/ejoy/ant",
+            "name": "ejoy /ant",
+            "description": "Ant game engine",
+            "stars": "3,593",
+            "forks": "357",
+            "language": "Lua",
+            "stars_today": "300 stars this week"
+        },
+        {
+            "zh_des": "一款基于浏览器的精灵宝可梦Fangame，灵感来自流氓风格。",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "A browser based Pokémon fangame heavily inspired by the roguelite genre.",
+            "stars": "1,832",
+            "forks": "773",
+            "language": "TypeScript",
+            "stars_today": "539 stars this week"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "35,981",
+            "forks": "4,557",
+            "language": "Python",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "28,599",
+            "forks": "2,978",
+            "language": "Python",
+            "stars_today": "1,582 stars this week"
+        },
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "34,315",
+            "forks": "1,690",
+            "language": "Rust",
+            "stars_today": "914 stars this week"
+        },
+        {
+            "zh_des": "几何精确辐射场的二维高斯飞溅",
+            "url": "https://github.com/hbb1/2d-gaussian-splatting",
+            "name": "hbb1 /2d-gaussian-splatting",
+            "description": "[SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+            "stars": "1,013",
+            "forks": "36",
+            "language": "Python",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "26,099",
+            "forks": "1,844",
+            "language": "Java",
+            "stars_today": "1,074 stars this week"
+        },
+        {
+            "zh_des": "XFeat的实施(CVPR 2024)。您是否需要健壮且快速的局部特征提取？你来对地方了！",
+            "url": "https://github.com/verlab/accelerated_features",
+            "name": "verlab /accelerated_features",
+            "description": "Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!",
+            "stars": "556",
+            "forks": "42",
+            "language": "Jupyter Notebook",
+            "stars_today": "148 stars this week"
+        }
+    ]
+}
