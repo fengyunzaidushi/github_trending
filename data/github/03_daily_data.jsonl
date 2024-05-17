@@ -2284,3 +2284,257 @@
         }
     ]
 }
+{
+    "05月17日": [
+        {
+            "zh_des": "一个由Bilibili用户评论微调的本地聊天机器人。",
+            "url": "https://github.com/linyiLYi/bilibot",
+            "name": "linyiLYi /bilibot",
+            "description": "A local chatbot fine-tuned by bilibili user comments.",
+            "stars": "2,192",
+            "forks": "245",
+            "language": "Python",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "浑源-DIT：一种支持细粒度中文理解的强大多分辨率扩散转换器",
+            "url": "https://github.com/Tencent/HunyuanDiT",
+            "name": "Tencent /HunyuanDiT",
+            "description": "Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+            "stars": "1,327",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "255 stars today"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "7,815",
+            "forks": "1,102",
+            "language": "Python",
+            "stars_today": "1,117 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "36,082",
+            "forks": "4,570",
+            "language": "Python",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信 公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "25,671",
+            "forks": "6,978",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "50,814",
+            "forks": "6,160",
+            "language": "Python",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "这是GLaDOS的个性核心，是Valve从门户系列实现AI的第一步。",
+            "url": "https://github.com/dnhkng/GlaDOS",
+            "name": "dnhkng /GlaDOS",
+            "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+            "stars": "2,448",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "35,034",
+            "forks": "22,856",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "1,744",
+            "forks": "134",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "365",
+            "forks": "50",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "OpenAI API的官方Python库",
+            "url": "https://github.com/openai/openai-python",
+            "name": "openai /openai-python",
+            "description": "The official Python library for the OpenAI API",
+            "stars": "20,247",
+            "forks": "2,740",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "58,072",
+            "forks": "13,094",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/joaomdmoura/crewAI",
+            "name": "joaomdmoura /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "14,240",
+            "forks": "1,868",
+            "language": "Python",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "126,190",
+            "forks": "24,986",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "开源，准确和易于使用的视频语音识别和剪辑工具，基于LLM的AI剪辑集成。",
+            "url": "https://github.com/alibaba-damo-academy/FunClip",
+            "name": "alibaba-damo-academy /FunClip",
+            "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+            "stars": "1,709",
+            "forks": "172",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,153",
+            "forks": "6,538",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "37,082",
+            "forks": "3,985",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "52,386",
+            "forks": "3,825",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "每个人都可以为活动编写代码(美国版)",
+            "url": "https://github.com/microsoft/EveryoneCanCode-US",
+            "name": "microsoft /EveryoneCanCode-US",
+            "description": "Everyone Can Code Event (U.S. Edition)",
+            "stars": "60",
+            "forks": "136",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "TikToken是一种用于OpenAI模型的快速BPE标记器。",
+            "url": "https://github.com/openai/tiktoken",
+            "name": "openai /tiktoken",
+            "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+            "stars": "10,369",
+            "forks": "702",
+            "language": "Python",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "AlphaFold 2的可训练、高效内存和对GPU友好的PyTorch复制",
+            "url": "https://github.com/aqlaboratory/openfold",
+            "name": "aqlaboratory /openfold",
+            "description": "Trainable, memory-efficient, and GPU-friendly PyTorch reproduction of AlphaFold 2",
+            "stars": "2,491",
+            "forks": "449",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "一个用于培训、服务和评估大型语言模型的开放平台。发布对维库纳和聊天机器人竞技场的回购。",
+            "url": "https://github.com/lm-sys/FastChat",
+            "name": "lm-sys /FastChat",
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "stars": "34,703",
+            "forks": "4,256",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "用于代理监控、LLM成本跟踪、基准测试等的开源PythonSDK。与大多数LLM和代理框架集成，如CrewAI、Lang Chain和Autogen",
+            "url": "https://github.com/AgentOps-AI/agentops",
+            "name": "AgentOps-AI /agentops",
+            "description": "Open source Python SDK for agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks like CrewAI, Langchain, and Autogen",
+            "stars": "697",
+            "forks": "49",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "29,451",
+            "forks": "2,189",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "LlamaIndex是您的LLM应用程序的数据框架",
+            "url": "https://github.com/run-llama/llama_index",
+            "name": "run-llama /llama_index",
+            "description": "LlamaIndex is a data framework for your LLM applications",
+            "stars": "31,728",
+            "forks": "4,340",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        }
+    ]
+}
