@@ -3046,3 +3046,257 @@
         }
     ]
 }
+{
+    "05月18日": [
+        {
+            "zh_des": "自托管仪表板，可将所有提要放在一个位置",
+            "url": "https://github.com/glanceapp/glance",
+            "name": "glanceapp /glance",
+            "description": "A self-hosted dashboard that puts all your feeds in one place",
+            "stars": "4,817",
+            "forks": "136",
+            "language": "Go",
+            "stars_today": "3,739 stars this week"
+        },
+        {
+            "zh_des": "🔮ChatGPT桌面应用程序(Mac、Windows和LINUX)",
+            "url": "https://github.com/lencx/ChatGPT",
+            "name": "lencx /ChatGPT",
+            "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+            "stars": "49,733",
+            "forks": "5,600",
+            "language": "Rust",
+            "stars_today": "1,526 stars this week"
+        },
+        {
+            "zh_des": "TimesFM(Time Series Foundation Model，时间序列基础模型)是Google Research开发的用于时间序列预测的预先训练的时间序列基础模型。",
+            "url": "https://github.com/google-research/timesfm",
+            "name": "google-research /timesfm",
+            "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+            "stars": "2,126",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "1,220 stars this week"
+        },
+        {
+            "zh_des": "更多的重新照明！",
+            "url": "https://github.com/lllyasviel/IC-Light",
+            "name": "lllyasviel /IC-Light",
+            "description": "More relighting!",
+            "stars": "3,126",
+            "forks": "182",
+            "language": "Python",
+            "stars_today": "1,602 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "16,016",
+            "forks": "1,851",
+            "language": "Vue",
+            "stars_today": "3,648 stars this week"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "9,916",
+            "forks": "1,855",
+            "language": "Jupyter Notebook",
+            "stars_today": "754 stars this week"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "24,038",
+            "forks": "2,249",
+            "language": "TypeScript",
+            "stars_today": "705 stars this week"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "36,180",
+            "forks": "4,589",
+            "language": "Python",
+            "stars_today": "761 stars this week"
+        },
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": "22,232",
+            "forks": "2,309",
+            "language": "Svelte",
+            "stars_today": "2,380 stars this week"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "7,859",
+            "forks": "1,067",
+            "language": "TypeScript",
+            "stars_today": "3,319 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "12,662",
+            "forks": "1,916",
+            "language": "Python",
+            "stars_today": "1,399 stars this week"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "13,989",
+            "forks": "1,168",
+            "language": "HTML",
+            "stars_today": "2,147 stars this week"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "8,591",
+            "forks": "604",
+            "language": "Python",
+            "stars_today": "2,272 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "2,352",
+            "forks": "155",
+            "language": "Jupyter Notebook",
+            "stars_today": "537 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "25,815",
+            "forks": "7,007",
+            "language": "Python",
+            "stars_today": "471 stars this week"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "7,573",
+            "forks": "1,039",
+            "language": "Python",
+            "stars_today": "487 stars this week"
+        },
+        {
+            "zh_des": "开源，准确和易于使用的视频语音识别和剪辑工具，基于LLM的AI剪辑集成。",
+            "url": "https://github.com/alibaba-damo-academy/FunClip",
+            "name": "alibaba-damo-academy /FunClip",
+            "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+            "stars": "1,752",
+            "forks": "174",
+            "language": "Python",
+            "stars_today": "779 stars this week"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "70,023",
+            "forks": "56,151",
+            "language": "TypeScript",
+            "stars_today": "1,001 stars this week"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "30,573",
+            "forks": "2,827",
+            "language": "C#",
+            "stars_today": "539 stars this week"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "26,486",
+            "forks": "1,879",
+            "language": "Java",
+            "stars_today": "1,087 stars this week"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "14,361",
+            "forks": "1,487",
+            "language": "JavaScript",
+            "stars_today": "1,253 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "14,716",
+            "forks": "1,143",
+            "language": "Python",
+            "stars_today": "489 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "10,825",
+            "forks": "1,320",
+            "language": "Python",
+            "stars_today": "896 stars this week"
+        },
+        {
+            "zh_des": "🤖Dependabot创建更新公关的核心逻辑。",
+            "url": "https://github.com/dependabot/dependabot-core",
+            "name": "dependabot /dependabot-core",
+            "description": "🤖 Dependabot's core logic for creating update PR's.",
+            "stars": "4,341",
+            "forks": "901",
+            "language": "Ruby",
+            "stars_today": "443 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "29,493",
+            "forks": "2,191",
+            "language": "Python",
+            "stars_today": "275 stars this week"
+        }
+    ]
+}
