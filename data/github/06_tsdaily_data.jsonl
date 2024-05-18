@@ -2792,3 +2792,257 @@
         }
     ]
 }
+{
+    "05月18日": [
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "23,947",
+            "forks": "2,241",
+            "language": "TypeScript",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "8,474",
+            "forks": "970",
+            "language": "TypeScript",
+            "stars_today": "1,316 stars today"
+        },
+        {
+            "zh_des": "Reaction的声明性路由",
+            "url": "https://github.com/remix-run/react-router",
+            "name": "remix-run /react-router",
+            "description": "Declarative routing for React",
+            "stars": "52,064",
+            "forks": "10,148",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "40,591",
+            "forks": "4,367",
+            "language": "TypeScript",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "33,220",
+            "forks": "3,425",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Oblivion Desktop-Windows/Mac/Linux的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion-desktop",
+            "name": "bepass-org /oblivion-desktop",
+            "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+            "stars": "1,264",
+            "forks": "152",
+            "language": "TypeScript",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "建立更好的网站。使用Web基础知识创建现代化、弹性强的用户体验。",
+            "url": "https://github.com/remix-run/remix",
+            "name": "remix-run /remix",
+            "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+            "stars": "27,998",
+            "forks": "2,358",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "JITSI Meet-安全、简单且可扩展的视频会议，您可以将其用作独立应用程序或嵌入您的Web应用程序中。",
+            "url": "https://github.com/jitsi/jitsi-meet",
+            "name": "jitsi /jitsi-meet",
+            "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+            "stars": "21,807",
+            "forks": "6,524",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "31,092",
+            "forks": "7,286",
+            "language": "TypeScript",
+            "stars_today": "231 stars today"
+        },
+        {
+            "zh_des": "OpenAPI/swagger文件✨中精美的API引用",
+            "url": "https://github.com/scalar/scalar",
+            "name": "scalar /scalar",
+            "description": "Beautiful API references from OpenAPI/Swagger files ✨",
+            "stars": "4,082",
+            "forks": "108",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "62,272",
+            "forks": "3,347",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Groq、Mixtral、Langchain、OpenAI、Brave&Serper构建一个以困惑为灵感的答案引擎",
+            "url": "https://github.com/developersdigest/llm-answer-engine",
+            "name": "developersdigest /llm-answer-engine",
+            "description": "Build a Perplexity-Inspired Answer Engine Using Next.js, Groq, Mixtral, Langchain, OpenAI, Brave & Serper",
+            "stars": "3,984",
+            "forks": "632",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "每一位模特的AI聊天。",
+            "url": "https://github.com/mckaywrigley/chatbot-ui",
+            "name": "mckaywrigley /chatbot-ui",
+            "description": "AI chat for every model.",
+            "stars": "26,617",
+            "forks": "7,332",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "59,465",
+            "forks": "12,708",
+            "language": "TypeScript",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "69,988",
+            "forks": "56,125",
+            "language": "TypeScript",
+            "stars_today": "183 stars today"
+        },
+        {
+            "zh_des": "雅典娜危机是一款以现代复古回合为基础的战术战略游戏。雅典娜危机是开放的核心技术。",
+            "url": "https://github.com/nkzw-tech/athena-crisis",
+            "name": "nkzw-tech /athena-crisis",
+            "description": "Athena Crisis is a modern-retro turn-based tactical strategy game. Athena Crisis is open core technology.",
+            "stars": "664",
+            "forks": "40",
+            "language": "TypeScript",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "TypeSpec",
+            "url": "https://github.com/microsoft/typespec",
+            "name": "microsoft /typespec",
+            "description": "TypeSpec",
+            "stars": "3,180",
+            "forks": "152",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、LINEAR和ASANA替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "24,543",
+            "forks": "1,315",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "用于Chrome的Node.js API",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "name": "puppeteer /puppeteer",
+            "description": "Node.js API for Chrome",
+            "stars": "87,012",
+            "forks": "8,981",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "41,252",
+            "forks": "5,179",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Bingo，一个让你呼吸顺畅新Bing。",
+            "url": "https://github.com/weaigc/bingo",
+            "name": "weaigc /bingo",
+            "description": "Bingo，一个让你呼吸顺畅 New Bing。",
+            "stars": "2,559",
+            "forks": "1,030",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "29,579",
+            "forks": "4,696",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "7,960",
+            "forks": "1,060",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为LLm-Ready降价",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown",
+            "stars": "3,055",
+            "forks": "256",
+            "language": "TypeScript",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "90,437",
+            "forks": "46,440",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}

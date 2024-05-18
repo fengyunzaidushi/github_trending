@@ -2792,3 +2792,257 @@
         }
     ]
 }
+{
+    "05月18日": [
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "2,312",
+            "forks": "149",
+            "language": "Jupyter Notebook",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "1,111",
+            "forks": "478",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "3,129",
+            "forks": "381",
+            "language": "Jupyter Notebook",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "Web交互代理👀的视觉实用程序",
+            "url": "https://github.com/reworkd/tarsier",
+            "name": "reworkd /tarsier",
+            "description": "Vision utilities for web interaction agents 👀",
+            "stars": "983",
+            "forks": "47",
+            "language": "Jupyter Notebook",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "仅使用免费开源工具制作数据集和高效微调",
+            "url": "https://github.com/severian42/Vodalus-Expert-LLM-Forge",
+            "name": "severian42 /Vodalus-Expert-LLM-Forge",
+            "description": "Dataset Crafting and Efficient Fine-Tuning Using Only Free Open-Source Tools",
+            "stars": "90",
+            "forks": "13",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "FastKAN：Kolmogorov-Arnold网络(KAN)的快速实现",
+            "url": "https://github.com/ZiyaoLi/fast-kan",
+            "name": "ZiyaoLi /fast-kan",
+            "description": "FastKAN: Very Fast Implementation of Kolmogorov-Arnold Networks (KAN)",
+            "stars": "160",
+            "forks": "12",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "用于📚™的OpenVINO Jupyter笔记本电脑教程",
+            "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+            "name": "openvinotoolkit /openvino_notebooks",
+            "description": "📚 Jupyter notebook tutorials for OpenVINO™",
+            "stars": "2,007",
+            "forks": "717",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,385",
+            "forks": "734",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "2,768",
+            "forks": "196",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,312",
+            "forks": "2,839",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,098",
+            "forks": "355",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,846",
+            "forks": "8,087",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "该项目将Kolmogorov-Arnold Networks(KAN)的创新体系结构的思想扩展到卷积层，将卷积的经典线性变换改变为每个像素中可学习的非线性激活。",
+            "url": "https://github.com/AntonioTepsich/Convolutional-KANs",
+            "name": "AntonioTepsich /Convolutional-KANs",
+            "description": "This project extends the idea of the innovative architecture of Kolmogorov-Arnold Networks (KAN) to the Convolutional Layers, changing the classic linear transformation of the convolution to learnable non linear activations in each pixel.",
+            "stars": "245",
+            "forks": "23",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "《使用PyTorch进行现代深度学习的基础》研讨会的教程材料",
+            "url": "https://github.com/rasbt/pycon2024",
+            "name": "rasbt /pycon2024",
+            "description": "Tutorial Materials for \"The Fundamentals of Modern Deep Learning with PyTorch\" workshop at PyCon 2024",
+            "stars": "174",
+            "forks": "36",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "全堆栈SolarLLm零到所有",
+            "url": "https://github.com/hunkim/SolarLLMZeroToAll",
+            "name": "hunkim /SolarLLMZeroToAll",
+            "description": "Full Stack SolarLLM Zero to All",
+            "stars": "140",
+            "forks": "25",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用于开发Vision Transformer、SigLIP、MLP-Mixer、Lit等的官方代码库。",
+            "url": "https://github.com/google-research/big_vision",
+            "name": "google-research /big_vision",
+            "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+            "stars": "1,718",
+            "forks": "115",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "主要人工智能会议的录取率",
+            "url": "https://github.com/lixin4ever/Conference-Acceptance-Rate",
+            "name": "lixin4ever /Conference-Acceptance-Rate",
+            "description": "Acceptance rates for the major AI conferences",
+            "stars": "3,870",
+            "forks": "286",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "31,702",
+            "forks": "5,143",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,727",
+            "forks": "2,063",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "该存储库包含客户开始使用Amazon Bedock Service的示例。其中包含所有可用基础模型的示例",
+            "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+            "name": "aws-samples /amazon-bedrock-samples",
+            "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+            "stars": "278",
+            "forks": "137",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "量化研究-券商金工研报复现",
+            "url": "https://github.com/hugo2046/QuantsPlaybook",
+            "name": "hugo2046 /QuantsPlaybook",
+            "description": "量化研究-券商金工研报复现",
+            "stars": "2,193",
+            "forks": "616",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,433",
+            "forks": "83,524",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Fastai深度学习图书馆",
+            "url": "https://github.com/fastai/fastai",
+            "name": "fastai /fastai",
+            "description": "The fastai deep learning library",
+            "stars": "25,693",
+            "forks": "7,519",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "官方社区驱动的Azure机器学习示例，使用GitHub操作进行了测试。",
+            "url": "https://github.com/Azure/azureml-examples",
+            "name": "Azure /azureml-examples",
+            "description": "Official community-driven Azure Machine Learning examples, tested with GitHub Actions.",
+            "stars": "1,594",
+            "forks": "1,271",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一种用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "17,622",
+            "forks": "965",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        }
+    ]
+}
