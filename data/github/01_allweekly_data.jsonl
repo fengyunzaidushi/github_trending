@@ -4062,3 +4062,257 @@
         }
     ]
 }
+{
+    "05月20日": [
+        {
+            "zh_des": "用于将N64游戏静态重新编译为本机可执行文件的工具",
+            "url": "https://github.com/N64Recomp/N64Recomp",
+            "name": "N64Recomp /N64Recomp",
+            "description": "Tool to statically recompile N64 games into native executables",
+            "stars": "5,151",
+            "forks": "310",
+            "language": "C++",
+            "stars_today": "4,204 stars this week"
+        },
+        {
+            "zh_des": "在PC(Windows/Linux)上静态重新编译Majora‘s MASK(以及即将推出的Ocarina of Time)",
+            "url": "https://github.com/Zelda64Recomp/Zelda64Recomp",
+            "name": "Zelda64Recomp /Zelda64Recomp",
+            "description": "Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux)",
+            "stars": "3,951",
+            "forks": "201",
+            "language": "C++",
+            "stars_today": "2,604 stars this week"
+        },
+        {
+            "zh_des": "🔮ChatGPT桌面应用程序(Mac、Windows和LINUX)",
+            "url": "https://github.com/lencx/ChatGPT",
+            "name": "lencx /ChatGPT",
+            "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+            "stars": "50,219",
+            "forks": "5,642",
+            "language": "Rust",
+            "stars_today": "2,854 stars this week"
+        },
+        {
+            "zh_des": "自托管仪表板，可将所有提要放在一个位置",
+            "url": "https://github.com/glanceapp/glance",
+            "name": "glanceapp /glance",
+            "description": "A self-hosted dashboard that puts all your feeds in one place",
+            "stars": "5,051",
+            "forks": "147",
+            "language": "Go",
+            "stars_today": "3,405 stars this week"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "24,326",
+            "forks": "2,269",
+            "language": "TypeScript",
+            "stars_today": "1,251 stars this week"
+        },
+        {
+            "zh_des": "TimesFM(Time Series Foundation Model，时间序列基础模型)是Google Research开发的用于时间序列预测的预先训练的时间序列基础模型。",
+            "url": "https://github.com/google-research/timesfm",
+            "name": "google-research /timesfm",
+            "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+            "stars": "2,307",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "1,019 stars this week"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "10,022",
+            "forks": "1,880",
+            "language": "Jupyter Notebook",
+            "stars_today": "768 stars this week"
+        },
+        {
+            "zh_des": "Readmeeste projetoéo前端de um applicativo estinado a Auxiliar na Organização e Distribuição de Subrimentos，além de coordenar voltários duante os alagamentos no Rio Grande do Sul",
+            "url": "https://github.com/SOS-RS/frontend",
+            "name": "SOS-RS /frontend",
+            "description": "READMEEste projeto é o frontend de um aplicativo destinado a auxiliar na organização e distribuição de suprimentos, além de coordenar voluntários durante os alagamentos no Rio Grande do Sul",
+            "stars": "556",
+            "forks": "326",
+            "language": "TypeScript",
+            "stars_today": "348 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "2,479",
+            "forks": "167",
+            "language": "Jupyter Notebook",
+            "stars_today": "681 stars this week"
+        },
+        {
+            "zh_des": "RT64是一种N64图形渲染器，用于在模拟器和本机端口中使用增强功能。",
+            "url": "https://github.com/rt64/rt64",
+            "name": "rt64 /rt64",
+            "description": "RT64 is an N64 graphics renderer for playing with enhancements in emulators and native ports.",
+            "stars": "781",
+            "forks": "35",
+            "language": "C++",
+            "stars_today": "444 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "25,966",
+            "forks": "7,034",
+            "language": "Python",
+            "stars_today": "581 stars this week"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "36,273",
+            "forks": "4,602",
+            "language": "Python",
+            "stars_today": "796 stars this week"
+        },
+        {
+            "zh_des": "AutoGroq？",
+            "url": "https://github.com/jgravelle/AutoGroq",
+            "name": "jgravelle /AutoGroq",
+            "description": "AutoGroq?",
+            "stars": "798",
+            "forks": "292",
+            "language": "Python",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "77,798",
+            "forks": "5,378",
+            "language": "Vim Script",
+            "stars_today": "456 stars this week"
+        },
+        {
+            "zh_des": "🤖Dependabot创建更新公关的核心逻辑。",
+            "url": "https://github.com/dependabot/dependabot-core",
+            "name": "dependabot /dependabot-core",
+            "description": "🤖 Dependabot's core logic for creating update PR's.",
+            "stars": "4,379",
+            "forks": "905",
+            "language": "Ruby",
+            "stars_today": "481 stars this week"
+        },
+        {
+            "zh_des": "一款基于浏览器的精灵宝可梦Fangame，灵感来自流氓风格。",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "A browser based Pokémon fangame heavily inspired by the roguelite genre.",
+            "stars": "2,147",
+            "forks": "912",
+            "language": "TypeScript",
+            "stars_today": "514 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,008",
+            "forks": "1,332",
+            "language": "Python",
+            "stars_today": "712 stars this week"
+        },
+        {
+            "zh_des": "KawaiLogos",
+            "url": "https://github.com/SAWARATSUKI/KawaiiLogos",
+            "name": "SAWARATSUKI /KawaiiLogos",
+            "description": "KawaiiLogos",
+            "stars": "2,050",
+            "forks": "65",
+            "language": "",
+            "stars_today": "622 stars this week"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "30,662",
+            "forks": "2,830",
+            "language": "C#",
+            "stars_today": "573 stars this week"
+        },
+        {
+            "zh_des": "更多的重新照明！",
+            "url": "https://github.com/lllyasviel/IC-Light",
+            "name": "lllyasviel /IC-Light",
+            "description": "More relighting!",
+            "stars": "3,240",
+            "forks": "194",
+            "language": "Python",
+            "stars_today": "681 stars this week"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "26,989",
+            "forks": "1,902",
+            "language": "Java",
+            "stars_today": "1,041 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "8,335",
+            "forks": "1,200",
+            "language": "Python",
+            "stars_today": "2,443 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "10,446",
+            "forks": "1,098",
+            "language": "Python",
+            "stars_today": "317 stars this week"
+        },
+        {
+            "zh_des": "A跨平台ChatGPT/Gemini UI(Web/PWA/Linux/Win/MacOS)。一键拥有你自己的跨平台聊天GPT/Gemini应用。",
+            "url": "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+            "name": "ChatGPTNextWeb /ChatGPT-Next-Web",
+            "description": "A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。",
+            "stars": "70,165",
+            "forks": "56,232",
+            "language": "TypeScript",
+            "stars_today": "1,022 stars this week"
+        },
+        {
+            "zh_des": "Oblivion Desktop-Windows/Mac/Linux的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion-desktop",
+            "name": "bepass-org /oblivion-desktop",
+            "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+            "stars": "1,918",
+            "forks": "228",
+            "language": "TypeScript",
+            "stars_today": "998 stars this week"
+        }
+    ]
+}

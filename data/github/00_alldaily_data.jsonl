@@ -4062,3 +4062,257 @@
         }
     ]
 }
+{
+    "05月20日": [
+        {
+            "zh_des": "一种大规模并行的高级编程语言",
+            "url": "https://github.com/HigherOrderCO/Bend",
+            "name": "HigherOrderCO /Bend",
+            "description": "A massively parallel, high-level programming language",
+            "stars": "11,020",
+            "forks": "274",
+            "language": "Rust",
+            "stars_today": "2,682 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "77,797",
+            "forks": "5,378",
+            "language": "Vim Script",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "现代最简约的JS精通组合",
+            "url": "https://github.com/adrianhajdin/portfolio",
+            "name": "adrianhajdin /portfolio",
+            "description": "Modern & Minimal JS Mastery Portfolio",
+            "stars": "499",
+            "forks": "94",
+            "language": "TypeScript",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "PPPwn-PlayStation 4 PPPoE RCE",
+            "url": "https://github.com/TheOfficialFloW/PPPwn",
+            "name": "TheOfficialFloW /PPPwn",
+            "description": "PPPwn - PlayStation 4 PPPoE RCE",
+            "stars": "2,039",
+            "forks": "311",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "使用HWID/OHOOK/KMS38/Online KMS激活方法的Windows和Office激活器，重点关注开源代码和较少的防病毒检测。",
+            "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+            "name": "massgravel /Microsoft-Activation-Scripts",
+            "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+            "stars": "79,413",
+            "forks": "7,740",
+            "language": "Batchfile",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "欢迎来到INITA，交织卷的网络",
+            "url": "https://github.com/initia-labs/initia",
+            "name": "initia-labs /initia",
+            "description": "Welcome to Initia, a Network for Interwoven Rollups",
+            "stars": "72",
+            "forks": "96",
+            "language": "Go",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "LayerZero Sybil报告如何报告Sybil已过自我报告的截止日期",
+            "url": "https://github.com/LayerZero-Labs/sybil-report",
+            "name": "LayerZero-Labs /sybil-report",
+            "description": "LayerZero Sybil ReportingHow to ReportThe deadline to self-report as sybil has passed",
+            "stars": "235",
+            "forks": "160",
+            "language": "",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可实现抓取、抓取、搜索和提取功能。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+            "stars": "3,654",
+            "forks": "281",
+            "language": "TypeScript",
+            "stars_today": "263 stars today"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "1,412",
+            "forks": "197",
+            "language": "Rust",
+            "stars_today": "498 stars today"
+        },
+        {
+            "zh_des": "📚图书馆的基本知识是程序。",
+            "url": "https://github.com/KAYOKG/BibliotecaDev",
+            "name": "KAYOKG /BibliotecaDev",
+            "description": "📚 Biblioteca de livros essenciais da área da programação.",
+            "stars": "2,206",
+            "forks": "397",
+            "language": "",
+            "stars_today": "277 stars today"
+        },
+        {
+            "zh_des": "用Java实现的设计模式",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "name": "iluwatar /java-design-patterns",
+            "description": "Design patterns implemented in Java",
+            "stars": "86,937",
+            "forks": "25,982",
+            "language": "Java",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "一个简单，易于使用的PowerShell脚本，可以从Windows中删除臃肿的软件应用程序，禁用遥测，在Windows搜索中使用必应，以及执行各种其他更改来清理和改善您的Windows体验。此脚本适用于Windows 10和Windows 11。",
+            "url": "https://github.com/Raphire/Win11Debloat",
+            "name": "Raphire /Win11Debloat",
+            "description": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+            "stars": "3,151",
+            "forks": "151",
+            "language": "PowerShell",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "Rust中的大规模并行、优化的函数运行时",
+            "url": "https://github.com/HigherOrderCO/HVM",
+            "name": "HigherOrderCO /HVM",
+            "description": "A massively parallel, optimal functional runtime in Rust",
+            "stars": "9,531",
+            "forks": "351",
+            "language": "Cuda",
+            "stars_today": "681 stars today"
+        },
+        {
+            "zh_des": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "stars": "16,595",
+            "forks": "1,523",
+            "language": "Jupyter Notebook",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "🔍AI搜索引擎-具有本地或云LLM的自托管",
+            "url": "https://github.com/rashadphz/farfalle",
+            "name": "rashadphz /farfalle",
+            "description": "🔍 ai search engine - self-host with local or cloud LLMs",
+            "stars": "589",
+            "forks": "49",
+            "language": "TypeScript",
+            "stars_today": "294 stars today"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "13,472",
+            "forks": "902",
+            "language": "Lua",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "适用于基于ESP8266和ESP32的设备的替代固件，具有使用WebUI、OTA更新、使用定时器或规则的自动化、可扩展性以及对MQTT、HTTP、Serial或KNX的完全本地控制的轻松配置。完整文档，请访问",
+            "url": "https://github.com/arendst/Tasmota",
+            "name": "arendst /Tasmota",
+            "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+            "stars": "21,499",
+            "forks": "4,686",
+            "language": "C",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Kodi是一款屡获殊荣的免费开源家庭影院/媒体中心软件和数字媒体娱乐中心。凭借其漂亮的界面和强大的皮肤引擎，它可以支持Android、BSD、Linux、MacOS、iOS、TVOS和Windows。",
+            "url": "https://github.com/xbmc/xbmc",
+            "name": "xbmc /xbmc",
+            "description": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.",
+            "stars": "17,674",
+            "forks": "6,242",
+            "language": "C++",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "🏙用Lua编写的干净、黑暗的Neovim主题，支持LSP、Treester和许多插件。包括凯蒂、阿拉克里蒂、伊特姆和鱼的其他主题。",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "name": "folke /tokyonight.nvim",
+            "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "stars": "5,315",
+            "forks": "351",
+            "language": "Lua",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "Oblivion Desktop-Windows/Mac/Linux的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion-desktop",
+            "name": "bepass-org /oblivion-desktop",
+            "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+            "stars": "1,918",
+            "forks": "228",
+            "language": "TypeScript",
+            "stars_today": "332 stars today"
+        },
+        {
+            "zh_des": "NVIM LSP的快速入门配置",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "name": "neovim /nvim-lspconfig",
+            "description": "Quickstart configs for Nvim LSP",
+            "stars": "9,661",
+            "forks": "2,012",
+            "language": "Lua",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Devon：一位开源的结对程序员",
+            "url": "https://github.com/entropy-research/Devon",
+            "name": "entropy-research /Devon",
+            "description": "Devon: An open-source pair programmer",
+            "stars": "962",
+            "forks": "78",
+            "language": "Python",
+            "stars_today": "220 stars today"
+        },
+        {
+            "zh_des": "Java中实用的Llama 3推理",
+            "url": "https://github.com/mukel/llama3.java",
+            "name": "mukel /llama3.java",
+            "description": "Practical Llama 3 inference in Java",
+            "stars": "132",
+            "forks": "7",
+            "language": "Java",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "3,238",
+            "forks": "353",
+            "language": "Python",
+            "stars_today": "361 stars today"
+        },
+        {
+            "zh_des": "一种基于内核的Android根解决方案",
+            "url": "https://github.com/tiann/KernelSU",
+            "name": "tiann /KernelSU",
+            "description": "A Kernel based root solution for Android",
+            "stars": "8,436",
+            "forks": "1,366",
+            "language": "Kotlin",
+            "stars_today": "16 stars today"
+        }
+    ]
+}
