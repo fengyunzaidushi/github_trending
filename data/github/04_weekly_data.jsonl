@@ -4316,3 +4316,257 @@
         }
     ]
 }
+{
+    "05月21日": [
+        {
+            "zh_des": "TimesFM(Time Series Foundation Model，时间序列基础模型)是Google Research开发的用于时间序列预测的预先训练的时间序列基础模型。",
+            "url": "https://github.com/google-research/timesfm",
+            "name": "google-research /timesfm",
+            "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+            "stars": "2,345",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "709 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "26,033",
+            "forks": "7,038",
+            "language": "Python",
+            "stars_today": "608 stars this week"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "36,299",
+            "forks": "4,607",
+            "language": "Python",
+            "stars_today": "772 stars this week"
+        },
+        {
+            "zh_des": "AutoGroq？",
+            "url": "https://github.com/jgravelle/AutoGroq",
+            "name": "jgravelle /AutoGroq",
+            "description": "AutoGroq?",
+            "stars": "812",
+            "forks": "297",
+            "language": "Python",
+            "stars_today": "276 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,070",
+            "forks": "1,340",
+            "language": "Python",
+            "stars_today": "682 stars this week"
+        },
+        {
+            "zh_des": "更多的重新照明！",
+            "url": "https://github.com/lllyasviel/IC-Light",
+            "name": "lllyasviel /IC-Light",
+            "description": "More relighting!",
+            "stars": "3,277",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "522 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "8,405",
+            "forks": "1,212",
+            "language": "Python",
+            "stars_today": "2,487 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "10,490",
+            "forks": "1,105",
+            "language": "Python",
+            "stars_today": "494 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "12,765",
+            "forks": "1,938",
+            "language": "Python",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "1,839",
+            "forks": "143",
+            "language": "Python",
+            "stars_today": "621 stars this week"
+        },
+        {
+            "zh_des": "Lumina-T2X是用于文本到任何模式生成的统一框架",
+            "url": "https://github.com/Alpha-VLLM/Lumina-T2X",
+            "name": "Alpha-VLLM /Lumina-T2X",
+            "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+            "stars": "1,075",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "477 stars this week"
+        },
+        {
+            "zh_des": "开源，准确和易于使用的视频语音识别和剪辑工具，基于LLM的AI剪辑集成。",
+            "url": "https://github.com/alibaba-damo-academy/FunClip",
+            "name": "alibaba-damo-academy /FunClip",
+            "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+            "stars": "1,956",
+            "forks": "186",
+            "language": "Python",
+            "stars_today": "734 stars this week"
+        },
+        {
+            "zh_des": "概述该存储库包含用于评估语言模型的轻量级库",
+            "url": "https://github.com/openai/simple-evals",
+            "name": "openai /simple-evals",
+            "description": "OverviewThis repository contains a lightweight library for evaluating language models",
+            "stars": "1,200",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "6,879",
+            "forks": "1,137",
+            "language": "Python",
+            "stars_today": "302 stars this week"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "72,540",
+            "forks": "5,766",
+            "language": "Python",
+            "stars_today": "703 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "659",
+            "forks": "48",
+            "language": "Python",
+            "stars_today": "291 stars this week"
+        },
+        {
+            "zh_des": "《生物分子与AlphaFold3相互作用的精确结构预测》一文中的Alpha Fold3在PyTorch中的实现",
+            "url": "https://github.com/kyegomez/AlphaFold3",
+            "name": "kyegomez /AlphaFold3",
+            "description": "Implementation of Alpha Fold 3 from the paper: \"Accurate structure prediction of biomolecular interactions with AlphaFold3\" in PyTorch",
+            "stars": "539",
+            "forks": "61",
+            "language": "Python",
+            "stars_today": "87 stars this week"
+        },
+        {
+            "zh_des": "开始以更轻松的方式构建支持LLM的多代理应用程序。",
+            "url": "https://github.com/modelscope/agentscope",
+            "name": "modelscope /agentscope",
+            "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+            "stars": "2,359",
+            "forks": "146",
+            "language": "Python",
+            "stars_today": "447 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "51,535",
+            "forks": "6,254",
+            "language": "Python",
+            "stars_today": "1,133 stars this week"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "1,846",
+            "forks": "329",
+            "language": "Python",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,299",
+            "forks": "6,588",
+            "language": "Python",
+            "stars_today": "180 stars this week"
+        },
+        {
+            "zh_des": "Indqx PDF翻訳概要ローカル版のインストールコードの実行Indqx PDF翻訳は、2024年5月31までWebにて翻訳サービスを提供していた、PDF翻訳のソースコードです。サービス終了に伴い、索引PDF翻訳を、ローカルで実行可能なコードも提供しています。Indqx PDF翻訳は、pdfのフォーマットを崩さずに、翻訳することができる論文向けpdf翻訳サービスです。以下の機能があります.\n-本文自動認識機能により、論文データの数式やタイトルなどの翻訳不要部分を無視して本文のみを翻訳します。\n-本文認識はブロックの幅、文字数、フォントサイズにより、分析を行います。\n-本文ブロックを認識時、終了記号(",
+            "url": "https://github.com/Mega-Gorilla/Index_PDF_Translation",
+            "name": "Mega-Gorilla /Index_PDF_Translation",
+            "description": "Indqx PDF 翻訳 概要ローカル版のインストールコードの実行Indqx PDF 翻訳は、2024年5月31までwebにて翻訳サービスを提供していた、PDF翻訳のソースコードです。サービス終了に伴い、Index PDF翻訳を、ローカルで実行可能なコードも提供しています。Indqx PDF 翻訳は、PDFのフォーマットを崩さずに、翻訳することができる論文向けPDF翻訳サービスです。以下の機能があります。\n- 本文自動認識機能により、論文データの数式やタイトルなどの翻訳不要部分を無視して本文のみを翻訳します。\n    - 本文認識はブロックの幅、文字数、フォントサイズにより、分析を行います。\n- 本文ブロックを認識時、終了記号(",
+            "stars": "239",
+            "forks": "29",
+            "language": "Python",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "85,419",
+            "forks": "13,206",
+            "language": "Python",
+            "stars_today": "696 stars this week"
+        },
+        {
+            "zh_des": "一种使多模式模型能够操作计算机的框架。",
+            "url": "https://github.com/OthersideAI/self-operating-computer",
+            "name": "OthersideAI /self-operating-computer",
+            "description": "A framework to enable multimodal models to operate a computer.",
+            "stars": "7,592",
+            "forks": "1,005",
+            "language": "Python",
+            "stars_today": "335 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API的官方Python库",
+            "url": "https://github.com/openai/openai-python",
+            "name": "openai /openai-python",
+            "description": "The official Python library for the OpenAI API",
+            "stars": "20,329",
+            "forks": "2,751",
+            "language": "Python",
+            "stars_today": "233 stars this week"
+        }
+    ]
+}
