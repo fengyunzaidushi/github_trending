@@ -4824,3 +4824,257 @@
         }
     ]
 }
+{
+    "05月21日": [
+        {
+            "zh_des": "📚图书馆(Confia o meu novo projeto`SendScriptWhatsapp`)",
+            "url": "https://github.com/KAYOKG/BibliotecaDev",
+            "name": "KAYOKG /BibliotecaDev",
+            "description": "📚 Biblioteca de livros essenciais da área da programação. (Confira o meu novo projeto `SendScriptWhatsapp`)",
+            "stars": "2,694",
+            "forks": "471",
+            "language": "",
+            "stars_today": "312 stars today"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "24,842",
+            "forks": "2,944",
+            "language": "JavaScript",
+            "stars_today": "357 stars today"
+        },
+        {
+            "zh_des": "Llama3实现一次一个矩阵乘法",
+            "url": "https://github.com/naklecha/llama3-from-scratch",
+            "name": "naklecha /llama3-from-scratch",
+            "description": "llama3 implementation one matrix multiplication at a time",
+            "stars": "5,967",
+            "forks": "364",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,709 stars today"
+        },
+        {
+            "zh_des": "Devon：一位开源的结对程序员",
+            "url": "https://github.com/entropy-research/Devon",
+            "name": "entropy-research /Devon",
+            "description": "Devon: An open-source pair programmer",
+            "stars": "1,354",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "384 stars today"
+        },
+        {
+            "zh_des": "一种大规模并行的高级编程语言",
+            "url": "https://github.com/HigherOrderCO/Bend",
+            "name": "HigherOrderCO /Bend",
+            "description": "A massively parallel, high-level programming language",
+            "stars": "12,935",
+            "forks": "318",
+            "language": "Rust",
+            "stars_today": "2,691 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "293,153",
+            "forks": "74,146",
+            "language": "",
+            "stars_today": "432 stars today"
+        },
+        {
+            "zh_des": "FinGPT：开源金融大语言模型！革命性的🔥我们在HuggingFace上发布了训练过的模型。",
+            "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+            "name": "AI4Finance-Foundation /FinGPT",
+            "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+            "stars": "11,851",
+            "forks": "1,683",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "1,839",
+            "forks": "234",
+            "language": "Rust",
+            "stars_today": "463 stars today"
+        },
+        {
+            "zh_des": "🏙用Lua编写的干净、黑暗的Neovim主题，支持LSP、Treester和许多插件。包括凯蒂、阿拉克里蒂、伊特姆和鱼的其他主题。",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "name": "folke /tokyonight.nvim",
+            "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "stars": "5,406",
+            "forks": "355",
+            "language": "Lua",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "10,562",
+            "forks": "1,113",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "新的可引导USB解决方案。",
+            "url": "https://github.com/ventoy/Ventoy",
+            "name": "ventoy /Ventoy",
+            "description": "A new bootable USB solution.",
+            "stars": "58,438",
+            "forks": "3,872",
+            "language": "C",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "多平台自动代理客户端，支持SING-BOX、X光、TUIC、HYRIA、REALITY、特洛伊木马、SSH等。是一个开源、安全、无广告的产品。",
+            "url": "https://github.com/hiddify/hiddify-next",
+            "name": "hiddify /hiddify-next",
+            "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+            "stars": "10,323",
+            "forks": "958",
+            "language": "Dart",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "🔍AI搜索引擎-使用本地或云LLM进行自我托管",
+            "url": "https://github.com/rashadphz/farfalle",
+            "name": "rashadphz /farfalle",
+            "description": "🔍 AI search engine - self-host with local or cloud LLMs",
+            "stars": "852",
+            "forks": "70",
+            "language": "TypeScript",
+            "stars_today": "264 stars today"
+        },
+        {
+            "zh_des": "Oblivion Desktop-Windows/Mac/Linux的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion-desktop",
+            "name": "bepass-org /oblivion-desktop",
+            "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+            "stars": "2,173",
+            "forks": "249",
+            "language": "TypeScript",
+            "stars_today": "286 stars today"
+        },
+        {
+            "zh_des": "一个基于安卓调试接口+百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+            "url": "https://github.com/ZCShou/GoGoGo",
+            "name": "ZCShou /GoGoGo",
+            "description": "一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆",
+            "stars": "1,338",
+            "forks": "212",
+            "language": "Java",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "78,238",
+            "forks": "5,403",
+            "language": "Vim Script",
+            "stars_today": "717 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "172,600",
+            "forks": "22,749",
+            "language": "",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "✨🌱、👯⚡、⚡⚡、🎉⚡、🌱⚡、🐛⚡、⚡一个基于、🎉安全新闻定时推送、先知，安全客，奇安信攻防社区文案、一个基于信息查询、安全新闻定时推送先知，安全客，奇安信攻防社区、文案备案查询、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区备案查询、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、摸鱼日历微步威胁情报查询、手机号归属地查询信息查询、星座查询天气查询、摸鱼日历微步威胁情报查询、手机号归属地查询信息查询、星座查询天气查询、天气查询摸鱼日历。📫，⚡，⚡，🌱，👯，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人",
+            "url": "https://github.com/ngc660sec/NGCBot",
+            "name": "ngc660sec /NGCBot",
+            "description": "一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！",
+            "stars": "1,204",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "27,168",
+            "forks": "1,923",
+            "language": "Java",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "一个简单，易于使用的PowerShell脚本，可以从Windows中删除臃肿的软件应用程序，禁用遥测，在Windows搜索中使用必应，以及执行各种其他更改来清理和改善您的Windows体验。此脚本适用于Windows 10和Windows 11。",
+            "url": "https://github.com/Raphire/Win11Debloat",
+            "name": "Raphire /Win11Debloat",
+            "description": "A simple, easy to use powershell script to remove bloatware apps from windows, disable telemetry, bing in windows search aswell as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+            "stars": "3,493",
+            "forks": "156",
+            "language": "PowerShell",
+            "stars_today": "409 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "51,657",
+            "forks": "6,263",
+            "language": "Python",
+            "stars_today": "206 stars today"
+        },
+        {
+            "zh_des": "Windows下一代反Rookit(ARK)工具。",
+            "url": "https://github.com/BlackINT3/OpenArk",
+            "name": "BlackINT3 /OpenArk",
+            "description": "The Next Generation of Anti-Rookit(ARK) tool for Windows.",
+            "stars": "7,225",
+            "forks": "774",
+            "language": "C++",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "“大语言模型”作者:赵鑫，李军毅，周昆，唐天一，文继荣",
+            "url": "https://github.com/LLMBook-zh/LLMBook-zh.github.io",
+            "name": "LLMBook-zh /LLMBook-zh.github.io",
+            "description": "《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣",
+            "stars": "872",
+            "forks": "65",
+            "language": "",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": "16,341",
+            "forks": "1,864",
+            "language": "C",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "42,027",
+            "forks": "3,361",
+            "language": "JavaScript",
+            "stars_today": "79 stars today"
+        }
+    ]
+}

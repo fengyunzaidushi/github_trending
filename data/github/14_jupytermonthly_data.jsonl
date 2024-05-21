@@ -506,3 +506,257 @@
         }
     ]
 }
+{
+    "05月21日": [
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "9,781",
+            "forks": "1,384",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,239 stars this month"
+        },
+        {
+            "zh_des": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "stars": "16,782",
+            "forks": "1,535",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,738 stars this month"
+        },
+        {
+            "zh_des": "Reposationório do Lab“Contribuindo em Um Projeto Open Source no GitHub”da Digital Innovation One。",
+            "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+            "name": "digitalinnovationone /dio-lab-open-source",
+            "description": "Repositório do lab \"Contribuindo em um Projeto Open Source no GitHub\" da Digital Innovation One.",
+            "stars": "4,505",
+            "forks": "33,302",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,188 stars this month"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "10,120",
+            "forks": "1,902",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,352 stars this month"
+        },
+        {
+            "zh_des": "ScratchRetrival增强生成(RAG)中的RAG是连接LLMS与外部数据源的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "1,114",
+            "forks": "289",
+            "language": "Jupyter Notebook",
+            "stars_today": "448 stars this month"
+        },
+        {
+            "zh_des": "Gemini API的指南和示例的集合。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "A collection of guides and examples for the Gemini API.",
+            "stars": "3,234",
+            "forks": "398",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,238 stars this month"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "7,993",
+            "forks": "1,259",
+            "language": "Jupyter Notebook",
+            "stars_today": "537 stars this month"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "5,748",
+            "forks": "1,396",
+            "language": "Jupyter Notebook",
+            "stars_today": "383 stars this month"
+        },
+        {
+            "zh_des": "《变形金刚》论文的注释实现。",
+            "url": "https://github.com/harvardnlp/annotated-transformer",
+            "name": "harvardnlp /annotated-transformer",
+            "description": "An annotated implementation of the Transformer paper.",
+            "stars": "5,099",
+            "forks": "1,122",
+            "language": "Jupyter Notebook",
+            "stars_today": "163 stars this month"
+        },
+        {
+            "zh_des": "该存储库包含客户开始使用Amazon Bedock Service的示例。其中包含所有可用基础模型的示例",
+            "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+            "name": "aws-samples /amazon-bedrock-samples",
+            "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+            "stars": "281",
+            "forks": "139",
+            "language": "Jupyter Notebook",
+            "stars_today": "64 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "2,552",
+            "forks": "175",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,767 stars this month"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,459",
+            "forks": "83,543",
+            "language": "Jupyter Notebook",
+            "stars_today": "209 stars this month"
+        },
+        {
+            "zh_des": "这个资源库可以帮助您从头开始理解Python。",
+            "url": "https://github.com/Tanu-N-Prabhu/Python",
+            "name": "Tanu-N-Prabhu /Python",
+            "description": "This repository helps you understand python from the scratch.",
+            "stars": "1,149",
+            "forks": "639",
+            "language": "Jupyter Notebook",
+            "stars_today": "94 stars this month"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "6,955",
+            "forks": "3,505",
+            "language": "Jupyter Notebook",
+            "stars_today": "114 stars this month"
+        },
+        {
+            "zh_des": "注重质量的多语音TTS系统",
+            "url": "https://github.com/neonbjb/tortoise-tts",
+            "name": "neonbjb /tortoise-tts",
+            "description": "A multi-voice TTS system trained with an emphasis on quality",
+            "stars": "11,996",
+            "forks": "1,693",
+            "language": "Jupyter Notebook",
+            "stars_today": "309 stars this month"
+        },
+        {
+            "zh_des": "来自我的YouTube频道的一组朗廷教程",
+            "url": "https://github.com/samwit/langchain-tutorials",
+            "name": "samwit /langchain-tutorials",
+            "description": "A set of LangChain Tutorials from my youtube channel",
+            "stars": "1,076",
+            "forks": "291",
+            "language": "Jupyter Notebook",
+            "stars_today": "164 stars this month"
+        },
+        {
+            "zh_des": "在4个月内免费学习ML工程！",
+            "url": "https://github.com/DataTalksClub/machine-learning-zoomcamp",
+            "name": "DataTalksClub /machine-learning-zoomcamp",
+            "description": "Learn ML engineering for free in 4 months!",
+            "stars": "8,436",
+            "forks": "2,019",
+            "language": "Jupyter Notebook",
+            "stars_today": "173 stars this month"
+        },
+        {
+            "zh_des": "TimeGPT-1：用于预测和异常检测的生产准备预训练时间序列基础模型。生成性预先训练的时间序列转换器，训练超过100B的数据点。只需几行代码🚀，它就能够准确预测零售、电力、金融和物联网等各个领域。",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.",
+            "stars": "1,655",
+            "forks": "131",
+            "language": "Jupyter Notebook",
+            "stars_today": "245 stars this month"
+        },
+        {
+            "zh_des": "该存储库主要由Omar Santos(@santosomar)维护，包括与道德黑客、漏洞赏金、数字取证和事件响应(DFIR)、人工智能安全、漏洞研究、漏洞开发、逆向工程等相关的数千个资源。",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "name": "The-Art-of-Hacking /h4cker",
+            "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+            "stars": "16,789",
+            "forks": "3,015",
+            "language": "Jupyter Notebook",
+            "stars_today": "313 stars this month"
+        },
+        {
+            "zh_des": "此报告包含高级解决方案实验室的笔记本：ML Immersion",
+            "url": "https://github.com/GoogleCloudPlatform/asl-ml-immersion",
+            "name": "GoogleCloudPlatform /asl-ml-immersion",
+            "description": "This repos contains notebooks for the Advanced Solutions Lab: ML Immersion",
+            "stars": "1,557",
+            "forks": "933",
+            "language": "Jupyter Notebook",
+            "stars_today": "79 stars this month"
+        },
+        {
+            "zh_des": "LLM(大型语言模型)微调",
+            "url": "https://github.com/rohan-paul/LLM-FineTuning-Large-Language-Models",
+            "name": "rohan-paul /LLM-FineTuning-Large-Language-Models",
+            "description": "LLM (Large Language Model) FineTuning",
+            "stars": "363",
+            "forks": "79",
+            "language": "Jupyter Notebook",
+            "stars_today": "54 stars this month"
+        },
+        {
+            "zh_des": "Cohery平台的代码示例和jupyter笔记本",
+            "url": "https://github.com/cohere-ai/notebooks",
+            "name": "cohere-ai /notebooks",
+            "description": "Code examples and jupyter notebooks for the Cohere Platform",
+            "stars": "322",
+            "forks": "87",
+            "language": "Jupyter Notebook",
+            "stars_today": "48 stars this month"
+        },
+        {
+            "zh_des": "了解如何设计、开发、部署和迭代生产级ML应用程序。",
+            "url": "https://github.com/GokuMohandas/Made-With-ML",
+            "name": "GokuMohandas /Made-With-ML",
+            "description": "Learn how to design, develop, deploy and iterate on production-grade ML applications.",
+            "stars": "36,035",
+            "forks": "5,767",
+            "language": "Jupyter Notebook",
+            "stars_today": "445 stars this month"
+        },
+        {
+            "zh_des": "支持我在https://bratanic-tomaz.medium.com/上发表的图表数据科学博客文章的Jupyter笔记本",
+            "url": "https://github.com/tomasonjo/blogs",
+            "name": "tomasonjo /blogs",
+            "description": "Jupyter notebooks that support my graph data science blog posts athttps://bratanic-tomaz.medium.com/",
+            "stars": "889",
+            "forks": "263",
+            "language": "Jupyter Notebook",
+            "stars_today": "89 stars this month"
+        },
+        {
+            "zh_des": "一种用于遵循指令的语言模型的自动评估器。人工验证，高质量，廉价，快速。",
+            "url": "https://github.com/tatsu-lab/alpaca_eval",
+            "name": "tatsu-lab /alpaca_eval",
+            "description": "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+            "stars": "1,168",
+            "forks": "171",
+            "language": "Jupyter Notebook",
+            "stars_today": "83 stars this month"
+        }
+    ]
+}

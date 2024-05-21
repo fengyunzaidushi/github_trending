@@ -4824,3 +4824,257 @@
         }
     ]
 }
+{
+    "05月21日": [
+        {
+            "zh_des": "Llama3实现一次一个矩阵乘法",
+            "url": "https://github.com/naklecha/llama3-from-scratch",
+            "name": "naklecha /llama3-from-scratch",
+            "description": "llama3 implementation one matrix multiplication at a time",
+            "stars": "5,967",
+            "forks": "364",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,709 stars today"
+        },
+        {
+            "zh_des": "FinGPT：开源金融大语言模型！革命性的🔥我们在HuggingFace上发布了训练过的模型。",
+            "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+            "name": "AI4Finance-Foundation /FinGPT",
+            "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+            "stars": "11,851",
+            "forks": "1,683",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "ScratchRetrival增强生成(RAG)中的RAG是连接LLMS与外部数据源的通用方法",
+            "url": "https://github.com/langchain-ai/rag-from-scratch",
+            "name": "langchain-ai /rag-from-scratch",
+            "description": "RAG From ScratchRetrieval augmented generation (RAG) comes is a general methodology for connecting LLMs with external data sources",
+            "stars": "1,114",
+            "forks": "289",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "5,748",
+            "forks": "1,396",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "stars": "16,782",
+            "forks": "1,535",
+            "language": "Jupyter Notebook",
+            "stars_today": "243 stars today"
+        },
+        {
+            "zh_des": "由谷歌DeepMind策划的MuJoCo物理引擎的高质量模型集合。",
+            "url": "https://github.com/google-deepmind/mujoco_menagerie",
+            "name": "google-deepmind /mujoco_menagerie",
+            "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+            "stars": "1,019",
+            "forks": "138",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "GCP培训课程的实验和演示(http://cloud.google.com/training).",
+            "url": "https://github.com/GoogleCloudPlatform/training-data-analyst",
+            "name": "GoogleCloudPlatform /training-data-analyst",
+            "description": "Labs and demos for courses for GCP Training (http://cloud.google.com/training).",
+            "stars": "7,528",
+            "forks": "5,706",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "具有接触的多关节动力学。一种通用的物理模拟器。",
+            "url": "https://github.com/google-deepmind/mujoco",
+            "name": "google-deepmind /mujoco",
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+            "stars": "7,304",
+            "forks": "721",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,541",
+            "forks": "1,248",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "44,085",
+            "forks": "24,430",
+            "language": "Jupyter Notebook",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "Paper-YOLOv7的实施：可训练的免费袋为实时物体探测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "12,822",
+            "forks": "4,045",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,657",
+            "forks": "870",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "1,121",
+            "forks": "483",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的端到端机器学习平台Vertex AI的示例代码和笔记本",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Sample code and notebooks for Vertex AI, the end-to-end machine learning platform on Google Cloud",
+            "stars": "1,393",
+            "forks": "736",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "将任何文本转换为知识图表。这可以用于图扩充生成或基于知识图的QNA",
+            "url": "https://github.com/rahulnyk/knowledge_graph",
+            "name": "rahulnyk /knowledge_graph",
+            "description": "Convert any text to a graph of knowledge. This can be used for Graph Augmented Generation or Knowledge Graph based QnA",
+            "stars": "1,003",
+            "forks": "205",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "6,955",
+            "forks": "3,505",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-2B：端侧LLM的性能优于Llama2-13B。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM-2B: An end-side LLM outperforms Llama2-13B.",
+            "stars": "3,971",
+            "forks": "277",
+            "language": "Jupyter Notebook",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "Vision Transformer和MLP-Mixer架构如果使用GPU：如果使用TPU：设置以下所有命令使用的变量",
+            "url": "https://github.com/google-research/vision_transformer",
+            "name": "google-research /vision_transformer",
+            "description": "Vision Transformer and MLP-Mixer ArchitecturesIf using GPU:If using TPU:Set variables used by all commands below",
+            "stars": "9,439",
+            "forks": "1,214",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,022",
+            "forks": "12,521",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,459",
+            "forks": "83,543",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "20,865",
+            "forks": "8,096",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "9,714",
+            "forks": "1,151",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "使用基于知识图的检索-增强生成(KG-RAG)为知识密集型任务增强大型语言模型(LLM)",
+            "url": "https://github.com/BaranziniLab/KG_RAG",
+            "name": "BaranziniLab /KG_RAG",
+            "description": "Empower Large Language Models (LLM) using Knowledge Graph based Retrieval-Augmented Generation (KG-RAG) for knowledge intensive tasks",
+            "stars": "395",
+            "forks": "55",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,566",
+            "forks": "6,617",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,419",
+            "forks": "14,878",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
