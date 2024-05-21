@@ -215,9 +215,9 @@ def read_jsonl_to_dict(file_path):
 async def main():
     urls = ['https://github.com/trending?since=alldaily','https://github.com/trending?since=weekly&s=allweekly','https://github.com/trending?since=monthly&s=allmonthly']
     urls2 = ['https://github.com/trending/python?since=daily','https://github.com/trending/python?since=weekly','https://github.com/trending/python?since=monthly']
-    urls3 = ['https://github.com/trending/typescript?since=daily&s=tsdaily','https://github.com/trending/typescript?since=weekly&s=tsweekly','https://github.com/trending/typescript?since=monthly&tsmonthly']
-    urls4 = ['https://github.com/trending/javascript?since=daily&s=jsdaily','https://github.com/trending/javascript?since=weekly&jsweekly','https://github.com/trending/javascript?since=monthly&jsmonthly']
-    urls5 = ['https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily','https://github.com/trending/jupyter-notebook?since=weekly&jupyterweekly','https://github.com/trending/jupyter-notebook?since=monthly&jupytermonthly']
+    urls3 = ['https://github.com/trending/typescript?since=daily&s=tsdaily','https://github.com/trending/typescript?since=weekly&s=tsweekly','https://github.com/trending/typescript?since=monthly&s=tsmonthly']
+    urls4 = ['https://github.com/trending/javascript?since=daily&s=jsdaily','https://github.com/trending/javascript?since=weekly&s=jsweekly','https://github.com/trending/javascript?since=monthly&s=jsmonthly']
+    urls5 = ['https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily','https://github.com/trending/jupyter-notebook?since=weekly&s=jupyterweekly','https://github.com/trending/jupyter-notebook?since=monthly&s=jupytermonthly']
     urls.extend(urls2)
     urls.extend(urls3)
     urls.extend(urls4)
