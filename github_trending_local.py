@@ -114,7 +114,7 @@ def trs_batch_text(text_list, source_lang='en', target_lang='zh'):
 
 async def fetch_trending_repositories(url):
     async with aiohttp.ClientSession() as session:
-        async with session.get(url) as response:
+        async with session.get(url,proxy="http://127.0.0.1:7890") as response:
             html = await response.text()
             soup = BeautifulSoup(html, 'html.parser')
             # repos = soup.find_all('article', class_='Box-row')
