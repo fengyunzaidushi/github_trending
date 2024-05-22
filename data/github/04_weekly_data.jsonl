@@ -5332,3 +5332,257 @@
         }
     ]
 }
+{
+    "05月22日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "10,714",
+            "forks": "1,125",
+            "language": "Python",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level MLLM on Your Phone",
+            "stars": "2,354",
+            "forks": "165",
+            "language": "Python",
+            "stars_today": "541 stars this week"
+        },
+        {
+            "zh_des": "TimesFM(Time Series Foundation Model，时间序列基础模型)是Google Research开发的用于时间序列预测的预先训练的时间序列基础模型。",
+            "url": "https://github.com/google-research/timesfm",
+            "name": "google-research /timesfm",
+            "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+            "stars": "2,433",
+            "forks": "158",
+            "language": "Python",
+            "stars_today": "651 stars this week"
+        },
+        {
+            "zh_des": "一个由Bilibili用户评论微调的本地聊天机器人。",
+            "url": "https://github.com/linyiLYi/bilibot",
+            "name": "linyiLYi /bilibot",
+            "description": "A local chatbot fine-tuned by bilibili user comments.",
+            "stars": "2,454",
+            "forks": "285",
+            "language": "Python",
+            "stars_today": "1,168 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "51,859",
+            "forks": "6,277",
+            "language": "Python",
+            "stars_today": "1,273 stars this week"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "26,145",
+            "forks": "7,054",
+            "language": "Python",
+            "stars_today": "659 stars this week"
+        },
+        {
+            "zh_des": "浑源-DIT：一种支持细粒度中文理解的强大多分辨率扩散转换器",
+            "url": "https://github.com/Tencent/HunyuanDiT",
+            "name": "Tencent /HunyuanDiT",
+            "description": "Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+            "stars": "1,777",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "927 stars this week"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "3,818",
+            "forks": "388",
+            "language": "Python",
+            "stars_today": "1,045 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "8,547",
+            "forks": "1,236",
+            "language": "Python",
+            "stars_today": "2,269 stars this week"
+        },
+        {
+            "zh_des": "用于语音和多模式对话人工智能的开源框架",
+            "url": "https://github.com/pipecat-ai/pipecat",
+            "name": "pipecat-ai /pipecat",
+            "description": "Open Source framework for voice and multimodal conversational AI",
+            "stars": "1,382",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "605 stars this week"
+        },
+        {
+            "zh_des": "Lumina-T2X是用于文本到任何模式生成的统一框架",
+            "url": "https://github.com/Alpha-VLLM/Lumina-T2X",
+            "name": "Alpha-VLLM /Lumina-T2X",
+            "description": "Lumina-T2X is a unified framework for Text to Any Modality Generation",
+            "stars": "1,100",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "321 stars this week"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "36,381",
+            "forks": "4,633",
+            "language": "Python",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "1,906",
+            "forks": "148",
+            "language": "Python",
+            "stars_today": "570 stars this week"
+        },
+        {
+            "zh_des": "开源，准确和易于使用的视频语音识别和剪辑工具，基于LLM的AI剪辑集成。",
+            "url": "https://github.com/alibaba-damo-academy/FunClip",
+            "name": "alibaba-damo-academy /FunClip",
+            "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+            "stars": "2,025",
+            "forks": "189",
+            "language": "Python",
+            "stars_today": "683 stars this week"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,316",
+            "forks": "6,615",
+            "language": "Python",
+            "stars_today": "185 stars this week"
+        },
+        {
+            "zh_des": "Azure中运行的RAG模式的解决方案加速器，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的要求和最佳实践。",
+            "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+            "name": "Azure-Samples /chat-with-your-data-solution-accelerator",
+            "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+            "stars": "601",
+            "forks": "284",
+            "language": "Python",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "一种使多模式模型能够操作计算机的框架。",
+            "url": "https://github.com/OthersideAI/self-operating-computer",
+            "name": "OthersideAI /self-operating-computer",
+            "description": "A framework to enable multimodal models to operate a computer.",
+            "stars": "7,670",
+            "forks": "1,015",
+            "language": "Python",
+            "stars_today": "325 stars this week"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "5,050",
+            "forks": "634",
+            "language": "Python",
+            "stars_today": "340 stars this week"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "85,569",
+            "forks": "13,238",
+            "language": "Python",
+            "stars_today": "709 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,219",
+            "forks": "1,357",
+            "language": "Python",
+            "stars_today": "726 stars this week"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "2,986",
+            "forks": "526",
+            "language": "Python",
+            "stars_today": "202 stars this week"
+        },
+        {
+            "zh_des": "自动抓取合并互联网上的公开节点.🚀ray、🚀ray、🚀v2ray免费节点、SSR免费节点订阅、Clash免费节点ss/v2ray/特洛伊/Clash免费节点订阅、Clash免费节点订阅，免费梯子，免费翻墙，免费科学上网，免费ss/v2ray/Trojan/Clash节点，谷歌商店，翻墙梯子",
+            "url": "https://github.com/chengaopan/AutoMergePublicNodes",
+            "name": "chengaopan /AutoMergePublicNodes",
+            "description": "自动抓取合并互联网上的公开节点。 🚀 免费节点,🚀免费节点订阅,🚀v2ray免费节点,ssr免费节点订阅,clash免费节点订阅,免费梯子,免费翻墙,免费科学上网,免费ss/v2ray/trojan/clash节点,谷歌商店,翻墙梯子",
+            "stars": "764",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "195 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API的官方Python库",
+            "url": "https://github.com/openai/openai-python",
+            "name": "openai /openai-python",
+            "description": "The official Python library for the OpenAI API",
+            "stars": "20,382",
+            "forks": "2,757",
+            "language": "Python",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "35,163",
+            "forks": "22,927",
+            "language": "Python",
+            "stars_today": "299 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "719",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "388 stars this week"
+        }
+    ]
+}
