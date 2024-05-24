@@ -6094,3 +6094,257 @@
         }
     ]
 }
+{
+    "05月24日": [
+        {
+            "zh_des": "CodiumAI COVER-AGENT：一个基于AI的自动测试生成和代码覆盖增强工具！💻🤖🧪🐞",
+            "url": "https://github.com/Codium-ai/cover-agent",
+            "name": "Codium-ai /cover-agent",
+            "description": "CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+            "stars": "2,461",
+            "forks": "145",
+            "language": "Python",
+            "stars_today": "627 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "3,326",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "981 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。一名副驾驶，可以从你自己的笔记或互联网上获得问题的答案。使用强大的、在线的(例如gpt4)或私有的、本地的(例如米斯特拉尔)LLM。在本地自行托管或使用我们的Web应用程序。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g mistral) LLMs. Self-host locally or use our web app. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "6,093",
+            "forks": "286",
+            "language": "Python",
+            "stars_today": "595 stars today"
+        },
+        {
+            "zh_des": "一个简单而优雅的HTTP库。",
+            "url": "https://github.com/psf/requests",
+            "name": "psf /requests",
+            "description": "A simple, yet elegant, HTTP library.",
+            "stars": "51,550",
+            "forks": "9,221",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "10,948",
+            "forks": "1,150",
+            "language": "Python",
+            "stars_today": "183 stars today"
+        },
+        {
+            "zh_des": "Devon：一位开源的结对程序员",
+            "url": "https://github.com/entropy-research/Devon",
+            "name": "entropy-research /Devon",
+            "description": "Devon: An open-source pair programmer",
+            "stars": "1,734",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "机器学习互操作性的开放标准",
+            "url": "https://github.com/onnx/onnx",
+            "name": "onnx /onnx",
+            "description": "Open standard for machine learning interoperability",
+            "stars": "16,996",
+            "forks": "3,611",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个灵活的包管理器，支持多个版本、配置、平台和编译器。",
+            "url": "https://github.com/spack/spack",
+            "name": "spack /spack",
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "stars": "4,027",
+            "forks": "2,166",
+            "language": "Python",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "1,334",
+            "forks": "242",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Lang Chain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM等语言模型的本地知识库问答|Lang Chain-ChatChat(以前称为Lang Chain-ChatGLM)，基于本地知识的LLM(如ChatGLM)带有LangChain的QA应用程序",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain",
+            "stars": "28,339",
+            "forks": "4,973",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "🚀CodiumAI公关代理：一款基于人工智能的🤖工具，用于自动拉取请求分析、反馈、建议等！💻🔍",
+            "url": "https://github.com/Codium-ai/pr-agent",
+            "name": "Codium-ai /pr-agent",
+            "description": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+            "stars": "4,360",
+            "forks": "358",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "✨🌱、👯⚡、⚡⚡、🎉⚡、🌱⚡、🐛⚡、⚡一个基于、🎉安全新闻定时推送、先知，安全客，奇安信攻防社区文案、一个基于信息查询、安全新闻定时推送先知，安全客，奇安信攻防社区、文案备案查询、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区备案查询、手机号归属地查询信息查询、星座查询天气查询、先知，安全客，奇安信攻防社区文案、手机号归属地查询信息查询、星座查询天气查询、摸鱼日历微步威胁情报查询、手机号归属地查询信息查询、星座查询天气查询、摸鱼日历微步威胁情报查询、手机号归属地查询信息查询、星座查询天气查询、天气查询摸鱼日历。📫，⚡，⚡，🌱，👯，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人检测广告，😄支持积分功能，支持自动拉人",
+            "url": "https://github.com/ngc660sec/NGCBot",
+            "name": "ngc660sec /NGCBot",
+            "description": "一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡备案查询，⚡手机号归属地查询，⚡WHOIS信息查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询， 🐛美女视频，⚡美女图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，⚡检测广告，🌱自动群发，👯Ai回复，😄自定义程度丰富，小白也可轻松上手！",
+            "stars": "1,542",
+            "forks": "192",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "基于Llama3-8B的GPT4V级开源多通道模型",
+            "url": "https://github.com/THUDM/CogVLM2",
+            "name": "THUDM /CogVLM2",
+            "description": "GPT4V-level open-source multi-modal model based on Llama3-8B",
+            "stars": "679",
+            "forks": "28",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "Triton推理服务器提供优化的云和边缘推理解决方案。",
+            "url": "https://github.com/triton-inference-server/server",
+            "name": "triton-inference-server /server",
+            "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+            "stars": "7,488",
+            "forks": "1,392",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "易于使用、可扩展和高性能的RLHF框架(支持70B+Full Tuning&Lora&Mixtral&KTO)",
+            "url": "https://github.com/OpenLLMAI/OpenRLHF",
+            "name": "OpenLLMAI /OpenRLHF",
+            "description": "An Easy-to-use, Scalable and High-performance RLHF Framework (Support 70B+ full tuning & LoRA & Mixtral & KTO)",
+            "stars": "1,330",
+            "forks": "120",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "8,081",
+            "forks": "736",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "64,048",
+            "forks": "14,110",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "26,075",
+            "forks": "2,911",
+            "language": "Python",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "22,999",
+            "forks": "4,744",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Scapy：基于Python的交互式数据包处理程序和库。",
+            "url": "https://github.com/secdev/scapy",
+            "name": "secdev /scapy",
+            "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+            "stars": "10,145",
+            "forks": "1,972",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "OA漏洞利用工具",
+            "url": "https://github.com/R4gd0ll/I-Wanna-Get-All",
+            "name": "R4gd0ll /I-Wanna-Get-All",
+            "description": "OA漏洞利用工具",
+            "stars": "512",
+            "forks": "40",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "在多个GPU、TPU上预先训练、优化和部署AI模型，无需更改代码。",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "name": "Lightning-AI /pytorch-lightning",
+            "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+            "stars": "27,129",
+            "forks": "3,267",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "最先进的开放式视觉语言模型|多模态预训练模型",
+            "url": "https://github.com/THUDM/CogVLM",
+            "name": "THUDM /CogVLM",
+            "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+            "stars": "5,321",
+            "forks": "374",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "DeepSeek-VL：走向真实世界的视觉-语言理解",
+            "url": "https://github.com/deepseek-ai/DeepSeek-VL",
+            "name": "deepseek-ai /DeepSeek-VL",
+            "description": "DeepSeek-VL: Towards Real-World Vision-Language Understanding",
+            "stars": "1,722",
+            "forks": "169",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "开发人工智能Web代理的大动作模型框架",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "stars": "4,095",
+            "forks": "339",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        }
+    ]
+}
