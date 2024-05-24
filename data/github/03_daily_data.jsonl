@@ -6348,3 +6348,257 @@
         }
     ]
 }
+{
+    "05月24日": [
+        {
+            "zh_des": "你的人工智能第二大脑。一名副驾驶，可以从你自己的笔记或互联网上获得问题的答案。使用强大的在线(例如gpt4)或私有的本地(例如llama3)LLM。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "6,530",
+            "forks": "306",
+            "language": "Python",
+            "stars_today": "436 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "3,476",
+            "forks": "247",
+            "language": "Python",
+            "stars_today": "345 stars today"
+        },
+        {
+            "zh_des": "CodiumAI COVER-AGENT：一个基于AI的自动测试生成和代码覆盖增强工具！💻🤖🧪🐞",
+            "url": "https://github.com/Codium-ai/cover-agent",
+            "name": "Codium-ai /cover-agent",
+            "description": "CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+            "stars": "2,708",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "1,077 stars today"
+        },
+        {
+            "zh_des": "MS-SWIFT：使用PEFT或全参数微调200+LLM或15+MLLM",
+            "url": "https://github.com/modelscope/swift",
+            "name": "modelscope /swift",
+            "description": "ms-swift: Use PEFT or Full-parameter to finetune 200+ LLMs or 15+ MLLMs",
+            "stars": "1,582",
+            "forks": "164",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "9,123",
+            "forks": "1,064",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "11,005",
+            "forks": "1,150",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "一种以用户为中心的图文管理系统",
+            "url": "https://github.com/TagStudioDev/TagStudio",
+            "name": "TagStudioDev /TagStudio",
+            "description": "A User-Focused Photo & Document Management System",
+            "stars": "2,319",
+            "forks": "241",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,140",
+            "forks": "1,169",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "8,114",
+            "forks": "742",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "开发人工智能Web代理的大动作模型框架",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "stars": "4,109",
+            "forks": "339",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "InstructLab命令行界面。使用它与模型聊天，并执行InstructLab工作流以使用自定义分类数据训练模型。",
+            "url": "https://github.com/instructlab/instructlab",
+            "name": "instructlab /instructlab",
+            "description": "InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.",
+            "stars": "428",
+            "forks": "144",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "6,891",
+            "forks": "726",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "64,062",
+            "forks": "14,111",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "1,337",
+            "forks": "242",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "用于开发、生产和观察数据资产的编排平台。",
+            "url": "https://github.com/dagster-io/dagster",
+            "name": "dagster-io /dagster",
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "stars": "10,433",
+            "forks": "1,301",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "17,734",
+            "forks": "1,063",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "V1.0",
+            "url": "https://github.com/kangpeilun/VastGaussian",
+            "name": "kangpeilun /VastGaussian",
+            "description": "v1.0",
+            "stars": "150",
+            "forks": "10",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "9,052",
+            "forks": "651",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "10,449",
+            "forks": "2,325",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,529",
+            "forks": "1,400",
+            "language": "Python",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "AppBuilder-SDK、千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用",
+            "url": "https://github.com/baidubce/app-builder",
+            "name": "baidubce /app-builder",
+            "description": "appbuilder-sdk, 千帆AppBuilder-SDK帮助开发者灵活、快速的搭建AI原生应用",
+            "stars": "318",
+            "forks": "86",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🐚OpenDevin：减少代码，创造更多",
+            "url": "https://github.com/OpenDevin/OpenDevin",
+            "name": "OpenDevin /OpenDevin",
+            "description": "🐚 OpenDevin: Code Less, Make More",
+            "stars": "26,112",
+            "forks": "2,919",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "29,243",
+            "forks": "3,045",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "一个敏捷的、以键盘为中心的终端用户界面，用于与大型语言模型进行交互。与ChatGPT、Claude、Llama 3、Phi 3、Mistral、Gema等聊天。",
+            "url": "https://github.com/darrenburns/elia",
+            "name": "darrenburns /elia",
+            "description": "A snappy, keyboard-centric terminal user interface for interacting with large language models. Chat with ChatGPT, Claude, Llama 3, Phi 3, Mistral, Gemma and more.",
+            "stars": "616",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "强大的食谱使语言模型与人类和人工智能偏好保持一致",
+            "url": "https://github.com/huggingface/alignment-handbook",
+            "name": "huggingface /alignment-handbook",
+            "description": "Robust recipes to align language models with human and AI preferences",
+            "stars": "3,969",
+            "forks": "332",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
