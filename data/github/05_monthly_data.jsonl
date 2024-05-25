@@ -6856,3 +6856,257 @@
         }
     ]
 }
+{
+    "05月25日": [
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "8,741",
+            "forks": "1,269",
+            "language": "Python",
+            "stars_today": "4,846 stars this month"
+        },
+        {
+            "zh_des": "MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MyShell.",
+            "stars": "25,977",
+            "forks": "2,440",
+            "language": "Python",
+            "stars_today": "8,694 stars this month"
+        },
+        {
+            "zh_des": "CoreNet：一个训练深度神经网络的库",
+            "url": "https://github.com/apple/corenet",
+            "name": "apple /corenet",
+            "description": "CoreNet: A library for training deep neural networks",
+            "stars": "6,582",
+            "forks": "511",
+            "language": "Python",
+            "stars_today": "5,816 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "3,662",
+            "forks": "260",
+            "language": "Python",
+            "stars_today": "2,172 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,625",
+            "forks": "1,414",
+            "language": "Python",
+            "stars_today": "3,048 stars this month"
+        },
+        {
+            "zh_des": "一种以用户为中心的图文管理系统",
+            "url": "https://github.com/TagStudioDev/TagStudio",
+            "name": "TagStudioDev /TagStudio",
+            "description": "A User-Focused Photo & Document Management System",
+            "stars": "2,398",
+            "forks": "242",
+            "language": "Python",
+            "stars_today": "1,830 stars this month"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "1,938",
+            "forks": "375",
+            "language": "Python",
+            "stars_today": "1,274 stars this month"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "29,288",
+            "forks": "3,051",
+            "language": "Python",
+            "stars_today": "3,348 stars this month"
+        },
+        {
+            "zh_des": "Finetune Llama 3、Mistral和Gema LLMS速度提高2-5倍，内存减少80%",
+            "url": "https://github.com/unslothai/unsloth",
+            "name": "unslothai /unsloth",
+            "description": "Finetune Llama 3, Mistral & Gemma LLMs 2-5x faster with 80% less memory",
+            "stars": "10,414",
+            "forks": "652",
+            "language": "Python",
+            "stars_today": "3,380 stars this month"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "10,269",
+            "forks": "1,107",
+            "language": "Python",
+            "stars_today": "1,670 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "7,079",
+            "forks": "437",
+            "language": "Python",
+            "stars_today": "1,435 stars this month"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,789",
+            "forks": "443",
+            "language": "Python",
+            "stars_today": "521 stars this month"
+        },
+        {
+            "zh_des": "MuseTalk：实时高质量的唇部同步化和潜在空间修复",
+            "url": "https://github.com/TMElyralab/MuseTalk",
+            "name": "TMElyralab /MuseTalk",
+            "description": "MuseTalk: Real-Time High Quality Lip Synchorization with Latent Space Inpainting",
+            "stars": "1,226",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "580 stars this month"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "59,154",
+            "forks": "7,420",
+            "language": "Python",
+            "stars_today": "3,504 stars this month"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "6,179",
+            "forks": "819",
+            "language": "Python",
+            "stars_today": "2,647 stars this month"
+        },
+        {
+            "zh_des": "InstantMesh：基于单幅图像的稀疏大型重建模型的高效三维网格生成",
+            "url": "https://github.com/TencentARC/InstantMesh",
+            "name": "TencentARC /InstantMesh",
+            "description": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+            "stars": "2,256",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "958 stars this month"
+        },
+        {
+            "zh_des": "用于PC流媒体或视频通话的实时脸部交换",
+            "url": "https://github.com/iperov/DeepFaceLive",
+            "name": "iperov /DeepFaceLive",
+            "description": "Real-time face swap for PC streaming or video calls",
+            "stars": "23,854",
+            "forks": "3,923",
+            "language": "Python",
+            "stars_today": "2,354 stars this month"
+        },
+        {
+            "zh_des": "Llama3中文仓库(聚合资料，各种网友及厂商微调、魔改版本有趣权重&训练、推理、评测、部署教程视频&文档)",
+            "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+            "name": "CrazyBoyM /llama3-Chinese-chat",
+            "description": "Llama3 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）",
+            "stars": "2,943",
+            "forks": "243",
+            "language": "Python",
+            "stars_today": "1,273 stars this month"
+        },
+        {
+            "zh_des": "开始以更轻松的方式构建支持LLM的多代理应用程序。",
+            "url": "https://github.com/modelscope/agentscope",
+            "name": "modelscope /agentscope",
+            "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+            "stars": "2,451",
+            "forks": "154",
+            "language": "Python",
+            "stars_today": "1,962 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "2,757",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "1,935 stars this month"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "4,134",
+            "forks": "408",
+            "language": "Python",
+            "stars_today": "1,880 stars this month"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "19,998",
+            "forks": "2,700",
+            "language": "Python",
+            "stars_today": "1,709 stars this month"
+        },
+        {
+            "zh_des": "IDM-VTON：用于野外真实虚拟试穿的改进扩散模型",
+            "url": "https://github.com/yisol/IDM-VTON",
+            "name": "yisol /IDM-VTON",
+            "description": "IDM-VTON : Improving Diffusion Models for Authentic Virtual Try-on in the Wild",
+            "stars": "2,555",
+            "forks": "364",
+            "language": "Python",
+            "stars_today": "2,207 stars this month"
+        },
+        {
+            "zh_des": "高效、灵活且功能齐全的工具包，用于微调大型型号(InternLM2、Llama3、Phi3、Qwen、Mistral等)",
+            "url": "https://github.com/InternLM/xtuner",
+            "name": "InternLM /xtuner",
+            "description": "An efficient, flexible and full-featured toolkit for fine-tuning large models (InternLM2, Llama3, Phi3, Qwen, Mistral, ...)",
+            "stars": "2,837",
+            "forks": "221",
+            "language": "Python",
+            "stars_today": "857 stars this month"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。一名副驾驶，可以从你自己的笔记或互联网上获得问题的答案。使用强大的在线(例如gpt4)或私有的本地(例如llama3)LLM。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. A copilot to get answers to your questions, whether they be from your own notes or from the internet. Use powerful, online (e.g gpt4) or private, local (e.g llama3) LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "7,282",
+            "forks": "340",
+            "language": "Python",
+            "stars_today": "1,492 stars this month"
+        }
+    ]
+}
