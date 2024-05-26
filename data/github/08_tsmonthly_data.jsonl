@@ -3046,3 +3046,257 @@
         }
     ]
 }
+{
+    "05月26日": [
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "9,388",
+            "forks": "1,058",
+            "language": "TypeScript",
+            "stars_today": "3,753 stars this month"
+        },
+        {
+            "zh_des": "一款基于浏览器的精灵宝可梦Fangame，灵感来自流氓风格。",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "A browser based Pokémon fangame heavily inspired by the roguelite genre.",
+            "stars": "2,489",
+            "forks": "1,074",
+            "language": "TypeScript",
+            "stars_today": "1,803 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可实现抓取、抓取、搜索和提取功能。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl, search and extract with a single API.",
+            "stars": "4,707",
+            "forks": "342",
+            "language": "TypeScript",
+            "stars_today": "2,879 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "30,945",
+            "forks": "4,070",
+            "language": "TypeScript",
+            "stars_today": "6,231 stars this month"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "34,183",
+            "forks": "2,228",
+            "language": "TypeScript",
+            "stars_today": "3,849 stars this month"
+        },
+        {
+            "zh_des": "Cohere工具包是一组预构建的组件，使用户能够快速构建和部署RAG应用程序。",
+            "url": "https://github.com/cohere-ai/cohere-toolkit",
+            "name": "cohere-ai /cohere-toolkit",
+            "description": "Cohere Toolkit is a collection of prebuilt components enabling users to quickly build and deploy RAG applications.",
+            "stars": "2,238",
+            "forks": "238",
+            "language": "TypeScript",
+            "stars_today": "1,673 stars this month"
+        },
+        {
+            "zh_des": "“所有演示应用程序之母”--由Reaction、Angel、Node、Django等提供支持的典型的Full Stack Medium.com克隆",
+            "url": "https://github.com/gothinkster/realworld",
+            "name": "gothinkster /realworld",
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "stars": "79,287",
+            "forks": "7,244",
+            "language": "TypeScript",
+            "stars_today": "1,057 stars this month"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "3,978",
+            "forks": "385",
+            "language": "TypeScript",
+            "stars_today": "1,005 stars this month"
+        },
+        {
+            "zh_des": "🪢开源LLM工程平台：可观察性、度量、评估、即时管理、操场、数据集。与LlamaIndex、Lang Chain、OpenAI SDK、LiteLLM等集成。🍊YC W23",
+            "url": "https://github.com/langfuse/langfuse",
+            "name": "langfuse /langfuse",
+            "description": "🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+            "stars": "3,898",
+            "forks": "362",
+            "language": "TypeScript",
+            "stars_today": "876 stars this month"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "8,279",
+            "forks": "1,193",
+            "language": "TypeScript",
+            "stars_today": "7,908 stars this month"
+        },
+        {
+            "zh_des": "更现代的终点站",
+            "url": "https://github.com/Eugeny/tabby",
+            "name": "Eugeny /tabby",
+            "description": "A terminal for a more modern age",
+            "stars": "56,019",
+            "forks": "3,261",
+            "language": "TypeScript",
+            "stars_today": "958 stars this month"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "10,745",
+            "forks": "671",
+            "language": "TypeScript",
+            "stars_today": "1,659 stars this month"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "112,492",
+            "forks": "14,139",
+            "language": "TypeScript",
+            "stars_today": "2,782 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、LINEAR和ASANA替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "24,789",
+            "forks": "1,332",
+            "language": "TypeScript",
+            "stars_today": "838 stars this month"
+        },
+        {
+            "zh_des": "MatterMost是一个开放源码平台，用于在整个软件开发生命周期中进行安全协作。",
+            "url": "https://github.com/mattermost/mattermost",
+            "name": "mattermost /mattermost",
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "stars": "28,302",
+            "forks": "6,907",
+            "language": "TypeScript",
+            "stars_today": "298 stars this month"
+        },
+        {
+            "zh_des": "私人和本地AI个人知识管理应用程序。",
+            "url": "https://github.com/reorproject/reor",
+            "name": "reorproject /reor",
+            "description": "Private & local AI personal knowledge management app.",
+            "stars": "6,214",
+            "forks": "361",
+            "language": "TypeScript",
+            "stars_today": "2,056 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "24,599",
+            "forks": "2,293",
+            "language": "TypeScript",
+            "stars_today": "1,901 stars this month"
+        },
+        {
+            "zh_des": "Simple Light是一个免费的登录页面模板，构建在Tailwincss之上，并完全编码在react/Next.js中。制造者：",
+            "url": "https://github.com/cruip/tailwind-landing-page-template",
+            "name": "cruip /tailwind-landing-page-template",
+            "description": "Simple Light is a free landing page template built on top of TailwindCSS and fully coded in React / Next.js. Made by",
+            "stars": "3,219",
+            "forks": "1,388",
+            "language": "TypeScript",
+            "stars_today": "460 stars this month"
+        },
+        {
+            "zh_des": "TypeSpec",
+            "url": "https://github.com/microsoft/typespec",
+            "name": "microsoft /typespec",
+            "description": "TypeSpec",
+            "stars": "3,306",
+            "forks": "157",
+            "language": "TypeScript",
+            "stars_today": "939 stars this month"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "33,359",
+            "forks": "3,436",
+            "language": "TypeScript",
+            "stars_today": "941 stars this month"
+        },
+        {
+            "zh_des": "Google Maps JavaScript API的Reaction组件和挂钩",
+            "url": "https://github.com/visgl/react-google-maps",
+            "name": "visgl /react-google-maps",
+            "description": "React components and hooks for the Google Maps JavaScript API",
+            "stars": "915",
+            "forks": "56",
+            "language": "TypeScript",
+            "stars_today": "356 stars this month"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "390,460",
+            "forks": "35,786",
+            "language": "TypeScript",
+            "stars_today": "2,845 stars this month"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "25,687",
+            "forks": "13,152",
+            "language": "TypeScript",
+            "stars_today": "1,735 stars this month"
+        },
+        {
+            "zh_des": "适用于MacOS、Linux和Windows的官方Anytype客户端",
+            "url": "https://github.com/anyproto/anytype-ts",
+            "name": "anyproto /anytype-ts",
+            "description": "Official Anytype client for MacOS, Linux, and Windows",
+            "stars": "3,359",
+            "forks": "199",
+            "language": "TypeScript",
+            "stars_today": "549 stars this month"
+        },
+        {
+            "zh_des": "📜是一个极简主义的个人网站，体现了纸的纯净和雪的清新。",
+            "url": "https://github.com/Innei/Shiro",
+            "name": "Innei /Shiro",
+            "description": "📜 A minimalist personal website embodying the purity of paper and freshness of snow.",
+            "stars": "2,850",
+            "forks": "563",
+            "language": "TypeScript",
+            "stars_today": "745 stars this month"
+        }
+    ]
+}

@@ -7364,3 +7364,257 @@
         }
     ]
 }
+{
+    "05月26日": [
+        {
+            "zh_des": "YOLOv10：实时端到端目标检测",
+            "url": "https://github.com/THU-MIG/yolov10",
+            "name": "THU-MIG /yolov10",
+            "description": "YOLOv10: Real-Time End-to-End Object Detection",
+            "stars": "1,283",
+            "forks": "101",
+            "language": "Python",
+            "stars_today": "287 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用基础模型或私有的本地LLM。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use foundation models or private, local LLMs. Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "8,037",
+            "forks": "392",
+            "language": "Python",
+            "stars_today": "747 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "132,128",
+            "forks": "25,356",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "与您的SQL数据库交互，使用LLMS将自然语言转换为SQL",
+            "url": "https://github.com/Dataherald/dataherald",
+            "name": "Dataherald /dataherald",
+            "description": "Interact with your SQL database, Natural Language to SQL using LLMs",
+            "stars": "2,300",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "380 stars today"
+        },
+        {
+            "zh_des": "西北风--FINETUNE",
+            "url": "https://github.com/mistralai/mistral-finetune",
+            "name": "mistralai /mistral-finetune",
+            "description": "Mistral-finetune",
+            "stars": "1,278",
+            "forks": "61",
+            "language": "Python",
+            "stars_today": "479 stars today"
+        },
+        {
+            "zh_des": "开发人工智能Web代理的大动作模型框架",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "stars": "4,252",
+            "forks": "357",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "“Uni-Moe：混合专家比例统一多式联运模型”规范",
+            "url": "https://github.com/HITsz-TMG/UMOE-Scaling-Unified-Multimodal-LLMs",
+            "name": "HITsz-TMG /UMOE-Scaling-Unified-Multimodal-LLMs",
+            "description": "The codes about \"Uni-MoE: Scaling Unified Multimodal Models with Mixture of Experts\"",
+            "stars": "349",
+            "forks": "15",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,270",
+            "forks": "1,185",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "9,372",
+            "forks": "1,082",
+            "language": "Python",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "9,170",
+            "forks": "661",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "Pandora：走向具有自然语言动作和视频状态的通用世界模型",
+            "url": "https://github.com/maitrix-org/Pandora",
+            "name": "maitrix-org /Pandora",
+            "description": "Pandora: Towards General World Model with Natural Language Actions and Video States",
+            "stars": "220",
+            "forks": "11",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "AutoGroq？",
+            "url": "https://github.com/jgravelle/AutoGroq",
+            "name": "jgravelle /AutoGroq",
+            "description": "AutoGroq?",
+            "stars": "863",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "在HamsterKombat挖掘硬币的机器人",
+            "url": "https://github.com/shamhi/HamsterKombatBot",
+            "name": "shamhi /HamsterKombatBot",
+            "description": "Bot that mines coins in HamsterKombat",
+            "stars": "94",
+            "forks": "30",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "258,388",
+            "forks": "43,989",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "35,857",
+            "forks": "3,825",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "一种以用户为中心的图文管理系统",
+            "url": "https://github.com/TagStudioDev/TagStudio",
+            "name": "TagStudioDev /TagStudio",
+            "description": "A User-Focused Photo & Document Management System",
+            "stars": "2,433",
+            "forks": "242",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "REAL-ESRGAN旨在开发实用的通用图像/视频恢复算法。",
+            "url": "https://github.com/xinntao/Real-ESRGAN",
+            "name": "xinntao /Real-ESRGAN",
+            "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+            "stars": "26,444",
+            "forks": "3,317",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "4,782",
+            "forks": "439",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "DIAMOND(扩散作为环境梦想的模型)是在扩散世界模型中训练的强化学习智能体。",
+            "url": "https://github.com/eloialonso/diamond",
+            "name": "eloialonso /diamond",
+            "description": "DIAMOND (DIffusion As a Model Of eNvironment Dreams) is a reinforcement learning agent trained in a diffusion world model.",
+            "stars": "131",
+            "forks": "7",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "294,660",
+            "forks": "32,008",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "我的Python示例",
+            "url": "https://github.com/geekcomputers/Python",
+            "name": "geekcomputers /Python",
+            "description": "My Python Examples",
+            "stars": "30,182",
+            "forks": "12,010",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "深度学习论文阅读路线图为任何渴望学习这一令人惊叹的技术！",
+            "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+            "name": "floodsung /Deep-Learning-Papers-Reading-Roadmap",
+            "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+            "stars": "37,532",
+            "forks": "7,290",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "129,036",
+            "forks": "9,713",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "检查电话号码是否连接到Telegram帐户。",
+            "url": "https://github.com/bellingcat/telegram-phone-number-checker",
+            "name": "bellingcat /telegram-phone-number-checker",
+            "description": "Check if phone numbers are connected to Telegram accounts.",
+            "stars": "883",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,703",
+            "forks": "1,426",
+            "language": "Python",
+            "stars_today": "86 stars today"
+        }
+    ]
+}
