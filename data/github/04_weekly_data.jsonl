@@ -7872,3 +7872,257 @@
         }
     ]
 }
+{
+    "05月27日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "11,222",
+            "forks": "1,168",
+            "language": "Python",
+            "stars_today": "946 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "52,399",
+            "forks": "6,338",
+            "language": "Python",
+            "stars_today": "1,075 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,312",
+            "forks": "1,205",
+            "language": "Python",
+            "stars_today": "479 stars this week"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "9,025",
+            "forks": "442",
+            "language": "Python",
+            "stars_today": "2,903 stars this week"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "4,238",
+            "forks": "423",
+            "language": "Python",
+            "stars_today": "1,434 stars this week"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "9,489",
+            "forks": "1,084",
+            "language": "Python",
+            "stars_today": "536 stars this week"
+        },
+        {
+            "zh_des": "LLM标记化中常用的字节对编码(BPE)算法的最小、干净的代码。",
+            "url": "https://github.com/karpathy/minbpe",
+            "name": "karpathy /minbpe",
+            "description": "Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.",
+            "stars": "8,386",
+            "forks": "747",
+            "language": "Python",
+            "stars_today": "328 stars this week"
+        },
+        {
+            "zh_des": "开发人工智能Web代理的大动作模型框架",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "stars": "4,404",
+            "forks": "366",
+            "language": "Python",
+            "stars_today": "207 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "900",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "300 stars this week"
+        },
+        {
+            "zh_des": "使用Python类型提示进行数据验证",
+            "url": "https://github.com/pydantic/pydantic",
+            "name": "pydantic /pydantic",
+            "description": "Data validation using Python type hints",
+            "stars": "19,126",
+            "forks": "1,710",
+            "language": "Python",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API的官方Python库",
+            "url": "https://github.com/openai/openai-python",
+            "name": "openai /openai-python",
+            "description": "The official Python library for the OpenAI API",
+            "stars": "20,484",
+            "forks": "2,777",
+            "language": "Python",
+            "stars_today": "205 stars this week"
+        },
+        {
+            "zh_des": "Quants(Quants Finance)精选的库、包和资源清单",
+            "url": "https://github.com/wilsonfreitas/awesome-quant",
+            "name": "wilsonfreitas /awesome-quant",
+            "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+            "stars": "16,391",
+            "forks": "2,454",
+            "language": "Python",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "🛰️✨免费V2ray配置，每10分钟更新一次。",
+            "url": "https://github.com/barry-far/V2ray-Configs",
+            "name": "barry-far /V2ray-Configs",
+            "description": "🛰️✨ Free V2ray Configs , Updating Every 10 minutes.",
+            "stars": "3,080",
+            "forks": "544",
+            "language": "Python",
+            "stars_today": "174 stars this week"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "11,784",
+            "forks": "1,429",
+            "language": "Python",
+            "stars_today": "829 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "61,994",
+            "forks": "7,144",
+            "language": "Python",
+            "stars_today": "405 stars this week"
+        },
+        {
+            "zh_des": "浑源-DIT：一种支持细粒度中文理解的强大多分辨率扩散转换器",
+            "url": "https://github.com/Tencent/HunyuanDiT",
+            "name": "Tencent /HunyuanDiT",
+            "description": "Hunyuan-DiT : A Powerful Multi-Resolution Diffusion Transformer with Fine-Grained Chinese Understanding",
+            "stars": "1,928",
+            "forks": "120",
+            "language": "Python",
+            "stars_today": "374 stars this week"
+        },
+        {
+            "zh_des": "一个建立在最新的OpenAI助手API之上的开源代理编排框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "An opensource agent orchestration framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,832",
+            "forks": "458",
+            "language": "Python",
+            "stars_today": "120 stars this week"
+        },
+        {
+            "zh_des": "Triton推理服务器提供优化的云和边缘推理解决方案。",
+            "url": "https://github.com/triton-inference-server/server",
+            "name": "triton-inference-server /server",
+            "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+            "stars": "7,509",
+            "forks": "1,397",
+            "language": "Python",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "最佳DDoS攻击脚本Python3，(Cyber/DDoS)攻击，共56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "11,620",
+            "forks": "2,443",
+            "language": "Python",
+            "stars_today": "148 stars this week"
+        },
+        {
+            "zh_des": "最先进的开放式视觉语言模型|多模态预训练模型",
+            "url": "https://github.com/THUDM/CogVLM",
+            "name": "THUDM /CogVLM",
+            "description": "a state-of-the-art-level open visual language model | 多模态预训练模型",
+            "stars": "5,355",
+            "forks": "376",
+            "language": "Python",
+            "stars_today": "118 stars this week"
+        },
+        {
+            "zh_des": "🚀CodiumAI公关代理：一款基于人工智能的🤖工具，用于自动拉取请求分析、反馈、建议等！💻🔍",
+            "url": "https://github.com/Codium-ai/pr-agent",
+            "name": "Codium-ai /pr-agent",
+            "description": "🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍",
+            "stars": "4,405",
+            "forks": "365",
+            "language": "Python",
+            "stars_today": "128 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2024]官方RT-DETR(RTDETR桨火炬)，实时检测变压器，DETRS在实时目标检测上击败YOLOS。🔥🔥🔥",
+            "url": "https://github.com/lyuwenyu/RT-DETR",
+            "name": "lyuwenyu /RT-DETR",
+            "description": "[CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥",
+            "stars": "1,401",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "11,130",
+            "forks": "1,070",
+            "language": "Python",
+            "stars_today": "66 stars this week"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "78,849",
+            "forks": "21,254",
+            "language": "Python",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "一种可以将网络上的ChatGPT转换为OpenAI API格式的服务。",
+            "url": "https://github.com/lanqian528/chat2api",
+            "name": "lanqian528 /chat2api",
+            "description": "A service that can convert ChatGPT on the web to OpenAI API format.",
+            "stars": "773",
+            "forks": "167",
+            "language": "Python",
+            "stars_today": "213 stars this week"
+        }
+    ]
+}
