@@ -8380,3 +8380,257 @@
         }
     ]
 }
+{
+    "05月28日": [
+        {
+            "zh_des": "基于Llama 3的自组织文件系统",
+            "url": "https://github.com/iyaja/llama-fs",
+            "name": "iyaja /llama-fs",
+            "description": "A self-organizing file system with llama 3",
+            "stars": "1,198",
+            "forks": "67",
+            "language": "Jupyter Notebook",
+            "stars_today": "315 stars today"
+        },
+        {
+            "zh_des": "FinRobot：一个基于LLMS🚀🚀🚀的开源金融应用AI代理平台",
+            "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+            "name": "AI4Finance-Foundation /FinRobot",
+            "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀",
+            "stars": "359",
+            "forks": "36",
+            "language": "Jupyter Notebook",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "8,128",
+            "forks": "1,277",
+            "language": "Jupyter Notebook",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "26,414",
+            "forks": "3,828",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "基于OpenAI Whisper的说话人二值化自动语音识别",
+            "url": "https://github.com/MahmoudAshraf97/whisper-diarization",
+            "name": "MahmoudAshraf97 /whisper-diarization",
+            "description": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+            "stars": "2,224",
+            "forks": "227",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "2,853",
+            "forks": "1,897",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "“pdf：https://github.com/datawhalechina/leedl-tutorial/releases👍)，李宏毅深度学习教程”(李宏毅老师推荐下载地址",
+            "url": "https://github.com/datawhalechina/leedl-tutorial",
+            "name": "datawhalechina /leedl-tutorial",
+            "description": "《李宏毅深度学习教程》（李宏毅老师推荐👍），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+            "stars": "10,012",
+            "forks": "2,563",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,516",
+            "forks": "83,654",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,744",
+            "forks": "2,077",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Vision Transformer和MLP-Mixer架构如果使用GPU：如果使用TPU：设置以下所有命令使用的变量",
+            "url": "https://github.com/google-research/vision_transformer",
+            "name": "google-research /vision_transformer",
+            "description": "Vision Transformer and MLP-Mixer ArchitecturesIf using GPU:If using TPU:Set variables used by all commands below",
+            "stars": "9,484",
+            "forks": "1,216",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "TimeGPT-1：用于预测和异常检测的生产准备预训练时间序列基础模型。生成性预先训练的时间序列转换器，训练超过100B的数据点。只需几行代码🚀，它就能够准确预测零售、电力、金融和物联网等各个领域。",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.",
+            "stars": "1,736",
+            "forks": "134",
+            "language": "Jupyter Notebook",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "44,424",
+            "forks": "24,762",
+            "language": "Jupyter Notebook",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "针对ComfyUI的扩展节点套件，包含超过210个新节点",
+            "url": "https://github.com/WASasquatch/was-node-suite-comfyui",
+            "name": "WASasquatch /was-node-suite-comfyui",
+            "description": "An extensive node suite for ComfyUI with over 210 new nodes",
+            "stars": "875",
+            "forks": "122",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "指导-调整消费者硬件上的骆驼",
+            "url": "https://github.com/tloen/alpaca-lora",
+            "name": "tloen /alpaca-lora",
+            "description": "Instruct-tune LLaMA on consumer hardware",
+            "stars": "18,283",
+            "forks": "2,185",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "疯狂快语者一个固执己见的CLI转录音频文件与耳语设备！由🤗变形金刚提供支持，最佳与闪存-TL；灾难恢复-转录150分钟(2",
+            "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+            "name": "Vaibhavs10 /insanely-fast-whisper",
+            "description": "Insanely Fast WhisperAn opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 Transformers, Optimum & flash-attnTL;DR - Transcribe 150 minutes (2",
+            "stars": "6,671",
+            "forks": "484",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+            "url": "https://github.com/bnsreenu/python_for_microscopists",
+            "name": "bnsreenu /python_for_microscopists",
+            "description": "https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w?sub_confirmation=1",
+            "stars": "3,696",
+            "forks": "2,306",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "此repo托管官方MediaTube示例，目的是展示使用我们的机器学习平台创建应用程序所涉及的基本步骤",
+            "url": "https://github.com/google-ai-edge/mediapipe-samples",
+            "name": "google-ai-edge /mediapipe-samples",
+            "description": "This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform",
+            "stars": "1,287",
+            "forks": "335",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "10,791",
+            "forks": "1,423",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "612",
+            "forks": "118",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Lang Chain图书馆概述和教程",
+            "url": "https://github.com/gkamradt/langchain-tutorials",
+            "name": "gkamradt /langchain-tutorials",
+            "description": "Overview and tutorial of the LangChain Library",
+            "stars": "6,371",
+            "forks": "1,860",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "31,983",
+            "forks": "5,201",
+            "language": "Jupyter Notebook",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "使用拥抱面库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,349",
+            "forks": "1,443",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "41,721",
+            "forks": "17,630",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "支持我在https://bratanic-tomaz.medium.com/上发表的图表数据科学博客文章的Jupyter笔记本",
+            "url": "https://github.com/tomasonjo/blogs",
+            "name": "tomasonjo /blogs",
+            "description": "Jupyter notebooks that support my graph data science blog posts athttps://bratanic-tomaz.medium.com/",
+            "stars": "900",
+            "forks": "270",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "这个资源库可以帮助您从头开始理解Python。",
+            "url": "https://github.com/Tanu-N-Prabhu/Python",
+            "name": "Tanu-N-Prabhu /Python",
+            "description": "This repository helps you understand python from the scratch.",
+            "stars": "1,167",
+            "forks": "644",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
