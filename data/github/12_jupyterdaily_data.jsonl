@@ -8126,3 +8126,257 @@
         }
     ]
 }
+{
+    "05月28日": [
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "2,851",
+            "forks": "1,895",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "44,396",
+            "forks": "24,727",
+            "language": "Jupyter Notebook",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "对整个深度学习历史的深入探讨",
+            "url": "https://github.com/adam-maj/deep-learning",
+            "name": "adam-maj /deep-learning",
+            "description": "A deep-dive on the entire history of deep-learning",
+            "stars": "428",
+            "forks": "29",
+            "language": "Jupyter Notebook",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,644",
+            "forks": "3,276",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "XFeat的实施(CVPR 2024)。您是否需要健壮且快速的局部特征提取？你来对地方了！",
+            "url": "https://github.com/verlab/accelerated_features",
+            "name": "verlab /accelerated_features",
+            "description": "Implementation of XFeat (CVPR 2024). Do you need robust and fast local feature extraction? You are in the right place!",
+            "stars": "627",
+            "forks": "56",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "15,962",
+            "forks": "4,071",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "PyTorch教程。",
+            "url": "https://github.com/pytorch/tutorials",
+            "name": "pytorch /tutorials",
+            "description": "PyTorch tutorials.",
+            "stars": "7,883",
+            "forks": "3,946",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Csgobot",
+            "url": "https://github.com/Priler/csgobot",
+            "name": "Priler /csgobot",
+            "description": "csgobot",
+            "stars": "30",
+            "forks": "8",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "4,938",
+            "forks": "2,455",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,381",
+            "forks": "2,601",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "该存储库主要由Omar Santos(@santosomar)维护，包括与道德黑客、漏洞赏金、数字取证和事件响应(DFIR)、人工智能安全、漏洞研究、漏洞开发、逆向工程等相关的数千个资源。",
+            "url": "https://github.com/The-Art-of-Hacking/h4cker",
+            "name": "The-Art-of-Hacking /h4cker",
+            "description": "This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artificial intelligence security, vulnerability research, exploit development, reverse engineering, and more.",
+            "stars": "16,893",
+            "forks": "3,027",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "100个熊猫数据谜题，从简短简单到超级复杂(60%完成)",
+            "url": "https://github.com/ajcr/100-pandas-puzzles",
+            "name": "ajcr /100-pandas-puzzles",
+            "description": "100 data puzzles for pandas, ranging from short and simple to super tricky (60% complete)",
+            "stars": "2,257",
+            "forks": "2,256",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "31,817",
+            "forks": "3,287",
+            "language": "Jupyter Notebook",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "用于存储样例Python程序的存储库，用于学习",
+            "url": "https://github.com/codebasics/py",
+            "name": "codebasics /py",
+            "description": "Repository to store sample python programs for python learning",
+            "stars": "6,666",
+            "forks": "16,642",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,742",
+            "forks": "2,075",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "木星笔记本",
+            "url": "https://github.com/YBIFoundation/Fundamental",
+            "name": "YBIFoundation /Fundamental",
+            "description": "Jupyter Notebook",
+            "stars": "1,312",
+            "forks": "477",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,513",
+            "forks": "83,636",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "麻省理工学院实验材料6.S191：深度学习入门",
+            "url": "https://github.com/aamini/introtodeeplearning",
+            "name": "aamini /introtodeeplearning",
+            "description": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+            "stars": "7,021",
+            "forks": "3,517",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "AISystem主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "url": "https://github.com/chenzomi12/AISystem",
+            "name": "chenzomi12 /AISystem",
+            "description": "AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术",
+            "stars": "8,777",
+            "forks": "1,224",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "零知识证明入门教程.",
+            "url": "https://github.com/WTFAcademy/WTF-zk",
+            "name": "WTFAcademy /WTF-zk",
+            "description": "零知识证明入门教程。",
+            "stars": "471",
+            "forks": "83",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "一个简单易用的LLMS知识编辑框架。",
+            "url": "https://github.com/zjunlp/EasyEdit",
+            "name": "zjunlp /EasyEdit",
+            "description": "An Easy-to-use Knowledge Editing Framework for LLMs.",
+            "stars": "1,474",
+            "forks": "180",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "FinRobot：一个基于LLMS🚀🚀🚀的开源金融应用AI代理平台",
+            "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+            "name": "AI4Finance-Foundation /FinRobot",
+            "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀",
+            "stars": "312",
+            "forks": "32",
+            "language": "Jupyter Notebook",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "LLm-Powerhouse：通过精心策划的教程、最佳实践和用于定制培训和推理的现成代码，释放LLMS的潜力。",
+            "url": "https://github.com/ghimiresunil/LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing",
+            "name": "ghimiresunil /LLM-PowerHouse-A-Curated-Guide-for-Large-Language-Models-with-Custom-Training-and-Inferencing",
+            "description": "LLM-PowerHouse: Unleash LLMs' potential through curated tutorials, best practices, and ready-to-use code for custom training and inferencing.",
+            "stars": "503",
+            "forks": "89",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,057",
+            "forks": "12,530",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "疯狂快语者一个固执己见的CLI转录音频文件与耳语设备！由🤗变形金刚提供支持，最佳与闪存-TL；灾难恢复-转录150分钟(2",
+            "url": "https://github.com/Vaibhavs10/insanely-fast-whisper",
+            "name": "Vaibhavs10 /insanely-fast-whisper",
+            "description": "Insanely Fast WhisperAn opinionated CLI to transcribe Audio files w/ Whisper on-device! Powered by 🤗 Transformers, Optimum & flash-attnTL;DR - Transcribe 150 minutes (2",
+            "stars": "6,658",
+            "forks": "484",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        }
+    ]
+}
