@@ -9396,3 +9396,257 @@
         }
     ]
 }
+{
+    "05月30日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "12,913",
+            "forks": "1,329",
+            "language": "Python",
+            "stars_today": "507 stars today"
+        },
+        {
+            "zh_des": "YOLOv10：实时端到端目标检测",
+            "url": "https://github.com/THU-MIG/yolov10",
+            "name": "THU-MIG /yolov10",
+            "description": "YOLOv10: Real-Time End-to-End Object Detection",
+            "stars": "6,186",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "1,025 stars today"
+        },
+        {
+            "zh_des": "V-Express的目标是在参考图像、音频和V-KPS图像序列的控制下生成会说话的头部视频。",
+            "url": "https://github.com/tencent-ailab/V-Express",
+            "name": "tencent-ailab /V-Express",
+            "description": "V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",
+            "stars": "471",
+            "forks": "45",
+            "language": "Python",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "MusePose：一种姿态驱动的虚拟人生成框架",
+            "url": "https://github.com/TMElyralab/MusePose",
+            "name": "TMElyralab /MusePose",
+            "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+            "stars": "627",
+            "forks": "30",
+            "language": "Python",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "Prefect是一种工作流协调工具，使开发人员能够构建、观察数据管道并对其做出反应",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+            "stars": "14,983",
+            "forks": "1,487",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "几何精确辐射场的二维高斯飞溅",
+            "url": "https://github.com/hbb1/2d-gaussian-splatting",
+            "name": "hbb1 /2d-gaussian-splatting",
+            "description": "[SIGGRAPH'24] 2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+            "stars": "1,270",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "StreamV2V的官方Pytorch实现。",
+            "url": "https://github.com/Jeff-LiangF/streamv2v",
+            "name": "Jeff-LiangF /streamv2v",
+            "description": "Official Pytorch implementation of StreamV2V.",
+            "stars": "159",
+            "forks": "24",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "你喜欢火炬吗？你喜欢微格勒吗？你爱丁尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "24,502",
+            "forks": "2,709",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "用于进行和共享数据科学工作的逻辑、合理标准化但灵活的项目结构。",
+            "url": "https://github.com/drivendataorg/cookiecutter-data-science",
+            "name": "drivendataorg /cookiecutter-data-science",
+            "description": "A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.",
+            "stars": "7,701",
+            "forks": "2,370",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,125",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "207 stars today"
+        },
+        {
+            "zh_des": "一种新的人机交互的耳机实时语音提取方法。",
+            "url": "https://github.com/vb000/LookOnceToHear",
+            "name": "vb000 /LookOnceToHear",
+            "description": "A novel human-interaction method for real-time speech extraction on headphones.",
+            "stars": "351",
+            "forks": "29",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "骆驼模型的推理代码",
+            "url": "https://github.com/meta-llama/llama",
+            "name": "meta-llama /llama",
+            "description": "Inference code for Llama models",
+            "stars": "53,696",
+            "forks": "9,256",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Grok开放版本",
+            "url": "https://github.com/xai-org/grok-1",
+            "name": "xai-org /grok-1",
+            "description": "Grok open release",
+            "stars": "48,874",
+            "forks": "8,276",
+            "language": "Python",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "将弹性语言代理构建为图形。",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "Build resilient language agents as graphs.",
+            "stars": "3,401",
+            "forks": "495",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "Curso Para apper el Lenguaje de Programación Python de cero y Para proiantes.100个班级，44个小时，Código，Proyectos y Grupo de Chat。基础、前端、后端、测试、IA...",
+            "url": "https://github.com/mouredev/Hello-Python",
+            "name": "mouredev /Hello-Python",
+            "description": "Curso para aprender el lenguaje de programación Python desde cero y para principiantes. 100 clases, 44 horas en vídeo, código, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+            "stars": "23,176",
+            "forks": "1,548",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "HuggingFace Hub的官方Python客户端。",
+            "url": "https://github.com/huggingface/huggingface_hub",
+            "name": "huggingface /huggingface_hub",
+            "description": "The official Python client for the Huggingface Hub.",
+            "stars": "1,754",
+            "forks": "452",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "TerminalTextEffect(TTE)是一个终端视觉特效引擎。",
+            "url": "https://github.com/ChrisBuilds/terminaltexteffects",
+            "name": "ChrisBuilds /terminaltexteffects",
+            "description": "TerminalTextEffects (TTE) is a terminal visual effects engine.",
+            "stars": "1,778",
+            "forks": "21",
+            "language": "Python",
+            "stars_today": "542 stars today"
+        },
+        {
+            "zh_des": "RAG AutoML工具-为您自己的数据找到最佳RAG管道。",
+            "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+            "name": "Marker-Inc-Korea /AutoRAG",
+            "description": "RAG AutoML Tool - Find optimal RAG pipeline for your own data.",
+            "stars": "800",
+            "forks": "66",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "SD.Next：稳定扩散和其他基于扩散的生成图像模型的高级实现",
+            "url": "https://github.com/vladmandic/automatic",
+            "name": "vladmandic /automatic",
+            "description": "SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models",
+            "stars": "5,050",
+            "forks": "348",
+            "language": "Python",
+            "stars_today": "185 stars today"
+        },
+        {
+            "zh_des": "ARL资产侦察灯塔系统(可运行，添加指纹，提高并发，升级工具及系统，无限制修改版)ARL(资产侦察灯塔)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库.协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面.",
+            "url": "https://github.com/adysec/ARL",
+            "name": "adysec /ARL",
+            "description": "ARL 资产侦察灯塔系统（可运行，添加指纹，提高并发，升级工具及系统，无限制修改版）ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。",
+            "stars": "103",
+            "forks": "71",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "机器学习从头开始。机器学习模型和算法的基本框架NumPy实现，关注可访问性。旨在涵盖从线性回归到深度学习的所有内容。",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "name": "eriklindernoren /ML-From-Scratch",
+            "description": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+            "stars": "23,391",
+            "forks": "4,530",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "⚡Flashrag：高效RAG研究的工具包",
+            "url": "https://github.com/RUC-NLPIR/FlashRAG",
+            "name": "RUC-NLPIR /FlashRAG",
+            "description": "⚡FlashRAG: A Python Toolkit for Efficient RAG Research",
+            "stars": "558",
+            "forks": "39",
+            "language": "Python",
+            "stars_today": "197 stars today"
+        },
+        {
+            "zh_des": "一种可推广的自动驾驶世界模型",
+            "url": "https://github.com/OpenDriveLab/Vista",
+            "name": "OpenDriveLab /Vista",
+            "description": "A Generalizable World Model for Autonomous Driving",
+            "stars": "221",
+            "forks": "6",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "HippoRAG是一个新颖的RAG框架，灵感来自人类的长期记忆，它使LLM能够持续地整合外部文档中的知识。",
+            "url": "https://github.com/OSU-NLP-Group/HippoRAG",
+            "name": "OSU-NLP-Group /HippoRAG",
+            "description": "HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents.",
+            "stars": "207",
+            "forks": "17",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]官方RT-DETR(RTDETR桨火炬)，实时检测变压器，DETRS在实时目标检测上击败YOLOS。🔥🔥🔥",
+            "url": "https://github.com/lyuwenyu/RT-DETR",
+            "name": "lyuwenyu /RT-DETR",
+            "description": "[CVPR 2024] Official RT-DETR (RTDETR paddle pytorch), Real-Time DEtection TRansformer, DETRs Beat YOLOs on Real-time Object Detection. 🔥 🔥 🔥",
+            "stars": "1,472",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        }
+    ]
+}
