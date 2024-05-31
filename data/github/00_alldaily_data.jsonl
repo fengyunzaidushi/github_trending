@@ -9904,3 +9904,257 @@
         }
     ]
 }
+{
+    "05月31日": [
+        {
+            "zh_des": "ChatTTS是一个用于日常对话的生成性语音模型。",
+            "url": "https://github.com/2noise/ChatTTS",
+            "name": "2noise /ChatTTS",
+            "description": "ChatTTS is a generative speech model for daily dialogue.",
+            "stars": "12,286",
+            "forks": "1,229",
+            "language": "Jupyter Notebook",
+            "stars_today": "4,660 stars today"
+        },
+        {
+            "zh_des": "V-Express的目标是在参考图像、音频和V-KPS图像序列的控制下生成会说话的头部视频。",
+            "url": "https://github.com/tencent-ailab/V-Express",
+            "name": "tencent-ailab /V-Express",
+            "description": "V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",
+            "stars": "900",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "295 stars today"
+        },
+        {
+            "zh_des": "基于Llama 3的自组织文件系统",
+            "url": "https://github.com/iyaja/llama-fs",
+            "name": "iyaja /llama-fs",
+            "description": "A self-organizing file system with llama 3",
+            "stars": "3,014",
+            "forks": "164",
+            "language": "Jupyter Notebook",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "13,499",
+            "forks": "1,384",
+            "language": "Python",
+            "stars_today": "830 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "7,664",
+            "forks": "468",
+            "language": "Python",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "机器学习生命周期的开源平台",
+            "url": "https://github.com/mlflow/mlflow",
+            "name": "mlflow /mlflow",
+            "description": "Open source platform for the machine learning lifecycle",
+            "stars": "17,552",
+            "forks": "3,972",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "花哨的流处理使操作变得平凡",
+            "url": "https://github.com/redpanda-data/connect",
+            "name": "redpanda-data /connect",
+            "description": "Fancy stream processing made operationally mundane",
+            "stars": "7,804",
+            "forks": "763",
+            "language": "Go",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "利用CVE的PoC-2024-32002",
+            "url": "https://github.com/amalmurali47/git_rce",
+            "name": "amalmurali47 /git_rce",
+            "description": "Exploit PoC for CVE-2024-32002",
+            "stars": "373",
+            "forks": "104",
+            "language": "Shell",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "MusePose：一种姿态驱动的虚拟人生成框架",
+            "url": "https://github.com/TMElyralab/MusePose",
+            "name": "TMElyralab /MusePose",
+            "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+            "stars": "949",
+            "forks": "48",
+            "language": "Python",
+            "stars_today": "370 stars today"
+        },
+        {
+            "zh_des": "🦍云-原生接口网关和AI网关。",
+            "url": "https://github.com/Kong/kong",
+            "name": "Kong /kong",
+            "description": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+            "stars": "37,941",
+            "forks": "4,710",
+            "language": "Lua",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "33,398",
+            "forks": "9,950",
+            "language": "C++",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "Vivid：使用扩散模型的视频虚拟试穿",
+            "url": "https://github.com/alibaba-yuanjing-aigclab/ViViD",
+            "name": "alibaba-yuanjing-aigclab /ViViD",
+            "description": "ViViD: Video Virtual Try-on using Diffusion Models",
+            "stars": "202",
+            "forks": "14",
+            "language": "",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,201",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "SWIFT编程语言",
+            "url": "https://github.com/apple/swift",
+            "name": "apple /swift",
+            "description": "The Swift Programming Language",
+            "stars": "66,206",
+            "forks": "10,238",
+            "language": "C++",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "最完整的角度用户界面组件库",
+            "url": "https://github.com/primefaces/primeng",
+            "name": "primefaces /primeng",
+            "description": "The Most Complete Angular UI Component Library",
+            "stars": "9,650",
+            "forks": "4,487",
+            "language": "CSS",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "充当销售代表的AI聊天机器人",
+            "url": "https://github.com/webprodigies/corinna-ai",
+            "name": "webprodigies /corinna-ai",
+            "description": "Ai Chatbot that acts like a sales rep",
+            "stars": "236",
+            "forks": "72",
+            "language": "TypeScript",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "支持最新PEP标准的现代Python包和依赖项管理器",
+            "url": "https://github.com/pdm-project/pdm",
+            "name": "pdm-project /pdm",
+            "description": "A modern Python package and dependency manager supporting the latest PEP standards",
+            "stars": "6,907",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "以图形用户界面为中心的ROOP",
+            "url": "https://github.com/Hillobar/Rope",
+            "name": "Hillobar /Rope",
+            "description": "GUI-focused roop",
+            "stars": "3,633",
+            "forks": "530",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "26,630",
+            "forks": "3,857",
+            "language": "Jupyter Notebook",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "安装并运行您自己的AI代理服务",
+            "url": "https://github.com/GaiaNet-AI/gaianet-node",
+            "name": "GaiaNet-AI /gaianet-node",
+            "description": "Install and run your own AI agent service",
+            "stars": "1,029",
+            "forks": "33",
+            "language": "Shell",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "建立在骆驼38B之上的SOTA视觉模型。",
+            "url": "https://github.com/mustafaaljadery/llama3v",
+            "name": "mustafaaljadery /llama3v",
+            "description": "A SOTA vision model built on top of llama3 8B.",
+            "stars": "443",
+            "forks": "13",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "用于访问Google API的elixir客户端库。",
+            "url": "https://github.com/googleapis/elixir-google-api",
+            "name": "googleapis /elixir-google-api",
+            "description": "Elixir client libraries for accessing Google APIs.",
+            "stars": "897",
+            "forks": "339",
+            "language": "Elixir",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "SWIFT中优雅的HTTP网络",
+            "url": "https://github.com/Alamofire/Alamofire",
+            "name": "Alamofire /Alamofire",
+            "description": "Elegant HTTP Networking in Swift",
+            "stars": "40,645",
+            "forks": "7,529",
+            "language": "Swift",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "DuckDB是一个进程内的SQL OLAP数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an in-process SQL OLAP Database Management System",
+            "stars": "17,631",
+            "forks": "1,507",
+            "language": "C++",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "8,565",
+            "forks": "793",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        }
+    ]
+}
