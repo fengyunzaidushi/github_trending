@@ -10412,3 +10412,257 @@
         }
     ]
 }
+{
+    "06月01日": [
+        {
+            "zh_des": "ChatTTS是一个用于日常对话的生成性语音模型。",
+            "url": "https://github.com/2noise/ChatTTS",
+            "name": "2noise /ChatTTS",
+            "description": "ChatTTS is a generative speech model for daily dialogue.",
+            "stars": "14,631",
+            "forks": "1,482",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,406 stars today"
+        },
+        {
+            "zh_des": "木星笔记本",
+            "url": "https://github.com/YBIFoundation/Fundamental",
+            "name": "YBIFoundation /Fundamental",
+            "description": "Jupyter Notebook",
+            "stars": "1,342",
+            "forks": "483",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于学习数据科学的Python交互式仪表板",
+            "url": "https://github.com/GeostatsGuy/DataScience_Interactive_Python",
+            "name": "GeostatsGuy /DataScience_Interactive_Python",
+            "description": "Python interactive dashboards for learning data science",
+            "stars": "464",
+            "forks": "83",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "26,711",
+            "forks": "3,864",
+            "language": "Jupyter Notebook",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "使用大型语言模型自动生成可视化和信息图表",
+            "url": "https://github.com/microsoft/lida",
+            "name": "microsoft /lida",
+            "description": "Automatic Generation of Visualizations and Infographics using Large Language Models",
+            "stars": "2,489",
+            "forks": "245",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "44,762",
+            "forks": "5,278",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "科尔莫戈罗夫·阿诺德网络公司",
+            "url": "https://github.com/KindXiaoming/pykan",
+            "name": "KindXiaoming /pykan",
+            "description": "Kolmogorov Arnold Networks",
+            "stars": "12,678",
+            "forks": "1,069",
+            "language": "Jupyter Notebook",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "33B中文LLM、DPO QLORA、100K上下文、AirLLM 70B推理，带单个4 GB GPU",
+            "url": "https://github.com/lyogavin/Anima",
+            "name": "lyogavin /Anima",
+            "description": "33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU",
+            "stars": "3,364",
+            "forks": "277",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "图像提示适配器被设计为使预先训练的文本到图像扩散模型能够生成具有图像提示的图像。",
+            "url": "https://github.com/tencent-ailab/IP-Adapter",
+            "name": "tencent-ailab /IP-Adapter",
+            "description": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
+            "stars": "4,214",
+            "forks": "273",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "这是一个为亚马逊Bedock设计的研讨会，它是基础模型服务。",
+            "url": "https://github.com/aws-samples/amazon-bedrock-workshop",
+            "name": "aws-samples /amazon-bedrock-workshop",
+            "description": "This is a workshop designed for Amazon Bedrock a foundational model service.",
+            "stars": "1,162",
+            "forks": "503",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于📚™的OpenVINO Jupyter笔记本电脑教程",
+            "url": "https://github.com/openvinotoolkit/openvino_notebooks",
+            "name": "openvinotoolkit /openvino_notebooks",
+            "description": "📚 Jupyter notebook tutorials for OpenVINO™",
+            "stars": "2,054",
+            "forks": "729",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "西北风模式的官方推理库",
+            "url": "https://github.com/mistralai/mistral-inference",
+            "name": "mistralai /mistral-inference",
+            "description": "Official inference library for Mistral models",
+            "stars": "8,920",
+            "forks": "779",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "2,679",
+            "forks": "498",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "9,948",
+            "forks": "1,399",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🔊文本提示生成性音频模型",
+            "url": "https://github.com/suno-ai/bark",
+            "name": "suno-ai /bark",
+            "description": "🔊 Text-Prompted Generative Audio Model",
+            "stars": "33,185",
+            "forks": "3,935",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "我为我的AI和LLM研讨会编写的代码",
+            "url": "https://github.com/trancethehuman/ai-workshop-code",
+            "name": "trancethehuman /ai-workshop-code",
+            "description": "Code I wrote for my AI & LLM workshops",
+            "stars": "70",
+            "forks": "40",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "收集用于股票预测的机器学习和深度学习模型，包括交易机器人和模拟",
+            "url": "https://github.com/huseinzol05/Stock-Prediction-Models",
+            "name": "huseinzol05 /Stock-Prediction-Models",
+            "description": "Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations",
+            "stars": "7,542",
+            "forks": "2,715",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Lavis--语言视觉智能的一站式图书馆",
+            "url": "https://github.com/salesforce/LAVIS",
+            "name": "salesforce /LAVIS",
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "stars": "8,981",
+            "forks": "890",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "4,788",
+            "forks": "578",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "一种用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "17,817",
+            "forks": "985",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "公开回购高频博客帖子",
+            "url": "https://github.com/huggingface/blog",
+            "name": "huggingface /blog",
+            "description": "Public repo for HF blog posts",
+            "stars": "2,084",
+            "forks": "642",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "FinRobot：一个基于LLMS🚀🚀🚀的开源金融应用AI代理平台",
+            "url": "https://github.com/AI4Finance-Foundation/FinRobot",
+            "name": "AI4Finance-Foundation /FinRobot",
+            "description": "FinRobot: An Open-Source AI Agent Platform for Financial Applications using LLMs 🚀 🚀 🚀",
+            "stars": "723",
+            "forks": "66",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "存储库：学术时间机器📚欢迎访问包含过去计算机科学(CS)、软件工程(SE)和数据科学(DS)课程论文的存储库",
+            "url": "https://github.com/saleha-muzammil/Academic-Time-Machine",
+            "name": "saleha-muzammil /Academic-Time-Machine",
+            "description": "Repository: Academic Time Machine 📚Welcome to the repository containing past papers for computer science (CS), software engineering (SE), and data science (DS) courses",
+            "stars": "179",
+            "forks": "57",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "100天的机器学习",
+            "url": "https://github.com/campusx-official/100-days-of-machine-learning",
+            "name": "campusx-official /100-days-of-machine-learning",
+            "description": "100-days-of-machine-learning",
+            "stars": "942",
+            "forks": "1,442",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,411",
+            "forks": "2,613",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
