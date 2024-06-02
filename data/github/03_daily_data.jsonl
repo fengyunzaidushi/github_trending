@@ -10666,3 +10666,257 @@
         }
     ]
 }
+{
+    "06月02日": [
+        {
+            "zh_des": "一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供接口接口。",
+            "url": "https://github.com/jianchang512/ChatTTS-ui",
+            "name": "jianchang512 /ChatTTS-ui",
+            "description": "一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。",
+            "stars": "1,400",
+            "forks": "145",
+            "language": "Python",
+            "stars_today": "194 stars today"
+        },
+        {
+            "zh_des": "MusePose：一种姿态驱动的虚拟人生成框架",
+            "url": "https://github.com/TMElyralab/MusePose",
+            "name": "TMElyralab /MusePose",
+            "description": "MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation",
+            "stars": "1,185",
+            "forks": "64",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "一篇关于生成卡通插补的研究论文",
+            "url": "https://github.com/ToonCrafter/ToonCrafter",
+            "name": "ToonCrafter /ToonCrafter",
+            "description": "a research paper for generative cartoon interpolation",
+            "stars": "1,177",
+            "forks": "78",
+            "language": "Python",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "13,879",
+            "forks": "1,431",
+            "language": "Python",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "V-Express的目标是在参考图像、音频和V-KPS图像序列的控制下生成会说话的头部视频。",
+            "url": "https://github.com/tencent-ailab/V-Express",
+            "name": "tencent-ailab /V-Express",
+            "description": "V-Express aims to generate a talking head video under the control of a reference image, an audio, and a sequence of V-Kps images.",
+            "stars": "1,242",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "493 stars today"
+        },
+        {
+            "zh_des": "我们介绍了一个为代码生成任务设计的新模型。它在HumanEval基础数据集上的测试精度超过了GPT-4 Turbo(2024年4月)和GPT-40。",
+            "url": "https://github.com/bin123apple/AutoCoder",
+            "name": "bin123apple /AutoCoder",
+            "description": "We introduced a new model designed for the Code generation task. Its test accuracy on the HumanEval base dataset surpasses that of GPT-4 Turbo (April 2024) and GPT-4o.",
+            "stars": "440",
+            "forks": "35",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "Novita AI非正式地实现了动画任何人",
+            "url": "https://github.com/novitalabs/AnimateAnyone",
+            "name": "novitalabs /AnimateAnyone",
+            "description": "Unofficial Implementation of Animate Anyone by Novita AI",
+            "stars": "368",
+            "forks": "26",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "1,270",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "13,242",
+            "forks": "2,033",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "18,268",
+            "forks": "1,085",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "👋嗨，新来的毕业生🎉！我们收集了2024年SWE、QUANT、PM和TECH职位的全职职位空缺！🚀",
+            "url": "https://github.com/ReaVNaiL/New-Grad-2024",
+            "name": "ReaVNaiL /New-Grad-2024",
+            "description": "👋 Hey there new grad🎉! We've put together a collection of full-time job openings for SWE, Quant, PM and tech roles in 2024! 🚀",
+            "stars": "5,971",
+            "forks": "542",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🤗PEFT：最先进的参数高效微调。",
+            "url": "https://github.com/huggingface/peft",
+            "name": "huggingface /peft",
+            "description": "🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.",
+            "stars": "14,421",
+            "forks": "1,345",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "TorchInstall xformers，从https://download下载",
+            "url": "https://github.com/pengHTYX/Era3D",
+            "name": "pengHTYX /Era3D",
+            "description": "torchinstall xformers, download from https://download",
+            "stars": "300",
+            "forks": "12",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "6,116",
+            "forks": "689",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "用于Python的数据库工具包",
+            "url": "https://github.com/sqlalchemy/sqlalchemy",
+            "name": "sqlalchemy /sqlalchemy",
+            "description": "The Database Toolkit for Python",
+            "stars": "8,978",
+            "forks": "1,347",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "61,494",
+            "forks": "23,728",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "基于Awel和代理的AI原生数据应用开发框架",
+            "url": "https://github.com/eosphoros-ai/DB-GPT",
+            "name": "eosphoros-ai /DB-GPT",
+            "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+            "stars": "11,501",
+            "forks": "1,471",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "9,591",
+            "forks": "460",
+            "language": "Python",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "Llama.cpp的Python绑定",
+            "url": "https://github.com/abetlen/llama-cpp-python",
+            "name": "abetlen /llama-cpp-python",
+            "description": "Python bindings for llama.cpp",
+            "stars": "6,842",
+            "forks": "814",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Mail-in-a-Box通过定义一个一键式、易于部署的SMTP+Everything服务器来帮助个人重新控制其电子邮件：一个盒子中的邮件服务器。",
+            "url": "https://github.com/mail-in-a-box/mailinabox",
+            "name": "mail-in-a-box /mailinabox",
+            "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+            "stars": "13,526",
+            "forks": "1,414",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "提示",
+            "url": "https://github.com/sandeco/prompts",
+            "name": "sandeco /prompts",
+            "description": "prompts",
+            "stars": "170",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "7,816",
+            "forks": "486",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "35,362",
+            "forks": "23,037",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "将阶跃函数集成用于Bedrock此提示以新名称作为模板，作为阶跃函数执行输入的变量",
+            "url": "https://github.com/aws-samples/amazon-bedrock-serverless-prompt-chaining",
+            "name": "aws-samples /amazon-bedrock-serverless-prompt-chaining",
+            "description": "Use the Step Functions integration for BedrockThis prompt is templated with the novel name as a variablefrom the Step Functions execution input",
+            "stars": "96",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Chronos：概率时间序列预测的预训练(语言)模型",
+            "url": "https://github.com/amazon-science/chronos-forecasting",
+            "name": "amazon-science /chronos-forecasting",
+            "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+            "stars": "1,900",
+            "forks": "223",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        }
+    ]
+}

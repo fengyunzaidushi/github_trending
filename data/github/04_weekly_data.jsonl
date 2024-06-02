@@ -10666,3 +10666,257 @@
         }
     ]
 }
+{
+    "06月02日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "13,879",
+            "forks": "1,431",
+            "language": "Python",
+            "stars_today": "2,619 stars this week"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "10,817",
+            "forks": "528",
+            "language": "Python",
+            "stars_today": "3,798 stars this week"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行时间仅为1.5分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1.5 minutes to run.",
+            "stars": "11,330",
+            "forks": "1,110",
+            "language": "Python",
+            "stars_today": "786 stars this week"
+        },
+        {
+            "zh_des": "基于Llama3-8B的GPT4V级开源多通道模型",
+            "url": "https://github.com/THUDM/CogVLM2",
+            "name": "THUDM /CogVLM2",
+            "description": "GPT4V-level open-source multi-modal model based on Llama3-8B",
+            "stars": "1,086",
+            "forks": "57",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "4,452",
+            "forks": "318",
+            "language": "Python",
+            "stars_today": "815 stars this week"
+        },
+        {
+            "zh_des": "结构化文本生成",
+            "url": "https://github.com/outlines-dev/outlines",
+            "name": "outlines-dev /outlines",
+            "description": "Structured Text Generation",
+            "stars": "6,303",
+            "forks": "315",
+            "language": "Python",
+            "stars_today": "193 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "10,575",
+            "forks": "950",
+            "language": "Python",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "我的Python示例",
+            "url": "https://github.com/geekcomputers/Python",
+            "name": "geekcomputers /Python",
+            "description": "My Python Examples",
+            "stars": "30,291",
+            "forks": "12,033",
+            "language": "Python",
+            "stars_today": "142 stars this week"
+        },
+        {
+            "zh_des": "CodiumAI COVER-AGENT：一个基于AI的自动测试生成和代码覆盖增强工具！💻🤖🧪🐞",
+            "url": "https://github.com/Codium-ai/cover-agent",
+            "name": "Codium-ai /cover-agent",
+            "description": "CodiumAI Cover-Agent: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+            "stars": "3,669",
+            "forks": "225",
+            "language": "Python",
+            "stars_today": "817 stars this week"
+        },
+        {
+            "zh_des": "YOLOv10：实时端到端目标检测",
+            "url": "https://github.com/THU-MIG/yolov10",
+            "name": "THU-MIG /yolov10",
+            "description": "YOLOv10: Real-Time End-to-End Object Detection",
+            "stars": "6,467",
+            "forks": "437",
+            "language": "Python",
+            "stars_today": "5,947 stars this week"
+        },
+        {
+            "zh_des": "与您的SQL数据库交互，使用LLMS将自然语言转换为SQL",
+            "url": "https://github.com/Dataherald/dataherald",
+            "name": "Dataherald /dataherald",
+            "description": "Interact with your SQL database, Natural Language to SQL using LLMs",
+            "stars": "2,980",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "1,125 stars this week"
+        },
+        {
+            "zh_des": "SD.Next：稳定扩散和其他基于扩散的生成图像模型的高级实现",
+            "url": "https://github.com/vladmandic/automatic",
+            "name": "vladmandic /automatic",
+            "description": "SD.Next: Advanced Implementation of Stable Diffusion and other Diffusion-based generative image models",
+            "stars": "5,110",
+            "forks": "356",
+            "language": "Python",
+            "stars_today": "292 stars this week"
+        },
+        {
+            "zh_des": "在HamsterKombat挖掘硬币的机器人",
+            "url": "https://github.com/shamhi/HamsterKombatBot",
+            "name": "shamhi /HamsterKombatBot",
+            "description": "Bot that mines coins in HamsterKombat",
+            "stars": "176",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "开发人工智能Web代理的大动作模型框架",
+            "url": "https://github.com/lavague-ai/LaVague",
+            "name": "lavague-ai /LaVague",
+            "description": "Large Action Model framework to develop AI Web Agents",
+            "stars": "4,635",
+            "forks": "382",
+            "language": "Python",
+            "stars_today": "449 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "132,746",
+            "forks": "25,466",
+            "language": "Python",
+            "stars_today": "764 stars this week"
+        },
+        {
+            "zh_des": "最佳DDoS攻击脚本Python3，(Cyber/DDoS)攻击，共56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "11,781",
+            "forks": "2,451",
+            "language": "Python",
+            "stars_today": "262 stars this week"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,406",
+            "forks": "1,239",
+            "language": "Python",
+            "stars_today": "205 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "7,816",
+            "forks": "486",
+            "language": "Python",
+            "stars_today": "721 stars this week"
+        },
+        {
+            "zh_des": "Prefect是一种工作流协调工具，使开发人员能够构建、观察数据管道并对其做出反应",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines",
+            "stars": "15,094",
+            "forks": "1,493",
+            "language": "Python",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "将弹性语言代理构建为图形。",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "Build resilient language agents as graphs.",
+            "stars": "3,451",
+            "forks": "500",
+            "language": "Python",
+            "stars_today": "258 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "1,270",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "364 stars this week"
+        },
+        {
+            "zh_des": "Grok开放版本",
+            "url": "https://github.com/xai-org/grok-1",
+            "name": "xai-org /grok-1",
+            "description": "Grok open release",
+            "stars": "48,916",
+            "forks": "8,280",
+            "language": "Python",
+            "stars_today": "357 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "62,401",
+            "forks": "7,209",
+            "language": "Python",
+            "stars_today": "506 stars this week"
+        },
+        {
+            "zh_des": "支持最新PEP标准的现代Python包和依赖项管理器",
+            "url": "https://github.com/pdm-project/pdm",
+            "name": "pdm-project /pdm",
+            "description": "A modern Python package and dependency manager supporting the latest PEP standards",
+            "stars": "7,017",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "337 stars this week"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "23,172",
+            "forks": "4,773",
+            "language": "Python",
+            "stars_today": "158 stars this week"
+        }
+    ]
+}
