@@ -11428,3 +11428,257 @@
         }
     ]
 }
+{
+    "06月03日": [
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "34,830",
+            "forks": "1,646",
+            "language": "TypeScript",
+            "stars_today": "264 stars today"
+        },
+        {
+            "zh_des": "{podCastTitle}播客配置文件所有播客{userFirstName}此存储库包含与YouTube频道的深入教程对应的代码，可在我们的YouTube频道上找到，该频道名为",
+            "url": "https://github.com/adrianhajdin/podcastr",
+            "name": "adrianhajdin /podcastr",
+            "description": "{podcastTitle}Podcaster ProfileAll Podcasts{userFirstName}This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery",
+            "stars": "199",
+            "forks": "53",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "一个干净，优雅，美丽和强大的管理模板，基于Vue3，Vite5，TypeScrip，Pinia，NaveUI和UnoCSS。一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括Vue3，Vite5，打印，Pinia，NaveUI和UnoCss。",
+            "url": "https://github.com/soybeanjs/soybean-admin",
+            "name": "soybeanjs /soybean-admin",
+            "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+            "stars": "8,310",
+            "forks": "1,485",
+            "language": "TypeScript",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "20,795",
+            "forks": "468",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "21,517",
+            "forks": "1,625",
+            "language": "TypeScript",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "一个基于云的代码编辑环境，具有AI副驾驶和实时协作。",
+            "url": "https://github.com/ishaan1013/sandbox",
+            "name": "ishaan1013 /sandbox",
+            "description": "A cloud-based code editing environment with an AI copilot and real-time collaboration.",
+            "stars": "1,065",
+            "forks": "77",
+            "language": "TypeScript",
+            "stars_today": "270 stars today"
+        },
+        {
+            "zh_des": "九头蛇是一个游戏启动器，它有自己的嵌入式BitTorrent客户端和一个自我管理的重新打包刮取器。",
+            "url": "https://github.com/hydralauncher/hydra",
+            "name": "hydralauncher /hydra",
+            "description": "Hydra is a game launcher with its own embedded bittorrent client and a self-managed repack scraper.",
+            "stars": "8,644",
+            "forks": "1,282",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "29,235",
+            "forks": "6,743",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "小团队的开源项目经理",
+            "url": "https://github.com/hudy9x/namviek",
+            "name": "hudy9x /namviek",
+            "description": "The open-source project manager for tiny teams",
+            "stars": "1,482",
+            "forks": "146",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "在燃料网络上种植🍅。",
+            "url": "https://github.com/FuelLabs/sway-farm",
+            "name": "FuelLabs /sway-farm",
+            "description": "Farm 🍅 on the Fuel network.",
+            "stars": "1,248",
+            "forks": "236",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "一个受困惑启发的人工智能搜索引擎",
+            "url": "https://github.com/Nutlope/turboseek",
+            "name": "Nutlope /turboseek",
+            "description": "An AI search engine inspired by Perplexity",
+            "stars": "357",
+            "forks": "44",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "19,588",
+            "forks": "1,137",
+            "language": "TypeScript",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "显示为手绘的自定义元素的集合。非常适合线框或有趣的外观。",
+            "url": "https://github.com/rough-stuff/wired-elements",
+            "name": "rough-stuff /wired-elements",
+            "description": "Collection of custom elements that appear hand drawn. Great for wireframes or a fun look.",
+            "stars": "10,245",
+            "forks": "324",
+            "language": "TypeScript",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "一款基于浏览器的精灵宝可梦Fangame，灵感来自流氓风格。",
+            "url": "https://github.com/pagefaultgames/pokerogue",
+            "name": "pagefaultgames /pokerogue",
+            "description": "A browser based Pokémon fangame heavily inspired by the roguelite genre.",
+            "stars": "2,850",
+            "forks": "1,194",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "37,424",
+            "forks": "5,674",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "捆绑了定制插件(以及内置的广告拦截程序/下载程序)的YouTube音乐桌面应用程序",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "6,689",
+            "forks": "411",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "V2Ray Over CloudFlare工作人员的整体解决方案",
+            "url": "https://github.com/vfarid/v2ray-worker",
+            "name": "vfarid /v2ray-worker",
+            "description": "Total solution for V2Ray over Cloudflare's worker",
+            "stars": "768",
+            "forks": "976",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🧙‍♀️行动迅速，什么都不会打破。端到端类型安全API变得很容易。",
+            "url": "https://github.com/trpc/trpc",
+            "name": "trpc /trpc",
+            "description": "🧙‍♀️ Move Fast and Break Nothing. End-to-end typesafe APIs made easy.",
+            "stars": "33,159",
+            "forks": "1,177",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "一个基于Reaction原生开发的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-mobile",
+            "name": "lyswhut /lx-music-mobile",
+            "description": "一个基于 React native 开发的音乐软件",
+            "stars": "9,425",
+            "forks": "1,291",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "小白羊网盘-由阿里云盘提供支持。",
+            "url": "https://github.com/gaozhangmin/aliyunpan",
+            "name": "gaozhangmin /aliyunpan",
+            "description": "小白羊网盘 - Powered by 阿里云盘。",
+            "stars": "5,525",
+            "forks": "283",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "390,906",
+            "forks": "35,862",
+            "language": "TypeScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "Https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
+            "url": "https://github.com/AtotheY/saas-landingpage",
+            "name": "AtotheY /saas-landingpage",
+            "description": "https://map.sistilli.dev/public/coding/SaaS+Boilerplate",
+            "stars": "881",
+            "forks": "112",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "19,915",
+            "forks": "3,252",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "TypeSpec",
+            "url": "https://github.com/microsoft/typespec",
+            "name": "microsoft /typespec",
+            "description": "TypeSpec",
+            "stars": "3,590",
+            "forks": "161",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "燃料网络类型脚本SDK",
+            "url": "https://github.com/FuelLabs/fuels-ts",
+            "name": "FuelLabs /fuels-ts",
+            "description": "Fuel Network Typescript SDK",
+            "stars": "44,405",
+            "forks": "1,280",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        }
+    ]
+}

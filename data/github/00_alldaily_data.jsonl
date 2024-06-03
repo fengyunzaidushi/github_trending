@@ -11428,3 +11428,257 @@
         }
     ]
 }
+{
+    "06月03日": [
+        {
+            "zh_des": "你的形象就快到了！",
+            "url": "https://github.com/lllyasviel/Omost",
+            "name": "lllyasviel /Omost",
+            "description": "Your image is almost there!",
+            "stars": "3,171",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "1,692 stars today"
+        },
+        {
+            "zh_des": "适用于Windows、MacOS和Ubuntu的GPT-40",
+            "url": "https://github.com/onuratakan/gpt-computer-assistant",
+            "name": "onuratakan /gpt-computer-assistant",
+            "description": "gpt-4o for windows, macos and ubuntu",
+            "stars": "686",
+            "forks": "50",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供接口接口。",
+            "url": "https://github.com/jianchang512/ChatTTS-ui",
+            "name": "jianchang512 /ChatTTS-ui",
+            "description": "一个简单的本地网页界面，直接使用ChatTTS将文字合成为语音，同时支持对外提供API接口。",
+            "stars": "2,224",
+            "forks": "225",
+            "language": "Python",
+            "stars_today": "609 stars today"
+        },
+        {
+            "zh_des": "解锁俄罗斯、古巴、伊朗、朝鲜、克里米亚、苏丹和叙利亚的码头枢纽",
+            "url": "https://github.com/StasPlov/docker-unlock",
+            "name": "StasPlov /docker-unlock",
+            "description": "Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria",
+            "stars": "262",
+            "forks": "26",
+            "language": "Shell",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "10,360",
+            "forks": "500",
+            "language": "Python",
+            "stars_today": "580 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "34,830",
+            "forks": "1,646",
+            "language": "TypeScript",
+            "stars_today": "264 stars today"
+        },
+        {
+            "zh_des": "一篇关于生成卡通插补的研究论文",
+            "url": "https://github.com/ToonCrafter/ToonCrafter",
+            "name": "ToonCrafter /ToonCrafter",
+            "description": "a research paper for generative cartoon interpolation",
+            "stars": "2,847",
+            "forks": "211",
+            "language": "Python",
+            "stars_today": "1,345 stars today"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "9,951",
+            "forks": "760",
+            "language": "Python",
+            "stars_today": "247 stars today"
+        },
+        {
+            "zh_des": "在QEMU/KVM上运行MacOS。现在就支持OpenCore+蒙特雷+Ventura+Sonoma！现在只提供商业(付费)支持，以避免垃圾邮件问题。不需要Mac系统。",
+            "url": "https://github.com/kholia/OSX-KVM",
+            "name": "kholia /OSX-KVM",
+            "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+            "stars": "18,938",
+            "forks": "1,768",
+            "language": "Python",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "💤：Neovim的现代插件管理器",
+            "url": "https://github.com/folke/lazy.nvim",
+            "name": "folke /lazy.nvim",
+            "description": "💤 A modern plugin manager for Neovim",
+            "stars": "12,265",
+            "forks": "292",
+            "language": "Lua",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "{podCastTitle}播客配置文件所有播客{userFirstName}此存储库包含与YouTube频道的深入教程对应的代码，可在我们的YouTube频道上找到，该频道名为",
+            "url": "https://github.com/adrianhajdin/podcastr",
+            "name": "adrianhajdin /podcastr",
+            "description": "{podcastTitle}Podcaster ProfileAll Podcasts{userFirstName}This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, JavaScript Mastery",
+            "stars": "199",
+            "forks": "53",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "采用绞盘式减速器的机器人执行器试验台",
+            "url": "https://github.com/aaedmusa/Capstan-Drive",
+            "name": "aaedmusa /Capstan-Drive",
+            "description": "Robotic actuator test stand utilizing a Capstan Drive reducer",
+            "stars": "127",
+            "forks": "11",
+            "language": "",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "开放源码连续文件同步",
+            "url": "https://github.com/syncthing/syncthing",
+            "name": "syncthing /syncthing",
+            "description": "Open Source Continuous File Synchronization",
+            "stars": "60,540",
+            "forks": "4,059",
+            "language": "Go",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "生产级云就绪.NET 8初学者套件(Web API+Blazor客户端)，支持多租户，以及可节省约200+开发时间的整洁/模块化架构！包括所有电池。",
+            "url": "https://github.com/fullstackhero/dotnet-starter-kit",
+            "name": "fullstackhero /dotnet-starter-kit",
+            "description": "Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+            "stars": "4,204",
+            "forks": "1,302",
+            "language": "C#",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "一个干净，优雅，美丽和强大的管理模板，基于Vue3，Vite5，TypeScrip，Pinia，NaveUI和UnoCSS。一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括Vue3，Vite5，打印，Pinia，NaveUI和UnoCss。",
+            "url": "https://github.com/soybeanjs/soybean-admin",
+            "name": "soybeanjs /soybean-admin",
+            "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+            "stars": "8,310",
+            "forks": "1,485",
+            "language": "TypeScript",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "分流规则、重写写规则及脚本.",
+            "url": "https://github.com/blackmatrix7/ios_rule_script",
+            "name": "blackmatrix7 /ios_rule_script",
+            "description": "分流规则、重写写规则及脚本。",
+            "stars": "15,658",
+            "forks": "2,505",
+            "language": "JavaScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "用于更新的🧩补丁程序",
+            "url": "https://github.com/ReVanced/revanced-patches",
+            "name": "ReVanced /revanced-patches",
+            "description": "🧩 Patches for ReVanced",
+            "stars": "1,764",
+            "forks": "210",
+            "language": "Kotlin",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "万维网的另一种选择--浏览网页，如用Html、css和Lua制作的bus：//yi ppie.rizz。自定义Web浏览器、自定义HTML呈现引擎、自定义搜索引擎等。",
+            "url": "https://github.com/face-hh/webx",
+            "name": "face-hh /webx",
+            "description": "An alternative for the World Wide Web - browse websites such as buss://yippie.rizz made in HTML, CSS and Lua. Custom web browser, custom HTML rendering engine, custom search engine, and more.",
+            "stars": "950",
+            "forks": "92",
+            "language": "Rust",
+            "stars_today": "420 stars today"
+        },
+        {
+            "zh_des": "一种基于内核的Android根解决方案",
+            "url": "https://github.com/tiann/KernelSU",
+            "name": "tiann /KernelSU",
+            "description": "A Kernel based root solution for Android",
+            "stars": "8,727",
+            "forks": "1,401",
+            "language": "Kotlin",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "《呼啸波涛》Pack mods",
+            "url": "https://github.com/Gktwo/wuwa-mod",
+            "name": "Gktwo /wuwa-mod",
+            "description": "Wuthering Waves pak mods",
+            "stars": "85",
+            "forks": "8",
+            "language": "Batchfile",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "在PyTorch中从头开始逐步实现类似ChatGPT的LLM",
+            "url": "https://github.com/rasbt/LLMs-from-scratch",
+            "name": "rasbt /LLMs-from-scratch",
+            "description": "Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step",
+            "stars": "17,651",
+            "forks": "1,639",
+            "language": "Jupyter Notebook",
+            "stars_today": "290 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "174,971",
+            "forks": "23,050",
+            "language": "",
+            "stars_today": "211 stars today"
+        },
+        {
+            "zh_des": "ChatTTS是一个用于日常对话的生成性语音模型。",
+            "url": "https://github.com/2noise/ChatTTS",
+            "name": "2noise /ChatTTS",
+            "description": "ChatTTS is a generative speech model for daily dialogue.",
+            "stars": "18,029",
+            "forks": "1,883",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,840 stars today"
+        },
+        {
+            "zh_des": "建立在NVIDIA Isaac Sim上的机器人学习统一框架",
+            "url": "https://github.com/isaac-sim/IsaacLab",
+            "name": "isaac-sim /IsaacLab",
+            "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+            "stars": "978",
+            "forks": "311",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "亲爱的ImGui：面向C++的无膨胀图形用户界面，依赖性最小",
+            "url": "https://github.com/ocornut/imgui",
+            "name": "ocornut /imgui",
+            "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+            "stars": "56,749",
+            "forks": "9,812",
+            "language": "C++",
+            "stars_today": "46 stars today"
+        }
+    ]
+}
