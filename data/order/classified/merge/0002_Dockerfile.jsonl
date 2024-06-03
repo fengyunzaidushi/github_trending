@@ -1,0 +1,24 @@
+{
+    "Dockerfile": [
+        {
+            "zh_des": "基于Docker-Compose的预构建易受攻击环境",
+            "url": "https://github.com/vulhub/vulhub",
+            "name": "vulhub /vulhub",
+            "description": "Pre-Built Vulnerable Environments Based on Docker-Compose",
+            "stars": 16617,
+            "forks": "4,332",
+            "language": "Dockerfile",
+            "stars_today": "161 stars this week"
+        },
+        {
+            "zh_des": "(为开发人员分享快速参考备忘清单(速查表)",
+            "url": "https://github.com/jaywcjlove/reference",
+            "name": "jaywcjlove /reference",
+            "description": "为开发人员分享快速参考备忘清单(速查表)",
+            "stars": 9701,
+            "forks": "1,422",
+            "language": "Dockerfile",
+            "stars_today": "77 stars today"
+        }
+    ]
+}
