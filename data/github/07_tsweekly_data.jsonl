@@ -7364,3 +7364,257 @@
         }
     ]
 }
+{
+    "06月04日": [
+        {
+            "zh_des": "在任何企业中使用Agentic RAG的最简单方法",
+            "url": "https://github.com/ragapp/ragapp",
+            "name": "ragapp /ragapp",
+            "description": "The easiest way to use Agentic RAG in any enterprise",
+            "stars": "2,207",
+            "forks": "184",
+            "language": "TypeScript",
+            "stars_today": "1,335 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "7,155",
+            "forks": "720",
+            "language": "TypeScript",
+            "stars_today": "817 stars this week"
+        },
+        {
+            "zh_des": "🔍AI搜索引擎-使用本地或云LLM进行自我托管",
+            "url": "https://github.com/rashadphz/farfalle",
+            "name": "rashadphz /farfalle",
+            "description": "🔍 AI search engine - self-host with local or cloud LLMs",
+            "stars": "1,887",
+            "forks": "139",
+            "language": "TypeScript",
+            "stars_today": "515 stars this week"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,208",
+            "forks": "422",
+            "language": "TypeScript",
+            "stars_today": "766 stars this week"
+        },
+        {
+            "zh_des": "Clash Verge的延续-基于Tauri(Windows、MacOS、Linux)的Clash Meta图形用户界面",
+            "url": "https://github.com/clash-verge-rev/clash-verge-rev",
+            "name": "clash-verge-rev /clash-verge-rev",
+            "description": "Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)",
+            "stars": "21,583",
+            "forks": "1,629",
+            "language": "TypeScript",
+            "stars_today": "762 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "19,599",
+            "forks": "1,137",
+            "language": "TypeScript",
+            "stars_today": "737 stars this week"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,138",
+            "forks": "4,731",
+            "language": "TypeScript",
+            "stars_today": "240 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue使您能够在您的集成开发环境中创建自己的AI代码助手。使用开源VS代码和JetBrains扩展让您的开发人员保持畅通",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions",
+            "stars": "12,302",
+            "forks": "785",
+            "language": "TypeScript",
+            "stars_today": "316 stars this week"
+        },
+        {
+            "zh_des": "只需编写一次组件，就可以随处运行。编译为Reaction、Vue、Qwik、Solid、Angular、Svelte等。",
+            "url": "https://github.com/BuilderIO/mitosis",
+            "name": "BuilderIO /mitosis",
+            "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+            "stars": "11,568",
+            "forks": "500",
+            "language": "TypeScript",
+            "stars_today": "449 stars this week"
+        },
+        {
+            "zh_des": "闪存操作系统映像到SD卡和USB驱动器，安全、轻松。",
+            "url": "https://github.com/balena-io/etcher",
+            "name": "balena-io /etcher",
+            "description": "Flash OS images to SD cards & USB drives, safely and easily.",
+            "stars": "28,184",
+            "forks": "2,015",
+            "language": "TypeScript",
+            "stars_today": "106 stars this week"
+        },
+        {
+            "zh_des": "Quill是为兼容性和可扩展性而构建的现代所见即所得编辑器",
+            "url": "https://github.com/slab/quill",
+            "name": "slab /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+            "stars": "41,876",
+            "forks": "3,285",
+            "language": "TypeScript",
+            "stars_today": "148 stars this week"
+        },
+        {
+            "zh_des": "一个干净，优雅，美丽和强大的管理模板，基于Vue3，Vite5，TypeScrip，Pinia，NaveUI和UnoCSS。一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括Vue3，Vite5，打印，Pinia，NaveUI和UnoCss。",
+            "url": "https://github.com/soybeanjs/soybean-admin",
+            "name": "soybeanjs /soybean-admin",
+            "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+            "stars": "8,425",
+            "forks": "1,499",
+            "language": "TypeScript",
+            "stars_today": "413 stars this week"
+        },
+        {
+            "zh_des": "WrenAI使您的数据库准备就绪。更准确、更安全地实现文本到SQL的转换。",
+            "url": "https://github.com/Canner/WrenAI",
+            "name": "Canner /WrenAI",
+            "description": "WrenAI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.",
+            "stars": "943",
+            "forks": "72",
+            "language": "TypeScript",
+            "stars_today": "299 stars this week"
+        },
+        {
+            "zh_des": "用于数据获取的Reaction钩子",
+            "url": "https://github.com/vercel/swr",
+            "name": "vercel /swr",
+            "description": "React Hooks for Data Fetching",
+            "stars": "29,705",
+            "forks": "1,190",
+            "language": "TypeScript",
+            "stars_today": "83 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "2,553",
+            "forks": "240",
+            "language": "TypeScript",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "14,158",
+            "forks": "3,626",
+            "language": "TypeScript",
+            "stars_today": "307 stars this week"
+        },
+        {
+            "zh_des": "Oblivion Desktop-Windows/Mac/Linux的非官方Warp客户端",
+            "url": "https://github.com/bepass-org/oblivion-desktop",
+            "name": "bepass-org /oblivion-desktop",
+            "description": "Oblivion Desktop - Unofficial Warp Client for Windows/Mac/Linux",
+            "stars": "3,716",
+            "forks": "452",
+            "language": "TypeScript",
+            "stars_today": "631 stars this week"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,138",
+            "forks": "6,676",
+            "language": "TypeScript",
+            "stars_today": "25 stars this week"
+        },
+        {
+            "zh_des": "爬行站点以生成知识文件，以便从URL创建您自己的自定义GPT",
+            "url": "https://github.com/BuilderIO/gpt-crawler",
+            "name": "BuilderIO /gpt-crawler",
+            "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+            "stars": "17,973",
+            "forks": "1,855",
+            "language": "TypeScript",
+            "stars_today": "93 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "32,415",
+            "forks": "4,289",
+            "language": "TypeScript",
+            "stars_today": "1,292 stars this week"
+        },
+        {
+            "zh_des": "可自行托管的书签-一切应用(链接、笔记和图像)，基于人工智能的自动标记和全文搜索",
+            "url": "https://github.com/hoarder-app/hoarder",
+            "name": "hoarder-app /hoarder",
+            "description": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+            "stars": "1,733",
+            "forks": "52",
+            "language": "TypeScript",
+            "stars_today": "230 stars this week"
+        },
+        {
+            "zh_des": "“快速”打造“专属”问卷系统，让调研“更轻松”",
+            "url": "https://github.com/didi/xiaoju-survey",
+            "name": "didi /xiaoju-survey",
+            "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+            "stars": "1,624",
+            "forks": "188",
+            "language": "TypeScript",
+            "stars_today": "940 stars this week"
+        },
+        {
+            "zh_des": "V2Ray Over CloudFlare工作人员的整体解决方案",
+            "url": "https://github.com/vfarid/v2ray-worker",
+            "name": "vfarid /v2ray-worker",
+            "description": "Total solution for V2Ray over Cloudflare's worker",
+            "stars": "770",
+            "forks": "978",
+            "language": "TypeScript",
+            "stars_today": "66 stars this week"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "23,812",
+            "forks": "3,976",
+            "language": "TypeScript",
+            "stars_today": "193 stars this week"
+        },
+        {
+            "zh_des": "面向设计工程师的UI库。您可以将动画组件和效果复制粘贴到您的应用程序中。免费的。开放源码。",
+            "url": "https://github.com/magicuidesign/magicui",
+            "name": "magicuidesign /magicui",
+            "description": "UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.",
+            "stars": "3,427",
+            "forks": "111",
+            "language": "TypeScript",
+            "stars_today": "890 stars this week"
+        }
+    ]
+}
