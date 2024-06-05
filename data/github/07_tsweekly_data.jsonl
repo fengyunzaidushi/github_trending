@@ -8126,3 +8126,187 @@
         }
     ]
 }
+{
+    "06月05日": [
+        {
+            "zh_des": "“快速”打造“专属”问卷系统，让调研“更轻松”",
+            "url": "https://github.com/didi/xiaoju-survey",
+            "name": "didi /xiaoju-survey",
+            "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+            "stars": "1,657",
+            "forks": "193",
+            "language": "TypeScript",
+            "stars_today": "833 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "7,209",
+            "forks": "723",
+            "language": "TypeScript",
+            "stars_today": "626 stars this week"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,295",
+            "forks": "427",
+            "language": "TypeScript",
+            "stars_today": "704 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "19,686",
+            "forks": "1,137",
+            "language": "TypeScript",
+            "stars_today": "670 stars this week"
+        },
+        {
+            "zh_des": "流畅的UI Web代表了用于构建Web应用程序的实用程序、Reaction组件和Web组件的集合。",
+            "url": "https://github.com/microsoft/fluentui",
+            "name": "microsoft /fluentui",
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "stars": "17,881",
+            "forks": "2,664",
+            "language": "TypeScript",
+            "stars_today": "90 stars this week"
+        },
+        {
+            "zh_des": "使用React、Svelte、Vue和Solid构建人工智能支持的应用程序",
+            "url": "https://github.com/vercel/ai",
+            "name": "vercel /ai",
+            "description": "Build AI-powered applications with React, Svelte, Vue, and Solid",
+            "stars": "8,210",
+            "forks": "1,123",
+            "language": "TypeScript",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue使您能够在您的集成开发环境中创建自己的AI代码助手。使用开源VS代码和JetBrains扩展让您的开发人员保持畅通",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions",
+            "stars": "12,339",
+            "forks": "794",
+            "language": "TypeScript",
+            "stars_today": "293 stars this week"
+        },
+        {
+            "zh_des": "只需编写一次组件，就可以随处运行。编译为Reaction、Vue、Qwik、Solid、Angular、Svelte等。",
+            "url": "https://github.com/BuilderIO/mitosis",
+            "name": "BuilderIO /mitosis",
+            "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+            "stars": "11,590",
+            "forks": "501",
+            "language": "TypeScript",
+            "stars_today": "464 stars this week"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "20,873",
+            "forks": "473",
+            "language": "TypeScript",
+            "stars_today": "347 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "35,152",
+            "forks": "1,651",
+            "language": "TypeScript",
+            "stars_today": "922 stars this week"
+        },
+        {
+            "zh_des": "用于数据获取的Reaction钩子",
+            "url": "https://github.com/vercel/swr",
+            "name": "vercel /swr",
+            "description": "React Hooks for Data Fetching",
+            "stars": "29,710",
+            "forks": "1,190",
+            "language": "TypeScript",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "37,484",
+            "forks": "5,685",
+            "language": "TypeScript",
+            "stars_today": "221 stars this week"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "60,234",
+            "forks": "3,357",
+            "language": "TypeScript",
+            "stars_today": "567 stars this week"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "52,617",
+            "forks": "4,817",
+            "language": "TypeScript",
+            "stars_today": "164 stars this week"
+        },
+        {
+            "zh_des": "一款简单、轻便、安全的WAF。基于Nginx开发，并作为反向代理连接。保护您的Web应用程序免受常见攻击和利用。",
+            "url": "https://github.com/chaitin/SafeLine",
+            "name": "chaitin /SafeLine",
+            "description": "A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.",
+            "stars": "10,247",
+            "forks": "600",
+            "language": "TypeScript",
+            "stars_today": "958 stars this week"
+        },
+        {
+            "zh_des": "全栈，现代Web应用程序模板。使用FastAPI、Reaction、SQLModel、PostgreSQL、Docker、GitHub操作、自动HTTPS等。",
+            "url": "https://github.com/tiangolo/full-stack-fastapi-template",
+            "name": "tiangolo /full-stack-fastapi-template",
+            "description": "Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.",
+            "stars": "23,851",
+            "forks": "3,985",
+            "language": "TypeScript",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "一个基于Reaction原生开发的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-mobile",
+            "name": "lyswhut /lx-music-mobile",
+            "description": "一个基于 React native 开发的音乐软件",
+            "stars": "9,466",
+            "forks": "1,298",
+            "language": "TypeScript",
+            "stars_today": "116 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "41,687",
+            "forks": "5,292",
+            "language": "TypeScript",
+            "stars_today": "203 stars this week"
+        }
+    ]
+}

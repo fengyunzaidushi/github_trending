@@ -12444,3 +12444,167 @@
         }
     ]
 }
+{
+    "06月05日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "14,642",
+            "forks": "1,516",
+            "language": "Python",
+            "stars_today": "3,171 stars this week"
+        },
+        {
+            "zh_des": "“快速”打造“专属”问卷系统，让调研“更轻松”",
+            "url": "https://github.com/didi/xiaoju-survey",
+            "name": "didi /xiaoju-survey",
+            "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+            "stars": "1,657",
+            "forks": "193",
+            "language": "TypeScript",
+            "stars_today": "833 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "5,855",
+            "forks": "410",
+            "language": "Python",
+            "stars_today": "1,354 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "11,145",
+            "forks": "535",
+            "language": "Python",
+            "stars_today": "1,652 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "18,336",
+            "forks": "1,538",
+            "language": "C++",
+            "stars_today": "804 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "33,461",
+            "forks": "9,956",
+            "language": "C++",
+            "stars_today": "171 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "7,209",
+            "forks": "723",
+            "language": "TypeScript",
+            "stars_today": "626 stars this week"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "13,957",
+            "forks": "935",
+            "language": "Lua",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "151,282",
+            "forks": "51,475",
+            "language": "Python",
+            "stars_today": "329 stars this week"
+        },
+        {
+            "zh_des": "Ghidra是一个软件逆向工程(SRE)框架",
+            "url": "https://github.com/NationalSecurityAgency/ghidra",
+            "name": "NationalSecurityAgency /ghidra",
+            "description": "Ghidra is a software reverse engineering (SRE) framework",
+            "stars": "48,623",
+            "forks": "5,610",
+            "language": "Java",
+            "stars_today": "402 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "3,211",
+            "forks": "530",
+            "language": "Python",
+            "stars_today": "56 stars this week"
+        },
+        {
+            "zh_des": "建立在NVIDIA Isaac Sim上的机器人学习统一框架",
+            "url": "https://github.com/isaac-sim/IsaacLab",
+            "name": "isaac-sim /IsaacLab",
+            "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+            "stars": "1,182",
+            "forks": "331",
+            "language": "Python",
+            "stars_today": "192 stars this week"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,491",
+            "forks": "189",
+            "language": "Python",
+            "stars_today": "597 stars this week"
+        },
+        {
+            "zh_des": "花哨的流处理使操作变得平凡",
+            "url": "https://github.com/redpanda-data/connect",
+            "name": "redpanda-data /connect",
+            "description": "Fancy stream processing made operationally mundane",
+            "stars": "7,896",
+            "forks": "778",
+            "language": "Go",
+            "stars_today": "185 stars this week"
+        },
+        {
+            "zh_des": "开放源码连续文件同步",
+            "url": "https://github.com/syncthing/syncthing",
+            "name": "syncthing /syncthing",
+            "description": "Open Source Continuous File Synchronization",
+            "stars": "60,923",
+            "forks": "4,079",
+            "language": "Go",
+            "stars_today": "528 stars this week"
+        },
+        {
+            "zh_des": "可扩展的、可靠的和高性能的大型系统的模式",
+            "url": "https://github.com/binhnguyennus/awesome-scalability",
+            "name": "binhnguyennus /awesome-scalability",
+            "description": "The Patterns of Scalable, Reliable, and Performant Large-Scale Systems",
+            "stars": "55,659",
+            "forks": "5,755",
+            "language": "",
+            "stars_today": "1,092 stars this week"
+        }
+    ]
+}
