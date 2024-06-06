@@ -12618,3 +12618,177 @@
         }
     ]
 }
+{
+    "06月06日": [
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "26,253",
+            "forks": "13,399",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "16,275",
+            "forks": "2,084",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "59,801",
+            "forks": "12,826",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "一位现代的VUE管理员。它是基于Vue3、Vite和打印脚本的。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+            "stars": "22,581",
+            "forks": "6,194",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "该存储库包含OpenTelemeter Astronomy Shop，这是一个基于微服务的分布式系统，旨在演示OpenTelemeter在接近真实世界的环境中的实现。",
+            "url": "https://github.com/open-telemetry/opentelemetry-demo",
+            "name": "open-telemetry /opentelemetry-demo",
+            "description": "This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.",
+            "stars": "1,496",
+            "forks": "826",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "在燃料网络上种植🍅。",
+            "url": "https://github.com/FuelLabs/sway-farm",
+            "name": "FuelLabs /sway-farm",
+            "description": "Farm 🍅 on the Fuel network.",
+            "stars": "1,284",
+            "forks": "252",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Yamada的反应UI组件，由Yamada为Yamada构建的反应和情感。",
+            "url": "https://github.com/yamada-ui/yamada-ui",
+            "name": "yamada-ui /yamada-ui",
+            "description": "React UI components of the Yamada, by the Yamada, for the Yamada built with React and Emotion.",
+            "stars": "635",
+            "forks": "145",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "17,711",
+            "forks": "1,485",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "35,168",
+            "forks": "1,655",
+            "language": "TypeScript",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "🔍发现导航，最强静态导航网站",
+            "url": "https://github.com/xjh22222228/nav",
+            "name": "xjh22222228 /nav",
+            "description": "🔍 发现导航 , 最强静态导航网站",
+            "stars": "1,905",
+            "forks": "1,028",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "26,780",
+            "forks": "5,540",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用于调试⚙️应用程序的Vue.js浏览器DevTool扩展。",
+            "url": "https://github.com/vuejs/devtools",
+            "name": "vuejs /devtools",
+            "description": "⚙️ Browser devtools extension for debugging Vue.js applications.",
+            "stars": "24,440",
+            "forks": "4,122",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "OpenMetadata是一个统一的发现、可观察性和治理平台，由中央元数据存储库、深入的谱系和无缝的团队协作提供支持。",
+            "url": "https://github.com/open-metadata/OpenMetadata",
+            "name": "open-metadata /OpenMetadata",
+            "description": "OpenMetadata is a unified platform for discovery, observability, and governance powered by a central metadata repository, in-depth lineage, and seamless team collaboration.",
+            "stars": "4,374",
+            "forks": "878",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "60,269",
+            "forks": "3,360",
+            "language": "TypeScript",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "一个基于块(概念风格)且可扩展的Reaction富文本编辑器。建立在ProSemirror和TipTap的基础上。",
+            "url": "https://github.com/TypeCellOS/BlockNote",
+            "name": "TypeCellOS /BlockNote",
+            "description": "A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.",
+            "stars": "5,513",
+            "forks": "347",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "构建管理面板、内部工具和仪表板的平台。与25个以上的数据库和任何API集成。",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "name": "appsmithorg /appsmith",
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "stars": "32,044",
+            "forks": "3,460",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "用于在Web上创建白板和画布体验的SDK。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "SDK for creating whiteboards and canvas experiences on the web.",
+            "stars": "33,536",
+            "forks": "2,008",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        }
+    ]
+}
