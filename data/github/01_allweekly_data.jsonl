@@ -13100,3 +13100,177 @@
         }
     ]
 }
+{
+    "06月07日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,034",
+            "forks": "1,557",
+            "language": "Python",
+            "stars_today": "2,150 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "6,644",
+            "forks": "457",
+            "language": "Python",
+            "stars_today": "2,085 stars this week"
+        },
+        {
+            "zh_des": "“快速”打造“专属”问卷系统，让调研“更轻松”",
+            "url": "https://github.com/didi/xiaoju-survey",
+            "name": "didi /xiaoju-survey",
+            "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+            "stars": "1,722",
+            "forks": "200",
+            "language": "TypeScript",
+            "stars_today": "414 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "18,670",
+            "forks": "1,553",
+            "language": "C++",
+            "stars_today": "990 stars this week"
+        },
+        {
+            "zh_des": "Mamba SSM架构",
+            "url": "https://github.com/state-spaces/mamba",
+            "name": "state-spaces /mamba",
+            "description": "Mamba SSM architecture",
+            "stars": "10,857",
+            "forks": "865",
+            "language": "Python",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "18,757",
+            "forks": "1,100",
+            "language": "Python",
+            "stars_today": "792 stars this week"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "27,602",
+            "forks": "3,092",
+            "language": "C",
+            "stars_today": "578 stars this week"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,090",
+            "forks": "943",
+            "language": "Lua",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "用于更新的🧩补丁程序",
+            "url": "https://github.com/ReVanced/revanced-patches",
+            "name": "ReVanced /revanced-patches",
+            "description": "🧩 Patches for ReVanced",
+            "stars": "1,844",
+            "forks": "209",
+            "language": "Kotlin",
+            "stars_today": "367 stars this week"
+        },
+        {
+            "zh_des": "开放源码连续文件同步",
+            "url": "https://github.com/syncthing/syncthing",
+            "name": "syncthing /syncthing",
+            "description": "Open Source Continuous File Synchronization",
+            "stars": "61,173",
+            "forks": "4,085",
+            "language": "Go",
+            "stars_today": "875 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "10,977",
+            "forks": "1,051",
+            "language": "Python",
+            "stars_today": "399 stars this week"
+        },
+        {
+            "zh_des": "💤：Neovim的现代插件管理器",
+            "url": "https://github.com/folke/lazy.nvim",
+            "name": "folke /lazy.nvim",
+            "description": "💤 A modern plugin manager for Neovim",
+            "stars": "12,402",
+            "forks": "295",
+            "language": "Lua",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "151,411",
+            "forks": "51,487",
+            "language": "Python",
+            "stars_today": "516 stars this week"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "7,486",
+            "forks": "767",
+            "language": "Python",
+            "stars_today": "493 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "33,482",
+            "forks": "9,956",
+            "language": "C++",
+            "stars_today": "167 stars this week"
+        },
+        {
+            "zh_des": "这个项目旨在复制SORA(Open AI T2V模型)，我们希望开源社区能为这个项目做出贡献。",
+            "url": "https://github.com/PKU-YuanGroup/Open-Sora-Plan",
+            "name": "PKU-YuanGroup /Open-Sora-Plan",
+            "description": "This project aim to reproduce Sora (Open AI T2V model), we wish the open source community contribute to this project.",
+            "stars": "10,686",
+            "forks": "961",
+            "language": "Python",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "Moonlight的自托管游戏流主机。",
+            "url": "https://github.com/LizardByte/Sunshine",
+            "name": "LizardByte /Sunshine",
+            "description": "Self-hosted game stream host for Moonlight.",
+            "stars": "14,284",
+            "forks": "688",
+            "language": "C++",
+            "stars_today": "468 stars this week"
+        }
+    ]
+}
