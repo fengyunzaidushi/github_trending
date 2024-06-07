@@ -12936,3 +12936,167 @@
         }
     ]
 }
+{
+    "06月07日": [
+        {
+            "zh_des": "fabric是一个使用人工智能增强人类的开源框架。它提供了一个模块化框架，用于使用一组可在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "14,904",
+            "forks": "1,541",
+            "language": "Python",
+            "stars_today": "2,150 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama 3-V 2.5：手机上的GPT-4V级多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "6,551",
+            "forks": "452",
+            "language": "Python",
+            "stars_today": "2,085 stars this week"
+        },
+        {
+            "zh_des": "“快速”打造“专业”卷系统，让调整“更轻松”",
+            "url": "https://github.com/didi/xiaoju-survey",
+            "name": "didi /xiaoju-survey",
+            "description": "「快速」打造「专属」问卷系统, 让调研「更轻松」",
+            "stars": "1,705",
+            "forks": "198",
+            "language": "TypeScript",
+            "stars_today": "414 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析性进程中SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "18,619",
+            "forks": "1,552",
+            "language": "C++",
+            "stars_today": "990 stars this week"
+        },
+        {
+            "zh_des": "DeliverPostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "18,719",
+            "forks": "1,098",
+            "language": "Python",
+            "stars_today": "792 stars this week"
+        },
+        {
+            "zh_des": "🧩ReVanced的收件箱补丁",
+            "url": "https://github.com/ReVanced/revanced-patches",
+            "name": "ReVanced /revanced-patches",
+            "description": "🧩 Patches for ReVanced",
+            "stars": "1,839",
+            "forks": "209",
+            "language": "Kotlin",
+            "stars_today": "367 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest -谷歌测试和嘲笑框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "33,482",
+            "forks": "9,956",
+            "language": "C++",
+            "stars_today": "167 stars this week"
+        },
+        {
+            "zh_des": "RAG（检索增强生成）框架，用于构建模块化、开源应用程序以供TrueFoundry生产",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,574",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "425 stars this week"
+        },
+        {
+            "zh_des": "💤Neovim的现代插件管理器",
+            "url": "https://github.com/folke/lazy.nvim",
+            "name": "folke /lazy.nvim",
+            "description": "💤 A modern plugin manager for Neovim",
+            "stars": "12,383",
+            "forks": "294",
+            "language": "Lua",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "曼巴ESM架构",
+            "url": "https://github.com/state-spaces/mamba",
+            "name": "state-spaces /mamba",
+            "description": "Mamba SSM architecture",
+            "stars": "10,826",
+            "forks": "864",
+            "language": "Python",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "适合懒惰者的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,018",
+            "forks": "942",
+            "language": "Lua",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "Python - 100天从新人到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "151,373",
+            "forks": "51,482",
+            "language": "Python",
+            "stars_today": "516 stars this week"
+        },
+        {
+            "zh_des": "我的电视 电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "27,553",
+            "forks": "3,087",
+            "language": "C",
+            "stars_today": "578 stars this week"
+        },
+        {
+            "zh_des": "开源连续文件同步",
+            "url": "https://github.com/syncthing/syncthing",
+            "name": "syncthing /syncthing",
+            "description": "Open Source Continuous File Synchronization",
+            "stars": "61,149",
+            "forks": "4,084",
+            "language": "Go",
+            "stars_today": "875 stars this week"
+        },
+        {
+            "zh_des": "🤖与您的SQL数据库📊使用RAG收件箱通过LLM准确生成文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "7,764",
+            "forks": "574",
+            "language": "Python",
+            "stars_today": "211 stars this week"
+        },
+        {
+            "zh_des": "助手是您终端中的人工智能配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "10,902",
+            "forks": "1,045",
+            "language": "Python",
+            "stars_today": "399 stars this week"
+        }
+    ]
+}
