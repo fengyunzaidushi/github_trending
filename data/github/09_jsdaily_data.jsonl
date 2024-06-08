@@ -9186,3 +9186,207 @@
         }
     ]
 }
+{
+    "06月08日": [
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "18,698",
+            "forks": "2,828",
+            "language": "JavaScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "侵入性的“广告拦截器不允许在YouTube上出现”的消息令人恼火。这个开源项目旨在通过提供一个绕过YouTube的广告拦截程序检测的解决方案来解决这个问题",
+            "url": "https://github.com/TheRealJoelmatic/RemoveAdblockThing",
+            "name": "TheRealJoelmatic /RemoveAdblockThing",
+            "description": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection",
+            "stars": "5,606",
+            "forks": "303",
+            "language": "JavaScript",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "104,629",
+            "forks": "28,248",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "👩‍💻👨‍💻流行编程语言、框架和开发工具的绝妙小抄。它们将您应该知道的所有内容都包含在一个文件中。",
+            "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+            "name": "LeCoupa /awesome-cheatsheets",
+            "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+            "stars": "38,091",
+            "forks": "5,973",
+            "language": "JavaScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "121,997",
+            "forks": "26,101",
+            "language": "JavaScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "46,307",
+            "forks": "3,127",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "这个是一个将云闪存工作人员-VLESS搭配自建优选域名的订阅生成器",
+            "url": "https://github.com/cmliu/WorkerVless2sub",
+            "name": "cmliu /WorkerVless2sub",
+            "description": "这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器",
+            "stars": "2,192",
+            "forks": "3,109",
+            "language": "JavaScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "223,970",
+            "forks": "45,622",
+            "language": "JavaScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "为现代网络构建的基于Node.js的论坛软件",
+            "url": "https://github.com/NodeBB/NodeBB",
+            "name": "NodeBB /NodeBB",
+            "description": "Node.js based forum software built for the modern web",
+            "stars": "13,974",
+            "forks": "2,742",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于Reaction的最佳框架，具有内置的性能、可扩展性和安全性。",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "name": "gatsbyjs /gatsby",
+            "description": "The best React-based framework with performance, scalability and security built in.",
+            "stars": "55,100",
+            "forks": "10,338",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "30天的反应挑战是一个循序渐进的指南，让你在30天内学会反应。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-React",
+            "name": "Asabeneh /30-Days-Of-React",
+            "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "24,457",
+            "forks": "6,963",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "4,850",
+            "forks": "799",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "📦🚀全自动版本管理和包发布",
+            "url": "https://github.com/semantic-release/semantic-release",
+            "name": "semantic-release /semantic-release",
+            "description": "📦🚀 Fully automated version management and package publishing",
+            "stars": "19,996",
+            "forks": "1,652",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "带上你自己漂亮的‘.is-a.dev’子域名。",
+            "url": "https://github.com/is-a-dev/register",
+            "name": "is-a-dev /register",
+            "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+            "stars": "2,816",
+            "forks": "7,043",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Meteor，Java应用程序平台",
+            "url": "https://github.com/meteor/meteor",
+            "name": "meteor /meteor",
+            "description": "Meteor, the JavaScript App Platform",
+            "stars": "44,099",
+            "forks": "5,156",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "DropZone是一个易于使用的拖放库。它支持图像预览，并显示漂亮的进度条。",
+            "url": "https://github.com/dropzone/dropzone",
+            "name": "dropzone /dropzone",
+            "description": "Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.",
+            "stars": "17,912",
+            "forks": "3,290",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "167,816",
+            "forks": "78,484",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "具有电子表格外观的Java数据网格。适用于反应、角度和Vue。由Handsontable Team⚡支持",
+            "url": "https://github.com/handsontable/handsontable",
+            "name": "handsontable /handsontable",
+            "description": "JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+            "stars": "19,367",
+            "forks": "2,978",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Io是一个用于常规图表绘制的JavaScript客户端编辑器。",
+            "url": "https://github.com/jgraph/drawio",
+            "name": "jgraph /drawio",
+            "description": "draw.io is a JavaScript, client-side editor for general diagramming.",
+            "stars": "39,193",
+            "forks": "7,360",
+            "language": "JavaScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,280",
+            "forks": "8,730",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
