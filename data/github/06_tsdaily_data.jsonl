@@ -13568,3 +13568,177 @@
         }
     ]
 }
+{
+    "06月08日": [
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "2,193",
+            "forks": "157",
+            "language": "TypeScript",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,142",
+            "forks": "3,617",
+            "language": "TypeScript",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "🚀美观、快速、现代的Reaction UI库。",
+            "url": "https://github.com/nextui-org/nextui",
+            "name": "nextui-org /nextui",
+            "description": "🚀 Beautiful, fast and modern React UI library.",
+            "stars": "19,966",
+            "forks": "1,153",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "用于与不一致API进行交互的功能强大的JavaScript库",
+            "url": "https://github.com/discordjs/discord.js",
+            "name": "discordjs /discord.js",
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "stars": "24,933",
+            "forks": "3,934",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "小团队的开源项目经理",
+            "url": "https://github.com/hudy9x/namviek",
+            "name": "hudy9x /namviek",
+            "description": "The open-source project manager for tiny teams",
+            "stars": "1,609",
+            "forks": "172",
+            "language": "TypeScript",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "TODO：在比较之后，给它们一个特殊的名称",
+            "url": "https://github.com/RhysSullivan/shiptalkers",
+            "name": "RhysSullivan /shiptalkers",
+            "description": "TODO:after comparing, give them a special name i",
+            "stars": "570",
+            "forks": "25",
+            "language": "TypeScript",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "官方不和谐API文档",
+            "url": "https://github.com/discord/discord-api-docs",
+            "name": "discord /discord-api-docs",
+            "description": "Official Discord API Documentation",
+            "stars": "5,782",
+            "forks": "1,233",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "这是一个免费的开源SaaS应用程序初学者，适用于具有超能力的Reaction&Node.js。生产准备就绪。以社区为导向。",
+            "url": "https://github.com/wasp-lang/open-saas",
+            "name": "wasp-lang /open-saas",
+            "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+            "stars": "5,546",
+            "forks": "523",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "🎯队列后台作业检查器",
+            "url": "https://github.com/felixmosh/bull-board",
+            "name": "felixmosh /bull-board",
+            "description": "🎯 Queue background jobs inspector",
+            "stars": "2,078",
+            "forks": "335",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "AWS-使用Bedock+Claude的原生聊天机器人",
+            "url": "https://github.com/aws-samples/bedrock-claude-chat",
+            "name": "aws-samples /bedrock-claude-chat",
+            "description": "AWS-native chatbot using Bedrock + Claude",
+            "stars": "629",
+            "forks": "207",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "11,273",
+            "forks": "3,747",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "6,335",
+            "forks": "817",
+            "language": "TypeScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,402",
+            "forks": "8,008",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🐉Vue组件框架",
+            "url": "https://github.com/vuetifyjs/vuetify",
+            "name": "vuetifyjs /vuetify",
+            "description": "🐉 Vue Component Framework",
+            "stars": "39,210",
+            "forks": "6,933",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "32,297",
+            "forks": "7,714",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "HTML5创建引擎：使用最快、最灵活的2D WebGL渲染器创建美丽的数字内容。",
+            "url": "https://github.com/pixijs/pixijs",
+            "name": "pixijs /pixijs",
+            "description": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+            "stars": "42,874",
+            "forks": "4,745",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "在AWS上构建现代全堆栈应用程序",
+            "url": "https://github.com/sst/sst",
+            "name": "sst /sst",
+            "description": "Build modern full-stack applications on AWS",
+            "stars": "20,700",
+            "forks": "1,604",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        }
+    ]
+}

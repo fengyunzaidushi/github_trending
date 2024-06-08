@@ -13358,3 +13358,137 @@
         }
     ]
 }
+{
+    "06月08日": [
+        {
+            "zh_des": "Mesop：在🚀中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "1,338",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,422",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "1,814",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "20,250",
+            "forks": "7,477",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "11,194",
+            "forks": "853",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "29,935",
+            "forks": "3,134",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "2,090",
+            "forks": "363",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "用于无缝规划和执行数据分析任务的代码优先代理框架。",
+            "url": "https://github.com/microsoft/TaskWeaver",
+            "name": "microsoft /TaskWeaver",
+            "description": "A code-first agent framework for seamlessly planning and executing data analytics tasks.",
+            "stars": "4,875",
+            "forks": "623",
+            "language": "Python",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "39,600",
+            "forks": "7,367",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,045",
+            "forks": "1,058",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "Android in Docker解决方案，支持noVNC和视频录制",
+            "url": "https://github.com/budtmo/docker-android",
+            "name": "budtmo /docker-android",
+            "description": "Android in docker solution with noVNC supported and video recording",
+            "stars": "8,570",
+            "forks": "1,167",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "MS-SWIFT：使用PEFT或全参数微调250+LLM或35+MLLM。(Qwen2，GLM4，Internlm2，Yi，Llama3，Llava，DeepSeek，Bachan2...)",
+            "url": "https://github.com/modelscope/swift",
+            "name": "modelscope /swift",
+            "description": "ms-swift: Use PEFT or Full-parameter to finetune 250+ LLMs or 35+ MLLMs. (Qwen2, GLM4, Internlm2, Yi, Llama3, Llava, Deepseek, Baichuan2...)",
+            "stars": "1,846",
+            "forks": "181",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "检索和检索--扩充的LLMS",
+            "url": "https://github.com/FlagOpen/FlagEmbedding",
+            "name": "FlagOpen /FlagEmbedding",
+            "description": "Retrieval and Retrieval-augmented LLMs",
+            "stars": "5,550",
+            "forks": "389",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        }
+    ]
+}

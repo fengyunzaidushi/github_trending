@@ -13168,3 +13168,147 @@
         }
     ]
 }
+{
+    "06月08日": [
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "2,193",
+            "forks": "157",
+            "language": "TypeScript",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "适用于MacOS的功能强大的菜单栏管理器",
+            "url": "https://github.com/jordanbaird/Ice",
+            "name": "jordanbaird /Ice",
+            "description": "Powerful menu bar manager for macOS",
+            "stars": "6,741",
+            "forks": "144",
+            "language": "Swift",
+            "stars_today": "1,882 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "46,624",
+            "forks": "25,483",
+            "language": "Jupyter Notebook",
+            "stars_today": "296 stars today"
+        },
+        {
+            "zh_des": "就像“ls”，但用于图像。使用Sixel图形显示终端中的缩略图。",
+            "url": "https://github.com/hackerb9/lsix",
+            "name": "hackerb9 /lsix",
+            "description": "Like \"ls\", but for images. Shows thumbnails in terminal using sixel graphics.",
+            "stars": "3,682",
+            "forks": "125",
+            "language": "Shell",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "Adobe软件的替代方案列表",
+            "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+            "name": "KenneyNL /Adobe-Alternatives",
+            "description": "A list of alternatives for Adobe software",
+            "stars": "3,166",
+            "forks": "132",
+            "language": "",
+            "stars_today": "555 stars today"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "8,245",
+            "forks": "458",
+            "language": "JavaScript",
+            "stars_today": "136 stars today"
+        },
+        {
+            "zh_des": "Mesop：在🚀中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "1,338",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "开源存储框架，支持使用Spark、PrestoDB、Flink、Trino和Have等计算引擎和API构建Lakehouse体系结构",
+            "url": "https://github.com/delta-io/delta",
+            "name": "delta-io /delta",
+            "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+            "stars": "7,093",
+            "forks": "1,607",
+            "language": "Scala",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "WebRTC的端到端堆栈。SFU媒体服务器和SDK。",
+            "url": "https://github.com/livekit/livekit",
+            "name": "livekit /livekit",
+            "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+            "stars": "8,290",
+            "forks": "664",
+            "language": "Go",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "多平台自动代理客户端，支持SING-BOX、X光、TUIC、HYRIA、REALITY、特洛伊木马、SSH等。是一个开源、安全、无广告的产品。",
+            "url": "https://github.com/hiddify/hiddify-next",
+            "name": "hiddify /hiddify-next",
+            "description": "Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.",
+            "stars": "11,321",
+            "forks": "1,030",
+            "language": "Dart",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "语音到文本、文本到语音和说话人识别，使用下一代Kaldi和onnxrun，无需互联网连接。支持嵌入式系统、安卓、iOS、Raspberry PI、RISC-V、x86_服务器、WebSocket服务器/客户端、C/C++、Python、Kotlin、C#、Go、NodeJS、JAVA、SWIFT",
+            "url": "https://github.com/k2-fsa/sherpa-onnx",
+            "name": "k2-fsa /sherpa-onnx",
+            "description": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",
+            "stars": "1,263",
+            "forks": "209",
+            "language": "C++",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,422",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "侵入性的“广告拦截器不允许在YouTube上出现”的消息令人恼火。这个开源项目旨在通过提供一个绕过YouTube的广告拦截程序检测的解决方案来解决这个问题",
+            "url": "https://github.com/TheRealJoelmatic/RemoveAdblockThing",
+            "name": "TheRealJoelmatic /RemoveAdblockThing",
+            "description": "The intrusive \"Ad blocker are not allowed on YouTube\" message is annoying. This open-source project aims to address this issue by providing a solution to bypass YouTube's ad blocker detection",
+            "stars": "5,658",
+            "forks": "305",
+            "language": "JavaScript",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "TLS/SSL和加密库",
+            "url": "https://github.com/openssl/openssl",
+            "name": "openssl /openssl",
+            "description": "TLS/SSL and crypto library",
+            "stars": "24,646",
+            "forks": "9,873",
+            "language": "C",
+            "stars_today": "28 stars today"
+        }
+    ]
+}

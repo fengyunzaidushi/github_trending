@@ -13648,3 +13648,197 @@
         }
     ]
 }
+{
+    "06月08日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,272",
+            "forks": "1,576",
+            "language": "Python",
+            "stars_today": "5,256 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "6,718",
+            "forks": "462",
+            "language": "Python",
+            "stars_today": "5,304 stars this month"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "9,862",
+            "forks": "1,406",
+            "language": "Python",
+            "stars_today": "4,496 stars this month"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "11,194",
+            "forks": "853",
+            "language": "Python",
+            "stars_today": "8,975 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "3,362",
+            "forks": "257",
+            "language": "Python",
+            "stars_today": "1,789 stars this month"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,617",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "1,333 stars this month"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,664",
+            "forks": "1,281",
+            "language": "Python",
+            "stars_today": "1,666 stars this month"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "26,960",
+            "forks": "7,224",
+            "language": "Python",
+            "stars_today": "1,865 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "12,506",
+            "forks": "1,526",
+            "language": "Python",
+            "stars_today": "3,569 stars this month"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "11,674",
+            "forks": "576",
+            "language": "Python",
+            "stars_today": "3,330 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、版面分析、阅读顺序、行检测",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, line detection in 90+ languages",
+            "stars": "8,509",
+            "forks": "518",
+            "language": "Python",
+            "stars_today": "1,999 stars this month"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "73,817",
+            "forks": "5,843",
+            "language": "Python",
+            "stars_today": "2,477 stars this month"
+        },
+        {
+            "zh_des": "该项目可以让你通过订阅的方式使用云耀斑WARP+，自动获取流量。该项目使您能够通过订阅使用Cloudflare WARP+，自动获取流量。",
+            "url": "https://github.com/vvbbnn00/WARP-Clash-API",
+            "name": "vvbbnn00 /WARP-Clash-API",
+            "description": "该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.",
+            "stars": "7,985",
+            "forks": "1,092",
+            "language": "Python",
+            "stars_today": "1,647 stars this month"
+        },
+        {
+            "zh_des": "一种使多模式模型能够操作计算机的框架。",
+            "url": "https://github.com/OthersideAI/self-operating-computer",
+            "name": "OthersideAI /self-operating-computer",
+            "description": "A framework to enable multimodal models to operate a computer.",
+            "stars": "8,041",
+            "forks": "1,068",
+            "language": "Python",
+            "stars_today": "1,005 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "53,210",
+            "forks": "6,470",
+            "language": "Python",
+            "stars_today": "3,323 stars this month"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "11,132",
+            "forks": "549",
+            "language": "Python",
+            "stars_today": "6,322 stars this month"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "35,478",
+            "forks": "23,135",
+            "language": "Python",
+            "stars_today": "810 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "7,809",
+            "forks": "575",
+            "language": "Python",
+            "stars_today": "819 stars this month"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "1,814",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "363 stars this month"
+        }
+    ]
+}
