@@ -13626,3 +13626,117 @@
         }
     ]
 }
+{
+    "06月09日": [
+        {
+            "zh_des": "具有IP摄像机实时本地对象检测功能的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,362",
+            "forks": "1,447",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Mesop：在Python收件箱中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "1,556",
+            "forks": "59",
+            "language": "Python",
+            "stars_today": "269 stars today"
+        },
+        {
+            "zh_des": "CLARLeRobot：Pytorch中现实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,556",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "你喜欢pytorch吗？你喜欢微毕业生吗？你喜欢tinygrad！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "24,595",
+            "forks": "2,721",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "带ML编译的通用LLM部署引擎",
+            "url": "https://github.com/mlc-ai/mlc-llm",
+            "name": "mlc-ai /mlc-llm",
+            "description": "Universal LLM Deployment Engine with ML Compilation",
+            "stars": "17,468",
+            "forks": "1,387",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "fabric是一个使用人工智能增强人类的开源框架。它提供了一个模块化框架，用于使用一组可在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,457",
+            "forks": "1,587",
+            "language": "Python",
+            "stars_today": "194 stars today"
+        },
+        {
+            "zh_des": "了解如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "259,889",
+            "forks": "44,198",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "助手是您终端中的人工智能配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,171",
+            "forks": "1,061",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "73,894",
+            "forks": "5,851",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "Bisheng是一个面向下一代人工智能应用的开放LLM Devops平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,728",
+            "forks": "1,292",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "🏡将本地控制和隐私放在首位的开源家庭自动化。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "69,350",
+            "forks": "28,566",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        }
+    ]
+}
