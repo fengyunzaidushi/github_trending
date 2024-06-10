@@ -9546,3 +9546,147 @@
         }
     ]
 }
+{
+    "06月10日": [
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "10,359",
+            "forks": "1,129",
+            "language": "TypeScript",
+            "stars_today": "4,731 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "24,990",
+            "forks": "2,332",
+            "language": "TypeScript",
+            "stars_today": "2,174 stars this month"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,384",
+            "forks": "435",
+            "language": "TypeScript",
+            "stars_today": "2,091 stars this month"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "41,101",
+            "forks": "4,443",
+            "language": "TypeScript",
+            "stars_today": "930 stars this month"
+        },
+        {
+            "zh_des": "“所有演示应用程序之母”--由Reaction、Angel、Node、Django等提供支持的典型的Full Stack Medium.com克隆",
+            "url": "https://github.com/gothinkster/realworld",
+            "name": "gothinkster /realworld",
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "stars": "79,543",
+            "forks": "7,260",
+            "language": "TypeScript",
+            "stars_today": "1,259 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "33,178",
+            "forks": "4,413",
+            "language": "TypeScript",
+            "stars_today": "5,183 stars this month"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,306",
+            "forks": "4,765",
+            "language": "TypeScript",
+            "stars_today": "1,000 stars this month"
+        },
+        {
+            "zh_des": "Mixpanel和Platable的所有好东西都整合到了一个工具中。",
+            "url": "https://github.com/Openpanel-dev/openpanel",
+            "name": "Openpanel-dev /openpanel",
+            "description": "All the goodies from both Mixpanel and Plausible combined into one tool.",
+            "stars": "2,474",
+            "forks": "73",
+            "language": "TypeScript",
+            "stars_today": "1,424 stars this month"
+        },
+        {
+            "zh_des": "VS浏览器中的代码",
+            "url": "https://github.com/coder/code-server",
+            "name": "coder /code-server",
+            "description": "VS Code in the browser",
+            "stars": "66,115",
+            "forks": "5,421",
+            "language": "TypeScript",
+            "stars_today": "658 stars this month"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,176",
+            "forks": "3,623",
+            "language": "TypeScript",
+            "stars_today": "649 stars this month"
+        },
+        {
+            "zh_des": "无损视频/音频编辑的瑞士军刀",
+            "url": "https://github.com/mifi/lossless-cut",
+            "name": "mifi /lossless-cut",
+            "description": "The swiss army knife of lossless video/audio editing",
+            "stars": "22,984",
+            "forks": "1,175",
+            "language": "TypeScript",
+            "stars_today": "614 stars this month"
+        },
+        {
+            "zh_des": "在你的Reaction应用程序中轻松显示PDF，就像它们是图像一样。",
+            "url": "https://github.com/wojtekmaj/react-pdf",
+            "name": "wojtekmaj /react-pdf",
+            "description": "Display PDFs in your React app as easily as if they were images.",
+            "stars": "8,800",
+            "forks": "851",
+            "language": "TypeScript",
+            "stars_today": "203 stars this month"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "8,578",
+            "forks": "603",
+            "language": "TypeScript",
+            "stars_today": "618 stars this month"
+        },
+        {
+            "zh_des": "只需编写一次组件，就可以随处运行。编译为Reaction、Vue、Qwik、Solid、Angular、Svelte等。",
+            "url": "https://github.com/BuilderIO/mitosis",
+            "name": "BuilderIO /mitosis",
+            "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+            "stars": "11,708",
+            "forks": "504",
+            "language": "TypeScript",
+            "stars_today": "745 stars this month"
+        }
+    ]
+}

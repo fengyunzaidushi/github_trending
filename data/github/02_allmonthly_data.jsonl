@@ -14064,3 +14064,157 @@
         }
     ]
 }
+{
+    "06月10日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,643",
+            "forks": "1,600",
+            "language": "Python",
+            "stars_today": "5,592 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "6,861",
+            "forks": "465",
+            "language": "Python",
+            "stars_today": "5,434 stars this month"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "10,359",
+            "forks": "1,129",
+            "language": "TypeScript",
+            "stars_today": "4,731 stars this month"
+        },
+        {
+            "zh_des": "🔮ChatGPT桌面应用程序(Mac、Windows和LINUX)",
+            "url": "https://github.com/lencx/ChatGPT",
+            "name": "lencx /ChatGPT",
+            "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+            "stars": "51,232",
+            "forks": "5,737",
+            "language": "Rust",
+            "stars_today": "4,223 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "24,990",
+            "forks": "2,332",
+            "language": "TypeScript",
+            "stars_today": "2,174 stars this month"
+        },
+        {
+            "zh_des": "用记忆、知识和工具打造AI助手。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "9,972",
+            "forks": "1,426",
+            "language": "Python",
+            "stars_today": "4,357 stars this month"
+        },
+        {
+            "zh_des": "开源，准确和易于使用的视频语音识别和剪辑工具，基于LLM的AI剪辑集成。",
+            "url": "https://github.com/modelscope/FunClip",
+            "name": "modelscope /FunClip",
+            "description": "Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.",
+            "stars": "2,334",
+            "forks": "229",
+            "language": "Python",
+            "stars_today": "1,391 stars this month"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,368",
+            "forks": "959",
+            "language": "Lua",
+            "stars_today": "1,210 stars this month"
+        },
+        {
+            "zh_des": "用Java实现的设计模式",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "name": "iluwatar /java-design-patterns",
+            "description": "Design patterns implemented in Java",
+            "stars": "87,804",
+            "forks": "26,118",
+            "language": "Java",
+            "stars_today": "1,288 stars this month"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "3,398",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "1,740 stars this month"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "11,337",
+            "forks": "866",
+            "language": "Python",
+            "stars_today": "7,363 stars this month"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "27,039",
+            "forks": "7,231",
+            "language": "Python",
+            "stars_today": "1,864 stars this month"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "12,601",
+            "forks": "1,533",
+            "language": "Python",
+            "stars_today": "3,047 stars this month"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,659",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "1,356 stars this month"
+        },
+        {
+            "zh_des": "WebRTC的端到端堆栈。SFU媒体服务器和SDK。",
+            "url": "https://github.com/livekit/livekit",
+            "name": "livekit /livekit",
+            "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+            "stars": "8,406",
+            "forks": "672",
+            "language": "Go",
+            "stars_today": "1,217 stars this month"
+        }
+    ]
+}

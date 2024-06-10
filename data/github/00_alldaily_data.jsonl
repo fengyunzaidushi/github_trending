@@ -13824,3 +13824,197 @@
         }
     ]
 }
+{
+    "06月10日": [
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "22,105",
+            "forks": "1,138",
+            "language": "PHP",
+            "stars_today": "2,095 stars today"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "3,073",
+            "forks": "245",
+            "language": "TypeScript",
+            "stars_today": "268 stars today"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "8,618",
+            "forks": "500",
+            "language": "JavaScript",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "271,983",
+            "forks": "25,689",
+            "language": "",
+            "stars_today": "396 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "74,026",
+            "forks": "5,858",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "3D打印机的G代码生成器(Bambu、Prusa、Voron、VzBot、RatRig、Creale.等)",
+            "url": "https://github.com/SoftFever/OrcaSlicer",
+            "name": "SoftFever /OrcaSlicer",
+            "description": "G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)",
+            "stars": "5,597",
+            "forks": "639",
+            "language": "C++",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Mesop：在🚀中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "1,988",
+            "forks": "68",
+            "language": "Python",
+            "stars_today": "392 stars today"
+        },
+        {
+            "zh_des": "很多镜像都在国外.比如gcr.国内下载很慢，需要加速.",
+            "url": "https://github.com/DaoCloud/public-image-mirror",
+            "name": "DaoCloud /public-image-mirror",
+            "description": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。",
+            "stars": "1,136",
+            "forks": "156",
+            "language": "Shell",
+            "stars_today": "114 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "4,992",
+            "forks": "471",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "🗂️支持多个存储的文件列表/WebDAV程序，由Gin和Solidjs提供支持。/一个支持多存储的文件列表/WebDAV程序，使用Gin和Solidjs。",
+            "url": "https://github.com/alist-org/alist",
+            "name": "alist-org /alist",
+            "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+            "stars": "38,724",
+            "forks": "5,016",
+            "language": "Go",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "260,068",
+            "forks": "44,221",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "2,236",
+            "forks": "381",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "Microsoft社区Windows包管理器清单存储库",
+            "url": "https://github.com/microsoft/winget-pkgs",
+            "name": "microsoft /winget-pkgs",
+            "description": "The Microsoft community Windows Package Manager manifest repository",
+            "stars": "8,206",
+            "forks": "4,184",
+            "language": "PowerShell",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,516",
+            "forks": "708",
+            "language": "Jupyter Notebook",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "语音到文本、文本到语音和说话人识别，使用下一代Kaldi和onnxrun，无需互联网连接。支持嵌入式系统、安卓、iOS、Raspberry PI、RISC-V、x86_服务器、WebSocket服务器/客户端、C/C++、Python、Kotlin、C#、Go、NodeJS、JAVA、SWIFT",
+            "url": "https://github.com/k2-fsa/sherpa-onnx",
+            "name": "k2-fsa /sherpa-onnx",
+            "description": "Speech-to-text, text-to-speech, and speaker recongition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift",
+            "stars": "1,441",
+            "forks": "215",
+            "language": "C++",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "32,969",
+            "forks": "5,073",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "一份经过策划的免费课程和证书清单。",
+            "url": "https://github.com/cloudcommunity/Free-Certifications",
+            "name": "cloudcommunity /Free-Certifications",
+            "description": "A curated list of free courses & certifications.",
+            "stars": "22,310",
+            "forks": "1,732",
+            "language": "",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,637",
+            "forks": "267",
+            "language": "Python",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,368",
+            "forks": "959",
+            "language": "Lua",
+            "stars_today": "135 stars today"
+        }
+    ]
+}
