@@ -9832,3 +9832,207 @@
         }
     ]
 }
+{
+    "06月10日": [
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "159,619",
+            "forks": "27,927",
+            "language": "TypeScript",
+            "stars_today": "408 stars this week"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "37,599",
+            "forks": "5,701",
+            "language": "TypeScript",
+            "stars_today": "233 stars this week"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "26,398",
+            "forks": "13,486",
+            "language": "TypeScript",
+            "stars_today": "463 stars this week"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "21,005",
+            "forks": "476",
+            "language": "TypeScript",
+            "stars_today": "280 stars this week"
+        },
+        {
+            "zh_des": "这是一个免费的开源SaaS应用程序初学者，适用于具有超能力的Reaction&Node.js。生产准备就绪。以社区为导向。",
+            "url": "https://github.com/wasp-lang/open-saas",
+            "name": "wasp-lang /open-saas",
+            "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+            "stars": "5,585",
+            "forks": "526",
+            "language": "TypeScript",
+            "stars_today": "252 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "35,380",
+            "forks": "1,670",
+            "language": "TypeScript",
+            "stars_today": "854 stars this week"
+        },
+        {
+            "zh_des": "用于在Web上创建白板和画布体验的SDK。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "SDK for creating whiteboards and canvas experiences on the web.",
+            "stars": "33,584",
+            "forks": "2,014",
+            "language": "TypeScript",
+            "stars_today": "187 stars this week"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "16,305",
+            "forks": "2,088",
+            "language": "TypeScript",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,143",
+            "forks": "31,692",
+            "language": "TypeScript",
+            "stars_today": "127 stars this week"
+        },
+        {
+            "zh_des": "一款简单、轻便、安全的WAF。基于Nginx开发，并作为反向代理连接。保护您的Web应用程序免受常见攻击和利用。",
+            "url": "https://github.com/chaitin/SafeLine",
+            "name": "chaitin /SafeLine",
+            "description": "A simple, lightweight, and secure WAF. Developed based on Nginx and connected as a reverse proxy. Protect your web applications from common attacks and exploits.",
+            "stars": "10,373",
+            "forks": "606",
+            "language": "TypeScript",
+            "stars_today": "387 stars this week"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,412",
+            "forks": "8,011",
+            "language": "TypeScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,073",
+            "forks": "11,654",
+            "language": "TypeScript",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "19,854",
+            "forks": "1,148",
+            "language": "TypeScript",
+            "stars_today": "363 stars this week"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "8,562",
+            "forks": "603",
+            "language": "TypeScript",
+            "stars_today": "217 stars this week"
+        },
+        {
+            "zh_des": "Js框架，用于使用TypeScrip/JavaScript🚀构建高效、可伸缩的企业级服务器端应用程序",
+            "url": "https://github.com/nestjs/nest",
+            "name": "nestjs /nest",
+            "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+            "stars": "65,107",
+            "forks": "7,435",
+            "language": "TypeScript",
+            "stars_today": "157 stars this week"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "79,452",
+            "forks": "3,994",
+            "language": "TypeScript",
+            "stars_today": "193 stars this week"
+        },
+        {
+            "zh_des": "用于现代Node.js和TypeScrip的功能丰富的ORM，它支持PostgreSQL(支持JSON和JSONB)、MySQL、MariaDB、SQLite、MS SQL Server、Snowflake、Oracle DB(V6)、DB2for IBMi。",
+            "url": "https://github.com/sequelize/sequelize",
+            "name": "sequelize /sequelize",
+            "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.",
+            "stars": "29,168",
+            "forks": "4,250",
+            "language": "TypeScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "60,538",
+            "forks": "3,377",
+            "language": "TypeScript",
+            "stars_today": "557 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "9,419",
+            "forks": "456",
+            "language": "TypeScript",
+            "stars_today": "92 stars this week"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,164",
+            "forks": "3,619",
+            "language": "TypeScript",
+            "stars_today": "403 stars this week"
+        }
+    ]
+}
