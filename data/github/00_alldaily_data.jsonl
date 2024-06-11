@@ -14212,3 +14212,187 @@
         }
     ]
 }
+{
+    "06月11日": [
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,528",
+            "forks": "987",
+            "language": "Lua",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,334",
+            "forks": "5,100",
+            "language": "Python",
+            "stars_today": "330 stars today"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "23,345",
+            "forks": "1,197",
+            "language": "PHP",
+            "stars_today": "1,790 stars today"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "8,876",
+            "forks": "520",
+            "language": "JavaScript",
+            "stars_today": "281 stars today"
+        },
+        {
+            "zh_des": "你见过的最小的PaaS。Piku允许您在自己的服务器上进行Git推送部署。",
+            "url": "https://github.com/piku/piku",
+            "name": "piku /piku",
+            "description": "The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.",
+            "stars": "4,589",
+            "forks": "112",
+            "language": "Python",
+            "stars_today": "412 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "272,549",
+            "forks": "25,742",
+            "language": "",
+            "stars_today": "660 stars today"
+        },
+        {
+            "zh_des": "论文《语言模型是无人监督的多任务学习者》的代码",
+            "url": "https://github.com/openai/gpt-2",
+            "name": "openai /gpt-2",
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+            "stars": "21,534",
+            "forks": "5,373",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,510",
+            "forks": "1,461",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "76,681",
+            "forks": "7,703",
+            "language": "Shell",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "42,455",
+            "forks": "3,384",
+            "language": "JavaScript",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "🌱是一个快速的、包含电池的静态站点生成器，可以将Markdown内容转换为功能齐全的网站",
+            "url": "https://github.com/jackyzha0/quartz",
+            "name": "jackyzha0 /quartz",
+            "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+            "stars": "5,547",
+            "forks": "2,337",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,652",
+            "forks": "6,640",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "生产就绪型、轻量级、灵活且可扩展的ASGI API框架|轻松构建高性能API",
+            "url": "https://github.com/litestar-org/litestar",
+            "name": "litestar-org /litestar",
+            "description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+            "stars": "4,709",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,454",
+            "forks": "1,082",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "29,978",
+            "forks": "2,227",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "79,596",
+            "forks": "4,000",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "5,055",
+            "forks": "478",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "极快的LLM推论。",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "name": "EricLBuehler /mistral.rs",
+            "description": "Blazingly fast LLM inference.",
+            "stars": "2,151",
+            "forks": "164",
+            "language": "Rust",
+            "stars_today": "218 stars today"
+        }
+    ]
+}
