@@ -14198,3 +14198,157 @@
         }
     ]
 }
+{
+    "06月11日": [
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "12,060",
+            "forks": "609",
+            "language": "Python",
+            "stars_today": "1,644 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "6,918",
+            "forks": "468",
+            "language": "Python",
+            "stars_today": "2,078 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,368",
+            "forks": "1,075",
+            "language": "Python",
+            "stars_today": "865 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "46,981",
+            "forks": "25,614",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,310 stars this week"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "8,782",
+            "forks": "516",
+            "language": "JavaScript",
+            "stars_today": "635 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,721",
+            "forks": "1,610",
+            "language": "Python",
+            "stars_today": "1,429 stars this week"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "22,863",
+            "forks": "1,168",
+            "language": "PHP",
+            "stars_today": "4,829 stars this week"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,433",
+            "forks": "960",
+            "language": "Lua",
+            "stars_today": "472 stars this week"
+        },
+        {
+            "zh_des": "Mamba SSM架构",
+            "url": "https://github.com/state-spaces/mamba",
+            "name": "state-spaces /mamba",
+            "description": "Mamba SSM architecture",
+            "stars": "10,969",
+            "forks": "876",
+            "language": "Python",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "6,691",
+            "forks": "759",
+            "language": "Python",
+            "stars_today": "409 stars this week"
+        },
+        {
+            "zh_des": "最具可定制性和低延迟的跨平台/外壳提示呈现器",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "name": "JanDeDobbeleer /oh-my-posh",
+            "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+            "stars": "15,059",
+            "forks": "2,252",
+            "language": "Go",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "18,957",
+            "forks": "1,564",
+            "language": "C++",
+            "stars_today": "843 stars this week"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "7,734",
+            "forks": "784",
+            "language": "Python",
+            "stars_today": "652 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "151,546",
+            "forks": "51,504",
+            "language": "Python",
+            "stars_today": "594 stars this week"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": "27,778",
+            "forks": "3,116",
+            "language": "C",
+            "stars_today": "499 stars this week"
+        }
+    ]
+}
