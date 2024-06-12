@@ -14580,3 +14580,167 @@
         }
     ]
 }
+{
+    "06月12日": [
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,888",
+            "forks": "292",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "很多镜像都在国外.比如gcr.国内下载很慢，需要加速.",
+            "url": "https://github.com/DaoCloud/public-image-mirror",
+            "name": "DaoCloud /public-image-mirror",
+            "description": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。",
+            "stars": "1,691",
+            "forks": "231",
+            "language": "Shell",
+            "stars_today": "237 stars today"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "4,124",
+            "forks": "325",
+            "language": "TypeScript",
+            "stars_today": "319 stars today"
+        },
+        {
+            "zh_des": "一份经过策划的免费课程和证书清单。",
+            "url": "https://github.com/cloudcommunity/Free-Certifications",
+            "name": "cloudcommunity /Free-Certifications",
+            "description": "A curated list of free courses & certifications.",
+            "stars": "22,762",
+            "forks": "1,758",
+            "language": "",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "面向SWIFT的现代、富于表现力的测试包",
+            "url": "https://github.com/apple/swift-testing",
+            "name": "apple /swift-testing",
+            "description": "A modern, expressive testing package for Swift",
+            "stars": "1,276",
+            "forks": "45",
+            "language": "Swift",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "一种可扩展的深度学习图书馆",
+            "url": "https://github.com/apple/axlearn",
+            "name": "apple /axlearn",
+            "description": "An Extensible Deep Learning Library",
+            "stars": "1,221",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "272,998",
+            "forks": "25,771",
+            "language": "",
+            "stars_today": "488 stars today"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "23,805",
+            "forks": "1,214",
+            "language": "PHP",
+            "stars_today": "527 stars today"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,617",
+            "forks": "5,123",
+            "language": "Python",
+            "stars_today": "332 stars today"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,071",
+            "forks": "525",
+            "language": "JavaScript",
+            "stars_today": "206 stars today"
+        },
+        {
+            "zh_des": "生产就绪型、轻量级、灵活且可扩展的ASGI API框架|轻松构建高性能API",
+            "url": "https://github.com/litestar-org/litestar",
+            "name": "litestar-org /litestar",
+            "description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+            "stars": "4,857",
+            "forks": "339",
+            "language": "Python",
+            "stars_today": "174 stars today"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "31,010",
+            "forks": "3,696",
+            "language": "Python",
+            "stars_today": "246 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "59,677",
+            "forks": "5,656",
+            "language": "Python",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "10,804",
+            "forks": "1,182",
+            "language": "Rust",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "11,303",
+            "forks": "1,085",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "使用C#和XAML开发桌面、嵌入式、移动和WebAssembly应用程序。最流行的.NET UI客户端技术",
+            "url": "https://github.com/AvaloniaUI/Avalonia",
+            "name": "AvaloniaUI /Avalonia",
+            "description": "Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology",
+            "stars": "24,263",
+            "forks": "2,097",
+            "language": "C#",
+            "stars_today": "12 stars today"
+        }
+    ]
+}

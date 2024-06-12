@@ -14960,3 +14960,237 @@
         }
     ]
 }
+{
+    "06月12日": [
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "4,124",
+            "forks": "325",
+            "language": "TypeScript",
+            "stars_today": "319 stars today"
+        },
+        {
+            "zh_des": "流畅的UI Web代表了用于构建Web应用程序的实用程序、Reaction组件和Web组件的集合。",
+            "url": "https://github.com/microsoft/fluentui",
+            "name": "microsoft /fluentui",
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "stars": "17,915",
+            "forks": "2,671",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "直接在浏览器中使用ML支持的语音识别",
+            "url": "https://github.com/xenova/whisper-web",
+            "name": "xenova /whisper-web",
+            "description": "ML-powered speech recognition directly in your browser",
+            "stars": "1,041",
+            "forks": "130",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "Airtable APITable，这是一个面向🚀🎉📚的低代码平台，用于构建协作应用程序，比所有其他Airtable开源替代方案都要好。",
+            "url": "https://github.com/apitable/apitable",
+            "name": "apitable /apitable",
+            "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+            "stars": "12,251",
+            "forks": "1,052",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "5,769",
+            "forks": "924",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "16,723",
+            "forks": "1,248",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "25,064",
+            "forks": "2,339",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "使用行业领先的机器学习数据引擎CVAT更好地进行标注。被任何规模的团队使用和信任，用于任何规模的数据。",
+            "url": "https://github.com/cvat-ai/cvat",
+            "name": "cvat-ai /cvat",
+            "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+            "stars": "11,666",
+            "forks": "2,871",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Etherum的反应挂钩",
+            "url": "https://github.com/wevm/wagmi",
+            "name": "wevm /wagmi",
+            "description": "React Hooks for Ethereum",
+            "stars": "5,814",
+            "forks": "940",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "79,751",
+            "forks": "4,005",
+            "language": "TypeScript",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "LangChain+Next.js初学者模板",
+            "url": "https://github.com/langchain-ai/langchain-nextjs-template",
+            "name": "langchain-ai /langchain-nextjs-template",
+            "description": "LangChain + Next.js starter template",
+            "stars": "1,173",
+            "forks": "233",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "您最友好的开源一体式自动化工具✨工作流自动化工具100+集成/企业自动化工具/Zapier替代工具",
+            "url": "https://github.com/activepieces/activepieces",
+            "name": "activepieces /activepieces",
+            "description": "Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative",
+            "stars": "8,394",
+            "forks": "910",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "概念风格的所见即所得编辑器，具有人工智能支持的自动完成功能。",
+            "url": "https://github.com/steven-tey/novel",
+            "name": "steven-tey /novel",
+            "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+            "stars": "11,350",
+            "forks": "950",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "欢迎来到New Expensify：以聊天为中心的金融协作的完全重新想象。通过分享反馈并贡献代码，帮助我们构建下一代Expensify。",
+            "url": "https://github.com/Expensify/App",
+            "name": "Expensify /App",
+            "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+            "stars": "3,044",
+            "forks": "2,563",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,372",
+            "forks": "4,773",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "面向开发人员的演示文稿幻灯片",
+            "url": "https://github.com/slidevjs/slidev",
+            "name": "slidevjs /slidev",
+            "description": "Presentation Slides for Developers",
+            "stars": "31,667",
+            "forks": "1,246",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "14,493",
+            "forks": "3,707",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "用于Node.js和TypeScrip的下一代ORM|PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB",
+            "url": "https://github.com/prisma/prisma",
+            "name": "prisma /prisma",
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+            "stars": "37,804",
+            "forks": "1,463",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "35,555",
+            "forks": "1,681",
+            "language": "TypeScript",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "11,154",
+            "forks": "694",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "🌱是一个快速的、包含电池的静态站点生成器，可以将Markdown内容转换为功能齐全的网站",
+            "url": "https://github.com/jackyzha0/quartz",
+            "name": "jackyzha0 /quartz",
+            "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+            "stars": "5,678",
+            "forks": "2,343",
+            "language": "TypeScript",
+            "stars_today": "176 stars today"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序🦜🔗",
+            "url": "https://github.com/langchain-ai/langchainjs",
+            "name": "langchain-ai /langchainjs",
+            "description": "🦜🔗 Build context-aware reasoning applications 🦜🔗",
+            "stars": "11,512",
+            "forks": "1,914",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "⚡是用于连接、Express、next.js等的一行程序node.js http代理中间件",
+            "url": "https://github.com/chimurai/http-proxy-middleware",
+            "name": "chimurai /http-proxy-middleware",
+            "description": "⚡ The one-liner node.js http-proxy middleware for connect, express, next.js and more",
+            "stars": "10,552",
+            "forks": "824",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
