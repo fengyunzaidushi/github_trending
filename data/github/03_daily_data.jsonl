@@ -14376,3 +14376,197 @@
         }
     ]
 }
+{
+    "06月12日": [
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,504",
+            "forks": "5,117",
+            "language": "Python",
+            "stars_today": "331 stars today"
+        },
+        {
+            "zh_des": "你见过的最小的PaaS。Piku允许您在自己的服务器上进行Git推送部署。",
+            "url": "https://github.com/piku/piku",
+            "name": "piku /piku",
+            "description": "The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.",
+            "stars": "4,780",
+            "forks": "118",
+            "language": "Python",
+            "stars_today": "403 stars today"
+        },
+        {
+            "zh_des": "论文《语言模型是无人监督的多任务学习者》的代码",
+            "url": "https://github.com/openai/gpt-2",
+            "name": "openai /gpt-2",
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+            "stars": "21,624",
+            "forks": "5,382",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,604",
+            "forks": "1,463",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "生产就绪型、轻量级、灵活且可扩展的ASGI API框架|轻松构建高性能API",
+            "url": "https://github.com/litestar-org/litestar",
+            "name": "litestar-org /litestar",
+            "description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+            "stars": "4,796",
+            "forks": "338",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,543",
+            "forks": "1,087",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "30,036",
+            "forks": "2,227",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "5,089",
+            "forks": "479",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "260,308",
+            "forks": "44,240",
+            "language": "Python",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "OpenAI GPT(生成性预训练变压器)培训的最小PyTorch重新实现",
+            "url": "https://github.com/karpathy/minGPT",
+            "name": "karpathy /minGPT",
+            "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+            "stars": "19,220",
+            "forks": "2,374",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "59,564",
+            "forks": "5,651",
+            "language": "Python",
+            "stars_today": "359 stars today"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "2,396",
+            "forks": "390",
+            "language": "Python",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "通过Azure OpenAI实现简单网络聊天体验的示例代码，包括您的数据上的Azure OpenAI。",
+            "url": "https://github.com/microsoft/sample-app-aoai-chatGPT",
+            "name": "microsoft /sample-app-aoai-chatGPT",
+            "description": "Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.",
+            "stars": "1,343",
+            "forks": "2,039",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "1,988",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "轻松下载和管理游戏作弊，方便您",
+            "url": "https://github.com/dyang886/Game-Cheats-Manager",
+            "name": "dyang886 /Game-Cheats-Manager",
+            "description": "Easily download and manage game cheats for your convenience",
+            "stars": "2,263",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "3,813",
+            "forks": "290",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "296,008",
+            "forks": "32,127",
+            "language": "Python",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,462",
+            "forks": "6,907",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用普通的🚗💨编写可伸缩的负载测试",
+            "url": "https://github.com/locustio/locust",
+            "name": "locustio /locust",
+            "description": "Write scalable load tests in plain Python 🚗💨",
+            "stars": "23,973",
+            "forks": "2,906",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
