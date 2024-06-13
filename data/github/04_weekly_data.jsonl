@@ -14844,3 +14844,167 @@
         }
     ]
 }
+{
+    "06月13日": [
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,601",
+            "forks": "1,092",
+            "language": "Python",
+            "stars_today": "1,061 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "6,917",
+            "forks": "785",
+            "language": "Python",
+            "stars_today": "514 stars this week"
+        },
+        {
+            "zh_des": "Mamba SSM架构",
+            "url": "https://github.com/state-spaces/mamba",
+            "name": "state-spaces /mamba",
+            "description": "Mamba SSM architecture",
+            "stars": "11,050",
+            "forks": "880",
+            "language": "Python",
+            "stars_today": "493 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "12,367",
+            "forks": "628",
+            "language": "Python",
+            "stars_today": "1,255 stars this week"
+        },
+        {
+            "zh_des": "对您自己的数据进行预培训、优化、部署20多个LLM。使用最先进的技术：闪光关注、FSDP、4位、LORA等。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.",
+            "stars": "7,834",
+            "forks": "787",
+            "language": "Python",
+            "stars_today": "607 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "7,091",
+            "forks": "489",
+            "language": "Python",
+            "stars_today": "1,320 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "151,605",
+            "forks": "51,513",
+            "language": "Python",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "建立在NVIDIA Isaac Sim上的机器人学习统一框架",
+            "url": "https://github.com/isaac-sim/IsaacLab",
+            "name": "isaac-sim /IsaacLab",
+            "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+            "stars": "1,349",
+            "forks": "384",
+            "language": "Python",
+            "stars_today": "177 stars this week"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,723",
+            "forks": "5,130",
+            "language": "Python",
+            "stars_today": "858 stars this week"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "2,432",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "427 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeInstalling ForgeCompisonForge BackendUNet Patcher使用--show-control net--例如查看此扩展",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeScreenshots of ComparisonForge BackendUNet PatcherUse --show-controlnet-example to see this extension",
+            "stars": "5,121",
+            "forks": "483",
+            "language": "Python",
+            "stars_today": "206 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "15,996",
+            "forks": "1,636",
+            "language": "Python",
+            "stars_today": "1,323 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "3,300",
+            "forks": "570",
+            "language": "Python",
+            "stars_today": "80 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "260,384",
+            "forks": "44,239",
+            "language": "Python",
+            "stars_today": "965 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "12,805",
+            "forks": "978",
+            "language": "Python",
+            "stars_today": "453 stars this week"
+        },
+        {
+            "zh_des": "Skypilot：在任何云上运行LLMS、AI和批处理作业。通过一个简单的界面实现最大限度的节约、最高的GPU可用性和托管执行。",
+            "url": "https://github.com/skypilot-org/skypilot",
+            "name": "skypilot-org /skypilot",
+            "description": "SkyPilot: Run LLMs, AI, and Batch jobs on any cloud. Get maximum savings, highest GPU availability, and managed execution—all with a simple interface.",
+            "stars": "6,098",
+            "forks": "417",
+            "language": "Python",
+            "stars_today": "127 stars this week"
+        }
+    ]
+}

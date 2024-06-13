@@ -14018,3 +14018,167 @@
         }
     ]
 }
+{
+    "06月13日": [
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,727",
+            "forks": "6,641",
+            "language": "Jupyter Notebook",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,898",
+            "forks": "891",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "5,217",
+            "forks": "637",
+            "language": "Jupyter Notebook",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,345",
+            "forks": "2,864",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "练习你的熊猫技能！",
+            "url": "https://github.com/guipsamora/pandas_exercises",
+            "name": "guipsamora /pandas_exercises",
+            "description": "Practice your pandas skills!",
+            "stars": "10,369",
+            "forks": "8,012",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,147",
+            "forks": "415",
+            "language": "Jupyter Notebook",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,644",
+            "forks": "715",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "一种用于遵循指令的语言模型的自动评估器。人工验证，高质量，廉价，快速。",
+            "url": "https://github.com/tatsu-lab/alpaca_eval",
+            "name": "tatsu-lab /alpaca_eval",
+            "description": "An automatic evaluator for instruction-following language models. Human-validated, high-quality, cheap, and fast.",
+            "stars": "1,222",
+            "forks": "179",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "ScGPT",
+            "url": "https://github.com/bowang-lab/scGPT",
+            "name": "bowang-lab /scGPT",
+            "description": "scGPT",
+            "stars": "898",
+            "forks": "162",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "此repo托管官方MediaTube示例，目的是展示使用我们的机器学习平台创建应用程序所涉及的基本步骤",
+            "url": "https://github.com/google-ai-edge/mediapipe-samples",
+            "name": "google-ai-edge /mediapipe-samples",
+            "description": "This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform",
+            "stars": "1,319",
+            "forks": "346",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "21,006",
+            "forks": "8,156",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "8,548",
+            "forks": "2,661",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "开源且基础较强的图像识别模型。",
+            "url": "https://github.com/xinyu1205/recognize-anything",
+            "name": "xinyu1205 /recognize-anything",
+            "description": "Open-source and strong foundation image recognition models.",
+            "stars": "2,525",
+            "forks": "237",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "按模型组织的最先进的深度学习脚本-易于在企业级基础设施上以可重复的准确性和性能进行培训和部署。",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "name": "NVIDIA /DeepLearningExamples",
+            "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+            "stars": "12,818",
+            "forks": "3,094",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "20,603",
+            "forks": "11,516",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "GCP培训课程的实验和演示(http://cloud.google.com/training).",
+            "url": "https://github.com/GoogleCloudPlatform/training-data-analyst",
+            "name": "GoogleCloudPlatform /training-data-analyst",
+            "description": "Labs and demos for courses for GCP Training (http://cloud.google.com/training).",
+            "stars": "7,587",
+            "forks": "5,734",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
