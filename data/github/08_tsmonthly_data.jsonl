@@ -10928,3 +10928,217 @@
         }
     ]
 }
+{
+    "06月14日": [
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "10,563",
+            "forks": "1,146",
+            "language": "TypeScript",
+            "stars_today": "4,777 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "25,141",
+            "forks": "2,343",
+            "language": "TypeScript",
+            "stars_today": "2,281 stars this month"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "11,242",
+            "forks": "705",
+            "language": "TypeScript",
+            "stars_today": "1,449 stars this month"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,462",
+            "forks": "442",
+            "language": "TypeScript",
+            "stars_today": "2,112 stars this month"
+        },
+        {
+            "zh_des": "WrenAI使您的数据库准备就绪。更准确、更安全地实现文本到SQL的转换。",
+            "url": "https://github.com/Canner/WrenAI",
+            "name": "Canner /WrenAI",
+            "description": "WrenAI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.",
+            "stars": "1,106",
+            "forks": "91",
+            "language": "TypeScript",
+            "stars_today": "829 stars this month"
+        },
+        {
+            "zh_des": "“所有演示应用程序之母”--由Reaction、Angel、Node、Django等提供支持的典型的Full Stack Medium.com克隆",
+            "url": "https://github.com/gothinkster/realworld",
+            "name": "gothinkster /realworld",
+            "description": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more",
+            "stars": "79,588",
+            "forks": "7,262",
+            "language": "TypeScript",
+            "stars_today": "1,242 stars this month"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "41,198",
+            "forks": "4,448",
+            "language": "TypeScript",
+            "stars_today": "934 stars this month"
+        },
+        {
+            "zh_des": "VS浏览器中的代码",
+            "url": "https://github.com/coder/code-server",
+            "name": "coder /code-server",
+            "description": "VS Code in the browser",
+            "stars": "66,183",
+            "forks": "5,425",
+            "language": "TypeScript",
+            "stars_today": "666 stars this month"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,419",
+            "forks": "4,789",
+            "language": "TypeScript",
+            "stars_today": "1,035 stars this month"
+        },
+        {
+            "zh_des": "在你的Reaction应用程序中轻松显示PDF，就像它们是图像一样。",
+            "url": "https://github.com/wojtekmaj/react-pdf",
+            "name": "wojtekmaj /react-pdf",
+            "description": "Display PDFs in your React app as easily as if they were images.",
+            "stars": "8,845",
+            "forks": "853",
+            "language": "TypeScript",
+            "stars_today": "222 stars this month"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,240",
+            "forks": "3,634",
+            "language": "TypeScript",
+            "stars_today": "684 stars this month"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "159,736",
+            "forks": "27,951",
+            "language": "TypeScript",
+            "stars_today": "1,338 stars this month"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,196",
+            "forks": "31,726",
+            "language": "TypeScript",
+            "stars_today": "536 stars this month"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "8,674",
+            "forks": "604",
+            "language": "TypeScript",
+            "stars_today": "659 stars this month"
+        },
+        {
+            "zh_des": "Mixpanel和Platable的所有好东西都整合到了一个工具中。",
+            "url": "https://github.com/Openpanel-dev/openpanel",
+            "name": "Openpanel-dev /openpanel",
+            "description": "All the goodies from both Mixpanel and Plausible combined into one tool.",
+            "stars": "2,502",
+            "forks": "75",
+            "language": "TypeScript",
+            "stars_today": "1,424 stars this month"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,169",
+            "forks": "6,678",
+            "language": "TypeScript",
+            "stars_today": "119 stars this month"
+        },
+        {
+            "zh_des": "这是一个免费的开源SaaS应用程序初学者，适用于具有超能力的Reaction&Node.js。生产准备就绪。以社区为导向。",
+            "url": "https://github.com/wasp-lang/open-saas",
+            "name": "wasp-lang /open-saas",
+            "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+            "stars": "5,686",
+            "forks": "535",
+            "language": "TypeScript",
+            "stars_today": "755 stars this month"
+        },
+        {
+            "zh_des": "您最友好的开源一体式自动化工具✨工作流自动化工具100+集成/企业自动化工具/Zapier替代工具",
+            "url": "https://github.com/activepieces/activepieces",
+            "name": "activepieces /activepieces",
+            "description": "Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 100+ integration / Enterprise automation tool / Zapier Alternative",
+            "stars": "8,425",
+            "forks": "914",
+            "language": "TypeScript",
+            "stars_today": "1,100 stars this month"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "7,318",
+            "forks": "733",
+            "language": "TypeScript",
+            "stars_today": "1,467 stars this month"
+        },
+        {
+            "zh_des": "一个基于块(概念风格)且可扩展的Reaction富文本编辑器。建立在ProSemirror和TipTap的基础上。",
+            "url": "https://github.com/TypeCellOS/BlockNote",
+            "name": "TypeCellOS /BlockNote",
+            "description": "A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.",
+            "stars": "5,736",
+            "forks": "363",
+            "language": "TypeScript",
+            "stars_today": "393 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "12,543",
+            "forks": "824",
+            "language": "TypeScript",
+            "stars_today": "1,161 stars this month"
+        }
+    ]
+}
