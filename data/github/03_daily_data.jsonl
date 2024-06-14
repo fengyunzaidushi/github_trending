@@ -15052,3 +15052,157 @@
         }
     ]
 }
+{
+    "06月14日": [
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "23,485",
+            "forks": "4,830",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "《接地恐龙：与恐龙结婚》一文的正式实施",
+            "url": "https://github.com/IDEA-Research/GroundingDINO",
+            "name": "IDEA-Research /GroundingDINO",
+            "description": "Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+            "stars": "5,419",
+            "forks": "566",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "10,205",
+            "forks": "972",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "关注灵活性和用户体验的Django内容管理系统",
+            "url": "https://github.com/wagtail/wagtail",
+            "name": "wagtail /wagtail",
+            "description": "A Django content management system focused on flexibility and user experience",
+            "stars": "17,471",
+            "forks": "3,716",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "31,223",
+            "forks": "3,706",
+            "language": "Python",
+            "stars_today": "233 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "30,080",
+            "forks": "2,231",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "37,939",
+            "forks": "4,037",
+            "language": "Python",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "一种可扩展的深度学习图书馆",
+            "url": "https://github.com/apple/axlearn",
+            "name": "apple /axlearn",
+            "description": "An Extensible Deep Learning Library",
+            "stars": "1,366",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,794",
+            "forks": "5,138",
+            "language": "Python",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "NeruIPS‘2023)https://www.camel-ai.org：🐫CAMEL：大型语言模型社会“思维”探索的交流主体",
+            "url": "https://github.com/camel-ai/camel",
+            "name": "camel-ai /camel",
+            "description": "🐫 CAMEL: Communicative Agents for “Mind” Exploration of Large Language Model Society (NeruIPS'2023)https://www.camel-ai.org",
+            "stars": "4,653",
+            "forks": "574",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "133,688",
+            "forks": "25,615",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "35,048",
+            "forks": "13,700",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "5,298",
+            "forks": "9,558",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "使用MLX框架的Apple Silicon Mac的一体化LLMS聊天用户界面。",
+            "url": "https://github.com/qnguyen3/chat-with-mlx",
+            "name": "qnguyen3 /chat-with-mlx",
+            "description": "An all-in-one LLMs Chat UI for Apple Silicon Mac using MLX Framework.",
+            "stars": "1,296",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "OpenMMLab语义分割工具箱和基准。",
+            "url": "https://github.com/open-mmlab/mmsegmentation",
+            "name": "open-mmlab /mmsegmentation",
+            "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+            "stars": "7,605",
+            "forks": "2,512",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        }
+    ]
+}

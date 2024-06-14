@@ -15092,3 +15092,167 @@
         }
     ]
 }
+{
+    "06月14日": [
+        {
+            "zh_des": "一个开源且可自托管的Heroku / Netlify / Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "24,228",
+            "forks": "1,229",
+            "language": "PHP",
+            "stars_today": "6,922 stars this week"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在您的浏览器中运行DeliverTransformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,221",
+            "forks": "535",
+            "language": "JavaScript",
+            "stars_today": "1,194 stars this week"
+        },
+        {
+            "zh_des": "助手是您终端中的人工智能配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,672",
+            "forks": "1,101",
+            "language": "Python",
+            "stars_today": "898 stars this week"
+        },
+        {
+            "zh_des": "适合懒惰者的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,808",
+            "forks": "1,011",
+            "language": "Lua",
+            "stars_today": "770 stars this week"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式人工智能收件箱构建https：microsoft.github.io/generative-ai-for-beginners/",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "47,400",
+            "forks": "25,852",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,487 stars this week"
+        },
+        {
+            "zh_des": "最可定制和低延迟的跨平台/Shell提示渲染器",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "name": "JanDeDobbeleer /oh-my-posh",
+            "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+            "stars": "15,213",
+            "forks": "2,263",
+            "language": "Go",
+            "stars_today": "589 stars this week"
+        },
+        {
+            "zh_des": "快速高准确性地将PDF转换为降价",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "12,498",
+            "forks": "637",
+            "language": "Python",
+            "stars_today": "921 stars this week"
+        },
+        {
+            "zh_des": "Moonlight的自托管游戏流主持人。",
+            "url": "https://github.com/LizardByte/Sunshine",
+            "name": "LizardByte /Sunshine",
+            "description": "Self-hosted game stream host for Moonlight.",
+            "stars": "14,633",
+            "forks": "707",
+            "language": "C++",
+            "stars_today": "555 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析性进程中SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "19,286",
+            "forks": "1,587",
+            "language": "C++",
+            "stars_today": "740 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译为另一种语言并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,033",
+            "forks": "798",
+            "language": "Python",
+            "stars_today": "557 stars this week"
+        },
+        {
+            "zh_des": "一个新的可引导USB解决方案。",
+            "url": "https://github.com/ventoy/Ventoy",
+            "name": "ventoy /Ventoy",
+            "description": "A new bootable USB solution.",
+            "stars": "59,789",
+            "forks": "3,916",
+            "language": "C",
+            "stars_today": "791 stars this week"
+        },
+        {
+            "zh_des": "从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "273,793",
+            "forks": "25,819",
+            "language": "",
+            "stars_today": "2,972 stars this week"
+        },
+        {
+            "zh_des": "卸载Web操作系统！免费、开源和可自托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Web OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "20,316",
+            "forks": "1,248",
+            "language": "JavaScript",
+            "stars_today": "702 stars this week"
+        },
+        {
+            "zh_des": "适用于macOS的强大菜单栏管理器",
+            "url": "https://github.com/jordanbaird/Ice",
+            "name": "jordanbaird /Ice",
+            "description": "Powerful menu bar manager for macOS",
+            "stars": "8,786",
+            "forks": "182",
+            "language": "Swift",
+            "stars_today": "5,606 stars this week"
+        },
+        {
+            "zh_des": "Adobe软件的替代方案列表",
+            "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+            "name": "KenneyNL /Adobe-Alternatives",
+            "description": "A list of alternatives for Adobe software",
+            "stars": "3,880",
+            "forks": "151",
+            "language": "",
+            "stars_today": "1,767 stars this week"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "2,051",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "451 stars this week"
+        }
+    ]
+}

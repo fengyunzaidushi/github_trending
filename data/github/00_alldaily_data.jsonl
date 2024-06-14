@@ -15052,3 +15052,147 @@
         }
     ]
 }
+{
+    "06月14日": [
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "36,719",
+            "forks": "1,733",
+            "language": "TypeScript",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "极快的LLM推论。",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "name": "EricLBuehler /mistral.rs",
+            "description": "Blazingly fast LLM inference.",
+            "stars": "2,514",
+            "forks": "198",
+            "language": "Rust",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "网络瑞士军刀-一款用于加密、编码、压缩和数据分析的Web应用程序",
+            "url": "https://github.com/gchq/CyberChef",
+            "name": "gchq /CyberChef",
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+            "stars": "26,394",
+            "forks": "3,027",
+            "language": "JavaScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "23,485",
+            "forks": "4,830",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "语料库的抽象和推理",
+            "url": "https://github.com/fchollet/ARC-AGI",
+            "name": "fchollet /ARC-AGI",
+            "description": "The Abstraction and Reasoning Corpus",
+            "stars": "2,434",
+            "forks": "426",
+            "language": "JavaScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Warp是一个现代化的、基于铁锈的终端，内置了人工智能，这样您和您的团队就可以更快地构建伟大的软件。",
+            "url": "https://github.com/warpdotdev/Warp",
+            "name": "warpdotdev /Warp",
+            "description": "Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.",
+            "stars": "19,866",
+            "forks": "323",
+            "language": "",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,808",
+            "forks": "1,011",
+            "language": "Lua",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "273,793",
+            "forks": "25,819",
+            "language": "",
+            "stars_today": "527 stars today"
+        },
+        {
+            "zh_des": "世界上最强大的开放数据目录，用于构建高性能、地理分布和联合的元数据湖。",
+            "url": "https://github.com/datastrato/gravitino",
+            "name": "datastrato /gravitino",
+            "description": "World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.",
+            "stars": "581",
+            "forks": "186",
+            "language": "Java",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "3,039",
+            "forks": "518",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Solana Labs维护的Solana程序集合",
+            "url": "https://github.com/solana-labs/solana-program-library",
+            "name": "solana-labs /solana-program-library",
+            "description": "A collection of Solana programs maintained by Solana Labs",
+            "stars": "3,199",
+            "forks": "1,922",
+            "language": "Rust",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "很多镜像都在国外.比如gcr.国内下载很慢，需要加速.",
+            "url": "https://github.com/DaoCloud/public-image-mirror",
+            "name": "DaoCloud /public-image-mirror",
+            "description": "很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。",
+            "stars": "2,158",
+            "forks": "283",
+            "language": "Shell",
+            "stars_today": "333 stars today"
+        },
+        {
+            "zh_des": "《接地恐龙：与恐龙结婚》一文的正式实施",
+            "url": "https://github.com/IDEA-Research/GroundingDINO",
+            "name": "IDEA-Research /GroundingDINO",
+            "description": "Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+            "stars": "5,419",
+            "forks": "566",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "63,182",
+            "forks": "3,414",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        }
+    ]
+}
