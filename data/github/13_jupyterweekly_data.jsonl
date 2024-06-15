@@ -11012,3 +11012,197 @@
         }
     ]
 }
+{
+    "06月15日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "47,582",
+            "forks": "25,952",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,285 stars this week"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,665",
+            "forks": "720",
+            "language": "Jupyter Notebook",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "5,271",
+            "forks": "651",
+            "language": "Jupyter Notebook",
+            "stars_today": "241 stars this week"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "49,870",
+            "forks": "5,157",
+            "language": "Jupyter Notebook",
+            "stars_today": "343 stars this week"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,734",
+            "forks": "6,644",
+            "language": "Jupyter Notebook",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "8,917",
+            "forks": "893",
+            "language": "Jupyter Notebook",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "8,703",
+            "forks": "1,188",
+            "language": "Jupyter Notebook",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,350",
+            "forks": "2,866",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars this week"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,693",
+            "forks": "3,303",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars this week"
+        },
+        {
+            "zh_des": "从不同上下文长度的LLM模型中进行简单检索，以测量准确性",
+            "url": "https://github.com/gkamradt/LLMTest_NeedleInAHaystack",
+            "name": "gkamradt /LLMTest_NeedleInAHaystack",
+            "description": "Doing simple retrieval from LLM models at various context lengths to measure accuracy",
+            "stars": "1,224",
+            "forks": "121",
+            "language": "Jupyter Notebook",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "27,282",
+            "forks": "3,968",
+            "language": "Jupyter Notebook",
+            "stars_today": "317 stars this week"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "3,072",
+            "forks": "519",
+            "language": "Jupyter Notebook",
+            "stars_today": "277 stars this week"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,628",
+            "forks": "83,856",
+            "language": "Jupyter Notebook",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "21,018",
+            "forks": "8,162",
+            "language": "Jupyter Notebook",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "Jupyter互动笔记本",
+            "url": "https://github.com/jupyter/notebook",
+            "name": "jupyter /notebook",
+            "description": "Jupyter Interactive Notebook",
+            "stars": "11,311",
+            "forks": "4,707",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars this week"
+        },
+        {
+            "zh_des": "该存储库包含客户开始使用Amazon Bedock Service的示例。其中包含所有可用基础模型的示例",
+            "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+            "name": "aws-samples /amazon-bedrock-samples",
+            "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+            "stars": "325",
+            "forks": "164",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars this week"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,155",
+            "forks": "12,564",
+            "language": "Jupyter Notebook",
+            "stars_today": "46 stars this week"
+        },
+        {
+            "zh_des": "算法交易的机器学习代码，第2版。",
+            "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+            "name": "stefan-jansen /machine-learning-for-trading",
+            "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+            "stars": "12,105",
+            "forks": "3,947",
+            "language": "Jupyter Notebook",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "2,897",
+            "forks": "207",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars this week"
+        }
+    ]
+}

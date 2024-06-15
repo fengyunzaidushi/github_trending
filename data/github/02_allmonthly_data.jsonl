@@ -15590,3 +15590,177 @@
         }
     ]
 }
+{
+    "06月15日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "16,250",
+            "forks": "1,661",
+            "language": "Python",
+            "stars_today": "6,288 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "7,199",
+            "forks": "495",
+            "language": "Python",
+            "stars_today": "5,827 stars this month"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "10,578",
+            "forks": "1,148",
+            "language": "TypeScript",
+            "stars_today": "4,658 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "25,151",
+            "forks": "2,343",
+            "language": "TypeScript",
+            "stars_today": "2,295 stars this month"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,855",
+            "forks": "1,013",
+            "language": "Lua",
+            "stars_today": "1,805 stars this month"
+        },
+        {
+            "zh_des": "🔮ChatGPT桌面应用程序(Mac、Windows和LINUX)",
+            "url": "https://github.com/lencx/ChatGPT",
+            "name": "lencx /ChatGPT",
+            "description": "🔮 ChatGPT Desktop Application (Mac, Windows and Linux)",
+            "stars": "51,380",
+            "forks": "5,757",
+            "language": "Rust",
+            "stars_today": "4,110 stars this month"
+        },
+        {
+            "zh_des": "用Java实现的设计模式",
+            "url": "https://github.com/iluwatar/java-design-patterns",
+            "name": "iluwatar /java-design-patterns",
+            "description": "Design patterns implemented in Java",
+            "stars": "87,922",
+            "forks": "26,128",
+            "language": "Java",
+            "stars_today": "1,387 stars this month"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "24,379",
+            "forks": "1,238",
+            "language": "PHP",
+            "stars_today": "8,196 stars this month"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "274,111",
+            "forks": "25,840",
+            "language": "",
+            "stars_today": "12,550 stars this month"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "27,788",
+            "forks": "3,234",
+            "language": "JavaScript",
+            "stars_today": "4,283 stars this month"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,767",
+            "forks": "205",
+            "language": "Python",
+            "stars_today": "1,451 stars this month"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,258",
+            "forks": "539",
+            "language": "JavaScript",
+            "stars_today": "1,508 stars this month"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,094",
+            "forks": "800",
+            "language": "Python",
+            "stars_today": "1,267 stars this month"
+        },
+        {
+            "zh_des": "WebRTC的端到端堆栈。SFU媒体服务器和SDK。",
+            "url": "https://github.com/livekit/livekit",
+            "name": "livekit /livekit",
+            "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+            "stars": "8,525",
+            "forks": "676",
+            "language": "Go",
+            "stars_today": "1,132 stars this month"
+        },
+        {
+            "zh_des": "语音到文本、文本到语音和说话人识别，使用下一代Kaldi和onnxrun，无需互联网连接。支持嵌入式系统、安卓、iOS、Raspberry PI、RISC-V、x86_服务器、WebSocket服务器/客户端、C/C++、Python、Kotlin、C#、Go、NodeJS、JAVA、SWIFT、DART、JAVASCRIPT",
+            "url": "https://github.com/k2-fsa/sherpa-onnx",
+            "name": "k2-fsa /sherpa-onnx",
+            "description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript",
+            "stars": "1,720",
+            "forks": "237",
+            "language": "C++",
+            "stars_today": "771 stars this month"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "11,260",
+            "forks": "708",
+            "language": "TypeScript",
+            "stars_today": "1,477 stars this month"
+        },
+        {
+            "zh_des": "微信机器人底层框架，可接入Gemini、Chat GPT、Chat GLM、讯飞星火、Tigerbot等大模型。微信机器钩。",
+            "url": "https://github.com/lich0821/WeChatFerry",
+            "name": "lich0821 /WeChatFerry",
+            "description": "微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.",
+            "stars": "3,012",
+            "forks": "542",
+            "language": "C++",
+            "stars_today": "821 stars this month"
+        }
+    ]
+}
