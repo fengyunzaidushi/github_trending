@@ -15982,3 +15982,137 @@
         }
     ]
 }
+{
+    "06月16日": [
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "38,559",
+            "forks": "4,093",
+            "language": "Python",
+            "stars_today": "246 stars today"
+        },
+        {
+            "zh_des": "用于使用深度神经网络的语音清除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "15,738",
+            "forks": "1,200",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "5,385",
+            "forks": "777",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "在Python语言中实现贝叶斯建模和概率编程",
+            "url": "https://github.com/pymc-devs/pymc",
+            "name": "pymc-devs /pymc",
+            "description": "Bayesian Modeling and Probabilistic Programming in Python",
+            "stars": "8,329",
+            "forks": "1,954",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一种用于高性能GPU模拟和图形处理的Python框架",
+            "url": "https://github.com/NVIDIA/warp",
+            "name": "NVIDIA /warp",
+            "description": "A Python framework for high performance GPU simulation and graphics",
+            "stars": "2,669",
+            "forks": "162",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "60,463",
+            "forks": "7,553",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "用语音数据轻松训练一个好的VC模型<=10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "20,347",
+            "forks": "3,144",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "133,885",
+            "forks": "25,650",
+            "language": "Python",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "16,606",
+            "forks": "1,261",
+            "language": "Python",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "🚨CVE-2023-45866-BlueDucky实现(使用DuckyScrip)🔓未经身份验证的对等导致代码执行(使用HID键盘)",
+            "url": "https://github.com/pentestfunctions/BlueDucky",
+            "name": "pentestfunctions /BlueDucky",
+            "description": "🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+            "stars": "880",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024]深度：释放大规模未标记数据的力量。单目深度估计的基础模型",
+            "url": "https://github.com/LiheYoung/Depth-Anything",
+            "name": "LiheYoung /Depth-Anything",
+            "description": "[CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation",
+            "stars": "6,130",
+            "forks": "462",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "74,565",
+            "forks": "5,897",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "筛选出优质的云Flare IP、并使用域名服务商提供的接口解析到不同线路以达到网站加速的效果，新增假墙防御方式",
+            "url": "https://github.com/ddgth/cf2dns",
+            "name": "ddgth /cf2dns",
+            "description": "筛选出优质的Cloudflare IP，并使用域名服务商提供的API解析到不同线路以达到网站加速的效果,新增假墙防御方式",
+            "stars": "3,318",
+            "forks": "1,665",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        }
+    ]
+}

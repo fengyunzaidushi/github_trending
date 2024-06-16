@@ -12584,3 +12584,207 @@
         }
     ]
 }
+{
+    "06月16日": [
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "4,819",
+            "forks": "387",
+            "language": "TypeScript",
+            "stars_today": "2,747 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "37,308",
+            "forks": "1,776",
+            "language": "TypeScript",
+            "stars_today": "1,814 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "14,576",
+            "forks": "1,405",
+            "language": "TypeScript",
+            "stars_today": "725 stars this week"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "52,793",
+            "forks": "4,847",
+            "language": "TypeScript",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "5,815",
+            "forks": "930",
+            "language": "TypeScript",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "41,943",
+            "forks": "5,367",
+            "language": "TypeScript",
+            "stars_today": "185 stars this week"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "159,778",
+            "forks": "27,954",
+            "language": "TypeScript",
+            "stars_today": "283 stars this week"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "827",
+            "forks": "455",
+            "language": "TypeScript",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "14,618",
+            "forks": "3,744",
+            "language": "TypeScript",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "79,858",
+            "forks": "4,016",
+            "language": "TypeScript",
+            "stars_today": "443 stars this week"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "63,278",
+            "forks": "3,420",
+            "language": "TypeScript",
+            "stars_today": "428 stars this week"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "37,741",
+            "forks": "5,720",
+            "language": "TypeScript",
+            "stars_today": "165 stars this week"
+        },
+        {
+            "zh_des": "🤖强大的异步状态管理、服务器状态实用程序和Web数据获取。TS/JS、Reaction查询、Solid Query、Svelte Query和Vue Query。",
+            "url": "https://github.com/TanStack/query",
+            "name": "TanStack /query",
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "stars": "40,561",
+            "forks": "2,729",
+            "language": "TypeScript",
+            "stars_today": "125 stars this week"
+        },
+        {
+            "zh_des": "可定制和可扩展的外壳",
+            "url": "https://github.com/Aylur/ags",
+            "name": "Aylur /ags",
+            "description": "A customizable and extensible shell",
+            "stars": "1,664",
+            "forks": "90",
+            "language": "TypeScript",
+            "stars_today": "84 stars this week"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,209",
+            "forks": "31,733",
+            "language": "TypeScript",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "用于在Web上创建白板和画布体验的SDK。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "SDK for creating whiteboards and canvas experiences on the web.",
+            "stars": "33,859",
+            "forks": "2,032",
+            "language": "TypeScript",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "Airtable APITable，这是一个面向🚀🎉📚的低代码平台，用于构建协作应用程序，比所有其他Airtable开源替代方案都要好。",
+            "url": "https://github.com/apitable/apitable",
+            "name": "apitable /apitable",
+            "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+            "stars": "12,300",
+            "forks": "1,055",
+            "language": "TypeScript",
+            "stars_today": "103 stars this week"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,149",
+            "forks": "11,677",
+            "language": "TypeScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "开源财富管理软件。角度+NestJS+棱镜+NX+打字🤍",
+            "url": "https://github.com/ghostfolio/ghostfolio",
+            "name": "ghostfolio /ghostfolio",
+            "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
+            "stars": "3,749",
+            "forks": "354",
+            "language": "TypeScript",
+            "stars_today": "34 stars this week"
+        },
+        {
+            "zh_des": "JS是一个渐进式的、可增量采用的🖖框架，用于在Web上构建用户界面。",
+            "url": "https://github.com/vuejs/core",
+            "name": "vuejs /core",
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "stars": "45,366",
+            "forks": "7,972",
+            "language": "TypeScript",
+            "stars_today": "142 stars this week"
+        }
+    ]
+}
