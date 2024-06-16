@@ -15818,3 +15818,177 @@
         }
     ]
 }
+{
+    "06月16日": [
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "38,422",
+            "forks": "4,079",
+            "language": "Python",
+            "stars_today": "1,196 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,745",
+            "forks": "1,111",
+            "language": "Python",
+            "stars_today": "698 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "12,991",
+            "forks": "993",
+            "language": "Python",
+            "stars_today": "458 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "4,101",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "702 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,141",
+            "forks": "800",
+            "language": "Python",
+            "stars_today": "633 stars this week"
+        },
+        {
+            "zh_des": "Mesop：在🚀中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "2,919",
+            "forks": "112",
+            "language": "Python",
+            "stars_today": "1,572 stars this week"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,853",
+            "forks": "5,153",
+            "language": "Python",
+            "stars_today": "1,025 stars this week"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "2,102",
+            "forks": "174",
+            "language": "Python",
+            "stars_today": "292 stars this week"
+        },
+        {
+            "zh_des": "你喜欢火炬吗？你喜欢微格勒吗？你爱丁尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "24,777",
+            "forks": "2,736",
+            "language": "Python",
+            "stars_today": "201 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "59,910",
+            "forks": "5,670",
+            "language": "Python",
+            "stars_today": "952 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "3,328",
+            "forks": "575",
+            "language": "Python",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "25,954",
+            "forks": "2,156",
+            "language": "Python",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "23,550",
+            "forks": "4,847",
+            "language": "Python",
+            "stars_today": "282 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "30,116",
+            "forks": "2,234",
+            "language": "Python",
+            "stars_today": "217 stars this week"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "12,634",
+            "forks": "646",
+            "language": "Python",
+            "stars_today": "945 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "260,629",
+            "forks": "44,270",
+            "language": "Python",
+            "stars_today": "923 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "11,381",
+            "forks": "1,091",
+            "language": "Python",
+            "stars_today": "148 stars this week"
+        }
+    ]
+}
