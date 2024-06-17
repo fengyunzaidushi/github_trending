@@ -16136,3 +16136,187 @@
         }
     ]
 }
+{
+    "06月17日": [
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "4,913",
+            "forks": "395",
+            "language": "TypeScript",
+            "stars_today": "2,052 stars this week"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "24,648",
+            "forks": "1,260",
+            "language": "PHP",
+            "stars_today": "5,096 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "38,717",
+            "forks": "4,112",
+            "language": "Python",
+            "stars_today": "1,390 stars this week"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "14,907",
+            "forks": "1,015",
+            "language": "Lua",
+            "stars_today": "737 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "37,360",
+            "forks": "1,778",
+            "language": "TypeScript",
+            "stars_today": "1,996 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,792",
+            "forks": "1,114",
+            "language": "Python",
+            "stars_today": "638 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "13,079",
+            "forks": "998",
+            "language": "Python",
+            "stars_today": "479 stars this week"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,417",
+            "forks": "553",
+            "language": "JavaScript",
+            "stars_today": "983 stars this week"
+        },
+        {
+            "zh_des": "网络瑞士军刀-一款用于加密、编码、压缩和数据分析的Web应用程序",
+            "url": "https://github.com/gchq/CyberChef",
+            "name": "gchq /CyberChef",
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+            "stars": "26,518",
+            "forks": "3,036",
+            "language": "JavaScript",
+            "stars_today": "430 stars this week"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "274,625",
+            "forks": "25,867",
+            "language": "",
+            "stars_today": "3,186 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "4,127",
+            "forks": "313",
+            "language": "Python",
+            "stars_today": "582 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,209",
+            "forks": "807",
+            "language": "Python",
+            "stars_today": "632 stars this week"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "19,533",
+            "forks": "1,597",
+            "language": "C++",
+            "stars_today": "699 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "14,627",
+            "forks": "1,405",
+            "language": "TypeScript",
+            "stars_today": "763 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "3,356",
+            "forks": "580",
+            "language": "Python",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "4,699",
+            "forks": "431",
+            "language": "Svelte",
+            "stars_today": "1,429 stars this week"
+        },
+        {
+            "zh_des": "SableSarmUI，一个模块化稳定的扩散Web用户界面，重点是使POWER工具易于访问、高性能和可扩展性。",
+            "url": "https://github.com/Stability-AI/StableSwarmUI",
+            "name": "Stability-AI /StableSwarmUI",
+            "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+            "stars": "3,473",
+            "forks": "298",
+            "language": "C#",
+            "stars_today": "558 stars this week"
+        },
+        {
+            "zh_des": "Mesop：在🚀中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Mesop: Build delightful web apps quickly in Python 🚀",
+            "stars": "3,018",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "1,425 stars this week"
+        }
+    ]
+}
