@@ -16250,3 +16250,157 @@
         }
     ]
 }
+{
+    "06月17日": [
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后台，具有图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "38,884",
+            "forks": "4,130",
+            "language": "Python",
+            "stars_today": "311 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散网络UI",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "134,002",
+            "forks": "25,663",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "74,686",
+            "forks": "5,901",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "使用深度神经网络的人声去除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "15,954",
+            "forks": "1,208",
+            "language": "Python",
+            "stars_today": "198 stars today"
+        },
+        {
+            "zh_des": "基于最新OpenAI Assistant API构建的唯一可靠的代理框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "The only reliable agent framework built on top of the latest OpenAI Assistants API.",
+            "stars": "1,986",
+            "forks": "513",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "129,418",
+            "forks": "9,745",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "1分钟语音数据也可以用来训练一个好的TTC模型！(few镜头语音克隆）",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "27,469",
+            "forks": "3,176",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "注重提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "37,412",
+            "forks": "4,872",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Control Net的WebUI扩展",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "name": "Mikubill /sd-webui-controlnet",
+            "description": "WebUI extension for ControlNet",
+            "stars": "16,325",
+            "forks": "1,899",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "5,423",
+            "forks": "778",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "什么该死的Python？😱",
+            "url": "https://github.com/satwikkansal/wtfpython",
+            "name": "satwikkansal /wtfpython",
+            "description": "What the f*ck Python? 😱",
+            "stars": "35,387",
+            "forks": "2,639",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "UTE-2023-45866 - BlueDucky实现（使用DuckyScript）🔓",
+            "url": "https://github.com/pentestfunctions/BlueDucky",
+            "name": "pentestfunctions /BlueDucky",
+            "description": "🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+            "stars": "899",
+            "forks": "153",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "优质电子书管理器的官方源代码存储库",
+            "url": "https://github.com/kovidgoyal/calibre",
+            "name": "kovidgoyal /calibre",
+            "description": "The official source code repository for the calibre ebook manager",
+            "stars": "18,690",
+            "forks": "2,196",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用Python进行科学计算的基本包。",
+            "url": "https://github.com/numpy/numpy",
+            "name": "numpy /numpy",
+            "description": "The fundamental package for scientific computing with Python.",
+            "stars": "26,845",
+            "forks": "9,562",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "无需微软Edge或Windows或API密钥即可使用Python中的在线文本转语音服务",
+            "url": "https://github.com/rany2/edge-tts",
+            "name": "rany2 /edge-tts",
+            "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+            "stars": "4,092",
+            "forks": "431",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        }
+    ]
+}

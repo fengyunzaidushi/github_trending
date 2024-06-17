@@ -16240,3 +16240,167 @@
         }
     ]
 }
+{
+    "06月17日": [
+        {
+            "zh_des": "Code at the Flow of Think-Zed是一个高性能的多人代码编辑器，来自Atom和Tree-Sitter的创建者。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "37,566",
+            "forks": "1,934",
+            "language": "Rust",
+            "stars_today": "1,009 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "38,884",
+            "forks": "4,130",
+            "language": "Python",
+            "stars_today": "311 stars today"
+        },
+        {
+            "zh_des": "OBS Studio-用于直播和屏幕录制的免费开源软件",
+            "url": "https://github.com/obsproject/obs-studio",
+            "name": "obsproject /obs-studio",
+            "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+            "stars": "56,678",
+            "forks": "7,662",
+            "language": "C",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "79,939",
+            "forks": "1,930",
+            "language": "JavaScript",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3、Mistral、Gema和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
+            "stars": "73,859",
+            "forks": "5,502",
+            "language": "Go",
+            "stars_today": "186 stars today"
+        },
+        {
+            "zh_des": "SableSarmUI，一个模块化稳定的扩散Web用户界面，重点是使POWER工具易于访问、高性能和可扩展性。",
+            "url": "https://github.com/Stability-AI/StableSwarmUI",
+            "name": "Stability-AI /StableSwarmUI",
+            "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+            "stars": "3,561",
+            "forks": "305",
+            "language": "C#",
+            "stars_today": "276 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "134,002",
+            "forks": "25,663",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "最广泛使用的、高性能的我的世界服务器，旨在修复游戏和机械方面的不一致",
+            "url": "https://github.com/PaperMC/Paper",
+            "name": "PaperMC /Paper",
+            "description": "The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies",
+            "stars": "9,151",
+            "forks": "2,187",
+            "language": "Java",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "12,452",
+            "forks": "2,234",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Windows下的图形用户界面客户端，支持Xray内核和v2Fly内核等",
+            "url": "https://github.com/2dust/v2rayN",
+            "name": "2dust /v2rayN",
+            "description": "A GUI client for Windows, support Xray core and v2fly core and others",
+            "stars": "63,286",
+            "forks": "10,794",
+            "language": "C#",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "Lean的Lede来源",
+            "url": "https://github.com/coolsnowwolf/lede",
+            "name": "coolsnowwolf /lede",
+            "description": "Lean's LEDE source",
+            "stars": "29,026",
+            "forks": "19,451",
+            "language": "C",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "27,704",
+            "forks": "2,133",
+            "language": "Ruby",
+            "stars_today": "340 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "74,686",
+            "forks": "5,901",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "177,165",
+            "forks": "23,297",
+            "language": "",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "1个文件中的开源实时后端",
+            "url": "https://github.com/pocketbase/pocketbase",
+            "name": "pocketbase /pocketbase",
+            "description": "Open Source realtime backend in 1 file",
+            "stars": "34,969",
+            "forks": "1,570",
+            "language": "Go",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "用于使用深度神经网络的语音清除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "15,954",
+            "forks": "1,208",
+            "language": "Python",
+            "stars_today": "198 stars today"
+        }
+    ]
+}
