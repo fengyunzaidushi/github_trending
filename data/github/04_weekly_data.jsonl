@@ -16504,3 +16504,167 @@
         }
     ]
 }
+{
+    "06月18日": [
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "39,029",
+            "forks": "4,156",
+            "language": "Python",
+            "stars_today": "1,634 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "13,198",
+            "forks": "1,001",
+            "language": "Python",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "11,892",
+            "forks": "1,122",
+            "language": "Python",
+            "stars_today": "545 stars this week"
+        },
+        {
+            "zh_des": "论文《语言模型是无人监督的多任务学习者》的代码",
+            "url": "https://github.com/openai/gpt-2",
+            "name": "openai /gpt-2",
+            "description": "Code for the paper \"Language Models are Unsupervised Multitask Learners\"",
+            "stars": "21,754",
+            "forks": "5,392",
+            "language": "Python",
+            "stars_today": "265 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：火炬中真实世界机器人的端到端学习",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: End-to-end Learning for Real-World Robotics in Pytorch",
+            "stars": "4,145",
+            "forks": "319",
+            "language": "Python",
+            "stars_today": "537 stars this week"
+        },
+        {
+            "zh_des": "在Python中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Build delightful web apps quickly in Python",
+            "stars": "3,201",
+            "forks": "122",
+            "language": "Python",
+            "stars_today": "1,125 stars this week"
+        },
+        {
+            "zh_des": "模拟人类、富有表现力的TTS的基础模型",
+            "url": "https://github.com/metavoiceio/metavoice-src",
+            "name": "metavoiceio /metavoice-src",
+            "description": "Foundational model for human-like, expressive TTS",
+            "stars": "3,374",
+            "forks": "585",
+            "language": "Python",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "最简单、最快的培训/优化中型GPT的存储库。",
+            "url": "https://github.com/karpathy/nanoGPT",
+            "name": "karpathy /nanoGPT",
+            "description": "The simplest, fastest repository for training/finetuning medium-sized GPTs.",
+            "stars": "33,927",
+            "forks": "5,175",
+            "language": "Python",
+            "stars_today": "984 stars this week"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "2,139",
+            "forks": "179",
+            "language": "Python",
+            "stars_today": "271 stars this week"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,708",
+            "forks": "1,471",
+            "language": "Python",
+            "stars_today": "262 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "11,405",
+            "forks": "1,091",
+            "language": "Python",
+            "stars_today": "157 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "59,963",
+            "forks": "5,672",
+            "language": "Python",
+            "stars_today": "915 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,261",
+            "forks": "809",
+            "language": "Python",
+            "stars_today": "658 stars this week"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "30,153",
+            "forks": "2,233",
+            "language": "Python",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "生产就绪型、轻量级、灵活且可扩展的ASGI API框架|轻松构建高性能API",
+            "url": "https://github.com/litestar-org/litestar",
+            "name": "litestar-org /litestar",
+            "description": "Production-ready, Light, Flexible and Extensible ASGI API framework | Effortlessly Build Performant APIs",
+            "stars": "4,974",
+            "forks": "347",
+            "language": "Python",
+            "stars_today": "360 stars this week"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "31,344",
+            "forks": "3,730",
+            "language": "Python",
+            "stars_today": "723 stars this week"
+        }
+    ]
+}
