@@ -16558,3 +16558,117 @@
         }
     ]
 }
+{
+    "06月18日": [
+        {
+            "zh_des": "一种用于高性能GPU模拟和图形处理的Python框架",
+            "url": "https://github.com/NVIDIA/warp",
+            "name": "NVIDIA /warp",
+            "description": "A Python framework for high performance GPU simulation and graphics",
+            "stars": "3,093",
+            "forks": "183",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "8,175",
+            "forks": "612",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "用于使用深度神经网络的语音清除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "16,096",
+            "forks": "1,215",
+            "language": "Python",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "39,842",
+            "forks": "7,397",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "134,154",
+            "forks": "25,674",
+            "language": "Python",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "Qlib是一个面向人工智能的量化投资平台，旨在利用人工智能技术在量化投资中实现潜力、赋权研究和创造价值，从探索想法到实施产品。Qlib支持多种机器学习建模范例。包括监督学习、市场动态建模和RL。",
+            "url": "https://github.com/microsoft/qlib",
+            "name": "microsoft /qlib",
+            "description": "Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.",
+            "stars": "14,458",
+            "forks": "2,524",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "在多个GPU、TPU上预先训练、优化和部署AI模型，无需更改代码。",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "name": "Lightning-AI /pytorch-lightning",
+            "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+            "stars": "27,317",
+            "forks": "3,276",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一个基于Tkinter的现代的、可定制的pythonUI库",
+            "url": "https://github.com/TomSchimansky/CustomTkinter",
+            "name": "TomSchimansky /CustomTkinter",
+            "description": "A modern and customizable python UI-library based on Tkinter",
+            "stars": "10,625",
+            "forks": "1,023",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "用于构建TrueFoundry生产的模块化、开源应用程序的RAG(检索增强生成)框架",
+            "url": "https://github.com/truefoundry/cognita",
+            "name": "truefoundry /cognita",
+            "description": "RAG (Retrieval Augmented Generation) Framework for building modular, open source applications for production by TrueFoundry",
+            "stars": "2,879",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "DeepFast是一个深度学习优化库，它使分布式训练和推理变得简单、高效和有效。",
+            "url": "https://github.com/microsoft/DeepSpeed",
+            "name": "microsoft /DeepSpeed",
+            "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+            "stars": "33,435",
+            "forks": "3,928",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用于BERT的TensorFlow代码和预训练模型",
+            "url": "https://github.com/google-research/bert",
+            "name": "google-research /bert",
+            "description": "TensorFlow code and pre-trained models for BERT",
+            "stars": "37,323",
+            "forks": "9,528",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
