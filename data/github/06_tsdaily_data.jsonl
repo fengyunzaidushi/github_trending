@@ -17742,3 +17742,217 @@
         }
     ]
 }
+{
+    "06月19日": [
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "12,914",
+            "forks": "2,281",
+            "language": "TypeScript",
+            "stars_today": "191 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "32,820",
+            "forks": "7,795",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "13,896",
+            "forks": "1,394",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "9,804",
+            "forks": "474",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "🤖无头用户界面，用于为TS/JS-Reaction-Table、Vue-Table、Solid-Table、Svelte-Table构建强大的表格和数据网格",
+            "url": "https://github.com/TanStack/table",
+            "name": "TanStack /table",
+            "description": "🤖 Headless UI for building powerful tables & datagrids for TS/JS - React-Table, Vue-Table, Solid-Table, Svelte-Table",
+            "stars": "24,411",
+            "forks": "3,020",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,184",
+            "forks": "6,683",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,534",
+            "forks": "4,805",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "20,182",
+            "forks": "3,286",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "43,947",
+            "forks": "4,753",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "⚡️TypeScrip执行|在Node.js中运行TypeScrip的最简单方法",
+            "url": "https://github.com/privatenumber/tsx",
+            "name": "privatenumber /tsx",
+            "description": "⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js",
+            "stars": "8,438",
+            "forks": "131",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "34,387",
+            "forks": "4,605",
+            "language": "TypeScript",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "19,536",
+            "forks": "1,461",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "23,565",
+            "forks": "14,698",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "💬Typebot是一款功能强大的聊天机器人构建器，您可以自行托管。",
+            "url": "https://github.com/baptisteArno/typebot.io",
+            "name": "baptisteArno /typebot.io",
+            "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+            "stars": "5,352",
+            "forks": "1,508",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "24,458",
+            "forks": "2,043",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于表单状态管理和验证的📋Reaction挂钩(Web+Reaction Native)",
+            "url": "https://github.com/react-hook-form/react-hook-form",
+            "name": "react-hook-form /react-hook-form",
+            "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+            "stars": "40,220",
+            "forks": "2,014",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "12,650",
+            "forks": "845",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "Trigger.dev是针对TypeScrip的开源后台作业平台。",
+            "url": "https://github.com/triggerdotdev/trigger.dev",
+            "name": "triggerdotdev /trigger.dev",
+            "description": "Trigger.dev is the open source background jobs platform for TypeScript.",
+            "stars": "7,524",
+            "forks": "428",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Radix Primitions是一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。由@workos维护。",
+            "url": "https://github.com/radix-ui/primitives",
+            "name": "radix-ui /primitives",
+            "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by@workos.",
+            "stars": "14,735",
+            "forks": "711",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "60,112",
+            "forks": "12,909",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "专注于业务定制的流程图编辑框架。专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、uml、工作流等各种图编辑场景.",
+            "url": "https://github.com/didi/LogicFlow",
+            "name": "didi /LogicFlow",
+            "description": "A flow chart editing framework focusing on business customization. 专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。",
+            "stars": "7,154",
+            "forks": "995",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
