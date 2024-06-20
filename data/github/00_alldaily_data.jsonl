@@ -17314,3 +17314,147 @@
         }
     ]
 }
+{
+    "06月20日": [
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "13,595",
+            "forks": "2,346",
+            "language": "TypeScript",
+            "stars_today": "381 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "18,813",
+            "forks": "1,805",
+            "language": "Python",
+            "stars_today": "596 stars today"
+        },
+        {
+            "zh_des": "开源远程桌面，TeamViewer的替代品。",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "name": "rustdesk /rustdesk",
+            "description": "An open-source remote desktop, and alternative to TeamViewer.",
+            "stars": "66,806",
+            "forks": "7,392",
+            "language": "Rust",
+            "stars_today": "342 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "10,209",
+            "forks": "493",
+            "language": "TypeScript",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "Susonic是下一代BI平台，它集成了Chat BI(由LLM支持)和Headless BI(由语义层支持)范例。",
+            "url": "https://github.com/tencentmusic/supersonic",
+            "name": "tencentmusic /supersonic",
+            "description": "SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+            "stars": "1,001",
+            "forks": "177",
+            "language": "Java",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "Ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益.用AI Side Hustles赚钱的终极指南：学习如何利用AI来做一些很酷的兼职工作，并赚取一些额外的现金。请查看英文版以了解更多见解。",
+            "url": "https://github.com/bleedline/aimoneyhunter",
+            "name": "bleedline /aimoneyhunter",
+            "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
+            "stars": "10,401",
+            "forks": "969",
+            "language": "",
+            "stars_today": "381 stars today"
+        },
+        {
+            "zh_des": "1️JAVA🐝🏎️十亿行挑战--有趣地探索了用⃣聚合文本文件中的1B行有多快",
+            "url": "https://github.com/gunnarmorling/1brc",
+            "name": "gunnarmorling /1brc",
+            "description": "1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java",
+            "stars": "5,465",
+            "forks": "1,679",
+            "language": "Java",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "178,077",
+            "forks": "23,382",
+            "language": "",
+            "stars_today": "300 stars today"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,296",
+            "forks": "967",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "一个面向所有人的开源机器学习框架",
+            "url": "https://github.com/tensorflow/tensorflow",
+            "name": "tensorflow /tensorflow",
+            "description": "An Open Source Machine Learning Framework for Everyone",
+            "stars": "183,568",
+            "forks": "74,027",
+            "language": "C++",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "79,617",
+            "forks": "21,445",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "14,242",
+            "forks": "1,435",
+            "language": "TypeScript",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "适用于每个系统的PowerShell！",
+            "url": "https://github.com/PowerShell/PowerShell",
+            "name": "PowerShell /PowerShell",
+            "description": "PowerShell for every system!",
+            "stars": "43,833",
+            "forks": "7,106",
+            "language": "C#",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "8,495",
+            "forks": "3,606",
+            "language": "JavaScript",
+            "stars_today": "87 stars today"
+        }
+    ]
+}
