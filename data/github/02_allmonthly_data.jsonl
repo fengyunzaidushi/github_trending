@@ -17588,3 +17588,147 @@
         }
     ]
 }
+{
+    "06月21日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "17,044",
+            "forks": "1,748",
+            "language": "Python",
+            "stars_today": "6,630 stars this month"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "11,576",
+            "forks": "579",
+            "language": "Python",
+            "stars_today": "6,715 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "7,450",
+            "forks": "515",
+            "language": "Python",
+            "stars_today": "5,795 stars this month"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "25,154",
+            "forks": "1,274",
+            "language": "PHP",
+            "stars_today": "8,759 stars this month"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "15,023",
+            "forks": "1,029",
+            "language": "Lua",
+            "stars_today": "1,686 stars this month"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "275,909",
+            "forks": "25,957",
+            "language": "",
+            "stars_today": "13,252 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "39,528",
+            "forks": "4,204",
+            "language": "Python",
+            "stars_today": "4,201 stars this month"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "19,921",
+            "forks": "1,614",
+            "language": "C++",
+            "stars_today": "2,697 stars this month"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,577",
+            "forks": "566",
+            "language": "JavaScript",
+            "stars_today": "1,770 stars this month"
+        },
+        {
+            "zh_des": "语音到文本、文本到语音和说话人识别，使用下一代Kaldi和onnxrun，无需互联网连接。支持嵌入式系统、安卓、iOS、Raspberry PI、RISC-V、x86_服务器、WebSocket服务器/客户端、C/C++、Python、Kotlin、C#、Go、NodeJS、JAVA、SWIFT、DART、JAVASCRIPT",
+            "url": "https://github.com/k2-fsa/sherpa-onnx",
+            "name": "k2-fsa /sherpa-onnx",
+            "description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript",
+            "stars": "1,969",
+            "forks": "255",
+            "language": "C++",
+            "stars_today": "1,024 stars this month"
+        },
+        {
+            "zh_des": "SableSarmUI，一个模块化稳定的扩散Web用户界面，重点是使POWER工具易于访问、高性能和可扩展性。",
+            "url": "https://github.com/Stability-AI/StableSwarmUI",
+            "name": "Stability-AI /StableSwarmUI",
+            "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+            "stars": "3,809",
+            "forks": "318",
+            "language": "C#",
+            "stars_today": "1,193 stars this month"
+        },
+        {
+            "zh_des": "最具可定制性和低延迟的跨平台/外壳提示呈现器",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "name": "JanDeDobbeleer /oh-my-posh",
+            "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+            "stars": "15,457",
+            "forks": "2,280",
+            "language": "Go",
+            "stars_today": "1,073 stars this month"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "9,665",
+            "forks": "542",
+            "language": "Dart",
+            "stars_today": "1,949 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "8,508",
+            "forks": "629",
+            "language": "Python",
+            "stars_today": "1,251 stars this month"
+        }
+    ]
+}
