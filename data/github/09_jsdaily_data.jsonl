@@ -14514,3 +14514,217 @@
         }
     ]
 }
+{
+    "06月21日": [
+        {
+            "zh_des": "🎮开源、跨平台的游戏引擎，设计供所有人使用。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
+            "stars": "6,816",
+            "forks": "727",
+            "language": "JavaScript",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "184,696",
+            "forks": "29,801",
+            "language": "JavaScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "4,971",
+            "forks": "806",
+            "language": "JavaScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "使用<canvas>标记的简单HTML5图表",
+            "url": "https://github.com/chartjs/Chart.js",
+            "name": "chartjs /Chart.js",
+            "description": "Simple HTML5 Charts using the <canvas> tag",
+            "stars": "63,839",
+            "forks": "11,878",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "16,326",
+            "forks": "1,719",
+            "language": "JavaScript",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "JavaScript Canvas库，SVG到Canvas(&Canvas到SVG)解析器",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "name": "fabricjs /fabric.js",
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+            "stars": "27,954",
+            "forks": "3,442",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于GraphQL、REST、WebSockets、SSE和GRPC的开源、跨平台API客户端。云存储、本地存储和Git存储。",
+            "url": "https://github.com/Kong/insomnia",
+            "name": "Kong /insomnia",
+            "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+            "stars": "33,508",
+            "forks": "1,870",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "19,321",
+            "forks": "2,894",
+            "language": "JavaScript",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "8,643",
+            "forks": "3,606",
+            "language": "JavaScript",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "104,876",
+            "forks": "28,351",
+            "language": "JavaScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "基于Reaction的最佳框架，具有内置的性能、可扩展性和安全性。",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "name": "gatsbyjs /gatsby",
+            "description": "The best React-based framework with performance, scalability and security built in.",
+            "stars": "55,128",
+            "forks": "10,329",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "15,671",
+            "forks": "3,643",
+            "language": "JavaScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "基于浏览器的代码编辑器",
+            "url": "https://github.com/microsoft/monaco-editor",
+            "name": "microsoft /monaco-editor",
+            "description": "A browser based code editor",
+            "stars": "38,906",
+            "forks": "3,503",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "</>htmx-强大的超文本标记语言工具",
+            "url": "https://github.com/bigskysoftware/htmx",
+            "name": "bigskysoftware /htmx",
+            "description": "</> htmx - high power tools for HTML",
+            "stars": "34,638",
+            "forks": "1,147",
+            "language": "JavaScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "用于WordPress及更高版本的块编辑器项目。插件可以从官方资源库获得。",
+            "url": "https://github.com/WordPress/gutenberg",
+            "name": "WordPress /gutenberg",
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+            "stars": "9,973",
+            "forks": "3,992",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "⚡无服务器框架-使用AWS Lambda和其他托管云服务来构建自动扩展的应用程序，在空闲时不花费任何成本，并且拥有极低的维护成本。",
+            "url": "https://github.com/serverless/serverless",
+            "name": "serverless /serverless",
+            "description": "⚡ Serverless Framework – Use AWS Lambda and other managed cloud services to build apps that auto-scale, cost nothing when idle, and boast radically low maintenance.",
+            "stars": "46,284",
+            "forks": "5,687",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于世界级3D地球和地图🌎的开源JAVASCRIPT库",
+            "url": "https://github.com/CesiumGS/cesium",
+            "name": "CesiumGS /cesium",
+            "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+            "stars": "12,302",
+            "forks": "3,368",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "12,231",
+            "forks": "747",
+            "language": "JavaScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "46,361",
+            "forks": "3,128",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "CORS Anywhere是一个NodeJS反向代理，它向代理请求添加CORS头。",
+            "url": "https://github.com/Rob--W/cors-anywhere",
+            "name": "Rob--W /cors-anywhere",
+            "description": "CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.",
+            "stars": "8,442",
+            "forks": "5,852",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "OpenZeppelin Contracts是一个用于安全智能合同开发的库。",
+            "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+            "name": "OpenZeppelin /openzeppelin-contracts",
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "stars": "24,403",
+            "forks": "11,671",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        }
+    ]
+}
