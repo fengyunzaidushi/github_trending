@@ -17970,3 +17970,167 @@
         }
     ]
 }
+{
+    "06月22日": [
+        {
+            "zh_des": "RTranslator是世界上第一款开源的实时翻译应用。",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "RTranslator is the world's first open source real-time translation app.",
+            "stars": "1,188",
+            "forks": "112",
+            "language": "C++",
+            "stars_today": "216 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "14,315",
+            "forks": "2,410",
+            "language": "TypeScript",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,033",
+            "forks": "1,239",
+            "language": "Jupyter Notebook",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,508",
+            "forks": "988",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "33,348",
+            "forks": "7,850",
+            "language": "TypeScript",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "178,553",
+            "forks": "23,433",
+            "language": "",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的游戏引擎，设计供所有人使用。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
+            "stars": "6,992",
+            "forks": "733",
+            "language": "JavaScript",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "🔥人人可用的开源数据可视化分析工具，帆软、Tableau等商业BI工具的开源替代.",
+            "url": "https://github.com/dataease/dataease",
+            "name": "dataease /dataease",
+            "description": "🔥 人人可用的开源数据可视化分析工具，帆软、Tableau 等商业 BI 工具的开源替代。",
+            "stars": "16,033",
+            "forks": "2,937",
+            "language": "Java",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "10,728",
+            "forks": "551",
+            "language": "TypeScript",
+            "stars_today": "270 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "276,502",
+            "forks": "26,003",
+            "language": "",
+            "stars_today": "378 stars today"
+        },
+        {
+            "zh_des": "在Rust中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Rust",
+            "name": "TheAlgorithms /Rust",
+            "description": "All Algorithms implemented in Rust",
+            "stars": "21,201",
+            "forks": "2,072",
+            "language": "Rust",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "程序员在家做饭方法指南.关于如何在家做饭的程序员指南(仅限简体中文)。",
+            "url": "https://github.com/Anduin2017/HowToCook",
+            "name": "Anduin2017 /HowToCook",
+            "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+            "stars": "62,113",
+            "forks": "8,407",
+            "language": "Dockerfile",
+            "stars_today": "228 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "20,371",
+            "forks": "1,167",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "用于收集、处理、聚合和写入指标、日志和其他任意数据的代理。",
+            "url": "https://github.com/influxdata/telegraf",
+            "name": "influxdata /telegraf",
+            "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+            "stars": "13,991",
+            "forks": "5,507",
+            "language": "Go",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "使用Gitleaks🔑保护和发现机密",
+            "url": "https://github.com/gitleaks/gitleaks",
+            "name": "gitleaks /gitleaks",
+            "description": "Protect and discover secrets using Gitleaks 🔑",
+            "stars": "16,118",
+            "forks": "1,357",
+            "language": "Go",
+            "stars_today": "195 stars today"
+        },
+        {
+            "zh_des": "Ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益.用AI Side Hustles赚钱的终极指南：学习如何利用AI来做一些很酷的兼职工作，并赚取一些额外的现金。请查看英文版以了解更多见解。",
+            "url": "https://github.com/bleedline/aimoneyhunter",
+            "name": "bleedline /aimoneyhunter",
+            "description": "ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.",
+            "stars": "10,871",
+            "forks": "999",
+            "language": "",
+            "stars_today": "147 stars today"
+        }
+    ]
+}
