@@ -18298,3 +18298,177 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "276,938",
+            "forks": "26,049",
+            "language": "",
+            "stars_today": "420 stars today"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "22,076",
+            "forks": "2,941",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "261,508",
+            "forks": "44,386",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,140",
+            "forks": "1,252",
+            "language": "Jupyter Notebook",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "RTranslator是世界上第一款开源的实时翻译应用。",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "RTranslator is the world's first open source real-time translation app.",
+            "stars": "1,604",
+            "forks": "153",
+            "language": "C++",
+            "stars_today": "480 stars today"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "9,879",
+            "forks": "550",
+            "language": "Dart",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,406",
+            "forks": "425",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "大灾难--黑暗的未来。这是一款以回合为基础的生存游戏，背景设定在后末日世界。",
+            "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+            "name": "CleverRaven /Cataclysm-DDA",
+            "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+            "stars": "9,846",
+            "forks": "4,083",
+            "language": "C++",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "296,755",
+            "forks": "74,767",
+            "language": "",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "324,173",
+            "forks": "60,278",
+            "language": "",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "31,435",
+            "forks": "2,882",
+            "language": "C#",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "77,253",
+            "forks": "4,023",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "33,543",
+            "forks": "7,882",
+            "language": "TypeScript",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "2025暑期科技实习生集锦！",
+            "url": "https://github.com/SimplifyJobs/Summer2025-Internships",
+            "name": "SimplifyJobs /Summer2025-Internships",
+            "description": "Collection of Summer 2025 tech internships!",
+            "stars": "31,024",
+            "forks": "2,582",
+            "language": "",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "Espressif物联网开发框架。Espressif SoC的官方开发框架。",
+            "url": "https://github.com/espressif/esp-idf",
+            "name": "espressif /esp-idf",
+            "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+            "stars": "12,806",
+            "forks": "7,067",
+            "language": "C",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "开放源码开发环境管理器。",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "6,584",
+            "forks": "761",
+            "language": "Go",
+            "stars_today": "253 stars today"
+        },
+        {
+            "zh_des": "在Rust中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Rust",
+            "name": "TheAlgorithms /Rust",
+            "description": "All Algorithms implemented in Rust",
+            "stars": "21,325",
+            "forks": "2,077",
+            "language": "Rust",
+            "stars_today": "142 stars today"
+        }
+    ]
+}

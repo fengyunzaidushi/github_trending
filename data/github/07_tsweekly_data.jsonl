@@ -15740,3 +15740,237 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "14,488",
+            "forks": "2,427",
+            "language": "TypeScript",
+            "stars_today": "1,984 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "14,511",
+            "forks": "1,439",
+            "language": "TypeScript",
+            "stars_today": "947 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "10,837",
+            "forks": "555",
+            "language": "TypeScript",
+            "stars_today": "1,207 stars this week"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/xiaolai/everyone-can-use-english",
+            "name": "xiaolai /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "20,231",
+            "forks": "3,295",
+            "language": "TypeScript",
+            "stars_today": "234 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "33,543",
+            "forks": "7,882",
+            "language": "TypeScript",
+            "stars_today": "827 stars this week"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的JAVASCRIPT/TYPESCRIPT，完全可定制，开发者优先。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+            "stars": "61,411",
+            "forks": "7,685",
+            "language": "TypeScript",
+            "stars_today": "155 stars this week"
+        },
+        {
+            "zh_des": "用于Chrome的Node.js API",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "name": "puppeteer /puppeteer",
+            "description": "Node.js API for Chrome",
+            "stars": "87,527",
+            "forks": "9,026",
+            "language": "TypeScript",
+            "stars_today": "218 stars this week"
+        },
+        {
+            "zh_des": "OpenMetadata是一个用于数据发现、数据可观察性和数据治理的统一元数据平台，由中央元数据存储库、深入的列级谱系和无缝的团队协作提供支持。",
+            "url": "https://github.com/open-metadata/OpenMetadata",
+            "name": "open-metadata /OpenMetadata",
+            "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+            "stars": "4,686",
+            "forks": "905",
+            "language": "TypeScript",
+            "stars_today": "258 stars this week"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "6,595",
+            "forks": "857",
+            "language": "TypeScript",
+            "stars_today": "158 stars this week"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "44,007",
+            "forks": "4,760",
+            "language": "TypeScript",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "90,827",
+            "forks": "47,236",
+            "language": "TypeScript",
+            "stars_today": "128 stars this week"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "33,617",
+            "forks": "3,455",
+            "language": "TypeScript",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "19,800",
+            "forks": "1,476",
+            "language": "TypeScript",
+            "stars_today": "280 stars this week"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "60,217",
+            "forks": "12,951",
+            "language": "TypeScript",
+            "stars_today": "191 stars this week"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "29,585",
+            "forks": "6,910",
+            "language": "TypeScript",
+            "stars_today": "149 stars this week"
+        },
+        {
+            "zh_des": "🤖强大的异步状态管理、服务器状态实用程序和Web数据获取。TS/JS、Reaction查询、Solid Query、Svelte Query和Vue Query。",
+            "url": "https://github.com/TanStack/query",
+            "name": "TanStack /query",
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "stars": "40,649",
+            "forks": "2,740",
+            "language": "TypeScript",
+            "stars_today": "108 stars this week"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,058",
+            "forks": "24,885",
+            "language": "TypeScript",
+            "stars_today": "114 stars this week"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "23,596",
+            "forks": "14,743",
+            "language": "TypeScript",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "Vesktop是一款定制的Discord应用程序，旨在为您提供更好的性能并改进对Linux的支持",
+            "url": "https://github.com/Vencord/Vesktop",
+            "name": "Vencord /Vesktop",
+            "description": "Vesktop is a custom Discord App aiming to give you better performance and improve linux support",
+            "stars": "2,624",
+            "forks": "132",
+            "language": "TypeScript",
+            "stars_today": "99 stars this week"
+        },
+        {
+            "zh_des": "Sanity Studio-快速配置由结构化内容提供支持的内容工作区",
+            "url": "https://github.com/sanity-io/sanity",
+            "name": "sanity-io /sanity",
+            "description": "Sanity Studio – Rapidly configure content workspaces powered by structured content",
+            "stars": "5,036",
+            "forks": "400",
+            "language": "TypeScript",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "JS是一个渐进式的、可增量采用的🖖框架，用于在Web上构建用户界面。",
+            "url": "https://github.com/vuejs/core",
+            "name": "vuejs /core",
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "stars": "45,461",
+            "forks": "7,989",
+            "language": "TypeScript",
+            "stars_today": "131 stars this week"
+        },
+        {
+            "zh_des": "🥷使用API运行AI-Agents",
+            "url": "https://github.com/superagent-ai/superagent",
+            "name": "superagent-ai /superagent",
+            "description": "🥷 Run AI-agents with an API",
+            "stars": "4,827",
+            "forks": "810",
+            "language": "TypeScript",
+            "stars_today": "174 stars this week"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "868",
+            "forks": "469",
+            "language": "TypeScript",
+            "stars_today": "39 stars this week"
+        }
+    ]
+}

@@ -18078,3 +18078,167 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "22,076",
+            "forks": "2,941",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "261,508",
+            "forks": "44,386",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,406",
+            "forks": "425",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "🍰桌面实用程序可从各种网站下载图像/视频/音乐/文本等。",
+            "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+            "name": "KurtBestor /Hitomi-Downloader",
+            "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+            "stars": "20,620",
+            "forks": "1,932",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "210,608",
+            "forks": "24,592",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "57,863",
+            "forks": "14,114",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "1,012",
+            "forks": "139",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "必胜是一个面向下一代人工智能应用的开放的LLM DEVOPS平台。",
+            "url": "https://github.com/dataelement/bisheng",
+            "name": "dataelement /bisheng",
+            "description": "Bisheng is an open LLM devops platform for next generation AI applications.",
+            "stars": "7,969",
+            "forks": "1,369",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "17,731",
+            "forks": "982",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "11,709",
+            "forks": "584",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱经理和餐饮规划师，拥有RestAPI后端和Vue内置的反应式前端应用程序，为整个家庭提供愉快的用户体验。通过提供URL轻松地将食谱添加到您的数据库中，Mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "5,551",
+            "forks": "606",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "69,565",
+            "forks": "28,753",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,823",
+            "forks": "1,484",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "改进了针对ComfyUI和高级采样支持的AnimateDiff",
+            "url": "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved",
+            "name": "Kosinkadink /ComfyUI-AnimateDiff-Evolved",
+            "description": "Improved AnimateDiff for ComfyUI and Advanced Sampling Support",
+            "stars": "2,259",
+            "forks": "171",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "蔚蓝车道机器人(CN/EN/JP/TW)碧蓝航线脚本|无缝委托科研，全自动大世界",
+            "url": "https://github.com/LmeSzinc/AzurLaneAutoScript",
+            "name": "LmeSzinc /AzurLaneAutoScript",
+            "description": "Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界",
+            "stars": "6,329",
+            "forks": "750",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于Qt的Python音乐下载器",
+            "url": "https://github.com/casualsnek/onthespot",
+            "name": "casualsnek /onthespot",
+            "description": "qt based music downloader written in python",
+            "stars": "716",
+            "forks": "52",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        }
+    ]
+}

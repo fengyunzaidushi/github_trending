@@ -18108,3 +18108,177 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "19,261",
+            "forks": "1,836",
+            "language": "Python",
+            "stars_today": "1,807 stars this week"
+        },
+        {
+            "zh_des": "一种用于高性能GPU模拟和图形处理的Python框架",
+            "url": "https://github.com/NVIDIA/warp",
+            "name": "NVIDIA /warp",
+            "description": "A Python framework for high performance GPU simulation and graphics",
+            "stars": "3,415",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "918 stars this week"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "8,620",
+            "forks": "638",
+            "language": "Python",
+            "stars_today": "628 stars this week"
+        },
+        {
+            "zh_des": "用于使用深度神经网络的语音清除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "16,323",
+            "forks": "1,230",
+            "language": "Python",
+            "stars_today": "648 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "12,141",
+            "forks": "1,156",
+            "language": "Python",
+            "stars_today": "411 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "39,832",
+            "forks": "4,237",
+            "language": "Python",
+            "stars_today": "1,466 stars this week"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,327",
+            "forks": "1,784",
+            "language": "Python",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "17,731",
+            "forks": "982",
+            "language": "Python",
+            "stars_today": "232 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "57,863",
+            "forks": "14,114",
+            "language": "Python",
+            "stars_today": "149 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "13,491",
+            "forks": "1,030",
+            "language": "Python",
+            "stars_today": "521 stars this week"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "79,796",
+            "forks": "21,468",
+            "language": "Python",
+            "stars_today": "365 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "261,508",
+            "forks": "44,386",
+            "language": "Python",
+            "stars_today": "850 stars this week"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,562",
+            "forks": "994",
+            "language": "Python",
+            "stars_today": "506 stars this week"
+        },
+        {
+            "zh_des": "在Python中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Build delightful web apps quickly in Python",
+            "stars": "3,760",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "817 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "21,493",
+            "forks": "3,009",
+            "language": "Python",
+            "stars_today": "406 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,406",
+            "forks": "425",
+            "language": "Python",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易学，编码速度快，可投入生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "72,840",
+            "forks": "6,131",
+            "language": "Python",
+            "stars_today": "279 stars this week"
+        }
+    ]
+}
