@@ -17934,3 +17934,177 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "19,222",
+            "forks": "1,830",
+            "language": "Python",
+            "stars_today": "1,807 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "39,772",
+            "forks": "4,230",
+            "language": "Python",
+            "stars_today": "1,466 stars this week"
+        },
+        {
+            "zh_des": "用于使用深度神经网络的语音清除器的图形用户界面。",
+            "url": "https://github.com/Anjok07/ultimatevocalremovergui",
+            "name": "Anjok07 /ultimatevocalremovergui",
+            "description": "GUI for a Vocal Remover that uses Deep Neural Networks.",
+            "stars": "16,302",
+            "forks": "1,228",
+            "language": "Python",
+            "stars_today": "648 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "16,917",
+            "forks": "1,292",
+            "language": "Python",
+            "stars_today": "481 stars this week"
+        },
+        {
+            "zh_des": "在Python中快速构建令人愉快的Web应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Build delightful web apps quickly in Python",
+            "stars": "3,714",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "817 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "13,477",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "521 stars this week"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "8,599",
+            "forks": "637",
+            "language": "Python",
+            "stars_today": "628 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "12,123",
+            "forks": "1,155",
+            "language": "Python",
+            "stars_today": "411 stars this week"
+        },
+        {
+            "zh_des": "一种用于高性能GPU模拟和图形处理的Python框架",
+            "url": "https://github.com/NVIDIA/warp",
+            "name": "NVIDIA /warp",
+            "description": "A Python framework for high performance GPU simulation and graphics",
+            "stars": "3,397",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "918 stars this week"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "79,785",
+            "forks": "21,466",
+            "language": "Python",
+            "stars_today": "365 stars this week"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,327",
+            "forks": "1,784",
+            "language": "Python",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "4,409",
+            "forks": "541",
+            "language": "JavaScript",
+            "stars_today": "148 stars this week"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,541",
+            "forks": "992",
+            "language": "Python",
+            "stars_today": "506 stars this week"
+        },
+        {
+            "zh_des": "Audiocraft是一个用于音频处理和生成的库，具有深度学习。它配备了最先进的EnCodec音频压缩器/令牌化器，以及MusicGen，这是一种简单可控的音乐生成LM，具有文本和旋律调节功能。",
+            "url": "https://github.com/facebookresearch/audiocraft",
+            "name": "facebookresearch /audiocraft",
+            "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+            "stars": "20,078",
+            "forks": "1,993",
+            "language": "Python",
+            "stars_today": "99 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "134,497",
+            "forks": "25,725",
+            "language": "Python",
+            "stars_today": "760 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "57,848",
+            "forks": "14,111",
+            "language": "Python",
+            "stars_today": "149 stars this week"
+        },
+        {
+            "zh_des": "PrisonAI应用程序将Autogen和CrewAI或类似框架结合到一个低代码解决方案中，用于构建和管理多代理LLM系统，专注于简单性、定制化和高效的人类代理协作。",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "name": "MervinPraison /PraisonAI",
+            "description": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
+            "stars": "882",
+            "forks": "144",
+            "language": "Python",
+            "stars_today": "95 stars this week"
+        }
+    ]
+}

@@ -17954,3 +17954,127 @@
         }
     ]
 }
+{
+    "06月23日": [
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,541",
+            "forks": "992",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "5,959",
+            "forks": "719",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "Qiskit是一个开源SDK，用于在扩展的量子电路、运算符和原语级别使用量子计算机。",
+            "url": "https://github.com/Qiskit/qiskit",
+            "name": "Qiskit /qiskit",
+            "description": "Qiskit is an open-source SDK for working with quantum computers at the level of extended quantum circuits, operators, and primitives.",
+            "stars": "4,803",
+            "forks": "2,282",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "可自动管理和配置大规模任何基础设施或应用程序的软件。请访问此处的Salt软件包库：",
+            "url": "https://github.com/saltstack/salt",
+            "name": "saltstack /salt",
+            "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:",
+            "stars": "13,963",
+            "forks": "5,467",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "79,785",
+            "forks": "21,466",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "15,814",
+            "forks": "1,483",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "17,706",
+            "forks": "983",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "19,169",
+            "forks": "1,115",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "15,586",
+            "forks": "874",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,311",
+            "forks": "412",
+            "language": "Python",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "Argilla是一个面向AI工程师和领域专家的协作平台，需要高质量的输出、完全的数据所有权和整体效率。",
+            "url": "https://github.com/argilla-io/argilla",
+            "name": "argilla-io /argilla",
+            "description": "Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.",
+            "stars": "3,576",
+            "forks": "333",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "新增-YOLOv8🚀in PyTorch>ONNX>OpenVINO>CoreML>TFlite",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+            "stars": "25,304",
+            "forks": "5,026",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        }
+    ]
+}
