@@ -15114,3 +15114,177 @@
         }
     ]
 }
+{
+    "06月24日": [
+        {
+            "zh_des": "</>htmx-强大的超文本标记语言工具",
+            "url": "https://github.com/bigskysoftware/htmx",
+            "name": "bigskysoftware /htmx",
+            "description": "</> htmx - high power tools for HTML",
+            "stars": "34,754",
+            "forks": "1,153",
+            "language": "JavaScript",
+            "stars_today": "471 stars this week"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "80,479",
+            "forks": "1,992",
+            "language": "JavaScript",
+            "stars_today": "852 stars this week"
+        },
+        {
+            "zh_des": "网络瑞士军刀-一款用于加密、编码、压缩和数据分析的Web应用程序",
+            "url": "https://github.com/gchq/CyberChef",
+            "name": "gchq /CyberChef",
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+            "stars": "26,988",
+            "forks": "3,062",
+            "language": "JavaScript",
+            "stars_today": "463 stars this week"
+        },
+        {
+            "zh_des": "JavaScript Canvas库，SVG到Canvas(&Canvas到SVG)解析器",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "name": "fabricjs /fabric.js",
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+            "stars": "27,965",
+            "forks": "3,443",
+            "language": "JavaScript",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "4,825",
+            "forks": "1,503",
+            "language": "JavaScript",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "4,424",
+            "forks": "543",
+            "language": "JavaScript",
+            "stars_today": "138 stars this week"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "8,659",
+            "forks": "3,611",
+            "language": "JavaScript",
+            "stars_today": "289 stars this week"
+        },
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "19,439",
+            "forks": "2,915",
+            "language": "JavaScript",
+            "stars_today": "498 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI多语种翻译插件，实现驻留菜单栏/搜索栏/右键上下文菜单/节点等翻译",
+            "url": "https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation",
+            "name": "AIGODLIKE /AIGODLIKE-ComfyUI-Translation",
+            "description": "A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc",
+            "stars": "962",
+            "forks": "80",
+            "language": "JavaScript",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的游戏引擎，设计供所有人使用。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform game engine designed to be used by everyone.",
+            "stars": "7,139",
+            "forks": "733",
+            "language": "JavaScript",
+            "stars_today": "555 stars this week"
+        },
+        {
+            "zh_des": "一个脚本，允许您从Telegram Web下载图像和视频，即使群组限制下载。",
+            "url": "https://github.com/Neet-Nestor/Telegram-Media-Downloader",
+            "name": "Neet-Nestor /Telegram-Media-Downloader",
+            "description": "A script allowing you to download images and videos from Telegram web even if the group restricts downloading.",
+            "stars": "992",
+            "forks": "95",
+            "language": "JavaScript",
+            "stars_today": "125 stars this week"
+        },
+        {
+            "zh_des": "使用Cloudflare Pages和Worker Serverless实现VLESS协议",
+            "url": "https://github.com/3Kmfi6HP/EDtunnel",
+            "name": "3Kmfi6HP /EDtunnel",
+            "description": "Use Cloudflare pages and worker serverless to implement VLESS protocol",
+            "stars": "6,122",
+            "forks": "5,915",
+            "language": "JavaScript",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "用于世界级3D地球和地图🌎的开源JAVASCRIPT库",
+            "url": "https://github.com/CesiumGS/cesium",
+            "name": "CesiumGS /cesium",
+            "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+            "stars": "12,321",
+            "forks": "3,370",
+            "language": "JavaScript",
+            "stars_today": "55 stars this week"
+        },
+        {
+            "zh_des": "使用NextJS+概念接口实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为概念和所有创作者设计。(使用NextJS和概念API构建的静态博客，支持多种部署选项。不需要服务器，设置网站的门槛为零。是为理念和所有创作者设计的。)",
+            "url": "https://github.com/tangly1024/NotionNext",
+            "name": "tangly1024 /NotionNext",
+            "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
+            "stars": "6,414",
+            "forks": "8,894",
+            "language": "JavaScript",
+            "stars_today": "80 stars this week"
+        },
+        {
+            "zh_des": "面向事件驱动应用程序的低码编程",
+            "url": "https://github.com/node-red/node-red",
+            "name": "node-red /node-red",
+            "description": "Low-code programming for event-driven applications",
+            "stars": "18,910",
+            "forks": "3,307",
+            "language": "JavaScript",
+            "stars_today": "58 stars this week"
+        },
+        {
+            "zh_des": "H5页面生成器、H5编辑器、低码。让H5变得像积木一样简单。|让H5制作像搭积木一样简单，轻松搭建H5页面，H5网站，PC端网站，LowCode平台。",
+            "url": "https://github.com/MrXujiang/h5-Dooring",
+            "name": "MrXujiang /h5-Dooring",
+            "description": "H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks. | 让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.",
+            "stars": "8,741",
+            "forks": "1,642",
+            "language": "JavaScript",
+            "stars_today": "41 stars this week"
+        },
+        {
+            "zh_des": "更快、更好、更稳定的🚀🚀🚀桌面管理器[图形用户界面客户端]，兼容linux、windows、mac。",
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+            "name": "qishibo /AnotherRedisDesktopManager",
+            "description": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+            "stars": "29,550",
+            "forks": "2,515",
+            "language": "JavaScript",
+            "stars_today": "108 stars this week"
+        }
+    ]
+}

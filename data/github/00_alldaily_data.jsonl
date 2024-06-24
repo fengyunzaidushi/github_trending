@@ -18472,3 +18472,187 @@
         }
     ]
 }
+{
+    "06月24日": [
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "277,276",
+            "forks": "26,076",
+            "language": "",
+            "stars_today": "418 stars today"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "22,262",
+            "forks": "2,953",
+            "language": "Python",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "261,655",
+            "forks": "44,399",
+            "language": "Python",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "概念的离线替代。EIDOS是一个可扩展的框架，用于在您的整个生命周期内在一个地方管理您的个人数据。",
+            "url": "https://github.com/mayneyao/eidos",
+            "name": "mayneyao /eidos",
+            "description": "Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.",
+            "stars": "715",
+            "forks": "16",
+            "language": "TypeScript",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,194",
+            "forks": "1,256",
+            "language": "Jupyter Notebook",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "RTranslator是世界上第一款开源的实时翻译应用。",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "RTranslator is the world's first open source real-time translation app.",
+            "stars": "2,104",
+            "forks": "182",
+            "language": "C++",
+            "stars_today": "479 stars today"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "10,002",
+            "forks": "554",
+            "language": "Dart",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,471",
+            "forks": "435",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "大灾难--黑暗的未来。这是一款以回合为基础的生存游戏，背景设定在后末日世界。",
+            "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+            "name": "CleverRaven /Cataclysm-DDA",
+            "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+            "stars": "9,895",
+            "forks": "4,085",
+            "language": "C++",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "296,900",
+            "forks": "74,788",
+            "language": "",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "324,279",
+            "forks": "60,283",
+            "language": "",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "31,495",
+            "forks": "2,884",
+            "language": "C#",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "77,296",
+            "forks": "4,024",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "33,628",
+            "forks": "7,891",
+            "language": "TypeScript",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "2025暑期科技实习生集锦！",
+            "url": "https://github.com/SimplifyJobs/Summer2025-Internships",
+            "name": "SimplifyJobs /Summer2025-Internships",
+            "description": "Collection of Summer 2025 tech internships!",
+            "stars": "31,116",
+            "forks": "2,582",
+            "language": "",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "Espressif物联网开发框架。Espressif SoC的官方开发框架。",
+            "url": "https://github.com/espressif/esp-idf",
+            "name": "espressif /esp-idf",
+            "description": "Espressif IoT Development Framework. Official development framework for Espressif SoCs.",
+            "stars": "12,824",
+            "forks": "7,070",
+            "language": "C",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "开放源码开发环境管理器。",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "6,682",
+            "forks": "762",
+            "language": "Go",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "在Rust中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Rust",
+            "name": "TheAlgorithms /Rust",
+            "description": "All Algorithms implemented in Rust",
+            "stars": "21,399",
+            "forks": "2,080",
+            "language": "Rust",
+            "stars_today": "141 stars today"
+        }
+    ]
+}
