@@ -20294,3 +20294,157 @@
         }
     ]
 }
+{
+    "06月25日": [
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "14,823",
+            "forks": "2,669",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹对话式AI脚本库💬-适用于任何LLm的用户界面，支持LangChain/HuggingFace/Vercel AI，以及更多🧡Reaction、Next.js和纯JavaScript⭐️",
+            "url": "https://github.com/nlkitai/nlux",
+            "name": "nlkitai /nlux",
+            "description": "The 𝗣𝗼𝘄𝗲𝗿𝗳𝘂𝗹 Conversational AI JavaScript Library 💬 — UI for any LLM, supporting LangChain / HuggingFace / Vercel AI, and more 🧡 React, Next.js, and plain JavaScript ⭐️",
+            "stars": "856",
+            "forks": "46",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "20,291",
+            "forks": "1,510",
+            "language": "TypeScript",
+            "stars_today": "348 stars today"
+        },
+        {
+            "zh_des": "插件化、定制化、无广告的免费音乐播放器",
+            "url": "https://github.com/maotoumao/MusicFreeDesktop",
+            "name": "maotoumao /MusicFreeDesktop",
+            "description": "插件化、定制化、无广告的免费音乐播放器",
+            "stars": "2,252",
+            "forks": "214",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "33,976",
+            "forks": "7,943",
+            "language": "TypeScript",
+            "stars_today": "297 stars today"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,296",
+            "forks": "31,792",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "JAVASCRIPT BABEL是用于编写下一代🐠的编译器。",
+            "url": "https://github.com/babel/babel",
+            "name": "babel /babel",
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "stars": "43,015",
+            "forks": "5,596",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Quill是为兼容性和可扩展性而构建的现代所见即所得编辑器",
+            "url": "https://github.com/slab/quill",
+            "name": "slab /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+            "stars": "42,127",
+            "forks": "3,304",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Vue DevTools的下一代产品",
+            "url": "https://github.com/vuejs/devtools-next",
+            "name": "vuejs /devtools-next",
+            "description": "The next iteration of Vue DevTools",
+            "stars": "1,129",
+            "forks": "75",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "🚀美观、快速、现代的Reaction UI库。",
+            "url": "https://github.com/nextui-org/nextui",
+            "name": "nextui-org /nextui",
+            "description": "🚀 Beautiful, fast and modern React UI library.",
+            "stars": "20,298",
+            "forks": "1,209",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Lit是一个简单的库，用于构建快速、轻量级的Web组件。",
+            "url": "https://github.com/lit/lit",
+            "name": "lit /lit",
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "stars": "17,882",
+            "forks": "883",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Storybook是一个前端研讨会，用于单独构建UI组件和页面。专为用户界面开发、测试和文档而设计。",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.",
+            "stars": "83,294",
+            "forks": "9,099",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "61,633",
+            "forks": "3,472",
+            "language": "TypeScript",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "65,787",
+            "forks": "5,868",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在您的团队/基础设施中同步秘密，防止秘密泄露，并管理内部PKI",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+            "stars": "12,799",
+            "forks": "660",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
