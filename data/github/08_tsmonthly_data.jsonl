@@ -14912,3 +14912,187 @@
         }
     ]
 }
+{
+    "06月25日": [
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,675",
+            "forks": "4,840",
+            "language": "TypeScript",
+            "stars_today": "926 stars this month"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "90,844",
+            "forks": "47,263",
+            "language": "TypeScript",
+            "stars_today": "455 stars this month"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,599",
+            "forks": "459",
+            "language": "TypeScript",
+            "stars_today": "2,121 stars this month"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "38,011",
+            "forks": "1,799",
+            "language": "TypeScript",
+            "stars_today": "4,248 stars this month"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "14,659",
+            "forks": "2,453",
+            "language": "TypeScript",
+            "stars_today": "2,792 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "14,549",
+            "forks": "1,442",
+            "language": "TypeScript",
+            "stars_today": "1,087 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "10,922",
+            "forks": "565",
+            "language": "TypeScript",
+            "stars_today": "1,679 stars this month"
+        },
+        {
+            "zh_des": "Wren AI让您的数据库准备就绪。更准确、更安全地实现文本到SQL的转换。",
+            "url": "https://github.com/Canner/WrenAI",
+            "name": "Canner /WrenAI",
+            "description": "Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.",
+            "stars": "1,219",
+            "forks": "96",
+            "language": "TypeScript",
+            "stars_today": "732 stars this month"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "159,980",
+            "forks": "28,024",
+            "language": "TypeScript",
+            "stars_today": "1,291 stars this month"
+        },
+        {
+            "zh_des": "🚀美观、快速、现代的Reaction UI库。",
+            "url": "https://github.com/nextui-org/nextui",
+            "name": "nextui-org /nextui",
+            "description": "🚀 Beautiful, fast and modern React UI library.",
+            "stars": "20,286",
+            "forks": "1,206",
+            "language": "TypeScript",
+            "stars_today": "648 stars this month"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,363",
+            "forks": "3,650",
+            "language": "TypeScript",
+            "stars_today": "711 stars this month"
+        },
+        {
+            "zh_des": "在你的Reaction应用程序中轻松显示PDF，就像它们是图像一样。",
+            "url": "https://github.com/wojtekmaj/react-pdf",
+            "name": "wojtekmaj /react-pdf",
+            "description": "Display PDFs in your React app as easily as if they were images.",
+            "stars": "8,912",
+            "forks": "857",
+            "language": "TypeScript",
+            "stars_today": "258 stars this month"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,308",
+            "forks": "11,703",
+            "language": "TypeScript",
+            "stars_today": "576 stars this month"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "52,918",
+            "forks": "4,856",
+            "language": "TypeScript",
+            "stars_today": "614 stars this month"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "8,852",
+            "forks": "607",
+            "language": "TypeScript",
+            "stars_today": "737 stars this month"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "14,927",
+            "forks": "3,849",
+            "language": "TypeScript",
+            "stars_today": "1,239 stars this month"
+        },
+        {
+            "zh_des": "用于为工作流构件生成生成来源证明的操作",
+            "url": "https://github.com/actions/attest-build-provenance",
+            "name": "actions /attest-build-provenance",
+            "description": "Action for generating build provenance attestations for workflow artifacts",
+            "stars": "160",
+            "forks": "103",
+            "language": "TypeScript",
+            "stars_today": "80 stars this month"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,455",
+            "forks": "8,034",
+            "language": "TypeScript",
+            "stars_today": "138 stars this month"
+        }
+    ]
+}
