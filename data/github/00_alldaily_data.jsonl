@@ -19108,3 +19108,127 @@
         }
     ]
 }
+{
+    "06月26日": [
+        {
+            "zh_des": "享受扩散模型的魔力吧！",
+            "url": "https://github.com/modelscope/DiffSynth-Studio",
+            "name": "modelscope /DiffSynth-Studio",
+            "description": "Enjoy the magic of Diffusion models!",
+            "stars": "2,931",
+            "forks": "248",
+            "language": "Python",
+            "stars_today": "744 stars today"
+        },
+        {
+            "zh_des": "构建-一次运行-Anywhere c库",
+            "url": "https://github.com/jart/cosmopolitan",
+            "name": "jart /cosmopolitan",
+            "description": "build-once run-anywhere c library",
+            "stars": "16,715",
+            "forks": "564",
+            "language": "C",
+            "stars_today": "238 stars today"
+        },
+        {
+            "zh_des": "世界上第一款开源的Android实时翻译应用。",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "World's first open source real-time translation app for Android.",
+            "stars": "3,890",
+            "forks": "292",
+            "language": "C++",
+            "stars_today": "1,052 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "2,882",
+            "forks": "478",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "🚀是一个精选的文章、视频和其他资源的列表，用于学习和实践软件体系结构、模式和原则。",
+            "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+            "name": "mehdihadeli /awesome-software-architecture",
+            "description": "🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+            "stars": "5,248",
+            "forks": "444",
+            "language": "",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "10,536",
+            "forks": "567",
+            "language": "Dart",
+            "stars_today": "296 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "278,353",
+            "forks": "26,183",
+            "language": "",
+            "stars_today": "605 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "297,267",
+            "forks": "74,845",
+            "language": "",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "324,780",
+            "forks": "60,319",
+            "language": "",
+            "stars_today": "284 stars today"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "78,754",
+            "forks": "9,970",
+            "language": "Java",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more",
+            "stars": "666",
+            "forks": "79",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "14,861",
+            "forks": "2,670",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
