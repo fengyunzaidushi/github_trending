@@ -19152,3 +19152,137 @@
         }
     ]
 }
+{
+    "06月26日": [
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "19,557",
+            "forks": "1,866",
+            "language": "Python",
+            "stars_today": "1,655 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "907",
+            "forks": "48",
+            "language": "Python",
+            "stars_today": "103 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "57,959",
+            "forks": "14,130",
+            "language": "Python",
+            "stars_today": "169 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "262,235",
+            "forks": "44,464",
+            "language": "Python",
+            "stars_today": "1,318 stars this week"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "50,839",
+            "forks": "5,267",
+            "language": "Python",
+            "stars_today": "756 stars this week"
+        },
+        {
+            "zh_des": "FastAPI框架，高性能，易学，编码速度快，可投入生产",
+            "url": "https://github.com/tiangolo/fastapi",
+            "name": "tiangolo /fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "stars": "72,943",
+            "forks": "6,141",
+            "language": "Python",
+            "stars_today": "281 stars this week"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,019",
+            "forks": "495",
+            "language": "Python",
+            "stars_today": "621 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "17,833",
+            "forks": "990",
+            "language": "Python",
+            "stars_today": "322 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "33,357",
+            "forks": "6,754",
+            "language": "Python",
+            "stars_today": "331 stars this week"
+        },
+        {
+            "zh_des": "🍰桌面实用程序可从各种网站下载图像/视频/音乐/文本等。",
+            "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+            "name": "KurtBestor /Hitomi-Downloader",
+            "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+            "stars": "20,792",
+            "forks": "1,941",
+            "language": "Python",
+            "stars_today": "336 stars this week"
+        },
+        {
+            "zh_des": "🚀基于LLm大语言模型的知识库问答系统.开箱即用，支持快速嵌入到第三方业务系统、1Panel官方出品。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于 LLM 大语言模型的知识库问答系统。开箱即用，支持快速嵌入到第三方业务系统，1Panel 官方出品。",
+            "stars": "7,676",
+            "forks": "1,009",
+            "language": "Python",
+            "stars_today": "538 stars this week"
+        },
+        {
+            "zh_des": "CISO Assistant是GRC的一站式服务，涵盖风险、应用安全和审计管理，并支持全球+46个框架：NIST CSF、ISO 27001、SOC2、CIS、PCIDSS、NIS2、CMMC、PSPF、GDPR、HIPAA、Essential Eight、NYDFS-500、DORA、NIST AI RMF、800-53、800-171、CyFun、CJIS、AirCyber等等",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more",
+            "stars": "736",
+            "forks": "81",
+            "language": "Python",
+            "stars_today": "241 stars this week"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "6,080",
+            "forks": "733",
+            "language": "Python",
+            "stars_today": "242 stars this week"
+        }
+    ]
+}

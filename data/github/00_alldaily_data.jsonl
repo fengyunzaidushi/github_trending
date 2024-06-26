@@ -19232,3 +19232,127 @@
         }
     ]
 }
+{
+    "06月26日": [
+        {
+            "zh_des": "享受扩散模型的魔力吧！",
+            "url": "https://github.com/modelscope/DiffSynth-Studio",
+            "name": "modelscope /DiffSynth-Studio",
+            "description": "Enjoy the magic of Diffusion models!",
+            "stars": "3,401",
+            "forks": "288",
+            "language": "Python",
+            "stars_today": "1,099 stars today"
+        },
+        {
+            "zh_des": "世界上第一款开源的Android实时翻译应用。",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "World's first open source real-time translation app for Android.",
+            "stars": "4,100",
+            "forks": "308",
+            "language": "C++",
+            "stars_today": "587 stars today"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "10,679",
+            "forks": "593",
+            "language": "Dart",
+            "stars_today": "254 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "324,927",
+            "forks": "60,331",
+            "language": "",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "一份经过策划的免费课程和证书清单。",
+            "url": "https://github.com/cloudcommunity/Free-Certifications",
+            "name": "cloudcommunity /Free-Certifications",
+            "description": "A curated list of free courses & certifications.",
+            "stars": "23,455",
+            "forks": "1,805",
+            "language": "",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "构建-一次运行-Anywhere c库",
+            "url": "https://github.com/jart/cosmopolitan",
+            "name": "jart /cosmopolitan",
+            "description": "build-once run-anywhere c library",
+            "stars": "16,902",
+            "forks": "566",
+            "language": "C",
+            "stars_today": "868 stars today"
+        },
+        {
+            "zh_des": "🚀是一个精选的文章、视频和其他资源的列表，用于学习和实践软件体系结构、模式和原则。",
+            "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+            "name": "mehdihadeli /awesome-software-architecture",
+            "description": "🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+            "stars": "5,480",
+            "forks": "453",
+            "language": "",
+            "stars_today": "562 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "10,088",
+            "forks": "974",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "CISO Assistant是GRC的一站式服务，涵盖风险、应用安全和审计管理，并支持全球+46个框架：NIST CSF、ISO 27001、SOC2、CIS、PCIDSS、NIS2、CMMC、PSPF、GDPR、HIPAA、Essential Eight、NYDFS-500、DORA、NIST AI RMF、800-53、800-171、CyFun、CJIS、AirCyber等等",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +46 frameworks worldwide: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber and so much more",
+            "stars": "736",
+            "forks": "81",
+            "language": "Python",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "💤：Neovim的现代插件管理器",
+            "url": "https://github.com/folke/lazy.nvim",
+            "name": "folke /lazy.nvim",
+            "description": "💤 A modern plugin manager for Neovim",
+            "stars": "12,784",
+            "forks": "309",
+            "language": "Lua",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,019",
+            "forks": "495",
+            "language": "Python",
+            "stars_today": "309 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "278,959",
+            "forks": "26,214",
+            "language": "",
+            "stars_today": "518 stars today"
+        }
+    ]
+}
