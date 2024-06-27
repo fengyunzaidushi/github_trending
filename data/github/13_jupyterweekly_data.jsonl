@@ -15068,3 +15068,127 @@
         }
     ]
 }
+{
+    "06月27日": [
+        {
+            "zh_des": "一个小型的标量值自动分级引擎和一个位于其之上的神经网络库，具有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,242",
+            "forks": "1,269",
+            "language": "Jupyter Notebook",
+            "stars_today": "490 stars this week"
+        },
+        {
+            "zh_des": "一系列Deliveryter笔记本，使用Scikit-Learn、Keras和TensorFlow 2，带您了解Python中机器学习和深度学习的基础知识。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,660",
+            "forks": "2,692",
+            "language": "Jupyter Notebook",
+            "stars_today": "90 stars this week"
+        },
+        {
+            "zh_des": "一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,376",
+            "forks": "401",
+            "language": "Jupyter Notebook",
+            "stars_today": "93 stars this week"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,896",
+            "forks": "1,541",
+            "language": "Jupyter Notebook",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "微视觉语言模型",
+            "url": "https://github.com/vikhyat/moondream",
+            "name": "vikhyat /moondream",
+            "description": "tiny vision language model",
+            "stars": "4,416",
+            "forks": "386",
+            "language": "Jupyter Notebook",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "Mobile ALOHA：通过低成本的全身遥操作学习双手移动操纵",
+            "url": "https://github.com/MarkFzp/mobile-aloha",
+            "name": "MarkFzp /mobile-aloha",
+            "description": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+            "stars": "3,578",
+            "forks": "626",
+            "language": "Jupyter Notebook",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "根据非结构化数据构建Neo 4j图形",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data",
+            "stars": "319",
+            "forks": "81",
+            "language": "Jupyter Notebook",
+            "stars_today": "66 stars this week"
+        },
+        {
+            "zh_des": "通过强化学习玩Pokemon Red",
+            "url": "https://github.com/PWhiddy/PokemonRedExperiments",
+            "name": "PWhiddy /PokemonRedExperiments",
+            "description": "Playing Pokemon Red with Reinforcement Learning",
+            "stars": "6,688",
+            "forks": "597",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,834",
+            "forks": "1,316",
+            "language": "Jupyter Notebook",
+            "stars_today": "103 stars this week"
+        },
+        {
+            "zh_des": "cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "7,072",
+            "forks": "6,338",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "该存储库提供用于使用SegmentAnything模型（Sam）运行推理的代码、用于下载经过训练的模型检查点的链接以及展示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,243",
+            "forks": "5,343",
+            "language": "Jupyter Notebook",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "《开源大模型食用指南》基于Linux环境快速部门开源大模型，更适合中国国家安全部门教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "5,820",
+            "forks": "723",
+            "language": "Jupyter Notebook",
+            "stars_today": "275 stars this week"
+        }
+    ]
+}

@@ -15698,3 +15698,197 @@
         }
     ]
 }
+{
+    "06月27日": [
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "11,063",
+            "forks": "576",
+            "language": "TypeScript",
+            "stars_today": "1,782 stars this month"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "38,113",
+            "forks": "1,805",
+            "language": "TypeScript",
+            "stars_today": "4,194 stars this month"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,737",
+            "forks": "4,855",
+            "language": "TypeScript",
+            "stars_today": "949 stars this month"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "14,900",
+            "forks": "2,472",
+            "language": "TypeScript",
+            "stars_today": "2,998 stars this month"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "90,860",
+            "forks": "47,317",
+            "language": "TypeScript",
+            "stars_today": "463 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "14,627",
+            "forks": "1,443",
+            "language": "TypeScript",
+            "stars_today": "1,177 stars this month"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "160,047",
+            "forks": "28,036",
+            "language": "TypeScript",
+            "stars_today": "1,303 stars this month"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "20,430",
+            "forks": "1,517",
+            "language": "TypeScript",
+            "stars_today": "1,122 stars this month"
+        },
+        {
+            "zh_des": "一个干净，优雅，美丽和强大的管理模板，基于Vue3，Vite5，TypeScrip，Pinia，NaveUI和UnoCSS。一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括Vue3，Vite5，打印，Pinia，NaveUI和UnoCss。",
+            "url": "https://github.com/soybeanjs/soybean-admin",
+            "name": "soybeanjs /soybean-admin",
+            "description": "A clean, elegant, beautiful and powerful admin template, based on Vue3, Vite5, TypeScript, Pinia, NaiveUI and UnoCSS. 一个清新优雅、高颜值且功能强大的后台管理模板，基于最新的前端技术栈，包括 Vue3, Vite5, TypeScript, Pinia, NaiveUI 和 UnoCSS。",
+            "stars": "8,934",
+            "forks": "1,576",
+            "language": "TypeScript",
+            "stars_today": "1,045 stars this month"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,342",
+            "forks": "11,716",
+            "language": "TypeScript",
+            "stars_today": "587 stars this month"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,378",
+            "forks": "3,654",
+            "language": "TypeScript",
+            "stars_today": "723 stars this month"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "37,948",
+            "forks": "5,747",
+            "language": "TypeScript",
+            "stars_today": "784 stars this month"
+        },
+        {
+            "zh_des": "在你的Reaction应用程序中轻松显示PDF，就像它们是图像一样。",
+            "url": "https://github.com/wojtekmaj/react-pdf",
+            "name": "wojtekmaj /react-pdf",
+            "description": "Display PDFs in your React app as easily as if they were images.",
+            "stars": "8,927",
+            "forks": "858",
+            "language": "TypeScript",
+            "stars_today": "268 stars this month"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "52,947",
+            "forks": "4,860",
+            "language": "TypeScript",
+            "stars_today": "620 stars this month"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "29,660",
+            "forks": "6,939",
+            "language": "TypeScript",
+            "stars_today": "588 stars this month"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,114",
+            "forks": "24,902",
+            "language": "TypeScript",
+            "stars_today": "500 stars this month"
+        },
+        {
+            "zh_des": "用于为工作流构件生成生成来源证明的操作",
+            "url": "https://github.com/actions/attest-build-provenance",
+            "name": "actions /attest-build-provenance",
+            "description": "Action for generating build provenance attestations for workflow artifacts",
+            "stars": "167",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "86 stars this month"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "893",
+            "forks": "473",
+            "language": "TypeScript",
+            "stars_today": "157 stars this month"
+        },
+        {
+            "zh_des": "Wren AI让您的数据库准备就绪。更准确、更安全地实现文本到SQL的转换。",
+            "url": "https://github.com/Canner/WrenAI",
+            "name": "Canner /WrenAI",
+            "description": "Wren AI makes your database RAG-ready. Implement Text-to-SQL more accurately and securely.",
+            "stars": "1,238",
+            "forks": "96",
+            "language": "TypeScript",
+            "stars_today": "683 stars this month"
+        }
+    ]
+}

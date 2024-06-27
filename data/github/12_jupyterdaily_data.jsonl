@@ -17996,3 +17996,137 @@
         }
     ]
 }
+{
+    "06月27日": [
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,363",
+            "forks": "2,882",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,901",
+            "forks": "5,558",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,698",
+            "forks": "84,014",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "CLIP的开源实现。",
+            "url": "https://github.com/mlfoundations/open_clip",
+            "name": "mlfoundations /open_clip",
+            "description": "An open source implementation of CLIP.",
+            "stars": "9,037",
+            "forks": "898",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "23,332",
+            "forks": "3,092",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,007",
+            "forks": "1,292",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "8,407",
+            "forks": "1,319",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "此报告包含高级解决方案实验室的笔记本：ML Immersion",
+            "url": "https://github.com/GoogleCloudPlatform/asl-ml-immersion",
+            "name": "GoogleCloudPlatform /asl-ml-immersion",
+            "description": "This repos contains notebooks for the Advanced Solutions Lab: ML Immersion",
+            "stars": "1,630",
+            "forks": "973",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "6,181",
+            "forks": "1,581",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "7,150",
+            "forks": "698",
+            "language": "Jupyter Notebook",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,834",
+            "forks": "1,316",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "这是一个开源项目，致力于自动或交互地跟踪和分割视频中的任何对象。使用的主要算法包括用于关键帧分割的分段任意模型(SAM)和用于有效跟踪和传播目的的关联对象与变压器(AOT)。",
+            "url": "https://github.com/z-x-yang/Segment-and-Track-Anything",
+            "name": "z-x-yang /Segment-and-Track-Anything",
+            "description": "An open-source project dedicated to tracking and segmenting any objects in videos, either automatically or interactively. The primary algorithms utilized include the Segment Anything Model (SAM) for key-frame segmentation and Associating Objects with Transformers (AOT) for efficient tracking and propagation purposes.",
+            "stars": "2,596",
+            "forks": "318",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,243",
+            "forks": "5,343",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        }
+    ]
+}
