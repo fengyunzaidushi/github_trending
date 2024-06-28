@@ -21244,3 +21244,217 @@
         }
     ]
 }
+{
+    "06月28日": [
+        {
+            "zh_des": "使用Lepton AI构建基于对话的快速搜索演示。",
+            "url": "https://github.com/leptonai/search_with_lepton",
+            "name": "leptonai /search_with_lepton",
+            "description": "Building a quick conversation-based search demo with Lepton AI.",
+            "stars": "7,416",
+            "forks": "952",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "62,127",
+            "forks": "3,497",
+            "language": "TypeScript",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "35,473",
+            "forks": "4,775",
+            "language": "TypeScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "Reaction Native的动画库重新实现",
+            "url": "https://github.com/software-mansion/react-native-reanimated",
+            "name": "software-mansion /react-native-reanimated",
+            "description": "React Native's Animated library reimplemented",
+            "stars": "8,583",
+            "forks": "1,260",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "可在服务器和客户端上运行的全堆栈同步数据库。可插拔存储(IndexedDB、SQLite、耐久对象)，通过WebSocket进行同步，并可与您最喜欢的框架(Reaction、Solid、Vue、Svelte)配合使用。",
+            "url": "https://github.com/aspen-cloud/triplit",
+            "name": "aspen-cloud /triplit",
+            "description": "A full-stack, syncing database that runs on both server and client. Pluggable storage (indexeddb, sqlite, durable objects), syncs over websockets, and works with your favorite framework (React, Solid, Vue, Svelte).",
+            "stars": "1,597",
+            "forks": "45",
+            "language": "TypeScript",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "材料设计Web组件",
+            "url": "https://github.com/material-components/material-web",
+            "name": "material-components /material-web",
+            "description": "Material Design Web Components",
+            "stars": "8,913",
+            "forks": "839",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "易于维护的开源文档网站。",
+            "url": "https://github.com/facebook/docusaurus",
+            "name": "facebook /docusaurus",
+            "description": "Easy to maintain open source documentation websites.",
+            "stars": "53,971",
+            "forks": "8,087",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "2,848",
+            "forks": "259",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "16,454",
+            "forks": "2,112",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "15,033",
+            "forks": "3,886",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用于Chrome的Node.js API",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "name": "puppeteer /puppeteer",
+            "description": "Node.js API for Chrome",
+            "stars": "87,562",
+            "forks": "9,032",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "前端低代码框架，通过Json配置就能生成各种页面.",
+            "url": "https://github.com/baidu/amis",
+            "name": "baidu /amis",
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "stars": "16,458",
+            "forks": "2,399",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,357",
+            "forks": "11,718",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "21,178",
+            "forks": "1,433",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🤖强大的异步状态管理、服务器状态实用程序和Web数据获取。TS/JS、Reaction查询、Solid Query、Svelte Query和Vue Query。",
+            "url": "https://github.com/TanStack/query",
+            "name": "TanStack /query",
+            "description": "🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.",
+            "stars": "40,718",
+            "forks": "2,745",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "16,754",
+            "forks": "1,458",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "26,970",
+            "forks": "5,612",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用超级记忆力打造你自己的第二个大脑。这是一个ChatGPT为你的书签。使用Chrome扩展导入推文或保存网站和内容。",
+            "url": "https://github.com/Dhravya/supermemory",
+            "name": "Dhravya /supermemory",
+            "description": "Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.",
+            "stars": "3,082",
+            "forks": "280",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "61,200",
+            "forks": "4,250",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "🐻熊是REACT中状态管理的必需品",
+            "url": "https://github.com/pmndrs/zustand",
+            "name": "pmndrs /zustand",
+            "description": "🐻 Bear necessities for state management in React",
+            "stars": "44,243",
+            "forks": "1,351",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "一位现代的VUE管理员。它是基于Vue3、Vite和打印脚本的。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！",
+            "stars": "22,808",
+            "forks": "6,227",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        }
+    ]
+}

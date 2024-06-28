@@ -19784,3 +19784,167 @@
         }
     ]
 }
+{
+    "06月28日": [
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "17,645",
+            "forks": "1,803",
+            "language": "Python",
+            "stars_today": "6,467 stars this month"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "279,812",
+            "forks": "26,270",
+            "language": "",
+            "stars_today": "13,697 stars this month"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "25,754",
+            "forks": "1,312",
+            "language": "PHP",
+            "stars_today": "9,161 stars this month"
+        },
+        {
+            "zh_des": "DuckDB是一个分析型进程内SQL数据库管理系统",
+            "url": "https://github.com/duckdb/duckdb",
+            "name": "duckdb /duckdb",
+            "description": "DuckDB is an analytical in-process SQL database management system",
+            "stars": "20,337",
+            "forks": "1,646",
+            "language": "C++",
+            "stars_today": "2,959 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "40,407",
+            "forks": "4,304",
+            "language": "Python",
+            "stars_today": "4,474 stars this month"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/xenova/transformers.js",
+            "name": "xenova /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "9,785",
+            "forks": "578",
+            "language": "JavaScript",
+            "stars_today": "1,889 stars this month"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "15,199",
+            "forks": "1,047",
+            "language": "Lua",
+            "stars_today": "1,569 stars this month"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "13,521",
+            "forks": "669",
+            "language": "Python",
+            "stars_today": "4,418 stars this month"
+        },
+        {
+            "zh_des": "SableSarmUI，一个模块化稳定的扩散Web用户界面，重点是使POWER工具易于访问、高性能和可扩展性。",
+            "url": "https://github.com/Stability-AI/StableSwarmUI",
+            "name": "Stability-AI /StableSwarmUI",
+            "description": "StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.",
+            "stars": "4,000",
+            "forks": "328",
+            "language": "C#",
+            "stars_today": "1,382 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "8,910",
+            "forks": "654",
+            "language": "Python",
+            "stars_today": "1,454 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "7,666",
+            "forks": "528",
+            "language": "Python",
+            "stars_today": "3,870 stars this month"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "19,780",
+            "forks": "1,878",
+            "language": "Python",
+            "stars_today": "2,673 stars this month"
+        },
+        {
+            "zh_des": "最具可定制性和低延迟的跨平台/外壳提示呈现器",
+            "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+            "name": "JanDeDobbeleer /oh-my-posh",
+            "description": "The most customisable and low-latency cross platform/shell prompt renderer",
+            "stars": "15,664",
+            "forks": "2,284",
+            "language": "Go",
+            "stars_today": "1,210 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "11,116",
+            "forks": "578",
+            "language": "TypeScript",
+            "stars_today": "1,831 stars this month"
+        },
+        {
+            "zh_des": "语音到文本、文本到语音和说话人识别，使用下一代Kaldi和onnxrun，无需互联网连接。支持嵌入式系统、安卓、iOS、Raspberry PI、RISC-V、x86_服务器、WebSocket服务器/客户端、C/C++、Python、Kotlin、C#、Go、NodeJS、Java、SWIFT、DART、JAVASCRIPT、Ffltter",
+            "url": "https://github.com/k2-fsa/sherpa-onnx",
+            "name": "k2-fsa /sherpa-onnx",
+            "description": "Speech-to-text, text-to-speech, and speaker recognition using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter",
+            "stars": "2,175",
+            "forks": "269",
+            "language": "C++",
+            "stars_today": "1,183 stars this month"
+        },
+        {
+            "zh_des": "WebRTC的端到端堆栈。SFU媒体服务器和SDK。",
+            "url": "https://github.com/livekit/livekit",
+            "name": "livekit /livekit",
+            "description": "End-to-end stack for WebRTC. SFU media server and SDKs.",
+            "stars": "8,852",
+            "forks": "707",
+            "language": "Go",
+            "stars_today": "1,148 stars this month"
+        }
+    ]
+}
