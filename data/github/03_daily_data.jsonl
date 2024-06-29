@@ -19826,3 +19826,117 @@
         }
     ]
 }
+{
+    "06月29日": [
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "34,043",
+            "forks": "6,849",
+            "language": "Python",
+            "stars_today": "240 stars today"
+        },
+        {
+            "zh_des": "享受扩散模型的魔力吧！",
+            "url": "https://github.com/modelscope/DiffSynth-Studio",
+            "name": "modelscope /DiffSynth-Studio",
+            "description": "Enjoy the magic of Diffusion models!",
+            "stars": "5,026",
+            "forks": "448",
+            "language": "Python",
+            "stars_today": "166 stars today"
+        },
+        {
+            "zh_des": "Silero VAD：经过预先培训的企业级语音活动检测器",
+            "url": "https://github.com/snakers4/silero-vad",
+            "name": "snakers4 /silero-vad",
+            "description": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector",
+            "stars": "3,224",
+            "forks": "342",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "通过Azure OpenAI实现简单网络聊天体验的示例代码，包括您的数据上的Azure OpenAI。",
+            "url": "https://github.com/microsoft/sample-app-aoai-chatGPT",
+            "name": "microsoft /sample-app-aoai-chatGPT",
+            "description": "Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.",
+            "stars": "1,396",
+            "forks": "2,126",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "12,476",
+            "forks": "951",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "14,230",
+            "forks": "2,194",
+            "language": "Python",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "为研究大型语言模型、多模式和语音AI(自动语音识别和文本到语音)的研究人员和开发人员构建的可扩展生成性AI框架",
+            "url": "https://github.com/NVIDIA/NeMo",
+            "name": "NVIDIA /NeMo",
+            "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+            "stars": "10,793",
+            "forks": "2,257",
+            "language": "Python",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "用于孤立点检测(异常检测)的全面且可扩展的Python库",
+            "url": "https://github.com/yzhao062/pyod",
+            "name": "yzhao062 /pyod",
+            "description": "A Comprehensive and Scalable Python Library for Outlier Detection (Anomaly Detection)",
+            "stars": "8,221",
+            "forks": "1,343",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Gorilla：LLM的API存储",
+            "url": "https://github.com/ShishirPatil/gorilla",
+            "name": "ShishirPatil /gorilla",
+            "description": "Gorilla: An API store for LLMs",
+            "stars": "10,632",
+            "forks": "847",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "4,443",
+            "forks": "491",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "OpenDiT：一种简单、快速、高效的DIT训练和推理系统",
+            "url": "https://github.com/NUS-HPC-AI-Lab/OpenDiT",
+            "name": "NUS-HPC-AI-Lab /OpenDiT",
+            "description": "OpenDiT: An Easy, Fast and Memory-Efficient System for DiT Training and Inference",
+            "stars": "1,210",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        }
+    ]
+}

@@ -18886,3 +18886,187 @@
         }
     ]
 }
+{
+    "06月29日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "49,332",
+            "forks": "26,805",
+            "language": "Jupyter Notebook",
+            "stars_today": "725 stars today"
+        },
+        {
+            "zh_des": "使用Gemini API的示例和指南。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "Examples and guides for using the Gemini API.",
+            "stars": "3,988",
+            "forks": "534",
+            "language": "Jupyter Notebook",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "2,957",
+            "forks": "526",
+            "language": "Jupyter Notebook",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "一个炙手可热的快速人工智能网关。使用1个快速友好的API路由至200多个LLMS。",
+            "url": "https://github.com/Portkey-AI/gateway",
+            "name": "Portkey-AI /gateway",
+            "description": "A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.",
+            "stars": "5,089",
+            "forks": "350",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,790",
+            "forks": "6,663",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "33,627",
+            "forks": "3,505",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "32,611",
+            "forks": "5,343",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "GCP培训课程的实验和演示(http://cloud.google.com/training).",
+            "url": "https://github.com/GoogleCloudPlatform/training-data-analyst",
+            "name": "GoogleCloudPlatform /training-data-analyst",
+            "description": "Labs and demos for courses for GCP Training (http://cloud.google.com/training).",
+            "stars": "7,630",
+            "forks": "5,757",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,033",
+            "forks": "1,295",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "23,371",
+            "forks": "3,102",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "零知识证明入门教程.全面的零知识证明教程。#ZK#在制品",
+            "url": "https://github.com/WTFAcademy/WTF-zk",
+            "name": "WTFAcademy /WTF-zk",
+            "description": "零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP",
+            "stars": "929",
+            "forks": "125",
+            "language": "Jupyter Notebook",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,368",
+            "forks": "2,883",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "DINOv2自我监督学习方法的PyTorch代码和模型。",
+            "url": "https://github.com/facebookresearch/dinov2",
+            "name": "facebookresearch /dinov2",
+            "description": "PyTorch code and models for the DINOv2 self-supervised learning method.",
+            "stars": "8,289",
+            "forks": "698",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "来自谷歌DeepMind的Open Weight LLM。",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "2,202",
+            "forks": "268",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🦖𝗟𝗲𝗮𝗿𝗻通过设计、培训和部署实时财务顾问LLm系统免费了解𝗟𝗟𝗠𝘀、𝗟𝗟𝗠𝗢𝗽𝘀和𝘃𝗲𝗰𝘁𝗼𝗿𝗗𝗕𝘀~𝘴𝘰𝘶𝘳𝘤𝘦𝘤𝘰𝘥𝘦+𝘷𝘪𝘥𝘦𝘰&𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "2,625",
+            "forks": "415",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "900",
+            "forks": "169",
+            "language": "Jupyter Notebook",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "代码片段",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "name": "CoreyMSchafer /code_snippets",
+            "description": "code_snippets",
+            "stars": "10,254",
+            "forks": "17,644",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一种潜在的文本到图像扩散模型",
+            "url": "https://github.com/CompVis/stable-diffusion",
+            "name": "CompVis /stable-diffusion",
+            "description": "A latent text-to-image diffusion model",
+            "stars": "66,452",
+            "forks": "9,960",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars today"
+        }
+    ]
+}
