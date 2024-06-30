@@ -20434,3 +20434,207 @@
         }
     ]
 }
+{
+    "06月30日": [
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "8,022",
+            "forks": "420",
+            "language": "Zig",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的Python包安装程序和解析器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package installer and resolver, written in Rust.",
+            "stars": "13,543",
+            "forks": "378",
+            "language": "Rust",
+            "stars_today": "187 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "50,108",
+            "forks": "26,995",
+            "language": "Jupyter Notebook",
+            "stars_today": "887 stars today"
+        },
+        {
+            "zh_des": "Elden Ring保存编辑器。兼容PC和PlayStation存储。",
+            "url": "https://github.com/ClayAmore/ER-Save-Editor",
+            "name": "ClayAmore /ER-Save-Editor",
+            "description": "Elden Ring Save Editor. Compatible with PC and Playstation saves.",
+            "stars": "123",
+            "forks": "18",
+            "language": "Rust",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "☄🌌️为任何外壳提供最小、最快且可无限定制的提示！",
+            "url": "https://github.com/starship/starship",
+            "name": "starship /starship",
+            "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+            "stars": "42,194",
+            "forks": "1,821",
+            "language": "Rust",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "11,545",
+            "forks": "1,105",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "8,861",
+            "forks": "2,729",
+            "language": "Jupyter Notebook",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "LevelDB是由Google编写的一个快速键-值存储库，它提供从字符串键到字符串值的有序映射。",
+            "url": "https://github.com/google/leveldb",
+            "name": "google /leveldb",
+            "description": "LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.",
+            "stars": "35,577",
+            "forks": "7,706",
+            "language": "C++",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "Moonlight的自托管游戏流主机。",
+            "url": "https://github.com/LizardByte/Sunshine",
+            "name": "LizardByte /Sunshine",
+            "description": "Self-hosted game stream host for Moonlight.",
+            "stars": "15,162",
+            "forks": "729",
+            "language": "C++",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "将尖端LLM技术快速轻松地集成到您的应用程序中",
+            "url": "https://github.com/microsoft/semantic-kernel",
+            "name": "microsoft /semantic-kernel",
+            "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+            "stars": "20,091",
+            "forks": "2,937",
+            "language": "C#",
+            "stars_today": "584 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "79,586",
+            "forks": "5,482",
+            "language": "Vim Script",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "36,907",
+            "forks": "1,616",
+            "language": "C++",
+            "stars_today": "2,234 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "75,647",
+            "forks": "5,955",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "帧分析器",
+            "url": "https://github.com/wolfpld/tracy",
+            "name": "wolfpld /tracy",
+            "description": "Frame profiler",
+            "stars": "8,512",
+            "forks": "587",
+            "language": "C++",
+            "stars_today": "208 stars today"
+        },
+        {
+            "zh_des": "FFXIV插件框架和API",
+            "url": "https://github.com/goatcorp/Dalamud",
+            "name": "goatcorp /Dalamud",
+            "description": "FFXIV plugin framework and API",
+            "stars": "1,023",
+            "forks": "253",
+            "language": "C#",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "34,606",
+            "forks": "6,917",
+            "language": "Python",
+            "stars_today": "913 stars today"
+        },
+        {
+            "zh_des": "亲爱的ImGui：面向C++的无膨胀图形用户界面，依赖性最小",
+            "url": "https://github.com/ocornut/imgui",
+            "name": "ocornut /imgui",
+            "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+            "stars": "57,462",
+            "forks": "9,888",
+            "language": "C++",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "14,175",
+            "forks": "3,411",
+            "language": "JavaScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "Zigbee🐝to MQTT Bridge🌉，摆脱你专有的Zigbee Bridge🔨",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "name": "Koenkk /zigbee2mqtt",
+            "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+            "stars": "11,392",
+            "forks": "1,618",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的Flash播放器模拟器",
+            "url": "https://github.com/ruffle-rs/ruffle",
+            "name": "ruffle-rs /ruffle",
+            "description": "A Flash Player emulator written in Rust",
+            "stars": "14,860",
+            "forks": "767",
+            "language": "Rust",
+            "stars_today": "6 stars today"
+        }
+    ]
+}

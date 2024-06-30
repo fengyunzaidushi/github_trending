@@ -16056,3 +16056,117 @@
         }
     ]
 }
+{
+    "06月30日": [
+        {
+            "zh_des": "一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,397",
+            "forks": "405",
+            "language": "Jupyter Notebook",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "一个小型的标量值自动分级引擎和一个位于其之上的神经网络库，具有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,289",
+            "forks": "1,283",
+            "language": "Jupyter Notebook",
+            "stars_today": "272 stars this week"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,857",
+            "forks": "1,319",
+            "language": "Jupyter Notebook",
+            "stars_today": "108 stars this week"
+        },
+        {
+            "zh_des": "根据非结构化数据构建Neo 4j图形",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data",
+            "stars": "340",
+            "forks": "86",
+            "language": "Jupyter Notebook",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "一系列Deliveryter笔记本，使用Scikit-Learn、Keras和TensorFlow 2，带您了解Python中机器学习和深度学习的基础知识。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,677",
+            "forks": "2,702",
+            "language": "Jupyter Notebook",
+            "stars_today": "79 stars this week"
+        },
+        {
+            "zh_des": "关于通过设计、培训和部署实时财务顾问LLM系统来免费提供的、Ÿ +ŸŸ&#39;&#39;&#39;𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘃𝗲𝗰𝘁𝗼𝗿𝗟𝗟𝗠𝗢𝗽𝘀𝗟𝗟𝗠𝘀𝗟𝗲𝗮𝗿𝗻",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "2,639",
+            "forks": "418",
+            "language": "Jupyter Notebook",
+            "stars_today": "58 stars this week"
+        },
+        {
+            "zh_des": "Open weight来自Google DeepMind的LLM。",
+            "url": "https://github.com/google-deepmind/gemma",
+            "name": "google-deepmind /gemma",
+            "description": "Open weights LLM from Google DeepMind.",
+            "stars": "2,209",
+            "forks": "269",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "10周，20堂课，全民数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,937",
+            "forks": "5,560",
+            "language": "Jupyter Notebook",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "3,976",
+            "forks": "574",
+            "language": "Jupyter Notebook",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "NeRF（神经辐射场）的代码发布",
+            "url": "https://github.com/bmild/nerf",
+            "name": "bmild /nerf",
+            "description": "Code release for NeRF (Neural Radiance Fields)",
+            "stars": "9,570",
+            "forks": "1,339",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "如果一个人不能自学，就没有未来。",
+            "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+            "name": "selfteaching /the-craft-of-selfteaching",
+            "description": "One has no future if one couldn't teach themself.",
+            "stars": "15,083",
+            "forks": "16,241",
+            "language": "Jupyter Notebook",
+            "stars_today": "19 stars this week"
+        }
+    ]
+}
