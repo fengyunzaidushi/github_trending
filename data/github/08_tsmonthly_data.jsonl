@@ -16942,3 +16942,227 @@
         }
     ]
 }
+{
+    "06月30日": [
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "38,234",
+            "forks": "1,813",
+            "language": "TypeScript",
+            "stars_today": "4,096 stars this month"
+        },
+        {
+            "zh_des": "💬Typebot是一款功能强大的聊天机器人构建器，您可以自行托管。",
+            "url": "https://github.com/baptisteArno/typebot.io",
+            "name": "baptisteArno /typebot.io",
+            "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+            "stars": "5,718",
+            "forks": "1,566",
+            "language": "TypeScript",
+            "stars_today": "556 stars this month"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "21,009",
+            "forks": "3,392",
+            "language": "TypeScript",
+            "stars_today": "1,169 stars this month"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "15,051",
+            "forks": "2,496",
+            "language": "TypeScript",
+            "stars_today": "3,119 stars this month"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "38,006",
+            "forks": "5,752",
+            "language": "TypeScript",
+            "stars_today": "804 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "11,179",
+            "forks": "579",
+            "language": "TypeScript",
+            "stars_today": "1,906 stars this month"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "160,121",
+            "forks": "28,041",
+            "language": "TypeScript",
+            "stars_today": "1,288 stars this month"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "20,580",
+            "forks": "1,523",
+            "language": "TypeScript",
+            "stars_today": "1,278 stars this month"
+        },
+        {
+            "zh_des": "现代数据堆栈🐰-Directus是一个即时REST+GraphQL API和直观的无代码数据协作应用程序，适用于任何SQL数据库。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
+            "stars": "26,397",
+            "forks": "3,661",
+            "language": "TypeScript",
+            "stars_today": "725 stars this month"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,382",
+            "forks": "11,722",
+            "language": "TypeScript",
+            "stars_today": "591 stars this month"
+        },
+        {
+            "zh_des": "用于为工作流构件生成生成来源证明的操作",
+            "url": "https://github.com/actions/attest-build-provenance",
+            "name": "actions /attest-build-provenance",
+            "description": "Action for generating build provenance attestations for workflow artifacts",
+            "stars": "173",
+            "forks": "110",
+            "language": "TypeScript",
+            "stars_today": "87 stars this month"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "29,702",
+            "forks": "6,963",
+            "language": "TypeScript",
+            "stars_today": "605 stars this month"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,126",
+            "forks": "24,919",
+            "language": "TypeScript",
+            "stars_today": "488 stars this month"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "62,630",
+            "forks": "3,516",
+            "language": "TypeScript",
+            "stars_today": "2,979 stars this month"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,467",
+            "forks": "8,036",
+            "language": "TypeScript",
+            "stars_today": "139 stars this month"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "52,977",
+            "forks": "4,861",
+            "language": "TypeScript",
+            "stars_today": "617 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "14,646",
+            "forks": "1,445",
+            "language": "TypeScript",
+            "stars_today": "1,193 stars this month"
+        },
+        {
+            "zh_des": "用于在Web上创建白板和画布体验的SDK。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "SDK for creating whiteboards and canvas experiences on the web.",
+            "stars": "34,160",
+            "forks": "2,053",
+            "language": "TypeScript",
+            "stars_today": "969 stars this month"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "5,929",
+            "forks": "958",
+            "language": "TypeScript",
+            "stars_today": "323 stars this month"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "30,804",
+            "forks": "4,868",
+            "language": "TypeScript",
+            "stars_today": "906 stars this month"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "906",
+            "forks": "479",
+            "language": "TypeScript",
+            "stars_today": "164 stars this month"
+        },
+        {
+            "zh_des": "Reaction的富文本编辑器。",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "The rich-text editor for React.",
+            "stars": "8,981",
+            "forks": "610",
+            "language": "TypeScript",
+            "stars_today": "824 stars this month"
+        }
+    ]
+}

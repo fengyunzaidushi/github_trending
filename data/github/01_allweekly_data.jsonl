@@ -20268,3 +20268,177 @@
         }
     ]
 }
+{
+    "06月30日": [
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,328",
+            "forks": "540",
+            "language": "Python",
+            "stars_today": "1,047 stars this week"
+        },
+        {
+            "zh_des": "💥BREAZING FAST终端文件管理器，基于异步I/O，用RUST编写。",
+            "url": "https://github.com/sxyazi/yazi",
+            "name": "sxyazi /yazi",
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "stars": "11,275",
+            "forks": "263",
+            "language": "Rust",
+            "stars_today": "1,216 stars this week"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "15,051",
+            "forks": "2,496",
+            "language": "TypeScript",
+            "stars_today": "797 stars this week"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "325,349",
+            "forks": "60,391",
+            "language": "",
+            "stars_today": "1,359 stars this week"
+        },
+        {
+            "zh_des": "Susonic是下一代BI平台，它集成了Chat BI(由LLM支持)和Headless BI(由语义层支持)范例。",
+            "url": "https://github.com/tencentmusic/supersonic",
+            "name": "tencentmusic /supersonic",
+            "description": "SuperSonic is the next-generation BI platform that integrates Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.",
+            "stars": "1,435",
+            "forks": "221",
+            "language": "Java",
+            "stars_today": "266 stars this week"
+        },
+        {
+            "zh_des": "免费开源IT资产/许可证管理系统",
+            "url": "https://github.com/snipe/snipe-it",
+            "name": "snipe /snipe-it",
+            "description": "A free open source IT asset/license management system",
+            "stars": "10,250",
+            "forks": "3,050",
+            "language": "PHP",
+            "stars_today": "286 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "34,408",
+            "forks": "6,892",
+            "language": "Python",
+            "stars_today": "738 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,104",
+            "forks": "14,146",
+            "language": "Python",
+            "stars_today": "277 stars this week"
+        },
+        {
+            "zh_des": "🕵️‍♂️一体机OSINT工具，可分析任何网站",
+            "url": "https://github.com/Lissy93/web-check",
+            "name": "Lissy93 /web-check",
+            "description": "🕵️‍♂️ All-in-one OSINT tool for analysing any website",
+            "stars": "20,580",
+            "forks": "1,523",
+            "language": "TypeScript",
+            "stars_today": "1,012 stars this week"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "1,087",
+            "forks": "143",
+            "language": "Python",
+            "stars_today": "76 stars this week"
+        },
+        {
+            "zh_des": "完全开源，端到端加密，可替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "11,122",
+            "forks": "619",
+            "language": "Dart",
+            "stars_today": "1,394 stars this week"
+        },
+        {
+            "zh_des": "构建适用于Windows的最佳文件管理器",
+            "url": "https://github.com/files-community/Files",
+            "name": "files-community /Files",
+            "description": "Building the best file manager for Windows",
+            "stars": "32,863",
+            "forks": "2,096",
+            "language": "C#",
+            "stars_today": "258 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "977",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "156 stars this week"
+        },
+        {
+            "zh_des": "本地运行的开源Android实时翻译应用程序",
+            "url": "https://github.com/niedev/RTranslator",
+            "name": "niedev /RTranslator",
+            "description": "Open source real-time translation app for Android that runs locally",
+            "stars": "4,749",
+            "forks": "356",
+            "language": "C++",
+            "stars_today": "3,593 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "262,402",
+            "forks": "44,510",
+            "language": "Python",
+            "stars_today": "1,422 stars this week"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "21,009",
+            "forks": "3,392",
+            "language": "TypeScript",
+            "stars_today": "739 stars this week"
+        },
+        {
+            "zh_des": "🚀是一个精选的文章、视频和其他资源的列表，用于学习和实践软件体系结构、模式和原则。",
+            "url": "https://github.com/mehdihadeli/awesome-software-architecture",
+            "name": "mehdihadeli /awesome-software-architecture",
+            "description": "🚀 A curated list of awesome articles, videos, and other resources to learn and practice software architecture, patterns, and principles.",
+            "stars": "6,475",
+            "forks": "502",
+            "language": "",
+            "stars_today": "1,995 stars this week"
+        }
+    ]
+}

@@ -20110,3 +20110,137 @@
         }
     ]
 }
+{
+    "06月30日": [
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,328",
+            "forks": "540",
+            "language": "Python",
+            "stars_today": "1,047 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "34,408",
+            "forks": "6,892",
+            "language": "Python",
+            "stars_today": "738 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,104",
+            "forks": "14,146",
+            "language": "Python",
+            "stars_today": "277 stars this week"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "1,087",
+            "forks": "143",
+            "language": "Python",
+            "stars_today": "76 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "977",
+            "forks": "54",
+            "language": "Python",
+            "stars_today": "156 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "262,402",
+            "forks": "44,510",
+            "language": "Python",
+            "stars_today": "1,422 stars this week"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "10,571",
+            "forks": "1,161",
+            "language": "Python",
+            "stars_today": "378 stars this week"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "19,929",
+            "forks": "1,887",
+            "language": "Python",
+            "stars_today": "746 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "10,523",
+            "forks": "1,016",
+            "language": "Python",
+            "stars_today": "959 stars this week"
+        },
+        {
+            "zh_des": "🍰桌面实用程序可从各种网站下载图像/视频/音乐/文本等。",
+            "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+            "name": "KurtBestor /Hitomi-Downloader",
+            "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+            "stars": "20,845",
+            "forks": "1,946",
+            "language": "Python",
+            "stars_today": "363 stars this week"
+        },
+        {
+            "zh_des": "Silero VAD：经过预先培训的企业级语音活动检测器",
+            "url": "https://github.com/snakers4/silero-vad",
+            "name": "snakers4 /silero-vad",
+            "description": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector",
+            "stars": "3,266",
+            "forks": "342",
+            "language": "Python",
+            "stars_today": "91 stars this week"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "6,209",
+            "forks": "748",
+            "language": "Python",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "从命令行访问大型语言模型",
+            "url": "https://github.com/simonw/llm",
+            "name": "simonw /llm",
+            "description": "Access large language models from the command-line",
+            "stars": "3,421",
+            "forks": "176",
+            "language": "Python",
+            "stars_today": "94 stars this week"
+        }
+    ]
+}
