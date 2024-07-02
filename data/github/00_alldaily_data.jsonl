@@ -21036,3 +21036,197 @@
         }
     ]
 }
+{
+    "07月02日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "5,301",
+            "forks": "684",
+            "language": "Jupyter Notebook",
+            "stars_today": "460 stars today"
+        },
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "38,834",
+            "forks": "1,690",
+            "language": "C++",
+            "stars_today": "1,174 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "51,151",
+            "forks": "27,353",
+            "language": "Jupyter Notebook",
+            "stars_today": "803 stars today"
+        },
+        {
+            "zh_des": "将尖端LLM技术快速轻松地集成到您的应用程序中",
+            "url": "https://github.com/microsoft/semantic-kernel",
+            "name": "microsoft /semantic-kernel",
+            "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+            "stars": "20,284",
+            "forks": "2,949",
+            "language": "C#",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "79,719",
+            "forks": "5,491",
+            "language": "Vim Script",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "☄🌌️为任何外壳提供最小、最快且可无限定制的提示！",
+            "url": "https://github.com/starship/starship",
+            "name": "starship /starship",
+            "description": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+            "stars": "42,625",
+            "forks": "1,837",
+            "language": "Rust",
+            "stars_today": "300 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "35,066",
+            "forks": "6,966",
+            "language": "Python",
+            "stars_today": "295 stars today"
+        },
+        {
+            "zh_des": "一种可滚动平铺的Wayland排字机。",
+            "url": "https://github.com/YaLTeR/niri",
+            "name": "YaLTeR /niri",
+            "description": "A scrollable-tiling Wayland compositor.",
+            "stars": "2,732",
+            "forks": "77",
+            "language": "Rust",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的Python包安装程序和解析器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package installer and resolver, written in Rust.",
+            "stars": "14,421",
+            "forks": "409",
+            "language": "Rust",
+            "stars_today": "912 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "75,971",
+            "forks": "5,975",
+            "language": "Python",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "14,297",
+            "forks": "3,429",
+            "language": "JavaScript",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "一种基于Web的协作式LaTeX编辑器",
+            "url": "https://github.com/overleaf/overleaf",
+            "name": "overleaf /overleaf",
+            "description": "A web-based collaborative LaTeX editor",
+            "stars": "13,276",
+            "forks": "1,372",
+            "language": "JavaScript",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "基于人工智能的巨蟒刮刀",
+            "url": "https://github.com/VinciGit00/Scrapegraph-ai",
+            "name": "VinciGit00 /Scrapegraph-ai",
+            "description": "Python scraper based on AI",
+            "stars": "12,794",
+            "forks": "970",
+            "language": "Python",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "8,684",
+            "forks": "439",
+            "language": "Zig",
+            "stars_today": "775 stars today"
+        },
+        {
+            "zh_des": "极快的LLM推论。",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "name": "EricLBuehler /mistral.rs",
+            "description": "Blazingly fast LLM inference.",
+            "stars": "2,892",
+            "forks": "209",
+            "language": "Rust",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "17,977",
+            "forks": "1,841",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "用连词构句法学习英语",
+            "url": "https://github.com/cuixueshe/earthworm",
+            "name": "cuixueshe /earthworm",
+            "description": "Learning English through the method of constructing sentences with conjunctions",
+            "stars": "4,350",
+            "forks": "534",
+            "language": "TypeScript",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "Draggan官方代码(SIGGRAPH 2023)",
+            "url": "https://github.com/XingangPan/DragGAN",
+            "name": "XingangPan /DragGAN",
+            "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+            "stars": "35,495",
+            "forks": "3,415",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "EbitEngine--一个非常简单的围棋2D游戏引擎",
+            "url": "https://github.com/hajimehoshi/ebiten",
+            "name": "hajimehoshi /ebiten",
+            "description": "Ebitengine - A dead simple 2D game engine for Go",
+            "stars": "10,353",
+            "forks": "633",
+            "language": "Go",
+            "stars_today": "31 stars today"
+        }
+    ]
+}
