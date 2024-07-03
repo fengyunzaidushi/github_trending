@@ -22588,3 +22588,197 @@
         }
     ]
 }
+{
+    "07月03日": [
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "40,977",
+            "forks": "4,361",
+            "language": "Python",
+            "stars_today": "4,485 stars this month"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "18,116",
+            "forks": "1,859",
+            "language": "Python",
+            "stars_today": "4,155 stars this month"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "20,149",
+            "forks": "1,907",
+            "language": "Python",
+            "stars_today": "2,959 stars this month"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,488",
+            "forks": "569",
+            "language": "Python",
+            "stars_today": "1,475 stars this month"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "7,772",
+            "forks": "861",
+            "language": "Python",
+            "stars_today": "1,642 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "9,067",
+            "forks": "669",
+            "language": "Python",
+            "stars_today": "1,495 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "17,094",
+            "forks": "1,309",
+            "language": "Python",
+            "stars_today": "2,302 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "36,601",
+            "forks": "7,167",
+            "language": "Python",
+            "stars_today": "2,911 stars this month"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "51,224",
+            "forks": "5,302",
+            "language": "Python",
+            "stars_today": "1,983 stars this month"
+        },
+        {
+            "zh_des": "在不需要Microsoft Edge、Windows或API密钥的情况下，从Python使用Microsoft Edge的在线文本语音转换服务",
+            "url": "https://github.com/rany2/edge-tts",
+            "name": "rany2 /edge-tts",
+            "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+            "stars": "4,538",
+            "forks": "466",
+            "language": "Python",
+            "stars_today": "608 stars this month"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "24,433",
+            "forks": "4,593",
+            "language": "Python",
+            "stars_today": "1,802 stars this month"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,051",
+            "forks": "57",
+            "language": "Python",
+            "stars_today": "429 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-Llama3-V 2.5：手机上的GPT-4V级别多模式LLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-Llama3-V 2.5: A GPT-4V Level Multimodal LLM on Your Phone",
+            "stars": "7,801",
+            "forks": "540",
+            "language": "Python",
+            "stars_today": "3,367 stars this month"
+        },
+        {
+            "zh_des": "用于条件音频生成的生成模型",
+            "url": "https://github.com/Stability-AI/stable-audio-tools",
+            "name": "Stability-AI /stable-audio-tools",
+            "description": "Generative models for conditional audio generation",
+            "stars": "2,247",
+            "forks": "197",
+            "language": "Python",
+            "stars_today": "752 stars this month"
+        },
+        {
+            "zh_des": "建立在NVIDIA Isaac Sim上的机器人学习统一框架",
+            "url": "https://github.com/isaac-sim/IsaacLab",
+            "name": "isaac-sim /IsaacLab",
+            "description": "Unified framework for robot learning built on NVIDIA Isaac Sim",
+            "stars": "1,515",
+            "forks": "462",
+            "language": "Python",
+            "stars_today": "619 stars this month"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "1,108",
+            "forks": "144",
+            "language": "Python",
+            "stars_today": "135 stars this month"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "23,884",
+            "forks": "4,922",
+            "language": "Python",
+            "stars_today": "735 stars this month"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,174",
+            "forks": "14,166",
+            "language": "Python",
+            "stars_today": "789 stars this month"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "642",
+            "forks": "101",
+            "language": "Python",
+            "stars_today": "181 stars this month"
+        }
+    ]
+}

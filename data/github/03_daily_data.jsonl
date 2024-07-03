@@ -21058,3 +21058,157 @@
         }
     ]
 }
+{
+    "07月03日": [
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "36,601",
+            "forks": "7,167",
+            "language": "Python",
+            "stars_today": "1,337 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,308",
+            "forks": "51,628",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "3,246",
+            "forks": "250",
+            "language": "Python",
+            "stars_today": "509 stars today"
+        },
+        {
+            "zh_des": "🚀一种在几乎任何设备和分布式配置上启动、培训和使用PYTORCH型号的简单方法，自动混合精度(包括fp8)，以及易于配置的FSDP和深度速度支持",
+            "url": "https://github.com/huggingface/accelerate",
+            "name": "huggingface /accelerate",
+            "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+            "stars": "7,319",
+            "forks": "871",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "OWASP CRS(官方存储库)",
+            "url": "https://github.com/coreruleset/coreruleset",
+            "name": "coreruleset /coreruleset",
+            "description": "OWASP CRS (Official Repository)",
+            "stars": "2,062",
+            "forks": "355",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "1,196",
+            "forks": "405",
+            "language": "Python",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "128,515",
+            "forks": "25,493",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "一个用于培训、服务和评估大型语言模型的开放平台。发布对维库纳和聊天机器人竞技场的回购。",
+            "url": "https://github.com/lm-sys/FastChat",
+            "name": "lm-sys /FastChat",
+            "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+            "stars": "35,568",
+            "forks": "4,371",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "使用CTranslate2实现更快的密语转录",
+            "url": "https://github.com/SYSTRAN/faster-whisper",
+            "name": "SYSTRAN /faster-whisper",
+            "description": "Faster Whisper transcription with CTranslate2",
+            "stars": "10,076",
+            "forks": "849",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "MS-SWIFT：使用PEFT或全参数微调250+LLM或40+MLLM。(Qwen2，GLM4，Internlm2，Yi，Llama3，Llava，MiniCPM-V，DeepSeek，Bachan2，Gemma2，Phi3-Vision，...)",
+            "url": "https://github.com/modelscope/swift",
+            "name": "modelscope /swift",
+            "description": "ms-swift: Use PEFT or Full-parameter to finetune 250+ LLMs or 40+ MLLMs. (Qwen2, GLM4, Internlm2, Yi, Llama3, Llava, MiniCPM-V, Deepseek, Baichuan2, Gemma2, Phi3-Vision, ...)",
+            "stars": "2,200",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "台湾繁体普通话LLMS",
+            "url": "https://github.com/MiuLab/Taiwan-LLM",
+            "name": "MiuLab /Taiwan-LLM",
+            "description": "Traditional Mandarin LLMs for Taiwan",
+            "stars": "1,083",
+            "forks": "90",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "5,761",
+            "forks": "7,243",
+            "language": "Python",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "80,070",
+            "forks": "21,524",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "61,215",
+            "forks": "7,635",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "18,116",
+            "forks": "1,859",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        }
+    ]
+}
