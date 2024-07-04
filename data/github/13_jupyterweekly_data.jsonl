@@ -17008,3 +17008,157 @@
         }
     ]
 }
+{
+    "07月04日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "5,952",
+            "forks": "764",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,633 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "54,590",
+            "forks": "28,066",
+            "language": "Jupyter Notebook",
+            "stars_today": "5,607 stars this week"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "3,108",
+            "forks": "542",
+            "language": "Jupyter Notebook",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "32,753",
+            "forks": "5,388",
+            "language": "Jupyter Notebook",
+            "stars_today": "188 stars this week"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,201",
+            "forks": "2,757",
+            "language": "Jupyter Notebook",
+            "stars_today": "483 stars this week"
+        },
+        {
+            "zh_des": "人造卫星的交互提示工程教程",
+            "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+            "name": "anthropics /prompt-eng-interactive-tutorial",
+            "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+            "stars": "144",
+            "forks": "34",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars this week"
+        },
+        {
+            "zh_des": "一个炙手可热的快速人工智能网关。使用1个快速友好的API路由至200多个LLMS。",
+            "url": "https://github.com/Portkey-AI/gateway",
+            "name": "Portkey-AI /gateway",
+            "description": "A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.",
+            "stars": "5,176",
+            "forks": "355",
+            "language": "Jupyter Notebook",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "🦖𝗟𝗲𝗮𝗿𝗻通过设计、培训和部署实时财务顾问LLm系统免费了解𝗟𝗟𝗠𝘀、𝗟𝗟𝗠𝗢𝗽𝘀和𝘃𝗲𝗰𝘁𝗼𝗿𝗗𝗕𝘀~𝘴𝘰𝘶𝘳𝘤𝘦𝘤𝘰𝘥𝘦+𝘷𝘪𝘥𝘦𝘰&𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "2,671",
+            "forks": "425",
+            "language": "Jupyter Notebook",
+            "stars_today": "67 stars this week"
+        },
+        {
+            "zh_des": "图像提示适配器被设计为使预先训练的文本到图像扩散模型能够生成具有图像提示的图像。",
+            "url": "https://github.com/tencent-ailab/IP-Adapter",
+            "name": "tencent-ailab /IP-Adapter",
+            "description": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
+            "stars": "4,500",
+            "forks": "295",
+            "language": "Jupyter Notebook",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "7,213",
+            "forks": "708",
+            "language": "Jupyter Notebook",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "26,996",
+            "forks": "5,573",
+            "language": "Jupyter Notebook",
+            "stars_today": "107 stars this week"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,083",
+            "forks": "1,301",
+            "language": "Jupyter Notebook",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "笔记本、代码示例、示例应用程序和其他资源，演示如何使用、开发和管理使用Google Cloud Vertex AI的机器学习和生成性AI工作流。",
+            "url": "https://github.com/GoogleCloudPlatform/vertex-ai-samples",
+            "name": "GoogleCloudPlatform /vertex-ai-samples",
+            "description": "Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.",
+            "stars": "1,507",
+            "forks": "771",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,403",
+            "forks": "5,367",
+            "language": "Jupyter Notebook",
+            "stars_today": "160 stars this week"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "41,954",
+            "forks": "17,685",
+            "language": "Jupyter Notebook",
+            "stars_today": "61 stars this week"
+        }
+    ]
+}
