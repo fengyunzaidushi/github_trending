@@ -20186,3 +20186,207 @@
         }
     ]
 }
+{
+    "07月05日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "54,845",
+            "forks": "28,132",
+            "language": "Jupyter Notebook",
+            "stars_today": "620 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "33,373",
+            "forks": "7,770",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "8,473",
+            "forks": "1,331",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,755",
+            "forks": "741",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "练习你的熊猫技能！",
+            "url": "https://github.com/guipsamora/pandas_exercises",
+            "name": "guipsamora /pandas_exercises",
+            "description": "Practice your pandas skills!",
+            "stars": "10,449",
+            "forks": "8,077",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,914",
+            "forks": "1,544",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "图像提示适配器被设计为使预先训练的文本到图像扩散模型能够生成具有图像提示的图像。",
+            "url": "https://github.com/tencent-ailab/IP-Adapter",
+            "name": "tencent-ailab /IP-Adapter",
+            "description": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
+            "stars": "4,500",
+            "forks": "295",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "如果一个人不能自学，就没有未来。",
+            "url": "https://github.com/selfteaching/the-craft-of-selfteaching",
+            "name": "selfteaching /the-craft-of-selfteaching",
+            "description": "One has no future if one couldn't teach themself.",
+            "stars": "15,094",
+            "forks": "16,257",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "3,060",
+            "forks": "2,008",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "32,771",
+            "forks": "5,395",
+            "language": "Jupyter Notebook",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "指导-调整消费者硬件上的骆驼",
+            "url": "https://github.com/tloen/alpaca-lora",
+            "name": "tloen /alpaca-lora",
+            "description": "Instruct-tune LLaMA on consumer hardware",
+            "stars": "18,385",
+            "forks": "2,193",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "33,830",
+            "forks": "3,529",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "该存储库包含DeepMind出版物附带的实现和说明性代码",
+            "url": "https://github.com/google-deepmind/deepmind-research",
+            "name": "google-deepmind /deepmind-research",
+            "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+            "stars": "12,947",
+            "forks": "2,547",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,379",
+            "forks": "2,885",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "23,478",
+            "forks": "3,109",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,278",
+            "forks": "12,599",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "使用句子转换器进行高效的少镜头学习",
+            "url": "https://github.com/huggingface/setfit",
+            "name": "huggingface /setfit",
+            "description": "Efficient few-shot learning with Sentence Transformers",
+            "stars": "2,077",
+            "forks": "208",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "11,043",
+            "forks": "1,441",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "使用拥抱面库的笔记本电脑🤗",
+            "url": "https://github.com/huggingface/notebooks",
+            "name": "huggingface /notebooks",
+            "description": "Notebooks using the Hugging Face libraries 🤗",
+            "stars": "3,438",
+            "forks": "1,462",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一种用于控制大型语言模型的指导语言。",
+            "url": "https://github.com/guidance-ai/guidance",
+            "name": "guidance-ai /guidance",
+            "description": "A guidance language for controlling large language models.",
+            "stars": "18,142",
+            "forks": "1,007",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        }
+    ]
+}

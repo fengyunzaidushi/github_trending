@@ -22020,3 +22020,147 @@
         }
     ]
 }
+{
+    "07月05日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "54,845",
+            "forks": "28,131",
+            "language": "Jupyter Notebook",
+            "stars_today": "620 stars today"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "4,299",
+            "forks": "310",
+            "language": "Python",
+            "stars_today": "1,158 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "4,012",
+            "forks": "323",
+            "language": "Python",
+            "stars_today": "581 stars today"
+        },
+        {
+            "zh_des": "面向数字产品的现代全栈电子商务市场",
+            "url": "https://github.com/joschan21/digitalhippo",
+            "name": "joschan21 /digitalhippo",
+            "description": "A Modern Fullstack E-Commerce Marketplace for Digital Products",
+            "stars": "2,526",
+            "forks": "490",
+            "language": "TypeScript",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "419",
+            "forks": "52",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "24,923",
+            "forks": "4,825",
+            "language": "Python",
+            "stars_today": "1,036 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "37,010",
+            "forks": "7,202",
+            "language": "Python",
+            "stars_today": "265 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "297,809",
+            "forks": "32,284",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "38,817",
+            "forks": "1,829",
+            "language": "TypeScript",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "117,070",
+            "forks": "24,068",
+            "language": "C++",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Laravel是一个具有表现力的、语法优雅的Web应用程序框架。我们已经为你的下一个大创意奠定了基础--让你不用为小事而汗流浃背地创造。",
+            "url": "https://github.com/laravel/laravel",
+            "name": "laravel /laravel",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+            "stars": "77,459",
+            "forks": "23,921",
+            "language": "PHP",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "快速、安全、高效的备份程序",
+            "url": "https://github.com/restic/restic",
+            "name": "restic /restic",
+            "description": "Fast, secure, efficient backup program",
+            "stars": "24,829",
+            "forks": "1,507",
+            "language": "Go",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "122,861",
+            "forks": "26,272",
+            "language": "JavaScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "BLAKE3密码散列函数的官方Rust和C实现",
+            "url": "https://github.com/BLAKE3-team/BLAKE3",
+            "name": "BLAKE3-team /BLAKE3",
+            "description": "the official Rust and C implementations of the BLAKE3 cryptographic hash function",
+            "stars": "4,866",
+            "forks": "324",
+            "language": "Assembly",
+            "stars_today": "89 stars today"
+        }
+    ]
+}

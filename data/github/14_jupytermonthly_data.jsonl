@@ -18050,3 +18050,147 @@
         }
     ]
 }
+{
+    "07月05日": [
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "54,845",
+            "forks": "28,132",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,909 stars this month"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "5,981",
+            "forks": "765",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,251 stars this month"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,342",
+            "forks": "1,293",
+            "language": "Jupyter Notebook",
+            "stars_today": "754 stars this month"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,216",
+            "forks": "2,759",
+            "language": "Jupyter Notebook",
+            "stars_today": "739 stars this month"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,755",
+            "forks": "741",
+            "language": "Jupyter Notebook",
+            "stars_today": "420 stars this month"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "928",
+            "forks": "174",
+            "language": "Jupyter Notebook",
+            "stars_today": "276 stars this month"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,737",
+            "forks": "84,107",
+            "language": "Jupyter Notebook",
+            "stars_today": "234 stars this month"
+        },
+        {
+            "zh_des": "将AI试卷转换成图形用户界面，让大家轻松便捷地使用人工智能技术。让每个人都简单方便的使用前沿人工智能技术",
+            "url": "https://github.com/Baiyuetribe/paper2gui",
+            "name": "Baiyuetribe /paper2gui",
+            "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+            "stars": "9,990",
+            "forks": "828",
+            "language": "Jupyter Notebook",
+            "stars_today": "365 stars this month"
+        },
+        {
+            "zh_des": "按模型组织的最先进的深度学习脚本-易于在企业级基础设施上以可重复的准确性和性能进行培训和部署。",
+            "url": "https://github.com/NVIDIA/DeepLearningExamples",
+            "name": "NVIDIA /DeepLearningExamples",
+            "description": "State-of-the-Art Deep Learning scripts organized by models - easy to train and deploy with reproducible accuracy and performance on enterprise-grade infrastructure.",
+            "stars": "12,941",
+            "forks": "3,123",
+            "language": "Jupyter Notebook",
+            "stars_today": "185 stars this month"
+        },
+        {
+            "zh_des": "基于非结构化数据的Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data",
+            "stars": "366",
+            "forks": "91",
+            "language": "Jupyter Notebook",
+            "stars_today": "159 stars this month"
+        },
+        {
+            "zh_des": "针对ComfyUI的扩展节点套件，包含超过210个新节点",
+            "url": "https://github.com/WASasquatch/was-node-suite-comfyui",
+            "name": "WASasquatch /was-node-suite-comfyui",
+            "description": "An extensive node suite for ComfyUI with over 210 new nodes",
+            "stars": "951",
+            "forks": "144",
+            "language": "Jupyter Notebook",
+            "stars_today": "63 stars this month"
+        },
+        {
+            "zh_des": "Cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "7,081",
+            "forks": "6,341",
+            "language": "Jupyter Notebook",
+            "stars_today": "63 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,894",
+            "forks": "1,326",
+            "language": "Jupyter Notebook",
+            "stars_today": "271 stars this month"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "3,060",
+            "forks": "2,008",
+            "language": "Jupyter Notebook",
+            "stars_today": "178 stars this month"
+        }
+    ]
+}
