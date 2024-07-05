@@ -21734,3 +21734,177 @@
         }
     ]
 }
+{
+    "07月05日": [
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "5,010",
+            "forks": "361",
+            "language": "Python",
+            "stars_today": "1,249 stars today"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "517",
+            "forks": "61",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "4,175",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "430 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,502",
+            "forks": "51,662",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "一个开源的PAM工具，可以替代CyberArk。广受欢迎的开源堡垒机.",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "name": "jumpserver /jumpserver",
+            "description": "An open-source PAM tool alternative to CyberArk. 广受欢迎的开源堡垒机。",
+            "stars": "24,365",
+            "forks": "5,259",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "SpiderFoot自动执行OSINT，提供威胁情报和绘制攻击面。",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "name": "smicallef /spiderfoot",
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "stars": "12,194",
+            "forks": "2,149",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Rembg是一个去除图像背景的工具",
+            "url": "https://github.com/danielgatis/rembg",
+            "name": "danielgatis /rembg",
+            "description": "Rembg is a tool to remove images background",
+            "stars": "15,362",
+            "forks": "1,754",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "24,969",
+            "forks": "4,831",
+            "language": "Python",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "17,559",
+            "forks": "6,706",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🚀一种在几乎任何设备和分布式配置上启动、培训和使用PYTORCH型号的简单方法，自动混合精度(包括fp8)，以及易于配置的FSDP和深度速度支持",
+            "url": "https://github.com/huggingface/accelerate",
+            "name": "huggingface /accelerate",
+            "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+            "stars": "7,341",
+            "forks": "875",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "297,913",
+            "forks": "32,289",
+            "language": "Python",
+            "stars_today": "449 stars today"
+        },
+        {
+            "zh_des": "数字化身对话系统-Linly-Talker。😄✨LINLY-TALKER是一个智能人工智能系统，它将大型语言模型(LLM)与视觉模型相结合，创建了一种新颖的人-AI交互方法。🤝🤖它集成了各种技术，如Whisper、Linly、微软语音服务和SadTalker Talk Head生成系统。🌟🔬",
+            "url": "https://github.com/Kedreamix/Linly-Talker",
+            "name": "Kedreamix /Linly-Talker",
+            "description": "Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬",
+            "stars": "1,242",
+            "forks": "220",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "基于深度滤波的噪声抑制方法",
+            "url": "https://github.com/Rikorose/DeepFilterNet",
+            "name": "Rikorose /DeepFilterNet",
+            "description": "Noise supression using deep filtering",
+            "stars": "2,136",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-4V的开创性开源替代方案。接近GPT-4V表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4V. 接近GPT-4V表现的可商用开源多模态对话模型",
+            "stars": "3,910",
+            "forks": "300",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "SUPIR致力于开发实用的野外照片真实感图像恢复算法",
+            "url": "https://github.com/Fanghua-Yu/SUPIR",
+            "name": "Fanghua-Yu /SUPIR",
+            "description": "SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild",
+            "stars": "3,921",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "69,754",
+            "forks": "28,911",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "正式发布InternLM2.5 7B机型和聊天机型。100万个情景支持",
+            "url": "https://github.com/InternLM/InternLM",
+            "name": "InternLM /InternLM",
+            "description": "Official release of InternLM2.5 7B base and chat models. 1M context support",
+            "stars": "5,633",
+            "forks": "406",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        }
+    ]
+}

@@ -24234,3 +24234,207 @@
         }
     ]
 }
+{
+    "07月05日": [
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "281,430",
+            "forks": "37,547",
+            "language": "TypeScript",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative.",
+            "stars": "68,521",
+            "forks": "6,486",
+            "language": "TypeScript",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "面向数字产品的现代全栈电子商务市场",
+            "url": "https://github.com/joschan21/digitalhippo",
+            "name": "joschan21 /digitalhippo",
+            "description": "A Modern Fullstack E-Commerce Marketplace for Digital Products",
+            "stars": "2,600",
+            "forks": "500",
+            "language": "TypeScript",
+            "stars_today": "211 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,462",
+            "forks": "11,737",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Univer是Google Sheet、幻灯片和Docs的开源替代品",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an open-source alternative to Google Sheets, Slides, and Docs",
+            "stars": "5,725",
+            "forks": "474",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Bitwarden客户端应用程序(Web、浏览器扩展、桌面和CLI)。",
+            "url": "https://github.com/bitwarden/clients",
+            "name": "bitwarden /clients",
+            "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+            "stars": "8,673",
+            "forks": "1,139",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "38,874",
+            "forks": "1,835",
+            "language": "TypeScript",
+            "stars_today": "213 stars today"
+        },
+        {
+            "zh_des": "基于LlamaIndex、PgVector、Reaction和Django的海量文档分析平台。",
+            "url": "https://github.com/JSv4/OpenContracts",
+            "name": "JSv4 /OpenContracts",
+            "description": "Mass document analytics platform based on LlamaIndex, Pgvector, React and Django.",
+            "stars": "276",
+            "forks": "27",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "60,482",
+            "forks": "13,064",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "用于构建企业应用程序的最佳JavaScript数据表。支持REACT/ANGLINE/VUE/Plain JavaScript。",
+            "url": "https://github.com/ag-grid/ag-grid",
+            "name": "ag-grid /ag-grid",
+            "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+            "stars": "12,093",
+            "forks": "1,816",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Vue 2和Vue 3的基本Vue合成实用程序集合",
+            "url": "https://github.com/vueuse/vueuse",
+            "name": "vueuse /vueuse",
+            "description": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+            "stars": "19,242",
+            "forks": "2,429",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Js框架，用于使用TypeScrip/JavaScript🚀构建高效、可伸缩的企业级服务器端应用程序",
+            "url": "https://github.com/nestjs/nest",
+            "name": "nestjs /nest",
+            "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+            "stars": "65,608",
+            "forks": "7,468",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "160,404",
+            "forks": "28,099",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "Focalboard是Trello、Contation和Asana的开源、自托管的替代品。",
+            "url": "https://github.com/mattermost/focalboard",
+            "name": "mattermost /focalboard",
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "stars": "20,700",
+            "forks": "1,816",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "在JavaScript中拖放全尺寸的活动日历",
+            "url": "https://github.com/fullcalendar/fullcalendar",
+            "name": "fullcalendar /fullcalendar",
+            "description": "Full-sized drag & drop event calendar in JavaScript",
+            "stars": "18,146",
+            "forks": "3,573",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "23,669",
+            "forks": "14,927",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "您的Reaction原生应用程序的路线和导航",
+            "url": "https://github.com/react-navigation/react-navigation",
+            "name": "react-navigation /react-navigation",
+            "description": "Routing and navigation for your React Native apps",
+            "stars": "23,393",
+            "forks": "4,984",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "28,915",
+            "forks": "1,712",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "22,617",
+            "forks": "2,260",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "JHipster是一个快速生成、开发和部署现代Web应用程序和微服务架构的开发平台。",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "name": "jhipster /generator-jhipster",
+            "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+            "stars": "21,313",
+            "forks": "4,009",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        }
+    ]
+}
