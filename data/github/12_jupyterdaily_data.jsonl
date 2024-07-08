@@ -20838,3 +20838,117 @@
         }
     ]
 }
+{
+    "07月08日": [
+        {
+            "zh_des": "一个小型的标量值自动分级引擎和一个位于其之上的神经网络库，具有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,391",
+            "forks": "1,302",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "强调质量的多语音TTC系统",
+            "url": "https://github.com/neonbjb/tortoise-tts",
+            "name": "neonbjb /tortoise-tts",
+            "description": "A multi-voice TTS system trained with an emphasis on quality",
+            "stars": "12,402",
+            "forks": "1,735",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,942",
+            "forks": "1,336",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学和Andrew NG教授的机器学习专业化解决方案和注释Deeplearning.ai com-Coursera（2022）",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "3,074",
+            "forks": "2,018",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "fastai书籍，出版为Friendyter Notebook",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "21,144",
+            "forks": "8,211",
+            "language": "Jupyter Notebook",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "代码片段",
+            "url": "https://github.com/CoreyMSchafer/code_snippets",
+            "name": "CoreyMSchafer /code_snippets",
+            "description": "code_snippets",
+            "stars": "10,265",
+            "forks": "17,647",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Udemy上完整Python 3 Bootcamp课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,754",
+            "forks": "84,148",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "适用于ComfyUI的广泛节点套件，包含超过210个新节点",
+            "url": "https://github.com/WASasquatch/was-node-suite-comfyui",
+            "name": "WASasquatch /was-node-suite-comfyui",
+            "description": "An extensive node suite for ComfyUI with over 210 new nodes",
+            "stars": "962",
+            "forks": "147",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "存储用于Python学习的Python示例程序的存储库",
+            "url": "https://github.com/codebasics/py",
+            "name": "codebasics /py",
+            "description": "Repository to store sample python programs for python learning",
+            "stars": "6,708",
+            "forks": "16,690",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "12周，24堂课，人工智能为所有人！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,024",
+            "forks": "5,422",
+            "language": "Jupyter Notebook",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "针对加速的基础设施和微服务架构进行了优化的生成性人工智能参考工作流程。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,799",
+            "forks": "298",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        }
+    ]
+}

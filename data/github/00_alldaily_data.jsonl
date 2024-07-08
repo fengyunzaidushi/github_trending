@@ -22964,3 +22964,147 @@
         }
     ]
 }
+{
+    "07月08日": [
+        {
+            "zh_des": "免费API的集体列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "299,400",
+            "forks": "32,396",
+            "language": "Python",
+            "stars_today": "738 stars today"
+        },
+        {
+            "zh_des": "基于模块化图的检索增强生成（RAG）系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "7,482",
+            "forks": "582",
+            "language": "Python",
+            "stars_today": "1,101 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以将其复制并粘贴到您的应用程序中。方便。可定制。开源.",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "63,588",
+            "forks": "3,593",
+            "language": "TypeScript",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "了解如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "263,232",
+            "forks": "44,656",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "327,180",
+            "forks": "60,600",
+            "language": "",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "对使用secp 256 k1椭圆曲线的加密货币进行私密搜索",
+            "url": "https://github.com/albertobsd/keyhunt",
+            "name": "albertobsd /keyhunt",
+            "description": "privkey hunt for crypto currencies that use secp256k1 elliptic curve",
+            "stars": "529",
+            "forks": "291",
+            "language": "C++",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "安装并运行您自己的AI代理服务",
+            "url": "https://github.com/GaiaNet-AI/gaianet-node",
+            "name": "GaiaNet-AI /gaianet-node",
+            "description": "Install and run your own AI agent service",
+            "stars": "2,939",
+            "forks": "124",
+            "language": "Shell",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "38,168",
+            "forks": "5,763",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "一次性和临时电子邮件地址域列表",
+            "url": "https://github.com/disposable-email-domains/disposable-email-domains",
+            "name": "disposable-email-domains /disposable-email-domains",
+            "description": "a list of disposable and temporary email address domains",
+            "stars": "2,685",
+            "forks": "535",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "策划的基于项目的教程列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "180,948",
+            "forks": "23,775",
+            "language": "",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "完全开源、端到端加密替代Google Photos和Apple Photos",
+            "url": "https://github.com/ente-io/ente",
+            "name": "ente-io /ente",
+            "description": "Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos",
+            "stars": "11,870",
+            "forks": "643",
+            "language": "Dart",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "Godot Engine -多平台2D和3D游戏引擎",
+            "url": "https://github.com/godotengine/godot",
+            "name": "godotengine /godot",
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "stars": "86,526",
+            "forks": "19,273",
+            "language": "C++",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "某动漫游戏的服务器软件重新实现。",
+            "url": "https://github.com/Grasscutters/Grasscutter",
+            "name": "Grasscutters /Grasscutter",
+            "description": "A server software reimplementation for a certain anime game.",
+            "stars": "15,958",
+            "forks": "4,466",
+            "language": "Java",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "雨果文档主题简单如书",
+            "url": "https://github.com/alex-shpak/hugo-book",
+            "name": "alex-shpak /hugo-book",
+            "description": "Hugo documentation theme as simple as plain book",
+            "stars": "2,932",
+            "forks": "1,119",
+            "language": "HTML",
+            "stars_today": "16 stars today"
+        }
+    ]
+}

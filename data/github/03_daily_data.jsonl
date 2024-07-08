@@ -22604,3 +22604,157 @@
         }
     ]
 }
+{
+    "07月08日": [
+        {
+            "zh_des": "免费API的集体列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "299,400",
+            "forks": "32,396",
+            "language": "Python",
+            "stars_today": "738 stars today"
+        },
+        {
+            "zh_des": "基于模块化图的检索增强生成（RAG）系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "7,483",
+            "forks": "582",
+            "language": "Python",
+            "stars_today": "1,101 stars today"
+        },
+        {
+            "zh_des": "了解如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "263,232",
+            "forks": "44,656",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "一次性和临时电子邮件地址域列表",
+            "url": "https://github.com/disposable-email-domains/disposable-email-domains",
+            "name": "disposable-email-domains /disposable-email-domains",
+            "description": "a list of disposable and temporary email address domains",
+            "stars": "2,685",
+            "forks": "535",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "通过SQL查询轻松在您的公司内共享数据。",
+            "url": "https://github.com/explorerhq/django-sql-explorer",
+            "name": "explorerhq /django-sql-explorer",
+            "description": "Easily share data across your company via SQL queries.",
+            "stars": "2,609",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "使用语音数据轻松训练良好的VC模型<= 10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "20,865",
+            "forks": "3,204",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "注重提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "38,073",
+            "forks": "5,085",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "在Azure中单击部署基于知识图谱的RAG（GraphRAG）",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "713",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散网络UI",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "135,475",
+            "forks": "25,866",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "crewACrewAI旨在促进角色扮演人工智能代理的协作",
+            "url": "https://github.com/joaomdmoura/crewAI-examples",
+            "name": "joaomdmoura /crewAI-examples",
+            "description": "Examples for crewAIcrewAI is designed to facilitate the collaboration of role-playing AI agents",
+            "stars": "2,230",
+            "forks": "801",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🏡将本地控制和隐私放在首位的开源家庭自动化。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "69,814",
+            "forks": "28,940",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "利用记忆、知识和工具构建人工智能助理。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Assistants with memory, knowledge and tools.",
+            "stars": "10,523",
+            "forks": "1,521",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "129,821",
+            "forks": "9,793",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "交互式深度学习书籍，包含多框架代码、数学和讨论。斯坦福大学、麻省理工学院、哈佛大学和剑桥大学等70个国家的500所大学采用。",
+            "url": "https://github.com/d2l-ai/d2l-en",
+            "name": "d2l-ai /d2l-en",
+            "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+            "stars": "22,424",
+            "forks": "4,183",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "所有算法都在Python中实现",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "182,013",
+            "forks": "43,980",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        }
+    ]
+}
