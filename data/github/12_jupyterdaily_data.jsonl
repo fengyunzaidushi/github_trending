@@ -20952,3 +20952,147 @@
         }
     ]
 }
+{
+    "07月08日": [
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "21,149",
+            "forks": "8,211",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,636",
+            "forks": "469",
+            "language": "Jupyter Notebook",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,068",
+            "forks": "5,427",
+            "language": "Jupyter Notebook",
+            "stars_today": "114 stars today"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "10,946",
+            "forks": "1,337",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,853",
+            "forks": "2,122",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,758",
+            "forks": "84,155",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "使用Gemini API的示例和指南。",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "Examples and guides for using the Gemini API.",
+            "stars": "4,130",
+            "forks": "553",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "一种高质量的动漫视频实时扩充器",
+            "url": "https://github.com/bloc97/Anime4K",
+            "name": "bloc97 /Anime4K",
+            "description": "A High-Quality Real Time Upscaler for Anime Video",
+            "stars": "18,029",
+            "forks": "1,342",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "3,081",
+            "forks": "2,026",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "GPT-提示-工程师",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "8,229",
+            "forks": "578",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,469",
+            "forks": "412",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,734",
+            "forks": "3,321",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Https://datawhalechina.github.io/easy-rl/(🍄：强化学习中文教程(蘑菇书)，在线阅读地址",
+            "url": "https://github.com/datawhalechina/easy-rl",
+            "name": "datawhalechina /easy-rl",
+            "description": "强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+            "stars": "8,639",
+            "forks": "1,757",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "所有课程材料为零到掌握深度学习与TensorFlow课程。",
+            "url": "https://github.com/mrdbourke/tensorflow-deep-learning",
+            "name": "mrdbourke /tensorflow-deep-learning",
+            "description": "All course materials for the Zero to Mastery Deep Learning with TensorFlow course.",
+            "stars": "5,019",
+            "forks": "2,482",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
