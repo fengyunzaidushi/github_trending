@@ -25796,3 +25796,207 @@
         }
     ]
 }
+{
+    "07月09日": [
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "7,726",
+            "forks": "767",
+            "language": "TypeScript",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "393,223",
+            "forks": "36,163",
+            "language": "TypeScript",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "61,532",
+            "forks": "11,746",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Telegram Web K，GPL v3",
+            "url": "https://github.com/morethanwords/tweb",
+            "name": "morethanwords /tweb",
+            "description": "Telegram Web K, GPL v3",
+            "stars": "1,624",
+            "forks": "528",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "63,914",
+            "forks": "3,613",
+            "language": "TypeScript",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "282,121",
+            "forks": "37,591",
+            "language": "TypeScript",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "80,418",
+            "forks": "4,044",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,205",
+            "forks": "24,983",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Next.js商业",
+            "url": "https://github.com/vercel/commerce",
+            "name": "vercel /commerce",
+            "description": "Next.js Commerce",
+            "stars": "10,593",
+            "forks": "3,887",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "一个轻量级的、可定制的Vue用户界面库，用于移动网络应用。",
+            "url": "https://github.com/youzan/vant",
+            "name": "youzan /vant",
+            "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+            "stars": "23,005",
+            "forks": "9,461",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "21,665",
+            "forks": "492",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "53,124",
+            "forks": "4,875",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Microsoft Azure的REST API规范的来源。",
+            "url": "https://github.com/Azure/azure-rest-api-specs",
+            "name": "Azure /azure-rest-api-specs",
+            "description": "The source for REST API specifications for Microsoft Azure.",
+            "stars": "2,509",
+            "forks": "4,937",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "前端低代码框架，通过Json配置就能生成各种页面.",
+            "url": "https://github.com/baidu/amis",
+            "name": "baidu /amis",
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "stars": "16,507",
+            "forks": "2,413",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "由VITE提供支持的下一代测试框架。",
+            "url": "https://github.com/vitest-dev/vitest",
+            "name": "vitest-dev /vitest",
+            "description": "Next generation testing framework powered by Vite.",
+            "stars": "12,230",
+            "forks": "1,075",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "永远不要使用像素化作为密文技术",
+            "url": "https://github.com/BishopFox/unredacter",
+            "name": "BishopFox /unredacter",
+            "description": "Never ever ever use pixelation as a redaction technique",
+            "stars": "7,641",
+            "forks": "704",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "36,795",
+            "forks": "4,988",
+            "language": "TypeScript",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "实时应用框架(Node.js服务器)",
+            "url": "https://github.com/socketio/socket.io",
+            "name": "socketio /socket.io",
+            "description": "Realtime application framework (Node.JS server)",
+            "stars": "60,543",
+            "forks": "10,089",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "15,356",
+            "forks": "4,012",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "构建管理面板、内部工具和仪表板的平台。与25个以上的数据库和任何API集成。",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "name": "appsmithorg /appsmith",
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "stars": "32,357",
+            "forks": "3,496",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        }
+    ]
+}
