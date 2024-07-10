@@ -22990,3 +22990,167 @@
         }
     ]
 }
+{
+    "07月10日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "4,966",
+            "forks": "393",
+            "language": "Python",
+            "stars_today": "2,341 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "37,633",
+            "forks": "7,287",
+            "language": "Python",
+            "stars_today": "2,259 stars this week"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "25,257",
+            "forks": "4,840",
+            "language": "Python",
+            "stars_today": "1,851 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "300,847",
+            "forks": "32,489",
+            "language": "Python",
+            "stars_today": "3,225 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "58,844",
+            "forks": "10,626",
+            "language": "Python",
+            "stars_today": "362 stars this week"
+        },
+        {
+            "zh_des": "交互式深度学习书籍，包含多框架代码、数学和讨论。被来自70个国家的500所大学采用，其中包括斯坦福大学、麻省理工学院、哈佛大学和剑桥大学。",
+            "url": "https://github.com/d2l-ai/d2l-en",
+            "name": "d2l-ai /d2l-en",
+            "description": "Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 500 universities from 70 countries including Stanford, MIT, Harvard, and Cambridge.",
+            "stars": "22,458",
+            "forks": "4,187",
+            "language": "Python",
+            "stars_today": "131 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,769",
+            "forks": "51,699",
+            "language": "Python",
+            "stars_today": "589 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS 2022]用码本查找转换器实现稳健的人脸盲恢复",
+            "url": "https://github.com/sczhou/CodeFormer",
+            "name": "sczhou /CodeFormer",
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "stars": "14,266",
+            "forks": "3,080",
+            "language": "Python",
+            "stars_today": "155 stars this week"
+        },
+        {
+            "zh_des": "SpiderFoot自动执行OSINT，提供威胁情报和绘制攻击面。",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "name": "smicallef /spiderfoot",
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "stars": "12,254",
+            "forks": "2,153",
+            "language": "Python",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "263,707",
+            "forks": "44,716",
+            "language": "Python",
+            "stars_today": "1,167 stars this week"
+        },
+        {
+            "zh_des": "一个开源的PAM工具，可以替代CyberArk。广受欢迎的开源堡垒机.",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "name": "jumpserver /jumpserver",
+            "description": "An open-source PAM tool alternative to CyberArk. 广受欢迎的开源堡垒机。",
+            "stars": "24,577",
+            "forks": "5,271",
+            "language": "Python",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "128,857",
+            "forks": "25,561",
+            "language": "Python",
+            "stars_today": "427 stars this week"
+        },
+        {
+            "zh_des": "瞥一眼你的系统。GNU/Linux、BSD、Mac OS和Windows操作系统的顶级/HTOP替代方案。",
+            "url": "https://github.com/nicolargo/glances",
+            "name": "nicolargo /glances",
+            "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
+            "stars": "25,733",
+            "forks": "1,466",
+            "language": "Python",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "针对Windows操作系统交互的以用户界面为中心的代理。",
+            "url": "https://github.com/microsoft/UFO",
+            "name": "microsoft /UFO",
+            "description": "A UI-Focused Agent for Windows OS Interaction.",
+            "stars": "6,553",
+            "forks": "790",
+            "language": "Python",
+            "stars_today": "245 stars this week"
+        },
+        {
+            "zh_des": "用于高效微调100+LLM的WebUI(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "25,968",
+            "forks": "3,225",
+            "language": "Python",
+            "stars_today": "492 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "17,606",
+            "forks": "6,725",
+            "language": "Python",
+            "stars_today": "87 stars this week"
+        }
+    ]
+}
