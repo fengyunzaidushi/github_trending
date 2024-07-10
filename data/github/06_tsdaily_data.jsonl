@@ -26204,3 +26204,197 @@
         }
     ]
 }
+{
+    "07月10日": [
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "8,055",
+            "forks": "818",
+            "language": "TypeScript",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "36,967",
+            "forks": "5,011",
+            "language": "TypeScript",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "393,417",
+            "forks": "36,176",
+            "language": "TypeScript",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "🚀美观、快速、现代的Reaction UI库。",
+            "url": "https://github.com/nextui-org/nextui",
+            "name": "nextui-org /nextui",
+            "description": "🚀 Beautiful, fast and modern React UI library.",
+            "stars": "20,620",
+            "forks": "1,258",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Reaction Native的动画库重新实现",
+            "url": "https://github.com/software-mansion/react-native-reanimated",
+            "name": "software-mansion /react-native-reanimated",
+            "description": "React Native's Animated library reimplemented",
+            "stars": "8,636",
+            "forks": "1,266",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "带有服务器端排序、筛选和分页的shadcn表组件。",
+            "url": "https://github.com/sadmann7/shadcn-table",
+            "name": "sadmann7 /shadcn-table",
+            "description": "A shadcn table component with server-side sorting, filtering, and pagination.",
+            "stars": "2,119",
+            "forks": "179",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Reaction的声明性路由",
+            "url": "https://github.com/remix-run/react-router",
+            "name": "remix-run /react-router",
+            "description": "Declarative routing for React",
+            "stars": "52,504",
+            "forks": "10,192",
+            "language": "TypeScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "13,054",
+            "forks": "567",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "功能齐全的Reaction组件库",
+            "url": "https://github.com/mantinedev/mantine",
+            "name": "mantinedev /mantine",
+            "description": "A fully featured React components library",
+            "stars": "25,356",
+            "forks": "1,803",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "与您的数据聊天-在CSV、Postgres、MySQL、Snowflake、SQLite上进行AI数据分析和可视化...",
+            "url": "https://github.com/RamiAwar/dataline",
+            "name": "RamiAwar /dataline",
+            "description": "Chat with your data - AI data analysis and visualization on CSV, Postgres, MySQL, Snowflake, SQLite...",
+            "stars": "280",
+            "forks": "16",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "高质量打字文字类型定义的存储库。",
+            "url": "https://github.com/DefinitelyTyped/DefinitelyTyped",
+            "name": "DefinitelyTyped /DefinitelyTyped",
+            "description": "The repository for high quality TypeScript type definitions.",
+            "stars": "47,725",
+            "forks": "29,918",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "这是Vue 2的回购。Vue 3的回购请访问https://github.com/vuejs/core",
+            "url": "https://github.com/vuejs/vue",
+            "name": "vuejs /vue",
+            "description": "This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core",
+            "stars": "207,397",
+            "forks": "33,648",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "60,579",
+            "forks": "13,092",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Sudo-flix的源代码(据称)",
+            "url": "https://github.com/sussy-code/smov",
+            "name": "sussy-code /smov",
+            "description": "Sudo-flix's source code (Allegedly)",
+            "stars": "347",
+            "forks": "266",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "64,015",
+            "forks": "3,619",
+            "language": "TypeScript",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "JupyterLab计算环境。",
+            "url": "https://github.com/jupyterlab/jupyterlab",
+            "name": "jupyterlab /jupyterlab",
+            "description": "JupyterLab computational environment.",
+            "stars": "13,955",
+            "forks": "3,219",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "31,084",
+            "forks": "4,918",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "另一种编写Vue组件的风格。",
+            "url": "https://github.com/vue-vine/vue-vine",
+            "name": "vue-vine /vue-vine",
+            "description": "Another style of writing Vue components.",
+            "stars": "970",
+            "forks": "51",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "27,061",
+            "forks": "5,660",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        }
+    ]
+}
