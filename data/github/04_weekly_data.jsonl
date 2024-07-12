@@ -23666,3 +23666,187 @@
         }
     ]
 }
+{
+    "07月12日": [
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "9,812",
+            "forks": "764",
+            "language": "Python",
+            "stars_today": "6,239 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "5,200",
+            "forks": "411",
+            "language": "Python",
+            "stars_today": "1,440 stars this week"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "878",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "568 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "301,605",
+            "forks": "32,550",
+            "language": "Python",
+            "stars_today": "4,163 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "58,997",
+            "forks": "10,640",
+            "language": "Python",
+            "stars_today": "436 stars this week"
+        },
+        {
+            "zh_des": "数字化身对话系统-Linly-Talker。😄✨LINLY-TALKER是一个智能人工智能系统，它将大型语言模型(LLM)与视觉模型相结合，创建了一种新颖的人-AI交互方法。🤝🤖它集成了各种技术，如Whisper、Linly、微软语音服务和SadTalker Talk Head生成系统。🌟🔬",
+            "url": "https://github.com/Kedreamix/Linly-Talker",
+            "name": "Kedreamix /Linly-Talker",
+            "description": "Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬",
+            "stars": "1,365",
+            "forks": "235",
+            "language": "Python",
+            "stars_today": "142 stars this week"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "37,804",
+            "forks": "7,309",
+            "language": "Python",
+            "stars_today": "973 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "129,161",
+            "forks": "25,611",
+            "language": "Python",
+            "stars_today": "619 stars this week"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "25,359",
+            "forks": "4,836",
+            "language": "Python",
+            "stars_today": "613 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "264,013",
+            "forks": "44,756",
+            "language": "Python",
+            "stars_today": "1,347 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,834",
+            "forks": "51,718",
+            "language": "Python",
+            "stars_today": "492 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS 2022]用码本查找转换器实现稳健的人脸盲恢复",
+            "url": "https://github.com/sczhou/CodeFormer",
+            "name": "sczhou /CodeFormer",
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "stars": "14,314",
+            "forks": "3,086",
+            "language": "Python",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "22,789",
+            "forks": "3,216",
+            "language": "Python",
+            "stars_today": "596 stars this week"
+        },
+        {
+            "zh_des": "一个开源的PAM工具，可以替代CyberArk。广受欢迎的开源堡垒机.",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "name": "jumpserver /jumpserver",
+            "description": "An open-source PAM tool alternative to CyberArk. 广受欢迎的开源堡垒机。",
+            "stars": "24,593",
+            "forks": "5,271",
+            "language": "Python",
+            "stars_today": "296 stars this week"
+        },
+        {
+            "zh_des": "SpiderFoot自动执行OSINT，提供威胁情报和绘制攻击面。",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "name": "smicallef /spiderfoot",
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "stars": "12,272",
+            "forks": "2,156",
+            "language": "Python",
+            "stars_today": "99 stars this week"
+        },
+        {
+            "zh_des": "瞥一眼你的系统。GNU/Linux、BSD、Mac OS和Windows操作系统的顶级/HTOP替代方案。",
+            "url": "https://github.com/nicolargo/glances",
+            "name": "nicolargo /glances",
+            "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
+            "stars": "25,757",
+            "forks": "1,468",
+            "language": "Python",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "17,636",
+            "forks": "6,744",
+            "language": "Python",
+            "stars_today": "98 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "69,898",
+            "forks": "28,991",
+            "language": "Python",
+            "stars_today": "176 stars this week"
+        }
+    ]
+}
