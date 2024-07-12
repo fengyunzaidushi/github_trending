@@ -23850,3 +23850,187 @@
         }
     ]
 }
+{
+    "07月12日": [
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "9,974",
+            "forks": "775",
+            "language": "Python",
+            "stars_today": "6,239 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "5,251",
+            "forks": "414",
+            "language": "Python",
+            "stars_today": "1,440 stars this week"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "893",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "568 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "301,708",
+            "forks": "32,565",
+            "language": "Python",
+            "stars_today": "4,163 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "5,379",
+            "forks": "556",
+            "language": "Python",
+            "stars_today": "358 stars this week"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "59,026",
+            "forks": "10,643",
+            "language": "Python",
+            "stars_today": "436 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "129,185",
+            "forks": "25,614",
+            "language": "Python",
+            "stars_today": "619 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,862",
+            "forks": "51,728",
+            "language": "Python",
+            "stars_today": "492 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "264,080",
+            "forks": "44,768",
+            "language": "Python",
+            "stars_today": "1,347 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "22,815",
+            "forks": "3,226",
+            "language": "Python",
+            "stars_today": "596 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "11,885",
+            "forks": "1,141",
+            "language": "Python",
+            "stars_today": "856 stars this week"
+        },
+        {
+            "zh_des": "一个开源的PAM工具，可以替代CyberArk。广受欢迎的开源堡垒机.",
+            "url": "https://github.com/jumpserver/jumpserver",
+            "name": "jumpserver /jumpserver",
+            "description": "An open-source PAM tool alternative to CyberArk. 广受欢迎的开源堡垒机。",
+            "stars": "24,599",
+            "forks": "5,271",
+            "language": "Python",
+            "stars_today": "296 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "64,480",
+            "forks": "7,516",
+            "language": "Python",
+            "stars_today": "405 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "17,646",
+            "forks": "6,747",
+            "language": "Python",
+            "stars_today": "98 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "135,868",
+            "forks": "25,927",
+            "language": "Python",
+            "stars_today": "650 stars this week"
+        },
+        {
+            "zh_des": "Tau Robotics的低成本机械臂加入这里的等待名单，将所有部件打包在一起：https://tau-robotics",
+            "url": "https://github.com/AlexanderKoch-Koch/low_cost_robot",
+            "name": "AlexanderKoch-Koch /low_cost_robot",
+            "description": "Low-Cost Robot Arm by Tau RoboticsJoin the waitlist here to get all the parts in one package: https://tau-robotics",
+            "stars": "2,776",
+            "forks": "217",
+            "language": "Python",
+            "stars_today": "107 stars this week"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "9,630",
+            "forks": "702",
+            "language": "Python",
+            "stars_today": "523 stars this week"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "5,560",
+            "forks": "10,079",
+            "language": "Python",
+            "stars_today": "75 stars this week"
+        }
+    ]
+}
