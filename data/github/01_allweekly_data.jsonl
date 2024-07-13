@@ -24996,3 +24996,177 @@
         }
     ]
 }
+{
+    "07月13日": [
+        {
+            "zh_des": "基于模块化图的检索增强生成（RAG）系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "10,178",
+            "forks": "797",
+            "language": "Python",
+            "stars_today": "5,249 stars this week"
+        },
+        {
+            "zh_des": "一个由法学硕士驱动的知识策展系统，研究主题并生成包含引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "5,710",
+            "forks": "590",
+            "language": "Python",
+            "stars_today": "454 stars this week"
+        },
+        {
+            "zh_des": "免费API的集体列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "301,837",
+            "forks": "32,569",
+            "language": "Python",
+            "stars_today": "3,965 stars this week"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "328,141",
+            "forks": "60,690",
+            "language": "",
+            "stars_today": "1,835 stars this week"
+        },
+        {
+            "zh_des": "在Azure中单击部署基于知识图谱的RAG（GraphRAG）",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "931",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "417 stars this week"
+        },
+        {
+            "zh_des": "freeCodeCamp.org的开源代码库和课程。免费学习编码。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "393,861",
+            "forks": "36,209",
+            "language": "TypeScript",
+            "stars_today": "1,292 stars this week"
+        },
+        {
+            "zh_des": "20多个高性能LLM，提供预培训、微调和大规模部署的食谱。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "8,559",
+            "forks": "874",
+            "language": "Python",
+            "stars_today": "399 stars this week"
+        },
+        {
+            "zh_des": "全新的TTC解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "5,355",
+            "forks": "420",
+            "language": "Python",
+            "stars_today": "1,128 stars this week"
+        },
+        {
+            "zh_des": "乐观主义是以太坊，规模庞大。",
+            "url": "https://github.com/ethereum-optimism/optimism",
+            "name": "ethereum-optimism /optimism",
+            "description": "Optimism is Ethereum, scaled.",
+            "stars": "5,437",
+            "forks": "3,046",
+            "language": "Go",
+            "stars_today": "186 stars this week"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源和可自托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "21,307",
+            "forks": "1,341",
+            "language": "JavaScript",
+            "stars_today": "358 stars this week"
+        },
+        {
+            "zh_des": "适用于Android的自由轻量级流媒体前端。",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "name": "TeamNewPipe /NewPipe",
+            "description": "A libre lightweight streaming front-end for Android.",
+            "stars": "29,925",
+            "forks": "2,964",
+            "language": "Java",
+            "stars_today": "398 stars this week"
+        },
+        {
+            "zh_des": "JavaScript样式指南",
+            "url": "https://github.com/airbnb/javascript",
+            "name": "airbnb /javascript",
+            "description": "JavaScript Style Guide",
+            "stars": "143,242",
+            "forks": "26,325",
+            "language": "JavaScript",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "59,095",
+            "forks": "10,647",
+            "language": "Python",
+            "stars_today": "491 stars this week"
+        },
+        {
+            "zh_des": "适用于Windows、macOS和Linux的私人Messenger。",
+            "url": "https://github.com/signalapp/Signal-Desktop",
+            "name": "signalapp /Signal-Desktop",
+            "description": "A private messenger for Windows, macOS, and Linux.",
+            "stars": "14,253",
+            "forks": "2,590",
+            "language": "TypeScript",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "在Rust中构建的令人耳目一新的简单数据驱动游戏引擎",
+            "url": "https://github.com/bevyengine/bevy",
+            "name": "bevyengine /bevy",
+            "description": "A refreshingly simple data-driven game engine built in Rust",
+            "stars": "34,075",
+            "forks": "3,318",
+            "language": "Rust",
+            "stars_today": "544 stars this week"
+        },
+        {
+            "zh_des": "arta关于各种有趣主题的精彩列表",
+            "url": "https://github.com/sindresorhus/awesome",
+            "name": "sindresorhus /awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "stars": "310,917",
+            "forks": "27,060",
+            "language": "",
+            "stars_today": "1,144 stars this week"
+        },
+        {
+            "zh_des": "A visual no-code/code-free web Crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/蠕虫软件，可以以无代码图形化的设计和执行蠕虫任务。名称：ServicWrapper面向Web应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "30,097",
+            "forks": "3,551",
+            "language": "JavaScript",
+            "stars_today": "983 stars this week"
+        }
+    ]
+}

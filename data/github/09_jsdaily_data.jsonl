@@ -23090,3 +23090,167 @@
         }
     ]
 }
+{
+    "07月13日": [
+        {
+            "zh_des": "由WebRTC支持的轻松P2P文件传输-灵感来自Apple AirDrop",
+            "url": "https://github.com/szimek/sharedrop",
+            "name": "szimek /sharedrop",
+            "description": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop",
+            "stars": "9,052",
+            "forks": "667",
+            "language": "JavaScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "</>htmx-强大的超文本标记语言工具",
+            "url": "https://github.com/bigskysoftware/htmx",
+            "name": "bigskysoftware /htmx",
+            "description": "</> htmx - high power tools for HTML",
+            "stars": "35,415",
+            "forks": "1,187",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "28,232",
+            "forks": "3,433",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "ZED编辑器的扩展",
+            "url": "https://github.com/zed-industries/extensions",
+            "name": "zed-industries /extensions",
+            "description": "Extensions for the Zed editor",
+            "stars": "599",
+            "forks": "239",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "20,868",
+            "forks": "3,060",
+            "language": "JavaScript",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "22,035",
+            "forks": "1,035",
+            "language": "JavaScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "52,669",
+            "forks": "4,744",
+            "language": "JavaScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "185,305",
+            "forks": "29,909",
+            "language": "JavaScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "16,316",
+            "forks": "3,765",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "一种移动应用的灰盒端到端测试及自动化框架",
+            "url": "https://github.com/wix/Detox",
+            "name": "wix /Detox",
+            "description": "Gray box end-to-end testing and automation framework for mobile apps",
+            "stars": "11,060",
+            "forks": "1,906",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Quasar框架-在创纪录的时间内构建高性能的VueJS用户界面",
+            "url": "https://github.com/quasarframework/quasar",
+            "name": "quasarframework /quasar",
+            "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+            "stars": "25,530",
+            "forks": "3,453",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "本文原文由知名黑客埃里克·S·雷蒙德所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+            "name": "ryanhanwu /How-To-Ask-Questions-The-Smart-Way",
+            "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "stars": "29,937",
+            "forks": "5,588",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "以类似于标记的方式从文本生成流程图或序列图之类的图",
+            "url": "https://github.com/mermaid-js/mermaid",
+            "name": "mermaid-js /mermaid",
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "stars": "68,928",
+            "forks": "6,100",
+            "language": "JavaScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "标志性的SVG、字体和CSS工具包",
+            "url": "https://github.com/FortAwesome/Font-Awesome",
+            "name": "FortAwesome /Font-Awesome",
+            "description": "The iconic SVG, font, and CSS toolkit",
+            "stars": "73,344",
+            "forks": "12,188",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "123,130",
+            "forks": "26,296",
+            "language": "JavaScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "基于Reaction的最佳框架，具有内置的性能、可扩展性和安全性。",
+            "url": "https://github.com/gatsbyjs/gatsby",
+            "name": "gatsbyjs /gatsby",
+            "description": "The best React-based framework with performance, scalability and security built in.",
+            "stars": "55,139",
+            "forks": "10,326",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
