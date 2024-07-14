@@ -20068,3 +20068,157 @@
         }
     ]
 }
+{
+    "07月14日": [
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,221",
+            "forks": "5,462",
+            "language": "Jupyter Notebook",
+            "stars_today": "397 stars this week"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,684",
+            "forks": "14,971",
+            "language": "Jupyter Notebook",
+            "stars_today": "55 stars this week"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "648",
+            "forks": "126",
+            "language": "Jupyter Notebook",
+            "stars_today": "225 stars this week"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,143",
+            "forks": "17,720",
+            "language": "Jupyter Notebook",
+            "stars_today": "172 stars this week"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,201",
+            "forks": "5,610",
+            "language": "Jupyter Notebook",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,734",
+            "forks": "483",
+            "language": "Jupyter Notebook",
+            "stars_today": "225 stars this week"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "20,746",
+            "forks": "11,531",
+            "language": "Jupyter Notebook",
+            "stars_today": "54 stars this week"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "8,562",
+            "forks": "1,343",
+            "language": "Jupyter Notebook",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,535",
+            "forks": "416",
+            "language": "Jupyter Notebook",
+            "stars_today": "84 stars this week"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "5,523",
+            "forks": "727",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,960",
+            "forks": "1,550",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "10,596",
+            "forks": "1,267",
+            "language": "Jupyter Notebook",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,835",
+            "forks": "308",
+            "language": "Jupyter Notebook",
+            "stars_today": "47 stars this week"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,789",
+            "forks": "84,235",
+            "language": "Jupyter Notebook",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "16,147",
+            "forks": "4,108",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars this week"
+        }
+    ]
+}
