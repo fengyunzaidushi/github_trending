@@ -24474,3 +24474,227 @@
         }
     ]
 }
+{
+    "07月14日": [
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "393,892",
+            "forks": "36,212",
+            "language": "TypeScript",
+            "stars_today": "1,223 stars this week"
+        },
+        {
+            "zh_des": "Windows、MacOS和Linux的私人信使。",
+            "url": "https://github.com/signalapp/Signal-Desktop",
+            "name": "signalapp /Signal-Desktop",
+            "description": "A private messenger for Windows, macOS, and Linux.",
+            "stars": "14,261",
+            "forks": "2,590",
+            "language": "TypeScript",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "25,107",
+            "forks": "2,136",
+            "language": "TypeScript",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "282,692",
+            "forks": "37,632",
+            "language": "TypeScript",
+            "stars_today": "1,151 stars this week"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "61,517",
+            "forks": "4,268",
+            "language": "TypeScript",
+            "stars_today": "247 stars this week"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "64,296",
+            "forks": "3,645",
+            "language": "TypeScript",
+            "stars_today": "1,169 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "8,306",
+            "forks": "843",
+            "language": "TypeScript",
+            "stars_today": "901 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "37,500",
+            "forks": "5,074",
+            "language": "TypeScript",
+            "stars_today": "1,060 stars this week"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "11,377",
+            "forks": "3,783",
+            "language": "TypeScript",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "Eclipse Theia是一个用TypeScrip实现的云和桌面IDE框架。",
+            "url": "https://github.com/eclipse-theia/theia",
+            "name": "eclipse-theia /theia",
+            "description": "Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.",
+            "stars": "19,528",
+            "forks": "2,460",
+            "language": "TypeScript",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "使用行业领先的机器学习数据引擎CVAT更好地进行标注。被任何规模的团队使用和信任，用于任何规模的数据。",
+            "url": "https://github.com/cvat-ai/cvat",
+            "name": "cvat-ai /cvat",
+            "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+            "stars": "11,859",
+            "forks": "2,896",
+            "language": "TypeScript",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "39,481",
+            "forks": "10,119",
+            "language": "TypeScript",
+            "stars_today": "202 stars this week"
+        },
+        {
+            "zh_des": "循序渐进地学习打字稿",
+            "url": "https://github.com/panaverse/learn-typescript",
+            "name": "panaverse /learn-typescript",
+            "description": "Learning TypeScript in Baby Steps",
+            "stars": "1,196",
+            "forks": "532",
+            "language": "TypeScript",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "Telegram Web K，GPL v3",
+            "url": "https://github.com/morethanwords/tweb",
+            "name": "morethanwords /tweb",
+            "description": "Telegram Web K, GPL v3",
+            "stars": "1,634",
+            "forks": "536",
+            "language": "TypeScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "用于构建内部工具、管理面板、仪表板和B2B应用程序的Reaction框架，具有无与伦比的灵活性。",
+            "url": "https://github.com/refinedev/refine",
+            "name": "refinedev /refine",
+            "description": "A React Framework for building internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.",
+            "stars": "26,233",
+            "forks": "1,992",
+            "language": "TypeScript",
+            "stars_today": "236 stars this week"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "91,154",
+            "forks": "47,666",
+            "language": "TypeScript",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "13,145",
+            "forks": "568",
+            "language": "TypeScript",
+            "stars_today": "171 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "13,378",
+            "forks": "936",
+            "language": "TypeScript",
+            "stars_today": "219 stars this week"
+        },
+        {
+            "zh_des": "在几分钟内构建对话式人工智能⚡️",
+            "url": "https://github.com/Chainlit/chainlit",
+            "name": "Chainlit /chainlit",
+            "description": "Build Conversational AI in minutes ⚡️",
+            "stars": "6,173",
+            "forks": "788",
+            "language": "TypeScript",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "114,124",
+            "forks": "14,328",
+            "language": "TypeScript",
+            "stars_today": "278 stars this week"
+        },
+        {
+            "zh_des": "构建现代后端+管理用户界面的最佳方式。没有黑魔法，全是打字，完全开源，PayLoad既是一个应用程序框架，也是一个无头的CMS。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.",
+            "stars": "21,431",
+            "forks": "1,290",
+            "language": "TypeScript",
+            "stars_today": "256 stars this week"
+        },
+        {
+            "zh_des": "基于LlamaIndex、PgVector、Reaction和Django的海量文档分析平台。",
+            "url": "https://github.com/JSv4/OpenContracts",
+            "name": "JSv4 /OpenContracts",
+            "description": "Mass document analytics platform based on LlamaIndex, Pgvector, React and Django.",
+            "stars": "566",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "255 stars this week"
+        }
+    ]
+}

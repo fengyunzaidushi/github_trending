@@ -24712,3 +24712,147 @@
         }
     ]
 }
+{
+    "07月14日": [
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "81,969",
+            "forks": "10,420",
+            "language": "Java",
+            "stars_today": "597 stars today"
+        },
+        {
+            "zh_des": "自托管AI编码助手",
+            "url": "https://github.com/TabbyML/tabby",
+            "name": "TabbyML /tabby",
+            "description": "Self-hosted AI coding assistant",
+            "stars": "18,868",
+            "forks": "840",
+            "language": "Rust",
+            "stars_today": "256 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "77,608",
+            "forks": "7,806",
+            "language": "Shell",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于构建可靠的爬行器。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、剧作家和原始HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee-python",
+            "name": "apify /crawlee-python",
+            "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "1,536",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "由WebRTC支持的轻松P2P文件传输-灵感来自Apple AirDrop",
+            "url": "https://github.com/szimek/sharedrop",
+            "name": "szimek /sharedrop",
+            "description": "Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop",
+            "stars": "9,149",
+            "forks": "672",
+            "language": "JavaScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "164,150",
+            "forks": "43,598",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "GRPC的GO语言实现。基于HTTP/2的RPC",
+            "url": "https://github.com/grpc/grpc-go",
+            "name": "grpc /grpc-go",
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+            "stars": "20,523",
+            "forks": "4,290",
+            "language": "Go",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "286,184",
+            "forks": "26,891",
+            "language": "",
+            "stars_today": "492 stars today"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "40,792",
+            "forks": "7,511",
+            "language": "Python",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "Sui，具有高吞吐量、低延迟的下一代智能合同平台，以及基于Move编程语言的面向资产的编程模型",
+            "url": "https://github.com/MystenLabs/sui",
+            "name": "MystenLabs /sui",
+            "description": "Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+            "stars": "5,901",
+            "forks": "11,076",
+            "language": "Rust",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "默认情况下，🛡️使您的Web服务安全！",
+            "url": "https://github.com/bunkerity/bunkerweb",
+            "name": "bunkerity /bunkerweb",
+            "description": "🛡️ Make your web services secure by default !",
+            "stars": "4,653",
+            "forks": "276",
+            "language": "Python",
+            "stars_today": "322 stars today"
+        },
+        {
+            "zh_des": "简单、原始C/CUDA的LLM培训",
+            "url": "https://github.com/karpathy/llm.c",
+            "name": "karpathy /llm.c",
+            "description": "LLM training in simple, raw C/CUDA",
+            "stars": "21,798",
+            "forks": "2,373",
+            "language": "Cuda",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "OpenVINO™是一个用于优化和部署人工智能推理的开源工具包",
+            "url": "https://github.com/openvinotoolkit/openvino",
+            "name": "openvinotoolkit /openvino",
+            "description": "OpenVINO™ is an open-source toolkit for optimizing and deploying AI inference",
+            "stars": "6,461",
+            "forks": "2,100",
+            "language": "C++",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Ffltter使您可以轻松、快速地为移动设备和其他设备构建漂亮的应用程序",
+            "url": "https://github.com/flutter/flutter",
+            "name": "flutter /flutter",
+            "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+            "stars": "163,512",
+            "forks": "26,897",
+            "language": "Dart",
+            "stars_today": "31 stars today"
+        }
+    ]
+}

@@ -22434,3 +22434,187 @@
         }
     ]
 }
+{
+    "07月14日": [
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,126",
+            "forks": "17,720",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,186",
+            "forks": "5,605",
+            "language": "Jupyter Notebook",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "20,742",
+            "forks": "11,531",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "620",
+            "forks": "119",
+            "language": "Jupyter Notebook",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,957",
+            "forks": "1,549",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,394",
+            "forks": "2,896",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "用博弈论的方法来解释任何机器学习模型的输出。",
+            "url": "https://github.com/shap/shap",
+            "name": "shap /shap",
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "stars": "22,145",
+            "forks": "3,218",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "10,466",
+            "forks": "1,492",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "使用PyTorch和Scikit实现机器学习的代码库-学习",
+            "url": "https://github.com/rasbt/machine-learning-book",
+            "name": "rasbt /machine-learning-book",
+            "description": "Code Repository for Machine Learning with PyTorch and Scikit-Learn",
+            "stars": "3,105",
+            "forks": "1,131",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "代理人工智能的编程框架。不和谐：https://aka.ms/autogen-dc.路线图：https://aka.ms/autogen-roadmap",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI. Discord:https://aka.ms/autogen-dc. Roadmap:https://aka.ms/autogen-roadmap",
+            "stars": "28,391",
+            "forks": "4,154",
+            "language": "Jupyter Notebook",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "具有接触的多关节动力学。一种通用的物理模拟器。",
+            "url": "https://github.com/google-deepmind/mujoco",
+            "name": "google-deepmind /mujoco",
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+            "stars": "7,543",
+            "forks": "746",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "火炬手册是一本开源的书籍，目标是帮助那些希望和使用火炬进行深度学习开发和研究的朋友快速入门，其中包含的火炬教程全部通过测试保证可以成功运行",
+            "url": "https://github.com/zergtant/pytorch-handbook",
+            "name": "zergtant /pytorch-handbook",
+            "description": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+            "stars": "19,861",
+            "forks": "5,378",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "图像提示适配器被设计为使预先训练的文本到图像扩散模型能够生成具有图像提示的图像。",
+            "url": "https://github.com/tencent-ailab/IP-Adapter",
+            "name": "tencent-ailab /IP-Adapter",
+            "description": "The image prompt adapter is designed to enable a pretrained text-to-image diffusion model to generate images with image prompt.",
+            "stars": "4,580",
+            "forks": "300",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用低阶自适应来快速微调扩散模型。",
+            "url": "https://github.com/cloneofsimo/lora",
+            "name": "cloneofsimo /lora",
+            "description": "Using Low-rank adaptation to quickly fine-tune diffusion models.",
+            "stars": "6,804",
+            "forks": "473",
+            "language": "Jupyter Notebook",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "单幅图像的度量深度估计",
+            "url": "https://github.com/isl-org/ZoeDepth",
+            "name": "isl-org /ZoeDepth",
+            "description": "Metric depth estimation from a single image",
+            "stars": "2,113",
+            "forks": "197",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Jupyter的流行机器学习算法的🤖示例，并解释了交互式Jupyter演示和数学",
+            "url": "https://github.com/trekhleb/homemade-machine-learning",
+            "name": "trekhleb /homemade-machine-learning",
+            "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+            "stars": "22,806",
+            "forks": "4,037",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于开发Vision Transformer、SigLIP、MLP-Mixer、Lit等的官方代码库。",
+            "url": "https://github.com/google-research/big_vision",
+            "name": "google-research /big_vision",
+            "description": "Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.",
+            "stars": "2,021",
+            "forks": "139",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "驯服变压器以实现高分辨率图像合成",
+            "url": "https://github.com/CompVis/taming-transformers",
+            "name": "CompVis /taming-transformers",
+            "description": "Taming Transformers for High-Resolution Image Synthesis",
+            "stars": "5,564",
+            "forks": "1,109",
+            "language": "Jupyter Notebook",
+            "stars_today": "1 star today"
+        }
+    ]
+}

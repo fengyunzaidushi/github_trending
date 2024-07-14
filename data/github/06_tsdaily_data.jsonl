@@ -27492,3 +27492,207 @@
         }
     ]
 }
+{
+    "07月14日": [
+        {
+            "zh_des": "前端低代码框架，通过Json配置就能生成各种页面.",
+            "url": "https://github.com/baidu/amis",
+            "name": "baidu /amis",
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "stars": "16,572",
+            "forks": "2,419",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🐉Vue组件框架",
+            "url": "https://github.com/vuetifyjs/vuetify",
+            "name": "vuetifyjs /vuetify",
+            "description": "🐉 Vue Component Framework",
+            "stars": "39,367",
+            "forks": "6,935",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "25,107",
+            "forks": "2,136",
+            "language": "TypeScript",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "11,122",
+            "forks": "1,213",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "39,481",
+            "forks": "10,119",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "43,805",
+            "forks": "3,045",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "11,377",
+            "forks": "3,783",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的JAVASCRIPT/TYPESCRIPT，完全可定制，开发者优先。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+            "stars": "61,779",
+            "forks": "7,721",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "📱🚀🧩跨设备和高性能标准表单/动态(JSON架构)表单/表单生成器--支持REACT/REACT本机/VUE 2/VUE 3",
+            "url": "https://github.com/alibaba/formily",
+            "name": "alibaba /formily",
+            "description": "📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3",
+            "stars": "11,032",
+            "forks": "1,430",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "只需编写一次组件，就可以随处运行。编译为Reaction、Vue、Qwik、Solid、Angular、Svelte等。",
+            "url": "https://github.com/BuilderIO/mitosis",
+            "name": "BuilderIO /mitosis",
+            "description": "Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.",
+            "stars": "11,950",
+            "forks": "522",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "20,723",
+            "forks": "3,900",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "基于LlamaIndex、PgVector、Reaction和Django的海量文档分析平台。",
+            "url": "https://github.com/JSv4/OpenContracts",
+            "name": "JSv4 /OpenContracts",
+            "description": "Mass document analytics platform based on LlamaIndex, Pgvector, React and Django.",
+            "stars": "566",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "21,300",
+            "forks": "1,445",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "27,101",
+            "forks": "5,664",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Airtable APITable，这是一个面向🚀🎉📚的低代码平台，用于构建协作应用程序，比所有其他Airtable开源替代方案都要好。",
+            "url": "https://github.com/apitable/apitable",
+            "name": "apitable /apitable",
+            "description": "🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.",
+            "stars": "12,603",
+            "forks": "1,082",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用于数据获取的Reaction钩子",
+            "url": "https://github.com/vercel/swr",
+            "name": "vercel /swr",
+            "description": "React Hooks for Data Fetching",
+            "stars": "29,906",
+            "forks": "1,197",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "393,892",
+            "forks": "36,212",
+            "language": "TypeScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "用于TypeScrip和JavaScript的ORM。支持MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP HANA、WebSQL数据库。适用于NodeJS、Browser、Ionic、Cordova和Electron平台。",
+            "url": "https://github.com/typeorm/typeorm",
+            "name": "typeorm /typeorm",
+            "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+            "stars": "33,723",
+            "forks": "6,237",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Farcaster Hub规范的实现和在Farcaster上构建应用程序的支持库",
+            "url": "https://github.com/farcasterxyz/hub-monorepo",
+            "name": "farcasterxyz /hub-monorepo",
+            "description": "Implementation of the Farcaster Hub specification and supporting libraries for building applications on Farcaster",
+            "stars": "671",
+            "forks": "363",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "JITSI Meet-安全、简单且可扩展的视频会议，您可以将其用作独立应用程序或嵌入您的Web应用程序中。",
+            "url": "https://github.com/jitsi/jitsi-meet",
+            "name": "jitsi /jitsi-meet",
+            "description": "Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.",
+            "stars": "22,119",
+            "forks": "6,582",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
