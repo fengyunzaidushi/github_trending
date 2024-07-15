@@ -20850,3 +20850,137 @@
         }
     ]
 }
+{
+    "07月15日": [
+        {
+            "zh_des": "18个课程，开始使用生成式人工智能收件箱构建https：microsoft.github.io/generative-ai-for-beginners/",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "56,491",
+            "forks": "28,984",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,128 stars this month"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,429",
+            "forks": "813",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,430 stars this month"
+        },
+        {
+            "zh_des": "一个小型的标量值自动分级引擎和一个位于其之上的神经网络库，具有类似PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,477",
+            "forks": "1,319",
+            "language": "Jupyter Notebook",
+            "stars_today": "792 stars this month"
+        },
+        {
+            "zh_des": "本项目是一个面向小白开发者的大模型应用开发教程，datawhalechina.github.io/llm-universe/",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,751",
+            "forks": "485",
+            "language": "Jupyter Notebook",
+            "stars_today": "581 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,017",
+            "forks": "1,352",
+            "language": "Jupyter Notebook",
+            "stars_today": "319 stars this month"
+        },
+        {
+            "zh_des": "学习PyTorch深度学习：从零到掌握课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,402",
+            "forks": "2,800",
+            "language": "Jupyter Notebook",
+            "stars_today": "841 stars this month"
+        },
+        {
+            "zh_des": "使用LLM从非结构化数据构建Neo 4 j图",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "766",
+            "forks": "137",
+            "language": "Jupyter Notebook",
+            "stars_today": "419 stars this month"
+        },
+        {
+            "zh_des": "西北风食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "954",
+            "forks": "179",
+            "language": "Jupyter Notebook",
+            "stars_today": "261 stars this month"
+        },
+        {
+            "zh_des": "《开源大模型食用指南》基于Linux环境快速部门开源大模型，更适合中国国家安全部门教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,430",
+            "forks": "782",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,143 stars this month"
+        },
+        {
+            "zh_des": "强化学习中文课程datawhalechina.github.io/easy-rl/🍄",
+            "url": "https://github.com/datawhalechina/easy-rl",
+            "name": "datawhalechina /easy-rl",
+            "description": "强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/",
+            "stars": "8,677",
+            "forks": "1,764",
+            "language": "Jupyter Notebook",
+            "stars_today": "234 stars this month"
+        },
+        {
+            "zh_des": "一系列Deliveryter笔记本，使用Scikit-Learn、Keras和TensorFlow 2，带您了解Python中机器学习和深度学习的基础知识。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,788",
+            "forks": "2,758",
+            "language": "Jupyter Notebook",
+            "stars_today": "291 stars this month"
+        },
+        {
+            "zh_des": "将人工智能纸张转换为图形用户界面，让每个人都可以轻松、方便地使用人工智能技术。让每个人都简单方便的使用前沿人工智能技术",
+            "url": "https://github.com/Baiyuetribe/paper2gui",
+            "name": "Baiyuetribe /paper2gui",
+            "description": "Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术",
+            "stars": "10,033",
+            "forks": "831",
+            "language": "Jupyter Notebook",
+            "stars_today": "377 stars this month"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,967",
+            "forks": "1,553",
+            "language": "Jupyter Notebook",
+            "stars_today": "139 stars this month"
+        }
+    ]
+}
