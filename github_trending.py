@@ -128,7 +128,7 @@ async def fetch_trending_repositories(url):
 
                 # 提取描述
                 description_tag = repo.select_one('p.col-9.color-fg-muted.my-1.pr-4')
-                description = description_tag.get_text(strip=True) if description_tag else ''
+                description = description_tag.get_text(strip=True) if description_tag else 'no description'
                 description=description.strip()
                 if not description:
                     description = await get_first_paragraph_of_readme_async(repo_url)
@@ -150,7 +150,7 @@ async def fetch_trending_repositories(url):
                 data.append({
                     'name': name,
                     'url': repo_url,
-                    'description': description,
+                    'description': description if description else "no description",
                     'stars': stars,
                     'forks': forks,
                     'language': language,
