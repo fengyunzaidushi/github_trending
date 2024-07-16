@@ -20376,3 +20376,157 @@
         }
     ]
 }
+{
+    "07月16日": [
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,230",
+            "forks": "5,617",
+            "language": "Jupyter Notebook",
+            "stars_today": "201 stars this week"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,260",
+            "forks": "5,470",
+            "language": "Jupyter Notebook",
+            "stars_today": "191 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,637",
+            "forks": "423",
+            "language": "Jupyter Notebook",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "875",
+            "forks": "145",
+            "language": "Jupyter Notebook",
+            "stars_today": "398 stars this week"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,183",
+            "forks": "17,721",
+            "language": "Jupyter Notebook",
+            "stars_today": "212 stars this week"
+        },
+        {
+            "zh_des": "这个存储库包含我使用HuggingFace的Transformers库制作的演示。",
+            "url": "https://github.com/NielsRogge/Transformers-Tutorials",
+            "name": "NielsRogge /Transformers-Tutorials",
+            "description": "This repository contains demos I made with the Transformers library by HuggingFace.",
+            "stars": "8,572",
+            "forks": "1,345",
+            "language": "Jupyter Notebook",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "具有接触的多关节动力学。一种通用的物理模拟器。",
+            "url": "https://github.com/google-deepmind/mujoco",
+            "name": "google-deepmind /mujoco",
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+            "stars": "7,553",
+            "forks": "747",
+            "language": "Jupyter Notebook",
+            "stars_today": "34 stars this week"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,690",
+            "forks": "14,976",
+            "language": "Jupyter Notebook",
+            "stars_today": "44 stars this week"
+        },
+        {
+            "zh_des": "学习OpenCV：C++和Python示例",
+            "url": "https://github.com/spmallick/learnopencv",
+            "name": "spmallick /learnopencv",
+            "description": "Learn OpenCV : C++ and Python Examples",
+            "stars": "20,754",
+            "forks": "11,532",
+            "language": "Jupyter Notebook",
+            "stars_today": "58 stars this week"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "5,534",
+            "forks": "728",
+            "language": "Jupyter Notebook",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "16,152",
+            "forks": "4,111",
+            "language": "Jupyter Notebook",
+            "stars_today": "43 stars this week"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "3,969",
+            "forks": "1,554",
+            "language": "Jupyter Notebook",
+            "stars_today": "43 stars this week"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,837",
+            "forks": "310",
+            "language": "Jupyter Notebook",
+            "stars_today": "38 stars this week"
+        },
+        {
+            "zh_des": "来自DataTalks.Club的免费MLOPS课程",
+            "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+            "name": "DataTalksClub /mlops-zoomcamp",
+            "description": "Free MLOps course from DataTalks.Club",
+            "stars": "10,720",
+            "forks": "2,050",
+            "language": "Jupyter Notebook",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "FiveThirtyEight的文章和图形背后的数据和代码",
+            "url": "https://github.com/fivethirtyeight/data",
+            "name": "fivethirtyeight /data",
+            "description": "Data and code behind the articles and graphics at FiveThirtyEight",
+            "stars": "16,701",
+            "forks": "10,954",
+            "language": "Jupyter Notebook",
+            "stars_today": "13 stars this week"
+        }
+    ]
+}
