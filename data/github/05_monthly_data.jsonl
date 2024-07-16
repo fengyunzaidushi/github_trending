@@ -27618,3 +27618,187 @@
         }
     ]
 }
+{
+    "07月16日": [
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "38,114",
+            "forks": "7,363",
+            "language": "Python",
+            "stars_today": "5,288 stars this month"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "25,504",
+            "forks": "4,830",
+            "language": "Python",
+            "stars_today": "3,753 stars this month"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "20,700",
+            "forks": "1,961",
+            "language": "Python",
+            "stars_today": "3,323 stars this month"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "302,320",
+            "forks": "32,594",
+            "language": "Python",
+            "stars_today": "6,438 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "5,620",
+            "forks": "439",
+            "language": "Python",
+            "stars_today": "3,211 stars this month"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,870",
+            "forks": "615",
+            "language": "Python",
+            "stars_today": "1,852 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "13,841",
+            "forks": "1,312",
+            "language": "Python",
+            "stars_today": "2,049 stars this month"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "9,764",
+            "forks": "711",
+            "language": "Python",
+            "stars_today": "1,804 stars this month"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "77,046",
+            "forks": "6,045",
+            "language": "Python",
+            "stars_today": "2,673 stars this month"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,245",
+            "forks": "67",
+            "language": "Python",
+            "stars_today": "479 stars this month"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "152,971",
+            "forks": "51,739",
+            "language": "Python",
+            "stars_today": "1,567 stars this month"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "51,887",
+            "forks": "5,356",
+            "language": "Python",
+            "stars_today": "2,088 stars this month"
+        },
+        {
+            "zh_des": "人类Python API库从PyPIUsage安装(INPUT_TOKENS=25，OUTPUT_TOKENS=13)为所有请求配置默认设置：或者，按请求配置：为所有请求配置默认设置：更精细的控制：覆盖每个请求：通过人类Python库可以从任何Python3方便地访问人类REST API",
+            "url": "https://github.com/anthropics/anthropic-sdk-python",
+            "name": "anthropics /anthropic-sdk-python",
+            "description": "Anthropic Python API libraryinstall from PyPIUsage(input_tokens=25, output_tokens=13)Configure the default for all requests:Or, configure per-request:Configure the default for all requests:More granular control:Override per-request:The Anthropic Python library provides convenient access to the Anthropic REST API from any Python 3",
+            "stars": "1,179",
+            "forks": "146",
+            "language": "Python",
+            "stars_today": "184 stars this month"
+        },
+        {
+            "zh_des": "数字化身对话系统-Linly-Talker。😄✨LINLY-TALKER是一个智能人工智能系统，它将大型语言模型(LLM)与视觉模型相结合，创建了一种新颖的人-AI交互方法。🤝🤖它集成了各种技术，如Whisper、Linly、微软语音服务和SadTalker Talk Head生成系统。🌟🔬",
+            "url": "https://github.com/Kedreamix/Linly-Talker",
+            "name": "Kedreamix /Linly-Talker",
+            "description": "Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬",
+            "stars": "1,407",
+            "forks": "238",
+            "language": "Python",
+            "stars_today": "424 stars this month"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "264,401",
+            "forks": "44,804",
+            "language": "Python",
+            "stars_today": "4,620 stars this month"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,456",
+            "forks": "14,221",
+            "language": "Python",
+            "stars_today": "841 stars this month"
+        },
+        {
+            "zh_des": "在不需要Microsoft Edge、Windows或API密钥的情况下，从Python使用Microsoft Edge的在线文本语音转换服务",
+            "url": "https://github.com/rany2/edge-tts",
+            "name": "rany2 /edge-tts",
+            "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+            "stars": "4,721",
+            "forks": "486",
+            "language": "Python",
+            "stars_today": "688 stars this month"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "6,440",
+            "forks": "656",
+            "language": "Python",
+            "stars_today": "1,701 stars this month"
+        }
+    ]
+}

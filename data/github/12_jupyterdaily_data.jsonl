@@ -23120,3 +23120,207 @@
         }
     ]
 }
+{
+    "07月16日": [
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "927",
+            "forks": "153",
+            "language": "Jupyter Notebook",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,203",
+            "forks": "1,309",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,470",
+            "forks": "792",
+            "language": "Jupyter Notebook",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "963",
+            "forks": "181",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,693",
+            "forks": "425",
+            "language": "Jupyter Notebook",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "📓Jupyter笔记本示例，演示如何使用🧠Amazon SageMaker构建、培训和部署机器学习模型。",
+            "url": "https://github.com/aws/amazon-sagemaker-examples",
+            "name": "aws /amazon-sagemaker-examples",
+            "description": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.",
+            "stars": "9,819",
+            "forks": "6,681",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "56,602",
+            "forks": "29,052",
+            "language": "Jupyter Notebook",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "支持我在https://bratanic-tomaz.medium.com/上发表的图表数据科学博客文章的Jupyter笔记本",
+            "url": "https://github.com/tomasonjo/blogs",
+            "name": "tomasonjo /blogs",
+            "description": "Jupyter notebooks that support my graph data science blog posts athttps://bratanic-tomaz.medium.com/",
+            "stars": "1,025",
+            "forks": "295",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "开发人员API加速LLM项目",
+            "url": "https://github.com/nlmatics/llmsherpa",
+            "name": "nlmatics /llmsherpa",
+            "description": "Developer APIs to Accelerate LLM Projects",
+            "stars": "1,177",
+            "forks": "120",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "金融中的机器学习：从理论到实践",
+            "url": "https://github.com/mfrdixon/ML_Finance_Codes",
+            "name": "mfrdixon /ML_Finance_Codes",
+            "description": "Machine Learning in Finance: From Theory to Practice Book",
+            "stars": "1,523",
+            "forks": "438",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,609",
+            "forks": "5,386",
+            "language": "Jupyter Notebook",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,398",
+            "forks": "2,898",
+            "language": "Jupyter Notebook",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "10,633",
+            "forks": "1,274",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "PyTorch教程。",
+            "url": "https://github.com/pytorch/tutorials",
+            "name": "pytorch /tutorials",
+            "description": "PyTorch tutorials.",
+            "stars": "7,984",
+            "forks": "3,981",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用PyTorch和Scikit实现机器学习的代码库-学习",
+            "url": "https://github.com/rasbt/machine-learning-book",
+            "name": "rasbt /machine-learning-book",
+            "description": "Code Repository for Machine Learning with PyTorch and Scikit-Learn",
+            "stars": "3,115",
+            "forks": "1,137",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "3,047",
+            "forks": "219",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Fastai书，以Jupyter笔记本的形式出版",
+            "url": "https://github.com/fastai/fastbook",
+            "name": "fastai /fastbook",
+            "description": "The fastai book, published as Jupyter Notebooks",
+            "stars": "21,213",
+            "forks": "8,228",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,801",
+            "forks": "2,762",
+            "language": "Jupyter Notebook",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "谷歌研究",
+            "url": "https://github.com/google-research/google-research",
+            "name": "google-research /google-research",
+            "description": "Google Research",
+            "stars": "33,449",
+            "forks": "7,785",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "16,153",
+            "forks": "4,112",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
