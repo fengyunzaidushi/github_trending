@@ -25776,3 +25776,147 @@
         }
     ]
 }
+{
+    "07月17日": [
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,061",
+            "forks": "162",
+            "language": "Jupyter Notebook",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "21,264",
+            "forks": "3,090",
+            "language": "JavaScript",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "87,124",
+            "forks": "11,023",
+            "language": "Java",
+            "stars_today": "1,390 stars today"
+        },
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "5,727",
+            "forks": "1,209",
+            "language": "",
+            "stars_today": "181 stars today"
+        },
+        {
+            "zh_des": "安全、跨平台的Git凭据存储，可对GitHub、Azure Repos和其他流行的Git托管服务进行身份验证。",
+            "url": "https://github.com/git-ecosystem/git-credential-manager",
+            "name": "git-ecosystem /git-credential-manager",
+            "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+            "stars": "6,023",
+            "forks": "1,632",
+            "language": "C#",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "183,259",
+            "forks": "24,038",
+            "language": "",
+            "stars_today": "329 stars today"
+        },
+        {
+            "zh_des": "使用Rust编写可靠的异步应用程序的运行时。提供I/O、联网、调度、计时器...",
+            "url": "https://github.com/tokio-rs/tokio",
+            "name": "tokio-rs /tokio",
+            "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+            "stars": "25,557",
+            "forks": "2,315",
+            "language": "Rust",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "69,305",
+            "forks": "6,570",
+            "language": "TypeScript",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "OceanBase是一款企业级分布式关系数据库，具有高可用性、高性能、水平可伸缩性、与SQL标准兼容等特点。",
+            "url": "https://github.com/oceanbase/oceanbase",
+            "name": "oceanbase /oceanbase",
+            "description": "OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.",
+            "stars": "7,866",
+            "forks": "1,611",
+            "language": "C++",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,563",
+            "forks": "829",
+            "language": "Jupyter Notebook",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "9,313",
+            "forks": "1,156",
+            "language": "Python",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "11,233",
+            "forks": "2,420",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用统一的计算机大脑让人物栩栩如生",
+            "url": "https://github.com/sebastianstarke/AI4Animation",
+            "name": "sebastianstarke /AI4Animation",
+            "description": "Bringing Characters to Life with Computer Brains in Unity",
+            "stars": "7,552",
+            "forks": "1,038",
+            "language": "C++",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "9,442",
+            "forks": "2,915",
+            "language": "PowerShell",
+            "stars_today": "21 stars today"
+        }
+    ]
+}

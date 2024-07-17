@@ -23528,3 +23528,177 @@
         }
     ]
 }
+{
+    "07月17日": [
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,061",
+            "forks": "162",
+            "language": "Jupyter Notebook",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,563",
+            "forks": "829",
+            "language": "Jupyter Notebook",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,731",
+            "forks": "426",
+            "language": "Jupyter Notebook",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "西北风模式的官方推理库",
+            "url": "https://github.com/mistralai/mistral-inference",
+            "name": "mistralai /mistral-inference",
+            "description": "Official inference library for Mistral models",
+            "stars": "9,245",
+            "forks": "807",
+            "language": "Jupyter Notebook",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "一个微小的标量值自动分级引擎和一个神经网络库，其上带有类似于PyTorch的API",
+            "url": "https://github.com/karpathy/micrograd",
+            "name": "karpathy /micrograd",
+            "description": "A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API",
+            "stars": "9,518",
+            "forks": "1,328",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Paper-YOLOv7的实施：可训练的免费袋为实时物体探测器设置了新的最先进技术",
+            "url": "https://github.com/WongKinYiu/yolov7",
+            "name": "WongKinYiu /yolov7",
+            "description": "Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors",
+            "stars": "13,045",
+            "forks": "4,122",
+            "language": "Jupyter Notebook",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,215",
+            "forks": "1,311",
+            "language": "Jupyter Notebook",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,631",
+            "forks": "5,390",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "米斯特拉尔食谱",
+            "url": "https://github.com/mistralai/cookbook",
+            "name": "mistralai /cookbook",
+            "description": "Mistral Cookbook",
+            "stars": "966",
+            "forks": "182",
+            "language": "Jupyter Notebook",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,508",
+            "forks": "798",
+            "language": "Jupyter Notebook",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "url": "https://github.com/TommyZihao/Train_Custom_Dataset",
+            "name": "TommyZihao /Train_Custom_Dataset",
+            "description": "标注自己的数据集，训练、评估、测试、部署自己的人工智能算法",
+            "stars": "2,915",
+            "forks": "611",
+            "language": "Jupyter Notebook",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "3,199",
+            "forks": "558",
+            "language": "Jupyter Notebook",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "零镜头语音编辑和野外语音合成",
+            "url": "https://github.com/jasonppy/VoiceCraft",
+            "name": "jasonppy /VoiceCraft",
+            "description": "Zero-Shot Speech Editing and Text-to-Speech in the Wild",
+            "stars": "7,248",
+            "forks": "712",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "云原生SIEM，为您的整个企业提供智能安全分析。",
+            "url": "https://github.com/Azure/Azure-Sentinel",
+            "name": "Azure /Azure-Sentinel",
+            "description": "Cloud-native SIEM for intelligent security analytics for your entire enterprise.",
+            "stars": "4,398",
+            "forks": "2,899",
+            "language": "Jupyter Notebook",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于说话人二值化的神经构件：语音活动检测、说话人变化检测、重叠语音检测、说话人嵌入",
+            "url": "https://github.com/pyannote/pyannote-audio",
+            "name": "pyannote /pyannote-audio",
+            "description": "Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding",
+            "stars": "5,546",
+            "forks": "729",
+            "language": "Jupyter Notebook",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,805",
+            "forks": "84,273",
+            "language": "Jupyter Notebook",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Lavis--语言视觉智能的一站式图书馆",
+            "url": "https://github.com/salesforce/LAVIS",
+            "name": "salesforce /LAVIS",
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "stars": "9,244",
+            "forks": "917",
+            "language": "Jupyter Notebook",
+            "stars_today": "14 stars today"
+        }
+    ]
+}

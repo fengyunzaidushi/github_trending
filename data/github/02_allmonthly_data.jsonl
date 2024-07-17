@@ -27136,3 +27136,197 @@
         }
     ]
 }
+{
+    "07月17日": [
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "41,224",
+            "forks": "1,813",
+            "language": "C++",
+            "stars_today": "7,735 stars this month"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "87,124",
+            "forks": "11,023",
+            "language": "Java",
+            "stars_today": "7,998 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "38,192",
+            "forks": "7,375",
+            "language": "Python",
+            "stars_today": "5,343 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "56,669",
+            "forks": "29,119",
+            "language": "Jupyter Notebook",
+            "stars_today": "8,954 stars this month"
+        },
+        {
+            "zh_des": "程序员在家做饭方法指南.关于如何在家做饭的程序员指南(仅限简体中文)。",
+            "url": "https://github.com/Anduin2017/HowToCook",
+            "name": "Anduin2017 /HowToCook",
+            "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).",
+            "stars": "64,391",
+            "forks": "8,578",
+            "language": "Dockerfile",
+            "stars_today": "3,329 stars this month"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "25,538",
+            "forks": "4,832",
+            "language": "Python",
+            "stars_today": "3,775 stars this month"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "328,560",
+            "forks": "60,717",
+            "language": "",
+            "stars_today": "5,188 stars this month"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "302,468",
+            "forks": "32,615",
+            "language": "Python",
+            "stars_today": "6,562 stars this month"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "20,721",
+            "forks": "1,964",
+            "language": "Python",
+            "stars_today": "3,374 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "5,710",
+            "forks": "442",
+            "language": "Python",
+            "stars_today": "3,272 stars this month"
+        },
+        {
+            "zh_des": "克劳德·奥普斯的一个框架，用于智能地协调子代理。",
+            "url": "https://github.com/Doriandarko/maestro",
+            "name": "Doriandarko /maestro",
+            "description": "A framework for Claude Opus to intelligently orchestrate subagents.",
+            "stars": "3,893",
+            "forks": "616",
+            "language": "Python",
+            "stars_today": "1,862 stars this month"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,061",
+            "forks": "162",
+            "language": "Jupyter Notebook",
+            "stars_today": "669 stars this month"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": "8,995",
+            "forks": "457",
+            "language": "Zig",
+            "stars_today": "1,465 stars this month"
+        },
+        {
+            "zh_des": "💥BREAZING FAST终端文件管理器，基于异步I/O，用RUST编写。",
+            "url": "https://github.com/sxyazi/yazi",
+            "name": "sxyazi /yazi",
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "stars": "12,433",
+            "forks": "289",
+            "language": "Rust",
+            "stars_today": "2,726 stars this month"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "287,859",
+            "forks": "27,032",
+            "language": "",
+            "stars_today": "13,645 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "14,007",
+            "forks": "1,323",
+            "language": "Python",
+            "stars_today": "2,086 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "11,710",
+            "forks": "598",
+            "language": "TypeScript",
+            "stars_today": "2,214 stars this month"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "15,557",
+            "forks": "2,580",
+            "language": "TypeScript",
+            "stars_today": "3,277 stars this month"
+        },
+        {
+            "zh_des": "一种适用于ZK应用程序的分布式操作系统",
+            "url": "https://github.com/AleoNet/snarkOS",
+            "name": "AleoNet /snarkOS",
+            "description": "A Decentralized Operating System for ZK Applications",
+            "stars": "4,172",
+            "forks": "2,581",
+            "language": "Rust",
+            "stars_today": "240 stars this month"
+        }
+    ]
+}
