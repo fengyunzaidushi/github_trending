@@ -25262,3 +25262,157 @@
         }
     ]
 }
+{
+    "07月17日": [
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "11,400",
+            "forks": "915",
+            "language": "Python",
+            "stars_today": "2,659 stars this week"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "8,757",
+            "forks": "886",
+            "language": "Python",
+            "stars_today": "538 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "17,731",
+            "forks": "6,758",
+            "language": "Python",
+            "stars_today": "113 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "6,575",
+            "forks": "653",
+            "language": "Python",
+            "stars_today": "1,551 stars this week"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "11,094",
+            "forks": "2,416",
+            "language": "Python",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "302,387",
+            "forks": "32,604",
+            "language": "Python",
+            "stars_today": "2,105 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "13,938",
+            "forks": "1,319",
+            "language": "Python",
+            "stars_today": "847 stars this week"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "64,963",
+            "forks": "14,402",
+            "language": "Python",
+            "stars_today": "160 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "129,376",
+            "forks": "25,654",
+            "language": "Python",
+            "stars_today": "618 stars this week"
+        },
+        {
+            "zh_des": "快速、节省内存的精确关注",
+            "url": "https://github.com/Dao-AILab/flash-attention",
+            "name": "Dao-AILab /flash-attention",
+            "description": "Fast and memory-efficient exact attention",
+            "stars": "12,392",
+            "forks": "1,103",
+            "language": "Python",
+            "stars_today": "448 stars this week"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "1,053",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "260 stars this week"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "164,500",
+            "forks": "43,665",
+            "language": "Python",
+            "stars_today": "835 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "12,201",
+            "forks": "1,180",
+            "language": "Python",
+            "stars_today": "910 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "23,042",
+            "forks": "3,266",
+            "language": "Python",
+            "stars_today": "563 stars this week"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "61,154",
+            "forks": "29,518",
+            "language": "Python",
+            "stars_today": "258 stars this week"
+        }
+    ]
+}

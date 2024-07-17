@@ -28402,3 +28402,237 @@
         }
     ]
 }
+{
+    "07月17日": [
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "25,477",
+            "forks": "2,172",
+            "language": "TypeScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "69,193",
+            "forks": "6,561",
+            "language": "TypeScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "42,697",
+            "forks": "5,568",
+            "language": "TypeScript",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "6,805",
+            "forks": "904",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "30,023",
+            "forks": "7,088",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "OpenMetadata是一个用于数据发现、数据可观察性和数据治理的统一元数据平台，由中央元数据存储库、深入的列级谱系和无缝的团队协作提供支持。",
+            "url": "https://github.com/open-metadata/OpenMetadata",
+            "name": "open-metadata /OpenMetadata",
+            "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+            "stars": "4,837",
+            "forks": "928",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "面向所有人的OI/ICPC的🌟维基。(某大型游戏线上攻略，内含炫酷算术魔法)",
+            "url": "https://github.com/OI-wiki/OI-wiki",
+            "name": "OI-wiki /OI-wiki",
+            "description": "🌟 Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）",
+            "stars": "19,679",
+            "forks": "3,725",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "该存储库包含OpenTelemeter Astronomy Shop，这是一个基于微服务的分布式系统，旨在演示OpenTelemeter在接近真实世界的环境中的实现。",
+            "url": "https://github.com/open-telemetry/opentelemetry-demo",
+            "name": "open-telemetry /opentelemetry-demo",
+            "description": "This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.",
+            "stars": "1,578",
+            "forks": "947",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "1,629",
+            "forks": "134",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "Langchain-chatchat(原langchain-chatGLM、qwen与llama等)基于langchain与chatGLM等语言模型的RAG与代理应用|langchain-chatGLM)、基于本地知识的llm(如chatGLM、qwen和llama)RAG和具有langchain的代理APP",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM, Qwen 与 Llama 等）基于 Langchain 与 ChatGLM 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+            "stars": "29,913",
+            "forks": "5,233",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "27,125",
+            "forks": "5,673",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "构建现代后端+管理用户界面的最佳方式。没有黑魔法，全是打字，完全开源，PayLoad既是一个应用程序框架，也是一个无头的CMS。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.",
+            "stars": "21,629",
+            "forks": "1,301",
+            "language": "TypeScript",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "31,267",
+            "forks": "4,954",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "13,429",
+            "forks": "572",
+            "language": "TypeScript",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "💌使用Reaction构建和发送电子邮件",
+            "url": "https://github.com/resend/react-email",
+            "name": "resend /react-email",
+            "description": "💌 Build and send emails using React",
+            "stars": "13,196",
+            "forks": "597",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "一个强大的跨平台UI工具包，用于构建原生质量的iOS、Android和Progative Web应用程序，并使用HTML、CSS和JavaScript。",
+            "url": "https://github.com/ionic-team/ionic-framework",
+            "name": "ionic-team /ionic-framework",
+            "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+            "stars": "50,687",
+            "forks": "13,515",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "该资源库用于积极开发Azure SDK for JavaScript(NodeJS&Browser)。对于SDK的消费者，我们建议访问我们的公共开发人员文档athttps://docs.microsoft.com/javascript/azure/or我们的版本开发人员文档，网址为https://azure.github.io/azure-sdk-for-js.",
+            "url": "https://github.com/Azure/azure-sdk-for-js",
+            "name": "Azure /azure-sdk-for-js",
+            "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/javascript/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-js.",
+            "stars": "1,988",
+            "forks": "1,156",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在您的团队/基础设施中同步秘密，防止秘密泄露，并管理内部PKI",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+            "stars": "13,092",
+            "forks": "689",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "UniBest-最好用的Unapp开发框架。UniBest是由uniapp+VUE3+ts+Vite4+UnoCss+uniui驱动的跨端快速启动模板，使用vs Code开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写uniapp拥有Best体验。",
+            "url": "https://github.com/codercup/unibest",
+            "name": "codercup /unibest",
+            "description": "unibest - 最好用的 uniapp 开发框架。unibest 是由 uniapp + Vue3 + Ts + Vite4 + UnoCss + UniUI 驱动的跨端快速启动模板，使用 VS Code 开发，具有代码提示、自动格式化、统一配置、代码片段等功能，同时内置了大量平时开发常用的基本组件，开箱即用，让你编写 uniapp 拥有 best 体验。",
+            "stars": "1,354",
+            "forks": "177",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "概念的离线替代。EIDOS是一个可扩展的框架，用于在您的整个生命周期内在一个地方管理您的个人数据。",
+            "url": "https://github.com/mayneyao/eidos",
+            "name": "mayneyao /eidos",
+            "description": "Offline alternative to Notion. Eidos is an extensible framework for managing your personal data throughout your lifetime in one place.",
+            "stars": "1,550",
+            "forks": "54",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "更现代的终点站",
+            "url": "https://github.com/Eugeny/tabby",
+            "name": "Eugeny /tabby",
+            "description": "A terminal for a more modern age",
+            "stars": "57,204",
+            "forks": "3,306",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "35,740",
+            "forks": "2,368",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "15,527",
+            "forks": "2,579",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        }
+    ]
+}
