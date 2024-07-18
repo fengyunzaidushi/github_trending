@@ -26278,3 +26278,147 @@
         }
     ]
 }
+{
+    "07月18日": [
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "87,416",
+            "forks": "11,054",
+            "language": "Java",
+            "stars_today": "7,152 stars this week"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "11,394",
+            "forks": "2,428",
+            "language": "Python",
+            "stars_today": "535 stars this week"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,192",
+            "forks": "170",
+            "language": "Jupyter Notebook",
+            "stars_today": "598 stars this week"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "11,677",
+            "forks": "944",
+            "language": "Python",
+            "stars_today": "2,380 stars this week"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "8,812",
+            "forks": "889",
+            "language": "Python",
+            "stars_today": "522 stars this week"
+        },
+        {
+            "zh_des": "PCSX2-PlayStation 2仿真器",
+            "url": "https://github.com/PCSX2/pcsx2",
+            "name": "PCSX2 /pcsx2",
+            "description": "PCSX2 - The Playstation 2 Emulator",
+            "stars": "10,973",
+            "forks": "1,560",
+            "language": "C++",
+            "stars_today": "300 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,754",
+            "forks": "427",
+            "language": "Jupyter Notebook",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "25,532",
+            "forks": "2,173",
+            "language": "TypeScript",
+            "stars_today": "843 stars this week"
+        },
+        {
+            "zh_des": "令人难以置信的快速的JavaScript运行时、绑定器、测试运行器和包管理器-所有这些都集于一身",
+            "url": "https://github.com/oven-sh/bun",
+            "name": "oven-sh /bun",
+            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+            "stars": "72,118",
+            "forks": "2,576",
+            "language": "Zig",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "394,166",
+            "forks": "36,256",
+            "language": "TypeScript",
+            "stars_today": "858 stars this week"
+        },
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "5,835",
+            "forks": "1,221",
+            "language": "",
+            "stars_today": "507 stars this week"
+        },
+        {
+            "zh_des": "一个轻量级的Android流媒体前端。",
+            "url": "https://github.com/TeamNewPipe/NewPipe",
+            "name": "TeamNewPipe /NewPipe",
+            "description": "A libre lightweight streaming front-end for Android.",
+            "stars": "30,184",
+            "forks": "2,975",
+            "language": "Java",
+            "stars_today": "553 stars this week"
+        },
+        {
+            "zh_des": "✨魔术壳历史",
+            "url": "https://github.com/atuinsh/atuin",
+            "name": "atuinsh /atuin",
+            "description": "✨ Magical shell history",
+            "stars": "19,036",
+            "forks": "527",
+            "language": "Rust",
+            "stars_today": "309 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "6,837",
+            "forks": "671",
+            "language": "Python",
+            "stars_today": "1,755 stars this week"
+        }
+    ]
+}
