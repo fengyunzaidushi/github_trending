@@ -24706,3 +24706,187 @@
         }
     ]
 }
+{
+    "07月18日": [
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "21,617",
+            "forks": "3,131",
+            "language": "JavaScript",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "以类似于标记的方式从文本生成流程图或序列图之类的图",
+            "url": "https://github.com/mermaid-js/mermaid",
+            "name": "mermaid-js /mermaid",
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "stars": "69,138",
+            "forks": "6,121",
+            "language": "JavaScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "用于WordPress及更高版本的块编辑器项目。插件可以从官方资源库获得。",
+            "url": "https://github.com/WordPress/gutenberg",
+            "name": "WordPress /gutenberg",
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+            "stars": "10,156",
+            "forks": "4,051",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "EtherPad：一个现代的、真正实时的协作式文档编辑器。",
+            "url": "https://github.com/ether/etherpad-lite",
+            "name": "ether /etherpad-lite",
+            "description": "Etherpad: A modern really-real-time collaborative document editor.",
+            "stars": "16,241",
+            "forks": "2,812",
+            "language": "JavaScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "123,265",
+            "forks": "26,307",
+            "language": "JavaScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "17,525",
+            "forks": "1,880",
+            "language": "JavaScript",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "46,486",
+            "forks": "3,144",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "16,503",
+            "forks": "3,800",
+            "language": "JavaScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "连接API，速度非常快。对开发人员免费。",
+            "url": "https://github.com/PipedreamHQ/pipedream",
+            "name": "PipedreamHQ /pipedream",
+            "description": "Connect APIs, remarkably fast. Free for developers.",
+            "stars": "8,575",
+            "forks": "5,269",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "包括完整API的JSON架构文件的集合",
+            "url": "https://github.com/SchemaStore/schemastore",
+            "name": "SchemaStore /schemastore",
+            "description": "A collection of JSON schema files including full API",
+            "stars": "2,962",
+            "forks": "1,603",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "⚡为您的GitHub Readme动态生成统计数据",
+            "url": "https://github.com/anuraghazra/github-readme-stats",
+            "name": "anuraghazra /github-readme-stats",
+            "description": "⚡ Dynamically generated stats for your github readmes",
+            "stars": "66,805",
+            "forks": "21,749",
+            "language": "JavaScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "一个使用Vue.js的跨平台框架",
+            "url": "https://github.com/dcloudio/uni-app",
+            "name": "dcloudio /uni-app",
+            "description": "A cross-platform framework using Vue.js",
+            "stars": "39,687",
+            "forks": "3,606",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "简单流程库🖥️🖱️",
+            "url": "https://github.com/jerosoler/Drawflow",
+            "name": "jerosoler /Drawflow",
+            "description": "Simple flow library 🖥️🖱️",
+            "stars": "4,455",
+            "forks": "716",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "浏览器扩展可根据您的喜好自动填写Cookie弹出窗口",
+            "url": "https://github.com/cavi-au/Consent-O-Matic",
+            "name": "cavi-au /Consent-O-Matic",
+            "description": "Browser extension that automatically fills out cookie popups based on your preferences",
+            "stars": "2,556",
+            "forks": "128",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Chrome扩展示例",
+            "url": "https://github.com/GoogleChrome/chrome-extensions-samples",
+            "name": "GoogleChrome /chrome-extensions-samples",
+            "description": "Chrome Extensions Samples",
+            "stars": "14,768",
+            "forks": "7,991",
+            "language": "JavaScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "8,748",
+            "forks": "3,636",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于移动浏览器的控制台",
+            "url": "https://github.com/liriliri/eruda",
+            "name": "liriliri /eruda",
+            "description": "Console for mobile browsers",
+            "stars": "18,194",
+            "forks": "1,169",
+            "language": "JavaScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "7,876",
+            "forks": "761",
+            "language": "JavaScript",
+            "stars_today": "41 stars today"
+        }
+    ]
+}

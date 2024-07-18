@@ -26064,3 +26064,137 @@
         }
     ]
 }
+{
+    "07月18日": [
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "5,961",
+            "forks": "1,241",
+            "language": "",
+            "stars_today": "209 stars today"
+        },
+        {
+            "zh_des": "安全、跨平台的Git凭据存储，可对GitHub、Azure Repos和其他流行的Git托管服务进行身份验证。",
+            "url": "https://github.com/git-ecosystem/git-credential-manager",
+            "name": "git-ecosystem /git-credential-manager",
+            "description": "Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.",
+            "stars": "6,126",
+            "forks": "1,640",
+            "language": "C#",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "使用Rust编写可靠的异步应用程序的运行时。提供I/O、联网、调度、计时器...",
+            "url": "https://github.com/tokio-rs/tokio",
+            "name": "tokio-rs /tokio",
+            "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+            "stars": "25,693",
+            "forks": "2,347",
+            "language": "Rust",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "⛓️langflow是一个用于构建多代理和RAG应用程序的可视化框架。它是开源的、基于Python的、完全可定制的、与模型和矢量存储无关的。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "⛓️ Langflow is a visual framework for building multi-agent and RAG applications. It's open-source, Python-powered, fully customizable, model and vector store agnostic.",
+            "stars": "21,617",
+            "forks": "3,131",
+            "language": "JavaScript",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,683",
+            "forks": "835",
+            "language": "Jupyter Notebook",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "9,623",
+            "forks": "1,177",
+            "language": "Python",
+            "stars_today": "213 stars today"
+        },
+        {
+            "zh_des": "用于高效微调100+LLM的WebUI(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "26,751",
+            "forks": "3,316",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "69,481",
+            "forks": "6,583",
+            "language": "TypeScript",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "PrisonAI应用程序将Autogen和CrewAI或类似框架结合到一个低代码解决方案中，用于构建和管理多代理LLM系统，专注于简单性、定制化和高效的人类代理协作。",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "name": "MervinPraison /PraisonAI",
+            "description": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration.",
+            "stars": "1,491",
+            "forks": "219",
+            "language": "Python",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "Abseil公共库(C++)",
+            "url": "https://github.com/abseil/abseil-cpp",
+            "name": "abseil /abseil-cpp",
+            "description": "Abseil Common Libraries (C++)",
+            "stars": "14,391",
+            "forks": "2,543",
+            "language": "C++",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "用于秘密管理、加密即服务和特权访问管理的工具",
+            "url": "https://github.com/hashicorp/vault",
+            "name": "hashicorp /vault",
+            "description": "A tool for secrets management, encryption as a service, and privileged access management",
+            "stars": "30,185",
+            "forks": "4,134",
+            "language": "Go",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "以类似于标记的方式从文本生成流程图或序列图之类的图",
+            "url": "https://github.com/mermaid-js/mermaid",
+            "name": "mermaid-js /mermaid",
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "stars": "69,138",
+            "forks": "6,121",
+            "language": "JavaScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "Prowler是一款开源安全工具，可用于AWS、Azure、GCP和Kubernetes进行安全评估、审核、事件响应、合规性、持续监控、强化和取证准备。包括CIS、NIST 800、NIST CSF、CISA、FedRAMP、PCI-DSS、GDPR、HIPAA、FFIEC、SOC2、GXP、架构良好的安全性、ENS等",
+            "url": "https://github.com/prowler-cloud/prowler",
+            "name": "prowler-cloud /prowler",
+            "description": "Prowler is an Open Source Security tool for AWS, Azure, GCP and Kubernetes to do security assessments, audits, incident response, compliance, continuous monitoring, hardening and forensics readiness. Includes CIS, NIST 800, NIST CSF, CISA, FedRAMP, PCI-DSS, GDPR, HIPAA, FFIEC, SOC2, GXP, Well-Architected Security, ENS and more",
+            "stars": "10,095",
+            "forks": "1,477",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
