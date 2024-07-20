@@ -26460,3 +26460,167 @@
         }
     ]
 }
+{
+    "07月20日": [
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "11,317",
+            "forks": "1,289",
+            "language": "Python",
+            "stars_today": "602 stars today"
+        },
+        {
+            "zh_des": "用于高效微调100+LLM的WebUI(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "27,192",
+            "forks": "3,340",
+            "language": "Python",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "35,495",
+            "forks": "13,852",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "37,912",
+            "forks": "2,397",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "9,963",
+            "forks": "706",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "31,083",
+            "forks": "2,320",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "在《神经网络：从零到英雄》系列视频讲座中创建的Nanogpt-lectureCode，特别是有关NanGPT的第一堂课",
+            "url": "https://github.com/karpathy/ng-video-lecture",
+            "name": "karpathy /ng-video-lecture",
+            "description": "nanogpt-lectureCode created in the Neural Networks: Zero To Hero video lecture series, specifically on the first lecture on nanoGPT",
+            "stars": "3,280",
+            "forks": "859",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "PrisonAI应用程序将Autogen和CrewAI或类似框架结合到一个低代码解决方案中，用于构建和管理多代理LLM系统，专注于简单性、定制化和高效的人类代理协作。与您的整个代码库聊天。",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "name": "MervinPraison /PraisonAI",
+            "description": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. Chat with your ENTIRE Codebase.",
+            "stars": "1,669",
+            "forks": "230",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个开源的驾驶员辅助系统。OpenPilot为250多个受支持的汽车品牌和车型提供自动车道居中和自适应巡航控制功能。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.",
+            "stars": "48,745",
+            "forks": "8,857",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://docs.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,385",
+            "forks": "2,718",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "基于巨蟒的网页自动化工具.既能控制浏览器，也能收发数据包.可兼顾浏览器自动化的便利性和请求的高效率。功能强大，内置无数人性化设计和便捷功能.语法简洁而优雅，代码量少.",
+            "url": "https://github.com/g1879/DrissionPage",
+            "name": "g1879 /DrissionPage",
+            "description": "基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。",
+            "stars": "6,588",
+            "forks": "635",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "14,563",
+            "forks": "757",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT4.0/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT4.0/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "28,438",
+            "forks": "7,551",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "790",
+            "forks": "79",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "使用CTranslate2实现更快的密语转录",
+            "url": "https://github.com/SYSTRAN/faster-whisper",
+            "name": "SYSTRAN /faster-whisper",
+            "description": "Faster Whisper transcription with CTranslate2",
+            "stars": "10,389",
+            "forks": "874",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "16,103",
+            "forks": "895",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        }
+    ]
+}

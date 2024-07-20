@@ -26620,3 +26620,187 @@
         }
     ]
 }
+{
+    "07月20日": [
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "11,317",
+            "forks": "1,289",
+            "language": "Python",
+            "stars_today": "602 stars today"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "30,849",
+            "forks": "2,290",
+            "language": "Java",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "6,253",
+            "forks": "1,274",
+            "language": "",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "39,874",
+            "forks": "1,920",
+            "language": "TypeScript",
+            "stars_today": "184 stars today"
+        },
+        {
+            "zh_des": "NativeLink是一个开源的高性能构建缓存和远程执行服务器，兼容Bazel、Buck2、Reclient和其他与RBE兼容的构建系统。它提供了极快的构建速度，减少了测试剥落，并显著节省了基础设施成本。",
+            "url": "https://github.com/TraceMachina/nativelink",
+            "name": "TraceMachina /nativelink",
+            "description": "NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",
+            "stars": "504",
+            "forks": "62",
+            "language": "Rust",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "22,032",
+            "forks": "3,476",
+            "language": "TypeScript",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "53,305",
+            "forks": "4,884",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "NVIDIA Linux开放的GPU内核模块源代码",
+            "url": "https://github.com/NVIDIA/open-gpu-kernel-modules",
+            "name": "NVIDIA /open-gpu-kernel-modules",
+            "description": "NVIDIA Linux open GPU kernel module source",
+            "stars": "14,374",
+            "forks": "1,190",
+            "language": "C",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "用于高效微调100+LLM的WebUI(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "A WebUI for Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "27,192",
+            "forks": "3,340",
+            "language": "Python",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "一个简单，易于使用的PowerShell脚本，可以从Windows中删除预装的应用程序，禁用遥测，从Windows搜索中删除必应，以及执行各种其他更改以整理和改善您的Windows体验。此脚本适用于Windows 10和Windows 11。",
+            "url": "https://github.com/Raphire/Win11Debloat",
+            "name": "Raphire /Win11Debloat",
+            "description": "A simple, easy to use PowerShell script to remove pre-installed apps from windows, disable telemetry, remove Bing from windows search as well as perform various other changes to declutter and improve your windows experience. This script works for both windows 10 and windows 11.",
+            "stars": "7,995",
+            "forks": "348",
+            "language": "PowerShell",
+            "stars_today": "322 stars today"
+        },
+        {
+            "zh_des": "💥基于GO 1.18+泛型(地图、过滤器、包含、查找...)的LODASH风格围棋棋库",
+            "url": "https://github.com/samber/lo",
+            "name": "samber /lo",
+            "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+            "stars": "16,374",
+            "forks": "746",
+            "language": "Go",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "9,573",
+            "forks": "2,954",
+            "language": "PowerShell",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "来见见Suhail-MD，你的一体机WhatsApp兴奋伙伴！享受前所未有的激动人心的消息传递体验。苏海尔-MD带来令人兴奋的世界和喜悦到你的聊天✨🤖",
+            "url": "https://github.com/SuhailTechInfo/Suhail-Md",
+            "name": "SuhailTechInfo /Suhail-Md",
+            "description": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
+            "stars": "4,228",
+            "forks": "14,648",
+            "language": "JavaScript",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "用于构建云原生应用的易于使用的动态服务发现、配置和服务管理平台。",
+            "url": "https://github.com/alibaba/nacos",
+            "name": "alibaba /nacos",
+            "description": "an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.",
+            "stars": "29,559",
+            "forks": "12,687",
+            "language": "Java",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于秘密管理、加密即服务和特权访问管理的工具",
+            "url": "https://github.com/hashicorp/vault",
+            "name": "hashicorp /vault",
+            "description": "A tool for secrets management, encryption as a service, and privileged access management",
+            "stars": "30,435",
+            "forks": "4,138",
+            "language": "Go",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "35,495",
+            "forks": "13,852",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "37,912",
+            "forks": "2,397",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "APTOS是第一层区块链，旨在通过更好的技术和用户体验支持区块链的广泛使用。",
+            "url": "https://github.com/aptos-labs/aptos-core",
+            "name": "aptos-labs /aptos-core",
+            "description": "Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.",
+            "stars": "5,940",
+            "forks": "3,579",
+            "language": "Rust",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
