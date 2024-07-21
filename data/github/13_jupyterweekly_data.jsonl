@@ -22230,3 +22230,167 @@
         }
     ]
 }
+{
+    "07月21日": [
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,386",
+            "forks": "185",
+            "language": "Jupyter Notebook",
+            "stars_today": "802 stars this week"
+        },
+        {
+            "zh_des": "西北风模式的官方推理库",
+            "url": "https://github.com/mistralai/mistral-inference",
+            "name": "mistralai /mistral-inference",
+            "description": "Official inference library for Mistral models",
+            "stars": "9,287",
+            "forks": "814",
+            "language": "Jupyter Notebook",
+            "stars_today": "120 stars this week"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,305",
+            "forks": "5,635",
+            "language": "Jupyter Notebook",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "6,377",
+            "forks": "1,665",
+            "language": "Jupyter Notebook",
+            "stars_today": "67 stars this week"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,112",
+            "forks": "1,362",
+            "language": "Jupyter Notebook",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "您的数据科学电子学习的新导师。",
+            "url": "https://github.com/virgili0/Virgilio",
+            "name": "virgili0 /Virgilio",
+            "description": "Your new Mentor for Data Science E-Learning.",
+            "stars": "13,792",
+            "forks": "2,477",
+            "language": "Jupyter Notebook",
+            "stars_today": "67 stars this week"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,257",
+            "forks": "17,730",
+            "language": "Jupyter Notebook",
+            "stars_today": "150 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,792",
+            "forks": "434",
+            "language": "Jupyter Notebook",
+            "stars_today": "258 stars this week"
+        },
+        {
+            "zh_des": "支持我在https://bratanic-tomaz.medium.com/上发表的图表数据科学博客文章的Jupyter笔记本",
+            "url": "https://github.com/tomasonjo/blogs",
+            "name": "tomasonjo /blogs",
+            "description": "Jupyter notebooks that support my graph data science blog posts athttps://bratanic-tomaz.medium.com/",
+            "stars": "1,039",
+            "forks": "298",
+            "language": "Jupyter Notebook",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "从零到精通机器学习和数据科学课程的所有课程材料。",
+            "url": "https://github.com/mrdbourke/zero-to-mastery-ml",
+            "name": "mrdbourke /zero-to-mastery-ml",
+            "description": "All course materials for the Zero to Mastery Machine Learning and Data Science course.",
+            "stars": "2,759",
+            "forks": "3,341",
+            "language": "Jupyter Notebook",
+            "stars_today": "21 stars this week"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "45,687",
+            "forks": "5,409",
+            "language": "Jupyter Notebook",
+            "stars_today": "150 stars this week"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,249",
+            "forks": "1,313",
+            "language": "Jupyter Notebook",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "《机器学习的数学》一书的配套网页",
+            "url": "https://github.com/mml-book/mml-book.github.io",
+            "name": "mml-book /mml-book.github.io",
+            "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+            "stars": "12,774",
+            "forks": "2,363",
+            "language": "Jupyter Notebook",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "3,085",
+            "forks": "228",
+            "language": "Jupyter Notebook",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "开发人员API加速LLM项目",
+            "url": "https://github.com/nlmatics/llmsherpa",
+            "name": "nlmatics /llmsherpa",
+            "description": "Developer APIs to Accelerate LLM Projects",
+            "stars": "1,195",
+            "forks": "122",
+            "language": "Jupyter Notebook",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "本项目将“动手学深度学习”(深入学习)原书中的MXnet实现改为Py Torch实现。",
+            "url": "https://github.com/ShusenTang/Dive-into-DL-PyTorch",
+            "name": "ShusenTang /Dive-into-DL-PyTorch",
+            "description": "本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。",
+            "stars": "18,038",
+            "forks": "5,369",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars this week"
+        }
+    ]
+}
