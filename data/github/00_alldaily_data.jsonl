@@ -27356,3 +27356,187 @@
         }
     ]
 }
+{
+    "07月22日": [
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "14,697",
+            "forks": "1,502",
+            "language": "Python",
+            "stars_today": "2,073 stars today"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "32,200",
+            "forks": "2,390",
+            "language": "Java",
+            "stars_today": "456 stars today"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "3,184",
+            "forks": "987",
+            "language": "Python",
+            "stars_today": "338 stars today"
+        },
+        {
+            "zh_des": "使用单个文件分发和运行LLM。",
+            "url": "https://github.com/Mozilla-Ocho/llamafile",
+            "name": "Mozilla-Ocho /llamafile",
+            "description": "Distribute and run LLMs with a single file.",
+            "stars": "17,509",
+            "forks": "882",
+            "language": "C++",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "用于维护健壮、优化和可重用软件的通用编程语言和工具链。",
+            "url": "https://github.com/ziglang/zig",
+            "name": "ziglang /zig",
+            "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+            "stars": "32,616",
+            "forks": "2,376",
+            "language": "Zig",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "22,438",
+            "forks": "3,505",
+            "language": "TypeScript",
+            "stars_today": "257 stars today"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "15,601",
+            "forks": "1,084",
+            "language": "Lua",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "40,298",
+            "forks": "1,964",
+            "language": "TypeScript",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "一款适用于Android的V2Ray客户端，支持Xray核和v2Fly核",
+            "url": "https://github.com/2dust/v2rayNG",
+            "name": "2dust /v2rayNG",
+            "description": "A V2Ray client for Android, support Xray core and v2fly core",
+            "stars": "33,043",
+            "forks": "5,168",
+            "language": "Kotlin",
+            "stars_today": "422 stars today"
+        },
+        {
+            "zh_des": "🏓开源合成监控平台🏓",
+            "url": "https://github.com/openstatusHQ/openstatus",
+            "name": "openstatusHQ /openstatus",
+            "description": "🏓 The open-source synthetic monitoring platform 🏓",
+            "stars": "5,218",
+            "forks": "304",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "NativeLink是一个开源的高性能构建缓存和远程执行服务器，兼容Bazel、Buck2、Reclient和其他与RBE兼容的构建系统。它提供了极快的构建速度，减少了测试剥落，并显著节省了基础设施成本。",
+            "url": "https://github.com/TraceMachina/nativelink",
+            "name": "TraceMachina /nativelink",
+            "description": "NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",
+            "stars": "692",
+            "forks": "75",
+            "language": "Rust",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "流放之路的离线构建规划器。",
+            "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+            "name": "PathOfBuildingCommunity /PathOfBuilding",
+            "description": "Offline build planner for Path of Exile.",
+            "stars": "3,766",
+            "forks": "2,025",
+            "language": "Lua",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "一种新的基于标记的排版系统，功能强大，易于学习。",
+            "url": "https://github.com/typst/typst",
+            "name": "typst /typst",
+            "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+            "stars": "31,108",
+            "forks": "836",
+            "language": "Rust",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "用于Atmel AVR和ARM USB系列的开源键盘固件",
+            "url": "https://github.com/qmk/qmk_firmware",
+            "name": "qmk /qmk_firmware",
+            "description": "Open-source keyboard firmware for Atmel AVR and Arm USB families",
+            "stars": "17,687",
+            "forks": "37,897",
+            "language": "C",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "PS3模拟器/调试器",
+            "url": "https://github.com/RPCS3/rpcs3",
+            "name": "RPCS3 /rpcs3",
+            "description": "PS3 emulator/debugger",
+            "stars": "14,796",
+            "forks": "1,870",
+            "language": "C++",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "Lean的Lede来源",
+            "url": "https://github.com/coolsnowwolf/lede",
+            "name": "coolsnowwolf /lede",
+            "description": "Lean's LEDE source",
+            "stars": "29,233",
+            "forks": "19,464",
+            "language": "C",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "329,301",
+            "forks": "60,778",
+            "language": "",
+            "stars_today": "262 stars today"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "33,625",
+            "forks": "3,874",
+            "language": "C#",
+            "stars_today": "40 stars today"
+        }
+    ]
+}

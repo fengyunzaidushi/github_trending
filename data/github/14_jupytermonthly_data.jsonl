@@ -22616,3 +22616,127 @@
         }
     ]
 }
+{
+    "07月22日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,839",
+            "forks": "839",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,755 stars this month"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式人工智能收件箱构建https：microsoft.github.io/generative-ai-for-beginners/",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "57,211",
+            "forks": "29,390",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,182 stars this month"
+        },
+        {
+            "zh_des": "使用LLM从非结构化数据构建Neo 4 j图",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,468",
+            "forks": "188",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,125 stars this month"
+        },
+        {
+            "zh_des": "理解深度学习- Simon JD王子",
+            "url": "https://github.com/udlbook/udlbook",
+            "name": "udlbook /udlbook",
+            "description": "Understanding Deep Learning - Simon J.D. Prince",
+            "stars": "5,603",
+            "forks": "1,173",
+            "language": "Jupyter Notebook",
+            "stars_today": "581 stars this month"
+        },
+        {
+            "zh_des": "学习PyTorch深度学习：从零到掌握课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,518",
+            "forks": "2,831",
+            "language": "Jupyter Notebook",
+            "stars_today": "878 stars this month"
+        },
+        {
+            "zh_des": "10周，20堂课，全民数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,314",
+            "forks": "5,635",
+            "language": "Jupyter Notebook",
+            "stars_today": "523 stars this month"
+        },
+        {
+            "zh_des": "《开源大模型食用指南》基于Linux环境快速部门开源大模型，更适合中国国家安全部门教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,616",
+            "forks": "813",
+            "language": "Jupyter Notebook",
+            "stars_today": "973 stars this month"
+        },
+        {
+            "zh_des": "一系列笔记本/食谱展示了一些有趣且有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,810",
+            "forks": "436",
+            "language": "Jupyter Notebook",
+            "stars_today": "494 stars this month"
+        },
+        {
+            "zh_des": "cube studio开源原生式机器学习/深度学习/大模型AI平台，支持sso登录，多用户，大数据平台对接，笔记本在线开发，法拉任务流管道排，多机多卡分布式训练，超搜索数据库，推广服务VGPU，边缘计算，serverless，标记平台，自动化标注，数据集管理，大模型微调，vllm大模型推广，llmops，私人知识库，AI模型应用商店，支持模型一键开发/推广/微调，支持国产pu/gpu/npu芯片，支持RDX，支持pytorch/tf/mxnet/deepspeed/padder/padder/paddal/spark/ray/volcol格式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "3,213",
+            "forks": "562",
+            "language": "Jupyter Notebook",
+            "stars_today": "401 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,123",
+            "forks": "1,363",
+            "language": "Jupyter Notebook",
+            "stars_today": "396 stars this month"
+        },
+        {
+            "zh_des": "Python数据科学手册：Gluyter Notebook中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,266",
+            "forks": "17,734",
+            "language": "Jupyter Notebook",
+            "stars_today": "450 stars this month"
+        },
+        {
+            "zh_des": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读网址：https://datawhalechina.github.io/llm-universe/",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,836",
+            "forks": "499",
+            "language": "Jupyter Notebook",
+            "stars_today": "555 stars this month"
+        }
+    ]
+}
