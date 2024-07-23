@@ -30984,3 +30984,197 @@
         }
     ]
 }
+{
+    "07月23日": [
+        {
+            "zh_des": "💬Typebot是一款功能强大的聊天机器人构建器，您可以自行托管。",
+            "url": "https://github.com/baptisteArno/typebot.io",
+            "name": "baptisteArno /typebot.io",
+            "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+            "stars": "6,091",
+            "forks": "1,673",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,636",
+            "forks": "31,919",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Reaction社区✨中的一个框架",
+            "url": "https://github.com/umijs/umi",
+            "name": "umijs /umi",
+            "description": "A framework in react community ✨",
+            "stars": "15,133",
+            "forks": "2,644",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Lit是一个简单的库，用于构建快速、轻量级的Web组件。",
+            "url": "https://github.com/lit/lit",
+            "name": "lit /lit",
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "stars": "18,082",
+            "forks": "902",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "简单、强大和灵活的站点生成框架，包含您喜欢的来自Next.js的一切。",
+            "url": "https://github.com/shuding/nextra",
+            "name": "shuding /nextra",
+            "description": "Simple, powerful and flexible site generation framework with everything you love from Next.js.",
+            "stars": "10,978",
+            "forks": "1,216",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "13,665",
+            "forks": "579",
+            "language": "TypeScript",
+            "stars_today": "131 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "22,651",
+            "forks": "3,531",
+            "language": "TypeScript",
+            "stars_today": "254 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "114,478",
+            "forks": "14,351",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "🏓开源合成监控平台🏓",
+            "url": "https://github.com/openstatusHQ/openstatus",
+            "name": "openstatusHQ /openstatus",
+            "description": "🏓 The open-source synthetic monitoring platform 🏓",
+            "stars": "5,434",
+            "forks": "314",
+            "language": "TypeScript",
+            "stars_today": "302 stars today"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "2,996",
+            "forks": "354",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "15,719",
+            "forks": "4,142",
+            "language": "TypeScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "前端低代码框架，通过Json配置就能生成各种页面.",
+            "url": "https://github.com/baidu/amis",
+            "name": "baidu /amis",
+            "description": "前端低代码框架，通过 JSON 配置就能生成各种页面。",
+            "stars": "16,637",
+            "forks": "2,432",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "35,606",
+            "forks": "8,418",
+            "language": "TypeScript",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "音频波形播放器",
+            "url": "https://github.com/katspaugh/wavesurfer.js",
+            "name": "katspaugh /wavesurfer.js",
+            "description": "Audio waveform player",
+            "stars": "8,454",
+            "forks": "1,597",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "14,973",
+            "forks": "2,690",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "CURSO PARA APREND RESPECTION DESCRO CEO",
+            "url": "https://github.com/midudev/aprendiendo-react",
+            "name": "midudev /aprendiendo-react",
+            "description": "Curso para aprender React desde cero",
+            "stars": "7,133",
+            "forks": "1,046",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Nivo提供了一组丰富的dataviz组件，这些组件构建在令人惊叹的d3和reaction库之上。",
+            "url": "https://github.com/plouc/nivo",
+            "name": "plouc /nivo",
+            "description": "nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries",
+            "stars": "12,936",
+            "forks": "1,011",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "JupyterLab计算环境。",
+            "url": "https://github.com/jupyterlab/jupyterlab",
+            "name": "jupyterlab /jupyterlab",
+            "description": "JupyterLab computational environment.",
+            "stars": "13,981",
+            "forks": "3,234",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Quill是为兼容性和可扩展性而构建的现代所见即所得编辑器",
+            "url": "https://github.com/slab/quill",
+            "name": "slab /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+            "stars": "42,507",
+            "forks": "3,323",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        }
+    ]
+}

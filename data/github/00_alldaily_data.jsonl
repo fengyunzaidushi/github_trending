@@ -27724,3 +27724,187 @@
         }
     ]
 }
+{
+    "07月23日": [
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "16,120",
+            "forks": "1,581",
+            "language": "Python",
+            "stars_today": "1,521 stars today"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "33,081",
+            "forks": "2,476",
+            "language": "Java",
+            "stars_today": "1,095 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "305,650",
+            "forks": "32,767",
+            "language": "Python",
+            "stars_today": "1,470 stars today"
+        },
+        {
+            "zh_des": "X光，能穿透一切。也是最好的v2ray-core，支持XTLS。完全兼容的配置。",
+            "url": "https://github.com/XTLS/Xray-core",
+            "name": "XTLS /Xray-core",
+            "description": "Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.",
+            "stars": "23,124",
+            "forks": "3,702",
+            "language": "Go",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "一款适用于Android的V2Ray客户端，支持Xray核和v2Fly核",
+            "url": "https://github.com/2dust/v2rayNG",
+            "name": "2dust /v2rayNG",
+            "description": "A V2Ray client for Android, support Xray core and v2fly core",
+            "stars": "33,120",
+            "forks": "5,179",
+            "language": "Kotlin",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "基于巨蟒的网页自动化工具.既能控制浏览器，也能收发数据包.可兼顾浏览器自动化的便利性和请求的高效率。功能强大，内置无数人性化设计和便捷功能.语法简洁而优雅，代码量少.",
+            "url": "https://github.com/g1879/DrissionPage",
+            "name": "g1879 /DrissionPage",
+            "description": "基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。",
+            "stars": "6,901",
+            "forks": "671",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "NativeLink是一个开源的高性能构建缓存和远程执行服务器，兼容Bazel、Buck2、Reclient和其他与RBE兼容的构建系统。它提供了极快的构建速度，减少了测试剥落，并显著节省了基础设施成本。",
+            "url": "https://github.com/TraceMachina/nativelink",
+            "name": "TraceMachina /nativelink",
+            "description": "NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and significant infrastructure cost savings.",
+            "stars": "765",
+            "forks": "84",
+            "language": "Rust",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "15,715",
+            "forks": "1,092",
+            "language": "Lua",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "💬Typebot是一款功能强大的聊天机器人构建器，您可以自行托管。",
+            "url": "https://github.com/baptisteArno/typebot.io",
+            "name": "baptisteArno /typebot.io",
+            "description": "💬 Typebot is a powerful chatbot builder that you can self-host.",
+            "stars": "6,091",
+            "forks": "1,673",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "C/C++中的LLM推理",
+            "url": "https://github.com/ggerganov/llama.cpp",
+            "name": "ggerganov /llama.cpp",
+            "description": "LLM inference in C/C++",
+            "stars": "62,119",
+            "forks": "8,923",
+            "language": "C++",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "🗂️支持多个存储的文件列表/WebDAV程序，由Gin和Solidjs提供支持。/一个支持多存储的文件列表/WebDAV程序，使用Gin和Solidjs。",
+            "url": "https://github.com/alist-org/alist",
+            "name": "alist-org /alist",
+            "description": "🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。",
+            "stars": "40,233",
+            "forks": "5,211",
+            "language": "Go",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "一个包含常见断言和模拟的工具包，可以很好地处理标准库",
+            "url": "https://github.com/stretchr/testify",
+            "name": "stretchr /testify",
+            "description": "A toolkit with common assertions and mocks that plays nicely with the standard library",
+            "stars": "22,632",
+            "forks": "1,572",
+            "language": "Go",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "LaTeX简历/简历框架",
+            "url": "https://github.com/sinaatalay/rendercv",
+            "name": "sinaatalay /rendercv",
+            "description": "A LaTeX CV/Resume Framework",
+            "stars": "1,227",
+            "forks": "77",
+            "language": "Python",
+            "stars_today": "260 stars today"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "12,475",
+            "forks": "887",
+            "language": "JavaScript",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "材料：用户界面：即用即用的基础反应组件，永久免费。它包括材料用户界面，它实现了谷歌的材料设计。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.",
+            "stars": "92,636",
+            "forks": "31,919",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "爆米花时间是一个多平台，免费软件的BitTorrent客户端，其中包括一个集成的媒体播放器(Windows/Mac/Linux)一个黄油项目叉",
+            "url": "https://github.com/popcorn-official/popcorn-desktop",
+            "name": "popcorn-official /popcorn-desktop",
+            "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+            "stars": "9,126",
+            "forks": "616",
+            "language": "JavaScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "Reaction社区✨中的一个框架",
+            "url": "https://github.com/umijs/umi",
+            "name": "umijs /umi",
+            "description": "A framework in react community ✨",
+            "stars": "15,133",
+            "forks": "2,644",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Lit是一个简单的库，用于构建快速、轻量级的Web组件。",
+            "url": "https://github.com/lit/lit",
+            "name": "lit /lit",
+            "description": "Lit is a simple library for building fast, lightweight web components.",
+            "stars": "18,082",
+            "forks": "902",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
