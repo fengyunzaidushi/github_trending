@@ -23082,3 +23082,157 @@
         }
     ]
 }
+{
+    "07月24日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,896",
+            "forks": "843",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,796 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "57,359",
+            "forks": "29,505",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,296 stars this month"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,552",
+            "forks": "205",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,242 stars this month"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,545",
+            "forks": "2,840",
+            "language": "Jupyter Notebook",
+            "stars_today": "900 stars this month"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,339",
+            "forks": "5,640",
+            "language": "Jupyter Notebook",
+            "stars_today": "536 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,836",
+            "forks": "439",
+            "language": "Jupyter Notebook",
+            "stars_today": "505 stars this month"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,681",
+            "forks": "828",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,004 stars this month"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,860",
+            "forks": "501",
+            "language": "Jupyter Notebook",
+            "stars_today": "560 stars this month"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,294",
+            "forks": "17,735",
+            "language": "Jupyter Notebook",
+            "stars_today": "465 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,139",
+            "forks": "1,364",
+            "language": "Jupyter Notebook",
+            "stars_today": "387 stars this month"
+        },
+        {
+            "zh_des": "包含斯坦福大学的机器学习专业化的解决方案和注释，以及安德鲁·吴教授的Deeplearning.ai-Coursera(2022)",
+            "url": "https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera",
+            "name": "greyhatguy007 /Machine-Learning-Specialization-Coursera",
+            "description": "Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG",
+            "stars": "3,168",
+            "forks": "2,079",
+            "language": "Jupyter Notebook",
+            "stars_today": "184 stars this month"
+        },
+        {
+            "zh_des": "🦖𝗟𝗲𝗮𝗿𝗻通过设计、培训和部署实时财务顾问LLm系统免费了解𝗟𝗟𝗠𝘀、𝗟𝗟𝗠𝗢𝗽𝘀和𝘃𝗲𝗰𝘁𝗼𝗿𝗗𝗕𝘀~𝘴𝘰𝘶𝘳𝘤𝘦𝘤𝘰𝘥𝘦+𝘷𝘪𝘥𝘦𝘰&𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "2,766",
+            "forks": "439",
+            "language": "Jupyter Notebook",
+            "stars_today": "185 stars this month"
+        },
+        {
+            "zh_des": "该资源库包含用于图像动画的一阶运动模型的源代码",
+            "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+            "name": "AliaksandrSiarohin /first-order-model",
+            "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+            "stars": "14,342",
+            "forks": "3,189",
+            "language": "Jupyter Notebook",
+            "stars_today": "78 stars this month"
+        },
+        {
+            "zh_des": "《机器学习的数学》一书的配套网页",
+            "url": "https://github.com/mml-book/mml-book.github.io",
+            "name": "mml-book /mml-book.github.io",
+            "description": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+            "stars": "12,791",
+            "forks": "2,363",
+            "language": "Jupyter Notebook",
+            "stars_today": "193 stars this month"
+        },
+        {
+            "zh_des": "面向开发者的LLm入门教程，吴恩达大模型系列课程中文版",
+            "url": "https://github.com/datawhalechina/llm-cookbook",
+            "name": "datawhalechina /llm-cookbook",
+            "description": "面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版",
+            "stars": "10,773",
+            "forks": "1,290",
+            "language": "Jupyter Notebook",
+            "stars_today": "518 stars this month"
+        }
+    ]
+}

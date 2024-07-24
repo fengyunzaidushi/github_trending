@@ -23194,3 +23194,187 @@
         }
     ]
 }
+{
+    "07月24日": [
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,552",
+            "forks": "205",
+            "language": "Jupyter Notebook",
+            "stars_today": "601 stars this week"
+        },
+        {
+            "zh_des": "西北风模式的官方推理库",
+            "url": "https://github.com/mistralai/mistral-inference",
+            "name": "mistralai /mistral-inference",
+            "description": "Official inference library for Mistral models",
+            "stars": "9,313",
+            "forks": "816",
+            "language": "Jupyter Notebook",
+            "stars_today": "112 stars this week"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "6,407",
+            "forks": "1,674",
+            "language": "Jupyter Notebook",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "34,660",
+            "forks": "3,639",
+            "language": "Jupyter Notebook",
+            "stars_today": "385 stars this week"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,855",
+            "forks": "84,361",
+            "language": "Jupyter Notebook",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "PhotoMaker[CVPR 2024]",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker [CVPR 2024]",
+            "stars": "8,866",
+            "forks": "696",
+            "language": "Jupyter Notebook",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "TimeGPT-1：用于预测和异常检测的生产准备预训练时间序列基础模型。生成性预先训练的时间序列转换器，训练超过100B的数据点。只需几行代码🚀，它就能够准确预测零售、电力、金融和物联网等各个领域。",
+            "url": "https://github.com/Nixtla/nixtla",
+            "name": "Nixtla /nixtla",
+            "description": "TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.",
+            "stars": "2,044",
+            "forks": "162",
+            "language": "Jupyter Notebook",
+            "stars_today": "84 stars this week"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,139",
+            "forks": "1,364",
+            "language": "Jupyter Notebook",
+            "stars_today": "110 stars this week"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "3,123",
+            "forks": "233",
+            "language": "Jupyter Notebook",
+            "stars_today": "63 stars this week"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "16,209",
+            "forks": "4,122",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "金融中的机器学习：从理论到实践",
+            "url": "https://github.com/mfrdixon/ML_Finance_Codes",
+            "name": "mfrdixon /ML_Finance_Codes",
+            "description": "Machine Learning in Finance: From Theory to Practice Book",
+            "stars": "1,573",
+            "forks": "447",
+            "language": "Jupyter Notebook",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,424",
+            "forks": "12,627",
+            "language": "Jupyter Notebook",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "基于潜在扩散模型的高分辨率图像合成",
+            "url": "https://github.com/CompVis/latent-diffusion",
+            "name": "CompVis /latent-diffusion",
+            "description": "High-Resolution Image Synthesis with Latent Diffusion Models",
+            "stars": "11,179",
+            "forks": "1,458",
+            "language": "Jupyter Notebook",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "Lavis--语言视觉智能的一站式图书馆",
+            "url": "https://github.com/salesforce/LAVIS",
+            "name": "salesforce /LAVIS",
+            "description": "LAVIS - A One-stop Library for Language-Vision Intelligence",
+            "stars": "9,293",
+            "forks": "921",
+            "language": "Jupyter Notebook",
+            "stars_today": "55 stars this week"
+        },
+        {
+            "zh_des": "显然，​​是一个开源的ML和LLM可观察性框架。评估、测试和监控任何人工智能支持的系统或数据管道。从表格数据到新一代人工智能。100多个指标。",
+            "url": "https://github.com/evidentlyai/evidently",
+            "name": "evidentlyai /evidently",
+            "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+            "stars": "4,931",
+            "forks": "556",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "深度学习专业课程中所有课程的笔记、编程作业和测验。ai：(I)神经网络和深度学习；(Ii)改进深度神经网络：超参数调整、正则化和优化；(Iii)构建机器学习项目；(Iv)卷积神经网络…",
+            "url": "https://github.com/amanchadha/coursera-deep-learning-specialization",
+            "name": "amanchadha /coursera-deep-learning-specialization",
+            "description": "Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…",
+            "stars": "2,897",
+            "forks": "2,141",
+            "language": "Jupyter Notebook",
+            "stars_today": "25 stars this week"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "89,659",
+            "forks": "14,174",
+            "language": "Jupyter Notebook",
+            "stars_today": "477 stars this week"
+        },
+        {
+            "zh_des": "入门·\n问题·\n错误报告·\n贡献准备好做饭了吗？🚀这是Groq API的示例代码和指南的集合，供您浏览",
+            "url": "https://github.com/groq/groq-api-cookbook",
+            "name": "groq /groq-api-cookbook",
+            "description": "Getting Started •\n Questions •\n Bug Reporting •\n ContributingAre you ready to cook? 🚀 This is a collection of example code and guides for Groq API for you to explore",
+            "stars": "270",
+            "forks": "55",
+            "language": "Jupyter Notebook",
+            "stars_today": "18 stars this week"
+        }
+    ]
+}
