@@ -27018,3 +27018,167 @@
         }
     ]
 }
+{
+    "07月25日": [
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "13,015",
+            "forks": "924",
+            "language": "JavaScript",
+            "stars_today": "318 stars today"
+        },
+        {
+            "zh_des": "一个用户界面全部与Chatgpt Web、MidTriff、GPTS、Suno-v3、Luma；同时支持Web/PWA/Linux/Win/MacOS平台",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "name": "Dooy /chatgpt-web-midjourney-proxy",
+            "description": "One UI is all done with chatgpt web, midjourney, gpts,suno-v3,luma ; Simultaneous support Web / PWA / Linux / Win / MacOS platform",
+            "stars": "4,343",
+            "forks": "1,110",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "爆米花时间是一个多平台，免费软件的BitTorrent客户端，其中包括一个集成的媒体播放器(Windows/Mac/Linux)一个黄油项目叉",
+            "url": "https://github.com/popcorn-official/popcorn-desktop",
+            "name": "popcorn-official /popcorn-desktop",
+            "description": "Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player ( Windows / Mac / Linux ) A Butter-Project Fork",
+            "stars": "9,252",
+            "forks": "618",
+            "language": "JavaScript",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "77,646",
+            "forks": "4,043",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "轻量级、健壮、优雅的语法突出显示。",
+            "url": "https://github.com/PrismJS/prism",
+            "name": "PrismJS /prism",
+            "description": "Lightweight, robust, elegant syntax highlighting.",
+            "stars": "12,151",
+            "forks": "1,287",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个强大的CSS Linterer，可以帮助您避免错误并强制执行约定。",
+            "url": "https://github.com/stylelint/stylelint",
+            "name": "stylelint /stylelint",
+            "description": "A mighty CSS linter that helps you avoid errors and enforce conventions.",
+            "stars": "10,920",
+            "forks": "932",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "用于自动化Web用户界面测试的辅助功能引擎",
+            "url": "https://github.com/dequelabs/axe-core",
+            "name": "dequelabs /axe-core",
+            "description": "Accessibility engine for automated Web UI testing",
+            "stars": "5,785",
+            "forks": "750",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "OpenZeppelin Contracts是一个用于安全智能合同开发的库。",
+            "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+            "name": "OpenZeppelin /openzeppelin-contracts",
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "stars": "24,550",
+            "forks": "11,709",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "WebGL 3D高斯拼图查看器",
+            "url": "https://github.com/antimatter15/splat",
+            "name": "antimatter15 /splat",
+            "description": "WebGL 3D Gaussian Splat Viewer",
+            "stars": "1,757",
+            "forks": "177",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "《JavaScript样式指南》",
+            "url": "https://github.com/airbnb/javascript",
+            "name": "airbnb /javascript",
+            "description": "JavaScript Style Guide",
+            "stars": "143,778",
+            "forks": "26,379",
+            "language": "JavaScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "一组超过5400个免费的麻省理工学院授权的高质量SVG图标，供您在您的Web项目中使用。",
+            "url": "https://github.com/tabler/tabler-icons",
+            "name": "tabler /tabler-icons",
+            "description": "A set of over 5400 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+            "stars": "17,688",
+            "forks": "881",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "支持Word(.docx)、EXCEL(.xlsx，.xls)、pdf等各类型Office文件预览的Vue组件集合，提供一站式Office文件预览方案，支持vue2和3，也支持Reaction等非Vue框架。基于Web的pdf、Excel、Word预览库",
+            "url": "https://github.com/501351981/vue-office",
+            "name": "501351981 /vue-office",
+            "description": "支持word(.docx)、excel(.xlsx,.xls)、pdf等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word preview library",
+            "stars": "3,422",
+            "forks": "419",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "高性能Node.js图像处理，调整JPEG、PNG、WebP、AVIF和TIFF图像大小的最快模块。使用libvips库。",
+            "url": "https://github.com/lovell/sharp",
+            "name": "lovell /sharp",
+            "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library.",
+            "stars": "28,519",
+            "forks": "1,278",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "13,034",
+            "forks": "1,298",
+            "language": "JavaScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "学术个人网站的GitHub页面模板，源自错误数/最小错误数",
+            "url": "https://github.com/academicpages/academicpages.github.io",
+            "name": "academicpages /academicpages.github.io",
+            "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
+            "stars": "11,169",
+            "forks": "40,377",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "ReactJS面试问答500强榜单……编码练习题马上就要来了！！",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "name": "sudheerj /reactjs-interview-questions",
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+            "stars": "38,223",
+            "forks": "9,123",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        }
+    ]
+}

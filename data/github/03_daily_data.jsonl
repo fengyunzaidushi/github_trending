@@ -27896,3 +27896,147 @@
         }
     ]
 }
+{
+    "07月25日": [
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "306,427",
+            "forks": "32,820",
+            "language": "Python",
+            "stars_today": "768 stars today"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "15,594",
+            "forks": "1,825",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "17,107",
+            "forks": "1,639",
+            "language": "Python",
+            "stars_today": "1,052 stars today"
+        },
+        {
+            "zh_des": "Meta Llama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "24,057",
+            "forks": "2,607",
+            "language": "Python",
+            "stars_today": "234 stars today"
+        },
+        {
+            "zh_des": "从像素化的屏幕截图中恢复密码",
+            "url": "https://github.com/spipm/Depix",
+            "name": "spipm /Depix",
+            "description": "Recovers passwords from pixelized screenshots",
+            "stars": "25,487",
+            "forks": "3,131",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "开始以更轻松的方式构建支持LLM的多代理应用程序。",
+            "url": "https://github.com/modelscope/agentscope",
+            "name": "modelscope /agentscope",
+            "description": "Start building LLM-empowered multi-agent applications in an easier way.",
+            "stars": "3,740",
+            "forks": "246",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "LaTeX简历/简历框架",
+            "url": "https://github.com/sinaatalay/rendercv",
+            "name": "sinaatalay /rendercv",
+            "description": "A LaTeX CV/Resume Framework",
+            "stars": "1,416",
+            "forks": "82",
+            "language": "Python",
+            "stars_today": "198 stars today"
+        },
+        {
+            "zh_des": "使用OpenAI格式调用所有LLMAPI。使用BedRock、Azure、OpenAI、Cohery、Anthropic、Ollama、Sagemaker、HuggingFace、Replate、Groq(100+LLM)",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate, Groq (100+ LLMs)",
+            "stars": "10,738",
+            "forks": "1,217",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "开源RAG框架，用于构建GenAI Second Brains🧠构建生产力助手(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人形，顶点AI，Ollama，LLMS，Groq，您可以与用户分享！一种高效的检索增强生成框架",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework",
+            "stars": "34,339",
+            "forks": "3,366",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "3,871",
+            "forks": "1,026",
+            "language": "Python",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "PYTEST框架使编写小测试变得很容易，同时还可以扩展以支持复杂的功能测试",
+            "url": "https://github.com/pytest-dev/pytest",
+            "name": "pytest-dev /pytest",
+            "description": "The pytest framework makes it easy to write small tests, yet scales to support complex functional testing",
+            "stars": "11,699",
+            "forks": "2,601",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "19,697",
+            "forks": "2,031",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "1,381",
+            "forks": "118",
+            "language": "Python",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "使用Python类型提示进行数据验证",
+            "url": "https://github.com/pydantic/pydantic",
+            "name": "pydantic /pydantic",
+            "description": "Data validation using Python type hints",
+            "stars": "19,856",
+            "forks": "1,797",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        }
+    ]
+}
