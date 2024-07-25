@@ -28400,3 +28400,147 @@
         }
     ]
 }
+{
+    "07月25日": [
+        {
+            "zh_des": "Maestro：Netflix的工作流程绘图器",
+            "url": "https://github.com/Netflix/maestro",
+            "name": "Netflix /maestro",
+            "description": "Maestro: Netflix’s Workflow Orchestrator",
+            "stars": "1,693",
+            "forks": "90",
+            "language": "Java",
+            "stars_today": "419 stars today"
+        },
+        {
+            "zh_des": "#1本地托管的Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "34,465",
+            "forks": "2,560",
+            "language": "Java",
+            "stars_today": "978 stars today"
+        },
+        {
+            "zh_des": "Meta Lama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "24,231",
+            "forks": "2,630",
+            "language": "Python",
+            "stars_today": "447 stars today"
+        },
+        {
+            "zh_des": "生产级云就绪.NET 8入门套件（Web API + Blazor客户端），具有多租户支持和干净/模块化架构，可节省大约200多个开发时间！包括所有电池。",
+            "url": "https://github.com/fullstackhero/dotnet-starter-kit",
+            "name": "fullstackhero /dotnet-starter-kit",
+            "description": "Production Grade Cloud-Ready .NET 8 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.",
+            "stars": "4,549",
+            "forks": "1,385",
+            "language": "C#",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "适合懒惰者的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": "15,830",
+            "forks": "1,102",
+            "language": "Lua",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "freeCodeCamp.org的开源代码库和课程。免费学习编码。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "395,085",
+            "forks": "36,334",
+            "language": "TypeScript",
+            "stars_today": "336 stars today"
+        },
+        {
+            "zh_des": "开源API开发生态系统-https：hoppscotch.io（Postman、Inbox的开源替代品）",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "62,153",
+            "forks": "4,300",
+            "language": "TypeScript",
+            "stars_today": "333 stars today"
+        },
+        {
+            "zh_des": "极快的压缩算法",
+            "url": "https://github.com/lz4/lz4",
+            "name": "lz4 /lz4",
+            "description": "Extremely Fast Compression algorithm",
+            "stars": "9,720",
+            "forks": "1,357",
+            "language": "C",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "快速C++日志库。",
+            "url": "https://github.com/gabime/spdlog",
+            "name": "gabime /spdlog",
+            "description": "Fast C++ logging library.",
+            "stars": "23,240",
+            "forks": "4,404",
+            "language": "C++",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "C/C++中的LLM推理",
+            "url": "https://github.com/ggerganov/llama.cpp",
+            "name": "ggerganov /llama.cpp",
+            "description": "LLM inference in C/C++",
+            "stars": "62,414",
+            "forks": "8,955",
+            "language": "C++",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "15,626",
+            "forks": "1,827",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "脚蹼归零释放固",
+            "url": "https://github.com/DarkFlippers/unleashed-firmware",
+            "name": "DarkFlippers /unleashed-firmware",
+            "description": "Flipper Zero Unleashed Firmware",
+            "stars": "16,075",
+            "forks": "1,360",
+            "language": "C",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "策划的基于项目的教程列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "185,865",
+            "forks": "24,337",
+            "language": "",
+            "stars_today": "811 stars today"
+        },
+        {
+            "zh_des": "最受欢迎的HTML、CSS和JavaScript框架，用于在Web上开发响应式、移动优先项目。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "168,262",
+            "forks": "78,549",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        }
+    ]
+}

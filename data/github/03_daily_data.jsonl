@@ -28040,3 +28040,137 @@
         }
     ]
 }
+{
+    "07月25日": [
+        {
+            "zh_des": "Meta Lama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "24,231",
+            "forks": "2,630",
+            "language": "Python",
+            "stars_today": "447 stars today"
+        },
+        {
+            "zh_des": "CodeLlama模型的推理代码",
+            "url": "https://github.com/meta-llama/codellama",
+            "name": "meta-llama /codellama",
+            "description": "Inference code for CodeLlama models",
+            "stars": "15,626",
+            "forks": "1,827",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "Python - 100天从新人到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "153,289",
+            "forks": "51,784",
+            "language": "Python",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "LaTeX简历/简历框架",
+            "url": "https://github.com/sinaatalay/rendercv",
+            "name": "sinaatalay /rendercv",
+            "description": "A LaTeX CV/Resume Framework",
+            "stars": "1,477",
+            "forks": "82",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "用于LLM的高吞吐量和内存效率的推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "23,638",
+            "forks": "3,383",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "Ollama Python库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "2,977",
+            "forks": "249",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "👑易于使用且强大的NLP和LLM库，配备💌📄️🔍🗂🤗",
+            "url": "https://github.com/PaddlePaddle/PaddleNLP",
+            "name": "PaddlePaddle /PaddleNLP",
+            "description": "👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification, 🔍 Neural Search, ❓ Question Answering, ℹ️ Information Extraction, 📄 Document Intelligence, 💌 Sentiment Analysis etc.",
+            "stars": "11,788",
+            "forks": "2,877",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "骆驼模型的推断代码",
+            "url": "https://github.com/meta-llama/llama",
+            "name": "meta-llama /llama",
+            "description": "Inference code for Llama models",
+            "stars": "54,548",
+            "forks": "9,357",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "Streamlit -构建和共享数据应用程序的更快方法。",
+            "url": "https://github.com/streamlit/streamlit",
+            "name": "streamlit /streamlit",
+            "description": "Streamlit — A faster way to build and share data apps.",
+            "stars": "33,571",
+            "forks": "2,929",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "地球大气层的混合ML +物理模型",
+            "url": "https://github.com/google-research/neuralgcm",
+            "name": "google-research /neuralgcm",
+            "description": "Hybrid ML + physics model of the Earth's atmosphere",
+            "stars": "316",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和Pentest/CTF的有用负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,648",
+            "forks": "14,264",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为从机，设置cicd，以GitOps的方式使用Argo CD将应用程序部署到k8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "5,686",
+            "forks": "10,357",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "花卉：友好的联邦学习框架",
+            "url": "https://github.com/adap/flower",
+            "name": "adap /flower",
+            "description": "Flower: A Friendly Federated Learning Framework",
+            "stars": "4,548",
+            "forks": "797",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        }
+    ]
+}
