@@ -27550,3 +27550,187 @@
         }
     ]
 }
+{
+    "07月26日": [
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "13,235",
+            "forks": "943",
+            "language": "JavaScript",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "168,373",
+            "forks": "78,549",
+            "language": "JavaScript",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "Swagger UI是一组HTML、JavaScript和CSS资产，可以从与Swagger兼容的API动态生成漂亮的文档。",
+            "url": "https://github.com/swagger-api/swagger-ui",
+            "name": "swagger-api /swagger-ui",
+            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+            "stars": "26,076",
+            "forks": "8,876",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个用Java编写的图形节点引擎和编辑器，类似于PD或UDK蓝图，在HTML5 Canvas 2D中附带了自己的编辑器。该引擎可以使用Node运行客户端或服务器端。它允许将图形导出为JSON，以便独立地包含在应用程序中。",
+            "url": "https://github.com/jagenjo/litegraph.js",
+            "name": "jagenjo /litegraph.js",
+            "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+            "stars": "5,800",
+            "forks": "648",
+            "language": "JavaScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "30,644",
+            "forks": "3,622",
+            "language": "JavaScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "30天的反应挑战是一个循序渐进的指南，让你在30天内学会反应。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-React",
+            "name": "Asabeneh /30-Days-Of-React",
+            "description": "30 Days of React challenge is a step by step guide to learn React in 30 days. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "24,814",
+            "forks": "7,080",
+            "language": "JavaScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "105,648",
+            "forks": "28,654",
+            "language": "JavaScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "5,248",
+            "forks": "829",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "12,556",
+            "forks": "777",
+            "language": "JavaScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "👩‍💻👨‍💻流行编程语言、框架和开发工具的绝妙小抄。它们将您应该知道的所有内容都包含在一个文件中。",
+            "url": "https://github.com/LeCoupa/awesome-cheatsheets",
+            "name": "LeCoupa /awesome-cheatsheets",
+            "description": "👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.",
+            "stars": "38,755",
+            "forks": "6,065",
+            "language": "JavaScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "超级简单的所见即所得编辑器",
+            "url": "https://github.com/summernote/summernote",
+            "name": "summernote /summernote",
+            "description": "Super simple WYSIWYG editor",
+            "stars": "11,473",
+            "forks": "2,247",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "17,893",
+            "forks": "1,929",
+            "language": "JavaScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "暴露你自己",
+            "url": "https://github.com/localtunnel/localtunnel",
+            "name": "localtunnel /localtunnel",
+            "description": "expose yourself",
+            "stars": "18,657",
+            "forks": "1,316",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "构建您的第一个移动应用程序",
+            "url": "https://github.com/adrianhajdin/aora",
+            "name": "adrianhajdin /aora",
+            "description": "Build your first mobile application",
+            "stars": "1,124",
+            "forks": "204",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "77,670",
+            "forks": "4,051",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "JavaScript 3D库。",
+            "url": "https://github.com/mrdoob/three.js",
+            "name": "mrdoob /three.js",
+            "description": "JavaScript 3D Library.",
+            "stars": "100,797",
+            "forks": "35,222",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "使用Reaction拖放列表，美观且易于访问",
+            "url": "https://github.com/atlassian/react-beautiful-dnd",
+            "name": "atlassian /react-beautiful-dnd",
+            "description": "Beautiful and accessible drag and drop for lists with React",
+            "stars": "32,883",
+            "forks": "2,526",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "社区精心策划的模板列表，供核心引擎查找安全漏洞。",
+            "url": "https://github.com/projectdiscovery/nuclei-templates",
+            "name": "projectdiscovery /nuclei-templates",
+            "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+            "stars": "8,728",
+            "forks": "2,488",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}

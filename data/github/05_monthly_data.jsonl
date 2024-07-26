@@ -31308,3 +31308,177 @@
         }
     ]
 }
+{
+    "07月26日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "8,407",
+            "forks": "788",
+            "language": "Python",
+            "stars_today": "3,539 stars this month"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "38,977",
+            "forks": "7,497",
+            "language": "Python",
+            "stars_today": "5,833 stars this month"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "25,822",
+            "forks": "4,818",
+            "language": "Python",
+            "stars_today": "3,547 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "6,464",
+            "forks": "505",
+            "language": "Python",
+            "stars_today": "3,967 stars this month"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "306,700",
+            "forks": "32,845",
+            "language": "Python",
+            "stars_today": "10,437 stars this month"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "59,764",
+            "forks": "10,696",
+            "language": "Python",
+            "stars_today": "1,542 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "14,511",
+            "forks": "1,365",
+            "language": "Python",
+            "stars_today": "2,272 stars this month"
+        },
+        {
+            "zh_des": "Buzz在您的个人计算机上转录和翻译脱机音频。由OpenAI的Whisper提供支持。",
+            "url": "https://github.com/chidiwilliams/buzz",
+            "name": "chidiwilliams /buzz",
+            "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "stars": "11,206",
+            "forks": "849",
+            "language": "Python",
+            "stars_today": "668 stars this month"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "130,243",
+            "forks": "9,824",
+            "language": "Python",
+            "stars_today": "813 stars this month"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "9,044",
+            "forks": "906",
+            "language": "Python",
+            "stars_today": "1,007 stars this month"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "17,690",
+            "forks": "1,687",
+            "language": "Python",
+            "stars_today": "8,633 stars this month"
+        },
+        {
+            "zh_des": "数字化身对话系统-Linly-Talker。😄✨LINLY-TALKER是一个智能人工智能系统，它将大型语言模型(LLM)与视觉模型相结合，创建了一种新颖的人-AI交互方法。🤝🤖它集成了各种技术，如Whisper、Linly、微软语音服务和SadTalker Talk Head生成系统。🌟🔬",
+            "url": "https://github.com/Kedreamix/Linly-Talker",
+            "name": "Kedreamix /Linly-Talker",
+            "description": "Digital Avatar Conversational System - Linly-Talker. 😄✨ Linly-Talker is an intelligent AI system that combines large language models (LLMs) with visual models to create a novel human-AI interaction method. 🤝🤖 It integrates various technologies like Whisper, Linly, Microsoft Speech Services, and SadTalker talking head generation system. 🌟🔬",
+            "stars": "1,490",
+            "forks": "251",
+            "language": "Python",
+            "stars_today": "411 stars this month"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "11,708",
+            "forks": "2,446",
+            "language": "Python",
+            "stars_today": "1,155 stars this month"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "265,341",
+            "forks": "44,935",
+            "language": "Python",
+            "stars_today": "4,145 stars this month"
+        },
+        {
+            "zh_des": "快速、节省内存的精确关注",
+            "url": "https://github.com/Dao-AILab/flash-attention",
+            "name": "Dao-AILab /flash-attention",
+            "description": "Fast and memory-efficient exact attention",
+            "stars": "12,624",
+            "forks": "1,128",
+            "language": "Python",
+            "stars_today": "938 stars this month"
+        },
+        {
+            "zh_des": "[NeurIPS 2022]用码本查找转换器实现稳健的人脸盲恢复",
+            "url": "https://github.com/sczhou/CodeFormer",
+            "name": "sczhou /CodeFormer",
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "stars": "14,509",
+            "forks": "3,127",
+            "language": "Python",
+            "stars_today": "477 stars this month"
+        },
+        {
+            "zh_des": "PrisonAI应用程序将Autogen和CrewAI或类似框架结合到一个低代码解决方案中，用于构建和管理多代理LLM系统，专注于简单性、定制化和高效的人类代理协作。与您的整个代码库聊天。",
+            "url": "https://github.com/MervinPraison/PraisonAI",
+            "name": "MervinPraison /PraisonAI",
+            "description": "PraisonAI application combines AutoGen and CrewAI or similar frameworks into a low-code solution for building and managing multi-agent LLM systems, focusing on simplicity, customisation, and efficient human-agent collaboration. Chat with your ENTIRE Codebase.",
+            "stars": "1,810",
+            "forks": "245",
+            "language": "Python",
+            "stars_today": "886 stars this month"
+        }
+    ]
+}
