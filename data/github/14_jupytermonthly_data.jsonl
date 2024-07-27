@@ -23872,3 +23872,177 @@
         }
     ]
 }
+{
+    "07月27日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,964",
+            "forks": "848",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,845 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "57,520",
+            "forks": "29,604",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,380 stars this month"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,573",
+            "forks": "2,844",
+            "language": "Jupyter Notebook",
+            "stars_today": "909 stars this month"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,609",
+            "forks": "215",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,298 stars this month"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,358",
+            "forks": "5,646",
+            "language": "Jupyter Notebook",
+            "stars_today": "549 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,862",
+            "forks": "448",
+            "language": "Jupyter Notebook",
+            "stars_today": "494 stars this month"
+        },
+        {
+            "zh_des": "PhotoMaker[CVPR 2024]",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker [CVPR 2024]",
+            "stars": "8,947",
+            "forks": "708",
+            "language": "Jupyter Notebook",
+            "stars_today": "371 stars this month"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,760",
+            "forks": "14,994",
+            "language": "Jupyter Notebook",
+            "stars_today": "197 stars this month"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "3,250",
+            "forks": "566",
+            "language": "Jupyter Notebook",
+            "stars_today": "410 stars this month"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,900",
+            "forks": "504",
+            "language": "Jupyter Notebook",
+            "stars_today": "564 stars this month"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,308",
+            "forks": "17,738",
+            "language": "Jupyter Notebook",
+            "stars_today": "479 stars this month"
+        },
+        {
+            "zh_des": "具有接触的多关节动力学。一种通用的物理模拟器。",
+            "url": "https://github.com/google-deepmind/mujoco",
+            "name": "google-deepmind /mujoco",
+            "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+            "stars": "7,622",
+            "forks": "751",
+            "language": "Jupyter Notebook",
+            "stars_today": "165 stars this month"
+        },
+        {
+            "zh_des": "人造卫星的交互提示工程教程",
+            "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+            "name": "anthropics /prompt-eng-interactive-tutorial",
+            "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+            "stars": "252",
+            "forks": "48",
+            "language": "Jupyter Notebook",
+            "stars_today": "141 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,153",
+            "forks": "1,370",
+            "language": "Jupyter Notebook",
+            "stars_today": "347 stars this month"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,744",
+            "forks": "836",
+            "language": "Jupyter Notebook",
+            "stars_today": "959 stars this month"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,439",
+            "forks": "5,506",
+            "language": "Jupyter Notebook",
+            "stars_today": "950 stars this month"
+        },
+        {
+            "zh_des": "🦖𝗟𝗲𝗮𝗿𝗻通过设计、培训和部署实时财务顾问LLm系统免费了解𝗟𝗟𝗠𝘀、𝗟𝗟𝗠𝗢𝗽𝘀和𝘃𝗲𝗰𝘁𝗼𝗿𝗗𝗕𝘀~𝘴𝘰𝘶𝘳𝘤𝘦𝘤𝘰𝘥𝘦+𝘷𝘪𝘥𝘦𝘰&𝘳𝘦𝘢𝘥𝘪𝘯𝘨𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "url": "https://github.com/iusztinpaul/hands-on-llms",
+            "name": "iusztinpaul /hands-on-llms",
+            "description": "🦖 𝗟𝗲𝗮𝗿𝗻 about 𝗟𝗟𝗠𝘀, 𝗟𝗟𝗠𝗢𝗽𝘀, and 𝘃𝗲𝗰𝘁𝗼𝗿 𝗗𝗕𝘀 for free by designing, training, and deploying a real-time financial advisor LLM system ~ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘤𝘰𝘥𝘦 + 𝘷𝘪𝘥𝘦𝘰 & 𝘳𝘦𝘢𝘥𝘪𝘯𝘨 𝘮𝘢𝘵𝘦𝘳𝘪𝘢𝘭𝘴",
+            "stars": "2,780",
+            "forks": "440",
+            "language": "Jupyter Notebook",
+            "stars_today": "186 stars this month"
+        }
+    ]
+}

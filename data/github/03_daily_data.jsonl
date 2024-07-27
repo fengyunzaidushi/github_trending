@@ -28462,3 +28462,157 @@
         }
     ]
 }
+{
+    "07月27日": [
+        {
+            "zh_des": "Meta Llama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "24,620",
+            "forks": "2,676",
+            "language": "Python",
+            "stars_today": "328 stars today"
+        },
+        {
+            "zh_des": "30天的Python编程挑战是一个在30天内学习Python编程语言的循序渐进的指南。这项挑战可能需要100多天，按照你自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+            "name": "Asabeneh /30-Days-Of-Python",
+            "description": "30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "39,027",
+            "forks": "7,502",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "骆驼模型的推理代码",
+            "url": "https://github.com/meta-llama/llama",
+            "name": "meta-llama /llama",
+            "description": "Inference code for Llama models",
+            "stars": "54,648",
+            "forks": "9,364",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "将弹性语言代理构建为图形。",
+            "url": "https://github.com/langchain-ai/langgraph",
+            "name": "langchain-ai /langgraph",
+            "description": "Build resilient language agents as graphs.",
+            "stars": "4,669",
+            "forks": "706",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "58,684",
+            "forks": "14,272",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "53,165",
+            "forks": "3,860",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Linux、Jenkins、AWS、SRE、Prometheus、Docker、Python、Ansible、Git、Kubernetes、Terraform、OpenStack、SQL、NoSQL、Azure、GCP、DNS、Elastic、Network、Virtualization。DevOps面试问题",
+            "url": "https://github.com/bregman-arie/devops-exercises",
+            "name": "bregman-arie /devops-exercises",
+            "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+            "stars": "65,132",
+            "forks": "14,469",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "23,726",
+            "forks": "3,405",
+            "language": "Python",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "3,060",
+            "forks": "259",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "Chronos：概率时间序列预测的预训练(语言)模型",
+            "url": "https://github.com/amazon-science/chronos-forecasting",
+            "name": "amazon-science /chronos-forecasting",
+            "description": "Chronos: Pretrained (Language) Models for Probabilistic Time Series Forecasting",
+            "stars": "2,149",
+            "forks": "252",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🦔PostHog提供开源产品分析、会话记录、功能标记和A/B测试，您可以自行托管。",
+            "url": "https://github.com/PostHog/posthog",
+            "name": "PostHog /posthog",
+            "description": "🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.",
+            "stars": "19,800",
+            "forks": "1,170",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "1,749",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "210 stars today"
+        },
+        {
+            "zh_des": "稳定性人工智能的产生式模型",
+            "url": "https://github.com/Stability-AI/generative-models",
+            "name": "Stability-AI /generative-models",
+            "description": "Generative Models by Stability AI",
+            "stars": "23,522",
+            "forks": "2,603",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "Llama3、Llama3.1中文仓库(聚合资料，各种网友及厂商微调、魔改版本有趣权重&训练、推理、评测、部署教程视频&文档)",
+            "url": "https://github.com/CrazyBoyM/llama3-Chinese-chat",
+            "name": "CrazyBoyM /llama3-Chinese-chat",
+            "description": "Llama3、Llama3.1 中文仓库（聚合资料，各种网友及厂商微调、魔改版本有趣权重 & 训练、推理、评测、部署教程视频 & 文档）",
+            "stars": "3,449",
+            "forks": "279",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Streamlight-构建和共享数据应用程序的一种更快的方式。",
+            "url": "https://github.com/streamlit/streamlit",
+            "name": "streamlit /streamlit",
+            "description": "Streamlit — A faster way to build and share data apps.",
+            "stars": "33,597",
+            "forks": "2,931",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        }
+    ]
+}
