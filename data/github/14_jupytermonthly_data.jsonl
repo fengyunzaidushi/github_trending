@@ -24046,3 +24046,177 @@
         }
     ]
 }
+{
+    "07月27日": [
+        {
+            "zh_des": "用于量化金融的Python工具包",
+            "url": "https://github.com/goldmansachs/gs-quant",
+            "name": "goldmansachs /gs-quant",
+            "description": "Python toolkit for quantitative finance",
+            "stars": "6,974",
+            "forks": "849",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,845 stars this month"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "57,548",
+            "forks": "29,620",
+            "language": "Jupyter Notebook",
+            "stars_today": "9,380 stars this month"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,610",
+            "forks": "215",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,298 stars this month"
+        },
+        {
+            "zh_des": "深度学习的学习火炬：从零到精通课程的材料。",
+            "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+            "name": "mrdbourke /pytorch-deep-learning",
+            "description": "Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.",
+            "stars": "9,577",
+            "forks": "2,846",
+            "language": "Jupyter Notebook",
+            "stars_today": "909 stars this month"
+        },
+        {
+            "zh_des": "PhotoMaker[CVPR 2024]",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker [CVPR 2024]",
+            "stars": "8,957",
+            "forks": "709",
+            "language": "Jupyter Notebook",
+            "stars_today": "371 stars this month"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,363",
+            "forks": "5,646",
+            "language": "Jupyter Notebook",
+            "stars_today": "549 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,867",
+            "forks": "448",
+            "language": "Jupyter Notebook",
+            "stars_today": "494 stars this month"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "10,841",
+            "forks": "1,542",
+            "language": "Jupyter Notebook",
+            "stars_today": "569 stars this month"
+        },
+        {
+            "zh_des": "Wes McKinney所著《用于数据分析的Python》的材料和IPython笔记本，由O‘Reilly Media出版",
+            "url": "https://github.com/wesm/pydata-book",
+            "name": "wesm /pydata-book",
+            "description": "Materials and IPython notebooks for \"Python for Data Analysis\" by Wes McKinney, published by O'Reilly Media",
+            "stars": "21,762",
+            "forks": "14,993",
+            "language": "Jupyter Notebook",
+            "stars_today": "197 stars this month"
+        },
+        {
+            "zh_des": "该资源库包含用于图像动画的一阶运动模型的源代码",
+            "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+            "name": "AliaksandrSiarohin /first-order-model",
+            "description": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+            "stars": "14,351",
+            "forks": "3,191",
+            "language": "Jupyter Notebook",
+            "stars_today": "84 stars this month"
+        },
+        {
+            "zh_des": "Cube Studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持SSO登录，多租户，大数据平台对接，笔记本在线开发，拖拉拽任务流流水线编排，多机多卡分布式训练，超参搜索，推理服务显卡，边缘计算，无服务器，标注平台，自动化标注，数据集管理，大模型微调，VLIM大模型推理，llmop，私有知识库，AI pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano模型应用商店，支持模型一键开发/推理/微调，支持国产cpugu/nPU芯片，支持rdma，支持AI分布式",
+            "url": "https://github.com/tencentmusic/cube-studio",
+            "name": "tencentmusic /cube-studio",
+            "description": "cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式",
+            "stars": "3,255",
+            "forks": "568",
+            "language": "Jupyter Notebook",
+            "stars_today": "410 stars this month"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,314",
+            "forks": "17,740",
+            "language": "Jupyter Notebook",
+            "stars_today": "479 stars this month"
+        },
+        {
+            "zh_des": "：https://datawhalechina.github.io/llm-universe/本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/llm-universe",
+            "name": "datawhalechina /llm-universe",
+            "description": "本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/",
+            "stars": "3,906",
+            "forks": "504",
+            "language": "Jupyter Notebook",
+            "stars_today": "564 stars this month"
+        },
+        {
+            "zh_des": "12周，24节课，人工智能为所有人服务！",
+            "url": "https://github.com/microsoft/AI-For-Beginners",
+            "name": "microsoft /AI-For-Beginners",
+            "description": "12 Weeks, 24 Lessons, AI for All!",
+            "stars": "33,445",
+            "forks": "5,509",
+            "language": "Jupyter Notebook",
+            "stars_today": "950 stars this month"
+        },
+        {
+            "zh_des": "2022-机器学习-专业化",
+            "url": "https://github.com/kaieye/2022-Machine-Learning-Specialization",
+            "name": "kaieye /2022-Machine-Learning-Specialization",
+            "description": "2022-Machine-Learning-Specialization",
+            "stars": "4,026",
+            "forks": "1,562",
+            "language": "Jupyter Notebook",
+            "stars_today": "146 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,155",
+            "forks": "1,371",
+            "language": "Jupyter Notebook",
+            "stars_today": "347 stars this month"
+        },
+        {
+            "zh_des": "人造卫星的交互提示工程教程",
+            "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+            "name": "anthropics /prompt-eng-interactive-tutorial",
+            "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+            "stars": "253",
+            "forks": "48",
+            "language": "Jupyter Notebook",
+            "stars_today": "141 stars this month"
+        }
+    ]
+}

@@ -32356,3 +32356,177 @@
         }
     ]
 }
+{
+    "07月27日": [
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "395,665",
+            "forks": "36,392",
+            "language": "TypeScript",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "35,920",
+            "forks": "8,515",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "Next.js商业",
+            "url": "https://github.com/vercel/commerce",
+            "name": "vercel /commerce",
+            "description": "Next.js Commerce",
+            "stars": "10,735",
+            "forks": "3,937",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "OpenUI让你用你的想象力描述用户界面，然后看到它的现场渲染。",
+            "url": "https://github.com/wandb/openui",
+            "name": "wandb /openui",
+            "description": "OpenUI let's you describe UI using your imagination, then see it rendered live.",
+            "stars": "17,603",
+            "forks": "1,588",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "20,982",
+            "forks": "3,937",
+            "language": "TypeScript",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "一个奇特的、易于使用的、能动的自托管码头组合。yaml面向堆栈的管理器",
+            "url": "https://github.com/louislam/dockge",
+            "name": "louislam /dockge",
+            "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+            "stars": "10,989",
+            "forks": "309",
+            "language": "TypeScript",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,513",
+            "forks": "8,062",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "39,257",
+            "forks": "5,379",
+            "language": "TypeScript",
+            "stars_today": "224 stars today"
+        },
+        {
+            "zh_des": "基于Fetch API的🌳Tmall&优雅的JavaScript HTTP客户端",
+            "url": "https://github.com/sindresorhus/ky",
+            "name": "sindresorhus /ky",
+            "description": "🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API",
+            "stars": "12,309",
+            "forks": "346",
+            "language": "TypeScript",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "为成长中的团队提供最快的知识库。美观、实时协作、功能丰富、兼容降价。",
+            "url": "https://github.com/outline/outline",
+            "name": "outline /outline",
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "stars": "26,479",
+            "forks": "2,117",
+            "language": "TypeScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "62,422",
+            "forks": "4,310",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Deskreen将任何带有Web浏览器的设备都变成计算机的辅助屏幕。⭐️之星支持我们的工作！",
+            "url": "https://github.com/pavlobu/deskreen",
+            "name": "pavlobu /deskreen",
+            "description": "Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!",
+            "stars": "15,592",
+            "forks": "839",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "13,811",
+            "forks": "980",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Ollama JavaScript库",
+            "url": "https://github.com/ollama/ollama-js",
+            "name": "ollama /ollama-js",
+            "description": "Ollama JavaScript library",
+            "stars": "1,682",
+            "forks": "111",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "41,747",
+            "forks": "4,530",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "83,582",
+            "forks": "9,158",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "60,872",
+            "forks": "13,184",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}
