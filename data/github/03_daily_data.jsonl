@@ -28750,3 +28750,137 @@
         }
     ]
 }
+{
+    "07月28日": [
+        {
+            "zh_des": "Meta Lama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "24,768",
+            "forks": "2,695",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "Ollama Python库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "3,180",
+            "forks": "266",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "一款一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "2,308",
+            "forks": "181",
+            "language": "Python",
+            "stars_today": "209 stars today"
+        },
+        {
+            "zh_des": "花卉：友好的联邦学习框架",
+            "url": "https://github.com/adap/flower",
+            "name": "adap /flower",
+            "description": "Flower: A Friendly Federated Learning Framework",
+            "stars": "4,597",
+            "forks": "801",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "77,882",
+            "forks": "6,110",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "用于LLM的高吞吐量和内存效率的推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "23,760",
+            "forks": "3,409",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。",
+            "url": "https://github.com/Chenyme/Chenyme-AAVT",
+            "name": "Chenyme /Chenyme-AAVT",
+            "description": "这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。",
+            "stars": "877",
+            "forks": "89",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "分享 GitHub 上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "88,504",
+            "forks": "9,505",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "恶意交通检测系统",
+            "url": "https://github.com/stamparm/maltrail",
+            "name": "stamparm /maltrail",
+            "description": "Malicious traffic detection system",
+            "stars": "6,047",
+            "forks": "1,029",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Apprise -推送几乎适用于所有平台的收件箱！",
+            "url": "https://github.com/caronc/apprise",
+            "name": "caronc /apprise",
+            "description": "Apprise - Push Notifications that work with just about every platform!",
+            "stars": "11,069",
+            "forks": "395",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "Buzz在您的个人计算机上离线转录和翻译音频。由OpenAI的Whisper提供支持。",
+            "url": "https://github.com/chidiwilliams/buzz",
+            "name": "chidiwilliams /buzz",
+            "description": "Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.",
+            "stars": "11,269",
+            "forks": "851",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "OpenMMLab检测收件箱和基准",
+            "url": "https://github.com/open-mmlab/mmdetection",
+            "name": "open-mmlab /mmdetection",
+            "description": "OpenMMLab Detection Toolbox and Benchmark",
+            "stars": "28,705",
+            "forks": "9,318",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "实时互动流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "1,070",
+            "forks": "240",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
