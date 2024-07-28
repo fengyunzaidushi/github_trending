@@ -28884,3 +28884,157 @@
         }
     ]
 }
+{
+    "07月28日": [
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "2,557",
+            "forks": "202",
+            "language": "Python",
+            "stars_today": "543 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "136,817",
+            "forks": "26,048",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "用语音数据轻松训练一个好的VC模型<=10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "21,557",
+            "forks": "3,281",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "14,612",
+            "forks": "1,379",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的稳定扩散图形用户界面、API和后端的图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.",
+            "stars": "43,446",
+            "forks": "4,598",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "3,209",
+            "forks": "268",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge安装ForgeForge状态正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，用于简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeForge StatusUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "5,477",
+            "forks": "550",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "11,302",
+            "forks": "1,218",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "35,999",
+            "forks": "2,349",
+            "language": "Python",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "创建具有长期内存和自定义工具📚🦙的LLm代理",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Create LLM agents with long-term memory and custom tools 📚🦙",
+            "stars": "10,939",
+            "forks": "1,183",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "26,682",
+            "forks": "5,837",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "使用LLM工作流自动执行代码审查、修补和文档编制等繁琐的开发工作。",
+            "url": "https://github.com/patched-codes/patchwork",
+            "name": "patched-codes /patchwork",
+            "description": "Automate development gruntwwork like code reviews, patching and documentation with LLM workflows.",
+            "stars": "388",
+            "forks": "16",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "一个API包装器，用于用Python语言编写的不一致。",
+            "url": "https://github.com/Rapptz/discord.py",
+            "name": "Rapptz /discord.py",
+            "description": "An API wrapper for Discord written in Python.",
+            "stars": "14,583",
+            "forks": "3,747",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "77,927",
+            "forks": "6,111",
+            "language": "Python",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "🎮中文版DOS游戏收藏。",
+            "url": "https://github.com/rwv/chinese-dos-games",
+            "name": "rwv /chinese-dos-games",
+            "description": "🎮 Chinese DOS games collections.",
+            "stars": "8,472",
+            "forks": "1,034",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
