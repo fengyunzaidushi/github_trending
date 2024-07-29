@@ -29712,3 +29712,187 @@
         }
     ]
 }
+{
+    "07月29日": [
+        {
+            "zh_des": "😎列出了各种有趣的话题",
+            "url": "https://github.com/sindresorhus/awesome",
+            "name": "sindresorhus /awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "stars": "315,306",
+            "forks": "27,369",
+            "language": "",
+            "stars_today": "545 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "3,478",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "901 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3.1、Mistral、Gema 2和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+            "stars": "81,931",
+            "forks": "6,262",
+            "language": "Go",
+            "stars_today": "441 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "396,198",
+            "forks": "36,436",
+            "language": "TypeScript",
+            "stars_today": "302 stars today"
+        },
+        {
+            "zh_des": "API文档浏览器",
+            "url": "https://github.com/freeCodeCamp/devdocs",
+            "name": "freeCodeCamp /devdocs",
+            "description": "API Documentation Browser",
+            "stars": "34,534",
+            "forks": "2,302",
+            "language": "Ruby",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "300,477",
+            "forks": "75,501",
+            "language": "",
+            "stars_today": "266 stars today"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "15,328",
+            "forks": "1,091",
+            "language": "JavaScript",
+            "stars_today": "1,566 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge安装ForgeForge状态正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，用于简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeForge StatusUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "5,515",
+            "forks": "552",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "公务员从入门到上岸，最佳程序员公考实践教程",
+            "url": "https://github.com/miss-mumu/developer2gwy",
+            "name": "miss-mumu /developer2gwy",
+            "description": "公务员从入门到上岸，最佳程序员公考实践教程",
+            "stars": "4,060",
+            "forks": "371",
+            "language": "",
+            "stars_today": "312 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "38,853",
+            "forks": "5,231",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "39,124",
+            "forks": "2,025",
+            "language": "Dart",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "一个自动化的电子邮件OSINT工具",
+            "url": "https://github.com/alpkeskin/mosint",
+            "name": "alpkeskin /mosint",
+            "description": "An automated e-mail OSINT tool",
+            "stars": "4,452",
+            "forks": "541",
+            "language": "Go",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "36,153",
+            "forks": "2,353",
+            "language": "Python",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "187,769",
+            "forks": "24,516",
+            "language": "",
+            "stars_today": "521 stars today"
+        },
+        {
+            "zh_des": "网络瑞士军刀-一款用于加密、编码、压缩和数据分析的Web应用程序",
+            "url": "https://github.com/gchq/CyberChef",
+            "name": "gchq /CyberChef",
+            "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+            "stars": "27,737",
+            "forks": "3,124",
+            "language": "JavaScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "GPT4All：在任何设备上与本地LLM聊天",
+            "url": "https://github.com/nomic-ai/gpt4all",
+            "name": "nomic-ai /gpt4all",
+            "description": "GPT4All: Chat with Local LLMs on Any Device",
+            "stars": "68,035",
+            "forks": "7,473",
+            "language": "C++",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "通用代理平台",
+            "url": "https://github.com/SagerNet/sing-box",
+            "name": "SagerNet /sing-box",
+            "description": "The universal proxy platform",
+            "stars": "16,856",
+            "forks": "2,052",
+            "language": "Go",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "用于流媒体和下载媒体的Android应用程序。",
+            "url": "https://github.com/recloudstream/cloudstream",
+            "name": "recloudstream /cloudstream",
+            "description": "Android app for streaming and downloading media.",
+            "stars": "5,975",
+            "forks": "496",
+            "language": "Kotlin",
+            "stars_today": "38 stars today"
+        }
+    ]
+}

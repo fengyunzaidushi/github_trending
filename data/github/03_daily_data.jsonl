@@ -29192,3 +29192,187 @@
         }
     ]
 }
+{
+    "07月29日": [
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "3,478",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "901 stars today"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge安装ForgeForge状态正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，用于简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeInstalling ForgeForge StatusUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "5,515",
+            "forks": "552",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "38,853",
+            "forks": "5,231",
+            "language": "Python",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "36,153",
+            "forks": "2,353",
+            "language": "Python",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "78,018",
+            "forks": "6,117",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "HACS为您提供了一个强大的用户界面来处理您所有定制需求的下载。",
+            "url": "https://github.com/hacs/integration",
+            "name": "hacs /integration",
+            "description": "HACS gives you a powerful UI to handle downloads of all your custom needs.",
+            "stars": "4,945",
+            "forks": "1,239",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "3,237",
+            "forks": "270",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "130,303",
+            "forks": "9,835",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🍰桌面实用程序可从各种网站下载图像/视频/音乐/文本等。",
+            "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+            "name": "KurtBestor /Hitomi-Downloader",
+            "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+            "stars": "21,191",
+            "forks": "1,978",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "213,980",
+            "forks": "24,681",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "26,714",
+            "forks": "5,841",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "11,332",
+            "forks": "1,222",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "2,766",
+            "forks": "451",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🔰家庭助理操作系统",
+            "url": "https://github.com/home-assistant/operating-system",
+            "name": "home-assistant /operating-system",
+            "description": "🔰 Home Assistant Operating System",
+            "stars": "4,607",
+            "forks": "941",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "16,335",
+            "forks": "1,535",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "1,166",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "在你的Windows 10和Windows 11 PC上运行Windows Subsystem for Android，使用预置的二进制文件，并内置Google Play Store(MindTheGapp)和/或Magisk或KernelSU(根解决方案)。",
+            "url": "https://github.com/MustardChef/WSABuilds",
+            "name": "MustardChef /WSABuilds",
+            "description": "Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.",
+            "stars": "7,203",
+            "forks": "1,231",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "65,240",
+            "forks": "7,630",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        }
+    ]
+}
