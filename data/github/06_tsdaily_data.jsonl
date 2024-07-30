@@ -33340,3 +33340,227 @@
         }
     ]
 }
+{
+    "07月30日": [
+        {
+            "zh_des": "[WIP]下一代信息浏览器",
+            "url": "https://github.com/RSSNext/follow",
+            "name": "RSSNext /follow",
+            "description": "[WIP] Next generation information browser",
+            "stars": "1,285",
+            "forks": "30",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Solana JavaScript SDK",
+            "url": "https://github.com/solana-labs/solana-web3.js",
+            "name": "solana-labs /solana-web3.js",
+            "description": "Solana JavaScript SDK",
+            "stars": "2,010",
+            "forks": "805",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "39,657",
+            "forks": "5,437",
+            "language": "TypeScript",
+            "stars_today": "140 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "396,489",
+            "forks": "36,467",
+            "language": "TypeScript",
+            "stars_today": "318 stars today"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "11,514",
+            "forks": "1,044",
+            "language": "TypeScript",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "这是一个免费的开源SaaS应用程序初学者，适用于具有超能力的Reaction&Node.js。生产准备就绪。以社区为导向。",
+            "url": "https://github.com/wasp-lang/open-saas",
+            "name": "wasp-lang /open-saas",
+            "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.",
+            "stars": "6,633",
+            "forks": "621",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "具有完全可配置选项的Performant交互式底板🚀",
+            "url": "https://github.com/gorhom/react-native-bottom-sheet",
+            "name": "gorhom /react-native-bottom-sheet",
+            "description": "A performant interactive bottom sheet with fully configurable options 🚀",
+            "stars": "6,445",
+            "forks": "727",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "JHipster是一个快速生成、开发和部署现代Web应用程序和微服务架构的开发平台。",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "name": "jhipster /generator-jhipster",
+            "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+            "stars": "21,365",
+            "forks": "4,014",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "概念风格的所见即所得编辑器，具有人工智能支持的自动完成功能。",
+            "url": "https://github.com/steven-tey/novel",
+            "name": "steven-tey /novel",
+            "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+            "stars": "11,969",
+            "forks": "997",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "15,913",
+            "forks": "4,217",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "15,246",
+            "forks": "1,551",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "65,388",
+            "forks": "3,775",
+            "language": "TypeScript",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Mihomo Dashboard，官方版本，XD",
+            "url": "https://github.com/MetaCubeX/metacubexd",
+            "name": "MetaCubeX /metacubexd",
+            "description": "Mihomo Dashboard, The Official One, XD",
+            "stars": "1,255",
+            "forks": "219",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "为iOS、安卓和网络⚡️构建跨平台的原生渐进式网络应用",
+            "url": "https://github.com/ionic-team/capacitor",
+            "name": "ionic-team /capacitor",
+            "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+            "stars": "11,564",
+            "forks": "985",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "基于Fetch API的🌳Tmall&优雅的JavaScript HTTP客户端",
+            "url": "https://github.com/sindresorhus/ky",
+            "name": "sindresorhus /ky",
+            "description": "🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API",
+            "stars": "12,572",
+            "forks": "350",
+            "language": "TypeScript",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装",
+            "url": "https://github.com/aws-samples/generative-ai-use-cases-jp",
+            "name": "aws-samples /generative-ai-use-cases-jp",
+            "description": "すぐに業務活用できるビジネスユースケース集付きの安全な生成AIアプリ実装",
+            "stars": "550",
+            "forks": "98",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个炙手可热的快速人工智能网关。使用1个快速友好的API路由至200多个LLMS。",
+            "url": "https://github.com/Portkey-AI/gateway",
+            "name": "Portkey-AI /gateway",
+            "description": "A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.",
+            "stars": "5,444",
+            "forks": "365",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "25,810",
+            "forks": "2,182",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "下一代数据科学集成开发环境Positron",
+            "url": "https://github.com/posit-dev/positron",
+            "name": "posit-dev /positron",
+            "description": "Positron, a next-generation data science IDE",
+            "stars": "1,989",
+            "forks": "60",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Reaction Native的动画库重新实现",
+            "url": "https://github.com/software-mansion/react-native-reanimated",
+            "name": "software-mansion /react-native-reanimated",
+            "description": "React Native's Animated library reimplemented",
+            "stars": "8,710",
+            "forks": "1,273",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "ApacheECharts是一个功能强大的交互式图表和数据可视化浏览器库",
+            "url": "https://github.com/apache/echarts",
+            "name": "apache /echarts",
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "stars": "59,800",
+            "forks": "19,584",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "66,405",
+            "forks": "5,941",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        }
+    ]
+}
