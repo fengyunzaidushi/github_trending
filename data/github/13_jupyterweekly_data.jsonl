@@ -24856,3 +24856,187 @@
         }
     ]
 }
+{
+    "07月30日": [
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "10,943",
+            "forks": "1,550",
+            "language": "Jupyter Notebook",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "34,887",
+            "forks": "3,661",
+            "language": "Jupyter Notebook",
+            "stars_today": "408 stars this week"
+        },
+        {
+            "zh_des": "PhotoMaker[CVPR 2024]",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker [CVPR 2024]",
+            "stars": "8,995",
+            "forks": "710",
+            "language": "Jupyter Notebook",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,884",
+            "forks": "84,423",
+            "language": "Jupyter Notebook",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "卡尔曼滤波书使用Jupyter笔记本。专注于建立直觉和经验，而不是形式上的证明。包括卡尔曼滤镜、扩展卡尔曼滤镜、无迹卡尔曼滤镜、粒子滤镜等。所有练习都包含解决方案。",
+            "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+            "name": "rlabbe /Kalman-and-Bayesian-Filters-in-Python",
+            "description": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+            "stars": "16,221",
+            "forks": "4,126",
+            "language": "Jupyter Notebook",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "GPT-提示-工程师",
+            "url": "https://github.com/mshumer/gpt-prompt-engineer",
+            "name": "mshumer /gpt-prompt-engineer",
+            "description": "gpt-prompt-engineer",
+            "stars": "9,122",
+            "forks": "636",
+            "language": "Jupyter Notebook",
+            "stars_today": "790 stars this week"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "89,954",
+            "forks": "14,221",
+            "language": "Jupyter Notebook",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml2",
+            "name": "ageron /handson-ml2",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "27,452",
+            "forks": "12,638",
+            "language": "Jupyter Notebook",
+            "stars_today": "89 stars this week"
+        },
+        {
+            "zh_des": "入门·\n问题·\n错误报告·\n贡献准备好做饭了吗？🚀这是Groq API的示例代码和指南的集合，供您浏览",
+            "url": "https://github.com/groq/groq-api-cookbook",
+            "name": "groq /groq-api-cookbook",
+            "description": "Getting Started •\n Questions •\n Bug Reporting •\n ContributingAre you ready to cook? 🚀 This is a collection of example code and guides for Groq API for you to explore",
+            "stars": "303",
+            "forks": "61",
+            "language": "Jupyter Notebook",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "生成性AI参考工作流针对加速基础设施和微服务体系结构进行了优化。",
+            "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+            "name": "NVIDIA /GenerativeAIExamples",
+            "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+            "stars": "1,896",
+            "forks": "332",
+            "language": "Jupyter Notebook",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "“开源大模型食用指南”基于linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "url": "https://github.com/datawhalechina/self-llm",
+            "name": "datawhalechina /self-llm",
+            "description": "《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程",
+            "stars": "6,800",
+            "forks": "841",
+            "language": "Jupyter Notebook",
+            "stars_today": "175 stars this week"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "3,153",
+            "forks": "235",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars this week"
+        },
+        {
+            "zh_des": "使用SOTA计算机视觉模型和技术的示例和教程。从老式的ResNet，通过YOLO和像DETR这样的物体探测变压器，到像接地Dino和SAM这样的最新型号，学习一切。",
+            "url": "https://github.com/roboflow/notebooks",
+            "name": "roboflow /notebooks",
+            "description": "Examples and tutorials on using SOTA computer vision models and techniques. Learn everything from old-school ResNet, through YOLO and object-detection transformers like DETR, to the latest models like Grounding DINO and SAM.",
+            "stars": "4,894",
+            "forks": "760",
+            "language": "Jupyter Notebook",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "该存储库包含客户开始使用Amazon Bedock Service的示例。其中包含所有可用基础模型的示例",
+            "url": "https://github.com/aws-samples/amazon-bedrock-samples",
+            "name": "aws-samples /amazon-bedrock-samples",
+            "description": "This repository contains examples for customers to get started using the Amazon Bedrock Service. This contains examples for all available foundational models",
+            "stars": "401",
+            "forks": "205",
+            "language": "Jupyter Notebook",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,923",
+            "forks": "2,810",
+            "language": "Jupyter Notebook",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "23,911",
+            "forks": "3,153",
+            "language": "Jupyter Notebook",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "算法交易的机器学习代码，第2版。",
+            "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+            "name": "stefan-jansen /machine-learning-for-trading",
+            "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+            "stars": "12,488",
+            "forks": "4,023",
+            "language": "Jupyter Notebook",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "Https://datawhalechina.github.io/fun-rec/：推荐系统入门教程，在线阅读地址",
+            "url": "https://github.com/datawhalechina/fun-rec",
+            "name": "datawhalechina /fun-rec",
+            "description": "推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/",
+            "stars": "3,870",
+            "forks": "762",
+            "language": "Jupyter Notebook",
+            "stars_today": "47 stars this week"
+        }
+    ]
+}
