@@ -29874,3 +29874,197 @@
         }
     ]
 }
+{
+    "08月05日": [
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "18,041",
+            "forks": "1,245",
+            "language": "JavaScript",
+            "stars_today": "4,172 stars this week"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "13,283",
+            "forks": "1,327",
+            "language": "JavaScript",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "24节课，12周，作为Web开发人员入门",
+            "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+            "name": "microsoft /Web-Dev-For-Beginners",
+            "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+            "stars": "82,501",
+            "forks": "12,289",
+            "language": "JavaScript",
+            "stars_today": "181 stars this week"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "53,862",
+            "forks": "4,856",
+            "language": "JavaScript",
+            "stars_today": "525 stars this week"
+        },
+        {
+            "zh_des": "UBlock Origin-一款针对Chromium和Firefox的高效拦截器。又快又倾斜。",
+            "url": "https://github.com/gorhill/uBlock",
+            "name": "gorhill /uBlock",
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "stars": "45,063",
+            "forks": "3,014",
+            "language": "JavaScript",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "18,356",
+            "forks": "1,990",
+            "language": "JavaScript",
+            "stars_today": "349 stars this week"
+        },
+        {
+            "zh_des": "面向现代出版、会员、订阅和时事通讯的自主技术。",
+            "url": "https://github.com/TryGhost/Ghost",
+            "name": "TryGhost /Ghost",
+            "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+            "stars": "46,479",
+            "forks": "10,139",
+            "language": "JavaScript",
+            "stars_today": "91 stars this week"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "123,762",
+            "forks": "26,385",
+            "language": "JavaScript",
+            "stars_today": "272 stars this week"
+        },
+        {
+            "zh_des": "浏览器中的🎉表演五彩纸屑动画",
+            "url": "https://github.com/catdad/canvas-confetti",
+            "name": "catdad /canvas-confetti",
+            "description": "🎉 performant confetti animation in the browser",
+            "stars": "9,759",
+            "forks": "347",
+            "language": "JavaScript",
+            "stars_today": "379 stars this week"
+        },
+        {
+            "zh_des": "30天的JavaScript编程挑战是一本在30天内学习JavaScript编程语言的循序渐进的指南。这项挑战可能需要100多天，请按照自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+            "name": "Asabeneh /30-Days-Of-JavaScript",
+            "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "42,099",
+            "forks": "9,773",
+            "language": "JavaScript",
+            "stars_today": "137 stars this week"
+        },
+        {
+            "zh_des": "一个用Java编写的图形节点引擎和编辑器，类似于PD或UDK蓝图，在HTML5 Canvas 2D中附带了自己的编辑器。该引擎可以使用Node运行客户端或服务器端。它允许将图形导出为JSON，以便独立地包含在应用程序中。",
+            "url": "https://github.com/jagenjo/litegraph.js",
+            "name": "jagenjo /litegraph.js",
+            "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+            "stars": "6,172",
+            "forks": "663",
+            "language": "JavaScript",
+            "stars_today": "286 stars this week"
+        },
+        {
+            "zh_des": "Draw.io的官方电子建设",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "48,948",
+            "forks": "4,891",
+            "language": "JavaScript",
+            "stars_today": "630 stars this week"
+        },
+        {
+            "zh_des": "⚡为您的GitHub Readme动态生成统计数据",
+            "url": "https://github.com/anuraghazra/github-readme-stats",
+            "name": "anuraghazra /github-readme-stats",
+            "description": "⚡ Dynamically generated stats for your github readmes",
+            "stars": "67,254",
+            "forks": "21,936",
+            "language": "JavaScript",
+            "stars_today": "209 stars this week"
+        },
+        {
+            "zh_des": "PairDrop：浏览器中的本地文件共享。灵感来自苹果的AirDrop。SnapDrop的叉子。",
+            "url": "https://github.com/schlagmichdoch/PairDrop",
+            "name": "schlagmichdoch /PairDrop",
+            "description": "PairDrop: Local file sharing in your browser. Inspired by Apple's AirDrop. Fork of Snapdrop.",
+            "stars": "4,024",
+            "forks": "227",
+            "language": "JavaScript",
+            "stars_today": "176 stars this week"
+        },
+        {
+            "zh_des": "TVbox网络接口，更新速度快，接口访问速度快且稳定！",
+            "url": "https://github.com/2hacc/TVBox",
+            "name": "2hacc /TVBox",
+            "description": "TVBox 网络接口，更新速度快，接口访问速度快且稳定！",
+            "stars": "4,390",
+            "forks": "563",
+            "language": "JavaScript",
+            "stars_today": "67 stars this week"
+        },
+        {
+            "zh_des": "用于GraphQL、REST、WebSockets、SSE和GRPC的开源、跨平台API客户端。云存储、本地存储和Git存储。",
+            "url": "https://github.com/Kong/insomnia",
+            "name": "Kong /insomnia",
+            "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+            "stars": "33,952",
+            "forks": "1,905",
+            "language": "JavaScript",
+            "stars_today": "147 stars this week"
+        },
+        {
+            "zh_des": "免费的隐私友好型屏幕录像机，没有限制🎥",
+            "url": "https://github.com/alyssaxuu/screenity",
+            "name": "alyssaxuu /screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "stars": "11,263",
+            "forks": "868",
+            "language": "JavaScript",
+            "stars_today": "65 stars this week"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "12,726",
+            "forks": "783",
+            "language": "JavaScript",
+            "stars_today": "112 stars this week"
+        },
+        {
+            "zh_des": "用于输入和验证国际电话号码的JavaScript插件",
+            "url": "https://github.com/jackocnr/intl-tel-input",
+            "name": "jackocnr /intl-tel-input",
+            "description": "A JavaScript plugin for entering and validating international telephone numbers",
+            "stars": "7,469",
+            "forks": "1,937",
+            "language": "JavaScript",
+            "stars_today": "69 stars this week"
+        }
+    ]
+}
