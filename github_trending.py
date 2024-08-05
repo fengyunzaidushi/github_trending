@@ -288,7 +288,11 @@ async def main():
             all_zh_des = trs_batch_text(
                 [item["description"] for item in repositories[:]]
             )
-            print(f"all_zh_des:{all_zh_des}")
+            if all_zh_des:
+                print('all_zh_des is ok')
+            else:
+                print('all_zh_des is none')
+            # print(f"all_zh_des:{all_zh_des}")
             new_repositories = [
                 item.update({"zh_des": zh_des})
                 for item, zh_des in zip(repositories, all_zh_des)
