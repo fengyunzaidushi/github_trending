@@ -1,0 +1,24 @@
+{
+    "Verilog": [
+        {
+            "zh_des": "OpenRoad的统一应用程序实现了RTL到GDS流。Https://openroad.readthedocs.io/en/latest/上的文档",
+            "url": "https://github.com/The-OpenROAD-Project/OpenROAD",
+            "name": "The-OpenROAD-Project /OpenROAD",
+            "description": "OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation athttps://openroad.readthedocs.io/en/latest/",
+            "stars": 1218,
+            "forks": "442",
+            "language": "Verilog",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Z80开源硅片。目标是成为经典Z80的硅验证、引脚兼容的开源替代品。",
+            "url": "https://github.com/rejunity/z80-open-silicon",
+            "name": "rejunity /z80-open-silicon",
+            "description": "Z80 open-source silicon. Goal is to become a silicon proven, pin compatible, open-source replacement for classic Z80.",
+            "stars": 389,
+            "forks": "12",
+            "language": "Verilog",
+            "stars_today": "60 stars today"
+        }
+    ]
+}

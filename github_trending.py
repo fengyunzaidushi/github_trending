@@ -1,4 +1,3 @@
-
 import os
 import aiohttp
 import discord
@@ -9,14 +8,18 @@ import hashlib
 import re
 import json
 from tencentcloud.common import credential
-from tencentcloud.common.exception.tencent_cloud_sdk_exception import TencentCloudSDKException
+from tencentcloud.common.exception.tencent_cloud_sdk_exception import (
+    TencentCloudSDKException,
+)
 from tencentcloud.tmt.v20180321 import tmt_client, models
 from bs4 import BeautifulSoup
 import markdown
 import requests
 import base64
 from dotenv import load_dotenv
+
 load_dotenv()
+
 
 async def fetch_readme_content(session, url):
     """
@@ -24,6 +27,7 @@ async def fetch_readme_content(session, url):
     """
     async with session.get(url) as response:
         return await response.json()
+
 
 async def get_first_paragraph_of_readme_async(git_repo_url):
     """
@@ -40,7 +44,7 @@ async def get_first_paragraph_of_readme_async(git_repo_url):
     username, repo_name = parts[-2], parts[-1]
 
     # 构造 GitHub API 请求 URL
-    api_url = f'https://api.github.com/repos/{username}/{repo_name}/readme'
+    api_url = f"https://api.github.com/repos/{username}/{repo_name}/readme"
 
     # 创建异步会话并发送请求
     async with aiohttp.ClientSession() as session:
@@ -48,33 +52,31 @@ async def get_first_paragraph_of_readme_async(git_repo_url):
 
     # 解码 README 内容（base64 编码）
     try:
-        readme_content_encoded = data['content']
-        readme_content = base64.b64decode(readme_content_encoded).decode('utf-8')
+        readme_content_encoded = data["content"]
+        readme_content = base64.b64decode(readme_content_encoded).decode("utf-8")
 
         # 使用 markdown 库将 Markdown 转换为 HTML
         html_content = markdown.markdown(readme_content)
 
         # 使用 BeautifulSoup 解析 HTML，并获取第一个 <p> 元素的内容
-        soup = BeautifulSoup(html_content, 'html.parser')
-        h1_tags = soup.find_all('h1')
-        p_tags = soup.find_all('p')
+        soup = BeautifulSoup(html_content, "html.parser")
+        h1_tags = soup.find_all("h1")
+        p_tags = soup.find_all("p")
         h1_tags.extend(p_tags)
         # 打印每个 <p> 标签的内容
-        text = ''
+        text = ""
         for tag in h1_tags:
             text += tag.get_text().strip()
             if text and repo_name.lower() in text.lower():
                 break
-        text = text.split('.')[0]
+        text = text.split(".")[0]
         return text
     except Exception as e:
-        print(f'error is {e},git_repo_url is {git_repo_url}')
+        print(f"error is {e},git_repo_url is {git_repo_url}")
         return repo_name
 
 
-
-
-def trs_batch_text(text_list, source_lang='en', target_lang='zh'):
+def trs_batch_text(text_list, source_lang="en", target_lang="zh"):
     try:
 
         secret_id = os.environ.get("secret_id")
@@ -100,7 +102,7 @@ def trs_batch_text(text_list, source_lang='en', target_lang='zh'):
             "Source": source_lang,
             "Target": target_lang,
             "ProjectId": 0,
-            "SourceTextList": text_list
+            "SourceTextList": text_list,
         }
         req.from_json_string(json.dumps(params))
 
@@ -112,61 +114,80 @@ def trs_batch_text(text_list, source_lang='en', target_lang='zh'):
     except TencentCloudSDKException as err:
         print(err)
 
+
 async def fetch_trending_repositories(url):
     async with aiohttp.ClientSession() as session:
         async with session.get(url) as response:
             html = await response.text()
-            soup = BeautifulSoup(html, 'html.parser')
+            soup = BeautifulSoup(html, "html.parser")
             # repos = soup.find_all('article', class_='Box-row')
-            repos = soup.select('article.Box-row')
+            repos = soup.select("article.Box-row")
             data = []
             for repo in repos:
                 # 提取仓库名和 URL
-                name_tag = repo.select_one('h2.h3.lh-condensed a')
+                name_tag = repo.select_one("h2.h3.lh-condensed a")
                 name = name_tag.get_text(strip=True)
-                repo_url = "https://github.com" + name_tag['href']
+                repo_url = "https://github.com" + name_tag["href"]
 
                 # 提取描述
-                description_tag = repo.select_one('p.col-9.color-fg-muted.my-1.pr-4')
-                description = description_tag.get_text(strip=True) if description_tag else ''
-                description=description.strip()
+                description_tag = repo.select_one("p.col-9.color-fg-muted.my-1.pr-4")
+                description = (
+                    description_tag.get_text(strip=True) if description_tag else ""
+                )
+                description = description.strip()
                 if not description:
                     description = await get_first_paragraph_of_readme_async(repo_url)
                 # 提取 Star 数和 Fork 数
                 stars_tag = repo.select_one('a[href*="/stargazers"]')
-                stars = stars_tag.get_text(strip=True) if stars_tag else ''
+                stars = stars_tag.get_text(strip=True) if stars_tag else ""
 
                 forks_tag = repo.select_one('a[href*="/forks"]')
-                forks = forks_tag.get_text(strip=True) if forks_tag else ''
+                forks = forks_tag.get_text(strip=True) if forks_tag else ""
 
                 # 提取编程语言
                 language_tag = repo.select_one('span[itemprop="programmingLanguage"]')
-                language = language_tag.get_text(strip=True) if language_tag else ''
+                language = language_tag.get_text(strip=True) if language_tag else ""
 
                 # 提取今日 Star 数
-                stars_today_tag = repo.select_one('span.d-inline-block.float-sm-right')
-                stars_today = stars_today_tag.get_text(strip=True) if stars_today_tag else ''
+                stars_today_tag = repo.select_one("span.d-inline-block.float-sm-right")
+                stars_today = (
+                    stars_today_tag.get_text(strip=True) if stars_today_tag else ""
+                )
 
-                data.append({
-                    'name': name,
-                    'url': repo_url,
-                    'description': description if description else "no description",
-                    'stars': stars,
-                    'forks': forks,
-                    'language': language,
-                    'stars_today': stars_today
-                })
+                data.append(
+                    {
+                        "name": name,
+                        "url": repo_url,
+                        "description": description if description else "no description",
+                        "stars": stars,
+                        "forks": forks,
+                        "language": language,
+                        "stars_today": stars_today,
+                    }
+                )
 
             # data 包含了所有提取的信息
         return data
+
+
 def get_date():
     current_time = datetime.now()
     # 格式化时间为 "xx月xx日"
     formatted_time = current_time.strftime("%m月%d日")
     return formatted_time
 
-def write_github_data(git_dict,date,prefix):
-    key_order = ['zh_des', 'url', 'name', 'description', 'stars', 'forks', 'language', 'stars_today']
+
+def write_github_data(git_dict, date, prefix):
+    key_order = [
+        "zh_des",
+        "url",
+        "name",
+        "description",
+        "stars",
+        "forks",
+        "language",
+        "stars_today",
+    ]
     # 字典根据列表中列举的值进行排序
     for key, value in git_dict.items():
         sub_list = []
@@ -175,35 +196,37 @@ def write_github_data(git_dict,date,prefix):
             # ordered_dict = OrderedDict((k, original_dict[k]) for k in key_order)
             sub_list.append(ordered_dict)
         git_dict[key] = sub_list
-    os.makedirs(f'./data/github', exist_ok=True)
+    os.makedirs(f"./data/github", exist_ok=True)
     # 字典写入json文件,中文不乱码
-    with open(f'./data/github/{prefix}_datalist.json', 'a+', encoding='utf-8') as f:
+    with open(f"./data/github/{prefix}_datalist.json", "a+", encoding="utf-8") as f:
         for key in git_dict.keys():
-            f.write(key + '\n')
+            f.write(key + "\n")
         for item in git_dict.get(key):
-            f.write('    ')
+            f.write("    ")
             json.dump(item, f, ensure_ascii=False)
-            f.write('\n')
-        f.write('\n')
+            f.write("\n")
+        f.write("\n")
         # json文件插入一行空格
 
     # 字典写入json文件,中文不乱码
-    with open(f'./data/github/{prefix}_data.jsonl', 'a+', encoding='utf-8') as f:
+    with open(f"./data/github/{prefix}_data.jsonl", "a+", encoding="utf-8") as f:
         # for item in git_dict.values():
         #     json.dump(item, f, ensure_ascii=False)
         json.dump(git_dict, f, ensure_ascii=False, indent=4)
         # json文件插入一行空格
-        f.write('\n')
-    with open(f'./data/github/{prefix}_list.jsonl', 'a+', encoding='utf-8') as f:
+        f.write("\n")
+    with open(f"./data/github/{prefix}_list.jsonl", "a+", encoding="utf-8") as f:
         json.dump(git_dict, f, ensure_ascii=False)
-        f.write('\n')
+        f.write("\n")
+
 
 # 由于 asyncio 的原因，您可能需要在异步环境下运行此函数
 # 比如使用 `await fetch_trending_repositories()` 或者在异步函数中调用
 
+
 def read_jsonl_to_dict(file_path):
     data = {}
-    with open(file_path, 'r',encoding='utf-8') as file:
+    with open(file_path, "r", encoding="utf-8") as file:
         for line_number, line in enumerate(file, 1):
             try:
                 line_data = json.loads(line)
@@ -212,47 +235,80 @@ def read_jsonl_to_dict(file_path):
                 print(f"Error parsing line {line_number}: {e}")
                 print(f"Line content: {line}")
     return data
+
+
 async def main():
-    urls = ['https://github.com/trending?since=alldaily','https://github.com/trending?since=weekly&s=allweekly','https://github.com/trending?since=monthly&s=allmonthly']
-    urls2 = ['https://github.com/trending/python?since=daily','https://github.com/trending/python?since=weekly','https://github.com/trending/python?since=monthly']
-    urls3 = ['https://github.com/trending/typescript?since=daily&s=tsdaily','https://github.com/trending/typescript?since=weekly&s=tsweekly','https://github.com/trending/typescript?since=monthly&s=tsmonthly']
-    urls4 = ['https://github.com/trending/javascript?since=daily&s=jsdaily','https://github.com/trending/javascript?since=weekly&s=jsweekly','https://github.com/trending/javascript?since=monthly&s=jsmonthly']
-    urls5 = ['https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily','https://github.com/trending/jupyter-notebook?since=weekly&s=jupyterweekly','https://github.com/trending/jupyter-notebook?since=monthly&s=jupytermonthly']
+    urls = [
+        "https://github.com/trending?since=alldaily",
+        "https://github.com/trending?since=weekly&s=allweekly",
+        "https://github.com/trending?since=monthly&s=allmonthly",
+    ]
+    urls2 = [
+        "https://github.com/trending/python?since=daily",
+        "https://github.com/trending/python?since=weekly",
+        "https://github.com/trending/python?since=monthly",
+    ]
+    urls3 = [
+        "https://github.com/trending/typescript?since=daily&s=tsdaily",
+        "https://github.com/trending/typescript?since=weekly&s=tsweekly",
+        "https://github.com/trending/typescript?since=monthly&s=tsmonthly",
+    ]
+    urls4 = [
+        "https://github.com/trending/javascript?since=daily&s=jsdaily",
+        "https://github.com/trending/javascript?since=weekly&s=jsweekly",
+        "https://github.com/trending/javascript?since=monthly&s=jsmonthly",
+    ]
+    urls5 = [
+        "https://github.com/trending/jupyter-notebook?since=daily&s=jupyterdaily",
+        "https://github.com/trending/jupyter-notebook?since=weekly&s=jupyterweekly",
+        "https://github.com/trending/jupyter-notebook?since=monthly&s=jupytermonthly",
+    ]
     urls.extend(urls2)
     urls.extend(urls3)
     urls.extend(urls4)
-    urls.extend(urls5)
+    urls.extend(urls5[2:])
     date = get_date()
     # 遍历列表和索引
-    
-    for idx,url in enumerate(urls[:]):
+
+    for idx, url in enumerate(urls[:]):
         print(url)
         separators = "/="
-        split_text = re.split('[{}]'.format(separators), url)
+        split_text = re.split("[{}]".format(separators), url)
         prefix = split_text[-1]
-        prefix = str(idx).zfill(2) +'_' +prefix
+        prefix = str(idx).zfill(2) + "_" + prefix
 
-        data_path = f'./data/github/{prefix}_list.jsonl'
+        data_path = f"./data/github/{prefix}_list.jsonl"
         if os.path.exists(data_path):
-        # 读取jsonl文件
+            # 读取jsonl文件
             data_dict = read_jsonl_to_dict(data_path)
-            today_list = data_dict.get(date,[])
+            today_list = data_dict.get(date, [])
             # if today_list:
             # if today_list:
             repositories = await fetch_trending_repositories(url)
-            all_zh_des =trs_batch_text([item['description'] for item in repositories[:]])
-            new_repositories = [item.update({'zh_des': zh_des}) for item,zh_des in zip(repositories,all_zh_des)]
+            all_zh_des = trs_batch_text(
+                [item["description"] for item in repositories[:]]
+            )
+            print(f"all_zh_des:{all_zh_des}")
+            new_repositories = [
+                item.update({"zh_des": zh_des})
+                for item, zh_des in zip(repositories, all_zh_des)
+            ]
             today_list = repositories
 
             git_dict = {date: today_list}
-            write_github_data(git_dict,date,prefix)
+            write_github_data(git_dict, date, prefix)
             # else:
             #     print(f'{prefix}_list.jsonl has been updated {date} today')
         else:
 
             repositories = await fetch_trending_repositories(url)
-            all_zh_des = trs_batch_text([item['description'] for item in repositories[:]])
-            new_repositories = [item.update({'zh_des': zh_des}) for item, zh_des in zip(repositories, all_zh_des)]
+            all_zh_des = trs_batch_text(
+                [item["description"] for item in repositories[:]]
+            )
+            new_repositories = [
+                item.update({"zh_des": zh_des})
+                for item, zh_des in zip(repositories, all_zh_des)
+            ]
 
             # 获取当前时间
 
@@ -260,13 +316,10 @@ async def main():
             git_dict = {date: today_list}
             write_github_data(git_dict, date, prefix)
 
-
-
         # await discord_callback(today_list,date,prefix)
 
 
-
-async def discord_callback(repositories,date,prefix):
+async def discord_callback(repositories, date, prefix):
     intents = discord.Intents.default()
     intents.message_content = True
     client = discord.Client(intents=intents)
@@ -277,9 +330,9 @@ async def discord_callback(repositories,date,prefix):
         await client.login(token)
         channel = await client.fetch_channel(channel_id)
         lines = []
-        total_length=0
+        total_length = 0
         await channel.send(f"## {date}: {prefix} github")
-        for idx,repo in enumerate(repositories):
+        for idx, repo in enumerate(repositories):
             # print(f'idx {idx}')
             line = []
             line.append(f"## {idx+1}: {repo['name']} - {prefix}")
@@ -287,9 +340,11 @@ async def discord_callback(repositories,date,prefix):
             line.append(f"    {repo['description']}")
             line.append(f"    {repo['url']}")
             line.append(f"    {repo['language']}")
-            line.append(f"    Stars: {repo['stars']},Forks: {repo['forks']},Today's Stars: {repo['stars_today']}\n")
+            line.append(
+                f"    Stars: {repo['stars']},Forks: {repo['forks']},Today's Stars: {repo['stars_today']}\n"
+            )
             line_length = len("\n".join(line))
-            total_length += line_length+2
+            total_length += line_length + 2
             # print(f'total lth {total_length}')
             if total_length > 2000:
                 msg = "\n\n".join(lines)
@@ -311,5 +366,3 @@ if __name__ == "__main__":
     asyncio.run(main())
     # import fire
     # fire.Fire(main)
-
-

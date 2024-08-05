@@ -1,0 +1,54 @@
+{
+    "Svelte": [
+        {
+            "zh_des": "面向LLMS的用户友好的WebUI(以前为Ollama WebUI)",
+            "url": "https://github.com/open-webui/open-webui",
+            "name": "open-webui /open-webui",
+            "description": "User-friendly WebUI for LLMs (Formerly Ollama WebUI)",
+            "stars": 20562,
+            "forks": "2,127",
+            "language": "Svelte",
+            "stars_today": "1,877 stars this week"
+        },
+        {
+            "zh_des": "Shadcn/ui，但用于Svelte。✨",
+            "url": "https://github.com/huntabyte/shadcn-svelte",
+            "name": "huntabyte /shadcn-svelte",
+            "description": "shadcn/ui, but for Svelte. ✨",
+            "stars": 3344,
+            "forks": "213",
+            "language": "Svelte",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "适用于Ollama🦙的ChatGPT风格的WebUI客户端",
+            "url": "https://github.com/ollama-webui/ollama-webui",
+            "name": "ollama-webui /ollama-webui",
+            "description": "ChatGPT-Style Web UI Client for Ollama 🦙",
+            "stars": 2575,
+            "forks": "246",
+            "language": "Svelte",
+            "stars_today": "695 stars this week"
+        },
+        {
+            "zh_des": "Huly平台-用于线性/Jira、Slack、Notion、Motion等的一体化替代品",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly Platform — All-in-One Replacement for Linear/Jira, Slack, Notion, Motion and more",
+            "stars": 1130,
+            "forks": "111",
+            "language": "Svelte",
+            "stars_today": "711 stars this week"
+        },
+        {
+            "zh_des": "现代、易于使用且性能卓越的定制Home Assistant仪表板",
+            "url": "https://github.com/matt8707/ha-fusion",
+            "name": "matt8707 /ha-fusion",
+            "description": "A modern, easy-to-use and performant custom Home Assistant dashboard",
+            "stars": 420,
+            "forks": "9",
+            "language": "Svelte",
+            "stars_today": "58 stars today"
+        }
+    ]
+}
