@@ -30246,3 +30246,177 @@
         }
     ]
 }
+{
+    "08月06日": [
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "44,787",
+            "forks": "4,771",
+            "language": "Python",
+            "stars_today": "313 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "79,033",
+            "forks": "6,203",
+            "language": "Python",
+            "stars_today": "286 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "266,156",
+            "forks": "45,087",
+            "language": "Python",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "20,866",
+            "forks": "7,593",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "25,953",
+            "forks": "6,372",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "在服务器、台式机和移动设备上本地运行PyTorch LLMS",
+            "url": "https://github.com/pytorch/torchchat",
+            "name": "pytorch /torchchat",
+            "description": "Run PyTorch LLMs locally on servers, desktop and mobile",
+            "stars": "2,522",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "一种构建基于LLM的代理的轻量级框架",
+            "url": "https://github.com/InternLM/lagent",
+            "name": "InternLM /lagent",
+            "description": "A lightweight framework for building LLM-based agents",
+            "stars": "1,346",
+            "forks": "133",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "30,321",
+            "forks": "3,480",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "从Instagram下载图片(或视频)及其标题和其他元数据。",
+            "url": "https://github.com/instaloader/instaloader",
+            "name": "instaloader /instaloader",
+            "description": "Download pictures (or videos) along with their captions and other metadata from Instagram.",
+            "stars": "8,246",
+            "forks": "1,124",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🤗扩散器：最先进的扩散模型，用于在PYTORCH和亚麻中生成图像和音频。",
+            "url": "https://github.com/huggingface/diffusers",
+            "name": "huggingface /diffusers",
+            "description": "🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch and FLAX.",
+            "stars": "24,443",
+            "forks": "5,046",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "用语音数据轻松训练一个好的VC模型<=10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "21,897",
+            "forks": "3,319",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,256",
+            "forks": "29,252",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "61,487",
+            "forks": "29,615",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "电报机器人存储帖子和文件，它可以通过特殊链接访问。",
+            "url": "https://github.com/CodeXBotz/File-Sharing-Bot",
+            "name": "CodeXBotz /File-Sharing-Bot",
+            "description": "Telegram Bot to store Posts and Documents and it can Access by Special Links.",
+            "stars": "1,972",
+            "forks": "5,483",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "我的Python示例",
+            "url": "https://github.com/geekcomputers/Python",
+            "name": "geekcomputers /Python",
+            "description": "My Python Examples",
+            "stars": "30,740",
+            "forks": "12,119",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "🔒整合和扩展来自几个经过精心管理的来源的主机文件。可以选择色情、社交媒体和其他类别的扩展名。",
+            "url": "https://github.com/StevenBlack/hosts",
+            "name": "StevenBlack /hosts",
+            "description": "🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+            "stars": "26,310",
+            "forks": "2,187",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一种多功能的不和谐机器人",
+            "url": "https://github.com/Cog-Creators/Red-DiscordBot",
+            "name": "Cog-Creators /Red-DiscordBot",
+            "description": "A multi-function Discord bot",
+            "stars": "4,655",
+            "forks": "2,290",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
