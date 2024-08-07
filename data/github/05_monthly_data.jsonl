@@ -33710,3 +33710,147 @@
         }
     ]
 }
+{
+    "08月07日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "9,172",
+            "forks": "857",
+            "language": "Python",
+            "stars_today": "4,314 stars this month"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "14,196",
+            "forks": "1,247",
+            "language": "Python",
+            "stars_today": "8,264 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,628",
+            "forks": "382",
+            "language": "Python",
+            "stars_today": "1,655 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,099",
+            "forks": "4,801",
+            "language": "Python",
+            "stars_today": "3,795 stars this month"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "41,577",
+            "forks": "7,583",
+            "language": "Python",
+            "stars_today": "1,404 stars this month"
+        },
+        {
+            "zh_des": "在Azure中一键部署知识图支持的RAG(GraphRAG)",
+            "url": "https://github.com/Azure-Samples/graphrag-accelerator",
+            "name": "Azure-Samples /graphrag-accelerator",
+            "description": "One-click deploy of a Knowledge Graph powered RAG (GraphRAG) in Azure",
+            "stars": "1,389",
+            "forks": "207",
+            "language": "Python",
+            "stars_today": "776 stars this month"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "9,275",
+            "forks": "926",
+            "language": "Python",
+            "stars_today": "1,133 stars this month"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "27,375",
+            "forks": "5,889",
+            "language": "Python",
+            "stars_today": "1,122 stars this month"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "130,542",
+            "forks": "9,855",
+            "language": "Python",
+            "stars_today": "931 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "15,627",
+            "forks": "1,468",
+            "language": "Python",
+            "stars_today": "2,823 stars this month"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "24,395",
+            "forks": "3,512",
+            "language": "Python",
+            "stars_today": "2,139 stars this month"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "19,177",
+            "forks": "1,804",
+            "language": "Python",
+            "stars_today": "10,350 stars this month"
+        },
+        {
+            "zh_des": "用于下载YouTube视频的轻量级、无依赖关系的Python库(和命令行实用程序)。",
+            "url": "https://github.com/pytube/pytube",
+            "name": "pytube /pytube",
+            "description": "A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos.",
+            "stars": "11,809",
+            "forks": "2,473",
+            "language": "Python",
+            "stars_today": "1,218 stars this month"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "4,504",
+            "forks": "1,045",
+            "language": "Python",
+            "stars_today": "3,352 stars this month"
+        }
+    ]
+}
