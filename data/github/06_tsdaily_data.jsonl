@@ -34314,3 +34314,177 @@
         }
     ]
 }
+{
+    "08月08日": [
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "286,267",
+            "forks": "38,061",
+            "language": "TypeScript",
+            "stars_today": "238 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "398,083",
+            "forks": "36,679",
+            "language": "TypeScript",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：特性OpenAI，助手API，Azure，Groq，GPT-4 Vision，Mistral，Bing，Anthropic，OpenRouter，Vertex AI，Gemini，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。开发中的更多功能",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development",
+            "stars": "16,452",
+            "forks": "2,757",
+            "language": "TypeScript",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "36,851",
+            "forks": "2,434",
+            "language": "TypeScript",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "40,852",
+            "forks": "5,614",
+            "language": "TypeScript",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "64,544",
+            "forks": "3,512",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "23,447",
+            "forks": "3,615",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "该资源库用于积极开发Azure SDK for JavaScript(NodeJS&Browser)。对于SDK的消费者，我们建议访问我们的公共开发人员文档athttps://docs.microsoft.com/javascript/azure/or我们的版本开发人员文档，网址为https://azure.github.io/azure-sdk-for-js.",
+            "url": "https://github.com/Azure/azure-sdk-for-js",
+            "name": "Azure /azure-sdk-for-js",
+            "description": "This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs athttps://docs.microsoft.com/javascript/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-js.",
+            "stars": "1,992",
+            "forks": "1,180",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Reaction、Vue、Svelte、Qwik等的可视化开发",
+            "url": "https://github.com/BuilderIO/builder",
+            "name": "BuilderIO /builder",
+            "description": "Visual Development for React, Vue, Svelte, Qwik, and more",
+            "stars": "7,115",
+            "forks": "882",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "这是Vue 2的回购。Vue 3的回购请访问https://github.com/vuejs/core",
+            "url": "https://github.com/vuejs/vue",
+            "name": "vuejs /vue",
+            "description": "This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core",
+            "stars": "207,533",
+            "forks": "33,657",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "83,672",
+            "forks": "9,169",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "全球首屈一指的富文本编辑的JavaScript库。可用于Reaction、Vue和Angular",
+            "url": "https://github.com/tinymce/tinymce",
+            "name": "tinymce /tinymce",
+            "description": "The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular",
+            "stars": "14,743",
+            "forks": "2,220",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "AWS-使用基岩+克劳德(+米斯特拉尔)的原生聊天机器人",
+            "url": "https://github.com/aws-samples/bedrock-claude-chat",
+            "name": "aws-samples /bedrock-claude-chat",
+            "description": "AWS-native chatbot using Bedrock + Claude (+Mistral)",
+            "stars": "755",
+            "forks": "271",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "26,036",
+            "forks": "2,192",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "📱🚀🧩跨设备和高性能标准表单/动态(JSON架构)表单/表单生成器--支持REACT/REACT本机/VUE 2/VUE 3",
+            "url": "https://github.com/alibaba/formily",
+            "name": "alibaba /formily",
+            "description": "📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3",
+            "stars": "11,169",
+            "forks": "1,447",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在您的团队/基础设施中同步秘密，防止秘密泄露，并管理内部PKI",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+            "stars": "13,566",
+            "forks": "734",
+            "language": "TypeScript",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "43,956",
+            "forks": "6,415",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        }
+    ]
+}

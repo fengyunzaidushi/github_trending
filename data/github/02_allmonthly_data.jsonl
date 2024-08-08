@@ -32984,3 +32984,157 @@
         }
     ]
 }
+{
+    "08月08日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "9,192",
+            "forks": "859",
+            "language": "Python",
+            "stars_today": "4,359 stars this month"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "91,625",
+            "forks": "11,551",
+            "language": "Java",
+            "stars_today": "12,104 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "18,236",
+            "forks": "1,273",
+            "language": "JavaScript",
+            "stars_today": "6,124 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "39,292",
+            "forks": "1,900",
+            "language": "Shell",
+            "stars_today": "3,221 stars this month"
+        },
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "6,801",
+            "forks": "1,345",
+            "language": "",
+            "stars_today": "1,663 stars this month"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "26,036",
+            "forks": "2,192",
+            "language": "TypeScript",
+            "stars_today": "1,440 stars this month"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "3,279",
+            "forks": "196",
+            "language": "Dart",
+            "stars_today": "1,469 stars this month"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "14,248",
+            "forks": "1,258",
+            "language": "Python",
+            "stars_today": "7,420 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,647",
+            "forks": "383",
+            "language": "Python",
+            "stars_today": "1,688 stars this month"
+        },
+        {
+            "zh_des": "自托管AI编码助手",
+            "url": "https://github.com/TabbyML/tabby",
+            "name": "TabbyML /tabby",
+            "description": "Self-hosted AI coding assistant",
+            "stars": "20,380",
+            "forks": "927",
+            "language": "Rust",
+            "stars_today": "2,111 stars this month"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "35,821",
+            "forks": "2,669",
+            "language": "Java",
+            "stars_today": "6,206 stars this month"
+        },
+        {
+            "zh_des": "😎列出了各种有趣的话题",
+            "url": "https://github.com/sindresorhus/awesome",
+            "name": "sindresorhus /awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "stars": "318,179",
+            "forks": "27,498",
+            "language": "",
+            "stars_today": "8,675 stars this month"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "23,447",
+            "forks": "3,615",
+            "language": "TypeScript",
+            "stars_today": "2,067 stars this month"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "398,083",
+            "forks": "36,679",
+            "language": "TypeScript",
+            "stars_today": "5,490 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,185",
+            "forks": "4,808",
+            "language": "Python",
+            "stars_today": "3,899 stars this month"
+        }
+    ]
+}

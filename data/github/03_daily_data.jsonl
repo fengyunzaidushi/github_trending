@@ -30624,3 +30624,207 @@
         }
     ]
 }
+{
+    "08月08日": [
+        {
+            "zh_des": "面向稳定扩散2.1、稳定扩散3、DeepFloyd和SDXL的通用微调工具包。",
+            "url": "https://github.com/bghira/SimpleTuner",
+            "name": "bghira /SimpleTuner",
+            "description": "A general fine-tuning kit geared toward Stable Diffusion 2.1, Stable Diffusion 3, DeepFloyd, and SDXL.",
+            "stars": "867",
+            "forks": "60",
+            "language": "Python",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "9,155",
+            "forks": "631",
+            "language": "Python",
+            "stars_today": "581 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-40的开创性开源替代方案。接近Gpt-40表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的可商用开源多模态对话模型",
+            "stars": "4,819",
+            "forks": "369",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "37,828",
+            "forks": "4,071",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "18,410",
+            "forks": "1,035",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "266,419",
+            "forks": "45,121",
+            "language": "Python",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "61,604",
+            "forks": "29,636",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "Amazon Web服务的通用命令行界面",
+            "url": "https://github.com/aws/aws-cli",
+            "name": "aws /aws-cli",
+            "description": "Universal Command Line Interface for Amazon Web Services",
+            "stars": "15,179",
+            "forks": "4,038",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "SCRKIT-学习：在Python中进行机器学习",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "name": "scikit-learn /scikit-learn",
+            "description": "scikit-learn: machine learning in Python",
+            "stars": "59,131",
+            "forks": "25,203",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,185",
+            "forks": "4,808",
+            "language": "Python",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "21,131",
+            "forks": "2,012",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "30,447",
+            "forks": "3,505",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "🧑‍🏫60深度学习论文实施/教程及并排备注📝；包括转换器(原始、XL、开关、反馈、VIT等)、优化器(ADAM、ADABELEF、索菲亚等)、GANS(Cyclegan、Stylegan2等)、🎮强化学习(PPO、DQN)、封装网络、蒸馏、...🧠",
+            "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+            "name": "labmlai /annotated_deep_learning_paper_implementations",
+            "description": "🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
+            "stars": "52,700",
+            "forks": "5,444",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "4,894",
+            "forks": "458",
+            "language": "Python",
+            "stars_today": "365 stars today"
+        },
+        {
+            "zh_des": "只有一张图片的实时人脸交换和一键视频深度假冒(未经审查)",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image (uncensored)",
+            "stars": "1,016",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "287 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "16,673",
+            "forks": "1,562",
+            "language": "Python",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "自主式YouTube下载器(适用于YouTube-dl/yt-dlp的Web用户界面)",
+            "url": "https://github.com/alexta69/metube",
+            "name": "alexta69 /metube",
+            "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+            "stars": "5,596",
+            "forks": "336",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "182,988",
+            "forks": "44,119",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "基于GPT的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "GPT based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "13,497",
+            "forks": "1,715",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "一种用于LLM微调的Native-PyTorch库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "A Native-PyTorch Library for LLM Fine-tuning",
+            "stars": "3,746",
+            "forks": "317",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}

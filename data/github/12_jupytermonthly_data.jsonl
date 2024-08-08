@@ -878,3 +878,187 @@
         }
     ]
 }
+{
+    "08月08日": [
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama3的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序以展示用于WhatsApp和Messenger的Meta Llama3。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama3 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama3 for WhatsApp & Messenger.",
+            "stars": "11,196",
+            "forks": "1,581",
+            "language": "Jupyter Notebook",
+            "stars_today": "837 stars this month"
+        },
+        {
+            "zh_des": "基于LLMS的非结构化数据Neo4j图构建",
+            "url": "https://github.com/neo4j-labs/llm-graph-builder",
+            "name": "neo4j-labs /llm-graph-builder",
+            "description": "Neo4j graph construction from unstructured data using LLMs",
+            "stars": "1,737",
+            "forks": "229",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,362 stars this month"
+        },
+        {
+            "zh_des": "10周，20节课，面向所有人的数据科学！",
+            "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+            "name": "microsoft /Data-Science-For-Beginners",
+            "description": "10 Weeks, 20 Lessons, Data Science for All!",
+            "stars": "27,434",
+            "forks": "5,672",
+            "language": "Jupyter Notebook",
+            "stars_today": "479 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "3,956",
+            "forks": "453",
+            "language": "Jupyter Notebook",
+            "stars_today": "501 stars this month"
+        },
+        {
+            "zh_des": "PhotoMaker[CVPR 2024]",
+            "url": "https://github.com/TencentARC/PhotoMaker",
+            "name": "TencentARC /PhotoMaker",
+            "description": "PhotoMaker [CVPR 2024]",
+            "stars": "9,084",
+            "forks": "720",
+            "language": "Jupyter Notebook",
+            "stars_today": "474 stars this month"
+        },
+        {
+            "zh_des": "人工智能的可观测性与评估",
+            "url": "https://github.com/Arize-ai/phoenix",
+            "name": "Arize-ai /phoenix",
+            "description": "AI Observability & Evaluation",
+            "stars": "3,225",
+            "forks": "235",
+            "language": "Jupyter Notebook",
+            "stars_today": "229 stars this month"
+        },
+        {
+            "zh_des": "算法交易的机器学习代码，第2版。",
+            "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+            "name": "stefan-jansen /machine-learning-for-trading",
+            "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
+            "stars": "12,598",
+            "forks": "4,037",
+            "language": "Jupyter Notebook",
+            "stars_today": "371 stars this month"
+        },
+        {
+            "zh_des": "扎根SAM：将扎根恐龙与任何分段、稳定扩散和识别任何事物相结合--自动检测、分段和生成任何事物",
+            "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+            "name": "IDEA-Research /Grounded-Segment-Anything",
+            "description": "Grounded SAM: Marrying Grounding DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything",
+            "stars": "14,452",
+            "forks": "1,336",
+            "language": "Jupyter Notebook",
+            "stars_today": "355 stars this month"
+        },
+        {
+            "zh_des": "Python数据科学手册：Jupyter笔记本中的全文",
+            "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+            "name": "jakevdp /PythonDataScienceHandbook",
+            "description": "Python Data Science Handbook: full text in Jupyter Notebooks",
+            "stars": "42,411",
+            "forks": "17,765",
+            "language": "Jupyter Notebook",
+            "stars_today": "505 stars this month"
+        },
+        {
+            "zh_des": "这是一系列的Jupyter笔记本电脑，带您了解机器学习和深度学习的基础知识，并使用Scikit-Learn、Kera和TensorFlow 2在Python中进行。",
+            "url": "https://github.com/ageron/handson-ml3",
+            "name": "ageron /handson-ml3",
+            "description": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+            "stars": "6,998",
+            "forks": "2,838",
+            "language": "Jupyter Notebook",
+            "stars_today": "289 stars this month"
+        },
+        {
+            "zh_des": "开源且基础较强的图像识别模型。",
+            "url": "https://github.com/xinyu1205/recognize-anything",
+            "name": "xinyu1205 /recognize-anything",
+            "description": "Open-source and strong foundation image recognition models.",
+            "stars": "2,664",
+            "forks": "255",
+            "language": "Jupyter Notebook",
+            "stars_today": "89 stars this month"
+        },
+        {
+            "zh_des": "神经网络：从零到英雄",
+            "url": "https://github.com/karpathy/nn-zero-to-hero",
+            "name": "karpathy /nn-zero-to-hero",
+            "description": "Neural Networks: Zero to Hero",
+            "stars": "11,261",
+            "forks": "1,391",
+            "language": "Jupyter Notebook",
+            "stars_today": "334 stars this month"
+        },
+        {
+            "zh_des": "该存储库提供了用于运行SegmentAnything Model(SAM)推理的代码、用于下载经过训练的模型检查点的链接，以及演示如何使用该模型的示例笔记本。",
+            "url": "https://github.com/facebookresearch/segment-anything",
+            "name": "facebookresearch /segment-anything",
+            "description": "The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
+            "stars": "46,097",
+            "forks": "5,461",
+            "language": "Jupyter Notebook",
+            "stars_today": "746 stars this month"
+        },
+        {
+            "zh_des": "入门·\n问题·\n错误报告·\n贡献准备好做饭了吗？🚀这是Groq API的示例代码和指南的集合，供您浏览",
+            "url": "https://github.com/groq/groq-api-cookbook",
+            "name": "groq /groq-api-cookbook",
+            "description": "Getting Started •\n Questions •\n Bug Reporting •\n ContributingAre you ready to cook? 🚀 This is a collection of example code and guides for Groq API for you to explore",
+            "stars": "342",
+            "forks": "66",
+            "language": "Jupyter Notebook",
+            "stars_today": "107 stars this month"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "24,089",
+            "forks": "3,167",
+            "language": "Jupyter Notebook",
+            "stars_today": "606 stars this month"
+        },
+        {
+            "zh_des": "西北风模式的官方推理库",
+            "url": "https://github.com/mistralai/mistral-inference",
+            "name": "mistralai /mistral-inference",
+            "description": "Official inference library for Mistral models",
+            "stars": "9,403",
+            "forks": "821",
+            "language": "Jupyter Notebook",
+            "stars_today": "279 stars this month"
+        },
+        {
+            "zh_des": "Udemy上完整的Python3训练营课程的课程文件",
+            "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+            "name": "Pierian-Data /Complete-Python-3-Bootcamp",
+            "description": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+            "stars": "26,941",
+            "forks": "84,558",
+            "language": "Jupyter Notebook",
+            "stars_today": "246 stars this month"
+        },
+        {
+            "zh_des": "人造卫星的交互提示工程教程",
+            "url": "https://github.com/anthropics/prompt-eng-interactive-tutorial",
+            "name": "anthropics /prompt-eng-interactive-tutorial",
+            "description": "Anthropic's Interactive Prompt Engineering Tutorial",
+            "stars": "278",
+            "forks": "56",
+            "language": "Jupyter Notebook",
+            "stars_today": "117 stars this month"
+        }
+    ]
+}
