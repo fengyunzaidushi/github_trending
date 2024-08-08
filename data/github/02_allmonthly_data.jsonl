@@ -33138,3 +33138,177 @@
         }
     ]
 }
+{
+    "08月08日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "9,229",
+            "forks": "861",
+            "language": "Python",
+            "stars_today": "4,359 stars this month"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "91,685",
+            "forks": "11,552",
+            "language": "Java",
+            "stars_today": "12,104 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "18,275",
+            "forks": "1,282",
+            "language": "JavaScript",
+            "stars_today": "6,124 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "39,329",
+            "forks": "1,900",
+            "language": "Shell",
+            "stars_today": "3,221 stars this month"
+        },
+        {
+            "zh_des": "O Armazém de Livros",
+            "url": "https://github.com/free-educa/books",
+            "name": "free-educa /books",
+            "description": "o armazém de livros",
+            "stars": "6,814",
+            "forks": "1,349",
+            "language": "",
+            "stars_today": "1,663 stars this month"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "4,034",
+            "forks": "163",
+            "language": "TypeScript",
+            "stars_today": "3,347 stars this month"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "26,058",
+            "forks": "2,193",
+            "language": "TypeScript",
+            "stars_today": "1,440 stars this month"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "4,585",
+            "forks": "1,051",
+            "language": "Python",
+            "stars_today": "3,353 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,664",
+            "forks": "387",
+            "language": "Python",
+            "stars_today": "1,688 stars this month"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "35,868",
+            "forks": "2,672",
+            "language": "Java",
+            "stars_today": "6,206 stars this month"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "23,471",
+            "forks": "3,619",
+            "language": "TypeScript",
+            "stars_today": "2,067 stars this month"
+        },
+        {
+            "zh_des": "自托管AI编码助手",
+            "url": "https://github.com/TabbyML/tabby",
+            "name": "TabbyML /tabby",
+            "description": "Self-hosted AI coding assistant",
+            "stars": "20,409",
+            "forks": "929",
+            "language": "Rust",
+            "stars_today": "2,111 stars this month"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "14,296",
+            "forks": "1,262",
+            "language": "Python",
+            "stars_today": "7,420 stars this month"
+        },
+        {
+            "zh_des": "😎列出了各种有趣的话题",
+            "url": "https://github.com/sindresorhus/awesome",
+            "name": "sindresorhus /awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "stars": "318,264",
+            "forks": "27,490",
+            "language": "",
+            "stars_today": "8,675 stars this month"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "398,163",
+            "forks": "36,677",
+            "language": "TypeScript",
+            "stars_today": "5,490 stars this month"
+        },
+        {
+            "zh_des": "🔥“企业级低代码平台”前后端分离架构SpringBoot2.x/3.x，SpringCloud，蚂蚁设计与Vue3，Mybatis，Shiro，JWT.强大的代码生成器让前后端代码一键生成，无需写任何代码！引领新的开发模式Online Coding->代码生成->手工Merge，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+            "url": "https://github.com/jeecgboot/JeecgBoot",
+            "name": "jeecgboot /JeecgBoot",
+            "description": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+            "stars": "39,024",
+            "forks": "14,546",
+            "language": "Java",
+            "stars_today": "615 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,269",
+            "forks": "4,809",
+            "language": "Python",
+            "stars_today": "3,899 stars this month"
+        }
+    ]
+}
