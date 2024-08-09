@@ -32214,3 +32214,147 @@
         }
     ]
 }
+{
+    "08月09日": [
+        {
+            "zh_des": "GoodbyeDPP-深度数据包检测规避实用程序（适用于Windows）",
+            "url": "https://github.com/ValdikSS/GoodbyeDPI",
+            "name": "ValdikSS /GoodbyeDPI",
+            "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+            "stars": "20,134",
+            "forks": "1,510",
+            "language": "C",
+            "stars_today": "5,898 stars this week"
+        },
+        {
+            "zh_des": "DPA绕过多平台",
+            "url": "https://github.com/bol-van/zapret",
+            "name": "bol-van /zapret",
+            "description": "DPI bypass multi platform",
+            "stars": "4,649",
+            "forks": "457",
+            "language": "C",
+            "stars_today": "1,564 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型图形用户界面、API和后台，具有图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,427",
+            "forks": "4,821",
+            "language": "Python",
+            "stars_today": "1,428 stars this week"
+        },
+        {
+            "zh_des": "在服务器、桌面和移动设备上本地运行PyTorch LLM",
+            "url": "https://github.com/pytorch/torchchat",
+            "name": "pytorch /torchchat",
+            "description": "Run PyTorch LLMs locally on servers, desktop and mobile",
+            "stars": "2,695",
+            "forks": "165",
+            "language": "Python",
+            "stars_today": "1,924 stars this week"
+        },
+        {
+            "zh_des": "🎶一个可以轻松设置和自行运行的Discord音乐机器人！",
+            "url": "https://github.com/jagrosh/MusicBot",
+            "name": "jagrosh /MusicBot",
+            "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+            "stars": "5,046",
+            "forks": "2,478",
+            "language": "Java",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "C3语言更容易",
+            "url": "https://github.com/c3lang/c3c",
+            "name": "c3lang /c3c",
+            "description": "Compiler for the C3 language",
+            "stars": "2,237",
+            "forks": "117",
+            "language": "C",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "具有IP摄像机实时本地对象检测功能的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "16,763",
+            "forks": "1,564",
+            "language": "Python",
+            "stars_today": "328 stars this week"
+        },
+        {
+            "zh_des": "下一代Airtable替代品：无代码Postgs",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "8,617",
+            "forks": "369",
+            "language": "TypeScript",
+            "stars_today": "554 stars this week"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser",
+            "stars": "2,894",
+            "forks": "75",
+            "language": "TypeScript",
+            "stars_today": "1,175 stars this week"
+        },
+        {
+            "zh_des": "实时互动流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,709",
+            "forks": "389",
+            "language": "Python",
+            "stars_today": "744 stars this week"
+        },
+        {
+            "zh_des": "自托管YouTube下载器（youtube-dl /yt-dmp的Web UI）",
+            "url": "https://github.com/alexta69/metube",
+            "name": "alexta69 /metube",
+            "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+            "stars": "5,654",
+            "forks": "340",
+            "language": "Python",
+            "stars_today": "436 stars this week"
+        },
+        {
+            "zh_des": "互动路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "286,510",
+            "forks": "38,078",
+            "language": "TypeScript",
+            "stars_today": "1,806 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG（检索增强生成）引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "13,811",
+            "forks": "1,366",
+            "language": "Python",
+            "stars_today": "759 stars this week"
+        },
+        {
+            "zh_des": "一款一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "7,330",
+            "forks": "560",
+            "language": "Python",
+            "stars_today": "1,593 stars this week"
+        }
+    ]
+}
