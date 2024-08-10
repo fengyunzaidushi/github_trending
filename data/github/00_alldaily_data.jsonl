@@ -31734,3 +31734,147 @@
         }
     ]
 }
+{
+    "08月10日": [
+        {
+            "zh_des": "只有一张图片的实时人脸交换和一键视频深度假冒(未经审查)",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image (uncensored)",
+            "stars": "9,633",
+            "forks": "1,273",
+            "language": "Python",
+            "stars_today": "5,510 stars today"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "8,931",
+            "forks": "388",
+            "language": "TypeScript",
+            "stars_today": "324 stars today"
+        },
+        {
+            "zh_des": "Raspberry PI Pico SDK文档示例代码获取最新的SDK代码快速启动您自己的项目RP2350上的RISC-V支持Raspberry PI Pico SDK(以下简称SDK)提供头文件、库和构建系统\n需要为基于RP系列微控制器的设备(如Raspberry PI Pico或Raspberry PI Pico 2)编写程序\n用C、C++或汇编语言编写",
+            "url": "https://github.com/raspberrypi/pico-sdk",
+            "name": "raspberrypi /pico-sdk",
+            "description": "Raspberry Pi Pico SDKDocumentationExample codeGetting the latest SDK codeQuick-start your own projectRISC-V support on RP2350The Raspberry Pi Pico SDK (henceforth the SDK) provides the headers, libraries and build system\nnecessary to write programs for the RP-series microcontroller-based devices such as the Raspberry Pi Pico or Raspberry Pi Pico 2\nin C, C++ or assembly language",
+            "stars": "3,345",
+            "forks": "863",
+            "language": "C",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "31,823",
+            "forks": "3,819",
+            "language": "JavaScript",
+            "stars_today": "252 stars today"
+        },
+        {
+            "zh_des": "Penpot：用于设计和代码协作的开源设计工具",
+            "url": "https://github.com/penpot/penpot",
+            "name": "penpot /penpot",
+            "description": "Penpot: The open-source design tool for design and code collaboration",
+            "stars": "30,154",
+            "forks": "1,486",
+            "language": "Clojure",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "9,881",
+            "forks": "691",
+            "language": "Python",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "36,453",
+            "forks": "2,718",
+            "language": "Java",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "使用HWID/OHOOK/KMS38/Online KMS激活方法的Windows和Office激活器，重点关注开源代码和较少的防病毒检测。",
+            "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+            "name": "massgravel /Microsoft-Activation-Scripts",
+            "description": "A Windows and Office activator using HWID / Ohook / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.",
+            "stars": "90,199",
+            "forks": "8,791",
+            "language": "Batchfile",
+            "stars_today": "590 stars today"
+        },
+        {
+            "zh_des": "基于OpenAI Whisper的说话人二值化自动语音识别",
+            "url": "https://github.com/MahmoudAshraf97/whisper-diarization",
+            "name": "MahmoudAshraf97 /whisper-diarization",
+            "description": "Automatic Speech Recognition with Speaker Diarization based on OpenAI Whisper",
+            "stars": "2,839",
+            "forks": "251",
+            "language": "Jupyter Notebook",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,129",
+            "forks": "4,085",
+            "language": "Python",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "Cocos通过Cocos Creator简化了游戏的创建和分发，Cocos Creator是一个免费、开源的跨平台游戏引擎。使数百万开发人员能够创建高性能、引人入胜的2D/3D游戏和即时网络娱乐。",
+            "url": "https://github.com/cocos/cocos-engine",
+            "name": "cocos /cocos-engine",
+            "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+            "stars": "5,742",
+            "forks": "1,614",
+            "language": "C++",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "10,578",
+            "forks": "744",
+            "language": "Python",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "✅Node.js最佳实践列表(2024年7月)",
+            "url": "https://github.com/goldbergyoni/nodebestpractices",
+            "name": "goldbergyoni /nodebestpractices",
+            "description": "✅ The Node.js best practices list (July 2024)",
+            "stars": "98,191",
+            "forks": "9,959",
+            "language": "Dockerfile",
+            "stars_today": "362 stars today"
+        },
+        {
+            "zh_des": "一组方便的Bash一行程序和终端技巧，用于数据处理和Linux系统维护。",
+            "url": "https://github.com/onceupon/Bash-Oneliner",
+            "name": "onceupon /Bash-Oneliner",
+            "description": "A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.",
+            "stars": "9,820",
+            "forks": "602",
+            "language": "",
+            "stars_today": "23 stars today"
+        }
+    ]
+}
