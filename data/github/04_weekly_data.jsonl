@@ -31832,3 +31832,177 @@
         }
     ]
 }
+{
+    "08月11日": [
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,681",
+            "forks": "4,852",
+            "language": "Python",
+            "stars_today": "1,474 stars this week"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "16,856",
+            "forks": "1,572",
+            "language": "Python",
+            "stars_today": "401 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "18,591",
+            "forks": "1,046",
+            "language": "Python",
+            "stars_today": "268 stars this week"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "30,678",
+            "forks": "3,526",
+            "language": "Python",
+            "stars_today": "429 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,664",
+            "forks": "91",
+            "language": "Python",
+            "stars_today": "218 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "10,005",
+            "forks": "701",
+            "language": "Python",
+            "stars_today": "1,723 stars this week"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,757",
+            "forks": "394",
+            "language": "Python",
+            "stars_today": "385 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,261",
+            "forks": "333",
+            "language": "Python",
+            "stars_today": "194 stars this week"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "79,570",
+            "forks": "6,228",
+            "language": "Python",
+            "stars_today": "1,045 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "10,666",
+            "forks": "752",
+            "language": "Python",
+            "stars_today": "377 stars this week"
+        },
+        {
+            "zh_des": "用于训练和推理的缺失的火炬数据类型和布局库",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "The missing pytorch dtype and layout library for training and inference",
+            "stars": "482",
+            "forks": "69",
+            "language": "Python",
+            "stars_today": "26 stars this week"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,195",
+            "forks": "4,089",
+            "language": "Python",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,342",
+            "forks": "29,309",
+            "language": "Python",
+            "stars_today": "152 stars this week"
+        },
+        {
+            "zh_des": "自主式YouTube下载器(适用于YouTube-dl/yt-dlp的Web用户界面)",
+            "url": "https://github.com/alexta69/metube",
+            "name": "alexta69 /metube",
+            "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+            "stars": "5,700",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "400 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-40的开创性开源替代方案。接近Gpt-40表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的可商用开源多模态对话模型",
+            "stars": "4,913",
+            "forks": "383",
+            "language": "Python",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "5,472",
+            "forks": "574",
+            "language": "Python",
+            "stars_today": "323 stars this week"
+        },
+        {
+            "zh_des": "在服务器、台式机和移动设备上本地运行PyTorch LLMS",
+            "url": "https://github.com/pytorch/torchchat",
+            "name": "pytorch /torchchat",
+            "description": "Run PyTorch LLMs locally on servers, desktop and mobile",
+            "stars": "2,760",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "1,122 stars this week"
+        }
+    ]
+}
