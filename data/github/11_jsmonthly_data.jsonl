@@ -31665,3 +31665,177 @@
         }
     ]
 }
+{
+    "08月12日": [
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "18,599",
+            "forks": "1,296",
+            "language": "JavaScript",
+            "stars_today": "6,453 stars this month"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "24,062",
+            "forks": "3,321",
+            "language": "JavaScript",
+            "stars_today": "3,439 stars this month"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "13,448",
+            "forks": "1,341",
+            "language": "JavaScript",
+            "stars_today": "656 stars this month"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "10,147",
+            "forks": "2,251",
+            "language": "JavaScript",
+            "stars_today": "950 stars this month"
+        },
+        {
+            "zh_des": "30天的JavaScript编程挑战是一本在30天内学习JavaScript编程语言的循序渐进的指南。这项挑战可能需要100多天，请按照自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+            "name": "Asabeneh /30-Days-Of-JavaScript",
+            "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "42,196",
+            "forks": "9,788",
+            "language": "JavaScript",
+            "stars_today": "523 stars this month"
+        },
+        {
+            "zh_des": "中文独立博客列表",
+            "url": "https://github.com/timqian/chinese-independent-blogs",
+            "name": "timqian /chinese-independent-blogs",
+            "description": "中文独立博客列表",
+            "stars": "20,049",
+            "forks": "2,446",
+            "language": "JavaScript",
+            "stars_today": "731 stars this month"
+        },
+        {
+            "zh_des": "一个用Java编写的图形节点引擎和编辑器，类似于PD或UDK蓝图，在HTML5 Canvas 2D中附带了自己的编辑器。该引擎可以使用Node运行客户端或服务器端。它允许将图形导出为JSON，以便独立地包含在应用程序中。",
+            "url": "https://github.com/jagenjo/litegraph.js",
+            "name": "jagenjo /litegraph.js",
+            "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+            "stars": "6,276",
+            "forks": "675",
+            "language": "JavaScript",
+            "stars_today": "636 stars this month"
+        },
+        {
+            "zh_des": "来见见Suhail-MD，你的一体机WhatsApp兴奋伙伴！享受前所未有的激动人心的消息传递体验。苏海尔-MD带来令人兴奋的世界和喜悦到你的聊天✨🤖",
+            "url": "https://github.com/SuhailTechInfo/Suhail-Md",
+            "name": "SuhailTechInfo /Suhail-Md",
+            "description": "meet Suhail-Md, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. Suhail-Md brings a world of excitement and joy to your chats ✨🤖",
+            "stars": "4,880",
+            "forks": "16,194",
+            "language": "JavaScript",
+            "stars_today": "1,972 stars this month"
+        },
+        {
+            "zh_des": "⚡为您的GitHub Readme动态生成统计数据",
+            "url": "https://github.com/anuraghazra/github-readme-stats",
+            "name": "anuraghazra /github-readme-stats",
+            "description": "⚡ Dynamically generated stats for your github readmes",
+            "stars": "67,377",
+            "forks": "21,991",
+            "language": "JavaScript",
+            "stars_today": "918 stars this month"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "12,775",
+            "forks": "791",
+            "language": "JavaScript",
+            "stars_today": "402 stars this month"
+        },
+        {
+            "zh_des": "《JavaScript样式指南》",
+            "url": "https://github.com/airbnb/javascript",
+            "name": "airbnb /javascript",
+            "description": "JavaScript Style Guide",
+            "stars": "144,209",
+            "forks": "26,402",
+            "language": "JavaScript",
+            "stars_today": "1,201 stars this month"
+        },
+        {
+            "zh_des": "世界上最令人印象深刻的网站使用3D图形和动画来使内容栩栩如生。立即了解如何构建您自己的ThreeJS 3D开发人员组合！",
+            "url": "https://github.com/adrianhajdin/project_3D_developer_portfolio",
+            "name": "adrianhajdin /project_3D_developer_portfolio",
+            "description": "The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today!",
+            "stars": "5,622",
+            "forks": "1,235",
+            "language": "JavaScript",
+            "stars_today": "182 stars this month"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "22,721",
+            "forks": "1,465",
+            "language": "JavaScript",
+            "stars_today": "1,588 stars this month"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "105,963",
+            "forks": "28,807",
+            "language": "JavaScript",
+            "stars_today": "860 stars this month"
+        },
+        {
+            "zh_des": "以类似于标记的方式从文本生成流程图或序列图之类的图",
+            "url": "https://github.com/mermaid-js/mermaid",
+            "name": "mermaid-js /mermaid",
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "stars": "69,871",
+            "forks": "6,207",
+            "language": "JavaScript",
+            "stars_today": "1,077 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "23,502",
+            "forks": "1,082",
+            "language": "JavaScript",
+            "stars_today": "1,580 stars this month"
+        },
+        {
+            "zh_des": "一款适用于微服务编排，第三方接口集成，私有化定制开发，编写好朋友聚合层等场景的强大低码编排工具！",
+            "url": "https://github.com/somta/Juggle",
+            "name": "somta /Juggle",
+            "description": "一款适用于微服务编排，第三方api集成，私有化定制开发，编写BFF聚合层等场景的强大低码编排工具！",
+            "stars": "624",
+            "forks": "130",
+            "language": "JavaScript",
+            "stars_today": "198 stars this month"
+        }
+    ]
+}
