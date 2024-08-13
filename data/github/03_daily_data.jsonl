@@ -32434,3 +32434,157 @@
         }
     ]
 }
+{
+    "08月13日": [
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "18,883",
+            "forks": "2,437",
+            "language": "Python",
+            "stars_today": "3,897 stars today"
+        },
+        {
+            "zh_des": "正在构建稳定扩散WebUI Forge正在安装ForgeForge状态UnetPatcher正在构建WebUI Forge正在进行一周的重大修订，从2024年8月1日到8月10日",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Under ConstructionStable Diffusion WebUI ForgeInstalling ForgeForge StatusUnetPatcherUnder ConstructionWebUI Forge is under a week of major revision right now between 2024 Aug 1 and Aug 10",
+            "stars": "5,923",
+            "forks": "596",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "针对Microsoft 365的进攻性安全工具包，主要针对Microsoft Copilot、Copilot Studio和Power Platform",
+            "url": "https://github.com/mbrg/power-pwn",
+            "name": "mbrg /power-pwn",
+            "description": "An offensive security toolset for Microsoft 365 focused on Microsoft Copilot, Copilot Studio and Power Platform",
+            "stars": "683",
+            "forks": "67",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "42,581",
+            "forks": "5,071",
+            "language": "Python",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "266,836",
+            "forks": "45,183",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,511",
+            "forks": "349",
+            "language": "Python",
+            "stars_today": "268 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,376",
+            "forks": "29,324",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "59,099",
+            "forks": "14,329",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "5秒内复制语音，实时生成任意语音",
+            "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+            "name": "CorentinJ /Real-Time-Voice-Cloning",
+            "description": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+            "stars": "51,827",
+            "forks": "8,667",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "5,554",
+            "forks": "581",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "137,802",
+            "forks": "26,197",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "跨平台、快速、功能丰富、基于GPU的终端",
+            "url": "https://github.com/kovidgoyal/kitty",
+            "name": "kovidgoyal /kitty",
+            "description": "Cross-platform, fast, feature-rich, GPU based terminal",
+            "stars": "23,405",
+            "forks": "945",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "TikTok主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "6,971",
+            "forks": "1,125",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "解析文件以获得最佳RAG",
+            "url": "https://github.com/run-llama/llama_parse",
+            "name": "run-llama /llama_parse",
+            "description": "Parse files for optimal RAG",
+            "stars": "2,194",
+            "forks": "214",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "通过GPT 3.5、GPT-4 Turbo、Claude和本地开源LLMS与您的多个文档(pdf和txt)连接和聊天",
+            "url": "https://github.com/junruxiong/IncarnaMind",
+            "name": "junruxiong /IncarnaMind",
+            "description": "Connect and chat with your multiple documents (pdf and txt) through GPT 3.5, GPT-4 Turbo, Claude and Local Open-Source LLMs",
+            "stars": "736",
+            "forks": "46",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        }
+    ]
+}

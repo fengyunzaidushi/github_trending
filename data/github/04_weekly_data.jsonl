@@ -32364,3 +32364,187 @@
         }
     ]
 }
+{
+    "08月13日": [
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "16,988",
+            "forks": "1,582",
+            "language": "Python",
+            "stars_today": "488 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "45,968",
+            "forks": "4,876",
+            "language": "Python",
+            "stars_today": "1,337 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,743",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "275 stars this week"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "30,821",
+            "forks": "3,529",
+            "language": "Python",
+            "stars_today": "502 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "18,657",
+            "forks": "1,049",
+            "language": "Python",
+            "stars_today": "352 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "10,195",
+            "forks": "713",
+            "language": "Python",
+            "stars_today": "1,984 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,511",
+            "forks": "349",
+            "language": "Python",
+            "stars_today": "563 stars this week"
+        },
+        {
+            "zh_des": "一种构建基于LLM的代理的轻量级框架",
+            "url": "https://github.com/InternLM/lagent",
+            "name": "InternLM /lagent",
+            "description": "A lightweight framework for building LLM-based agents",
+            "stars": "1,605",
+            "forks": "154",
+            "language": "Python",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "79,715",
+            "forks": "6,238",
+            "language": "Python",
+            "stars_today": "831 stars this week"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "5,554",
+            "forks": "581",
+            "language": "Python",
+            "stars_today": "383 stars this week"
+        },
+        {
+            "zh_des": "一个面向扩散模型的通用微调工具包。",
+            "url": "https://github.com/bghira/SimpleTuner",
+            "name": "bghira /SimpleTuner",
+            "description": "A general fine-tuning kit geared toward diffusion models.",
+            "stars": "1,073",
+            "forks": "79",
+            "language": "Python",
+            "stars_today": "470 stars this week"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,213",
+            "forks": "4,091",
+            "language": "Python",
+            "stars_today": "446 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,376",
+            "forks": "29,324",
+            "language": "Python",
+            "stars_today": "166 stars this week"
+        },
+        {
+            "zh_des": "自主式YouTube下载器(适用于YouTube-dl/yt-dlp的Web用户界面)",
+            "url": "https://github.com/alexta69/metube",
+            "name": "alexta69 /metube",
+            "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+            "stars": "5,729",
+            "forks": "350",
+            "language": "Python",
+            "stars_today": "370 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "10,700",
+            "forks": "753",
+            "language": "Python",
+            "stars_today": "498 stars this week"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-40的开创性开源替代方案。接近Gpt-40表现的可商用开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的可商用开源多模态对话模型",
+            "stars": "4,961",
+            "forks": "386",
+            "language": "Python",
+            "stars_today": "340 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "42,581",
+            "forks": "5,071",
+            "language": "Python",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "Osintgram是Instagram上的OSINT工具。它提供了一个交互外壳，可以通过昵称对任何用户的Instagram账户进行分析",
+            "url": "https://github.com/Datalux/Osintgram",
+            "name": "Datalux /Osintgram",
+            "description": "Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname",
+            "stars": "9,316",
+            "forks": "2,034",
+            "language": "Python",
+            "stars_today": "52 stars this week"
+        }
+    ]
+}
