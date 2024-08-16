@@ -284,43 +284,55 @@ async def main():
             today_list = data_dict.get(date, [])
             # if today_list:
             # if today_list:
-            repositories = await fetch_trending_repositories(url)
-            all_zh_des = trs_batch_text(
-                [item["description"] for item in repositories[:]]
-            )
-            if all_zh_des:
-                print('all_zh_des is ok')
-            else:
-                print('all_zh_des is none')
-            # print(f"all_zh_des:{all_zh_des}")
-            new_repositories = [
-                item.update({"zh_des": zh_des})
-                for item, zh_des in zip(repositories, all_zh_des)
-            ]
-            today_list = repositories
 
-            git_dict = {date: today_list}
-            write_github_data(git_dict, date, prefix)
-            # else:
-            #     print(f'{prefix}_list.jsonl has been updated {date} today')
+            try:
+                repositories = await fetch_trending_repositories(url)
+                all_zh_des = trs_batch_text(
+                    [
+                        item.get("description", "do not translate")
+                        for item in repositories[:]
+                    ]
+                )
+                if all_zh_des:
+                    print("all_zh_des is ok")
+                    new_repositories = [
+                        item.update({"zh_des": zh_des})
+                        for item, zh_des in zip(repositories, all_zh_des)
+                    ]
+                else:
+                    print("all_zh_des is none")
+
+                today_list = repositories
+
+                git_dict = {date: today_list}
+                write_github_data(git_dict, date, prefix)
+            except Exception as e:
+                print(e)
+                pass
+
         else:
+            try:
+                repositories = await fetch_trending_repositories(url)
+                all_zh_des = trs_batch_text(
+                    [
+                        item.get("description", "do not translate")
+                        for item in repositories[:]
+                    ]
+                )
+                print(all_zh_des)
+                new_repositories = [
+                    item.update({"zh_des": zh_des})
+                    for item, zh_des in zip(repositories, all_zh_des)
+                ]
 
-            repositories = await fetch_trending_repositories(url)
-            all_zh_des = trs_batch_text(
-                [item["description"] for item in repositories[:]]
-            )
-            new_repositories = [
-                item.update({"zh_des": zh_des})
-                for item, zh_des in zip(repositories, all_zh_des)
-            ]
+                # 获取当前时间
 
-            # 获取当前时间
-
-            today_list = repositories
-            git_dict = {date: today_list}
-            write_github_data(git_dict, date, prefix)
-
-        # await discord_callback(today_list,date,prefix)
+                today_list = repositories
+                git_dict = {date: today_list}
+                write_github_data(git_dict, date, prefix)
+            except Exception as e:
+                print(e)
+                pass
 
 
 async def discord_callback(repositories, date, prefix):

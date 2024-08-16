@@ -32618,3 +32618,167 @@
         }
     ]
 }
+{
+    "08月16日": [
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "62,612",
+            "forks": "11,831",
+            "language": "TypeScript",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "169,371",
+            "forks": "78,670",
+            "language": "JavaScript",
+            "stars_today": "562 stars today"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "5,098",
+            "forks": "292",
+            "language": "Dart",
+            "stars_today": "453 stars today"
+        },
+        {
+            "zh_des": "Karpenter是一款Kubernetes Node Autoscaler，旨在实现灵活性、性能和简单性。",
+            "url": "https://github.com/aws/karpenter-provider-aws",
+            "name": "aws /karpenter-provider-aws",
+            "description": "Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.",
+            "stars": "6,390",
+            "forks": "882",
+            "language": "Go",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "92,658",
+            "forks": "11,708",
+            "language": "Java",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "轻量级Postgres以WASM的形式打包到https://electric-sql.com的浏览器、Node.js、Bun和Deno的打字库中",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno fromhttps://electric-sql.com",
+            "stars": "6,816",
+            "forks": "117",
+            "language": "PLpgSQL",
+            "stars_today": "230 stars today"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行仅需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "12,318",
+            "forks": "1,232",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "1,083",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "294,790",
+            "forks": "27,669",
+            "language": "",
+            "stars_today": "445 stars today"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "5,884",
+            "forks": "507",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "梅谢里，云本地经理",
+            "url": "https://github.com/meshery/meshery",
+            "name": "meshery /meshery",
+            "description": "Meshery, the cloud native manager",
+            "stars": "5,368",
+            "forks": "1,681",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Kedro是可用于生产的数据科学的工具箱。它使用软件工程最佳实践来帮助您创建可复制、可维护和模块化的数据工程和数据科学管道。",
+            "url": "https://github.com/kedro-org/kedro",
+            "name": "kedro-org /kedro",
+            "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+            "stars": "9,623",
+            "forks": "882",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "8,897",
+            "forks": "889",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "GoFrame是高朗的模块化、功能强大、高性能、企业级的应用开发框架。",
+            "url": "https://github.com/gogf/gf",
+            "name": "gogf /gf",
+            "description": "GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.",
+            "stars": "11,278",
+            "forks": "1,548",
+            "language": "Go",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Vim-Fork专注于可扩展性和可用性",
+            "url": "https://github.com/neovim/neovim",
+            "name": "neovim /neovim",
+            "description": "Vim-fork focused on extensibility and usability",
+            "stars": "80,855",
+            "forks": "5,529",
+            "language": "Vim Script",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "开始使用Llama 3.1、Mistral、Gema 2和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.",
+            "stars": "85,207",
+            "forks": "6,565",
+            "language": "Go",
+            "stars_today": "173 stars today"
+        }
+    ]
+}

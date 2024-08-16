@@ -34958,3 +34958,167 @@
         }
     ]
 }
+{
+    "08月16日": [
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "19,621",
+            "forks": "1,846",
+            "language": "Python",
+            "stars_today": "10,734 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "18,945",
+            "forks": "1,317",
+            "language": "JavaScript",
+            "stars_today": "6,744 stars this month"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "38,163",
+            "forks": "2,857",
+            "language": "Java",
+            "stars_today": "8,185 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "39,939",
+            "forks": "1,920",
+            "language": "Shell",
+            "stars_today": "3,816 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "2,961",
+            "forks": "417",
+            "language": "Python",
+            "stars_today": "1,968 stars this month"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "10,019",
+            "forks": "440",
+            "language": "TypeScript",
+            "stars_today": "2,248 stars this month"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "5,098",
+            "forks": "292",
+            "language": "Dart",
+            "stars_today": "1,919 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "46,803",
+            "forks": "4,948",
+            "language": "Python",
+            "stars_today": "4,510 stars this month"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "23,909",
+            "forks": "3,665",
+            "language": "TypeScript",
+            "stars_today": "2,317 stars this month"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "9,743",
+            "forks": "897",
+            "language": "Python",
+            "stars_today": "3,489 stars this month"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "5,217",
+            "forks": "1,166",
+            "language": "Python",
+            "stars_today": "3,364 stars this month"
+        },
+        {
+            "zh_des": "代理服务器绕过CloudFlare保护",
+            "url": "https://github.com/FlareSolverr/FlareSolverr",
+            "name": "FlareSolverr /FlareSolverr",
+            "description": "Proxy server to bypass Cloudflare protection",
+            "stars": "6,953",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "556 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeNewsInstalling ForgeForge StatusUnetPatcher正在建设稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验功能",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeNewsInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,205",
+            "forks": "617",
+            "language": "Python",
+            "stars_today": "817 stars this month"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "287,509",
+            "forks": "38,181",
+            "language": "TypeScript",
+            "stars_today": "5,105 stars this month"
+        },
+        {
+            "zh_des": "🔥“企业级低代码平台”前后端分离架构SpringBoot2.x/3.x，SpringCloud，蚂蚁设计与Vue3，Mybatis，Shiro，JWT.强大的代码生成器让前后端代码一键生成，无需写任何代码！引领新的开发模式Online Coding->代码生成->手工Merge，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+            "url": "https://github.com/jeecgboot/JeecgBoot",
+            "name": "jeecgboot /JeecgBoot",
+            "description": "🔥「企业级低代码平台」前后端分离架构SpringBoot 2.x/3.x，SpringCloud，Ant Design&Vue3，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。",
+            "stars": "39,712",
+            "forks": "14,624",
+            "language": "Java",
+            "stars_today": "1,188 stars this month"
+        },
+        {
+            "zh_des": "查找、验证和分析泄露的凭据",
+            "url": "https://github.com/trufflesecurity/trufflehog",
+            "name": "trufflesecurity /trufflehog",
+            "description": "Find, verify, and analyze leaked credentials",
+            "stars": "15,183",
+            "forks": "1,605",
+            "language": "Go",
+            "stars_today": "709 stars this month"
+        }
+    ]
+}
