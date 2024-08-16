@@ -32752,3 +32752,207 @@
         }
     ]
 }
+{
+    "08月16日": [
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "24,204",
+            "forks": "3,241",
+            "language": "Python",
+            "stars_today": "21,787 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "10,585",
+            "forks": "741",
+            "language": "Python",
+            "stars_today": "1,207 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeNewsInstalling ForgeForge StatusUnetPatcher正在建设稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验功能",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeNewsInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,223",
+            "forks": "618",
+            "language": "Python",
+            "stars_today": "499 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "46,838",
+            "forks": "4,952",
+            "language": "Python",
+            "stars_today": "1,357 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,891",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "360 stars this week"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "17,146",
+            "forks": "1,592",
+            "language": "Python",
+            "stars_today": "432 stars this week"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "31,067",
+            "forks": "3,553",
+            "language": "Python",
+            "stars_today": "552 stars this week"
+        },
+        {
+            "zh_des": "一个面向扩散模型的通用微调工具包。",
+            "url": "https://github.com/bghira/SimpleTuner",
+            "name": "bghira /SimpleTuner",
+            "description": "A general fine-tuning kit geared toward diffusion models.",
+            "stars": "1,146",
+            "forks": "91",
+            "language": "Python",
+            "stars_today": "239 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "10,777",
+            "forks": "760",
+            "language": "Python",
+            "stars_today": "466 stars this week"
+        },
+        {
+            "zh_des": "多云安全审计工具",
+            "url": "https://github.com/nccgroup/ScoutSuite",
+            "name": "nccgroup /ScoutSuite",
+            "description": "Multi-Cloud Security Auditing Tool",
+            "stars": "6,533",
+            "forks": "1,047",
+            "language": "Python",
+            "stars_today": "133 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,633",
+            "forks": "359",
+            "language": "Python",
+            "stars_today": "556 stars this week"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "5,704",
+            "forks": "601",
+            "language": "Python",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,302",
+            "forks": "4,104",
+            "language": "Python",
+            "stars_today": "432 stars this week"
+        },
+        {
+            "zh_des": "一种构建基于LLM的代理的轻量级框架",
+            "url": "https://github.com/InternLM/lagent",
+            "name": "InternLM /lagent",
+            "description": "A lightweight framework for building LLM-based agents",
+            "stars": "1,651",
+            "forks": "159",
+            "language": "Python",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "42,829",
+            "forks": "5,097",
+            "language": "Python",
+            "stars_today": "605 stars this week"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "26,104",
+            "forks": "6,431",
+            "language": "Python",
+            "stars_today": "125 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,437",
+            "forks": "29,385",
+            "language": "Python",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "5,648",
+            "forks": "514",
+            "language": "Python",
+            "stars_today": "608 stars this week"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "138,037",
+            "forks": "26,245",
+            "language": "Python",
+            "stars_today": "521 stars this week"
+        },
+        {
+            "zh_des": "TikTok主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "url": "https://github.com/JoeanAmier/TikTokDownloader",
+            "name": "JoeanAmier /TikTokDownloader",
+            "description": "TikTok 主页/合辑/直播/视频/图集/原声；抖音主页/视频/图集/收藏/直播/原声/合集/评论/账号/搜索/热榜数据采集工具",
+            "stars": "7,046",
+            "forks": "1,139",
+            "language": "Python",
+            "stars_today": "176 stars this week"
+        }
+    ]
+}
