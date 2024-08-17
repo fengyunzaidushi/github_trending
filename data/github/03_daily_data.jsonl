@@ -32956,3 +32956,187 @@
         }
     ]
 }
+{
+    "08月17日": [
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行仅需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "12,417",
+            "forks": "1,240",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "1,186",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "Kedro是可用于生产的数据科学的工具箱。它使用软件工程最佳实践来帮助您创建可复制、可维护和模块化的数据工程和数据科学管道。",
+            "url": "https://github.com/kedro-org/kedro",
+            "name": "kedro-org /kedro",
+            "description": "Kedro is a toolbox for production-ready data science. It uses software engineering best practices to help you create data engineering and data science pipelines that are reproducible, maintainable, and modular.",
+            "stars": "9,722",
+            "forks": "884",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "💬开源机器学习框架，可自动执行基于文本和语音的对话：NLU、对话管理、Connect to Slack、Facebook等-创建聊天机器人和语音助手",
+            "url": "https://github.com/RasaHQ/rasa",
+            "name": "RasaHQ /rasa",
+            "description": "💬 Open source machine learning framework to automate text- and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants",
+            "stars": "18,491",
+            "forks": "4,586",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "18,321",
+            "forks": "2,516",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "一个简单的用于Honkai的Python Pydatics模型：Star Rail解析来自Mihomo API的数据。",
+            "url": "https://github.com/MetaCubeX/mihomo",
+            "name": "MetaCubeX /mihomo",
+            "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+            "stars": "14,696",
+            "forks": "2,472",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "IntelOwl：大规模管理您的威胁情报",
+            "url": "https://github.com/intelowlproject/IntelOwl",
+            "name": "intelowlproject /IntelOwl",
+            "description": "IntelOwl: manage your Threat Intelligence at scale",
+            "stars": "3,470",
+            "forks": "411",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "机器学习互操作性的开放标准",
+            "url": "https://github.com/onnx/onnx",
+            "name": "onnx /onnx",
+            "description": "Open standard for machine learning interoperability",
+            "stars": "17,493",
+            "forks": "3,644",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "46,919",
+            "forks": "4,957",
+            "language": "Python",
+            "stars_today": "269 stars today"
+        },
+        {
+            "zh_des": "最大的PyTorch图像编码器/主干集合。包括训练、评估、推理、导出脚本和预先训练的权重--ResNet、ResNeXT、EfficientNet、NFNet、Vision Transformer(VIT)、MobileNetV4、MobileNet-V3&V2、RegNet、DPN、CSPNet、Swin Transformer、MaxViT、CoAtNet、ConvNeXt等",
+            "url": "https://github.com/huggingface/pytorch-image-models",
+            "name": "huggingface /pytorch-image-models",
+            "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT), MobileNetV4, MobileNet-V3 & V2, RegNet, DPN, CSPNet, Swin Transformer, MaxViT, CoAtNet, ConvNeXt, and more",
+            "stars": "31,141",
+            "forks": "4,673",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "61,398",
+            "forks": "5,745",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "8,615",
+            "forks": "656",
+            "language": "Python",
+            "stars_today": "159 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "824",
+            "forks": "49",
+            "language": "Python",
+            "stars_today": "253 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "59,687",
+            "forks": "13,205",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "20,974",
+            "forks": "7,610",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "20,404",
+            "forks": "2,129",
+            "language": "Go",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "Silero VAD：经过预先培训的企业级语音活动检测器",
+            "url": "https://github.com/snakers4/silero-vad",
+            "name": "snakers4 /silero-vad",
+            "description": "Silero VAD: pre-trained enterprise-grade Voice Activity Detector",
+            "stars": "3,680",
+            "forks": "374",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本.",
+            "url": "https://github.com/xaoyaoo/PyWxDump",
+            "name": "xaoyaoo /PyWxDump",
+            "description": "获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。",
+            "stars": "4,871",
+            "forks": "811",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        }
+    ]
+}
