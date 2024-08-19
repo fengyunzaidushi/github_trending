@@ -35177,3 +35177,177 @@
         }
     ]
 }
+{
+    "08月19日": [
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "12,523",
+            "forks": "255",
+            "language": "TypeScript",
+            "stars_today": "6,752 stars this week"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "6,706",
+            "forks": "540",
+            "language": "TypeScript",
+            "stars_today": "625 stars this week"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "63,346",
+            "forks": "11,889",
+            "language": "TypeScript",
+            "stars_today": "1,426 stars this week"
+        },
+        {
+            "zh_des": "这是一个Next.js，Tailind的css博客入门模板。开箱即用，配置了最新的技术，使技术编写变得轻而易举。可轻松配置和定制。作为现有Jekyll和Hugo个人博客的完美替代品。",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+            "name": "timlrx /tailwind-nextjs-starter-blog",
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "stars": "8,330",
+            "forks": "1,935",
+            "language": "TypeScript",
+            "stars_today": "646 stars this week"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "10,303",
+            "forks": "454",
+            "language": "TypeScript",
+            "stars_today": "1,090 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "43,741",
+            "forks": "5,828",
+            "language": "TypeScript",
+            "stars_today": "313 stars this week"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "37,934",
+            "forks": "2,496",
+            "language": "TypeScript",
+            "stars_today": "739 stars this week"
+        },
+        {
+            "zh_des": "TypeScrip是可编译为干净的JavaScript输出的JavaScript的超集。",
+            "url": "https://github.com/microsoft/TypeScript",
+            "name": "microsoft /TypeScript",
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "stars": "99,710",
+            "forks": "12,344",
+            "language": "TypeScript",
+            "stars_today": "149 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "9,382",
+            "forks": "900",
+            "language": "TypeScript",
+            "stars_today": "679 stars this week"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "30,200",
+            "forks": "880",
+            "language": "TypeScript",
+            "stars_today": "331 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、线性、星期一和Asana替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "26,911",
+            "forks": "1,474",
+            "language": "TypeScript",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "1,168",
+            "forks": "576",
+            "language": "TypeScript",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "⚡️⚡️⚡️自行托管的协作式书签管理器，用于收集、组织和保存网页和文章。",
+            "url": "https://github.com/linkwarden/linkwarden",
+            "name": "linkwarden /linkwarden",
+            "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.",
+            "stars": "7,380",
+            "forks": "279",
+            "language": "TypeScript",
+            "stars_today": "197 stars this week"
+        },
+        {
+            "zh_des": "InvokeAI是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的AI驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，通过CLI支持终端使用，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+            "stars": "22,646",
+            "forks": "2,336",
+            "language": "TypeScript",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "用于办事员身份验证的官方Java脚本存储库",
+            "url": "https://github.com/clerk/javascript",
+            "name": "clerk /javascript",
+            "description": "Official Javascript repository for Clerk authentication",
+            "stars": "1,017",
+            "forks": "228",
+            "language": "TypeScript",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "61,251",
+            "forks": "13,342",
+            "language": "TypeScript",
+            "stars_today": "167 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "7,375",
+            "forks": "975",
+            "language": "TypeScript",
+            "stars_today": "49 stars this week"
+        }
+    ]
+}

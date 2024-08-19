@@ -33018,3 +33018,147 @@
         }
     ]
 }
+{
+    "08月19日": [
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "83,488",
+            "forks": "2,335",
+            "language": "JavaScript",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "186,274",
+            "forks": "30,010",
+            "language": "JavaScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "43,958",
+            "forks": "3,458",
+            "language": "JavaScript",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "用于Web浏览器的暗黑破坏神1",
+            "url": "https://github.com/d07RiV/diabloweb",
+            "name": "d07RiV /diabloweb",
+            "description": "Diablo 1 for web browsers",
+            "stars": "2,539",
+            "forks": "199",
+            "language": "JavaScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "8,637",
+            "forks": "780",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "用于浏览器、Node.js、AWS Lambda等的自含式JavaScript维基。",
+            "url": "https://github.com/TiddlyWiki/TiddlyWiki5",
+            "name": "TiddlyWiki /TiddlyWiki5",
+            "description": "A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.",
+            "stars": "7,914",
+            "forks": "1,176",
+            "language": "JavaScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "标志性的SVG、字体和CSS工具包",
+            "url": "https://github.com/FortAwesome/Font-Awesome",
+            "name": "FortAwesome /Font-Awesome",
+            "description": "The iconic SVG, font, and CSS toolkit",
+            "stars": "73,439",
+            "forks": "12,188",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "构建您的第一个移动应用程序",
+            "url": "https://github.com/adrianhajdin/aora",
+            "name": "adrianhajdin /aora",
+            "description": "Build your first mobile application",
+            "stars": "1,320",
+            "forks": "241",
+            "language": "JavaScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Shapez是一款开源的基础构建游戏，灵感来自Factorio！",
+            "url": "https://github.com/tobspr-games/shapez.io",
+            "name": "tobspr-games /shapez.io",
+            "description": "shapez is an open source base building game on Steam inspired by factorio!",
+            "stars": "6,320",
+            "forks": "1,217",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "分流规则、重写写规则及脚本.",
+            "url": "https://github.com/blackmatrix7/ios_rule_script",
+            "name": "blackmatrix7 /ios_rule_script",
+            "description": "分流规则、重写写规则及脚本。",
+            "stars": "16,990",
+            "forks": "2,722",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "所有Floorp浏览器版本10或更高版本的源代码，这是最先进和最快的火狐衍生🦊",
+            "url": "https://github.com/Floorp-Projects/Floorp",
+            "name": "Floorp-Projects /Floorp",
+            "description": "All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊",
+            "stars": "5,355",
+            "forks": "155",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "使用NextJS+概念接口实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为概念和所有创作者设计。(使用NextJS和概念API构建的静态博客，支持多种部署选项。不需要服务器，设置网站的门槛为零。是为理念和所有创作者设计的。)",
+            "url": "https://github.com/tangly1024/NotionNext",
+            "name": "tangly1024 /NotionNext",
+            "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
+            "stars": "6,952",
+            "forks": "9,700",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "JavaScript Canvas库，SVG到Canvas(&Canvas到SVG)解析器",
+            "url": "https://github.com/fabricjs/fabric.js",
+            "name": "fabricjs /fabric.js",
+            "description": "Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser",
+            "stars": "28,484",
+            "forks": "3,470",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "5,439",
+            "forks": "665",
+            "language": "JavaScript",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
