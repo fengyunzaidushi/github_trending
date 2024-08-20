@@ -34324,3 +34324,187 @@
         }
     ]
 }
+{
+    "08月20日": [
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "1,456",
+            "forks": "138",
+            "language": "Python",
+            "stars_today": "1,003 stars this week"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "26,167",
+            "forks": "3,554",
+            "language": "Python",
+            "stars_today": "9,356 stars this week"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,086",
+            "forks": "783",
+            "language": "Python",
+            "stars_today": "1,823 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,464",
+            "forks": "633",
+            "language": "Python",
+            "stars_today": "571 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "47,550",
+            "forks": "5,007",
+            "language": "Python",
+            "stars_today": "1,487 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,816",
+            "forks": "378",
+            "language": "Python",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "10,868",
+            "forks": "768",
+            "language": "Python",
+            "stars_today": "691 stars this week"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "9,347",
+            "forks": "1,012",
+            "language": "Python",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "43,081",
+            "forks": "5,125",
+            "language": "Python",
+            "stars_today": "571 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "2,006",
+            "forks": "128",
+            "language": "Python",
+            "stars_today": "269 stars this week"
+        },
+        {
+            "zh_des": "一个面向扩散模型的通用微调工具包。",
+            "url": "https://github.com/bghira/SimpleTuner",
+            "name": "bghira /SimpleTuner",
+            "description": "A general fine-tuning kit geared toward diffusion models.",
+            "stars": "1,288",
+            "forks": "106",
+            "language": "Python",
+            "stars_today": "171 stars this week"
+        },
+        {
+            "zh_des": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本.",
+            "url": "https://github.com/xaoyaoo/PyWxDump",
+            "name": "xaoyaoo /PyWxDump",
+            "description": "获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。",
+            "stars": "4,984",
+            "forks": "828",
+            "language": "Python",
+            "stars_today": "328 stars this week"
+        },
+        {
+            "zh_des": "Grok开放版本",
+            "url": "https://github.com/xai-org/grok-1",
+            "name": "xai-org /grok-1",
+            "description": "Grok open release",
+            "stars": "49,348",
+            "forks": "8,321",
+            "language": "Python",
+            "stars_today": "114 stars this week"
+        },
+        {
+            "zh_des": "[ICLR 2024]SWE-BENCH：语言模型能否解决现实世界的Github问题？",
+            "url": "https://github.com/princeton-nlp/SWE-bench",
+            "name": "princeton-nlp /SWE-bench",
+            "description": "[ICLR 2024] SWE-Bench: Can Language Models Resolve Real-world Github Issues?",
+            "stars": "1,638",
+            "forks": "274",
+            "language": "Python",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱经理和餐饮规划师，拥有RestAPI后端和Vue内置的反应式前端应用程序，为整个家庭提供愉快的用户体验。通过提供URL轻松地将食谱添加到您的数据库中，Mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "6,383",
+            "forks": "661",
+            "language": "Python",
+            "stars_today": "431 stars this week"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "15,639",
+            "forks": "1,430",
+            "language": "Python",
+            "stars_today": "958 stars this week"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行仅需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "12,842",
+            "forks": "1,263",
+            "language": "Python",
+            "stars_today": "569 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "28,530",
+            "forks": "2,706",
+            "language": "Python",
+            "stars_today": "1,221 stars this week"
+        }
+    ]
+}

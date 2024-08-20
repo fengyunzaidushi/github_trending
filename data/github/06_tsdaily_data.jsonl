@@ -38094,3 +38094,207 @@
         }
     ]
 }
+{
+    "08月20日": [
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "4,911",
+            "forks": "193",
+            "language": "TypeScript",
+            "stars_today": "198 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "37,160",
+            "forks": "8,786",
+            "language": "TypeScript",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "采用横向扩展设计的企业级低代码技术堆栈/一套面向扩展设计的企业级低代码技术体系",
+            "url": "https://github.com/alibaba/lowcode-engine",
+            "name": "alibaba /lowcode-engine",
+            "description": "An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系",
+            "stars": "14,376",
+            "forks": "2,504",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "14,585",
+            "forks": "1,059",
+            "language": "TypeScript",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "3,552",
+            "forks": "323",
+            "language": "TypeScript",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "面向AI模型/LLM(GPT、Claude、Gemini、Ollama...)的用户友好的桌面客户端应用程序",
+            "url": "https://github.com/Bin-Huang/chatbox",
+            "name": "Bin-Huang /chatbox",
+            "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+            "stars": "20,398",
+            "forks": "2,074",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "29,492",
+            "forks": "1,767",
+            "language": "TypeScript",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "275",
+            "forks": "139",
+            "language": "TypeScript",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "为浏览器重新实现了Winamp 2",
+            "url": "https://github.com/captbaritone/webamp",
+            "name": "captbaritone /webamp",
+            "description": "Winamp 2 reimplemented for the browser",
+            "stars": "9,966",
+            "forks": "658",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "42,379",
+            "forks": "5,843",
+            "language": "TypeScript",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "16,405",
+            "forks": "4,372",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "66,744",
+            "forks": "3,892",
+            "language": "TypeScript",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "Microsoft Azure的REST API规范的来源。",
+            "url": "https://github.com/Azure/azure-rest-api-specs",
+            "name": "Azure /azure-rest-api-specs",
+            "description": "The source for REST API specifications for Microsoft Azure.",
+            "stars": "2,540",
+            "forks": "4,994",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "6,756",
+            "forks": "541",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "Umami是Google Analytics的一种简单、快速、注重隐私的替代方案。",
+            "url": "https://github.com/umami-software/umami",
+            "name": "umami-software /umami",
+            "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
+            "stars": "21,027",
+            "forks": "3,994",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Trigger.dev是针对TypeScrip的开源后台作业平台。",
+            "url": "https://github.com/triggerdotdev/trigger.dev",
+            "name": "triggerdotdev /trigger.dev",
+            "description": "Trigger.dev is the open source background jobs platform for TypeScript.",
+            "stars": "8,052",
+            "forks": "473",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "📺跨平台IPTV播放器应用程序，具有多种功能，如支持M3U和M3U8播放列表、收藏夹、电视指南、电视档案/追赶等。",
+            "url": "https://github.com/4gray/iptvnator",
+            "name": "4gray /iptvnator",
+            "description": "📺 Cross-platform IPTV player application with multiple features, such as support of m3u and m3u8 playlists, favorites, TV guide, TV archive/catchup and more.",
+            "stars": "2,399",
+            "forks": "338",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "33,990",
+            "forks": "3,474",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Next.js商业",
+            "url": "https://github.com/vercel/commerce",
+            "name": "vercel /commerce",
+            "description": "Next.js Commerce",
+            "stars": "10,951",
+            "forks": "4,008",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一个Vue 3组件库。相当完整。主题可自定义。使用打字稿。快地。",
+            "url": "https://github.com/tusen-ai/naive-ui",
+            "name": "tusen-ai /naive-ui",
+            "description": "A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.",
+            "stars": "15,793",
+            "forks": "1,650",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
