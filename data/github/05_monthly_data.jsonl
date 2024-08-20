@@ -36990,3 +36990,177 @@
         }
     ]
 }
+{
+    "08月20日": [
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "8,634",
+            "forks": "640",
+            "language": "Python",
+            "stars_today": "7,867 stars this month"
+        },
+        {
+            "zh_des": "个性化人工智能的记忆层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The memory layer for Personalized AI",
+            "stars": "19,831",
+            "forks": "1,860",
+            "language": "Python",
+            "stars_today": "9,666 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "3,026",
+            "forks": "429",
+            "language": "Python",
+            "stars_today": "2,022 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "47,441",
+            "forks": "5,000",
+            "language": "Python",
+            "stars_today": "4,817 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,443",
+            "forks": "631",
+            "language": "Python",
+            "stars_today": "1,028 stars this month"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "27,614",
+            "forks": "5,923",
+            "language": "Python",
+            "stars_today": "1,077 stars this month"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "17,246",
+            "forks": "1,596",
+            "language": "Python",
+            "stars_today": "1,066 stars this month"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "1,992",
+            "forks": "122",
+            "language": "Python",
+            "stars_today": "685 stars this month"
+        },
+        {
+            "zh_des": "代理服务器绕过CloudFlare保护",
+            "url": "https://github.com/FlareSolverr/FlareSolverr",
+            "name": "FlareSolverr /FlareSolverr",
+            "description": "Proxy server to bypass Cloudflare protection",
+            "stars": "7,046",
+            "forks": "608",
+            "language": "Python",
+            "stars_today": "603 stars this month"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,786",
+            "forks": "377",
+            "language": "Python",
+            "stars_today": "879 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "14,687",
+            "forks": "1,489",
+            "language": "Python",
+            "stars_today": "2,349 stars this month"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "16,293",
+            "forks": "1,528",
+            "language": "Python",
+            "stars_today": "2,229 stars this month"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "80,354",
+            "forks": "6,286",
+            "language": "Python",
+            "stars_today": "3,291 stars this month"
+        },
+        {
+            "zh_des": "自主式YouTube下载器(适用于YouTube-dl/yt-dlp的Web用户界面)",
+            "url": "https://github.com/alexta69/metube",
+            "name": "alexta69 /metube",
+            "description": "Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)",
+            "stars": "5,853",
+            "forks": "361",
+            "language": "Python",
+            "stars_today": "1,799 stars this month"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "9,879",
+            "forks": "915",
+            "language": "Python",
+            "stars_today": "2,665 stars this month"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "310,229",
+            "forks": "33,153",
+            "language": "Python",
+            "stars_today": "8,123 stars this month"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "10,592",
+            "forks": "763",
+            "language": "Python",
+            "stars_today": "2,147 stars this month"
+        }
+    ]
+}
