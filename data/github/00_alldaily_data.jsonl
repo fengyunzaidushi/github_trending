@@ -34298,3 +34298,147 @@
         }
     ]
 }
+{
+    "08月21日": [
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,454",
+            "forks": "801",
+            "language": "Python",
+            "stars_today": "946 stars today"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "60,639",
+            "forks": "30,740",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,592 stars today"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,069",
+            "forks": "199",
+            "language": "TypeScript",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "15,745",
+            "forks": "1,441",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的LLMS/AI聊天框架。支持多种AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedock/Azure/Mistral/Pplexity)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT聊天应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.",
+            "stars": "37,271",
+            "forks": "8,795",
+            "language": "TypeScript",
+            "stars_today": "260 stars today"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "28,793",
+            "forks": "2,713",
+            "language": "Python",
+            "stars_today": "422 stars today"
+        },
+        {
+            "zh_des": "你喜欢火炬吗？你喜欢微格勒吗？你爱丁尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "25,855",
+            "forks": "2,826",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "9,009",
+            "forks": "656",
+            "language": "Python",
+            "stars_today": "142 stars today"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "93,431",
+            "forks": "11,808",
+            "language": "Java",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "免费开源机器翻译API。自托管、可离线且易于设置。",
+            "url": "https://github.com/LibreTranslate/LibreTranslate",
+            "name": "LibreTranslate /LibreTranslate",
+            "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+            "stars": "7,760",
+            "forks": "731",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "高级深度时间序列模型库。",
+            "url": "https://github.com/thuml/Time-Series-Library",
+            "name": "thuml /Time-Series-Library",
+            "description": "A Library for Advanced Deep Time Series Models.",
+            "stars": "5,806",
+            "forks": "954",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "5,007",
+            "forks": "427",
+            "language": "Python",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的通用区块链分析引擎，专门用于系统的MEV检测",
+            "url": "https://github.com/SorellaLabs/brontes",
+            "name": "SorellaLabs /brontes",
+            "description": "A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection",
+            "stars": "335",
+            "forks": "20",
+            "language": "Rust",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱经理和餐饮规划师，拥有RestAPI后端和Vue内置的反应式前端应用程序，为整个家庭提供愉快的用户体验。通过提供URL轻松地将食谱添加到您的数据库中，Mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "6,446",
+            "forks": "662",
+            "language": "Python",
+            "stars_today": "187 stars today"
+        }
+    ]
+}
