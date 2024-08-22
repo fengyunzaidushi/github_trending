@@ -34536,3 +34536,107 @@
         }
     ]
 }
+{
+    "08月22日": [
+        {
+            "zh_des": "您需要的认证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,751",
+            "forks": "814",
+            "language": "Python",
+            "stars_today": "810 stars today"
+        },
+        {
+            "zh_des": "一个现代化的JavaScript实用程序库，速度快2-3倍，体积小高达97%--对lodash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,328",
+            "forks": "213",
+            "language": "TypeScript",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "以思想的速度编写代码- Zed是一款高性能多人游戏代码编辑器，由Atom和Tree-sitter的创作者制作。",
+            "url": "https://github.com/zed-industries/zed",
+            "name": "zed-industries /zed",
+            "description": "Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
+            "stars": "44,654",
+            "forks": "2,410",
+            "language": "Rust",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "适合每个人、无处不在的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "29,116",
+            "forks": "2,738",
+            "language": "Python",
+            "stars_today": "468 stars today"
+        },
+        {
+            "zh_des": "AWESOME-DIGITAL-MAN创造一个有温度的数字人\n给数字人注入灵性https：//github",
+            "url": "https://github.com/wan-h/awesome-digital-human-live2d",
+            "name": "wan-h /awesome-digital-human-live2d",
+            "description": "AWESOME-DIGITAL-HUMAN打造一个有温度的数字人\n给数字人注入灵魂https://github",
+            "stars": "405",
+            "forks": "26",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "一款速度极快的通用区块链分析引擎，专门从事系统性MEV检测",
+            "url": "https://github.com/SorellaLabs/brontes",
+            "name": "SorellaLabs /brontes",
+            "description": "A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection",
+            "stars": "412",
+            "forks": "25",
+            "language": "Rust",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "18个课程，开始使用生成式人工智能收件箱构建https：microsoft.github.io/generative-ai-for-beginners/",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "60,972",
+            "forks": "30,817",
+            "language": "Jupyter Notebook",
+            "stars_today": "408 stars today"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "3,789",
+            "forks": "335",
+            "language": "TypeScript",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "fabric是一个使用人工智能增强人类的开源框架。它提供了一个模块化框架，用于使用一组可在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "21,228",
+            "forks": "2,209",
+            "language": "Go",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "SWE-Agent处理GitHub问题，并尝试使用GPT-4或您选择的LM自动修复该问题。它解决了SWE平台评估集中12.47%的错误，运行只需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "13,034",
+            "forks": "1,273",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        }
+    ]
+}

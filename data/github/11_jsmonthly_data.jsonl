@@ -34475,3 +34475,197 @@
         }
     ]
 }
+{
+    "08月22日": [
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "19,209",
+            "forks": "1,326",
+            "language": "JavaScript",
+            "stars_today": "6,987 stars this month"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "13,695",
+            "forks": "1,351",
+            "language": "JavaScript",
+            "stars_today": "752 stars this month"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "10,603",
+            "forks": "2,303",
+            "language": "JavaScript",
+            "stars_today": "1,229 stars this month"
+        },
+        {
+            "zh_des": "一个可视化的无代码/无代码的网络爬虫/蜘蛛易采集:一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向WEB应用的智能化服务封装系统。",
+            "url": "https://github.com/NaiboWang/EasySpider",
+            "name": "NaiboWang /EasySpider",
+            "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
+            "stars": "33,012",
+            "forks": "3,989",
+            "language": "JavaScript",
+            "stars_today": "2,701 stars this month"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "169,823",
+            "forks": "78,725",
+            "language": "JavaScript",
+            "stars_today": "1,952 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "24,047",
+            "forks": "1,108",
+            "language": "JavaScript",
+            "stars_today": "1,854 stars this month"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "44,093",
+            "forks": "3,472",
+            "language": "JavaScript",
+            "stars_today": "909 stars this month"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "25,193",
+            "forks": "3,430",
+            "language": "JavaScript",
+            "stars_today": "3,062 stars this month"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "12,901",
+            "forks": "797",
+            "language": "JavaScript",
+            "stars_today": "448 stars this month"
+        },
+        {
+            "zh_des": "24节课，12周，作为Web开发人员入门",
+            "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+            "name": "microsoft /Web-Dev-For-Beginners",
+            "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+            "stars": "82,704",
+            "forks": "12,284",
+            "language": "JavaScript",
+            "stars_today": "554 stars this month"
+        },
+        {
+            "zh_des": "适用于Android、iOS、Linux、MacOS和Windows的勇敢浏览器。",
+            "url": "https://github.com/brave/brave-browser",
+            "name": "brave /brave-browser",
+            "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+            "stars": "17,425",
+            "forks": "2,253",
+            "language": "JavaScript",
+            "stars_today": "447 stars this month"
+        },
+        {
+            "zh_des": "UBlock Origin-一款针对Chromium和Firefox的高效拦截器。又快又倾斜。",
+            "url": "https://github.com/gorhill/uBlock",
+            "name": "gorhill /uBlock",
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "stars": "45,475",
+            "forks": "3,035",
+            "language": "JavaScript",
+            "stars_today": "882 stars this month"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "5,501",
+            "forks": "673",
+            "language": "JavaScript",
+            "stars_today": "626 stars this month"
+        },
+        {
+            "zh_des": "⚡为您的GitHub Readme动态生成统计数据",
+            "url": "https://github.com/anuraghazra/github-readme-stats",
+            "name": "anuraghazra /github-readme-stats",
+            "description": "⚡ Dynamically generated stats for your github readmes",
+            "stars": "67,617",
+            "forks": "22,096",
+            "language": "JavaScript",
+            "stars_today": "895 stars this month"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "54,720",
+            "forks": "4,924",
+            "language": "JavaScript",
+            "stars_today": "1,817 stars this month"
+        },
+        {
+            "zh_des": "一体式Desktop&Docker AI应用程序，具有完整的RAG和AI代理功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with full RAG and AI Agent capabilities.",
+            "stars": "19,023",
+            "forks": "2,082",
+            "language": "JavaScript",
+            "stars_today": "1,443 stars this month"
+        },
+        {
+            "zh_des": "梅谢里，云本地经理",
+            "url": "https://github.com/meshery/meshery",
+            "name": "meshery /meshery",
+            "description": "Meshery, the cloud native manager",
+            "stars": "5,531",
+            "forks": "1,700",
+            "language": "JavaScript",
+            "stars_today": "371 stars this month"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "77,997",
+            "forks": "4,076",
+            "language": "JavaScript",
+            "stars_today": "603 stars this month"
+        },
+        {
+            "zh_des": "一个用Java编写的图形节点引擎和编辑器，类似于PD或UDK蓝图，在HTML5 Canvas 2D中附带了自己的编辑器。该引擎可以使用Node运行客户端或服务器端。它允许将图形导出为JSON，以便独立地包含在应用程序中。",
+            "url": "https://github.com/jagenjo/litegraph.js",
+            "name": "jagenjo /litegraph.js",
+            "description": "A graph node engine and editor written in Javascript similar to PD or UDK Blueprints, comes with its own editor in HTML5 Canvas2D. The engine can run client side or server side using Node. It allows to export graphs as JSONs to be included in applications independently.",
+            "stars": "6,384",
+            "forks": "685",
+            "language": "JavaScript",
+            "stars_today": "679 stars this month"
+        }
+    ]
+}

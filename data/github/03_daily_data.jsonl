@@ -34466,3 +34466,177 @@
         }
     ]
 }
+{
+    "08月22日": [
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,751",
+            "forks": "814",
+            "language": "Python",
+            "stars_today": "810 stars today"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "29,116",
+            "forks": "2,738",
+            "language": "Python",
+            "stars_today": "468 stars today"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行仅需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "13,034",
+            "forks": "1,273",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "：requests、beautifulSoup、selenium、appium、scrapy爬虫教程系列、从0到1学习PYTHON爬虫，包括浏览器抓包，手机APP抓包，如fiddler、MitmProxy，各种爬虫涉及的模块的使用，如PYTHON等，以及IP代理，验证码识别，mysql，mongodb数据库的PYTHON使用，多线程多进程爬虫的使用，css爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+            "url": "https://github.com/wistbean/learn_python3_spider",
+            "name": "wistbean /learn_python3_spider",
+            "description": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+            "stars": "17,441",
+            "forks": "3,644",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "9,258",
+            "forks": "668",
+            "language": "Python",
+            "stars_today": "419 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "5,085",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "59,307",
+            "forks": "14,364",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "快速高精度地将PDF转换为降价格式",
+            "url": "https://github.com/VikParuchuri/marker",
+            "name": "VikParuchuri /marker",
+            "description": "Convert PDF to markdown quickly with high accuracy",
+            "stars": "15,795",
+            "forks": "865",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "27,719",
+            "forks": "5,932",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并添加配音",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并添加配音",
+            "stars": "9,509",
+            "forks": "1,026",
+            "language": "Python",
+            "stars_today": "159 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱经理和餐饮规划师，拥有RestAPI后端和Vue内置的反应式前端应用程序，为整个家庭提供愉快的用户体验。通过提供URL轻松地将食谱添加到您的数据库中，Mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "6,482",
+            "forks": "666",
+            "language": "Python",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "适用于Python的静态类型检查器",
+            "url": "https://github.com/microsoft/pyright",
+            "name": "microsoft /pyright",
+            "description": "Static Type Checker for Python",
+            "stars": "12,918",
+            "forks": "1,383",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "[CAAI AIR‘24]高分辨率二分图像分割的双边参考",
+            "url": "https://github.com/ZhengPeng7/BiRefNet",
+            "name": "ZhengPeng7 /BiRefNet",
+            "description": "[CAAI AIR'24] Bilateral Reference for High-Resolution Dichotomous Image Segmentation",
+            "stars": "659",
+            "forks": "55",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "PyMuPDF是一个高性能的Python库，用于PDF(和其他)文档的数据提取、分析、转换和操作。",
+            "url": "https://github.com/pymupdf/PyMuPDF",
+            "name": "pymupdf /PyMuPDF",
+            "description": "PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.",
+            "stars": "4,914",
+            "forks": "474",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "智能交易机器人：基于机器学习和特征工程的信号自动生成和交易",
+            "url": "https://github.com/asavinov/intelligent-trading-bot",
+            "name": "asavinov /intelligent-trading-bot",
+            "description": "Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering",
+            "stars": "925",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "1,268",
+            "forks": "97",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "35,949",
+            "forks": "13,964",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
