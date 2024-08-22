@@ -35668,3 +35668,177 @@
         }
     ]
 }
+{
+    "08月22日": [
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,813",
+            "forks": "819",
+            "language": "Python",
+            "stars_today": "3,417 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "1,619",
+            "forks": "154",
+            "language": "Python",
+            "stars_today": "824 stars this week"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,460",
+            "forks": "219",
+            "language": "TypeScript",
+            "stars_today": "885 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,560",
+            "forks": "642",
+            "language": "Python",
+            "stars_today": "438 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "47,868",
+            "forks": "5,043",
+            "language": "Python",
+            "stars_today": "1,414 stars this week"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "6,130",
+            "forks": "352",
+            "language": "Dart",
+            "stars_today": "2,462 stars this week"
+        },
+        {
+            "zh_des": "Aria2是一个轻量级的多协议、多源、跨平台的命令行下载工具。它支持HTTP/HTTPS、FTP、SFTP、BitTorrent和Metalink。",
+            "url": "https://github.com/aria2/aria2",
+            "name": "aria2 /aria2",
+            "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+            "stars": "34,778",
+            "forks": "3,517",
+            "language": "C++",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "43,179",
+            "forks": "5,136",
+            "language": "Python",
+            "stars_today": "478 stars this week"
+        },
+        {
+            "zh_des": "轻量级Postgres以WASM的形式打包到https://electric-sql.com的浏览器、Node.js、Bun和Deno的打字库中",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno fromhttps://electric-sql.com",
+            "stars": "7,350",
+            "forks": "128",
+            "language": "TypeScript",
+            "stars_today": "1,055 stars this week"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "27,380",
+            "forks": "3,762",
+            "language": "Python",
+            "stars_today": "5,357 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,879",
+            "forks": "386",
+            "language": "Python",
+            "stars_today": "287 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "44,026",
+            "forks": "5,861",
+            "language": "TypeScript",
+            "stars_today": "360 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "61,041",
+            "forks": "30,843",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,892 stars this week"
+        },
+        {
+            "zh_des": "解释变压器：了解LLM变压器模型如何使用交互式可视化",
+            "url": "https://github.com/poloclub/transformer-explainer",
+            "name": "poloclub /transformer-explainer",
+            "description": "Transformer Explained: Learn How LLM Transformer Models Work with Interactive Visualization",
+            "stars": "1,851",
+            "forks": "165",
+            "language": "JavaScript",
+            "stars_today": "620 stars this week"
+        },
+        {
+            "zh_des": "一个开源的远程桌面应用程序，设计用于自托管，作为TeamViewer的替代方案。",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "name": "rustdesk /rustdesk",
+            "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+            "stars": "70,934",
+            "forks": "7,950",
+            "language": "Rust",
+            "stars_today": "746 stars this week"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "2,056",
+            "forks": "132",
+            "language": "Python",
+            "stars_today": "196 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "5,109",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "465 stars this week"
+        }
+    ]
+}

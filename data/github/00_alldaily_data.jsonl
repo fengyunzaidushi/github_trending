@@ -34640,3 +34640,187 @@
         }
     ]
 }
+{
+    "08月22日": [
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,460",
+            "forks": "219",
+            "language": "TypeScript",
+            "stars_today": "270 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "17,035",
+            "forks": "495",
+            "language": "Rust",
+            "stars_today": "423 stars today"
+        },
+        {
+            "zh_des": "这是一本针对Phi-3入门的Phi-3书籍。Phi-3，微软开发的开放AI模型家族。PHI-3模型是现有的最有能力和最具成本效益的小型语言模型(SLM)，在各种语言、推理、编码和数学基准中表现优于相同大小和下一个大小的模型。",
+            "url": "https://github.com/microsoft/Phi-3CookBook",
+            "name": "microsoft /Phi-3CookBook",
+            "description": "This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks.",
+            "stars": "1,773",
+            "forks": "179",
+            "language": "Jupyter Notebook",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "1,324",
+            "forks": "102",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "130,932",
+            "forks": "26,040",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "免费开源机器翻译API。自托管、可离线且易于设置。",
+            "url": "https://github.com/LibreTranslate/LibreTranslate",
+            "name": "LibreTranslate /LibreTranslate",
+            "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+            "stars": "7,935",
+            "forks": "738",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "现代格式库",
+            "url": "https://github.com/fmtlib/fmt",
+            "name": "fmtlib /fmt",
+            "description": "A modern formatting library",
+            "stars": "20,139",
+            "forks": "2,444",
+            "language": "C++",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "开源RAG框架，用于构建GenAI Second Brains🧠构建生产力助手(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人形，顶点AI，Ollama，LLMS，Groq，您可以与用户分享！一种高效的检索增强生成框架",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework",
+            "stars": "34,782",
+            "forks": "3,399",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "26,377",
+            "forks": "6,483",
+            "language": "Python",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "高级深度时间序列模型库。",
+            "url": "https://github.com/thuml/Time-Series-Library",
+            "name": "thuml /Time-Series-Library",
+            "description": "A Library for Advanced Deep Time Series Models.",
+            "stars": "5,876",
+            "forks": "961",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的通用区块链分析引擎，专门用于系统的MEV检测",
+            "url": "https://github.com/SorellaLabs/brontes",
+            "name": "SorellaLabs /brontes",
+            "description": "A blazingly fast general purpose blockchain analytics engine specialized in systematic mev detection",
+            "stars": "439",
+            "forks": "25",
+            "language": "Rust",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "使用Go和JAVASCRIPT-https://k6.io的现代负载测试工具",
+            "url": "https://github.com/grafana/k6",
+            "name": "grafana /k6",
+            "description": "A modern load testing tool, using Go and JavaScript -https://k6.io",
+            "stars": "24,387",
+            "forks": "1,215",
+            "language": "Go",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "9,375",
+            "forks": "674",
+            "language": "Python",
+            "stars_today": "225 stars today"
+        },
+        {
+            "zh_des": "适用于Python的静态类型检查器",
+            "url": "https://github.com/microsoft/pyright",
+            "name": "microsoft /pyright",
+            "description": "Static Type Checker for Python",
+            "stars": "12,959",
+            "forks": "1,387",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Mimalloc是一个紧凑的通用分配器，具有出色的性能。",
+            "url": "https://github.com/microsoft/mimalloc",
+            "name": "microsoft /mimalloc",
+            "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+            "stars": "9,964",
+            "forks": "814",
+            "language": "C",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "面向Postgres的开源向量相似性搜索",
+            "url": "https://github.com/pgvector/pgvector",
+            "name": "pgvector /pgvector",
+            "description": "Open-source vector similarity search for Postgres",
+            "stars": "11,363",
+            "forks": "512",
+            "language": "C",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "30,410",
+            "forks": "3,513",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "FlatBuffers：内存效率高的串行化库",
+            "url": "https://github.com/google/flatbuffers",
+            "name": "google /flatbuffers",
+            "description": "FlatBuffers: Memory Efficient Serialization Library",
+            "stars": "22,806",
+            "forks": "3,212",
+            "language": "C++",
+            "stars_today": "40 stars today"
+        }
+    ]
+}
