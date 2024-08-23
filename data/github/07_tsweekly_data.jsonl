@@ -36709,3 +36709,197 @@
         }
     ]
 }
+{
+    "08月23日": [
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,698",
+            "forks": "233",
+            "language": "TypeScript",
+            "stars_today": "1,157 stars this week"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "6,840",
+            "forks": "547",
+            "language": "TypeScript",
+            "stars_today": "1,038 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "44,136",
+            "forks": "5,876",
+            "language": "TypeScript",
+            "stars_today": "456 stars this week"
+        },
+        {
+            "zh_des": "InvokeAI是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的AI驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，通过CLI支持终端使用，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+            "stars": "22,677",
+            "forks": "2,341",
+            "language": "TypeScript",
+            "stars_today": "98 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "3,895",
+            "forks": "343",
+            "language": "TypeScript",
+            "stars_today": "477 stars this week"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "13,020",
+            "forks": "265",
+            "language": "TypeScript",
+            "stars_today": "3,563 stars this week"
+        },
+        {
+            "zh_des": "轻量级Postgres以WASM的形式打包到https://electric-sql.com的浏览器、Node.js、Bun和Deno的打字库中",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno fromhttps://electric-sql.com",
+            "stars": "7,416",
+            "forks": "131",
+            "language": "TypeScript",
+            "stars_today": "741 stars this week"
+        },
+        {
+            "zh_des": "⚡️⚡️⚡️自行托管的协作式书签管理器，可收集、组织和保存网页、文章等...",
+            "url": "https://github.com/linkwarden/linkwarden",
+            "name": "linkwarden /linkwarden",
+            "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...",
+            "stars": "7,438",
+            "forks": "283",
+            "language": "TypeScript",
+            "stars_today": "198 stars this week"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "29,674",
+            "forks": "1,776",
+            "language": "TypeScript",
+            "stars_today": "469 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedck/Azure/Mistral/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "37,384",
+            "forks": "8,824",
+            "language": "TypeScript",
+            "stars_today": "713 stars this week"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "115,708",
+            "forks": "14,473",
+            "language": "TypeScript",
+            "stars_today": "402 stars this week"
+        },
+        {
+            "zh_des": "Joplin-一款安全的笔记和待办事项应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "44,802",
+            "forks": "4,866",
+            "language": "TypeScript",
+            "stars_today": "117 stars this week"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "63,416",
+            "forks": "11,904",
+            "language": "TypeScript",
+            "stars_today": "1,180 stars this week"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "305",
+            "forks": "164",
+            "language": "TypeScript",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、线性、星期一和Asana替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "27,012",
+            "forks": "1,484",
+            "language": "TypeScript",
+            "stars_today": "482 stars this week"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "14,605",
+            "forks": "606",
+            "language": "TypeScript",
+            "stars_today": "514 stars this week"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "9,424",
+            "forks": "903",
+            "language": "TypeScript",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web framework built on Web Standards",
+            "stars": "17,892",
+            "forks": "503",
+            "language": "TypeScript",
+            "stars_today": "189 stars this week"
+        },
+        {
+            "zh_des": "TypeScrip是可编译为干净的JavaScript输出的JavaScript的超集。",
+            "url": "https://github.com/microsoft/TypeScript",
+            "name": "microsoft /TypeScript",
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "stars": "99,800",
+            "forks": "12,348",
+            "language": "TypeScript",
+            "stars_today": "169 stars this week"
+        }
+    ]
+}
