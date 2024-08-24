@@ -39452,3 +39452,187 @@
         }
     ]
 }
+{
+    "08月24日": [
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,765",
+            "forks": "236",
+            "language": "TypeScript",
+            "stars_today": "286 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "5,818",
+            "forks": "867",
+            "language": "TypeScript",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "115,769",
+            "forks": "14,474",
+            "language": "TypeScript",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "21,836",
+            "forks": "3,989",
+            "language": "TypeScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "61,340",
+            "forks": "13,361",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "3,916",
+            "forks": "346",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "🪢开源LLm工程平台：LLm可观察性、指标、评估、即时管理、操场、数据集。与LlamaIndex、Lang Chain、OpenAI SDK、LiteLLM等集成。🍊YC W23",
+            "url": "https://github.com/langfuse/langfuse",
+            "name": "langfuse /langfuse",
+            "description": "🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23",
+            "stars": "5,325",
+            "forks": "491",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "发展。预览。船舶。",
+            "url": "https://github.com/vercel/vercel",
+            "name": "vercel /vercel",
+            "description": "Develop. Preview. Ship.",
+            "stars": "12,582",
+            "forks": "2,179",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "26,339",
+            "forks": "2,218",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "智能单点？快速CI",
+            "url": "https://github.com/nrwl/nx",
+            "name": "nrwl /nx",
+            "description": "Smart Monorepos · Fast CI",
+            "stars": "22,974",
+            "forks": "2,297",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "输入更少，代码更多：Cody是一个人工智能代码助手，它使用高级搜索和代码库上下文来帮助您编写和修复代码。",
+            "url": "https://github.com/sourcegraph/cody",
+            "name": "sourcegraph /cody",
+            "description": "Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.",
+            "stars": "2,424",
+            "forks": "248",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "开放遥测JavaScript客户端",
+            "url": "https://github.com/open-telemetry/opentelemetry-js",
+            "name": "open-telemetry /opentelemetry-js",
+            "description": "OpenTelemetry JavaScript Client",
+            "stars": "2,614",
+            "forks": "757",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "一个轻量级、无依赖关系的普通JavaScript引擎，用于在页面上驱动用户的焦点",
+            "url": "https://github.com/kamranahmedse/driver.js",
+            "name": "kamranahmedse /driver.js",
+            "description": "A light-weight, no-dependency, vanilla JavaScript engine to drive the user's focus across the page",
+            "stars": "22,142",
+            "forks": "1,002",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "根据PR、功能分支或推送提交修改的文件有条件地运行操作",
+            "url": "https://github.com/dorny/paths-filter",
+            "name": "dorny /paths-filter",
+            "description": "Conditionally run actions based on files modified by PR, feature branch or pushed commits",
+            "stars": "2,072",
+            "forks": "235",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "91,657",
+            "forks": "48,445",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "用于构建企业应用程序的最佳JavaScript数据表。支持REACT/ANGLINE/VUE/Plain JavaScript。",
+            "url": "https://github.com/ag-grid/ag-grid",
+            "name": "ag-grid /ag-grid",
+            "description": "The best JavaScript Data Table for building Enterprise Applications. Supports React / Angular / Vue / Plain JavaScript.",
+            "stars": "12,405",
+            "forks": "1,837",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "大纲客户端和管理器，由Jigsaw开发。使用Outline Manager，您可以轻松创建自己的VPN服务器。Outline客户端允许您与您网络中的任何人共享您的VPN访问权限，使他们能够访问免费和开放的互联网。",
+            "url": "https://github.com/Jigsaw-Code/outline-apps",
+            "name": "Jigsaw-Code /outline-apps",
+            "description": "Outline Client and Manager, developed by Jigsaw. Outline Manager makes it easy to create your own VPN server. Outline Client lets you share access to your VPN with anyone in your network, giving them access to the free and open internet.",
+            "stars": "8,328",
+            "forks": "1,355",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "21,568",
+            "forks": "1,470",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
