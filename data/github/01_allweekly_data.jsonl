@@ -36384,3 +36384,147 @@
         }
     ]
 }
+{
+    "08月24日": [
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "11,917",
+            "forks": "822",
+            "language": "Python",
+            "stars_today": "3,523 stars this week"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,797",
+            "forks": "237",
+            "language": "TypeScript",
+            "stars_today": "1,430 stars this week"
+        },
+        {
+            "zh_des": "18课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "18 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "61,159",
+            "forks": "30,910",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,921 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,645",
+            "forks": "649",
+            "language": "Python",
+            "stars_today": "404 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "1,730",
+            "forks": "167",
+            "language": "Python",
+            "stars_today": "593 stars this week"
+        },
+        {
+            "zh_des": "Aria2是一个轻量级的多协议、多源、跨平台的命令行下载工具。它支持HTTP/HTTPS、FTP、SFTP、BitTorrent和Metalink。",
+            "url": "https://github.com/aria2/aria2",
+            "name": "aria2 /aria2",
+            "description": "aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.",
+            "stars": "34,817",
+            "forks": "3,523",
+            "language": "C++",
+            "stars_today": "287 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "17,648",
+            "forks": "510",
+            "language": "Rust",
+            "stars_today": "1,382 stars this week"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "3,933",
+            "forks": "392",
+            "language": "Python",
+            "stars_today": "282 stars this week"
+        },
+        {
+            "zh_des": "航空航天是MacOS上类似i3的平铺窗口管理器",
+            "url": "https://github.com/nikitabobko/AeroSpace",
+            "name": "nikitabobko /AeroSpace",
+            "description": "AeroSpace is an i3-like tiling window manager for macOS",
+            "stars": "4,837",
+            "forks": "72",
+            "language": "Swift",
+            "stars_today": "344 stars this week"
+        },
+        {
+            "zh_des": "🌟多智能体框架：第一家走向自然语言编程的人工智能软件公司",
+            "url": "https://github.com/geekan/MetaGPT",
+            "name": "geekan /MetaGPT",
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "stars": "43,237",
+            "forks": "5,142",
+            "language": "Python",
+            "stars_today": "414 stars this week"
+        },
+        {
+            "zh_des": "可视化解释变压器：了解LLM变压器模型如何使用交互式可视化",
+            "url": "https://github.com/poloclub/transformer-explainer",
+            "name": "poloclub /transformer-explainer",
+            "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+            "stars": "1,997",
+            "forks": "172",
+            "language": "JavaScript",
+            "stars_today": "576 stars this week"
+        },
+        {
+            "zh_des": "一个开源的远程桌面应用程序，设计用于自托管，作为TeamViewer的替代方案。",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "name": "rustdesk /rustdesk",
+            "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+            "stars": "71,080",
+            "forks": "8,105",
+            "language": "Rust",
+            "stars_today": "582 stars this week"
+        },
+        {
+            "zh_des": "高级深度时间序列模型库。",
+            "url": "https://github.com/thuml/Time-Series-Library",
+            "name": "thuml /Time-Series-Library",
+            "description": "A Library for Advanced Deep Time Series Models.",
+            "stars": "5,994",
+            "forks": "965",
+            "language": "Python",
+            "stars_today": "356 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "66,465",
+            "forks": "7,834",
+            "language": "Python",
+            "stars_today": "367 stars this week"
+        }
+    ]
+}

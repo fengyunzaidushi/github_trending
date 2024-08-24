@@ -35316,3 +35316,167 @@
         }
     ]
 }
+{
+    "08月24日": [
+        {
+            "zh_des": "YAS：另一个Shop，Java中的一个示例微服务项目",
+            "url": "https://github.com/nashtech-garage/yas",
+            "name": "nashtech-garage /yas",
+            "description": "YAS: Yet Another Shop, a sample microservices project in Java",
+            "stars": "1,025",
+            "forks": "321",
+            "language": "Java",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "开源RAG框架，用于构建GenAI Second Brains🧠构建生产力助手(RAG)⚡️🤖与您的文档(PDF，CSV，...)和应用程序聊天，使用朗链，GPT3.5/4涡轮增压，私人，人形，顶点AI，Ollama，LLMS，Groq，您可以与用户分享！一种高效的检索增强生成框架",
+            "url": "https://github.com/QuivrHQ/quivr",
+            "name": "QuivrHQ /quivr",
+            "description": "Open-source RAG Framework for building GenAI Second Brains 🧠 Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...) & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq that you can share with users ! Efficient retrieval augmented generation framework",
+            "stars": "35,388",
+            "forks": "3,444",
+            "language": "Python",
+            "stars_today": "346 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "1,556",
+            "forks": "117",
+            "language": "Python",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "Mimalloc是一个紧凑的通用分配器，具有出色的性能。",
+            "url": "https://github.com/microsoft/mimalloc",
+            "name": "microsoft /mimalloc",
+            "description": "mimalloc is a compact general purpose allocator with excellent performance.",
+            "stars": "10,138",
+            "forks": "828",
+            "language": "C",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "用视觉和简单的术语解释复杂的系统。帮助您准备系统设计面试。",
+            "url": "https://github.com/ByteByteGoHq/system-design-101",
+            "name": "ByteByteGoHq /system-design-101",
+            "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+            "stars": "62,201",
+            "forks": "6,459",
+            "language": "",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "Nanolog是一个性能极高的C++纳秒级日志记录系统，它提供了一个简单的、类似printf的API。",
+            "url": "https://github.com/PlatformLab/NanoLog",
+            "name": "PlatformLab /NanoLog",
+            "description": "Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API.",
+            "stars": "2,788",
+            "forks": "333",
+            "language": "C++",
+            "stars_today": "183 stars today"
+        },
+        {
+            "zh_des": "现代格式库",
+            "url": "https://github.com/fmtlib/fmt",
+            "name": "fmtlib /fmt",
+            "description": "A modern formatting library",
+            "stars": "20,250",
+            "forks": "2,448",
+            "language": "C++",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "FlatBuffers：内存效率高的串行化库",
+            "url": "https://github.com/google/flatbuffers",
+            "name": "google /flatbuffers",
+            "description": "FlatBuffers: Memory Efficient Serialization Library",
+            "stars": "22,947",
+            "forks": "3,218",
+            "language": "C++",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "5,883",
+            "forks": "870",
+            "language": "TypeScript",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "画素描并做手写笔记。",
+            "url": "https://github.com/flxzt/rnote",
+            "name": "flxzt /rnote",
+            "description": "Sketch and take handwritten notes.",
+            "stars": "6,793",
+            "forks": "241",
+            "language": "Rust",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "每个软件开发人员都应该知道的(主要是)技术知识的集合",
+            "url": "https://github.com/mtdvio/every-programmer-should-know",
+            "name": "mtdvio /every-programmer-should-know",
+            "description": "A collection of (mostly) technical things every software developer should know about",
+            "stars": "81,552",
+            "forks": "7,670",
+            "language": "",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "44,201",
+            "forks": "4,869",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "15,533",
+            "forks": "1,772",
+            "language": "Python",
+            "stars_today": "213 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "36,226",
+            "forks": "3,795",
+            "language": "Jupyter Notebook",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "26,666",
+            "forks": "6,518",
+            "language": "Python",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "使用Go和JAVASCRIPT-https://k6.io的现代负载测试工具",
+            "url": "https://github.com/grafana/k6",
+            "name": "grafana /k6",
+            "description": "A modern load testing tool, using Go and JavaScript -https://k6.io",
+            "stars": "24,619",
+            "forks": "1,220",
+            "language": "Go",
+            "stars_today": "68 stars today"
+        }
+    ]
+}
