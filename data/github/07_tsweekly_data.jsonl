@@ -38047,3 +38047,197 @@
         }
     ]
 }
+{
+    "08月27日": [
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "5,958",
+            "forks": "241",
+            "language": "TypeScript",
+            "stars_today": "1,274 stars this week"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "5,977",
+            "forks": "881",
+            "language": "TypeScript",
+            "stars_today": "571 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "4,077",
+            "forks": "359",
+            "language": "TypeScript",
+            "stars_today": "611 stars this week"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "29,725",
+            "forks": "1,781",
+            "language": "TypeScript",
+            "stars_today": "361 stars this week"
+        },
+        {
+            "zh_des": "访问Anthropic的安全第一语言模型API",
+            "url": "https://github.com/anthropics/anthropic-sdk-typescript",
+            "name": "anthropics /anthropic-sdk-typescript",
+            "description": "Access to Anthropic's safety-first language model APIs",
+            "stars": "600",
+            "forks": "68",
+            "language": "TypeScript",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "6,965",
+            "forks": "551",
+            "language": "TypeScript",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "44,336",
+            "forks": "5,909",
+            "language": "TypeScript",
+            "stars_today": "579 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "14,875",
+            "forks": "1,090",
+            "language": "TypeScript",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Bedck/Azure/Mistral/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / DeepSeek),Knowledge Base(file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "37,472",
+            "forks": "8,841",
+            "language": "TypeScript",
+            "stars_today": "646 stars this week"
+        },
+        {
+            "zh_des": "InvokeAI是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的AI驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，通过CLI支持终端使用，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+            "stars": "22,712",
+            "forks": "2,345",
+            "language": "TypeScript",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "39,046",
+            "forks": "5,849",
+            "language": "TypeScript",
+            "stars_today": "178 stars this week"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "115,971",
+            "forks": "14,483",
+            "language": "TypeScript",
+            "stars_today": "537 stars this week"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "22,827",
+            "forks": "1,402",
+            "language": "TypeScript",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "32,292",
+            "forks": "5,116",
+            "language": "TypeScript",
+            "stars_today": "197 stars this week"
+        },
+        {
+            "zh_des": "加速新的GitHub操作工作流",
+            "url": "https://github.com/actions/starter-workflows",
+            "name": "actions /starter-workflows",
+            "description": "Accelerating new GitHub Actions workflows",
+            "stars": "8,794",
+            "forks": "5,150",
+            "language": "TypeScript",
+            "stars_today": "43 stars this week"
+        },
+        {
+            "zh_des": "一个基于Reaction原生开发的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-mobile",
+            "name": "lyswhut /lx-music-mobile",
+            "description": "一个基于 React native 开发的音乐软件",
+            "stars": "10,270",
+            "forks": "1,339",
+            "language": "TypeScript",
+            "stars_today": "106 stars this week"
+        },
+        {
+            "zh_des": "🧩浏览器扩展框架",
+            "url": "https://github.com/PlasmoHQ/plasmo",
+            "name": "PlasmoHQ /plasmo",
+            "description": "🧩 The Browser Extension Framework",
+            "stars": "9,972",
+            "forks": "345",
+            "language": "TypeScript",
+            "stars_today": "839 stars this week"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "321",
+            "forks": "179",
+            "language": "TypeScript",
+            "stars_today": "128 stars this week"
+        },
+        {
+            "zh_des": "直观的Vue框架。",
+            "url": "https://github.com/nuxt/nuxt",
+            "name": "nuxt /nuxt",
+            "description": "The Intuitive Vue Framework.",
+            "stars": "53,840",
+            "forks": "4,925",
+            "language": "TypeScript",
+            "stars_today": "133 stars this week"
+        }
+    ]
+}
