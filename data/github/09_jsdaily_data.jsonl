@@ -36026,3 +36026,227 @@
         }
     ]
 }
+{
+    "08月28日": [
+        {
+            "zh_des": "实验电报Web客户端，在引擎盖下具有tdlib、Web组装和Reaction js",
+            "url": "https://github.com/evgeny-nadymov/telegram-react",
+            "name": "evgeny-nadymov /telegram-react",
+            "description": "Experimental Telegram web client with tdlib, webassembly and react js under the hood",
+            "stars": "2,277",
+            "forks": "600",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "124,383",
+            "forks": "26,532",
+            "language": "JavaScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "24,167",
+            "forks": "1,555",
+            "language": "JavaScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "19,512",
+            "forks": "1,345",
+            "language": "JavaScript",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "47,747",
+            "forks": "9,881",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "9,301",
+            "forks": "3,673",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "10,912",
+            "forks": "2,325",
+            "language": "JavaScript",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "17,501",
+            "forks": "3,985",
+            "language": "JavaScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "840",
+            "forks": "9,681",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "在Java脚本中解析、验证、操作和显示日期。",
+            "url": "https://github.com/moment/moment",
+            "name": "moment /moment",
+            "description": "Parse, validate, manipulate, and display dates in javascript.",
+            "stars": "47,944",
+            "forks": "7,047",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "我与盖茨比一起建立的个人网站的第四次迭代",
+            "url": "https://github.com/bchiang7/v4",
+            "name": "bchiang7 /v4",
+            "description": "Fourth iteration of my personal website built with Gatsby",
+            "stars": "7,432",
+            "forks": "3,656",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "标准库",
+            "url": "https://github.com/zloirock/core-js",
+            "name": "zloirock /core-js",
+            "description": "Standard Library",
+            "stars": "24,311",
+            "forks": "1,641",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "以类似于标记的方式从文本生成流程图或序列图之类的图",
+            "url": "https://github.com/mermaid-js/mermaid",
+            "name": "mermaid-js /mermaid",
+            "description": "Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown",
+            "stars": "70,268",
+            "forks": "6,254",
+            "language": "JavaScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,438",
+            "forks": "8,761",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "跨平台的自动化框架，适用于所有类型的应用程序，构建在W3CWebDriver协议之上",
+            "url": "https://github.com/appium/appium",
+            "name": "appium /appium",
+            "description": "Cross-platform automation framework for all kinds of apps, built on top of the W3C WebDriver protocol",
+            "stars": "18,575",
+            "forks": "6,052",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "社区精心策划的模板列表，供核心引擎查找安全漏洞。",
+            "url": "https://github.com/projectdiscovery/nuclei-templates",
+            "name": "projectdiscovery /nuclei-templates",
+            "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+            "stars": "8,896",
+            "forks": "2,549",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "ZED编辑器的扩展",
+            "url": "https://github.com/zed-industries/extensions",
+            "name": "zed-industries /extensions",
+            "description": "Extensions for the Zed editor",
+            "stars": "755",
+            "forks": "306",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用于世界级3D地球和地图🌎的开源JAVASCRIPT库",
+            "url": "https://github.com/CesiumGS/cesium",
+            "name": "CesiumGS /cesium",
+            "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+            "stars": "12,618",
+            "forks": "3,422",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "最近，Next.js成为了React文档中概述的官方Reaction框架。在本课程中，您将学习最重要的Next.js概念以及它们如何融入Reaction生态系统。最后，您将通过构建一个现代的全栈Next 14应用程序来测试您的技能。",
+            "url": "https://github.com/adrianhajdin/project_next_14_ai_prompt_sharing",
+            "name": "adrianhajdin /project_next_14_ai_prompt_sharing",
+            "description": "Next.js recently became the official React framework as outlined in React docs. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll put your skills to the test by building a modern full-stack Next 14 application.",
+            "stars": "2,741",
+            "forks": "409",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "丰美影视和电视盒配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解.",
+            "url": "https://github.com/gaotianliuyun/gao",
+            "name": "gaotianliuyun /gao",
+            "description": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+            "stars": "5,313",
+            "forks": "2,178",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "WebGoat是一个故意不安全的应用程序",
+            "url": "https://github.com/WebGoat/WebGoat",
+            "name": "WebGoat /WebGoat",
+            "description": "WebGoat is a deliberately insecure application",
+            "stars": "6,812",
+            "forks": "5,301",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🛍️NodeJS电子商务平台",
+            "url": "https://github.com/evershopcommerce/evershop",
+            "name": "evershopcommerce /evershop",
+            "description": "🛍️ NodeJS E-commerce Platform",
+            "stars": "4,057",
+            "forks": "1,119",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        }
+    ]
+}

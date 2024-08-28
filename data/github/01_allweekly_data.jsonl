@@ -37422,3 +37422,137 @@
         }
     ]
 }
+{
+    "08月28日": [
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,079",
+            "forks": "6,578",
+            "language": "Python",
+            "stars_today": "923 stars this week"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "3,460",
+            "forks": "250",
+            "language": "C++",
+            "stars_today": "808 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "29,394",
+            "forks": "2,754",
+            "language": "Python",
+            "stars_today": "972 stars this week"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "6,002",
+            "forks": "240",
+            "language": "TypeScript",
+            "stars_today": "1,155 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "18,248",
+            "forks": "531",
+            "language": "Rust",
+            "stars_today": "2,117 stars this week"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "12,167",
+            "forks": "830",
+            "language": "Python",
+            "stars_today": "1,334 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "4,144",
+            "forks": "361",
+            "language": "TypeScript",
+            "stars_today": "565 stars this week"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,768",
+            "forks": "665",
+            "language": "Python",
+            "stars_today": "301 stars this week"
+        },
+        {
+            "zh_des": "航空航天是MacOS上类似i3的平铺窗口管理器",
+            "url": "https://github.com/nikitabobko/AeroSpace",
+            "name": "nikitabobko /AeroSpace",
+            "description": "AeroSpace is an i3-like tiling window manager for macOS",
+            "stars": "5,011",
+            "forks": "76",
+            "language": "Swift",
+            "stars_today": "328 stars this week"
+        },
+        {
+            "zh_des": "SWE-AGENT接受GitHub的问题，并尝试使用GPT-4或您选择的LM自动修复它。它解决了SWE-BASE评估集中12.47%的错误，运行仅需1分钟。",
+            "url": "https://github.com/princeton-nlp/SWE-agent",
+            "name": "princeton-nlp /SWE-agent",
+            "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It solves 12.47% of bugs in the SWE-bench evaluation set and takes just 1 minute to run.",
+            "stars": "13,163",
+            "forks": "1,282",
+            "language": "Python",
+            "stars_today": "322 stars this week"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "55,284",
+            "forks": "6,564",
+            "language": "Python",
+            "stars_today": "1,307 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "66,686",
+            "forks": "7,858",
+            "language": "Python",
+            "stars_today": "432 stars this week"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "15,940",
+            "forks": "1,792",
+            "language": "Python",
+            "stars_today": "713 stars this week"
+        }
+    ]
+}

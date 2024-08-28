@@ -39554,3 +39554,197 @@
         }
     ]
 }
+{
+    "08月28日": [
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "10,156",
+            "forks": "744",
+            "language": "Python",
+            "stars_today": "8,232 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "40,531",
+            "forks": "1,935",
+            "language": "Shell",
+            "stars_today": "4,257 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "6,768",
+            "forks": "665",
+            "language": "Python",
+            "stars_today": "1,324 stars this month"
+        },
+        {
+            "zh_des": "用基于SQL的实时反应性替代Redis。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "A drop-in replacement of Redis with SQL-based realtime reactivity.",
+            "stars": "3,161",
+            "forks": "400",
+            "language": "Go",
+            "stars_today": "2,160 stars this month"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "12,167",
+            "forks": "830",
+            "language": "Python",
+            "stars_today": "4,186 stars this month"
+        },
+        {
+            "zh_des": "实时交互流媒体数字人",
+            "url": "https://github.com/lipku/metahuman-stream",
+            "name": "lipku /metahuman-stream",
+            "description": "Real time interactive streaming digital human",
+            "stars": "3,253",
+            "forks": "454",
+            "language": "Python",
+            "stars_today": "2,192 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "48,479",
+            "forks": "5,098",
+            "language": "Python",
+            "stars_today": "5,214 stars this month"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,079",
+            "forks": "6,578",
+            "language": "Python",
+            "stars_today": "1,311 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库设计工具和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database design tool and SQL generator.",
+            "stars": "19,512",
+            "forks": "1,345",
+            "language": "JavaScript",
+            "stars_today": "6,133 stars this month"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "2,150",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "775 stars this month"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "7,038",
+            "forks": "406",
+            "language": "Dart",
+            "stars_today": "4,282 stars this month"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "289,179",
+            "forks": "38,316",
+            "language": "TypeScript",
+            "stars_today": "5,482 stars this month"
+        },
+        {
+            "zh_des": "轻松监控您的互联网流量🕵️‍♂️",
+            "url": "https://github.com/GyulyVGC/sniffnet",
+            "name": "GyulyVGC /sniffnet",
+            "description": "Comfortably monitor your Internet traffic 🕵️‍♂️",
+            "stars": "17,486",
+            "forks": "528",
+            "language": "Rust",
+            "stars_today": "2,576 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "15,624",
+            "forks": "1,581",
+            "language": "Python",
+            "stars_today": "2,937 stars this month"
+        },
+        {
+            "zh_des": "🎶是一个不和谐的音乐机器人，很容易设置和运行！",
+            "url": "https://github.com/jagrosh/MusicBot",
+            "name": "jagrosh /MusicBot",
+            "description": "🎶 A Discord music bot that's easy to set up and run yourself!",
+            "stars": "5,174",
+            "forks": "2,497",
+            "language": "Java",
+            "stars_today": "256 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "11,176",
+            "forks": "789",
+            "language": "Python",
+            "stars_today": "3,115 stars this month"
+        },
+        {
+            "zh_des": "人工智能支持的搜索引擎，具有生成式用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered search engine with a generative UI",
+            "stars": "5,724",
+            "forks": "1,397",
+            "language": "TypeScript",
+            "stars_today": "583 stars this month"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "44,421",
+            "forks": "5,919",
+            "language": "TypeScript",
+            "stars_today": "1,544 stars this month"
+        },
+        {
+            "zh_des": "Raspberry PI Pico SDK文档示例代码获取最新的SDK代码快速启动您自己的项目RP2350上的RISC-V支持Raspberry PI Pico SDK(以下简称SDK)提供头文件、库和构建系统\n需要为基于RP系列微控制器的设备(如Raspberry PI Pico或Raspberry PI Pico 2)编写程序\n用C、C++或汇编语言编写",
+            "url": "https://github.com/raspberrypi/pico-sdk",
+            "name": "raspberrypi /pico-sdk",
+            "description": "Raspberry Pi Pico SDKDocumentationExample codeGetting the latest SDK codeQuick-start your own projectRISC-V support on RP2350The Raspberry Pi Pico SDK (henceforth the SDK) provides the headers, libraries and build system\nnecessary to write programs for the RP-series microcontroller-based devices such as the Raspberry Pi Pico or Raspberry Pi Pico 2\nin C, C++ or assembly language",
+            "stars": "3,583",
+            "forks": "890",
+            "language": "C",
+            "stars_today": "311 stars this month"
+        }
+    ]
+}
