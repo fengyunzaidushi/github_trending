@@ -271,24 +271,18 @@ async def main():
     urls.extend(urls2)
     urls.extend(urls3)
     urls.extend(urls4)
-    # urls.extend(urls5[2:])
+    urls.extend(urls5)
     urls.extend(urls6)
     date = get_date()
     # 遍历列表和索引
 
-    for idx, url in enumerate(urls[:]):
-        print(url)
+    for idx, url in enumerate(urls[15:], 15):
+        print(idx, url)
         separators = "/="
         split_text = re.split("[{}]".format(separators), url)
         prefix = split_text[-1]
         prefix = str(idx).zfill(2) + "_" + prefix
-
-        data_path = f"./data/github/{prefix}_list.jsonl"
-
-        # 读取jsonl文件
-        data_dict = read_jsonl_to_dict(data_path)
-        today_list = data_dict.get(date, [])
-        if 'jupyter-notebook' in url:
+        if "jupyter-notebook" in url:
             continue
 
         repositories = await fetch_trending_repositories(url)
@@ -306,10 +300,7 @@ async def main():
                         item.update({"zh_des": zh_des})
                         for item, zh_des in zip(repositories, all_zh_des)
                     ]
-
-                    today_list = repositories
-
-                    git_dict = {date: today_list}
+                    git_dict = {date: repositories}
                     write_github_data(git_dict, date, prefix)
             except Exception as e:
                 print(e)

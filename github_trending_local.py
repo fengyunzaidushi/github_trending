@@ -237,8 +237,6 @@ async def main():
         # 读取jsonl文件
             data_dict = read_jsonl_to_dict(data_path)
             today_list = data_dict.get(date,[])
-            # if today_list:
-            # if today_list:
             repositories = await fetch_trending_repositories(url)
             all_zh_des =trs_batch_text([item['description'] for item in repositories[:]])
             new_repositories = [item.update({'zh_des': zh_des}) for item,zh_des in zip(repositories,all_zh_des)]
