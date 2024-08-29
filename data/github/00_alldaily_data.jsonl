@@ -36940,3 +36940,167 @@
         }
     ]
 }
+{
+    "08月29日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "2,626",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "550 stars today"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "46,767",
+            "forks": "5,067",
+            "language": "Python",
+            "stars_today": "717 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "10,338",
+            "forks": "750",
+            "language": "TypeScript",
+            "stars_today": "335 stars today"
+        },
+        {
+            "zh_des": "包含根据频率和所有时间排序的公司智慧问题",
+            "url": "https://github.com/krishnadey30/LeetCode-Questions-CompanyWise",
+            "name": "krishnadey30 /LeetCode-Questions-CompanyWise",
+            "description": "Contains Company Wise Questions sorted based on Frequency and all time",
+            "stars": "7,620",
+            "forks": "2,965",
+            "language": "",
+            "stars_today": "287 stars today"
+        },
+        {
+            "zh_des": "CEMU-Wii U仿真器",
+            "url": "https://github.com/cemu-project/Cemu",
+            "name": "cemu-project /Cemu",
+            "description": "Cemu - Wii U emulator",
+            "stars": "6,940",
+            "forks": "530",
+            "language": "C++",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "52,849",
+            "forks": "3,486",
+            "language": "Dart",
+            "stars_today": "1,132 stars today"
+        },
+        {
+            "zh_des": "由坞站支持的PaaS可帮助您构建和管理应用程序的生命周期",
+            "url": "https://github.com/dokku/dokku",
+            "name": "dokku /dokku",
+            "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+            "stars": "27,592",
+            "forks": "1,864",
+            "language": "Shell",
+            "stars_today": "523 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的非官方Bitwarden兼容服务器，以前称为bitwarden_rs",
+            "url": "https://github.com/dani-garcia/vaultwarden",
+            "name": "dani-garcia /vaultwarden",
+            "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+            "stars": "36,341",
+            "forks": "1,761",
+            "language": "Rust",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "开放源码开发环境管理器。",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "7,737",
+            "forks": "754",
+            "language": "Go",
+            "stars_today": "311 stars today"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "6,231",
+            "forks": "562",
+            "language": "Python",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "39,161",
+            "forks": "2,540",
+            "language": "TypeScript",
+            "stars_today": "331 stars today"
+        },
+        {
+            "zh_des": "在Facebook开发和使用的开源C++库。",
+            "url": "https://github.com/facebook/folly",
+            "name": "facebook /folly",
+            "description": "An open-source C++ library developed and used at Facebook.",
+            "stars": "27,931",
+            "forks": "5,518",
+            "language": "C++",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "45,327",
+            "forks": "3,122",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "40,827",
+            "forks": "1,986",
+            "language": "Shell",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "Android源的电报",
+            "url": "https://github.com/DrKLO/Telegram",
+            "name": "DrKLO /Telegram",
+            "description": "Telegram for Android source",
+            "stars": "24,588",
+            "forks": "7,950",
+            "language": "Java",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "56,156",
+            "forks": "6,603",
+            "language": "Python",
+            "stars_today": "594 stars today"
+        }
+    ]
+}
