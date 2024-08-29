@@ -276,7 +276,7 @@ async def main():
     date = get_date()
     # 遍历列表和索引
 
-    for idx, url in enumerate(urls[15:], 15):
+    for idx, url in enumerate(urls):
         print(idx, url)
         separators = "/="
         split_text = re.split("[{}]".format(separators), url)
