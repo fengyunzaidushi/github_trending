@@ -263,10 +263,16 @@ async def main():
         "https://github.com/trending/jupyter-notebook?since=weekly&s=jupyterweekly",
         "https://github.com/trending/jupyter-notebook?since=monthly&s=jupytermonthly",
     ]
+    urls6 = [
+        "https://github.com/trending/vue?since=daily&s=vuedaily",
+        "https://github.com/trending/vue?since=weekly&s=vueweekly",
+        "https://github.com/trending/vue?since=monthly&s=vuemonthly",
+    ]
     urls.extend(urls2)
     urls.extend(urls3)
     urls.extend(urls4)
-    urls.extend(urls5[2:])
+    # urls.extend(urls5[2:])
+    urls.extend(urls6)
     date = get_date()
     # 遍历列表和索引
 
@@ -278,15 +284,16 @@ async def main():
         prefix = str(idx).zfill(2) + "_" + prefix
 
         data_path = f"./data/github/{prefix}_list.jsonl"
-        if os.path.exists(data_path):
-            # 读取jsonl文件
-            data_dict = read_jsonl_to_dict(data_path)
-            today_list = data_dict.get(date, [])
-            # if today_list:
-            # if today_list:
 
+        # 读取jsonl文件
+        data_dict = read_jsonl_to_dict(data_path)
+        today_list = data_dict.get(date, [])
+        if 'jupyter-notebook' in url:
+            continue
+
+        repositories = await fetch_trending_repositories(url)
+        if repositories:
             try:
-                repositories = await fetch_trending_repositories(url)
                 all_zh_des = trs_batch_text(
                     [
                         item.get("description", "do not translate")
@@ -299,37 +306,11 @@ async def main():
                         item.update({"zh_des": zh_des})
                         for item, zh_des in zip(repositories, all_zh_des)
                     ]
-                else:
-                    print("all_zh_des is none")
 
-                today_list = repositories
+                    today_list = repositories
 
-                git_dict = {date: today_list}
-                write_github_data(git_dict, date, prefix)
-            except Exception as e:
-                print(e)
-                pass
-
-        else:
-            try:
-                repositories = await fetch_trending_repositories(url)
-                all_zh_des = trs_batch_text(
-                    [
-                        item.get("description", "do not translate")
-                        for item in repositories[:]
-                    ]
-                )
-                print(all_zh_des)
-                new_repositories = [
-                    item.update({"zh_des": zh_des})
-                    for item, zh_des in zip(repositories, all_zh_des)
-                ]
-
-                # 获取当前时间
-
-                today_list = repositories
-                git_dict = {date: today_list}
-                write_github_data(git_dict, date, prefix)
+                    git_dict = {date: today_list}
+                    write_github_data(git_dict, date, prefix)
             except Exception as e:
                 print(e)
                 pass
