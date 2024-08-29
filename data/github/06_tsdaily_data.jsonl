@@ -41656,3 +41656,227 @@
         }
     ]
 }
+{
+    "08月29日": [
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "39,004",
+            "forks": "2,539",
+            "language": "TypeScript",
+            "stars_today": "377 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "9,952",
+            "forks": "730",
+            "language": "TypeScript",
+            "stars_today": "340 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "43,420",
+            "forks": "6,019",
+            "language": "TypeScript",
+            "stars_today": "258 stars today"
+        },
+        {
+            "zh_des": "一个基于Reaction原生开发的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-mobile",
+            "name": "lyswhut /lx-music-mobile",
+            "description": "一个基于 React native 开发的音乐软件",
+            "stars": "10,362",
+            "forks": "1,352",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "材料设计Web组件",
+            "url": "https://github.com/material-components/material-web",
+            "name": "material-components /material-web",
+            "description": "Material Design Web Components",
+            "stars": "9,125",
+            "forks": "866",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "OpenMetadata是一个用于数据发现、数据可观察性和数据治理的统一元数据平台，由中央元数据存储库、深入的列级谱系和无缝的团队协作提供支持。",
+            "url": "https://github.com/open-metadata/OpenMetadata",
+            "name": "open-metadata /OpenMetadata",
+            "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+            "stars": "5,071",
+            "forks": "965",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "LangChain-Chatchat(原Lang Chain-ChatGLM)基于Lang Chain与ChatGLM、Qwen与Llama等语言模型的RAG与应用|Lang Chain-ChatGLM(以前的Lang Chain-ChatGLM)、基于本地知识的LLM(如ChatGLM、Qwen和Llama)RAG和具有LangChain的代理APP",
+            "url": "https://github.com/chatchat-space/Langchain-Chatchat",
+            "name": "chatchat-space /Langchain-Chatchat",
+            "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain",
+            "stars": "30,935",
+            "forks": "5,403",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "为成长中的团队提供最快的知识库。美观、实时协作、功能丰富、兼容降价。",
+            "url": "https://github.com/outline/outline",
+            "name": "outline /outline",
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "stars": "26,954",
+            "forks": "2,148",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "一个基于电子的音乐软件",
+            "url": "https://github.com/lyswhut/lx-music-desktop",
+            "name": "lyswhut /lx-music-desktop",
+            "description": "一个基于 electron 的音乐软件",
+            "stars": "39,129",
+            "forks": "5,854",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "构建数字商务的基石",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "Building blocks for digital commerce",
+            "stars": "24,334",
+            "forks": "2,375",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "30,834",
+            "forks": "7,423",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "JupyterLab计算环境。",
+            "url": "https://github.com/jupyterlab/jupyterlab",
+            "name": "jupyterlab /jupyterlab",
+            "description": "JupyterLab computational environment.",
+            "stars": "14,050",
+            "forks": "3,277",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "24,045",
+            "forks": "15,693",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "数据日志浏览器SDK",
+            "url": "https://github.com/DataDog/browser-sdk",
+            "name": "DataDog /browser-sdk",
+            "description": "Datadog Browser SDK",
+            "stars": "292",
+            "forks": "130",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "用于Reaction👻原语和灵活的状态管理",
+            "url": "https://github.com/pmndrs/jotai",
+            "name": "pmndrs /jotai",
+            "description": "👻 Primitive and flexible state management for React",
+            "stars": "18,153",
+            "forks": "588",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🐻熊是REACT中状态管理的必需品",
+            "url": "https://github.com/pmndrs/zustand",
+            "name": "pmndrs /zustand",
+            "description": "🐻 Bear necessities for state management in React",
+            "stars": "45,815",
+            "forks": "1,397",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "91,701",
+            "forks": "48,533",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "🚀是一个现代的，全面的，灵活的设计系统和反应的UI库。🎨提供3,000多个设计令牌，轻松构建您的设计系统。使Semi Design to Any Design。一键即可编写🧑🏻‍💻设计代码",
+            "url": "https://github.com/DouyinFE/semi-design",
+            "name": "DouyinFE /semi-design",
+            "description": "🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design. 🧑🏻‍💻 Design to Code in one click",
+            "stars": "8,237",
+            "forks": "696",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "61,432",
+            "forks": "13,396",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "🤖用于Reaction(和Friends)的全类型安全路由器，具有内置缓存、一级搜索参数API、客户端缓存集成和同构渲染。",
+            "url": "https://github.com/TanStack/router",
+            "name": "TanStack /router",
+            "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+            "stars": "7,646",
+            "forks": "550",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "MatterMost是一个开放源码平台，用于在整个软件开发生命周期中进行安全协作。",
+            "url": "https://github.com/mattermost/mattermost",
+            "name": "mattermost /mattermost",
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "stars": "29,366",
+            "forks": "7,124",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "21,628",
+            "forks": "1,477",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}
