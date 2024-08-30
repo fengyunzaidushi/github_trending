@@ -37268,3 +37268,177 @@
         }
     ]
 }
+{
+    "08月30日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "4,247",
+            "forks": "275",
+            "language": "Python",
+            "stars_today": "1,664 stars today"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "41,467",
+            "forks": "2,030",
+            "language": "Shell",
+            "stars_today": "336 stars today"
+        },
+        {
+            "zh_des": "由坞站支持的PaaS可帮助您构建和管理应用程序的生命周期",
+            "url": "https://github.com/dokku/dokku",
+            "name": "dokku /dokku",
+            "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+            "stars": "27,853",
+            "forks": "1,873",
+            "language": "Shell",
+            "stars_today": "353 stars today"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "53,283",
+            "forks": "3,508",
+            "language": "Dart",
+            "stars_today": "637 stars today"
+        },
+        {
+            "zh_des": "包含根据频率和所有时间排序的公司智慧问题",
+            "url": "https://github.com/krishnadey30/LeetCode-Questions-CompanyWise",
+            "name": "krishnadey30 /LeetCode-Questions-CompanyWise",
+            "description": "Contains Company Wise Questions sorted based on Frequency and all time",
+            "stars": "7,993",
+            "forks": "3,004",
+            "language": "",
+            "stars_today": "440 stars today"
+        },
+        {
+            "zh_des": "🚀简单10倍，🚀存储成本降低140倍，🚀高性能，🚀PB规模-🚀的ElasticSearch/Splunk/Datadog替代方案(日志、指标、跟踪、朗姆、错误跟踪、会话重放)。",
+            "url": "https://github.com/openobserve/openobserve",
+            "name": "openobserve /openobserve",
+            "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+            "stars": "11,300",
+            "forks": "403",
+            "language": "Rust",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "11,270",
+            "forks": "806",
+            "language": "TypeScript",
+            "stars_today": "984 stars today"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "29,890",
+            "forks": "1,522",
+            "language": "PHP",
+            "stars_today": "515 stars today"
+        },
+        {
+            "zh_des": "在Facebook开发和使用的开源C++库。",
+            "url": "https://github.com/facebook/folly",
+            "name": "facebook /folly",
+            "description": "An open-source C++ library developed and used at Facebook.",
+            "stars": "27,979",
+            "forks": "5,519",
+            "language": "C++",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "47,224",
+            "forks": "5,103",
+            "language": "Python",
+            "stars_today": "514 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "45,720",
+            "forks": "3,133",
+            "language": "TypeScript",
+            "stars_today": "518 stars today"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "18,966",
+            "forks": "6,942",
+            "language": "Python",
+            "stars_today": "223 stars today"
+        },
+        {
+            "zh_des": "用于Frappe框架和ERPNext的生产和开发设置的Docker图像",
+            "url": "https://github.com/frappe/frappe_docker",
+            "name": "frappe /frappe_docker",
+            "description": "Docker images for production and development setups of the Frappe framework and ERPNext",
+            "stars": "1,287",
+            "forks": "1,265",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "开放源码开发环境管理器。",
+            "url": "https://github.com/daytonaio/daytona",
+            "name": "daytonaio /daytona",
+            "description": "The Open Source Dev Environment Manager.",
+            "stars": "7,849",
+            "forks": "755",
+            "language": "Go",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "《Pdf👍，🍎)》，李宏毅深度学习教程“(李宏毅老师推荐苹果书下载地址",
+            "url": "https://github.com/datawhalechina/leedl-tutorial",
+            "name": "datawhalechina /leedl-tutorial",
+            "description": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+            "stars": "12,822",
+            "forks": "2,823",
+            "language": "Jupyter Notebook",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,620",
+            "forks": "8,102",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "21,095",
+            "forks": "6,715",
+            "language": "C",
+            "stars_today": "12 stars today"
+        }
+    ]
+}
