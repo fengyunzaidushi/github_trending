@@ -38172,3 +38172,147 @@
         }
     ]
 }
+{
+    "08月30日": [
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,214",
+            "forks": "6,594",
+            "language": "Python",
+            "stars_today": "878 stars this week"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "56,384",
+            "forks": "6,607",
+            "language": "Python",
+            "stars_today": "2,595 stars this week"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "3,569",
+            "forks": "253",
+            "language": "C++",
+            "stars_today": "1,038 stars this week"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "16,680",
+            "forks": "1,544",
+            "language": "Python",
+            "stars_today": "698 stars this week"
+        },
+        {
+            "zh_des": "FinGPT：开源金融大语言模型！革命性的🔥我们在HuggingFace上发布了训练过的模型。",
+            "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+            "name": "AI4Finance-Foundation /FinGPT",
+            "description": "FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.",
+            "stars": "13,383",
+            "forks": "1,869",
+            "language": "Jupyter Notebook",
+            "stars_today": "455 stars this week"
+        },
+        {
+            "zh_des": "基于简单的基于YAML的DSL的快速且可定制的漏洞扫描器。",
+            "url": "https://github.com/projectdiscovery/nuclei",
+            "name": "projectdiscovery /nuclei",
+            "description": "Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+            "stars": "19,640",
+            "forks": "2,426",
+            "language": "Go",
+            "stars_today": "538 stars this week"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,044",
+            "forks": "1,803",
+            "language": "Python",
+            "stars_today": "783 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "18,516",
+            "forks": "540",
+            "language": "Rust",
+            "stars_today": "1,550 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,065",
+            "forks": "203",
+            "language": "Python",
+            "stars_today": "430 stars this week"
+        },
+        {
+            "zh_des": "一个基于ClashMeta的多平台代理客户端，简单易用，开源，无广告。",
+            "url": "https://github.com/chen08209/FlClash",
+            "name": "chen08209 /FlClash",
+            "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+            "stars": "7,196",
+            "forks": "413",
+            "language": "Dart",
+            "stars_today": "1,046 stars this week"
+        },
+        {
+            "zh_des": "🛡️开源和下一代网络应用防火墙(WAF)",
+            "url": "https://github.com/bunkerity/bunkerweb",
+            "name": "bunkerity /bunkerweb",
+            "description": "🛡️ Open-source and next-generation Web Application Firewall (WAF)",
+            "stars": "6,061",
+            "forks": "335",
+            "language": "Python",
+            "stars_today": "585 stars this week"
+        },
+        {
+            "zh_des": "Sonne Tanken☀️🚘",
+            "url": "https://github.com/evcc-io/evcc",
+            "name": "evcc-io /evcc",
+            "description": "Sonne tanken ☀️🚘",
+            "stars": "3,053",
+            "forks": "559",
+            "language": "Go",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "47,024",
+            "forks": "5,095",
+            "language": "Python",
+            "stars_today": "2,776 stars this week"
+        },
+        {
+            "zh_des": "现代格式库",
+            "url": "https://github.com/fmtlib/fmt",
+            "name": "fmtlib /fmt",
+            "description": "A modern formatting library",
+            "stars": "20,317",
+            "forks": "2,450",
+            "language": "C++",
+            "stars_today": "191 stars this week"
+        }
+    ]
+}
