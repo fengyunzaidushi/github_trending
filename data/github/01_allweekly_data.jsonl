@@ -38460,3 +38460,147 @@
         }
     ]
 }
+{
+    "08月31日": [
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "56,529",
+            "forks": "6,612",
+            "language": "Python",
+            "stars_today": "2,977 stars this week"
+        },
+        {
+            "zh_des": "一种受Google Zanzibar启发的开源授权服务，旨在为任何应用程序构建和管理细粒度且可扩展的授权系统。",
+            "url": "https://github.com/Permify/permify",
+            "name": "Permify /permify",
+            "description": "An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.",
+            "stars": "4,138",
+            "forks": "187",
+            "language": "Go",
+            "stars_today": "963 stars this week"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,252",
+            "forks": "6,604",
+            "language": "Python",
+            "stars_today": "770 stars this week"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "2,735",
+            "forks": "235",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,020 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,067",
+            "forks": "6,946",
+            "language": "Python",
+            "stars_today": "809 stars this week"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "53,430",
+            "forks": "3,517",
+            "language": "Dart",
+            "stars_today": "1,855 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "45,855",
+            "forks": "3,138",
+            "language": "TypeScript",
+            "stars_today": "1,207 stars this week"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "16,724",
+            "forks": "1,545",
+            "language": "Python",
+            "stars_today": "737 stars this week"
+        },
+        {
+            "zh_des": "基于简单的基于YAML的DSL的快速且可定制的漏洞扫描器。",
+            "url": "https://github.com/projectdiscovery/nuclei",
+            "name": "projectdiscovery /nuclei",
+            "description": "Fast and customizable vulnerability scanner based on simple YAML based DSL.",
+            "stars": "19,667",
+            "forks": "2,429",
+            "language": "Go",
+            "stars_today": "558 stars this week"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "39,414",
+            "forks": "2,545",
+            "language": "TypeScript",
+            "stars_today": "1,331 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,128",
+            "forks": "209",
+            "language": "Python",
+            "stars_today": "421 stars this week"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "3,640",
+            "forks": "253",
+            "language": "C++",
+            "stars_today": "1,014 stars this week"
+        },
+        {
+            "zh_des": "Wazeh--开源安全平台。为终端和云工作负载提供统一的XDR和SIEM保护。",
+            "url": "https://github.com/wazuh/wazuh",
+            "name": "wazuh /wazuh",
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "stars": "10,237",
+            "forks": "1,568",
+            "language": "C++",
+            "stars_today": "241 stars this week"
+        },
+        {
+            "zh_des": "Android源的电报",
+            "url": "https://github.com/DrKLO/Telegram",
+            "name": "DrKLO /Telegram",
+            "description": "Telegram for Android source",
+            "stars": "24,646",
+            "forks": "7,961",
+            "language": "Java",
+            "stars_today": "364 stars this week"
+        }
+    ]
+}
