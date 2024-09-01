@@ -40182,3 +40182,207 @@
         }
     ]
 }
+{
+    "09月01日": [
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "10,784",
+            "forks": "481",
+            "language": "TypeScript",
+            "stars_today": "2,928 stars this month"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "289,807",
+            "forks": "38,371",
+            "language": "TypeScript",
+            "stars_today": "5,748 stars this month"
+        },
+        {
+            "zh_des": "可以有比概念和米罗更多的东西。仿射(发音为[ə‘Fin])是一个集计划、排序和创造于一身的新一代知识库。隐私优先，开源，可定制，随时可用。",
+            "url": "https://github.com/toeverything/AFFiNE",
+            "name": "toeverything /AFFiNE",
+            "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
+            "stars": "39,498",
+            "forks": "2,550",
+            "language": "TypeScript",
+            "stars_today": "3,514 stars this month"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "17,785",
+            "forks": "1,624",
+            "language": "TypeScript",
+            "stars_today": "1,456 stars this month"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "44,684",
+            "forks": "5,969",
+            "language": "TypeScript",
+            "stars_today": "1,697 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、线性、星期一和Asana替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "28,207",
+            "forks": "1,534",
+            "language": "TypeScript",
+            "stars_today": "1,895 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "46,087",
+            "forks": "3,151",
+            "language": "TypeScript",
+            "stars_today": "2,012 stars this month"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "30,948",
+            "forks": "7,448",
+            "language": "TypeScript",
+            "stars_today": "747 stars this month"
+        },
+        {
+            "zh_des": "加速新的GitHub操作工作流",
+            "url": "https://github.com/actions/starter-workflows",
+            "name": "actions /starter-workflows",
+            "description": "Accelerating new GitHub Actions workflows",
+            "stars": "8,834",
+            "forks": "5,164",
+            "language": "TypeScript",
+            "stars_today": "155 stars this month"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "4,245",
+            "forks": "374",
+            "language": "TypeScript",
+            "stars_today": "1,097 stars this month"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "1,252",
+            "forks": "616",
+            "language": "TypeScript",
+            "stars_today": "223 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "11,844",
+            "forks": "840",
+            "language": "TypeScript",
+            "stars_today": "3,263 stars this month"
+        },
+        {
+            "zh_des": "Next.js商业",
+            "url": "https://github.com/vercel/commerce",
+            "name": "vercel /commerce",
+            "description": "Next.js Commerce",
+            "stars": "11,032",
+            "forks": "4,039",
+            "language": "TypeScript",
+            "stars_today": "271 stars this month"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在您的团队/基础设施中同步秘密，防止秘密泄露，并管理内部PKI",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+            "stars": "14,857",
+            "forks": "827",
+            "language": "TypeScript",
+            "stars_today": "1,507 stars this month"
+        },
+        {
+            "zh_des": "这是一个Next.js，Tailind的css博客入门模板。开箱即用，配置了最新的技术，使技术编写变得轻而易举。可轻松配置和定制。作为现有Jekyll和Hugo个人博客的完美替代品。",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+            "name": "timlrx /tailwind-nextjs-starter-blog",
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "stars": "8,445",
+            "forks": "1,955",
+            "language": "TypeScript",
+            "stars_today": "1,002 stars this month"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "400,044",
+            "forks": "36,905",
+            "language": "TypeScript",
+            "stars_today": "3,821 stars this month"
+        },
+        {
+            "zh_des": "Focalboard是Trello、Contation和Asana的开源、自托管的替代品。",
+            "url": "https://github.com/mattermost-community/focalboard",
+            "name": "mattermost-community /focalboard",
+            "description": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+            "stars": "21,222",
+            "forks": "1,874",
+            "language": "TypeScript",
+            "stars_today": "332 stars this month"
+        },
+        {
+            "zh_des": "人工智能支持的搜索引擎，具有生成式用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered search engine with a generative UI",
+            "stars": "5,767",
+            "forks": "1,402",
+            "language": "TypeScript",
+            "stars_today": "621 stars this month"
+        },
+        {
+            "zh_des": "用于绘制手绘示意图的虚拟白板",
+            "url": "https://github.com/excalidraw/excalidraw",
+            "name": "excalidraw /excalidraw",
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "stars": "80,210",
+            "forks": "7,379",
+            "language": "TypeScript",
+            "stars_today": "2,195 stars this month"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "30,492",
+            "forks": "893",
+            "language": "TypeScript",
+            "stars_today": "1,003 stars this month"
+        }
+    ]
+}

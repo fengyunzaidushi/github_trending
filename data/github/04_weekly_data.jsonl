@@ -38200,3 +38200,147 @@
         }
     ]
 }
+{
+    "09月01日": [
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "56,734",
+            "forks": "6,626",
+            "language": "Python",
+            "stars_today": "3,068 stars this week"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,319",
+            "forks": "6,611",
+            "language": "Python",
+            "stars_today": "678 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,286",
+            "forks": "6,959",
+            "language": "Python",
+            "stars_today": "1,026 stars this week"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "16,770",
+            "forks": "1,548",
+            "language": "Python",
+            "stars_today": "775 stars this week"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,366",
+            "forks": "1,809",
+            "language": "Python",
+            "stars_today": "601 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,163",
+            "forks": "210",
+            "language": "Python",
+            "stars_today": "429 stars this week"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "47,512",
+            "forks": "5,123",
+            "language": "Python",
+            "stars_today": "3,421 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "5,958",
+            "forks": "504",
+            "language": "Python",
+            "stars_today": "741 stars this week"
+        },
+        {
+            "zh_des": "AdalFlow：用于自动优化任何LLM任务的“PyTorch”库。",
+            "url": "https://github.com/SylphAI-Inc/AdalFlow",
+            "name": "SylphAI-Inc /AdalFlow",
+            "description": "AdalFlow: The “PyTorch” library to auto-optimize any LLM tasks.",
+            "stars": "1,150",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "209 stars this week"
+        },
+        {
+            "zh_des": "您的检索增强生成(RAG)管道的评估框架",
+            "url": "https://github.com/explodinggradients/ragas",
+            "name": "explodinggradients /ragas",
+            "description": "Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines",
+            "stars": "6,391",
+            "forks": "616",
+            "language": "Python",
+            "stars_today": "120 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,945",
+            "forks": "29,597",
+            "language": "Python",
+            "stars_today": "406 stars this week"
+        },
+        {
+            "zh_des": "🛡️开源和下一代网络应用防火墙(WAF)",
+            "url": "https://github.com/bunkerity/bunkerweb",
+            "name": "bunkerity /bunkerweb",
+            "description": "🛡️ Open-source and next-generation Web Application Firewall (WAF)",
+            "stars": "6,091",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "633 stars this week"
+        },
+        {
+            "zh_des": "用于Frappe框架和ERPNext的生产和开发设置的Docker图像",
+            "url": "https://github.com/frappe/frappe_docker",
+            "name": "frappe /frappe_docker",
+            "description": "Docker images for production and development setups of the Frappe framework and ERPNext",
+            "stars": "1,324",
+            "forks": "1,272",
+            "language": "Python",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "6,241",
+            "forks": "8,150",
+            "language": "Python",
+            "stars_today": "67 stars this week"
+        }
+    ]
+}
