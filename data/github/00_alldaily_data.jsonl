@@ -37934,3 +37934,177 @@
         }
     ]
 }
+{
+    "09月01日": [
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "43,138",
+            "forks": "2,160",
+            "language": "Shell",
+            "stars_today": "826 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "6,683",
+            "forks": "473",
+            "language": "Python",
+            "stars_today": "1,242 stars today"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "53,949",
+            "forks": "3,539",
+            "language": "Dart",
+            "stars_today": "332 stars today"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "1,272",
+            "forks": "157",
+            "language": "Python",
+            "stars_today": "257 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "12,041",
+            "forks": "852",
+            "language": "TypeScript",
+            "stars_today": "369 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "332,786",
+            "forks": "61,047",
+            "language": "",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "📨安排社交帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "4,050",
+            "forks": "775",
+            "language": "TypeScript",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "7,604",
+            "forks": "1,000",
+            "language": "TypeScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "华硕笔记本电脑和ROG Ally的轻量Armoury Crate替代品。控制工具适用于ROG Zephy G14、G15、G16、M16、Flow X13、Flow X16、TUF、Strix、SCAR等车型",
+            "url": "https://github.com/seerge/g-helper",
+            "name": "seerge /g-helper",
+            "description": "Lightweight Armoury Crate alternative for Asus laptops and ROG Ally. Control tool for ROG Zephyrus G14, G15, G16, M16, Flow X13, Flow X16, TUF, Strix, Scar and other models",
+            "stars": "6,620",
+            "forks": "242",
+            "language": "C#",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "39,749",
+            "forks": "5,474",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Composo为代理配备了精心制作的工具，使他们能够处理复杂的任务",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equips agents with well-crafted tools empowering them to tackle complex tasks",
+            "stars": "6,320",
+            "forks": "1,853",
+            "language": "Python",
+            "stars_today": "322 stars today"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "3,104",
+            "forks": "255",
+            "language": "Jupyter Notebook",
+            "stars_today": "257 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "46,222",
+            "forks": "3,161",
+            "language": "TypeScript",
+            "stars_today": "243 stars today"
+        },
+        {
+            "zh_des": "简单方向媒体层",
+            "url": "https://github.com/libsdl-org/SDL",
+            "name": "libsdl-org /SDL",
+            "description": "Simple Directmedia Layer",
+            "stars": "9,263",
+            "forks": "1,726",
+            "language": "C",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "48,982",
+            "forks": "5,156",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "AppFlowy是概念的开源替代品。您负责您的数据和定制。用颤动和铁锈建造的。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy-Cloud",
+            "name": "AppFlowy-IO /AppFlowy-Cloud",
+            "description": "AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.",
+            "stars": "698",
+            "forks": "173",
+            "language": "Rust",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "C3语言的编译程序",
+            "url": "https://github.com/c3lang/c3c",
+            "name": "c3lang /c3c",
+            "description": "Compiler for the C3 language",
+            "stars": "2,457",
+            "forks": "139",
+            "language": "C",
+            "stars_today": "16 stars today"
+        }
+    ]
+}
