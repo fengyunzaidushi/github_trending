@@ -38468,3 +38468,127 @@
         }
     ]
 }
+{
+    "09月02日": [
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "47,731",
+            "forks": "5,146",
+            "language": "Python",
+            "stars_today": "3,281 stars this week"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "56,916",
+            "forks": "6,637",
+            "language": "Python",
+            "stars_today": "3,262 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,418",
+            "forks": "6,968",
+            "language": "Python",
+            "stars_today": "1,233 stars this week"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,413",
+            "forks": "6,622",
+            "language": "Python",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,201",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "416 stars this week"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,428",
+            "forks": "1,811",
+            "language": "Python",
+            "stars_today": "804 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,007",
+            "forks": "509",
+            "language": "Python",
+            "stars_today": "734 stars this week"
+        },
+        {
+            "zh_des": "此资源库用于积极开发适用于Python的Azure SDK。对于SDK的消费者，我们建议访问我们的公共开发人员文档https://learn.microsoft.com/python/azure/or我们的版本开发人员文档athttps://azure.github.io/azure-sdk-for-python.",
+            "url": "https://github.com/Azure/azure-sdk-for-python",
+            "name": "Azure /azure-sdk-for-python",
+            "description": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/python/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-python.",
+            "stars": "4,523",
+            "forks": "2,752",
+            "language": "Python",
+            "stars_today": "93 stars this week"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "16,818",
+            "forks": "1,549",
+            "language": "Python",
+            "stars_today": "832 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "70,963",
+            "forks": "29,611",
+            "language": "Python",
+            "stars_today": "399 stars this week"
+        },
+        {
+            "zh_des": "您的检索增强生成(RAG)管道的评估框架",
+            "url": "https://github.com/explodinggradients/ragas",
+            "name": "explodinggradients /ragas",
+            "description": "Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines",
+            "stars": "6,406",
+            "forks": "617",
+            "language": "Python",
+            "stars_today": "117 stars this week"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "6,585",
+            "forks": "588",
+            "language": "Python",
+            "stars_today": "710 stars this week"
+        }
+    ]
+}
