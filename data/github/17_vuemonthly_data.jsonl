@@ -1478,3 +1478,167 @@
         }
     ]
 }
+{
+    "09月02日": [
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "24,053",
+            "forks": "6,524",
+            "language": "Vue",
+            "stars_today": "957 stars this month"
+        },
+        {
+            "zh_des": "Tiny RDM(Tiny Redis Desktop Manager)--一个现代的、丰富多彩的、超轻量级的Redis图形用户界面客户端，适用于Mac、Windows和Linux。",
+            "url": "https://github.com/tiny-craft/tiny-rdm",
+            "name": "tiny-craft /tiny-rdm",
+            "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.",
+            "stars": "8,211",
+            "forks": "401",
+            "language": "Vue",
+            "stars_today": "737 stars this month"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "28,706",
+            "forks": "4,207",
+            "language": "Vue",
+            "stars_today": "771 stars this month"
+        },
+        {
+            "zh_des": "MODINITH MONOREPO包含了支持MODINTH的所有代码！",
+            "url": "https://github.com/modrinth/code",
+            "name": "modrinth /code",
+            "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+            "stars": "856",
+            "forks": "144",
+            "language": "Vue",
+            "stars_today": "64 stars this month"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,150",
+            "forks": "663",
+            "language": "Vue",
+            "stars_today": "221 stars this month"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商城免费开源多语言商城系统、Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、应用程序，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "5,130",
+            "forks": "1,346",
+            "language": "Vue",
+            "stars_today": "121 stars this month"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "24,255",
+            "forks": "2,679",
+            "language": "Vue",
+            "stars_today": "226 stars this month"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "143",
+            "forks": "2,166",
+            "language": "Vue",
+            "stars_today": "8 stars this month"
+        },
+        {
+            "zh_des": "仿bilibili前后端实现",
+            "url": "https://github.com/aigcbilibili/aigcbilibili",
+            "name": "aigcbilibili /aigcbilibili",
+            "description": "仿bilibili前后端实现",
+            "stars": "211",
+            "forks": "35",
+            "language": "Vue",
+            "stars_today": "113 stars this month"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,358",
+            "forks": "702",
+            "language": "Vue",
+            "stars_today": "119 stars this month"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "9,680",
+            "forks": "1,162",
+            "language": "Vue",
+            "stars_today": "483 stars this month"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "16,788",
+            "forks": "1,281",
+            "language": "Vue",
+            "stars_today": "336 stars this month"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,207",
+            "forks": "191",
+            "language": "Vue",
+            "stars_today": "129 stars this month"
+        },
+        {
+            "zh_des": "好用的Vue可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率.",
+            "url": "https://github.com/xaboy/form-create-designer",
+            "name": "xaboy /form-create-designer",
+            "description": "好用的Vue可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。",
+            "stars": "1,538",
+            "forks": "356",
+            "language": "Vue",
+            "stars_today": "73 stars this month"
+        },
+        {
+            "zh_des": "🚀🚀🚀一款漂亮易用的在线设计器，支持PSD导入、PSD解析，可用于海报设计器、广告设计器、徽标设计器、AI创作图片合成器等。常用于生成二维码海报，图片海报，二维码推广海报，图片处理，名片设计，电商产品图，节假日海报等.Http://gzm-design-doc.guozimi.cn/",
+            "url": "https://github.com/LvHuaiSheng/gzm-design",
+            "name": "LvHuaiSheng /gzm-design",
+            "description": "🚀🚀🚀一款漂亮易用的在线设计器，支持PSD导入、PSD解析，可用于海报设计器、广告设计器、logo设计器、AI创作图片合成器等。常用于生成二维码海报，图片海报，二维码推广海报，图片处理，名片设计，电商产品图，节假日海报等。http://gzm-design-doc.guozimi.cn/",
+            "stars": "380",
+            "forks": "94",
+            "language": "Vue",
+            "stars_today": "47 stars this month"
+        },
+        {
+            "zh_des": "Vue-vben-admin-doc.",
+            "url": "https://github.com/vbenjs/vue-vben-admin-doc",
+            "name": "vbenjs /vue-vben-admin-doc",
+            "description": "vue-vben-admin-doc",
+            "stars": "321",
+            "forks": "384",
+            "language": "Vue",
+            "stars_today": "6 stars this month"
+        }
+    ]
+}

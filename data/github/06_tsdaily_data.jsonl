@@ -43592,3 +43592,167 @@
         }
     ]
 }
+{
+    "09月02日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "37,789",
+            "forks": "8,906",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "📨安排社交帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "4,463",
+            "forks": "796",
+            "language": "TypeScript",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "7,755",
+            "forks": "1,013",
+            "language": "TypeScript",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "使用新路由器、服务器组件和Next.js13中的所有新功能构建的开源应用程序。",
+            "url": "https://github.com/shadcn-ui/taxonomy",
+            "name": "shadcn-ui /taxonomy",
+            "description": "An open source application built using the new router, server components and everything new in Next.js 13.",
+            "stars": "18,257",
+            "forks": "2,541",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "67,718",
+            "forks": "3,983",
+            "language": "TypeScript",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "5,882",
+            "forks": "425",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "6,446",
+            "forks": "1,085",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "Horizon是一个面向所有人的现代银行平台。",
+            "url": "https://github.com/adrianhajdin/banking",
+            "name": "adrianhajdin /banking",
+            "description": "Horizon is a modern banking platform for everyone.",
+            "stars": "1,660",
+            "forks": "498",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "13,350",
+            "forks": "1,064",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "71,111",
+            "forks": "6,764",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "46,474",
+            "forks": "3,173",
+            "language": "TypeScript",
+            "stars_today": "297 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "12,358",
+            "forks": "870",
+            "language": "TypeScript",
+            "stars_today": "385 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "894",
+            "forks": "321",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括Anthropic，OpenAI，Assistant API，Azure，Groq，GPT-4o，Mistral，OpenRouter，Vertex AI，Gemini，Artitures，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预置，完全开源的自我托管。积极参与公共发展。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Anthropic, OpenAI, Assistants API, Azure, Groq, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+            "stars": "17,081",
+            "forks": "2,849",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "使用Next.js克隆、部署和完全定制SaaS订阅应用程序。",
+            "url": "https://github.com/vercel/nextjs-subscription-payments",
+            "name": "vercel /nextjs-subscription-payments",
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "stars": "6,151",
+            "forks": "1,250",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "美丽而又强大的语法高亮笔",
+            "url": "https://github.com/shikijs/shiki",
+            "name": "shikijs /shiki",
+            "description": "A beautiful yet powerful syntax highlighter",
+            "stars": "9,654",
+            "forks": "351",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        }
+    ]
+}
