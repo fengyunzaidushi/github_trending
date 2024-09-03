@@ -38476,3 +38476,197 @@
         }
     ]
 }
+{
+    "09月03日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "9,026",
+            "forks": "616",
+            "language": "Python",
+            "stars_today": "1,337 stars today"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "44,340",
+            "forks": "2,263",
+            "language": "Shell",
+            "stars_today": "1,336 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "37,937",
+            "forks": "8,922",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "此回购包括ChatGPT提示管理，以便更好地使用ChatGPT。",
+            "url": "https://github.com/f/awesome-chatgpt-prompts",
+            "name": "f /awesome-chatgpt-prompts",
+            "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+            "stars": "109,288",
+            "forks": "14,933",
+            "language": "HTML",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "轻量级网络IP扫描仪。可用于通知新主机并监控主机的在线/离线历史记录",
+            "url": "https://github.com/aceberg/WatchYourLAN",
+            "name": "aceberg /WatchYourLAN",
+            "description": "Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history",
+            "stars": "2,640",
+            "forks": "78",
+            "language": "Go",
+            "stars_today": "312 stars today"
+        },
+        {
+            "zh_des": "🤖MLE-代理：无缝AI工程和研究的智能伴侣。🔍集成了arxiv和带代码的纸张，提供了更好的代码/研究计划，支持🧰OpenAI、Anthropic、Ollama等。🎆代码碎布",
+            "url": "https://github.com/MLSysOps/MLE-agent",
+            "name": "MLSysOps /MLE-agent",
+            "description": "🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supported. 🎆 Code RAG",
+            "stars": "706",
+            "forks": "30",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "MLOPS-基础知识",
+            "url": "https://github.com/graviraja/MLOps-Basics",
+            "name": "graviraja /MLOps-Basics",
+            "description": "MLOps-Basics",
+            "stars": "4,877",
+            "forks": "838",
+            "language": "Jupyter Notebook",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "📨安排社交帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "4,633",
+            "forks": "800",
+            "language": "TypeScript",
+            "stars_today": "451 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "59,715",
+            "forks": "14,413",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "7,817",
+            "forks": "1,022",
+            "language": "TypeScript",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "21,978",
+            "forks": "2,295",
+            "language": "Go",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "用于在Wine和Box86/Box64上运行Windows应用程序的Android应用程序",
+            "url": "https://github.com/brunodev85/winlator",
+            "name": "brunodev85 /winlator",
+            "description": "Android application for running Windows applications with Wine and Box86/Box64",
+            "stars": "7,721",
+            "forks": "359",
+            "language": "C",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "2,419",
+            "forks": "252",
+            "language": "Python",
+            "stars_today": "756 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "298,056",
+            "forks": "27,967",
+            "language": "",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "对您最喜欢的Torrent跟踪器的API支持",
+            "url": "https://github.com/Jackett/Jackett",
+            "name": "Jackett /Jackett",
+            "description": "API Support for your favorite torrent trackers",
+            "stars": "11,917",
+            "forks": "1,274",
+            "language": "C#",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "AWS零到英雄回购，让DevOps工程师在30天内学习AWS。此回购包括项目、演示文稿、面试问题和实时示例。",
+            "url": "https://github.com/iam-veeramalla/aws-devops-zero-to-hero",
+            "name": "iam-veeramalla /aws-devops-zero-to-hero",
+            "description": "AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.",
+            "stars": "6,381",
+            "forks": "8,197",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "20,735",
+            "forks": "1,510",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "39,874",
+            "forks": "5,497",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "6,704",
+            "forks": "2,002",
+            "language": "Python",
+            "stars_today": "243 stars today"
+        }
+    ]
+}
