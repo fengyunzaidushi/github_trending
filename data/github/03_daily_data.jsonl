@@ -39282,3 +39282,167 @@
         }
     ]
 }
+{
+    "09月05日": [
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "6,536",
+            "forks": "584",
+            "language": "Python",
+            "stars_today": "1,911 stars today"
+        },
+        {
+            "zh_des": "继续问Aaxolotl问题",
+            "url": "https://github.com/axolotl-ai-cloud/axolotl",
+            "name": "axolotl-ai-cloud /axolotl",
+            "description": "Go ahead and axolotl questions",
+            "stars": "7,465",
+            "forks": "806",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "WhisperX：具有词级时间戳的自动语音识别(&二值化)",
+            "url": "https://github.com/m-bain/whisperX",
+            "name": "m-bain /whisperX",
+            "description": "WhisperX: Automatic Speech Recognition with Word-level Timestamps (& Diarization)",
+            "stars": "11,208",
+            "forks": "1,172",
+            "language": "Python",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "AI应用程序的内存层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The Memory layer for your AI apps",
+            "stars": "21,140",
+            "forks": "1,929",
+            "language": "Python",
+            "stars_today": "327 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "131,629",
+            "forks": "26,200",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "50,490",
+            "forks": "13,062",
+            "language": "Python",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "OLMO的建模、培训、评估和推理代码",
+            "url": "https://github.com/allenai/OLMo",
+            "name": "allenai /OLMo",
+            "description": "Modeling, training, eval, and inference code for OLMo",
+            "stars": "4,355",
+            "forks": "428",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "基于LLM的自治代理，对任何给定主题进行在线综合研究",
+            "url": "https://github.com/assafelovic/gpt-researcher",
+            "name": "assafelovic /gpt-researcher",
+            "description": "LLM based autonomous agent that does online comprehensive research on any given topic",
+            "stars": "13,891",
+            "forks": "1,791",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "154,467",
+            "forks": "51,931",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "为网络自动化提供动力的首要真理来源。Apache2下的开源公共演示：https://demo.netbox.dev",
+            "url": "https://github.com/netbox-community/netbox",
+            "name": "netbox-community /netbox",
+            "description": "The premier source of truth powering network automation. Open source under Apache 2. Public demo:https://demo.netbox.dev",
+            "stars": "15,703",
+            "forks": "2,528",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "31,958",
+            "forks": "2,380",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "AWX提供了一个基于Web的用户界面、REST API和构建在Ansible之上的任务引擎。这是红帽自动化平台的上游项目之一。",
+            "url": "https://github.com/ansible/awx",
+            "name": "ansible /awx",
+            "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+            "stars": "13,847",
+            "forks": "3,397",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "TorchGeo：地理空间数据的数据集、采样器、转换和预先训练的模型",
+            "url": "https://github.com/microsoft/torchgeo",
+            "name": "microsoft /torchgeo",
+            "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+            "stars": "2,552",
+            "forks": "316",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "用于生成性人工智能的Python风险识别工具(PyRIT)是一个开放访问的自动化框架，使安全专业人员和机器学习工程师能够主动发现他们的生成性AI系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "1,691",
+            "forks": "305",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "5,853",
+            "forks": "3,988",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,476",
+            "forks": "4,113",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        }
+    ]
+}

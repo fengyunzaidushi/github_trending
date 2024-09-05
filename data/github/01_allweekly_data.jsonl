@@ -40144,3 +40144,177 @@
         }
     ]
 }
+{
+    "09月05日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "10,351",
+            "forks": "717",
+            "language": "Python",
+            "stars_today": "8,448 stars this week"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "44,897",
+            "forks": "2,335",
+            "language": "Shell",
+            "stars_today": "4,289 stars this week"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "54,715",
+            "forks": "3,584",
+            "language": "Dart",
+            "stars_today": "3,064 stars this week"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "12,913",
+            "forks": "912",
+            "language": "TypeScript",
+            "stars_today": "3,071 stars this week"
+        },
+        {
+            "zh_des": "由坞站支持的PaaS可帮助您构建和管理应用程序的生命周期",
+            "url": "https://github.com/dokku/dokku",
+            "name": "dokku /dokku",
+            "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+            "stars": "28,347",
+            "forks": "1,888",
+            "language": "Shell",
+            "stars_today": "1,332 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "46,795",
+            "forks": "3,185",
+            "language": "TypeScript",
+            "stars_today": "2,181 stars this week"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "3,666",
+            "forks": "282",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,470 stars this week"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "48,443",
+            "forks": "5,225",
+            "language": "Python",
+            "stars_today": "2,319 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,699",
+            "forks": "7,000",
+            "language": "Python",
+            "stars_today": "1,479 stars this week"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "57,461",
+            "forks": "6,657",
+            "language": "Python",
+            "stars_today": "1,906 stars this week"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "50,490",
+            "forks": "13,062",
+            "language": "Python",
+            "stars_today": "160 stars this week"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "7,117",
+            "forks": "2,256",
+            "language": "Python",
+            "stars_today": "1,445 stars this week"
+        },
+        {
+            "zh_des": "开源、可自行托管的Heroku/Netlify/Vercel替代方案。",
+            "url": "https://github.com/coollabsio/coolify",
+            "name": "coollabsio /coolify",
+            "description": "An open-source & self-hostable Heroku / Netlify / Vercel alternative.",
+            "stars": "30,946",
+            "forks": "1,568",
+            "language": "PHP",
+            "stars_today": "2,175 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "4,372",
+            "forks": "495",
+            "language": "Jupyter Notebook",
+            "stars_today": "129 stars this week"
+        },
+        {
+            "zh_des": "🚀简单10倍，🚀存储成本降低140倍，🚀高性能，🚀PB规模-🚀的ElasticSearch/Splunk/Datadog替代方案(日志、指标、跟踪、朗姆、错误跟踪、会话重放)。",
+            "url": "https://github.com/openobserve/openobserve",
+            "name": "openobserve /openobserve",
+            "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+            "stars": "11,770",
+            "forks": "422",
+            "language": "Rust",
+            "stars_today": "867 stars this week"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "333,231",
+            "forks": "61,090",
+            "language": "",
+            "stars_today": "826 stars this week"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "58,493",
+            "forks": "18,940",
+            "language": "Java",
+            "stars_today": "274 stars this week"
+        }
+    ]
+}

@@ -39366,3 +39366,157 @@
         }
     ]
 }
+{
+    "09月05日": [
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "6,536",
+            "forks": "584",
+            "language": "Python",
+            "stars_today": "1,911 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "39,767",
+            "forks": "9,073",
+            "language": "TypeScript",
+            "stars_today": "752 stars today"
+        },
+        {
+            "zh_des": "📨安排社交媒体帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "5,607",
+            "forks": "877",
+            "language": "TypeScript",
+            "stars_today": "338 stars today"
+        },
+        {
+            "zh_des": "使用REACT构建本机应用程序的框架",
+            "url": "https://github.com/facebook/react-native",
+            "name": "facebook /react-native",
+            "description": "A framework for building native applications using React",
+            "stars": "117,977",
+            "forks": "24,173",
+            "language": "C++",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "在一页中掌握命令行",
+            "url": "https://github.com/jlevy/the-art-of-command-line",
+            "name": "jlevy /the-art-of-command-line",
+            "description": "Master the command line, in one page",
+            "stars": "152,398",
+            "forks": "14,485",
+            "language": "",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "Cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "7,186",
+            "forks": "6,372",
+            "language": "Jupyter Notebook",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "GRPC的GO语言实现。基于HTTP/2的RPC",
+            "url": "https://github.com/grpc/grpc-go",
+            "name": "grpc /grpc-go",
+            "description": "The Go language implementation of gRPC. HTTP/2 based RPC",
+            "stars": "20,772",
+            "forks": "4,328",
+            "language": "Go",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "异步低延迟C++日志库",
+            "url": "https://github.com/odygrd/quill",
+            "name": "odygrd /quill",
+            "description": "Asynchronous Low Latency C++ Logging Library",
+            "stars": "1,286",
+            "forks": "140",
+            "language": "C++",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "奇偶Polkadot区块链SDK",
+            "url": "https://github.com/paritytech/polkadot-sdk",
+            "name": "paritytech /polkadot-sdk",
+            "description": "The Parity Polkadot Blockchain SDK",
+            "stars": "1,745",
+            "forks": "629",
+            "language": "Rust",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "400,567",
+            "forks": "36,977",
+            "language": "TypeScript",
+            "stars_today": "192 stars today"
+        },
+        {
+            "zh_des": "💥基于GO 1.18+泛型(地图、过滤器、包含、查找...)的LODASH风格围棋棋库",
+            "url": "https://github.com/samber/lo",
+            "name": "samber /lo",
+            "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+            "stars": "17,010",
+            "forks": "777",
+            "language": "Go",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "阿帕奇Kafka C/C++库",
+            "url": "https://github.com/confluentinc/librdkafka",
+            "name": "confluentinc /librdkafka",
+            "description": "The Apache Kafka C/C++ library",
+            "stars": "146",
+            "forks": "3,135",
+            "language": "C",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "一个可信任的开源云本地注册项目，用于存储、签名和扫描内容。",
+            "url": "https://github.com/goharbor/harbor",
+            "name": "goharbor /harbor",
+            "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+            "stars": "23,528",
+            "forks": "4,713",
+            "language": "Go",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Ffltter使您可以轻松、快速地为移动设备和其他设备构建漂亮的应用程序",
+            "url": "https://github.com/flutter/flutter",
+            "name": "flutter /flutter",
+            "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+            "stars": "164,447",
+            "forks": "27,124",
+            "language": "Dart",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "Windows系统实用程序可最大限度地提高工作效率",
+            "url": "https://github.com/microsoft/PowerToys",
+            "name": "microsoft /PowerToys",
+            "description": "Windows system utilities to maximize productivity",
+            "stars": "108,694",
+            "forks": "6,422",
+            "language": "C#",
+            "stars_today": "70 stars today"
+        }
+    ]
+}

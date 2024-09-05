@@ -43606,3 +43606,197 @@
         }
     ]
 }
+{
+    "09月05日": [
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "33,397",
+            "forks": "4,693",
+            "language": "Python",
+            "stars_today": "33,026 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI Forge快速列表安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个建立在稳定扩散WebUI(基于GRadio)之上的平台，旨在简化开发、优化资源管理、加速推理和研究实验特性",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "7,008",
+            "forks": "685",
+            "language": "Python",
+            "stars_today": "1,422 stars this month"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "12,490",
+            "forks": "843",
+            "language": "Python",
+            "stars_today": "4,424 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM-V 2.6：适用于手机上的单图像、多图像和视频的GPT-4V级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-V",
+            "name": "OpenBMB /MiniCPM-V",
+            "description": "MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone",
+            "stars": "11,537",
+            "forks": "811",
+            "language": "Python",
+            "stars_today": "3,378 stars this month"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,556",
+            "forks": "6,658",
+            "language": "Python",
+            "stars_today": "1,712 stars this month"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "6,823",
+            "forks": "628",
+            "language": "Python",
+            "stars_today": "3,172 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,699",
+            "forks": "7,000",
+            "language": "Python",
+            "stars_today": "1,731 stars this month"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "57,461",
+            "forks": "6,657",
+            "language": "Python",
+            "stars_today": "4,379 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "49,574",
+            "forks": "5,216",
+            "language": "Python",
+            "stars_today": "5,341 stars this month"
+        },
+        {
+            "zh_des": "LLaVA-Next：开放大型多式联运模型",
+            "url": "https://github.com/LLaVA-VL/LLaVA-NeXT",
+            "name": "LLaVA-VL /LLaVA-NeXT",
+            "description": "LLaVA-NeXT: Open Large Multimodal Models",
+            "stars": "2,288",
+            "forks": "154",
+            "language": "Python",
+            "stars_today": "864 stars this month"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "10,804",
+            "forks": "795",
+            "language": "Python",
+            "stars_today": "4,443 stars this month"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,126",
+            "forks": "526",
+            "language": "Python",
+            "stars_today": "1,526 stars this month"
+        },
+        {
+            "zh_des": "🔍LLm编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 LLM orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,539",
+            "forks": "1,823",
+            "language": "Python",
+            "stars_today": "1,554 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "16,362",
+            "forks": "1,667",
+            "language": "Python",
+            "stars_today": "2,981 stars this month"
+        },
+        {
+            "zh_des": "高级深度时间序列模型库。",
+            "url": "https://github.com/thuml/Time-Series-Library",
+            "name": "thuml /Time-Series-Library",
+            "description": "A Library for Advanced Deep Time Series Models.",
+            "stars": "6,191",
+            "forks": "988",
+            "language": "Python",
+            "stars_today": "711 stars this month"
+        },
+        {
+            "zh_des": "一个面向扩散模型的通用微调工具包。",
+            "url": "https://github.com/bghira/SimpleTuner",
+            "name": "bghira /SimpleTuner",
+            "description": "A general fine-tuning kit geared toward diffusion models.",
+            "stars": "1,476",
+            "forks": "130",
+            "language": "Python",
+            "stars_today": "965 stars this month"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "48,443",
+            "forks": "5,225",
+            "language": "Python",
+            "stars_today": "4,692 stars this month"
+        },
+        {
+            "zh_des": "用于高质量TTS模型的推理和训练库。",
+            "url": "https://github.com/huggingface/parler-tts",
+            "name": "huggingface /parler-tts",
+            "description": "Inference and training library for high-quality TTS models.",
+            "stars": "4,111",
+            "forks": "401",
+            "language": "Python",
+            "stars_today": "1,178 stars this month"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "81,756",
+            "forks": "6,383",
+            "language": "Python",
+            "stars_today": "3,308 stars this month"
+        }
+    ]
+}
