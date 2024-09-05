@@ -2708,3 +2708,197 @@
         }
     ]
 }
+{
+    "09月05日": [
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/radix-vue/shadcn-vue",
+            "name": "radix-vue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,153",
+            "forks": "241",
+            "language": "Vue",
+            "stars_today": "107 stars this week"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "28,831",
+            "forks": "4,223",
+            "language": "Vue",
+            "stars_today": "376 stars this week"
+        },
+        {
+            "zh_des": "为SagerNet/Sing-Box打造的高级Web面板",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "2,500",
+            "forks": "376",
+            "language": "Vue",
+            "stars_today": "67 stars this week"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商城免费开源多语言商城系统、Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、应用程序，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "5,142",
+            "forks": "1,349",
+            "language": "Vue",
+            "stars_today": "65 stars this week"
+        },
+        {
+            "zh_des": "Vuestic UI是一个开源的Vue 3组件库，设计用于快速开发、易于维护和高可访问性。由Epicmax(@epicMaxco)维护。",
+            "url": "https://github.com/epicmaxco/vuestic-ui",
+            "name": "epicmaxco /vuestic-ui",
+            "description": "Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).",
+            "stars": "3,450",
+            "forks": "335",
+            "language": "Vue",
+            "stars_today": "26 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,751",
+            "forks": "455",
+            "language": "Vue",
+            "stars_today": "29 stars this week"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,221",
+            "forks": "191",
+            "language": "Vue",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "无代码AI工作流",
+            "url": "https://github.com/AndersonBY/vector-vein",
+            "name": "AndersonBY /vector-vein",
+            "description": "No-code AI workflow",
+            "stars": "771",
+            "forks": "124",
+            "language": "Vue",
+            "stars_today": "48 stars this week"
+        },
+        {
+            "zh_des": "Rancher用户界面",
+            "url": "https://github.com/rancher/dashboard",
+            "name": "rancher /dashboard",
+            "description": "The Rancher UI",
+            "stars": "449",
+            "forks": "254",
+            "language": "Vue",
+            "stars_today": "2 stars this week"
+        },
+        {
+            "zh_des": "🎉一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配|网易云音乐|极简主义音乐播放器",
+            "url": "https://github.com/imsyy/SPlayer",
+            "name": "imsyy /SPlayer",
+            "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+            "stars": "2,098",
+            "forks": "437",
+            "language": "Vue",
+            "stars_today": "216 stars this week"
+        },
+        {
+            "zh_des": "Vuestic Admin是一款开源、即用型管理模板套件，设计用于快速开发、易于维护和高度可访问性。基于Vuestic用户界面、Vue 3、Vite、Pinia和TailWind CSS构建。由Epicmax(@epicMaxco)维护。",
+            "url": "https://github.com/epicmaxco/vuestic-admin",
+            "name": "epicmaxco /vuestic-admin",
+            "description": "Vuestic Admin is an open-source, ready-to-use admin template suite designed for rapid development, easy maintenance, and high accessibility. Built on Vuestic UI, Vue 3, Vite, Pinia, and Tailwind CSS. Maintained by Epicmax (@epicmaxco).",
+            "stars": "10,443",
+            "forks": "1,703",
+            "language": "Vue",
+            "stars_today": "25 stars this week"
+        },
+        {
+            "zh_des": "快速、现代、先进的照片管理套件。作为NextCloud应用程序运行。",
+            "url": "https://github.com/pulsejet/memories",
+            "name": "pulsejet /memories",
+            "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+            "stars": "3,052",
+            "forks": "82",
+            "language": "Vue",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "🎉VUE ADMIN，VUE3 ADMIN，VUE3.0 ADMIN，VUE后台管理，VUE-ADMIN，VUE 3.0-ADMIN，ADMIN，VUE-ADMIN，VUE-ELEMENT-ADMIN，ANT-DESIGN，vAB ADMIN PRO，vAB ADMIN PLUS，VUE ADMIN PLUS，VUE ADMIN PRO",
+            "url": "https://github.com/zxwk1998/vue-admin-better",
+            "name": "zxwk1998 /vue-admin-better",
+            "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+            "stars": "16,691",
+            "forks": "3,670",
+            "language": "Vue",
+            "stars_today": "44 stars this week"
+        },
+        {
+            "zh_des": "好用的Vue低代码可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率.",
+            "url": "https://github.com/xaboy/form-create-designer",
+            "name": "xaboy /form-create-designer",
+            "description": "好用的Vue低代码可视化表单设计器，可以通过拖拽的方式快速创建表单，提高开发者对表单的开发效率。",
+            "stars": "1,548",
+            "forks": "358",
+            "language": "Vue",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "TDesign Vue Next UI组件的入门工具包",
+            "url": "https://github.com/Tencent/tdesign-vue-next-starter",
+            "name": "Tencent /tdesign-vue-next-starter",
+            "description": "A starter-kit for TDesign Vue Next UI components",
+            "stars": "674",
+            "forks": "185",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "🎧Vue+SpringBoot+MyBatis音乐网站",
+            "url": "https://github.com/Yin-Hongwei/music-website",
+            "name": "Yin-Hongwei /music-website",
+            "description": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
+            "stars": "5,301",
+            "forks": "1,429",
+            "language": "Vue",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "87,488",
+            "forks": "30,418",
+            "language": "Vue",
+            "stars_today": "94 stars this week"
+        },
+        {
+            "zh_des": "一个灵活的Mastodon Web客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,340",
+            "forks": "552",
+            "language": "Vue",
+            "stars_today": "12 stars this week"
+        },
+        {
+            "zh_des": "基于VUE3、TypeScrip、Element-Plus、VITE的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "2,649",
+            "forks": "641",
+            "language": "Vue",
+            "stars_today": "21 stars this week"
+        }
+    ]
+}
