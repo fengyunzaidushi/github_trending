@@ -45084,3 +45084,207 @@
         }
     ]
 }
+{
+    "09月06日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "40,011",
+            "forks": "9,098",
+            "language": "TypeScript",
+            "stars_today": "249 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "17,050",
+            "forks": "2,218",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "构建管理面板、内部工具和仪表板的平台。与25个以上的数据库和任何API集成。",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "name": "appsmithorg /appsmith",
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "stars": "33,083",
+            "forks": "3,597",
+            "language": "TypeScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "为现代网络开发人员上传文件",
+            "url": "https://github.com/pingdotgg/uploadthing",
+            "name": "pingdotgg /uploadthing",
+            "description": "File uploads for modern web devs",
+            "stars": "3,933",
+            "forks": "284",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、uml、工作流等各种图编辑场景.专注于业务定制的流程图编辑框架。",
+            "url": "https://github.com/didi/LogicFlow",
+            "name": "didi /LogicFlow",
+            "description": "专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。A flow chart editing framework focusing on business customization.",
+            "stars": "7,879",
+            "forks": "1,056",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "适用于创业的应用程序框架",
+            "url": "https://github.com/redwoodjs/redwood",
+            "name": "redwoodjs /redwood",
+            "description": "The App Framework for Startups",
+            "stars": "17,072",
+            "forks": "979",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "15,363",
+            "forks": "1,153",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "建立更好的网站。使用Web基础知识创建现代化、弹性强的用户体验。",
+            "url": "https://github.com/remix-run/remix",
+            "name": "remix-run /remix",
+            "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+            "stars": "28,951",
+            "forks": "2,446",
+            "language": "TypeScript",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "🍍直观、类型安全、轻便灵活的VUE存储使用带有DevTool支持的Composal API",
+            "url": "https://github.com/vuejs/pinia",
+            "name": "vuejs /pinia",
+            "description": "🍍 Intuitive, type safe, light and flexible Store for Vue using the composition api with DevTools support",
+            "stars": "12,913",
+            "forks": "1,023",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "34,353",
+            "forks": "3,496",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "9,676",
+            "forks": "933",
+            "language": "TypeScript",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "人工智能支持的搜索引擎，具有生成式用户界面",
+            "url": "https://github.com/miurla/morphic",
+            "name": "miurla /morphic",
+            "description": "An AI-powered search engine with a generative UI",
+            "stars": "5,855",
+            "forks": "1,429",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "63,773",
+            "forks": "11,937",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "🚀是一个功能齐全的、生产就绪的缓存图形QL客户端，适用于每个UI框架和图形QL服务器。",
+            "url": "https://github.com/apollographql/apollo-client",
+            "name": "apollographql /apollo-client",
+            "description": "🚀  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.",
+            "stars": "19,317",
+            "forks": "2,651",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "45,053",
+            "forks": "6,104",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "44,343",
+            "forks": "6,205",
+            "language": "TypeScript",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "ApacheECharts是一个功能强大的交互式图表和数据可视化浏览器库",
+            "url": "https://github.com/apache/echarts",
+            "name": "apache /echarts",
+            "description": "Apache ECharts is a powerful, interactive charting and data visualization library for browser",
+            "stars": "60,098",
+            "forks": "19,596",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "OHIF零足迹DICOM查看器和肿瘤学特定的病变跟踪器，以及共享的扩展包",
+            "url": "https://github.com/OHIF/Viewers",
+            "name": "OHIF /Viewers",
+            "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+            "stars": "3,081",
+            "forks": "3,252",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "26,839",
+            "forks": "2,454",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "19,069",
+            "forks": "1,609",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        }
+    ]
+}
