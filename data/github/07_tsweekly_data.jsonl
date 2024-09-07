@@ -42689,3 +42689,227 @@
         }
     ]
 }
+{
+    "09月07日": [
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "13,080",
+            "forks": "938",
+            "language": "TypeScript",
+            "stars_today": "2,022 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "46,911",
+            "forks": "3,191",
+            "language": "TypeScript",
+            "stars_today": "1,278 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "40,109",
+            "forks": "9,117",
+            "language": "TypeScript",
+            "stars_today": "2,435 stars this week"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "26,862",
+            "forks": "2,455",
+            "language": "TypeScript",
+            "stars_today": "494 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "7,981",
+            "forks": "1,043",
+            "language": "TypeScript",
+            "stars_today": "525 stars this week"
+        },
+        {
+            "zh_des": "MatterMost是一个开放源码平台，用于在整个软件开发生命周期中进行安全协作。",
+            "url": "https://github.com/mattermost/mattermost",
+            "name": "mattermost /mattermost",
+            "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
+            "stars": "29,925",
+            "forks": "7,171",
+            "language": "TypeScript",
+            "stars_today": "278 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,060",
+            "forks": "426",
+            "language": "TypeScript",
+            "stars_today": "244 stars this week"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "68,418",
+            "forks": "4,052",
+            "language": "TypeScript",
+            "stars_today": "935 stars this week"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "17,077",
+            "forks": "2,218",
+            "language": "TypeScript",
+            "stars_today": "177 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "18,191",
+            "forks": "1,355",
+            "language": "TypeScript",
+            "stars_today": "214 stars this week"
+        },
+        {
+            "zh_des": "测试您的提示、代理和破烂。红色分组、五角大楼测试和漏洞扫描LLM。比较GPT、Claude、Gemini、Llama等的性能。使用命令行和CI/CD集成的简单声明性配置。",
+            "url": "https://github.com/promptfoo/promptfoo",
+            "name": "promptfoo /promptfoo",
+            "description": "Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+            "stars": "4,088",
+            "forks": "296",
+            "language": "TypeScript",
+            "stars_today": "75 stars this week"
+        },
+        {
+            "zh_des": "用于Node.js和TypeScrip的下一代ORM|PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB",
+            "url": "https://github.com/prisma/prisma",
+            "name": "prisma /prisma",
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+            "stars": "38,792",
+            "forks": "1,519",
+            "language": "TypeScript",
+            "stars_today": "113 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、线性、星期一和Asana替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "28,626",
+            "forks": "1,565",
+            "language": "TypeScript",
+            "stars_today": "577 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "4,620",
+            "forks": "407",
+            "language": "TypeScript",
+            "stars_today": "428 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "15,383",
+            "forks": "1,155",
+            "language": "TypeScript",
+            "stars_today": "336 stars this week"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "34,362",
+            "forks": "3,497",
+            "language": "TypeScript",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "83,935",
+            "forks": "9,212",
+            "language": "TypeScript",
+            "stars_today": "92 stars this week"
+        },
+        {
+            "zh_des": "JS是一个渐进式的、可增量采用的🖖框架，用于在Web上构建用户界面。",
+            "url": "https://github.com/vuejs/core",
+            "name": "vuejs /core",
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "stars": "46,592",
+            "forks": "8,174",
+            "language": "TypeScript",
+            "stars_today": "185 stars this week"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "13,499",
+            "forks": "1,081",
+            "language": "TypeScript",
+            "stars_today": "178 stars this week"
+        },
+        {
+            "zh_des": "专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、uml、工作流等各种图编辑场景.专注于业务定制的流程图编辑框架。",
+            "url": "https://github.com/didi/LogicFlow",
+            "name": "didi /LogicFlow",
+            "description": "专注于业务自定义的流程图编辑框架，支持实现脑图、ER图、UML、工作流等各种图编辑场景。A flow chart editing framework focusing on business customization.",
+            "stars": "7,884",
+            "forks": "1,057",
+            "language": "TypeScript",
+            "stars_today": "154 stars this week"
+        },
+        {
+            "zh_des": "您最友好的开源一体式自动化工具✨工作流自动化工具200+集成/企业自动化工具/Zapier替代工具",
+            "url": "https://github.com/activepieces/activepieces",
+            "name": "activepieces /activepieces",
+            "description": "Your friendliest open source all-in-one automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+            "stars": "9,251",
+            "forks": "1,077",
+            "language": "TypeScript",
+            "stars_today": "110 stars this week"
+        },
+        {
+            "zh_des": "💌使用Reaction构建和发送电子邮件",
+            "url": "https://github.com/resend/react-email",
+            "name": "resend /react-email",
+            "description": "💌 Build and send emails using React",
+            "stars": "13,890",
+            "forks": "627",
+            "language": "TypeScript",
+            "stars_today": "222 stars this week"
+        }
+    ]
+}

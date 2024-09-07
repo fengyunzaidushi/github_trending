@@ -39818,3 +39818,157 @@
         }
     ]
 }
+{
+    "09月07日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "40,109",
+            "forks": "9,117",
+            "language": "TypeScript",
+            "stars_today": "252 stars today"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "7,260",
+            "forks": "642",
+            "language": "Python",
+            "stars_today": "675 stars today"
+        },
+        {
+            "zh_des": "💥基于GO 1.18+泛型(地图、过滤器、包含、查找...)的LODASH风格围棋棋库",
+            "url": "https://github.com/samber/lo",
+            "name": "samber /lo",
+            "description": "💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)",
+            "stars": "17,239",
+            "forks": "788",
+            "language": "Go",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "38,399",
+            "forks": "2,425",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "81,971",
+            "forks": "21,987",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "17,077",
+            "forks": "2,218",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "一个用于以一致和可理解的方式构建应用程序的库，并考虑到组合、测试和人体工程学。",
+            "url": "https://github.com/pointfreeco/swift-composable-architecture",
+            "name": "pointfreeco /swift-composable-architecture",
+            "description": "A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.",
+            "stars": "12,154",
+            "forks": "1,418",
+            "language": "Swift",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "构建管理面板、内部工具和仪表板的平台。与25个以上的数据库和任何API集成。",
+            "url": "https://github.com/appsmithorg/appsmith",
+            "name": "appsmithorg /appsmith",
+            "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+            "stars": "33,171",
+            "forks": "3,600",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "快速C++记录库。",
+            "url": "https://github.com/gabime/spdlog",
+            "name": "gabime /spdlog",
+            "description": "Fast C++ logging library.",
+            "stars": "23,804",
+            "forks": "4,468",
+            "language": "C++",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "Windows系统实用程序可最大限度地提高工作效率",
+            "url": "https://github.com/microsoft/PowerToys",
+            "name": "microsoft /PowerToys",
+            "description": "Windows system utilities to maximize productivity",
+            "stars": "108,976",
+            "forks": "6,427",
+            "language": "C#",
+            "stars_today": "222 stars today"
+        },
+        {
+            "zh_des": "Autware--世界领先的自动驾驶开源软件项目",
+            "url": "https://github.com/autowarefoundation/autoware",
+            "name": "autowarefoundation /autoware",
+            "description": "Autoware - the world's leading open-source software project for autonomous driving",
+            "stars": "8,894",
+            "forks": "2,985",
+            "language": "Dockerfile",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "应届毕业生在SWE、Quant和PM中的全职角色集合。",
+            "url": "https://github.com/SimplifyJobs/New-Grad-Positions",
+            "name": "SimplifyJobs /New-Grad-Positions",
+            "description": "A collection of full time roles in SWE, Quant, and PM for new grads.",
+            "stars": "10,973",
+            "forks": "1,028",
+            "language": "",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "50,773",
+            "forks": "13,084",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "ApacheArrow是一个多语言工具箱，用于加速数据交换和内存处理",
+            "url": "https://github.com/apache/arrow",
+            "name": "apache /arrow",
+            "description": "Apache Arrow is a multi-language toolbox for accelerated data interchange and in-memory processing",
+            "stars": "14,225",
+            "forks": "3,465",
+            "language": "C++",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Cloud.google.com上使用的代码示例",
+            "url": "https://github.com/GoogleCloudPlatform/python-docs-samples",
+            "name": "GoogleCloudPlatform /python-docs-samples",
+            "description": "Code samples used on cloud.google.com",
+            "stars": "7,296",
+            "forks": "6,378",
+            "language": "Jupyter Notebook",
+            "stars_today": "98 stars today"
+        }
+    ]
+}
