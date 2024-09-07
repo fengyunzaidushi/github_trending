@@ -39898,3 +39898,117 @@
         }
     ]
 }
+{
+    "09月07日": [
+        {
+            "zh_des": "具有更好价格的开源柠檬挤压替代品！通过您的热情获得付费编码。",
+            "url": "https://github.com/polarsource/polar",
+            "name": "polarsource /polar",
+            "description": "An Open Source Lemon Squeezy alternative with better pricing! Get paid coding on your passion.",
+            "stars": "2,275",
+            "forks": "79",
+            "language": "Python",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "毫不妥协的Python代码格式器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "38,463",
+            "forks": "2,426",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "通过Azure OpenAI（包括Azure OpenAI On Your Data）获得简单网络聊天体验的示例代码。",
+            "url": "https://github.com/microsoft/sample-app-aoai-chatGPT",
+            "name": "microsoft /sample-app-aoai-chatGPT",
+            "description": "Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.",
+            "stars": "1,551",
+            "forks": "2,404",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "生成式人工智能的Python风险识别工具（PyRIT）是一个开放访问自动化框架，旨在使安全专业人员和机器学习工程师能够主动发现其生成式人工智能系统中的风险。",
+            "url": "https://github.com/Azure/PyRIT",
+            "name": "Azure /PyRIT",
+            "description": "The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems.",
+            "stars": "1,702",
+            "forks": "308",
+            "language": "Python",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "在Pytorch中实现Alphafold 3",
+            "url": "https://github.com/lucidrains/alphafold3-pytorch",
+            "name": "lucidrains /alphafold3-pytorch",
+            "description": "Implementation of Alphafold 3 in Pytorch",
+            "stars": "862",
+            "forks": "92",
+            "language": "Python",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "🙌OpenHands：少代码，多做",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "31,084",
+            "forks": "3,582",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "Python中的张量和动态神经网络，具有强大的图形处理器加速",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "82,000",
+            "forks": "21,993",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "MiniCPM 3 - 4 B：超越GPT-3.5-Turbo的边缘LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "5,331",
+            "forks": "361",
+            "language": "Python",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "Deepfakes全民软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "50,819",
+            "forks": "13,088",
+            "language": "Python",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "操作员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,492",
+            "forks": "4,113",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Amazon Web Services通用命令行界面",
+            "url": "https://github.com/aws/aws-cli",
+            "name": "aws /aws-cli",
+            "description": "Universal Command Line Interface for Amazon Web Services",
+            "stars": "15,318",
+            "forks": "4,072",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
