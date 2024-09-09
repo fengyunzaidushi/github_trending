@@ -41412,3 +41412,187 @@
         }
     ]
 }
+{
+    "09月09日": [
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "7,962",
+            "forks": "713",
+            "language": "Python",
+            "stars_today": "6,508 stars this week"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "10,958",
+            "forks": "772",
+            "language": "Python",
+            "stars_today": "4,378 stars this week"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "45,141",
+            "forks": "2,370",
+            "language": "Shell",
+            "stars_today": "2,254 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "40,274",
+            "forks": "9,143",
+            "language": "TypeScript",
+            "stars_today": "2,651 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "4,560",
+            "forks": "500",
+            "language": "Jupyter Notebook",
+            "stars_today": "295 stars this week"
+        },
+        {
+            "zh_des": "Windows系统实用程序可最大限度地提高工作效率",
+            "url": "https://github.com/microsoft/PowerToys",
+            "name": "microsoft /PowerToys",
+            "description": "Windows system utilities to maximize productivity",
+            "stars": "109,286",
+            "forks": "6,439",
+            "language": "C#",
+            "stars_today": "744 stars this week"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,091",
+            "forks": "13,108",
+            "language": "Python",
+            "stars_today": "616 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "15,537",
+            "forks": "1,167",
+            "language": "TypeScript",
+            "stars_today": "384 stars this week"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "78,307",
+            "forks": "36,187",
+            "language": "C++",
+            "stars_today": "501 stars this week"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "13,296",
+            "forks": "959",
+            "language": "TypeScript",
+            "stars_today": "1,284 stars this week"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "55,047",
+            "forks": "3,597",
+            "language": "Dart",
+            "stars_today": "1,169 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "19,957",
+            "forks": "7,022",
+            "language": "Python",
+            "stars_today": "552 stars this week"
+        },
+        {
+            "zh_des": "📨安排社交媒体帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "6,039",
+            "forks": "917",
+            "language": "TypeScript",
+            "stars_today": "2,036 stars this week"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "7,565",
+            "forks": "2,328",
+            "language": "Python",
+            "stars_today": "1,324 stars this week"
+        },
+        {
+            "zh_des": "MLOPS-基础知识",
+            "url": "https://github.com/graviraja/MLOps-Basics",
+            "name": "graviraja /MLOps-Basics",
+            "description": "MLOps-Basics",
+            "stars": "5,095",
+            "forks": "857",
+            "language": "Jupyter Notebook",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "开源Spotify客户端库",
+            "url": "https://github.com/librespot-org/librespot",
+            "name": "librespot-org /librespot",
+            "description": "Open Source Spotify client library",
+            "stars": "4,706",
+            "forks": "575",
+            "language": "Rust",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "1,375",
+            "forks": "144",
+            "language": "Shell",
+            "stars_today": "665 stars this week"
+        },
+        {
+            "zh_des": "AI代码编辑器",
+            "url": "https://github.com/getcursor/cursor",
+            "name": "getcursor /cursor",
+            "description": "The AI Code Editor",
+            "stars": "22,801",
+            "forks": "1,457",
+            "language": "",
+            "stars_today": "681 stars this week"
+        }
+    ]
+}
