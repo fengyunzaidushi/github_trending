@@ -5260,3 +5260,187 @@
         }
     ]
 }
+{
+    "09月11日": [
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "20,567",
+            "forks": "2,475",
+            "language": "Vue",
+            "stars_today": "405 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/radix-vue/shadcn-vue",
+            "name": "radix-vue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,269",
+            "forks": "248",
+            "language": "Vue",
+            "stars_today": "115 stars this week"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "24,325",
+            "forks": "2,688",
+            "language": "Vue",
+            "stars_today": "84 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "9,783",
+            "forks": "1,178",
+            "language": "Vue",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "为SagerNet/Sing-Box打造的高级Web面板",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "2,545",
+            "forks": "385",
+            "language": "Vue",
+            "stars_today": "47 stars this week"
+        },
+        {
+            "zh_des": "Eno音乐基于bilibili的音乐播放器，提供歌手和歌单管理功能eno音乐是一个基于bilibili的音乐播放器，完全改变了你在该平台上的体验。它重新构想了bilibili作为一个音乐平台的样子，并提供了独特而沉浸式的体验.铬下载爱发电不和",
+            "url": "https://github.com/cloudflypeng/eno-music",
+            "name": "cloudflypeng /eno-music",
+            "description": "Eno Music基于 bilibili 的音乐播放器, 提供歌手和歌单管理功能Eno Music 是一个基于 bilibili 的音乐播放器，完全改变了你在该平台上的体验。它重新构想了 bilibili 作为一个音乐平台的样子，并提供了独特而沉浸式的体验。chrome 下载爱发电Discord",
+            "stars": "440",
+            "forks": "30",
+            "language": "Vue",
+            "stars_today": "110 stars this week"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,250",
+            "forks": "194",
+            "language": "Vue",
+            "stars_today": "41 stars this week"
+        },
+        {
+            "zh_des": "Vue 3的📄文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "2,889",
+            "forks": "4,317",
+            "language": "Vue",
+            "stars_today": "10 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "11,273",
+            "forks": "1,203",
+            "language": "Vue",
+            "stars_today": "66 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,777",
+            "forks": "461",
+            "language": "Vue",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "🔥基于vue3+vite5+类型脚本+元素+构建的后台管理前端模板(配套后端源码)，vue-元素-管理的vue3版本。",
+            "url": "https://github.com/youlaitech/vue3-element-admin",
+            "name": "youlaitech /vue3-element-admin",
+            "description": "🔥基于 vue3 + vite5 + typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。",
+            "stars": "1,298",
+            "forks": "346",
+            "language": "Vue",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "一种在线演示应用程序，它复制了Microsoft Office PowerPoint的大多数常用功能，允许编辑和演示PPT Online。它还支持导出PPT文件。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "An online presentation application that replicates most of the commonly used features of Microsoft Office PowerPoint, allowing for the editing and presentation of PPT online. It also supports the export of PPT files.",
+            "stars": "5,915",
+            "forks": "1,143",
+            "language": "Vue",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "Https://github.com/imsyy/DailyHotApi热度接口|今日热榜前端页面",
+            "url": "https://github.com/imsyy/DailyHot",
+            "name": "imsyy /DailyHot",
+            "description": "DailyHot 今日热榜前端页面 | API：https://github.com/imsyy/DailyHotApi",
+            "stars": "360",
+            "forks": "365",
+            "language": "Vue",
+            "stars_today": "12 stars this week"
+        },
+        {
+            "zh_des": "⏰协作跟踪CCF推荐的会议截止日期(网站，PYTHON CLI，微信小程序)/如果你觉得有用，请启动这个项目，谢谢~",
+            "url": "https://github.com/ccfddl/ccf-deadlines",
+            "name": "ccfddl /ccf-deadlines",
+            "description": "⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~",
+            "stars": "5,808",
+            "forks": "410",
+            "language": "Vue",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "设计良好的开源CRM",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "Well designed, open source CRM",
+            "stars": "275",
+            "forks": "141",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "一个基于VUE3+TS开发的单一应用程序组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni",
+            "name": "Moonofweisheng /wot-design-uni",
+            "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "stars": "861",
+            "forks": "138",
+            "language": "Vue",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "🛠️是启动VTE支持的VUE项目的推荐方式",
+            "url": "https://github.com/vuejs/create-vue",
+            "name": "vuejs /create-vue",
+            "description": "🛠️ The recommended way to start a Vite-powered Vue project",
+            "stars": "3,676",
+            "forks": "422",
+            "language": "Vue",
+            "stars_today": "16 stars this week"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "24,187",
+            "forks": "6,581",
+            "language": "Vue",
+            "stars_today": "100 stars this week"
+        }
+    ]
+}
