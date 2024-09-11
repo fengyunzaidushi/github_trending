@@ -41130,3 +41130,157 @@
         }
     ]
 }
+{
+    "09月11日": [
+        {
+            "zh_des": "⚡️ HivisionIDPhotos: a lightweight and efficient AI ID photos tools.一个轻量级的AI证明制作算法。",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "8,620",
+            "forks": "787",
+            "language": "Python",
+            "stars_today": "5,556 stars this week"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "11,236",
+            "forks": "798",
+            "language": "Python",
+            "stars_today": "1,761 stars this week"
+        },
+        {
+            "zh_des": "Deepfakes全民软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,248",
+            "forks": "13,118",
+            "language": "Python",
+            "stars_today": "882 stars this week"
+        },
+        {
+            "zh_des": "Composio通过函数调用为您的AI代理和LLM配备100多个高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "7,661",
+            "forks": "2,342",
+            "language": "Python",
+            "stars_today": "882 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM 3 - 4 B：超越GPT-3.5-Turbo的边缘LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,394",
+            "forks": "412",
+            "language": "Python",
+            "stars_today": "1,253 stars this week"
+        },
+        {
+            "zh_des": "Python - 100天从新人到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "154,636",
+            "forks": "51,961",
+            "language": "Python",
+            "stars_today": "292 stars this week"
+        },
+        {
+            "zh_des": "毫不妥协的Python代码格式器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "38,547",
+            "forks": "2,431",
+            "language": "Python",
+            "stars_today": "285 stars this week"
+        },
+        {
+            "zh_des": "自动渗透测试框架-开源漏洞扫描器-漏洞管理",
+            "url": "https://github.com/OWASP/Nettacker",
+            "name": "OWASP /Nettacker",
+            "description": "Automated Penetration Testing Framework - Open-Source Vulnerability Scanner - Vulnerability Management",
+            "stars": "3,314",
+            "forks": "741",
+            "language": "Python",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "您的AI应用程序的内存层",
+            "url": "https://github.com/mem0ai/mem0",
+            "name": "mem0ai /mem0",
+            "description": "The Memory layer for your AI apps",
+            "stars": "21,518",
+            "forks": "1,959",
+            "language": "Python",
+            "stars_today": "870 stars this week"
+        },
+        {
+            "zh_des": "免费开源企业资源规划（RP）",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,061",
+            "forks": "7,038",
+            "language": "Python",
+            "stars_today": "508 stars this week"
+        },
+        {
+            "zh_des": "最佳DDOS攻击脚本Python 3，（网络/ DDos）攻击，包含56种方法",
+            "url": "https://github.com/MatrixTM/MHDDoS",
+            "name": "MatrixTM /MHDDoS",
+            "description": "Best DDoS Attack Script Python3, (Cyber / DDos) Attack With 56 Methods",
+            "stars": "12,556",
+            "forks": "2,615",
+            "language": "Python",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "正在进行的研究大规模训练Transformer模型",
+            "url": "https://github.com/NVIDIA/Megatron-LM",
+            "name": "NVIDIA /Megatron-LM",
+            "description": "Ongoing research training transformer models at scale",
+            "stars": "9,905",
+            "forks": "2,241",
+            "language": "Python",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，全部使用Python。TransStar支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "32,059",
+            "forks": "2,394",
+            "language": "Python",
+            "stars_today": "179 stars this week"
+        },
+        {
+            "zh_des": "从命令行访问大型语言模型",
+            "url": "https://github.com/simonw/llm",
+            "name": "simonw /llm",
+            "description": "Access large language models from the command-line",
+            "stars": "3,993",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "109 stars this week"
+        },
+        {
+            "zh_des": "用于单代理强化学习环境的API标准，具有流行的参考环境和相关实用程序（原名Gym）",
+            "url": "https://github.com/Farama-Foundation/Gymnasium",
+            "name": "Farama-Foundation /Gymnasium",
+            "description": "An API standard for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+            "stars": "6,739",
+            "forks": "754",
+            "language": "Python",
+            "stars_today": "78 stars this week"
+        }
+    ]
+}
