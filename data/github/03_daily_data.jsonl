@@ -41004,3 +41004,117 @@
         }
     ]
 }
+{
+    "09月12日": [
+        {
+            "zh_des": "用于LLM的高吞吐量和内存效率的推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,437",
+            "forks": "3,874",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "Open edX MPS & Studio为世界各地的教育网站提供支持！",
+            "url": "https://github.com/openedx/edx-platform",
+            "name": "openedx /edx-platform",
+            "description": "The Open edX LMS & Studio, powering education sites around the world!",
+            "stars": "7,301",
+            "forks": "3,839",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "LangFlow是一款针对RAG和多代理AI应用程序的低代码应用程序构建器。它基于Python，并且与任何模型、API或数据库无关。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "27,855",
+            "forks": "3,629",
+            "language": "Python",
+            "stars_today": "379 stars today"
+        },
+        {
+            "zh_des": "“用于实时辐射场渲染的3D高斯飞溅”的原始参考实现",
+            "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+            "name": "graphdeco-inria /gaussian-splatting",
+            "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+            "stars": "13,569",
+            "forks": "1,745",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "抓取网络的愚蠢下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "50,131",
+            "forks": "9,410",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "MiniCPM 3 - 4 B：超越GPT-3.5-Turbo的边缘LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,565",
+            "forks": "419",
+            "language": "Python",
+            "stars_today": "618 stars today"
+        },
+        {
+            "zh_des": "Apache AirFlow -一个以编程方式创作、安排和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "36,241",
+            "forks": "14,078",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "收件箱_部署收件箱",
+            "url": "https://github.com/run-llama/llama_deploy",
+            "name": "run-llama /llama_deploy",
+            "description": "🦙 llama_deploy 🤖",
+            "stars": "1,677",
+            "forks": "170",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "适合每个人、无处不在的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "30,009",
+            "forks": "2,795",
+            "language": "Python",
+            "stars_today": "288 stars today"
+        },
+        {
+            "zh_des": "一个广泛的节点套件，使ComfyUI能够使用前沿算法（3DGS、NeRF等）处理3D输入（网格和紫外纹理等）",
+            "url": "https://github.com/MrForExample/ComfyUI-3D-Pack",
+            "name": "MrForExample /ComfyUI-3D-Pack",
+            "description": "An extensive node suite that enables ComfyUI to process 3D inputs (Mesh & UV Texture, etc) using cutting edge algorithms (3DGS, NeRF, etc.)",
+            "stars": "2,134",
+            "forks": "208",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "Datadog Agent的核心集成",
+            "url": "https://github.com/DataDog/integrations-core",
+            "name": "DataDog /integrations-core",
+            "description": "Core integrations of the Datadog Agent",
+            "stars": "913",
+            "forks": "1,385",
+            "language": "Python",
+            "stars_today": "1 star today"
+        }
+    ]
+}
