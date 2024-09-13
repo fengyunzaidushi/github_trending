@@ -46550,3 +46550,187 @@
         }
     ]
 }
+{
+    "09月13日": [
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "12,747",
+            "forks": "850",
+            "language": "Python",
+            "stars_today": "4,627 stars this month"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,557",
+            "forks": "247",
+            "language": "Python",
+            "stars_today": "2,175 stars this month"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "58,106",
+            "forks": "6,706",
+            "language": "Python",
+            "stars_today": "4,903 stars this month"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,294",
+            "forks": "547",
+            "language": "Python",
+            "stars_today": "1,661 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,165",
+            "forks": "7,052",
+            "language": "Python",
+            "stars_today": "2,171 stars this month"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,816",
+            "forks": "6,696",
+            "language": "Python",
+            "stars_today": "1,869 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeNewsQuick List安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个基于GRadio的平台，旨在简化开发、优化资源管理、加速推理和研究实验功能",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeNewsQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "7,332",
+            "forks": "710",
+            "language": "Python",
+            "stars_today": "1,507 stars this month"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "7,173",
+            "forks": "660",
+            "language": "Python",
+            "stars_today": "1,763 stars this month"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "50,450",
+            "forks": "5,302",
+            "language": "Python",
+            "stars_today": "4,637 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,409",
+            "forks": "13,129",
+            "language": "Python",
+            "stars_today": "1,360 stars this month"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "712",
+            "forks": "91",
+            "language": "Python",
+            "stars_today": "226 stars this month"
+        },
+        {
+            "zh_des": "高级深度时间序列模型库。",
+            "url": "https://github.com/thuml/Time-Series-Library",
+            "name": "thuml /Time-Series-Library",
+            "description": "A Library for Advanced Deep Time Series Models.",
+            "stars": "6,305",
+            "forks": "1,001",
+            "language": "Python",
+            "stars_today": "747 stars this month"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "7,797",
+            "forks": "2,408",
+            "language": "Python",
+            "stars_today": "3,016 stars this month"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "67,458",
+            "forks": "7,960",
+            "language": "Python",
+            "stars_today": "1,655 stars this month"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "48,949",
+            "forks": "5,282",
+            "language": "Python",
+            "stars_today": "5,290 stars this month"
+        },
+        {
+            "zh_des": "🔍AI编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,683",
+            "forks": "1,829",
+            "language": "Python",
+            "stars_today": "1,609 stars this month"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "30,086",
+            "forks": "2,799",
+            "language": "Python",
+            "stars_today": "3,246 stars this month"
+        },
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,722",
+            "forks": "428",
+            "language": "Python",
+            "stars_today": "2,147 stars this month"
+        }
+    ]
+}

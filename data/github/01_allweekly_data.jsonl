@@ -43048,3 +43048,167 @@
         }
     ]
 }
+{
+    "09月13日": [
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "7,732",
+            "forks": "300",
+            "language": "TypeScript",
+            "stars_today": "3,805 stars this week"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "22,215",
+            "forks": "2,254",
+            "language": "JavaScript",
+            "stars_today": "2,518 stars this week"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "9,180",
+            "forks": "843",
+            "language": "Python",
+            "stars_today": "2,595 stars this week"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "1,804",
+            "forks": "160",
+            "language": "Shell",
+            "stars_today": "1,075 stars this week"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "23,697",
+            "forks": "6,838",
+            "language": "C",
+            "stars_today": "2,312 stars this week"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "78,370",
+            "forks": "36,158",
+            "language": "C++",
+            "stars_today": "638 stars this week"
+        },
+        {
+            "zh_des": "DiceDB是一个内存中的实时数据库，具有基于SQL的反应性。它为在现代硬件上构建和扩展真正的实时应用程序而进行了超级优化，同时也是Redis的替代产品。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
+            "stars": "4,015",
+            "forks": "499",
+            "language": "Go",
+            "stars_today": "668 stars this week"
+        },
+        {
+            "zh_des": "Windows系统实用程序可最大限度地提高工作效率",
+            "url": "https://github.com/microsoft/PowerToys",
+            "name": "microsoft /PowerToys",
+            "description": "Windows system utilities to maximize productivity",
+            "stars": "109,497",
+            "forks": "6,452",
+            "language": "C#",
+            "stars_today": "916 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "20,798",
+            "forks": "2,495",
+            "language": "Vue",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描.",
+            "url": "https://github.com/shadow1ng/fscan",
+            "name": "shadow1ng /fscan",
+            "description": "一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。",
+            "stars": "10,145",
+            "forks": "1,552",
+            "language": "Go",
+            "stars_today": "341 stars this week"
+        },
+        {
+            "zh_des": "AI代码编辑器",
+            "url": "https://github.com/getcursor/cursor",
+            "name": "getcursor /cursor",
+            "description": "The AI Code Editor",
+            "stars": "23,132",
+            "forks": "1,468",
+            "language": "",
+            "stars_today": "570 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "44,686",
+            "forks": "2,170",
+            "language": "TypeScript",
+            "stars_today": "1,113 stars this week"
+        },
+        {
+            "zh_des": "ArduPlane、ArduCopter、ArduRover、ArduSub源代码",
+            "url": "https://github.com/ArduPilot/ardupilot",
+            "name": "ArduPilot /ardupilot",
+            "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+            "stars": "10,692",
+            "forks": "17,161",
+            "language": "C++",
+            "stars_today": "221 stars this week"
+        },
+        {
+            "zh_des": "Flipper Zero固件源代码",
+            "url": "https://github.com/flipperdevices/flipperzero-firmware",
+            "name": "flipperdevices /flipperzero-firmware",
+            "description": "Flipper Zero firmware source code",
+            "stars": "12,394",
+            "forks": "2,667",
+            "language": "C",
+            "stars_today": "184 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,722",
+            "forks": "428",
+            "language": "Python",
+            "stars_today": "1,893 stars this week"
+        },
+        {
+            "zh_des": "Material UI：全面的Reaction组件库，实现了Google的Material Design。永远自由。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+            "stars": "93,277",
+            "forks": "32,121",
+            "language": "TypeScript",
+            "stars_today": "132 stars this week"
+        }
+    ]
+}
