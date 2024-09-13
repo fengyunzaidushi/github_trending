@@ -41876,3 +41876,167 @@
         }
     ]
 }
+{
+    "09月13日": [
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "7,524",
+            "forks": "291",
+            "language": "TypeScript",
+            "stars_today": "1,066 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "8,635",
+            "forks": "672",
+            "language": "Python",
+            "stars_today": "602 stars today"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "10,398",
+            "forks": "837",
+            "language": "TypeScript",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,690",
+            "forks": "425",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "45,219",
+            "forks": "6,345",
+            "language": "TypeScript",
+            "stars_today": "248 stars today"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "23,632",
+            "forks": "6,836",
+            "language": "C",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "Flipper Zero固件源代码",
+            "url": "https://github.com/flipperdevices/flipperzero-firmware",
+            "name": "flipperdevices /flipperzero-firmware",
+            "description": "Flipper Zero firmware source code",
+            "stars": "12,363",
+            "forks": "2,667",
+            "language": "C",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,581",
+            "forks": "3,893",
+            "language": "Python",
+            "stars_today": "169 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "34,313",
+            "forks": "10,056",
+            "language": "C++",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "28,119",
+            "forks": "3,643",
+            "language": "Python",
+            "stars_today": "228 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "78,851",
+            "forks": "7,897",
+            "language": "Shell",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "播放旧世界布鲁斯以建立新世界希望的网络浏览器",
+            "url": "https://github.com/versotile-org/verso",
+            "name": "versotile-org /verso",
+            "description": "A web browser that plays old world blues to build new world hope",
+            "stars": "4,386",
+            "forks": "155",
+            "language": "Rust",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "64,960",
+            "forks": "15,494",
+            "language": "JavaScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "使用Bridgecrew的Checkov防止云配置错误，并在基础设施构建期间发现代码、容器镜像和开源包等漏洞。",
+            "url": "https://github.com/bridgecrewio/checkov",
+            "name": "bridgecrewio /checkov",
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "stars": "6,955",
+            "forks": "1,099",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "使用自然语言理念创建定制软件(通过LLM支持的多代理协作)",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "name": "OpenBMB /ChatDev",
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+            "stars": "25,135",
+            "forks": "3,141",
+            "language": "Shell",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🚀-自动构建和发布iOS和安卓应用程序的最简单方式",
+            "url": "https://github.com/fastlane/fastlane",
+            "name": "fastlane /fastlane",
+            "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+            "stars": "39,259",
+            "forks": "5,664",
+            "language": "Ruby",
+            "stars_today": "36 stars today"
+        }
+    ]
+}
