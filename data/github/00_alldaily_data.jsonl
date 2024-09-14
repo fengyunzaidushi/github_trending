@@ -42164,3 +42164,127 @@
         }
     ]
 }
+{
+    "09月14日": [
+        {
+            "zh_des": "全新的TTC解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "9,663",
+            "forks": "759",
+            "language": "Python",
+            "stars_today": "637 stars today"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "7,938",
+            "forks": "304",
+            "language": "TypeScript",
+            "stars_today": "497 stars today"
+        },
+        {
+            "zh_des": "使用ePFA捕获没有CA证书的SSL/SSL明文。支持amd 64/arm 64的Linux/Android内核。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "10,496",
+            "forks": "1,112",
+            "language": "C",
+            "stars_today": "408 stars today"
+        },
+        {
+            "zh_des": "《Hello计算机》：动画图画，关键运行的数据结构与计算机教程。支持 Python，Java，C++，C，C#，JS，Go，Swift，Rust，Ruby，Kotlin，TS，Dart 代码。简体版和正文版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "95,191",
+            "forks": "12,080",
+            "language": "Java",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "快速、不固执己见、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "65,049",
+            "forks": "15,518",
+            "language": "JavaScript",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "为开发人员提供方便的在线工具集合，具有出色的用户体验。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "20,885",
+            "forks": "2,498",
+            "language": "Vue",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "协议缓冲区-谷歌的数据交换格式",
+            "url": "https://github.com/protocolbuffers/protobuf",
+            "name": "protocolbuffers /protobuf",
+            "description": "Protocol Buffers - Google's data interchange format",
+            "stars": "65,185",
+            "forks": "15,441",
+            "language": "C++",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于LLM的高吞吐量和内存效率的推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,685",
+            "forks": "3,910",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "在YouTube上发现最新的机器学习/人工智能课程。",
+            "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+            "name": "dair-ai /ML-YouTube-Courses",
+            "description": "📺 Discover the latest machine learning / AI courses on YouTube.",
+            "stars": "15,470",
+            "forks": "1,831",
+            "language": "",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合BOX的bash脚本，用于管理多个活动的node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "78,940",
+            "forks": "7,902",
+            "language": "Shell",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "draw.io官方电子版",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "49,735",
+            "forks": "4,952",
+            "language": "JavaScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "一款独一无二的简历生成器，牢记您的隐私。完全安全、可定制、便携、开源且永远免费。今天就尝试一下！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "22,620",
+            "forks": "2,381",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        }
+    ]
+}

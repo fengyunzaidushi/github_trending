@@ -41640,3 +41640,137 @@
         }
     ]
 }
+{
+    "09月14日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "9,664",
+            "forks": "759",
+            "language": "Python",
+            "stars_today": "637 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,685",
+            "forks": "3,910",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "3,884",
+            "forks": "331",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "32,147",
+            "forks": "2,403",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "2,711",
+            "forks": "224",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "11,185",
+            "forks": "835",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "新增-YOLOv8🚀in PyTorch>ONNX>OpenVINO>CoreML>TFlite",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+            "stars": "28,367",
+            "forks": "5,638",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "用于回答带有引文的科学文献问题的高精度RAG",
+            "url": "https://github.com/Future-House/paper-qa",
+            "name": "Future-House /paper-qa",
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "stars": "4,958",
+            "forks": "473",
+            "language": "Python",
+            "stars_today": "276 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "12,490",
+            "forks": "635",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Open edX LMS&Studio，为世界各地的教育网站提供动力！",
+            "url": "https://github.com/openedx/edx-platform",
+            "name": "openedx /edx-platform",
+            "description": "The Open edX LMS & Studio, powering education sites around the world!",
+            "stars": "7,327",
+            "forks": "3,842",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "大型视觉语言模型(LVLM)的开源评估工具包，支持约100个VLM，40多个基准",
+            "url": "https://github.com/open-compass/VLMEvalKit",
+            "name": "open-compass /VLMEvalKit",
+            "description": "Open-source evaluation toolkit of large vision-language models (LVLMs), support ~100 VLMs, 40+ benchmarks",
+            "stars": "1,014",
+            "forks": "142",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "为gpt/glm等llm大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持python和C++等项目剖析&自译解功能，pdf/LaTeX论文翻译&总结功能，支持并行问询多种llm模型，支持chat gl3等本地模型.接入通义千问、DeepsekCoder、讯飞星火，文心一言、Lama2、rwkv、claude2、Moss等。",
+            "url": "https://github.com/binary-husky/gpt_academic",
+            "name": "binary-husky /gpt_academic",
+            "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+            "stars": "63,946",
+            "forks": "7,905",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "MLX框架中的示例",
+            "url": "https://github.com/ml-explore/mlx-examples",
+            "name": "ml-explore /mlx-examples",
+            "description": "Examples in the MLX framework",
+            "stars": "5,829",
+            "forks": "827",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
