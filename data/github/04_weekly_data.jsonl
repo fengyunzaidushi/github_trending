@@ -42492,3 +42492,207 @@
         }
     ]
 }
+{
+    "09月15日": [
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,760",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "1,470 stars this week"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "9,359",
+            "forks": "861",
+            "language": "Python",
+            "stars_today": "1,974 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "10,285",
+            "forks": "806",
+            "language": "Python",
+            "stars_today": "2,528 stars this week"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,439",
+            "forks": "13,133",
+            "language": "Python",
+            "stars_today": "654 stars this week"
+        },
+        {
+            "zh_des": "主西格玛规则存储库",
+            "url": "https://github.com/SigmaHQ/sigma",
+            "name": "SigmaHQ /sigma",
+            "description": "Main Sigma Rule Repository",
+            "stars": "8,101",
+            "forks": "2,152",
+            "language": "Python",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "28,376",
+            "forks": "3,653",
+            "language": "Python",
+            "stars_today": "1,391 stars this week"
+        },
+        {
+            "zh_des": "抓取网页的⏬哑巴下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "50,172",
+            "forks": "9,413",
+            "language": "Python",
+            "stars_today": "297 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "59,968",
+            "forks": "13,216",
+            "language": "Python",
+            "stars_today": "142 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,739",
+            "forks": "3,913",
+            "language": "Python",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "38,584",
+            "forks": "2,432",
+            "language": "Python",
+            "stars_today": "191 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,339",
+            "forks": "798",
+            "language": "Python",
+            "stars_today": "318 stars this week"
+        },
+        {
+            "zh_des": "一个面向nerf的协作友好的工作室",
+            "url": "https://github.com/nerfstudio-project/nerfstudio",
+            "name": "nerfstudio-project /nerfstudio",
+            "description": "A collaboration friendly studio for NeRFs",
+            "stars": "9,262",
+            "forks": "1,245",
+            "language": "Python",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "SCRKIT-学习：在Python中进行机器学习",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "name": "scikit-learn /scikit-learn",
+            "description": "scikit-learn: machine learning in Python",
+            "stars": "59,433",
+            "forks": "25,257",
+            "language": "Python",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "使用Bridgecrew的Checkov防止云配置错误，并在基础设施构建期间发现代码、容器镜像和开源包等漏洞。",
+            "url": "https://github.com/bridgecrewio/checkov",
+            "name": "bridgecrewio /checkov",
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "stars": "6,975",
+            "forks": "1,099",
+            "language": "Python",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "32,161",
+            "forks": "2,404",
+            "language": "Python",
+            "stars_today": "190 stars this week"
+        },
+        {
+            "zh_des": "🦙骆驼_部署🤖",
+            "url": "https://github.com/run-llama/llama_deploy",
+            "name": "run-llama /llama_deploy",
+            "description": "🦙 llama_deploy 🤖",
+            "stars": "1,698",
+            "forks": "173",
+            "language": "Python",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "CUDA加速的高斯溅射光栅化",
+            "url": "https://github.com/nerfstudio-project/gsplat",
+            "name": "nerfstudio-project /gsplat",
+            "description": "CUDA accelerated rasterization of gaussian splatting",
+            "stars": "1,806",
+            "forks": "221",
+            "language": "Python",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "AlphaFold3在Pytorch中的实现",
+            "url": "https://github.com/lucidrains/alphafold3-pytorch",
+            "name": "lucidrains /alphafold3-pytorch",
+            "description": "Implementation of Alphafold 3 in Pytorch",
+            "stars": "893",
+            "forks": "98",
+            "language": "Python",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "用Python语言进行网络分析",
+            "url": "https://github.com/networkx/networkx",
+            "name": "networkx /networkx",
+            "description": "Network Analysis in Python",
+            "stars": "14,735",
+            "forks": "3,207",
+            "language": "Python",
+            "stars_today": "53 stars this week"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "36,301",
+            "forks": "14,092",
+            "language": "Python",
+            "stars_today": "160 stars this week"
+        }
+    ]
+}

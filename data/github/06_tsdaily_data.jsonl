@@ -48038,3 +48038,197 @@
         }
     ]
 }
+{
+    "09月15日": [
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "45,518",
+            "forks": "6,393",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "React Flow|Svelte Flow-功能强大的开源库，用于使用React(https://reactflow.dev)或Svelte(https://svelteflow.dev).))构建基于节点的UI开箱即用，可无限定制。",
+            "url": "https://github.com/xyflow/xyflow",
+            "name": "xyflow /xyflow",
+            "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+            "stars": "24,364",
+            "forks": "1,578",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "Mui X：使用越来越多的高级Reaction组件构建复杂且数据丰富的应用程序，如数据网格、日期和时间选取器、图表等！",
+            "url": "https://github.com/mui/mui-x",
+            "name": "mui /mui-x",
+            "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+            "stars": "4,061",
+            "forks": "1,253",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "将任何url转换为带有简单前缀https://r.jina.ai/的llm友好输入",
+            "url": "https://github.com/jina-ai/reader",
+            "name": "jina-ai /reader",
+            "description": "Convert any URL to an LLM-friendly input with a simple prefixhttps://r.jina.ai/",
+            "stars": "6,357",
+            "forks": "490",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Json Hero是一个开源的漂亮的JSON浏览器，可以让你快速浏览、搜索和导航你的JSON文件。🚀.由Trigger.dev团队用💜构建。",
+            "url": "https://github.com/triggerdotdev/jsonhero-web",
+            "name": "triggerdotdev /jsonhero-web",
+            "description": "JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. Built with 💜 by the Trigger.dev team.",
+            "stars": "9,317",
+            "forks": "505",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "🧑‍🚀是开发人员更好的身份基础设施，也是Auth0的开源替代方案。",
+            "url": "https://github.com/logto-io/logto",
+            "name": "logto-io /logto",
+            "description": "🧑‍🚀 The better identity infrastructure for developers and the open-source alternative to Auth0.",
+            "stars": "8,339",
+            "forks": "406",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Quill是为兼容性和可扩展性而构建的现代所见即所得编辑器",
+            "url": "https://github.com/slab/quill",
+            "name": "slab /quill",
+            "description": "Quill is a modern WYSIWYG editor built for compatibility and extensibility",
+            "stars": "43,145",
+            "forks": "3,351",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "一个独一无二的简历建造者，它会把你的隐私牢记在心。完全安全，可定制，可移植，开源，永远免费。今天就试试吧！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "22,676",
+            "forks": "2,383",
+            "language": "TypeScript",
+            "stars_today": "240 stars today"
+        },
+        {
+            "zh_des": "每一位模特的AI聊天。",
+            "url": "https://github.com/mckaywrigley/chatbot-ui",
+            "name": "mckaywrigley /chatbot-ui",
+            "description": "AI chat for every model.",
+            "stars": "28,314",
+            "forks": "7,863",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "用于在Web上创建白板和画布体验的SDK。",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "SDK for creating whiteboards and canvas experiences on the web.",
+            "stars": "35,197",
+            "forks": "2,120",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "30,861",
+            "forks": "905",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "基于REST/GraphQL API的单页应用程序前端框架，使用TypeScrip、Reaction和Material Design",
+            "url": "https://github.com/marmelab/react-admin",
+            "name": "marmelab /react-admin",
+            "description": "A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design",
+            "stars": "24,774",
+            "forks": "5,219",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "测试您的提示、代理和破烂。红色分组、五角大楼测试和漏洞扫描LLM。比较GPT、Claude、Gemini、Llama等的性能。使用命令行和CI/CD集成的简单声明性配置。",
+            "url": "https://github.com/promptfoo/promptfoo",
+            "name": "promptfoo /promptfoo",
+            "description": "Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+            "stars": "4,166",
+            "forks": "304",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "7,219",
+            "forks": "574",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的JAVASCRIPT/TYPESCRIPT，完全可定制，开发者优先。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+            "stars": "62,771",
+            "forks": "7,883",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "6,118",
+            "forks": "907",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "63,883",
+            "forks": "11,958",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "HADHAT是一个用于编译、部署、测试和调试您的Etherum软件的开发环境。",
+            "url": "https://github.com/NomicFoundation/hardhat",
+            "name": "NomicFoundation /hardhat",
+            "description": "Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.",
+            "stars": "7,173",
+            "forks": "1,376",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "从JSON、架构和GraphQL生成类型和转换器",
+            "url": "https://github.com/glideapps/quicktype",
+            "name": "glideapps /quicktype",
+            "description": "Generate types and converters from JSON, Schema, and GraphQL",
+            "stars": "12,134",
+            "forks": "1,057",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
