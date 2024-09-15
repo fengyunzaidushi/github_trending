@@ -42142,3 +42142,157 @@
         }
     ]
 }
+{
+    "09月15日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "10,556",
+            "forks": "827",
+            "language": "Python",
+            "stars_today": "540 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,438",
+            "forks": "805",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "3,482",
+            "forks": "815",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "154,826",
+            "forks": "52,002",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "18,196",
+            "forks": "1,699",
+            "language": "Python",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "82,523",
+            "forks": "6,428",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "自托管书签管理器设计为最小、快速且易于使用Docker设置。",
+            "url": "https://github.com/sissbruecker/linkding",
+            "name": "sissbruecker /linkding",
+            "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+            "stars": "6,041",
+            "forks": "287",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "29,769",
+            "forks": "2,956",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "17,166",
+            "forks": "1,744",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "用于回答带有引文的科学文献问题的高精度RAG",
+            "url": "https://github.com/Future-House/paper-qa",
+            "name": "Future-House /paper-qa",
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "stars": "5,244",
+            "forks": "500",
+            "language": "Python",
+            "stars_today": "223 stars today"
+        },
+        {
+            "zh_des": "基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入，可选择GPT3.5/GPT-40/GPT-01/克劳德/文心一言/讯飞星火/通义千问/双子座/GLm-4/克劳德/基米/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+            "name": "zhayujie /chatgpt-on-wechat",
+            "description": "基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。",
+            "stars": "29,890",
+            "forks": "7,880",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "12,541",
+            "forks": "639",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "218,696",
+            "forks": "24,796",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "269,498",
+            "forks": "45,539",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "5,920",
+            "forks": "644",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}

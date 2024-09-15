@@ -42636,3 +42636,167 @@
         }
     ]
 }
+{
+    "09月15日": [
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "11,464",
+            "forks": "1,213",
+            "language": "C",
+            "stars_today": "650 stars today"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "10,556",
+            "forks": "827",
+            "language": "Python",
+            "stars_today": "540 stars today"
+        },
+        {
+            "zh_des": "“你好，算法”：动画图解、一键运行的数据结构与算法教程。支持、JAVA、C++、C、C#、JS、GO、SWIFT、铁锈、红宝石、科特林、TS、DART代码。简体版和繁体版同步更新，英文版正在进行中",
+            "url": "https://github.com/krahets/hello-algo",
+            "name": "krahets /hello-algo",
+            "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing",
+            "stars": "95,344",
+            "forks": "12,095",
+            "language": "Java",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,438",
+            "forks": "805",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "3,482",
+            "forks": "815",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "阿帕奇IoTDB",
+            "url": "https://github.com/apache/iotdb",
+            "name": "apache /iotdb",
+            "description": "Apache IoTDB",
+            "stars": "5,416",
+            "forks": "994",
+            "language": "Java",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "在铁锈中编写操作系统",
+            "url": "https://github.com/phil-opp/blog_os",
+            "name": "phil-opp /blog_os",
+            "description": "Writing an OS in Rust",
+            "stars": "15,119",
+            "forks": "1,045",
+            "language": "HTML",
+            "stars_today": "420 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "154,826",
+            "forks": "52,002",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "18,196",
+            "forks": "1,699",
+            "language": "Python",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "2021年年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+            "url": "https://github.com/0voice/expert_readed_books",
+            "name": "0voice /expert_readed_books",
+            "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+            "stars": "7,110",
+            "forks": "2,364",
+            "language": "",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "299,942",
+            "forks": "28,139",
+            "language": "Markdown",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "82,523",
+            "forks": "6,428",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "React Flow|Svelte Flow-功能强大的开源库，用于使用React(https://reactflow.dev)或Svelte(https://svelteflow.dev).))构建基于节点的UI开箱即用，可无限定制。",
+            "url": "https://github.com/xyflow/xyflow",
+            "name": "xyflow /xyflow",
+            "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+            "stars": "24,468",
+            "forks": "1,579",
+            "language": "TypeScript",
+            "stars_today": "232 stars today"
+        },
+        {
+            "zh_des": "自托管书签管理器设计为最小、快速且易于使用Docker设置。",
+            "url": "https://github.com/sissbruecker/linkding",
+            "name": "sissbruecker /linkding",
+            "description": "Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.",
+            "stars": "6,040",
+            "forks": "287",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "29,769",
+            "forks": "2,956",
+            "language": "Python",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "17,166",
+            "forks": "1,744",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        }
+    ]
+}
