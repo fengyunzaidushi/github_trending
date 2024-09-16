@@ -6926,3 +6926,197 @@
         }
     ]
 }
+{
+    "09月16日": [
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "87,571",
+            "forks": "30,431",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "20,989",
+            "forks": "2,509",
+            "language": "Vue",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "一个漂亮的基于VUE3的组件库",
+            "url": "https://github.com/lewkamtao/lew-ui",
+            "name": "lewkamtao /lew-ui",
+            "description": "A beautiful component library based on vue3",
+            "stars": "1,356",
+            "forks": "78",
+            "language": "Vue",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "5,423",
+            "forks": "869",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "24,239",
+            "forks": "6,599",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "开源CRM的未来",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "The future of open source CRM",
+            "stars": "288",
+            "forks": "145",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "基于VUE3、TypeScrip、Element-Plus、VITE的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "2,675",
+            "forks": "646",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "2,514",
+            "forks": "259",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,122",
+            "forks": "772",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "MODINITH MONOREPO包含了支持MODINTH的所有代码！",
+            "url": "https://github.com/modrinth/code",
+            "name": "modrinth /code",
+            "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+            "stars": "875",
+            "forks": "154",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Tchiyomi应用的官方网站。",
+            "url": "https://github.com/tachiyomiorg/website",
+            "name": "tachiyomiorg /website",
+            "description": "Official website for the Tachiyomi app.",
+            "stars": "723",
+            "forks": "1,471",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "VUE3+PINIA仿抖音，VUE在移动端的最佳实践.模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "8,983",
+            "forks": "2,444",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商城免费开源多语言商城系统、Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、应用程序，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "5,185",
+            "forks": "1,360",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "🎉VUE ADMIN，VUE3 ADMIN，VUE3.0 ADMIN，VUE后台管理，VUE-ADMIN，VUE 3.0-ADMIN，ADMIN，VUE-ADMIN，VUE-ELEMENT-ADMIN，ANT-DESIGN，vAB ADMIN PRO，vAB ADMIN PLUS，VUE ADMIN PLUS，VUE ADMIN PRO",
+            "url": "https://github.com/zxwk1998/vue-admin-better",
+            "name": "zxwk1998 /vue-admin-better",
+            "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+            "stars": "16,739",
+            "forks": "3,677",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "京东风格的移动端Vue组件库，支持多端小程序(用于移动网络的Vue.js用户界面工具包)",
+            "url": "https://github.com/jdf2e/nutui",
+            "name": "jdf2e /nutui",
+            "description": "京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+            "stars": "6,092",
+            "forks": "827",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值.🎞",
+            "url": "https://github.com/Hunlongyu/ZY-Player",
+            "name": "Hunlongyu /ZY-Player",
+            "description": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+            "stars": "14,076",
+            "forks": "2,250",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一个灵活的Mastodon Web客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,371",
+            "forks": "555",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "一款完善的安全评估工具，支持常见Web安全问题扫描和自定义概念验证|使用之前务必先阅读文档",
+            "url": "https://github.com/chaitin/xray",
+            "name": "chaitin /xray",
+            "description": "一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",
+            "stars": "10,247",
+            "forks": "1,813",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "云Flare免费临时域名电子邮件免费收发临时域名邮箱支持附件IMAP SMTP Telegram Bot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "2,017",
+            "forks": "732",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        }
+    ]
+}

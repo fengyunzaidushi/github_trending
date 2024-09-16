@@ -43918,3 +43918,157 @@
         }
     ]
 }
+{
+    "09月16日": [
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "78,374",
+            "forks": "4,099",
+            "language": "JavaScript",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "17,912",
+            "forks": "4,056",
+            "language": "JavaScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "5,973",
+            "forks": "740",
+            "language": "JavaScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🛍️NodeJS电子商务平台",
+            "url": "https://github.com/evershopcommerce/evershop",
+            "name": "evershopcommerce /evershop",
+            "description": "🛍️ NodeJS E-commerce Platform",
+            "stars": "4,139",
+            "forks": "1,149",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "9,326",
+            "forks": "795",
+            "language": "JavaScript",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "✯✯🔕🔕一个可直连访问的电视/广播图标库与相关工具项目永久免费直连访问完整开源不断完善的台标支持ipv4/ipv6双栈访问",
+            "url": "https://github.com/fanmingming/live",
+            "name": "fanmingming /live",
+            "description": "✯ 一个可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕",
+            "stars": "20,969",
+            "forks": "3,095",
+            "language": "JavaScript",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "4,445",
+            "forks": "5,074",
+            "language": "JavaScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "84,390",
+            "forks": "2,429",
+            "language": "JavaScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "语料库的抽象和推理",
+            "url": "https://github.com/fchollet/ARC-AGI",
+            "name": "fchollet /ARC-AGI",
+            "description": "The Abstraction and Reasoning Corpus",
+            "stars": "3,314",
+            "forks": "548",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "5,741",
+            "forks": "1,772",
+            "language": "JavaScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "面向高级用户的LLM前端。",
+            "url": "https://github.com/SillyTavern/SillyTavern",
+            "name": "SillyTavern /SillyTavern",
+            "description": "LLM Frontend for Power Users.",
+            "stars": "7,497",
+            "forks": "2,156",
+            "language": "JavaScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "65,077",
+            "forks": "15,553",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "一个还算强大的WEB思维导图.相对强大的网络思维导图。",
+            "url": "https://github.com/wanglin2/mind-map",
+            "name": "wanglin2 /mind-map",
+            "description": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+            "stars": "5,871",
+            "forks": "833",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "支持多协议多用户的x射线面板",
+            "url": "https://github.com/vaxilu/x-ui",
+            "name": "vaxilu /x-ui",
+            "description": "支持多协议多用户的 xray 面板",
+            "stars": "16,149",
+            "forks": "7,290",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "轻量级全功能文字脚本/Java脚本WhatsApp Web API",
+            "url": "https://github.com/WhiskeySockets/Baileys",
+            "name": "WhiskeySockets /Baileys",
+            "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+            "stars": "3,652",
+            "forks": "1,241",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
