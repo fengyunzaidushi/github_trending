@@ -48764,3 +48764,147 @@
         }
     ]
 }
+{
+    "09月17日": [
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "4,863",
+            "forks": "428",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "401,434",
+            "forks": "37,114",
+            "language": "TypeScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "31,323",
+            "forks": "7,559",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。深受Vercel、Raycast和Pplexity等现代营销团队的喜爱。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.",
+            "stars": "17,661",
+            "forks": "1,844",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "带有服务器端排序、筛选和分页的Shadcn表。",
+            "url": "https://github.com/sadmann7/shadcn-table",
+            "name": "sadmann7 /shadcn-table",
+            "description": "Shadcn table with server-side sorting, filtering, and pagination.",
+            "stars": "2,468",
+            "forks": "220",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "为现代网络开发人员上传文件",
+            "url": "https://github.com/pingdotgg/uploadthing",
+            "name": "pingdotgg /uploadthing",
+            "description": "File uploads for modern web devs",
+            "stars": "3,994",
+            "forks": "294",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "InvokeAI是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的AI驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，通过CLI支持终端使用，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+            "stars": "22,837",
+            "forks": "2,366",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "30,950",
+            "forks": "910",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "现代最简约的JS精通组合",
+            "url": "https://github.com/adrianhajdin/portfolio",
+            "name": "adrianhajdin /portfolio",
+            "description": "Modern & Minimal JS Mastery Portfolio",
+            "stars": "2,137",
+            "forks": "425",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "291,517",
+            "forks": "38,577",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "18,154",
+            "forks": "1,656",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "🔒编制了2024年保护数字安全和隐私的300多条提示清单",
+            "url": "https://github.com/Lissy93/personal-security-checklist",
+            "name": "Lissy93 /personal-security-checklist",
+            "description": "🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024",
+            "stars": "16,760",
+            "forks": "1,161",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "TonKeeper Web是一个多平台、开源、非托管的Ton加密钱包，也是区块链Dapp的门户",
+            "url": "https://github.com/tonkeeper/tonkeeper-web",
+            "name": "tonkeeper /tonkeeper-web",
+            "description": "Tonkeeper Web is a multi-platform open-source non-custodial TON crypto wallet and gateway to blockchain dApps",
+            "stars": "189",
+            "forks": "76",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🤖用于Reaction(和Friends)的全类型安全路由器，具有内置缓存、一级搜索参数API、客户端缓存集成和同构渲染。",
+            "url": "https://github.com/TanStack/router",
+            "name": "TanStack /router",
+            "description": "🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.",
+            "stars": "7,790",
+            "forks": "571",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        }
+    ]
+}

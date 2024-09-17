@@ -43118,3 +43118,157 @@
         }
     ]
 }
+{
+    "09月17日": [
+        {
+            "zh_des": "全新的TTC解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "11,559",
+            "forks": "880",
+            "language": "Python",
+            "stars_today": "585 stars today"
+        },
+        {
+            "zh_des": "使用ePFA捕获没有CA证书的SSL/SSL明文。支持amd 64/arm 64的Linux/Android内核。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,200",
+            "forks": "1,265",
+            "language": "C",
+            "stars_today": "597 stars today"
+        },
+        {
+            "zh_des": "PuLID的官方代码：通过对比对齐定制Pure和Lightning ID",
+            "url": "https://github.com/ToTheBeginning/PuLID",
+            "name": "ToTheBeginning /PuLID",
+            "description": "Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment",
+            "stars": "1,565",
+            "forks": "98",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "GoodbyeDPP-深度数据包检测规避实用程序（适用于Windows）",
+            "url": "https://github.com/ValdikSS/GoodbyeDPI",
+            "name": "ValdikSS /GoodbyeDPI",
+            "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+            "stars": "23,109",
+            "forks": "1,678",
+            "language": "C",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "面向中小企业和企业的免费开源Laravel CRM解决方案，实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "9,330",
+            "forks": "579",
+            "language": "Blade",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "了解如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "269,761",
+            "forks": "45,562",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "为每个人设计的开源、跨平台2D/3D/多人游戏引擎。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "9,467",
+            "forks": "804",
+            "language": "JavaScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "用Rust编写操作系统",
+            "url": "https://github.com/phil-opp/blog_os",
+            "name": "phil-opp /blog_os",
+            "description": "Writing an OS in Rust",
+            "stars": "15,403",
+            "forks": "1,055",
+            "language": "HTML",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "Agent Zero人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "3,727",
+            "forks": "851",
+            "language": "Python",
+            "stars_today": "198 stars today"
+        },
+        {
+            "zh_des": "策划的基于项目的教程列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "197,356",
+            "forks": "25,726",
+            "language": "",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "🏡将本地控制和隐私放在首位的开源家庭自动化。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,320",
+            "forks": "29,865",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "🎓计算机科学免费自学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "169,128",
+            "forks": "21,388",
+            "language": "",
+            "stars_today": "319 stars today"
+        },
+        {
+            "zh_des": "立即将数据和人工智能算法转化为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,684",
+            "forks": "821",
+            "language": "Python",
+            "stars_today": "184 stars today"
+        },
+        {
+            "zh_des": "Python - 100天从新人到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "154,963",
+            "forks": "52,008",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "助手是您终端中的人工智能配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "18,468",
+            "forks": "1,711",
+            "language": "Python",
+            "stars_today": "188 stars today"
+        }
+    ]
+}

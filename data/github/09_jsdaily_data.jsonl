@@ -44266,3 +44266,187 @@
         }
     ]
 }
+{
+    "09月17日": [
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "9,467",
+            "forks": "804",
+            "language": "JavaScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "面向高级用户的LLM前端。",
+            "url": "https://github.com/SillyTavern/SillyTavern",
+            "name": "SillyTavern /SillyTavern",
+            "description": "LLM Frontend for Power Users.",
+            "stars": "7,504",
+            "forks": "2,160",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "UBlock Origin-一款针对Chromium和Firefox的高效拦截器。又快又倾斜。",
+            "url": "https://github.com/gorhill/uBlock",
+            "name": "gorhill /uBlock",
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "stars": "45,929",
+            "forks": "3,074",
+            "language": "JavaScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "控制论增强的Web应用程序",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "Cybernetically enhanced web apps",
+            "stars": "78,392",
+            "forks": "4,100",
+            "language": "JavaScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "适用于Android、iOS、Linux、MacOS和Windows的勇敢浏览器。",
+            "url": "https://github.com/brave/brave-browser",
+            "name": "brave /brave-browser",
+            "description": "Brave browser for Android, iOS, Linux, macOS, Windows.",
+            "stars": "17,540",
+            "forks": "2,272",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "4,464",
+            "forks": "5,098",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "5,751",
+            "forks": "1,779",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "OpenZeppelin Contracts是一个用于安全智能合同开发的库。",
+            "url": "https://github.com/OpenZeppelin/openzeppelin-contracts",
+            "name": "OpenZeppelin /openzeppelin-contracts",
+            "description": "OpenZeppelin Contracts is a library for secure smart contract development.",
+            "stars": "24,748",
+            "forks": "11,750",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🌐🔌MetaMASK浏览器扩展支持浏览启用了以太区块链的网站",
+            "url": "https://github.com/MetaMask/metamask-extension",
+            "name": "MetaMask /metamask-extension",
+            "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+            "stars": "11,860",
+            "forks": "4,840",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "构建您的第一个移动应用程序",
+            "url": "https://github.com/adrianhajdin/aora",
+            "name": "adrianhajdin /aora",
+            "description": "Build your first mobile application",
+            "stars": "1,563",
+            "forks": "290",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "84,413",
+            "forks": "2,433",
+            "language": "JavaScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "一个功能齐全的下载管理器。",
+            "url": "https://github.com/agalwood/Motrix",
+            "name": "agalwood /Motrix",
+            "description": "A full-featured download manager.",
+            "stars": "44,955",
+            "forks": "4,485",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Jellyfin的Web客户端",
+            "url": "https://github.com/jellyfin/jellyfin-web",
+            "name": "jellyfin /jellyfin-web",
+            "description": "Web Client for Jellyfin",
+            "stars": "2,285",
+            "forks": "1,216",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "这个是一个将云闪存工作人员-VLESS搭配自建优选域名的订阅生成器",
+            "url": "https://github.com/cmliu/WorkerVless2sub",
+            "name": "cmliu /WorkerVless2sub",
+            "description": "这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器",
+            "stars": "3,278",
+            "forks": "4,791",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "14,156",
+            "forks": "1,396",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "PT助手Plus、为微软边缘、、谷歌Chrome、火狐浏览器插件(网页扩展)、主要用于辅助下载PT站的种子。",
+            "url": "https://github.com/pt-plugins/PT-Plugin-Plus",
+            "name": "pt-plugins /PT-Plugin-Plus",
+            "description": "PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。",
+            "stars": "6,666",
+            "forks": "840",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "我的YouTube频道教程的项目资源库",
+            "url": "https://github.com/judygab/web-dev-projects",
+            "name": "judygab /web-dev-projects",
+            "description": "Projects repo for tutorials for my YouTube Channel",
+            "stars": "2,021",
+            "forks": "2,566",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "浏览器开发框架项目",
+            "url": "https://github.com/beefproject/beef",
+            "name": "beefproject /beef",
+            "description": "The Browser Exploitation Framework Project",
+            "stars": "9,709",
+            "forks": "2,146",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
