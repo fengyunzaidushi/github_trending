@@ -43396,3 +43396,127 @@
         }
     ]
 }
+{
+    "09月18日": [
+        {
+            "zh_des": "为中小企业和企业提供免费和开源的Laravel CRM解决方案，以实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "9,665",
+            "forks": "610",
+            "language": "Blade",
+            "stars_today": "234 stars today"
+        },
+        {
+            "zh_des": "PuLID官方代码：对比对比定制纯闪电ID",
+            "url": "https://github.com/ToTheBeginning/PuLID",
+            "name": "ToTheBeginning /PuLID",
+            "description": "Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment",
+            "stars": "1,771",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "1000+DevOps Bash脚本-AWS、GCP、Kubernetes、Docker、CI/CD、API、SQL、PostgreSQL、MySQL、Have、Impala、Kafka、Hadoop、Jenkins、GitHub、GitLab、BitBucket、Azure DevOps、TeamCity、Spotify、MP3、LDAP、Code/Build Linting、pkg mgmt for Linux、Mac、Python、Perl、Ruby、NodeJS、Golang、Advanced dotFiles：.bashrc、.vimrc、.gitconfig、.creenrc、tmux。",
+            "url": "https://github.com/HariSekhon/DevOps-Bash-tools",
+            "name": "HariSekhon /DevOps-Bash-tools",
+            "description": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+            "stars": "3,237",
+            "forks": "788",
+            "language": "Shell",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "功能打包AUR帮助器",
+            "url": "https://github.com/Morganamilo/paru",
+            "name": "Morganamilo /paru",
+            "description": "Feature packed AUR helper",
+            "stars": "6,026",
+            "forks": "233",
+            "language": "Rust",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "🎓免费自学计算机科学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "169,465",
+            "forks": "21,418",
+            "language": "",
+            "stars_today": "332 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "9,677",
+            "forks": "807",
+            "language": "JavaScript",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "87,586",
+            "forks": "9,509",
+            "language": "HTML",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,259",
+            "forks": "85",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "3,933",
+            "forks": "873",
+            "language": "Python",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "😎列出了各种有趣的话题",
+            "url": "https://github.com/sindresorhus/awesome",
+            "name": "sindresorhus /awesome",
+            "description": "😎 Awesome lists about all kinds of interesting topics",
+            "stars": "324,689",
+            "forks": "27,670",
+            "language": "",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "灵活的分布式键值数据存储区，支持缓存和缓存之外的工作负载。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
+            "stars": "15,824",
+            "forks": "591",
+            "language": "C",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "300,601",
+            "forks": "28,202",
+            "language": "Markdown",
+            "stars_today": "182 stars today"
+        }
+    ]
+}

@@ -44584,3 +44584,187 @@
         }
     ]
 }
+{
+    "09月18日": [
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "8,649",
+            "forks": "349",
+            "language": "TypeScript",
+            "stars_today": "3,410 stars this week"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "10,753",
+            "forks": "863",
+            "language": "TypeScript",
+            "stars_today": "929 stars this week"
+        },
+        {
+            "zh_des": "DiceDB是一个内存中的实时数据库，具有基于SQL的反应性。它为在现代硬件上构建和扩展真正的实时应用程序而进行了超级优化，同时也是Redis的替代产品。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
+            "stars": "4,200",
+            "forks": "518",
+            "language": "Go",
+            "stars_today": "612 stars this week"
+        },
+        {
+            "zh_des": "一个漂亮的私密安全的桌面投资跟踪应用程序",
+            "url": "https://github.com/afadil/wealthfolio",
+            "name": "afadil /wealthfolio",
+            "description": "A Beautiful Private and Secure Desktop Investment Tracking Application",
+            "stars": "3,685",
+            "forks": "168",
+            "language": "TypeScript",
+            "stars_today": "690 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "21,087",
+            "forks": "2,520",
+            "language": "Vue",
+            "stars_today": "741 stars this week"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括Anthropic，AWS，OpenAI，Assistents API，Azure，Groq，o1，GPT-4o，Mistral，OpenRouter，Vertex AI，Gemini，Artitures，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。积极参与公共发展。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+            "stars": "17,528",
+            "forks": "2,912",
+            "language": "TypeScript",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "插件化、定制化、无广告的免费音乐播放器",
+            "url": "https://github.com/maotoumao/MusicFree",
+            "name": "maotoumao /MusicFree",
+            "description": "插件化、定制化、无广告的免费音乐播放器",
+            "stars": "8,212",
+            "forks": "595",
+            "language": "TypeScript",
+            "stars_today": "426 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "34,400",
+            "forks": "10,064",
+            "language": "C++",
+            "stars_today": "190 stars this week"
+        },
+        {
+            "zh_des": "适用于x86的快速PlayStation 1仿真器-/AArch32/AArch64/RV64",
+            "url": "https://github.com/stenzek/duckstation",
+            "name": "stenzek /duckstation",
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "stars": "6,819",
+            "forks": "651",
+            "language": "C++",
+            "stars_today": "80 stars this week"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "7,898",
+            "forks": "1,083",
+            "language": "TypeScript",
+            "stars_today": "589 stars this week"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "65,117",
+            "forks": "15,581",
+            "language": "JavaScript",
+            "stars_today": "370 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,849",
+            "forks": "437",
+            "language": "Python",
+            "stars_today": "953 stars this week"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "11,767",
+            "forks": "891",
+            "language": "Python",
+            "stars_today": "4,326 stars this week"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "24,019",
+            "forks": "6,863",
+            "language": "C",
+            "stars_today": "1,065 stars this week"
+        },
+        {
+            "zh_des": "📺在Youtube上发现最新的机器学习/人工智能课程。",
+            "url": "https://github.com/dair-ai/ML-YouTube-Courses",
+            "name": "dair-ai /ML-YouTube-Courses",
+            "description": "📺 Discover the latest machine learning / AI courses on YouTube.",
+            "stars": "15,654",
+            "forks": "1,863",
+            "language": "",
+            "stars_today": "705 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,786",
+            "forks": "824",
+            "language": "Python",
+            "stars_today": "767 stars this week"
+        },
+        {
+            "zh_des": "Datadog代理的主存储库",
+            "url": "https://github.com/DataDog/datadog-agent",
+            "name": "DataDog /datadog-agent",
+            "description": "Main repository for Datadog Agent",
+            "stars": "2,828",
+            "forks": "1,185",
+            "language": "Go",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "Flipper Zero固件源代码",
+            "url": "https://github.com/flipperdevices/flipperzero-firmware",
+            "name": "flipperdevices /flipperzero-firmware",
+            "description": "Flipper Zero firmware source code",
+            "stars": "12,466",
+            "forks": "2,676",
+            "language": "C",
+            "stars_today": "285 stars this week"
+        }
+    ]
+}
