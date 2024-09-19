@@ -43086,3 +43086,167 @@
         }
     ]
 }
+{
+    "09月19日": [
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,540",
+            "forks": "29,908",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,548",
+            "forks": "95",
+            "language": "Python",
+            "stars_today": "337 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "54,160",
+            "forks": "3,914",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "269,981",
+            "forks": "45,591",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "关注灵活性和用户体验的Django内容管理系统",
+            "url": "https://github.com/wagtail/wagtail",
+            "name": "wagtail /wagtail",
+            "description": "A Django content management system focused on flexibility and user experience",
+            "stars": "17,934",
+            "forks": "3,785",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "18,766",
+            "forks": "1,459",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "38,586",
+            "forks": "4,130",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "4,044",
+            "forks": "881",
+            "language": "Python",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "12,369",
+            "forks": "1,183",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "PuLID官方代码：对比对比定制纯闪电ID",
+            "url": "https://github.com/ToTheBeginning/PuLID",
+            "name": "ToTheBeginning /PuLID",
+            "description": "Official code for PuLID: Pure and Lightning ID Customization via Contrastive Alignment",
+            "stars": "1,844",
+            "forks": "113",
+            "language": "Python",
+            "stars_today": "200 stars today"
+        },
+        {
+            "zh_des": "适用于GPU的NumPy和SciPy",
+            "url": "https://github.com/cupy/cupy",
+            "name": "cupy /cupy",
+            "description": "NumPy & SciPy for GPU",
+            "stars": "8,232",
+            "forks": "811",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "AI模型的闪电般的服务引擎。灵活。很简单。企业规模。",
+            "url": "https://github.com/Lightning-AI/LitServe",
+            "name": "Lightning-AI /LitServe",
+            "description": "Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.",
+            "stars": "2,094",
+            "forks": "129",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "只需✨One命令✨即可创建Reddit视频",
+            "url": "https://github.com/elebumm/RedditVideoMakerBot",
+            "name": "elebumm /RedditVideoMakerBot",
+            "description": "Create Reddit Videos with just✨ one command ✨",
+            "stars": "6,560",
+            "forks": "1,836",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "在多个GPU、TPU上预先训练、优化和部署AI模型，无需更改代码。",
+            "url": "https://github.com/Lightning-AI/pytorch-lightning",
+            "name": "Lightning-AI /pytorch-lightning",
+            "description": "Pretrain, finetune and deploy AI models on multiple GPUs, TPUs with zero code changes.",
+            "stars": "27,992",
+            "forks": "3,353",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "模块化的SQL Linterer和自动格式化程序，支持多种方言和模板化代码。",
+            "url": "https://github.com/sqlfluff/sqlfluff",
+            "name": "sqlfluff /sqlfluff",
+            "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+            "stars": "7,683",
+            "forks": "699",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "12306智能刷票，订票",
+            "url": "https://github.com/testerSunshine/12306",
+            "name": "testerSunshine /12306",
+            "description": "12306智能刷票，订票",
+            "stars": "33,785",
+            "forks": "9,792",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        }
+    ]
+}

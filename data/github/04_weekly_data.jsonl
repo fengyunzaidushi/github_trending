@@ -43710,3 +43710,177 @@
         }
     ]
 }
+{
+    "09月19日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "11,858",
+            "forks": "896",
+            "language": "Python",
+            "stars_today": "4,223 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "11,907",
+            "forks": "828",
+            "language": "Python",
+            "stars_today": "823 stars this week"
+        },
+        {
+            "zh_des": "MiniCPM3-4B：超过GPT-3.5-Turbo的边缘侧LLM。",
+            "url": "https://github.com/OpenBMB/MiniCPM",
+            "name": "OpenBMB /MiniCPM",
+            "description": "MiniCPM3-4B: An edge-side LLM that surpasses GPT-3.5-Turbo.",
+            "stars": "6,871",
+            "forks": "436",
+            "language": "Jupyter Notebook",
+            "stars_today": "337 stars this week"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "26,954",
+            "forks": "3,955",
+            "language": "Python",
+            "stars_today": "605 stars this week"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "4,044",
+            "forks": "881",
+            "language": "Python",
+            "stars_today": "678 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "12,369",
+            "forks": "1,183",
+            "language": "Python",
+            "stars_today": "170 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,540",
+            "forks": "29,908",
+            "language": "Python",
+            "stars_today": "332 stars this week"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。获取问题的答案，无论它们是在网上还是在你自己的笔记中。使用在线AI模型(例如gpt4)或私有的本地LLM(例如llama3)。本地自托管或使用我们的云实例。从黑玉石、Emacs、桌面应用程序、Web或Whatsapp访问。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Get answers to your questions, whether they be online or in your own notes. Use online AI models (e.g gpt4) or private, local LLMs (e.g llama3). Self-host locally or use our cloud instance. Access from Obsidian, Emacs, Desktop app, Web or Whatsapp.",
+            "stars": "12,603",
+            "forks": "640",
+            "language": "Python",
+            "stars_today": "186 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "155,048",
+            "forks": "52,021",
+            "language": "Python",
+            "stars_today": "460 stars this week"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "37,483",
+            "forks": "24,389",
+            "language": "Python",
+            "stars_today": "154 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "269,981",
+            "forks": "45,591",
+            "language": "Python",
+            "stars_today": "930 stars this week"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "166,626",
+            "forks": "44,090",
+            "language": "Python",
+            "stars_today": "273 stars this week"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "36,362",
+            "forks": "14,104",
+            "language": "Python",
+            "stars_today": "148 stars this week"
+        },
+        {
+            "zh_des": "使用Bridgecrew的Checkov防止云配置错误，并在基础设施构建期间发现代码、容器镜像和开源包等漏洞。",
+            "url": "https://github.com/bridgecrewio/checkov",
+            "name": "bridgecrewio /checkov",
+            "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+            "stars": "6,994",
+            "forks": "1,101",
+            "language": "Python",
+            "stars_today": "126 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "60,020",
+            "forks": "13,221",
+            "language": "Python",
+            "stars_today": "163 stars this week"
+        },
+        {
+            "zh_des": "一个类似MNIST的时尚产品数据库。基准👇",
+            "url": "https://github.com/zalandoresearch/fashion-mnist",
+            "name": "zalandoresearch /fashion-mnist",
+            "description": "A MNIST-like fashion product database. Benchmark 👇",
+            "stars": "11,834",
+            "forks": "2,992",
+            "language": "Python",
+            "stars_today": "18 stars this week"
+        },
+        {
+            "zh_des": "助手是在您的终端中进行AI配对编程",
+            "url": "https://github.com/paul-gauthier/aider",
+            "name": "paul-gauthier /aider",
+            "description": "aider is AI pair programming in your terminal",
+            "stars": "18,607",
+            "forks": "1,723",
+            "language": "Python",
+            "stars_today": "711 stars this week"
+        }
+    ]
+}
