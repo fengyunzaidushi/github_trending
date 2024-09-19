@@ -285,9 +285,9 @@ async def main():
         if "jupyter-notebook" in url:
             continue
 
-        repositories = await fetch_trending_repositories(url)
-        if repositories:
-            try:
+        try:
+            repositories = await fetch_trending_repositories(url)
+            if repositories:
                 all_zh_des = trs_batch_text(
                     [
                         item.get("description", "do not translate")
@@ -302,9 +302,9 @@ async def main():
                     ]
                     git_dict = {date: repositories}
                     write_github_data(git_dict, date, prefix)
-            except Exception as e:
-                print(e)
-                pass
+        except Exception as e:
+            print(e)
+            pass
 
 
 async def discord_callback(repositories, date, prefix):
