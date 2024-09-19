@@ -49530,3 +49530,187 @@
         }
     ]
 }
+{
+    "09月19日": [
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "14,393",
+            "forks": "1,043",
+            "language": "TypeScript",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "17,178",
+            "forks": "2,241",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "使用Reaction和D3构建的重新定义的图表库",
+            "url": "https://github.com/recharts/recharts",
+            "name": "recharts /recharts",
+            "description": "Redefined chart library built with React and D3",
+            "stars": "23,715",
+            "forks": "1,692",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "这是Vue 2的回购。Vue 3的回购请访问https://github.com/vuejs/core",
+            "url": "https://github.com/vuejs/vue",
+            "name": "vuejs /vue",
+            "description": "This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core",
+            "stars": "207,702",
+            "forks": "33,672",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "开放式跨端跨框架解决方案，支持使用REACT/VUE/NERV等框架来开发微信/京东/百度/支付宝/字节跳动/QQ小程序/H5/REACT本地等应用。Https://taro.zone/",
+            "url": "https://github.com/NervJS/taro",
+            "name": "NervJS /taro",
+            "description": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。https://taro.zone/",
+            "stars": "35,365",
+            "forks": "4,775",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "71,739",
+            "forks": "6,853",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "为iOS、安卓和网络⚡️构建跨平台的原生渐进式网络应用",
+            "url": "https://github.com/ionic-team/capacitor",
+            "name": "ionic-team /capacitor",
+            "description": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+            "stars": "11,920",
+            "forks": "996",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Amazon Q、CodeCatalyst、Local Lambda调试、SAM/CFN语法、ECS终端、AWS资源",
+            "url": "https://github.com/aws/aws-toolkit-vscode",
+            "name": "aws /aws-toolkit-vscode",
+            "description": "Amazon Q, CodeCatalyst, Local Lambda debug, SAM/CFN syntax, ECS Terminal, AWS resources",
+            "stars": "1,477",
+            "forks": "413",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "跨平台桌面端视频资源播放器，免费高颜值.",
+            "url": "https://github.com/Hiram-Wong/ZyPlayer",
+            "name": "Hiram-Wong /ZyPlayer",
+            "description": "跨平台桌面端视频资源播放器,免费高颜值.",
+            "stars": "5,002",
+            "forks": "670",
+            "language": "TypeScript",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "44,069",
+            "forks": "6,443",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于Node.js和TypeScrip的下一代ORM|PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB",
+            "url": "https://github.com/prisma/prisma",
+            "name": "prisma /prisma",
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+            "stars": "38,953",
+            "forks": "1,526",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "用于表单状态管理和验证的📋Reaction挂钩(Web+Reaction Native)",
+            "url": "https://github.com/react-hook-form/react-hook-form",
+            "name": "react-hook-form /react-hook-form",
+            "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+            "stars": "41,085",
+            "forks": "2,049",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "为现代网络开发人员上传文件",
+            "url": "https://github.com/pingdotgg/uploadthing",
+            "name": "pingdotgg /uploadthing",
+            "description": "File uploads for modern web devs",
+            "stars": "4,052",
+            "forks": "298",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "用于Node.js的RFC6265 Cookie和CookieJar",
+            "url": "https://github.com/salesforce/tough-cookie",
+            "name": "salesforce /tough-cookie",
+            "description": "RFC6265 Cookies and CookieJar for Node.js",
+            "stars": "946",
+            "forks": "205",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,285",
+            "forks": "2,488",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "🎉由Element Team制作的Vue.js 3 UI库",
+            "url": "https://github.com/element-plus/element-plus",
+            "name": "element-plus /element-plus",
+            "description": "🎉 A Vue.js 3 UI Library made by Element team",
+            "stars": "24,198",
+            "forks": "15,961",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "6,572",
+            "forks": "1,109",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "React.js的选择组件",
+            "url": "https://github.com/JedWatson/react-select",
+            "name": "JedWatson /react-select",
+            "description": "The Select Component for React.js",
+            "stars": "27,541",
+            "forks": "4,117",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        }
+    ]
+}

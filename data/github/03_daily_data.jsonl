@@ -43250,3 +43250,157 @@
         }
     ]
 }
+{
+    "09月19日": [
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "18,867",
+            "forks": "1,465",
+            "language": "Python",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "54,319",
+            "forks": "3,922",
+            "language": "Python",
+            "stars_today": "330 stars today"
+        },
+        {
+            "zh_des": "Amazon Web服务的通用命令行界面",
+            "url": "https://github.com/aws/aws-cli",
+            "name": "aws /aws-cli",
+            "description": "Universal Command Line Interface for Amazon Web Services",
+            "stars": "15,380",
+            "forks": "4,092",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用于大型模型培训的原生PyTorch库",
+            "url": "https://github.com/pytorch/torchtitan",
+            "name": "pytorch /torchtitan",
+            "description": "A native PyTorch Library for large model training",
+            "stars": "1,871",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "OpenCompass是一个LLM评估平台，支持超过100个数据集的多种模型(Llama3、Mistral、InternLM2、GPT-4、LLaMa2、Qwen、GLM、Claude等)。",
+            "url": "https://github.com/open-compass/opencompass",
+            "name": "open-compass /opencompass",
+            "description": "OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.",
+            "stars": "3,770",
+            "forks": "403",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "使用Python创建基于Web的用户界面。最好的方式。",
+            "url": "https://github.com/zauberzeug/nicegui",
+            "name": "zauberzeug /nicegui",
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "stars": "8,845",
+            "forks": "538",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "适用于GPU的NumPy和SciPy",
+            "url": "https://github.com/cupy/cupy",
+            "name": "cupy /cupy",
+            "description": "NumPy & SciPy for GPU",
+            "stars": "8,265",
+            "forks": "813",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "4,072",
+            "forks": "883",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,611",
+            "forks": "97",
+            "language": "Python",
+            "stars_today": "249 stars today"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "7,395",
+            "forks": "678",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "新增-YOLOv8🚀in PyTorch>ONNX>OpenVINO>CoreML>TFlite",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "NEW - YOLOv8 🚀 in PyTorch > ONNX > OpenVINO > CoreML > TFLite",
+            "stars": "28,538",
+            "forks": "5,671",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "基于任何东西的问题和答案。",
+            "url": "https://github.com/netease-youdao/QAnything",
+            "name": "netease-youdao /QAnything",
+            "description": "Question and Answer based on Anything.",
+            "stars": "11,405",
+            "forks": "1,101",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "10,251",
+            "forks": "972",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Triton推理服务器提供优化的云和边缘推理解决方案。",
+            "url": "https://github.com/triton-inference-server/server",
+            "name": "triton-inference-server /server",
+            "description": "The Triton Inference Server provides an optimized cloud and edge inferencing solution.",
+            "stars": "8,069",
+            "forks": "1,451",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "5,993",
+            "forks": "647",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        }
+    ]
+}

@@ -48434,3 +48434,157 @@
         }
     ]
 }
+{
+    "09月19日": [
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "58,533",
+            "forks": "6,728",
+            "language": "Python",
+            "stars_today": "5,202 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,373",
+            "forks": "7,082",
+            "language": "Python",
+            "stars_today": "2,327 stars this month"
+        },
+        {
+            "zh_des": "一键换脸",
+            "url": "https://github.com/s0md3v/roop",
+            "name": "s0md3v /roop",
+            "description": "one-click face swap",
+            "stars": "27,985",
+            "forks": "6,739",
+            "language": "Python",
+            "stars_today": "1,926 stars this month"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,416",
+            "forks": "564",
+            "language": "Python",
+            "stars_today": "1,758 stars this month"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,758",
+            "forks": "263",
+            "language": "Python",
+            "stars_today": "1,428 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "11,914",
+            "forks": "904",
+            "language": "Python",
+            "stars_today": "4,747 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,596",
+            "forks": "13,147",
+            "language": "Python",
+            "stars_today": "1,520 stars this month"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "7,395",
+            "forks": "678",
+            "language": "Python",
+            "stars_today": "1,665 stars this month"
+        },
+        {
+            "zh_des": "稳定扩散WebUI ForgeNewsQuick List安装ForgeForge状态UnetPatcher正在构建稳定扩散WebUI Forge是一个基于GRadio的平台，旨在简化开发、优化资源管理、加速推理和研究实验功能",
+            "url": "https://github.com/lllyasviel/stable-diffusion-webui-forge",
+            "name": "lllyasviel /stable-diffusion-webui-forge",
+            "description": "Stable Diffusion WebUI ForgeNewsQuick ListInstalling ForgeForge StatusUnetPatcherUnder ConstructionStable Diffusion WebUI Forge is a platform on top of Stable Diffusion WebUI (based on Gradio ) to make development easier, optimize resource management, speed up inference, and study experimental features",
+            "stars": "7,474",
+            "forks": "723",
+            "language": "Python",
+            "stars_today": "1,160 stars this month"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "749",
+            "forks": "95",
+            "language": "Python",
+            "stars_today": "229 stars this month"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "16,992",
+            "forks": "1,562",
+            "language": "Python",
+            "stars_today": "1,121 stars this month"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "49,119",
+            "forks": "5,298",
+            "language": "Python",
+            "stars_today": "5,406 stars this month"
+        },
+        {
+            "zh_des": "WIFI密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典",
+            "url": "https://github.com/baihengaead/wifi-crack-tool",
+            "name": "baihengaead /wifi-crack-tool",
+            "description": "WiFi密码暴力破解工具-图形界面，支持WPA/WPA2/WPA3、多开并发、自动破解、自定义密码本、自动生成密码字典",
+            "stars": "1,384",
+            "forks": "189",
+            "language": "Python",
+            "stars_today": "1,119 stars this month"
+        },
+        {
+            "zh_des": "🔍AI编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "16,798",
+            "forks": "1,840",
+            "language": "Python",
+            "stars_today": "1,651 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,579",
+            "forks": "29,910",
+            "language": "Python",
+            "stars_today": "1,082 stars this month"
+        }
+    ]
+}
