@@ -45394,3 +45394,177 @@
         }
     ]
 }
+{
+    "09月21日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,131",
+            "forks": "922",
+            "language": "Python",
+            "stars_today": "3,195 stars this week"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,599",
+            "forks": "1,336",
+            "language": "C",
+            "stars_today": "2,489 stars this week"
+        },
+        {
+            "zh_des": "用于回答带有引文的科学文献问题的高精度RAG",
+            "url": "https://github.com/Future-House/paper-qa",
+            "name": "Future-House /paper-qa",
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "stars": "5,599",
+            "forks": "531",
+            "language": "Python",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,777",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "728 stars this week"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "9,232",
+            "forks": "381",
+            "language": "TypeScript",
+            "stars_today": "1,504 stars this week"
+        },
+        {
+            "zh_des": "适用于x86的快速PlayStation 1仿真器-/AArch32/AArch64/RV64",
+            "url": "https://github.com/stenzek/duckstation",
+            "name": "stenzek /duckstation",
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "stars": "6,886",
+            "forks": "667",
+            "language": "C++",
+            "stars_today": "158 stars this week"
+        },
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "43,589",
+            "forks": "1,906",
+            "language": "C++",
+            "stars_today": "698 stars this week"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "34,445",
+            "forks": "10,071",
+            "language": "C++",
+            "stars_today": "132 stars this week"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "10,932",
+            "forks": "870",
+            "language": "TypeScript",
+            "stars_today": "471 stars this week"
+        },
+        {
+            "zh_des": "2021年年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+            "url": "https://github.com/0voice/expert_readed_books",
+            "name": "0voice /expert_readed_books",
+            "description": "2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍",
+            "stars": "7,313",
+            "forks": "2,399",
+            "language": "",
+            "stars_today": "396 stars this week"
+        },
+        {
+            "zh_des": "阿帕奇IoTDB",
+            "url": "https://github.com/apache/iotdb",
+            "name": "apache /iotdb",
+            "description": "Apache IoTDB",
+            "stars": "5,531",
+            "forks": "998",
+            "language": "Java",
+            "stars_today": "514 stars this week"
+        },
+        {
+            "zh_des": "灵活的分布式键值数据存储区，支持缓存和缓存之外的工作负载。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
+            "stars": "16,057",
+            "forks": "599",
+            "language": "C",
+            "stars_today": "485 stars this week"
+        },
+        {
+            "zh_des": "React Flow|Svelte Flow-功能强大的开源库，用于使用React(https://reactflow.dev)或Svelte(https://svelteflow.dev).))构建基于节点的UI开箱即用，可无限定制。",
+            "url": "https://github.com/xyflow/xyflow",
+            "name": "xyflow /xyflow",
+            "description": "React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.",
+            "stars": "24,756",
+            "forks": "1,592",
+            "language": "TypeScript",
+            "stars_today": "614 stars this week"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "9,914",
+            "forks": "3,019",
+            "language": "PowerShell",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,632",
+            "forks": "29,933",
+            "language": "Python",
+            "stars_today": "509 stars this week"
+        },
+        {
+            "zh_des": "为中小企业和企业提供免费和开源的Laravel CRM解决方案，以实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "10,218",
+            "forks": "661",
+            "language": "Blade",
+            "stars_today": "1,138 stars this week"
+        },
+        {
+            "zh_des": "🎓免费自学计算机科学教育之路！",
+            "url": "https://github.com/ossu/computer-science",
+            "name": "ossu /computer-science",
+            "description": "🎓 Path to a free self-taught education in Computer Science!",
+            "stars": "170,115",
+            "forks": "21,468",
+            "language": "",
+            "stars_today": "1,827 stars this week"
+        }
+    ]
+}

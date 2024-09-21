@@ -45684,3 +45684,217 @@
         }
     ]
 }
+{
+    "09月21日": [
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,228",
+            "forks": "78,772",
+            "language": "JavaScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "10,169",
+            "forks": "827",
+            "language": "JavaScript",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "你所需要的最后一个旋转木马",
+            "url": "https://github.com/kenwheeler/slick",
+            "name": "kenwheeler /slick",
+            "description": "the last carousel you'll ever need",
+            "stars": "28,452",
+            "forks": "5,885",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Meteor，Java应用程序平台",
+            "url": "https://github.com/meteor/meteor",
+            "name": "meteor /meteor",
+            "description": "Meteor, the JavaScript App Platform",
+            "stars": "44,306",
+            "forks": "5,170",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "JavaScript播放器库/DASH&HLS客户端/MSE-EME播放器",
+            "url": "https://github.com/shaka-project/shaka-player",
+            "name": "shaka-project /shaka-player",
+            "description": "JavaScript player library / DASH & HLS client / MSE-EME player",
+            "stars": "7,086",
+            "forks": "1,331",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "下一代ES模块捆绑器",
+            "url": "https://github.com/rollup/rollup",
+            "name": "rollup /rollup",
+            "description": "Next-generation ES module bundler",
+            "stars": "25,245",
+            "forks": "1,492",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "28,814",
+            "forks": "3,579",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "15,111",
+            "forks": "3,602",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "用于浏览器和node.js的基于Promise的HTTP客户端",
+            "url": "https://github.com/axios/axios",
+            "name": "axios /axios",
+            "description": "Promise based HTTP client for the browser and node.js",
+            "stars": "105,257",
+            "forks": "10,825",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "大多数现代移动触控滑块具有硬件加速过渡功能",
+            "url": "https://github.com/nolimits4web/swiper",
+            "name": "nolimits4web /swiper",
+            "description": "Most modern mobile touch slider with hardware accelerated transitions",
+            "stars": "39,583",
+            "forks": "9,749",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "客户端生成适用于每个人的JavaScript PDF。",
+            "url": "https://github.com/parallax/jsPDF",
+            "name": "parallax /jsPDF",
+            "description": "Client-side JavaScript PDF generation for everyone.",
+            "stars": "29,037",
+            "forks": "4,644",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "22,886",
+            "forks": "2,322",
+            "language": "JavaScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "用于高效呈现大型列表和表格数据的Reaction组件",
+            "url": "https://github.com/bvaughn/react-virtualized",
+            "name": "bvaughn /react-virtualized",
+            "description": "React components for efficiently rendering large lists and tabular data",
+            "stars": "26,283",
+            "forks": "3,057",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "丰美影视和电视盒配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解.",
+            "url": "https://github.com/gaotianliuyun/gao",
+            "name": "gaotianliuyun /gao",
+            "description": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+            "stars": "5,453",
+            "forks": "2,224",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Savagger编辑器",
+            "url": "https://github.com/swagger-api/swagger-editor",
+            "name": "swagger-api /swagger-editor",
+            "description": "Swagger Editor",
+            "stars": "8,885",
+            "forks": "2,243",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Smartier是一个固执己见的代码格式化器。",
+            "url": "https://github.com/prettier/prettier",
+            "name": "prettier /prettier",
+            "description": "Prettier is an opinionated code formatter.",
+            "stars": "49,123",
+            "forks": "4,296",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "分流规则、重写写规则及脚本.",
+            "url": "https://github.com/blackmatrix7/ios_rule_script",
+            "name": "blackmatrix7 /ios_rule_script",
+            "description": "分流规则、重写写规则及脚本。",
+            "stars": "17,432",
+            "forks": "2,788",
+            "language": "JavaScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "《JavaScript样式指南》",
+            "url": "https://github.com/airbnb/javascript",
+            "name": "airbnb /javascript",
+            "description": "JavaScript Style Guide",
+            "stars": "144,645",
+            "forks": "26,451",
+            "language": "JavaScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "猫抓浏览器资源嗅探扩展/CAT-Catch浏览器资源嗅探扩展",
+            "url": "https://github.com/xifangczy/cat-catch",
+            "name": "xifangczy /cat-catch",
+            "description": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+            "stars": "9,063",
+            "forks": "839",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "4,581",
+            "forks": "5,247",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "带有内置负载均衡器的Node.js Production Process Manager。",
+            "url": "https://github.com/Unitech/pm2",
+            "name": "Unitech /pm2",
+            "description": "Node.js Production Process Manager with a built-in Load Balancer.",
+            "stars": "41,362",
+            "forks": "2,611",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}

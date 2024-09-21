@@ -44166,3 +44166,197 @@
         }
     ]
 }
+{
+    "09月21日": [
+        {
+            "zh_des": "🐸是PostGres的数据库管理TUI",
+            "url": "https://github.com/achristmascarl/rainfrog",
+            "name": "achristmascarl /rainfrog",
+            "description": "🐸 a database management tui for postgres",
+            "stars": "1,554",
+            "forks": "29",
+            "language": "Rust",
+            "stars_today": "397 stars today"
+        },
+        {
+            "zh_des": "1000+DevOps Bash脚本-AWS、GCP、Kubernetes、Docker、CI/CD、API、SQL、PostgreSQL、MySQL、Have、Impala、Kafka、Hadoop、Jenkins、GitHub、GitLab、BitBucket、Azure DevOps、TeamCity、Spotify、MP3、LDAP、Code/Build Linting、pkg mgmt for Linux、Mac、Python、Perl、Ruby、NodeJS、Golang、Advanced dotFiles：.bashrc、.vimrc、.gitconfig、.creenrc、tmux。",
+            "url": "https://github.com/HariSekhon/DevOps-Bash-tools",
+            "name": "HariSekhon /DevOps-Bash-tools",
+            "description": "1000+ DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux..",
+            "stars": "4,220",
+            "forks": "867",
+            "language": "Shell",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,228",
+            "forks": "78,772",
+            "language": "JavaScript",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "19,451",
+            "forks": "1,499",
+            "language": "Python",
+            "stars_today": "429 stars today"
+        },
+        {
+            "zh_des": "在Facebook开发和使用的开源C++库。",
+            "url": "https://github.com/facebook/folly",
+            "name": "facebook /folly",
+            "description": "An open-source C++ library developed and used at Facebook.",
+            "stars": "28,179",
+            "forks": "5,545",
+            "language": "C++",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "10,169",
+            "forks": "827",
+            "language": "JavaScript",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "ApachePaimon是一种Lake格式，它支持使用Flink和Spark构建用于流和批处理操作的实时Lakehouse架构。",
+            "url": "https://github.com/apache/paimon",
+            "name": "apache /paimon",
+            "description": "Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.",
+            "stars": "2,324",
+            "forks": "920",
+            "language": "Java",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "54,794",
+            "forks": "3,934",
+            "language": "Python",
+            "stars_today": "295 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,777",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "适用于GPU的NumPy和SciPy",
+            "url": "https://github.com/cupy/cupy",
+            "name": "cupy /cupy",
+            "description": "NumPy & SciPy for GPU",
+            "stars": "8,703",
+            "forks": "822",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "ApacheDubbo的Java实现。RPC和微服务框架。",
+            "url": "https://github.com/apache/dubbo",
+            "name": "apache /dubbo",
+            "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+            "stars": "40,380",
+            "forks": "26,409",
+            "language": "Java",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "45,912",
+            "forks": "2,439",
+            "language": "Shell",
+            "stars_today": "198 stars today"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "88,202",
+            "forks": "9,550",
+            "language": "HTML",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "43,589",
+            "forks": "1,906",
+            "language": "C++",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "🚀基于大语言模型和rag的知识库问答系统.开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统.",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+            "stars": "10,149",
+            "forks": "1,344",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "一份经过策划的免费课程和证书清单。",
+            "url": "https://github.com/cloudcommunity/Free-Certifications",
+            "name": "cloudcommunity /Free-Certifications",
+            "description": "A curated list of free courses & certifications.",
+            "stars": "25,964",
+            "forks": "1,928",
+            "language": "",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "C++11和Python之间的无缝互操作",
+            "url": "https://github.com/pybind/pybind11",
+            "name": "pybind /pybind11",
+            "description": "Seamless operability between C++11 and Python",
+            "stars": "15,497",
+            "forks": "2,087",
+            "language": "C++",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "你所需要的最后一个旋转木马",
+            "url": "https://github.com/kenwheeler/slick",
+            "name": "kenwheeler /slick",
+            "description": "the last carousel you'll ever need",
+            "stars": "28,452",
+            "forks": "5,885",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "为中小企业和企业提供免费和开源的Laravel CRM解决方案，以实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "10,218",
+            "forks": "661",
+            "language": "Blade",
+            "stars_today": "227 stars today"
+        }
+    ]
+}
