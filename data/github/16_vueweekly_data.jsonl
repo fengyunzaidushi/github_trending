@@ -8994,3 +8994,167 @@
         }
     ]
 }
+{
+    "09月22日": [
+        {
+            "zh_des": "包罗万象的Python小抄",
+            "url": "https://github.com/wilfredinni/python-cheatsheet",
+            "name": "wilfredinni /python-cheatsheet",
+            "description": "All-inclusive Python cheatsheet",
+            "stars": "4,280",
+            "forks": "1,283",
+            "language": "Vue",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,829",
+            "forks": "470",
+            "language": "Vue",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "16,975",
+            "forks": "1,300",
+            "language": "Vue",
+            "stars_today": "83 stars this week"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "2,553",
+            "forks": "265",
+            "language": "Vue",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "朴素的用户界面管理是一款基于VUE 3、VITE 3和打字脚本的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目.无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "4,908",
+            "forks": "908",
+            "language": "Vue",
+            "stars_today": "33 stars this week"
+        },
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "5,483",
+            "forks": "883",
+            "language": "Vue",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "开源CRM的未来",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "The future of open source CRM",
+            "stars": "305",
+            "forks": "149",
+            "language": "Vue",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/radix-vue/shadcn-vue",
+            "name": "radix-vue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,463",
+            "forks": "255",
+            "language": "Vue",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值.🎞",
+            "url": "https://github.com/Hunlongyu/ZY-Player",
+            "name": "Hunlongyu /ZY-Player",
+            "description": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+            "stars": "14,090",
+            "forks": "2,251",
+            "language": "Vue",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,244",
+            "forks": "672",
+            "language": "Vue",
+            "stars_today": "48 stars this week"
+        },
+        {
+            "zh_des": "用Vue和Nuxt UI Pro制作的仪表板模板。",
+            "url": "https://github.com/nuxt-ui-pro/dashboard",
+            "name": "nuxt-ui-pro /dashboard",
+            "description": "A dashboard template made with Vue and Nuxt UI Pro.",
+            "stars": "376",
+            "forks": "80",
+            "language": "Vue",
+            "stars_today": "13 stars this week"
+        },
+        {
+            "zh_des": "云Flare免费临时域名电子邮件免费收发临时域名邮箱支持附件IMAP SMTP Telegram Bot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "2,050",
+            "forks": "753",
+            "language": "Vue",
+            "stars_today": "44 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "21,194",
+            "forks": "2,541",
+            "language": "Vue",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "🌈是一个基于Ant Design和Vue的企业级UI组件。🐜",
+            "url": "https://github.com/vueComponent/ant-design-vue",
+            "name": "vueComponent /ant-design-vue",
+            "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "stars": "20,108",
+            "forks": "3,781",
+            "language": "Vue",
+            "stars_today": "29 stars this week"
+        },
+        {
+            "zh_des": "NSMusicS、Go/Electron、导航场(已支持)、亚音速水母Emby AudioStation(计划支持)",
+            "url": "https://github.com/Super-Badmen-Viper/NSMusicS",
+            "name": "Super-Badmen-Viper /NSMusicS",
+            "description": "NSMusicS ，Go/Electron，navidrome(already supported)，Subsonic jellyfin emby audioStation(planned support)",
+            "stars": "868",
+            "forks": "49",
+            "language": "Vue",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "耗子面板-轻量、现代化的服务器运维管理面板",
+            "url": "https://github.com/TheTNB/panel",
+            "name": "TheTNB /panel",
+            "description": "耗子面板 - 轻量、现代化的服务器运维管理面板",
+            "stars": "915",
+            "forks": "94",
+            "language": "Vue",
+            "stars_today": "35 stars this week"
+        }
+    ]
+}
