@@ -46080,3 +46080,167 @@
         }
     ]
 }
+{
+    "09月23日": [
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,297",
+            "forks": "928",
+            "language": "Python",
+            "stars_today": "1,888 stars this week"
+        },
+        {
+            "zh_des": "🔍为逆向工程师、程序员和凌晨3点工作时重视视网膜的人提供十六进制编辑器",
+            "url": "https://github.com/WerWolv/ImHex",
+            "name": "WerWolv /ImHex",
+            "description": "🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.",
+            "stars": "43,719",
+            "forks": "1,912",
+            "language": "C++",
+            "stars_today": "896 stars this week"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,766",
+            "forks": "1,357",
+            "language": "C",
+            "stars_today": "1,447 stars this week"
+        },
+        {
+            "zh_des": "用于回答带有引文的科学文献问题的高精度RAG",
+            "url": "https://github.com/Future-House/paper-qa",
+            "name": "Future-House /paper-qa",
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "stars": "5,747",
+            "forks": "542",
+            "language": "Python",
+            "stars_today": "489 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "20,072",
+            "forks": "1,533",
+            "language": "Python",
+            "stars_today": "1,148 stars this week"
+        },
+        {
+            "zh_des": "适用于x86的快速PlayStation 1仿真器-/AArch32/AArch64/RV64",
+            "url": "https://github.com/stenzek/duckstation",
+            "name": "stenzek /duckstation",
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "stars": "6,915",
+            "forks": "675",
+            "language": "C++",
+            "stars_today": "169 stars this week"
+        },
+        {
+            "zh_des": "GitHub动作跑步者图像",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "9,950",
+            "forks": "3,018",
+            "language": "PowerShell",
+            "stars_today": "131 stars this week"
+        },
+        {
+            "zh_des": "灵活的分布式键值数据存储区，支持缓存和缓存之外的工作负载。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A flexible distributed key-value datastore that supports both caching and beyond caching workloads.",
+            "stars": "16,132",
+            "forks": "600",
+            "language": "C",
+            "stars_today": "510 stars this week"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,400",
+            "forks": "2,497",
+            "language": "TypeScript",
+            "stars_today": "331 stars this week"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,269",
+            "forks": "78,777",
+            "language": "JavaScript",
+            "stars_today": "398 stars this week"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "4,222",
+            "forks": "905",
+            "language": "Python",
+            "stars_today": "779 stars this week"
+        },
+        {
+            "zh_des": "为中小企业和企业提供免费和开源的Laravel CRM解决方案，以实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "10,422",
+            "forks": "677",
+            "language": "Blade",
+            "stars_today": "1,327 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,708",
+            "forks": "29,967",
+            "language": "Python",
+            "stars_today": "546 stars this week"
+        },
+        {
+            "zh_des": "彩色图标矩阵条形码的优化实现",
+            "url": "https://github.com/sz3/libcimbar",
+            "name": "sz3 /libcimbar",
+            "description": "Optimized implementation for color-icon-matrix barcodes",
+            "stars": "2,837",
+            "forks": "185",
+            "language": "C++",
+            "stars_today": "1,673 stars this week"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "1,895",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "917 stars this week"
+        },
+        {
+            "zh_des": "开发人员和基础设施开发人员感兴趣的免费层的SaaS、PaaS和IaaS产品列表",
+            "url": "https://github.com/ripienaar/free-for-dev",
+            "name": "ripienaar /free-for-dev",
+            "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "stars": "88,391",
+            "forks": "9,568",
+            "language": "HTML",
+            "stars_today": "1,218 stars this week"
+        }
+    ]
+}

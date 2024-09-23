@@ -50728,3 +50728,157 @@
         }
     ]
 }
+{
+    "09月23日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "41,190",
+            "forks": "9,369",
+            "language": "TypeScript",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "12,520",
+            "forks": "632",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "📨安排社交媒体帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "6,737",
+            "forks": "974",
+            "language": "TypeScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "71,884",
+            "forks": "6,878",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "402,103",
+            "forks": "37,237",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "Scalar是一个开源平台with：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐现代REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖美丽的API参考✨一流的OPENAPI/SWAGGER支持",
+            "url": "https://github.com/scalar/scalar",
+            "name": "scalar /scalar",
+            "description": "Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+            "stars": "6,054",
+            "forks": "193",
+            "language": "TypeScript",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "2,706",
+            "forks": "242",
+            "language": "TypeScript",
+            "stars_today": "84 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "117,155",
+            "forks": "14,576",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "SST v3",
+            "url": "https://github.com/sst/ion",
+            "name": "sst /ion",
+            "description": "SST v3",
+            "stars": "1,787",
+            "forks": "217",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "下一代数据科学集成开发环境Positron",
+            "url": "https://github.com/posit-dev/positron",
+            "name": "posit-dev /positron",
+            "description": "Positron, a next-generation data science IDE",
+            "stars": "2,440",
+            "forks": "73",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,003",
+            "forks": "1,812",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "OWASP Juice Shop：可能是最现代和最复杂的不安全Web应用程序",
+            "url": "https://github.com/juice-shop/juice-shop",
+            "name": "juice-shop /juice-shop",
+            "description": "OWASP Juice Shop: Probably the most modern and sophisticated insecure web application",
+            "stars": "10,212",
+            "forks": "10,452",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "捆绑了定制插件(以及内置的广告拦截程序/下载程序)的YouTube音乐桌面应用程序",
+            "url": "https://github.com/th-ch/youtube-music",
+            "name": "th-ch /youtube-music",
+            "description": "YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)",
+            "stars": "8,138",
+            "forks": "482",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "模型、文本倒排等内容的存储库",
+            "url": "https://github.com/civitai/civitai",
+            "name": "civitai /civitai",
+            "description": "A repository of models, textual inversions, and more",
+            "stars": "6,101",
+            "forks": "593",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "8,656",
+            "forks": "1,224",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
