@@ -44382,3 +44382,187 @@
         }
     ]
 }
+{
+    "09月23日": [
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "20,302",
+            "forks": "1,541",
+            "language": "Python",
+            "stars_today": "458 stars today"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "36,006",
+            "forks": "5,112",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "10,854",
+            "forks": "1,003",
+            "language": "Python",
+            "stars_today": "330 stars today"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "9,932",
+            "forks": "990",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "40,304",
+            "forks": "5,599",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "我们给你做了一个你无法拒绝的包装纸",
+            "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+            "name": "python-telegram-bot /python-telegram-bot",
+            "description": "We have made you a wrapper you can't refuse",
+            "stars": "25,923",
+            "forks": "5,253",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "31,751",
+            "forks": "3,659",
+            "language": "Python",
+            "stars_today": "257 stars today"
+        },
+        {
+            "zh_des": "为好奇的软件工程师提供的学习资源集合",
+            "url": "https://github.com/charlax/professional-programming",
+            "name": "charlax /professional-programming",
+            "description": "A collection of learning resources for curious software engineers",
+            "stars": "46,370",
+            "forks": "3,707",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "🚀基于大语言模型和rag的知识库问答系统.开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统.",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+            "stars": "10,282",
+            "forks": "1,356",
+            "language": "Python",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "机器人算法的Python示例代码。",
+            "url": "https://github.com/AtsushiSakai/PythonRobotics",
+            "name": "AtsushiSakai /PythonRobotics",
+            "description": "Python sample codes for robotics algorithms.",
+            "stars": "22,769",
+            "forks": "6,475",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "PyGWalker：将您的熊猫数据帧转换为可视化分析的交互式用户界面",
+            "url": "https://github.com/Kanaries/pygwalker",
+            "name": "Kanaries /pygwalker",
+            "description": "PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis",
+            "stars": "11,823",
+            "forks": "609",
+            "language": "Python",
+            "stars_today": "528 stars today"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "706",
+            "forks": "84",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "Python编程语言",
+            "url": "https://github.com/python/cpython",
+            "name": "python /cpython",
+            "description": "The Python programming language",
+            "stars": "62,467",
+            "forks": "29,988",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "33,637",
+            "forks": "4,092",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "Mealie是一个自托管的食谱经理和餐饮规划师，拥有RestAPI后端和Vue内置的反应式前端应用程序，为整个家庭提供愉快的用户体验。通过提供URL轻松地将食谱添加到您的数据库中，Mealie将自动导入相关数据或使用UI编辑器添加家庭食谱",
+            "url": "https://github.com/mealie-recipes/mealie",
+            "name": "mealie-recipes /mealie",
+            "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
+            "stars": "6,714",
+            "forks": "693",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "131,457",
+            "forks": "9,960",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "[NeurIPS 2022]用码本查找转换器实现稳健的人脸盲恢复",
+            "url": "https://github.com/sczhou/CodeFormer",
+            "name": "sczhou /CodeFormer",
+            "description": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer",
+            "stars": "15,211",
+            "forks": "3,231",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "由Sota AI Model提供支持的图像修复工具。从你的图片中删除任何不需要的物体、缺陷、人物，或者擦除和替换(由稳定扩散提供动力)图片上的任何东西。",
+            "url": "https://github.com/Sanster/IOPaint",
+            "name": "Sanster /IOPaint",
+            "description": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.",
+            "stars": "18,908",
+            "forks": "1,932",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        }
+    ]
+}

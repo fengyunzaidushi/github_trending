@@ -49726,3 +49726,187 @@
         }
     ]
 }
+{
+    "09月23日": [
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "49,452",
+            "forks": "5,325",
+            "language": "Python",
+            "stars_today": "5,561 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,785",
+            "forks": "1,360",
+            "language": "C",
+            "stars_today": "3,508 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "9,622",
+            "forks": "408",
+            "language": "TypeScript",
+            "stars_today": "6,295 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "14,671",
+            "forks": "1,069",
+            "language": "TypeScript",
+            "stars_today": "5,530 stars this month"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "5,097",
+            "forks": "393",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,744 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "46,011",
+            "forks": "2,451",
+            "language": "Shell",
+            "stars_today": "6,007 stars this month"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "58,795",
+            "forks": "6,745",
+            "language": "Python",
+            "stars_today": "5,399 stars this month"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "55,898",
+            "forks": "3,638",
+            "language": "Dart",
+            "stars_today": "4,699 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "47,863",
+            "forks": "3,237",
+            "language": "TypeScript",
+            "stars_today": "3,512 stars this month"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "2,203",
+            "forks": "173",
+            "language": "Shell",
+            "stars_today": "1,694 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,360",
+            "forks": "936",
+            "language": "Python",
+            "stars_today": "5,119 stars this month"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "11,061",
+            "forks": "874",
+            "language": "TypeScript",
+            "stars_today": "1,900 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,483",
+            "forks": "7,094",
+            "language": "Python",
+            "stars_today": "2,398 stars this month"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,482",
+            "forks": "571",
+            "language": "Python",
+            "stars_today": "1,381 stars this month"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "23,038",
+            "forks": "2,338",
+            "language": "JavaScript",
+            "stars_today": "3,993 stars this month"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,863",
+            "forks": "273",
+            "language": "Python",
+            "stars_today": "1,248 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,735",
+            "forks": "13,158",
+            "language": "Python",
+            "stars_today": "1,648 stars this month"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "7,609",
+            "forks": "700",
+            "language": "Python",
+            "stars_today": "1,782 stars this month"
+        }
+    ]
+}
