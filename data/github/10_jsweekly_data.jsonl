@@ -48712,3 +48712,217 @@
         }
     ]
 }
+{
+    "09月24日": [
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,294",
+            "forks": "78,787",
+            "language": "JavaScript",
+            "stars_today": "395 stars this week"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "10,281",
+            "forks": "828",
+            "language": "JavaScript",
+            "stars_today": "900 stars this week"
+        },
+        {
+            "zh_des": "24节课，12周，作为Web开发人员入门",
+            "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+            "name": "microsoft /Web-Dev-For-Beginners",
+            "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+            "stars": "83,096",
+            "forks": "12,315",
+            "language": "JavaScript",
+            "stars_today": "137 stars this week"
+        },
+        {
+            "zh_des": "流行品牌的SVG图标",
+            "url": "https://github.com/simple-icons/simple-icons",
+            "name": "simple-icons /simple-icons",
+            "description": "SVG icons for popular brands",
+            "stars": "20,360",
+            "forks": "2,604",
+            "language": "JavaScript",
+            "stars_today": "774 stars this week"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "187,372",
+            "forks": "30,137",
+            "language": "JavaScript",
+            "stars_today": "386 stars this week"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "125,212",
+            "forks": "26,766",
+            "language": "JavaScript",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "Docs.githorb.com的开源回购",
+            "url": "https://github.com/github/docs",
+            "name": "github /docs",
+            "description": "The open-source repo for docs.github.com",
+            "stars": "16,138",
+            "forks": "59,332",
+            "language": "JavaScript",
+            "stars_today": "47 stars this week"
+        },
+        {
+            "zh_des": "面向高级用户的LLM前端。",
+            "url": "https://github.com/SillyTavern/SillyTavern",
+            "name": "SillyTavern /SillyTavern",
+            "description": "LLM Frontend for Power Users.",
+            "stars": "7,598",
+            "forks": "2,179",
+            "language": "JavaScript",
+            "stars_today": "94 stars this week"
+        },
+        {
+            "zh_des": "用于学习网络开发的开放课程",
+            "url": "https://github.com/TheOdinProject/curriculum",
+            "name": "TheOdinProject /curriculum",
+            "description": "The open curriculum for learning web development",
+            "stars": "9,829",
+            "forks": "13,187",
+            "language": "JavaScript",
+            "stars_today": "129 stars this week"
+        },
+        {
+            "zh_des": "快速、低开销的Web框架，用于Node.js",
+            "url": "https://github.com/fastify/fastify",
+            "name": "fastify /fastify",
+            "description": "Fast and low overhead web framework, for Node.js",
+            "stars": "31,994",
+            "forks": "2,265",
+            "language": "JavaScript",
+            "stars_today": "120 stars this week"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "4,677",
+            "forks": "5,382",
+            "language": "JavaScript",
+            "stars_today": "200 stars this week"
+        },
+        {
+            "zh_des": "UBlock Origin-一款针对Chromium和Firefox的高效拦截器。又快又倾斜。",
+            "url": "https://github.com/gorhill/uBlock",
+            "name": "gorhill /uBlock",
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "stars": "46,074",
+            "forks": "3,088",
+            "language": "JavaScript",
+            "stars_today": "166 stars this week"
+        },
+        {
+            "zh_des": "客户端生成适用于每个人的JavaScript PDF。",
+            "url": "https://github.com/parallax/jsPDF",
+            "name": "parallax /jsPDF",
+            "description": "Client-side JavaScript PDF generation for everyone.",
+            "stars": "29,062",
+            "forks": "4,644",
+            "language": "JavaScript",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "106,719",
+            "forks": "29,114",
+            "language": "JavaScript",
+            "stars_today": "175 stars this week"
+        },
+        {
+            "zh_des": "WebKit项目的总部，Safari、Mail、App Store和MacOS、iOS和Linux上的许多其他应用程序使用的浏览器引擎。",
+            "url": "https://github.com/WebKit/WebKit",
+            "name": "WebKit /WebKit",
+            "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+            "stars": "7,892",
+            "forks": "1,342",
+            "language": "JavaScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "猫抓浏览器资源嗅探扩展/CAT-Catch浏览器资源嗅探扩展",
+            "url": "https://github.com/xifangczy/cat-catch",
+            "name": "xifangczy /cat-catch",
+            "description": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+            "stars": "9,136",
+            "forks": "846",
+            "language": "JavaScript",
+            "stars_today": "131 stars this week"
+        },
+        {
+            "zh_des": "为现代网络构建的基于Node.js的论坛软件",
+            "url": "https://github.com/NodeBB/NodeBB",
+            "name": "NodeBB /NodeBB",
+            "description": "Node.js based forum software built for the modern web",
+            "stars": "14,122",
+            "forks": "2,777",
+            "language": "JavaScript",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "基于Baileys的WhatsApp机器人",
+            "url": "https://github.com/lyfe00011/whatsapp-bot",
+            "name": "lyfe00011 /whatsapp-bot",
+            "description": "A whatsapp bot based on baileys",
+            "stars": "405",
+            "forks": "4,320",
+            "language": "JavaScript",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "学术个人网站的GitHub页面模板，源自错误数/最小错误数",
+            "url": "https://github.com/academicpages/academicpages.github.io",
+            "name": "academicpages /academicpages.github.io",
+            "description": "Github Pages template for academic personal websites, forked from mmistakes/minimal-mistakes",
+            "stars": "11,793",
+            "forks": "42,311",
+            "language": "JavaScript",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "15,136",
+            "forks": "3,612",
+            "language": "JavaScript",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "LeetCode解决方案：我解决问题过程的记录。(LeetCode题解，记录自己的LeetCode解题之路。)",
+            "url": "https://github.com/azl397985856/leetcode",
+            "name": "azl397985856 /leetcode",
+            "description": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+            "stars": "54,499",
+            "forks": "9,458",
+            "language": "JavaScript",
+            "stars_today": "73 stars this week"
+        }
+    ]
+}
