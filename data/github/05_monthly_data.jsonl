@@ -50292,3 +50292,167 @@
         }
     ]
 }
+{
+    "09月25日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "12,281",
+            "forks": "921",
+            "language": "Python",
+            "stars_today": "12,355 stars this month"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "49,731",
+            "forks": "5,348",
+            "language": "Python",
+            "stars_today": "5,725 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,498",
+            "forks": "944",
+            "language": "Python",
+            "stars_today": "5,319 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,581",
+            "forks": "7,106",
+            "language": "Python",
+            "stars_today": "2,452 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,090",
+            "forks": "1,656",
+            "language": "Python",
+            "stars_today": "2,996 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,825",
+            "forks": "13,161",
+            "language": "Python",
+            "stars_today": "1,678 stars this month"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "58,955",
+            "forks": "6,753",
+            "language": "Python",
+            "stars_today": "5,504 stars this month"
+        },
+        {
+            "zh_des": "文本到视频生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "Text-to-video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "7,696",
+            "forks": "707",
+            "language": "Python",
+            "stars_today": "1,860 stars this month"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "2,015",
+            "forks": "122",
+            "language": "Python",
+            "stars_today": "1,111 stars this month"
+        },
+        {
+            "zh_des": "各种人工智能脚本。大部分是稳定的扩散材料。",
+            "url": "https://github.com/ostris/ai-toolkit",
+            "name": "ostris /ai-toolkit",
+            "description": "Various AI scripts. Mostly Stable Diffusion stuff.",
+            "stars": "2,901",
+            "forks": "273",
+            "language": "Python",
+            "stars_today": "1,184 stars this month"
+        },
+        {
+            "zh_des": "Python+NumPy程序的可组合转换：区分、矢量化、JIT到GPU/TPU等",
+            "url": "https://github.com/jax-ml/jax",
+            "name": "jax-ml /jax",
+            "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+            "stars": "30,035",
+            "forks": "2,751",
+            "language": "Python",
+            "stars_today": "492 stars this month"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "809",
+            "forks": "99",
+            "language": "Python",
+            "stars_today": "251 stars this month"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,512",
+            "forks": "573",
+            "language": "Python",
+            "stars_today": "1,316 stars this month"
+        },
+        {
+            "zh_des": "OCR软件，免费和离线。开源、免费的离线OCR软件。支持截屏/批量导入图片，pdf文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库.",
+            "url": "https://github.com/hiroi-sora/Umi-OCR",
+            "name": "hiroi-sora /Umi-OCR",
+            "description": "OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。",
+            "stars": "25,808",
+            "forks": "2,610",
+            "language": "Python",
+            "stars_today": "1,649 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "71,758",
+            "forks": "30,008",
+            "language": "Python",
+            "stars_today": "1,321 stars this month"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "8,334",
+            "forks": "2,802",
+            "language": "Python",
+            "stars_today": "2,979 stars this month"
+        }
+    ]
+}
