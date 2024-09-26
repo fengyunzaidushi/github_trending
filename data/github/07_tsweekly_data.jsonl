@@ -49837,3 +49837,167 @@
         }
     ]
 }
+{
+    "09月26日": [
+        {
+            "zh_des": "更现代的终点站",
+            "url": "https://github.com/Eugeny/tabby",
+            "name": "Eugeny /tabby",
+            "description": "A terminal for a more modern age",
+            "stars": "58,516",
+            "forks": "3,367",
+            "language": "TypeScript",
+            "stars_today": "204 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "12,581",
+            "forks": "633",
+            "language": "TypeScript",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "22,296",
+            "forks": "1,282",
+            "language": "TypeScript",
+            "stars_today": "225 stars this week"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "72,004",
+            "forks": "6,894",
+            "language": "TypeScript",
+            "stars_today": "344 stars this week"
+        },
+        {
+            "zh_des": "为现代网络开发人员上传文件",
+            "url": "https://github.com/pingdotgg/uploadthing",
+            "name": "pingdotgg /uploadthing",
+            "description": "File uploads for modern web devs",
+            "stars": "4,099",
+            "forks": "303",
+            "language": "TypeScript",
+            "stars_today": "82 stars this week"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,513",
+            "forks": "2,503",
+            "language": "TypeScript",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "⏳现代脚本日期实用程序库⌛️",
+            "url": "https://github.com/date-fns/date-fns",
+            "name": "date-fns /date-fns",
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "stars": "34,570",
+            "forks": "1,782",
+            "language": "TypeScript",
+            "stars_today": "68 stars this week"
+        },
+        {
+            "zh_des": "Sass让css变得有趣！",
+            "url": "https://github.com/sass/sass",
+            "name": "sass /sass",
+            "description": "Sass makes CSS fun!",
+            "stars": "15,076",
+            "forks": "2,159",
+            "language": "TypeScript",
+            "stars_today": "20 stars this week"
+        },
+        {
+            "zh_des": "用于绘制手绘示意图的虚拟白板",
+            "url": "https://github.com/excalidraw/excalidraw",
+            "name": "excalidraw /excalidraw",
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "stars": "81,729",
+            "forks": "7,545",
+            "language": "TypeScript",
+            "stars_today": "494 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "402,407",
+            "forks": "37,279",
+            "language": "TypeScript",
+            "stars_today": "926 stars this week"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "82,133",
+            "forks": "4,151",
+            "language": "TypeScript",
+            "stars_today": "199 stars this week"
+        },
+        {
+            "zh_des": "官方的、固执己见的、包含电池的高效Redux开发工具包",
+            "url": "https://github.com/reduxjs/redux-toolkit",
+            "name": "reduxjs /redux-toolkit",
+            "description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+            "stars": "10,668",
+            "forks": "1,160",
+            "language": "TypeScript",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "31,351",
+            "forks": "927",
+            "language": "TypeScript",
+            "stars_today": "304 stars this week"
+        },
+        {
+            "zh_des": "🧡一切都是RSSible",
+            "url": "https://github.com/DIYgod/RSSHub",
+            "name": "DIYgod /RSSHub",
+            "description": "🧡 Everything is RSSible",
+            "stars": "32,417",
+            "forks": "7,215",
+            "language": "TypeScript",
+            "stars_today": "228 stars this week"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "3,162",
+            "forks": "286",
+            "language": "TypeScript",
+            "stars_today": "581 stars this week"
+        },
+        {
+            "zh_des": "从Web浏览器交互运行编译器并与程序集交互",
+            "url": "https://github.com/compiler-explorer/compiler-explorer",
+            "name": "compiler-explorer /compiler-explorer",
+            "description": "Run compilers interactively from your web browser and interact with the assembly",
+            "stars": "16,110",
+            "forks": "1,718",
+            "language": "TypeScript",
+            "stars_today": "124 stars this week"
+        }
+    ]
+}

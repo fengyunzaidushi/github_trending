@@ -50616,3 +50616,197 @@
         }
     ]
 }
+{
+    "09月26日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "12,324",
+            "forks": "923",
+            "language": "Python",
+            "stars_today": "12,367 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,898",
+            "forks": "1,369",
+            "language": "C",
+            "stars_today": "3,691 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "10,006",
+            "forks": "431",
+            "language": "TypeScript",
+            "stars_today": "6,784 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "14,881",
+            "forks": "1,080",
+            "language": "TypeScript",
+            "stars_today": "5,656 stars this month"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "5,189",
+            "forks": "400",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,426 stars this month"
+        },
+        {
+            "zh_des": "黑客的All in One黑客工具",
+            "url": "https://github.com/Z4nzu/hackingtool",
+            "name": "Z4nzu /hackingtool",
+            "description": "ALL IN ONE Hacking Tool For Hackers",
+            "stars": "49,788",
+            "forks": "5,353",
+            "language": "Python",
+            "stars_today": "5,569 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "46,116",
+            "forks": "2,462",
+            "language": "Shell",
+            "stars_today": "5,990 stars this month"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "56,056",
+            "forks": "3,648",
+            "language": "Dart",
+            "stars_today": "4,851 stars this month"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "11,210",
+            "forks": "878",
+            "language": "TypeScript",
+            "stars_today": "2,061 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "8,245",
+            "forks": "1,104",
+            "language": "TypeScript",
+            "stars_today": "848 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "47,990",
+            "forks": "3,249",
+            "language": "TypeScript",
+            "stars_today": "3,607 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,529",
+            "forks": "945",
+            "language": "Python",
+            "stars_today": "5,369 stars this month"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "2,258",
+            "forks": "178",
+            "language": "Shell",
+            "stars_today": "1,746 stars this month"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "20,607",
+            "forks": "7,111",
+            "language": "Python",
+            "stars_today": "2,504 stars this month"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "24,350",
+            "forks": "6,893",
+            "language": "C",
+            "stars_today": "3,360 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,245",
+            "forks": "1,664",
+            "language": "Python",
+            "stars_today": "3,697 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,848",
+            "forks": "13,165",
+            "language": "Python",
+            "stars_today": "1,727 stars this month"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "23,293",
+            "forks": "2,359",
+            "language": "JavaScript",
+            "stars_today": "4,196 stars this month"
+        },
+        {
+            "zh_des": "在社交网络中按用户名搜索社交媒体帐户",
+            "url": "https://github.com/sherlock-project/sherlock",
+            "name": "sherlock-project /sherlock",
+            "description": "Hunt down social media accounts by username across social networks",
+            "stars": "58,994",
+            "forks": "6,757",
+            "language": "Python",
+            "stars_today": "5,567 stars this month"
+        }
+    ]
+}
