@@ -45928,3 +45928,177 @@
         }
     ]
 }
+{
+    "09月27日": [
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "45,879",
+            "forks": "2,269",
+            "language": "TypeScript",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "解开谜题。学习CUDA。",
+            "url": "https://github.com/srush/GPU-Puzzles",
+            "name": "srush /GPU-Puzzles",
+            "description": "Solve puzzles. Learn CUDA.",
+            "stars": "8,786",
+            "forks": "538",
+            "language": "Jupyter Notebook",
+            "stars_today": "363 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序，展示用于WhatsApp和Messenger的Meta Llama。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+            "stars": "11,765",
+            "forks": "1,710",
+            "language": "Jupyter Notebook",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "46,552",
+            "forks": "2,400",
+            "language": "Dart",
+            "stars_today": "1,443 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "1,666",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "501 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的代理组件",
+            "url": "https://github.com/meta-llama/llama-stack-apps",
+            "name": "meta-llama /llama-stack-apps",
+            "description": "Agentic components of the Llama Stack APIs",
+            "stars": "3,484",
+            "forks": "382",
+            "language": "Python",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "5,483",
+            "forks": "604",
+            "language": "Jupyter Notebook",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "AI Chat💬🚀的Reaction组件",
+            "url": "https://github.com/Yonom/assistant-ui",
+            "name": "Yonom /assistant-ui",
+            "description": "React Components for AI Chat 💬 🚀",
+            "stars": "907",
+            "forks": "111",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "DiceDB是一个内存中的实时数据库，具有基于SQL的反应性。它为在现代硬件上构建和扩展真正的实时应用程序而进行了超级优化，同时也是Redis的替代产品。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory real-time database with SQL-based reactivity. It is hyper-optimized for building and scaling truly real-time applications on modern hardware while being a drop-in replacement for Redis.",
+            "stars": "4,852",
+            "forks": "636",
+            "language": "Go",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "从Git存储库历史中获得高级洞察力。",
+            "url": "https://github.com/src-d/hercules",
+            "name": "src-d /hercules",
+            "description": "Gaining advanced insights from Git repository history.",
+            "stars": "2,503",
+            "forks": "189",
+            "language": "Go",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "协调和自动化平台，在代码和用户界面中以声明方式执行数以百万计的计划和事件驱动的工作流",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI",
+            "stars": "8,341",
+            "forks": "544",
+            "language": "Java",
+            "stars_today": "263 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,280",
+            "forks": "1,870",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "此资源库用于主动开发用于.NET的Azure SDK。对于SDK的用户，我们建议访问https://learn.microsoft.com/dotnet/azure/or上的公共开发人员文档和https://azure.github.io/azure-sdk-for-net.上的版本开发人员文档",
+            "url": "https://github.com/Azure/azure-sdk-for-net",
+            "name": "Azure /azure-sdk-for-net",
+            "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.",
+            "stars": "5,289",
+            "forks": "4,655",
+            "language": "C#",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "系统计划软件",
+            "url": "https://github.com/systeminit/si",
+            "name": "systeminit /si",
+            "description": "The System Initiative software",
+            "stars": "1,149",
+            "forks": "110",
+            "language": "Rust",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,832",
+            "forks": "25,310",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "核心的Laravel CMS Composer包",
+            "url": "https://github.com/statamic/cms",
+            "name": "statamic /cms",
+            "description": "The core Laravel CMS Composer package",
+            "stars": "3,777",
+            "forks": "517",
+            "language": "PHP",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "26,923",
+            "forks": "4,864",
+            "language": "Rust",
+            "stars_today": "552 stars today"
+        }
+    ]
+}
