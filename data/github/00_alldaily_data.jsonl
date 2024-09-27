@@ -45764,3 +45764,167 @@
         }
     ]
 }
+{
+    "09月27日": [
+        {
+            "zh_des": "AirDrop的开源跨平台替代品",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "46,205",
+            "forks": "2,350",
+            "language": "Dart",
+            "stars_today": "526 stars today"
+        },
+        {
+            "zh_des": "解谜。学习CUDA。",
+            "url": "https://github.com/srush/GPU-Puzzles",
+            "name": "srush /GPU-Puzzles",
+            "description": "Solve puzzles. Learn CUDA.",
+            "stars": "8,653",
+            "forks": "455",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,348 stars today"
+        },
+        {
+            "zh_des": "🤱🏻Turn any webpage into a desktop app with Rust.🤱🏻使用Rust轻型结构构建轻型多头面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "26,737",
+            "forks": "4,844",
+            "language": "Rust",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "使用Flutter构建的漫画应用程序，支持多个漫画来源。",
+            "url": "https://github.com/wgh136/PicaComic",
+            "name": "wgh136 /PicaComic",
+            "description": "A comic app built with Flutter, supporting multiple comic sources.",
+            "stars": "7,000",
+            "forks": "521",
+            "language": "Dart",
+            "stars_today": "398 stars today"
+        },
+        {
+            "zh_des": "Lama Stack API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "1,486",
+            "forks": "134",
+            "language": "Python",
+            "stars_today": "692 stars today"
+        },
+        {
+            "zh_des": "科技爱好者周刊，每周五发布",
+            "url": "https://github.com/ruanyf/weekly",
+            "name": "ruanyf /weekly",
+            "description": "科技爱好者周刊，每周五发布",
+            "stars": "46,510",
+            "forks": "2,830",
+            "language": "",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "免费开源地图托管解决方案，使用OpenStreetMap数据，为网站和应用程序提供自定义风格",
+            "url": "https://github.com/hyperknot/openfreemap",
+            "name": "hyperknot /openfreemap",
+            "description": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
+            "stars": "1,436",
+            "forks": "28",
+            "language": "Python",
+            "stars_today": "283 stars today"
+        },
+        {
+            "zh_des": "调度和自动化平台，以代码和UI声明方式执行数百万个计划和事件驱动的工作流程",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI",
+            "stars": "8,250",
+            "forks": "490",
+            "language": "Java",
+            "stars_today": "266 stars today"
+        },
+        {
+            "zh_des": "Backstage是一个用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "27,792",
+            "forks": "5,855",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Lama Stack API的抽象组件",
+            "url": "https://github.com/meta-llama/llama-stack-apps",
+            "name": "meta-llama /llama-stack-apps",
+            "description": "Agentic components of the Llama Stack APIs",
+            "stars": "3,436",
+            "forks": "344",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "Letta（fka MemGPT）是一个用于创建有状态LLM服务的框架。",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Letta (fka MemGPT) is a framework for creating stateful LLM services.",
+            "stars": "11,805",
+            "forks": "1,284",
+            "language": "Python",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的开源支付开关，使支付快速、可靠且负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "11,907",
+            "forks": "1,245",
+            "language": "Rust",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "React的简单且可重复使用的日期选择器组件",
+            "url": "https://github.com/Hacker0x01/react-datepicker",
+            "name": "Hacker0x01 /react-datepicker",
+            "description": "A simple and reusable datepicker component for React",
+            "stars": "8,035",
+            "forks": "2,237",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "m3 u8 [m3 u8-下载器] 视频在线提取工具 流媒体下载，视频下载，m3 u8下载，B站视频下载 桌面客户端 Windows mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "3,344",
+            "forks": "300",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "用Rust编写的Python解释器",
+            "url": "https://github.com/RustPython/RustPython",
+            "name": "RustPython /RustPython",
+            "description": "A Python Interpreter written in Rust",
+            "stars": "18,955",
+            "forks": "1,227",
+            "language": "Rust",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "解释性数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "62,550",
+            "forks": "5,798",
+            "language": "Python",
+            "stars_today": "110 stars today"
+        }
+    ]
+}

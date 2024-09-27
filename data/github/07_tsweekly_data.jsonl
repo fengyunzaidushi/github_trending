@@ -50135,3 +50135,137 @@
         }
     ]
 }
+{
+    "09月27日": [
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "31,438",
+            "forks": "928",
+            "language": "TypeScript",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "22,328",
+            "forks": "1,282",
+            "language": "TypeScript",
+            "stars_today": "235 stars this week"
+        },
+        {
+            "zh_des": "Sass让css变得有趣！",
+            "url": "https://github.com/sass/sass",
+            "name": "sass /sass",
+            "description": "Sass makes CSS fun!",
+            "stars": "15,077",
+            "forks": "2,159",
+            "language": "TypeScript",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "72,040",
+            "forks": "6,900",
+            "language": "TypeScript",
+            "stars_today": "320 stars this week"
+        },
+        {
+            "zh_des": "用于绘制手绘示意图的虚拟白板",
+            "url": "https://github.com/excalidraw/excalidraw",
+            "name": "excalidraw /excalidraw",
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "stars": "81,787",
+            "forks": "7,551",
+            "language": "TypeScript",
+            "stars_today": "460 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "402,469",
+            "forks": "37,290",
+            "language": "TypeScript",
+            "stars_today": "827 stars this week"
+        },
+        {
+            "zh_des": "更现代的终点站",
+            "url": "https://github.com/Eugeny/tabby",
+            "name": "Eugeny /tabby",
+            "description": "A terminal for a more modern age",
+            "stars": "58,546",
+            "forks": "3,367",
+            "language": "TypeScript",
+            "stars_today": "250 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "12,587",
+            "forks": "634",
+            "language": "TypeScript",
+            "stars_today": "231 stars this week"
+        },
+        {
+            "zh_des": "Scalar是一个开源平台with：　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐现代REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖美丽的API参考✨一流的OPENAPI/SWAGGER支持",
+            "url": "https://github.com/scalar/scalar",
+            "name": "scalar /scalar",
+            "description": "Scalar is an open-source platform with:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　✨ 1st-Class OpenAPI/Swagger Support",
+            "stars": "6,198",
+            "forks": "197",
+            "language": "TypeScript",
+            "stars_today": "427 stars this week"
+        },
+        {
+            "zh_des": "官方的、固执己见的、包含电池的高效Redux开发工具包",
+            "url": "https://github.com/reduxjs/redux-toolkit",
+            "name": "reduxjs /redux-toolkit",
+            "description": "The official, opinionated, batteries-included toolset for efficient Redux development",
+            "stars": "10,671",
+            "forks": "1,161",
+            "language": "TypeScript",
+            "stars_today": "21 stars this week"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的脚本/类型，完全可定制，并且是开发者优先的。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "stars": "63,004",
+            "forks": "7,921",
+            "language": "TypeScript",
+            "stars_today": "173 stars this week"
+        },
+        {
+            "zh_des": "用于构建OnChain应用程序UX的全栈工具包",
+            "url": "https://github.com/reown-com/appkit",
+            "name": "reown-com /appkit",
+            "description": "The full stack toolkit to build onchain app UX",
+            "stars": "4,872",
+            "forks": "1,368",
+            "language": "TypeScript",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "3,344",
+            "forks": "300",
+            "language": "TypeScript",
+            "stars_today": "659 stars this week"
+        }
+    ]
+}
