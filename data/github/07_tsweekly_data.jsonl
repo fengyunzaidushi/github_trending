@@ -50413,3 +50413,147 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,384",
+            "forks": "1,875",
+            "language": "TypeScript",
+            "stars_today": "311 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "22,347",
+            "forks": "1,282",
+            "language": "TypeScript",
+            "stars_today": "235 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "12,596",
+            "forks": "635",
+            "language": "TypeScript",
+            "stars_today": "174 stars this week"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "31,475",
+            "forks": "930",
+            "language": "TypeScript",
+            "stars_today": "417 stars this week"
+        },
+        {
+            "zh_des": "AI Chat💬🚀的Reaction组件",
+            "url": "https://github.com/Yonom/assistant-ui",
+            "name": "Yonom /assistant-ui",
+            "description": "React Components for AI Chat 💬 🚀",
+            "stars": "988",
+            "forks": "116",
+            "language": "TypeScript",
+            "stars_today": "310 stars this week"
+        },
+        {
+            "zh_des": "更现代的终点站",
+            "url": "https://github.com/Eugeny/tabby",
+            "name": "Eugeny /tabby",
+            "description": "A terminal for a more modern age",
+            "stars": "58,566",
+            "forks": "3,367",
+            "language": "TypeScript",
+            "stars_today": "262 stars this week"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的脚本/类型，完全可定制，并且是开发者优先的。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "stars": "63,022",
+            "forks": "7,929",
+            "language": "TypeScript",
+            "stars_today": "166 stars this week"
+        },
+        {
+            "zh_des": "为静态和动态页面启动具有实时重新加载功能的开发本地服务器。",
+            "url": "https://github.com/ritwickdey/vscode-live-server",
+            "name": "ritwickdey /vscode-live-server",
+            "description": "Launch a development local Server with live reload feature for static & dynamic pages.",
+            "stars": "5,691",
+            "forks": "1,244",
+            "language": "TypeScript",
+            "stars_today": "20 stars this week"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "402,530",
+            "forks": "37,303",
+            "language": "TypeScript",
+            "stars_today": "756 stars this week"
+        },
+        {
+            "zh_des": "ActivityPub-直接在您的Web浏览器中使用P2P的联合视频流媒体平台",
+            "url": "https://github.com/Chocobozzz/PeerTube",
+            "name": "Chocobozzz /PeerTube",
+            "description": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+            "stars": "12,970",
+            "forks": "1,491",
+            "language": "TypeScript",
+            "stars_today": "38 stars this week"
+        },
+        {
+            "zh_des": "用于构建OnChain应用程序UX的全栈工具包",
+            "url": "https://github.com/reown-com/appkit",
+            "name": "reown-com /appkit",
+            "description": "The full stack toolkit to build onchain app UX",
+            "stars": "4,879",
+            "forks": "1,369",
+            "language": "TypeScript",
+            "stars_today": "47 stars this week"
+        },
+        {
+            "zh_des": "Sass让css变得有趣！",
+            "url": "https://github.com/sass/sass",
+            "name": "sass /sass",
+            "description": "Sass makes CSS fun!",
+            "stars": "15,077",
+            "forks": "2,158",
+            "language": "TypeScript",
+            "stars_today": "18 stars this week"
+        },
+        {
+            "zh_des": "InvokeAI是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的AI驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，通过CLI支持终端使用，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products.",
+            "stars": "23,024",
+            "forks": "2,380",
+            "language": "TypeScript",
+            "stars_today": "153 stars this week"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "3,419",
+            "forks": "307",
+            "language": "TypeScript",
+            "stars_today": "860 stars this week"
+        }
+    ]
+}

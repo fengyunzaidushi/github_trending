@@ -45968,3 +45968,187 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "1,783",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "501 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的代理组件",
+            "url": "https://github.com/meta-llama/llama-stack-apps",
+            "name": "meta-llama /llama-stack-apps",
+            "description": "Agentic components of the Llama Stack APIs",
+            "stars": "3,527",
+            "forks": "386",
+            "language": "Python",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "用于骆驼模型的实用程序。",
+            "url": "https://github.com/meta-llama/llama-models",
+            "name": "meta-llama /llama-models",
+            "description": "Utilities intended for use with Llama models.",
+            "stars": "4,173",
+            "forks": "746",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "37,176",
+            "forks": "5,252",
+            "language": "Python",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "研发(R&D)对于提升工业生产率至关重要，尤其是在研发的核心方面主要集中在数据和模型的AI时代。我们致力于通过我们的开源研发自动化工具RD-代理来自动化这些高价值的通用研发流程，该工具让AI驱动数据驱动的AI。",
+            "url": "https://github.com/microsoft/RD-Agent",
+            "name": "microsoft /RD-Agent",
+            "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.",
+            "stars": "431",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示基础模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—foundation models",
+            "stars": "17,305",
+            "forks": "1,324",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "您的检索增强生成(RAG)管道的评估框架",
+            "url": "https://github.com/explodinggradients/ragas",
+            "name": "explodinggradients /ragas",
+            "description": "Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines",
+            "stars": "6,722",
+            "forks": "660",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "4,129",
+            "forks": "334",
+            "language": "Python",
+            "stars_today": "567 stars today"
+        },
+        {
+            "zh_des": "用强化学习训练变压器语言模型。",
+            "url": "https://github.com/huggingface/trl",
+            "name": "huggingface /trl",
+            "description": "Train transformer language models with reinforcement learning.",
+            "stars": "9,397",
+            "forks": "1,183",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "免费开源地图托管解决方案，具有网站和应用程序的自定义样式，使用OpenStreetMap数据",
+            "url": "https://github.com/hyperknot/openfreemap",
+            "name": "hyperknot /openfreemap",
+            "description": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
+            "stars": "1,581",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "319 stars today"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "37,688",
+            "forks": "24,518",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "从命令行访问大型语言模型",
+            "url": "https://github.com/simonw/llm",
+            "name": "simonw /llm",
+            "description": "Access large language models from the command-line",
+            "stars": "4,285",
+            "forks": "237",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "与您的数据库(SQL、CSV、PANAS、Polars、MongoDB、NoSQL等)聊天。PandasAI使用LLMS(GPT 3.5/4，Anthropic，Vertex AI)和RAG进行数据分析对话。",
+            "url": "https://github.com/Sinaptik-AI/pandas-ai",
+            "name": "Sinaptik-AI /pandas-ai",
+            "description": "Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+            "stars": "12,695",
+            "forks": "1,228",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "TikToken是一种用于OpenAI模型的快速BPE标记器。",
+            "url": "https://github.com/openai/tiktoken",
+            "name": "openai /tiktoken",
+            "description": "tiktoken is a fast BPE tokeniser for use with OpenAI's models.",
+            "stars": "11,915",
+            "forks": "807",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Letta(FKA MemGPT)是一个用于创建有状态LLM服务的框架。",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Letta (fka MemGPT) is a framework for creating stateful LLM services.",
+            "stars": "11,825",
+            "forks": "1,285",
+            "language": "Python",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "184,593",
+            "forks": "44,368",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "骆驼模型的推理代码",
+            "url": "https://github.com/meta-llama/llama",
+            "name": "meta-llama /llama",
+            "description": "Inference code for Llama models",
+            "stars": "55,698",
+            "forks": "9,497",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Meta Llama 3 GitHub官方网站",
+            "url": "https://github.com/meta-llama/llama3",
+            "name": "meta-llama /llama3",
+            "description": "The official Meta Llama 3 GitHub site",
+            "stars": "26,353",
+            "forks": "2,968",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        }
+    ]
+}

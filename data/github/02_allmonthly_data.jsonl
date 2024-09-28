@@ -51402,3 +51402,207 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "12,513",
+            "forks": "936",
+            "language": "Python",
+            "stars_today": "11,930 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "10,238",
+            "forks": "442",
+            "language": "TypeScript",
+            "stars_today": "7,019 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "12,955",
+            "forks": "1,373",
+            "language": "C",
+            "stars_today": "3,759 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,603",
+            "forks": "949",
+            "language": "Python",
+            "stars_today": "5,442 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "15,036",
+            "forks": "1,089",
+            "language": "TypeScript",
+            "stars_today": "5,734 stars this month"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "5,261",
+            "forks": "402",
+            "language": "Jupyter Notebook",
+            "stars_today": "3,317 stars this month"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "11,310",
+            "forks": "885",
+            "language": "TypeScript",
+            "stars_today": "2,148 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,449",
+            "forks": "1,678",
+            "language": "Python",
+            "stars_today": "4,079 stars this month"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "1,783",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "1,303 stars this month"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "2,307",
+            "forks": "185",
+            "language": "Shell",
+            "stars_today": "1,783 stars this month"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "46,180",
+            "forks": "2,469",
+            "language": "Shell",
+            "stars_today": "5,951 stars this month"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "24,430",
+            "forks": "6,898",
+            "language": "C",
+            "stars_today": "3,419 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,591",
+            "forks": "2,509",
+            "language": "TypeScript",
+            "stars_today": "1,301 stars this month"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "23,469",
+            "forks": "2,369",
+            "language": "JavaScript",
+            "stars_today": "4,298 stars this month"
+        },
+        {
+            "zh_des": "面向所有人的Deepfakes软件",
+            "url": "https://github.com/deepfakes/faceswap",
+            "name": "deepfakes /faceswap",
+            "description": "Deepfakes Software For All",
+            "stars": "51,929",
+            "forks": "13,167",
+            "language": "Python",
+            "stars_today": "1,768 stars this month"
+        },
+        {
+            "zh_des": "由坞站支持的PaaS可帮助您构建和管理应用程序的生命周期",
+            "url": "https://github.com/dokku/dokku",
+            "name": "dokku /dokku",
+            "description": "A docker-powered PaaS that helps you build and manage the lifecycle of applications",
+            "stars": "28,904",
+            "forks": "1,907",
+            "language": "Shell",
+            "stars_today": "2,100 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源机场替代方案",
+            "url": "https://github.com/nocodb/nocodb",
+            "name": "nocodb /nocodb",
+            "description": "🔥 🔥 🔥 Open Source Airtable Alternative",
+            "stars": "48,076",
+            "forks": "3,251",
+            "language": "TypeScript",
+            "stars_today": "3,668 stars this month"
+        },
+        {
+            "zh_des": "随时随地部署Web应用。",
+            "url": "https://github.com/basecamp/kamal",
+            "name": "basecamp /kamal",
+            "description": "Deploy web apps anywhere.",
+            "stars": "10,262",
+            "forks": "388",
+            "language": "Ruby",
+            "stars_today": "695 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "16,416",
+            "forks": "1,281",
+            "language": "TypeScript",
+            "stars_today": "1,568 stars this month"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是一个AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。概念的最佳开源替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.",
+            "stars": "56,185",
+            "forks": "3,656",
+            "language": "Dart",
+            "stars_today": "4,895 stars this month"
+        }
+    ]
+}
