@@ -47624,3 +47624,157 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "46,783",
+            "forks": "2,414",
+            "language": "Dart",
+            "stars_today": "4,301 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,471",
+            "forks": "1,679",
+            "language": "Python",
+            "stars_today": "3,255 stars this week"
+        },
+        {
+            "zh_des": "随时随地部署Web应用。",
+            "url": "https://github.com/basecamp/kamal",
+            "name": "basecamp /kamal",
+            "description": "Deploy web apps anywhere.",
+            "stars": "10,295",
+            "forks": "389",
+            "language": "Ruby",
+            "stars_today": "453 stars this week"
+        },
+        {
+            "zh_des": "科技爱好者周刊，每周五发布",
+            "url": "https://github.com/ruanyf/weekly",
+            "name": "ruanyf /weekly",
+            "description": "科技爱好者周刊，每周五发布",
+            "stars": "46,633",
+            "forks": "2,835",
+            "language": "",
+            "stars_today": "1,279 stars this week"
+        },
+        {
+            "zh_des": "DiceDB是一种内存、实时和反应式数据库，具有针对现代硬件和构建实时应用程序而优化的Redis和SQL支持。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+            "stars": "5,016",
+            "forks": "644",
+            "language": "Go",
+            "stars_today": "391 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "11,667",
+            "forks": "1,056",
+            "language": "Python",
+            "stars_today": "1,329 stars this week"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "167,028",
+            "forks": "44,180",
+            "language": "Python",
+            "stars_today": "394 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "5,593",
+            "forks": "605",
+            "language": "Jupyter Notebook",
+            "stars_today": "660 stars this week"
+        },
+        {
+            "zh_des": "此资源库用于主动开发用于.NET的Azure SDK。对于SDK的用户，我们建议访问https://learn.microsoft.com/dotnet/azure/or上的公共开发人员文档和https://azure.github.io/azure-sdk-for-net.上的版本开发人员文档",
+            "url": "https://github.com/Azure/azure-sdk-for-net",
+            "name": "Azure /azure-sdk-for-net",
+            "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.",
+            "stars": "5,321",
+            "forks": "4,656",
+            "language": "C#",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "2,037",
+            "forks": "218",
+            "language": "Python",
+            "stars_today": "1,207 stars this week"
+        },
+        {
+            "zh_des": "机器人算法的Python示例代码。",
+            "url": "https://github.com/AtsushiSakai/PythonRobotics",
+            "name": "AtsushiSakai /PythonRobotics",
+            "description": "Python sample codes for robotics algorithms.",
+            "stars": "22,907",
+            "forks": "6,483",
+            "language": "Python",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "PyGWalker：将您的熊猫数据帧转换为可视化分析的交互式用户界面",
+            "url": "https://github.com/Kanaries/pygwalker",
+            "name": "Kanaries /pygwalker",
+            "description": "PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis",
+            "stars": "12,640",
+            "forks": "656",
+            "language": "Python",
+            "stars_today": "1,459 stars this week"
+        },
+        {
+            "zh_des": "SCRKIT-学习：在Python中进行机器学习",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "name": "scikit-learn /scikit-learn",
+            "description": "scikit-learn: machine learning in Python",
+            "stars": "59,558",
+            "forks": "25,297",
+            "language": "Python",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "MLOPS-基础知识",
+            "url": "https://github.com/graviraja/MLOps-Basics",
+            "name": "graviraja /MLOps-Basics",
+            "description": "MLOps-Basics",
+            "stars": "5,764",
+            "forks": "962",
+            "language": "Jupyter Notebook",
+            "stars_today": "618 stars this week"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "27,732",
+            "forks": "4,913",
+            "language": "Rust",
+            "stars_today": "1,047 stars this week"
+        }
+    ]
+}

@@ -46286,3 +46286,207 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "27,732",
+            "forks": "4,913",
+            "language": "Rust",
+            "stars_today": "330 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "2,037",
+            "forks": "218",
+            "language": "Python",
+            "stars_today": "305 stars today"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "1,844",
+            "forks": "118",
+            "language": "Rust",
+            "stars_today": "143 stars today"
+        },
+        {
+            "zh_des": "使用MLX SWIFT的示例",
+            "url": "https://github.com/ml-explore/mlx-swift-examples",
+            "name": "ml-explore /mlx-swift-examples",
+            "description": "Examples using MLX Swift",
+            "stars": "842",
+            "forks": "94",
+            "language": "Swift",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "46,783",
+            "forks": "2,414",
+            "language": "Dart",
+            "stars_today": "277 stars today"
+        },
+        {
+            "zh_des": "系统计划软件",
+            "url": "https://github.com/systeminit/si",
+            "name": "systeminit /si",
+            "description": "The System Initiative software",
+            "stars": "1,256",
+            "forks": "115",
+            "language": "Rust",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "7,281",
+            "forks": "389",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "46,159",
+            "forks": "2,289",
+            "language": "TypeScript",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "免费开源机器翻译API。自托管、可离线且易于设置。",
+            "url": "https://github.com/LibreTranslate/LibreTranslate",
+            "name": "LibreTranslate /LibreTranslate",
+            "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+            "stars": "8,638",
+            "forks": "800",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "包含根据频率和所有时间排序的公司智慧问题",
+            "url": "https://github.com/krishnadey30/LeetCode-Questions-CompanyWise",
+            "name": "krishnadey30 /LeetCode-Questions-CompanyWise",
+            "description": "Contains Company Wise Questions sorted based on Frequency and all time",
+            "stars": "9,828",
+            "forks": "3,364",
+            "language": "",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "10,343",
+            "forks": "1,137",
+            "language": "TypeScript",
+            "stars_today": "185 stars today"
+        },
+        {
+            "zh_des": "此资源库用于主动开发用于.NET的Azure SDK。对于SDK的用户，我们建议访问https://learn.microsoft.com/dotnet/azure/or上的公共开发人员文档和https://azure.github.io/azure-sdk-for-net.上的版本开发人员文档",
+            "url": "https://github.com/Azure/azure-sdk-for-net",
+            "name": "Azure /azure-sdk-for-net",
+            "description": "This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs athttps://learn.microsoft.com/dotnet/azure/or our versioned developer docs athttps://azure.github.io/azure-sdk-for-net.",
+            "stars": "5,321",
+            "forks": "4,656",
+            "language": "C#",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "用强化学习训练变压器语言模型。",
+            "url": "https://github.com/huggingface/trl",
+            "name": "huggingface /trl",
+            "description": "Train transformer language models with reinforcement learning.",
+            "stars": "9,447",
+            "forks": "1,186",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序，展示用于WhatsApp和Messenger的Meta Llama。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+            "stars": "11,834",
+            "forks": "1,717",
+            "language": "Jupyter Notebook",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "航空航天是MacOS上类似i3的平铺窗口管理器",
+            "url": "https://github.com/nikitabobko/AeroSpace",
+            "name": "nikitabobko /AeroSpace",
+            "description": "AeroSpace is an i3-like tiling window manager for macOS",
+            "stars": "6,040",
+            "forks": "97",
+            "language": "Swift",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "研发(R&D)对于提升工业生产率至关重要，尤其是在研发的核心方面主要集中在数据和模型的AI时代。我们致力于通过我们的开源研发自动化工具RD-代理来自动化这些高价值的通用研发流程，该工具让AI驱动数据驱动的AI。",
+            "url": "https://github.com/microsoft/RD-Agent",
+            "name": "microsoft /RD-Agent",
+            "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.",
+            "stars": "491",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "核心的Laravel CMS Composer包",
+            "url": "https://github.com/statamic/cms",
+            "name": "statamic /cms",
+            "description": "The core Laravel CMS Composer package",
+            "stars": "3,839",
+            "forks": "518",
+            "language": "PHP",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "91,075",
+            "forks": "9,578",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "DiceDB是一种内存、实时和反应式数据库，具有针对现代硬件和构建实时应用程序而优化的Redis和SQL支持。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+            "stars": "5,016",
+            "forks": "644",
+            "language": "Go",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "用C#编写的实验任天堂Switch模拟器",
+            "url": "https://github.com/Ryujinx/Ryujinx",
+            "name": "Ryujinx /Ryujinx",
+            "description": "Experimental Nintendo Switch Emulator written in C#",
+            "stars": "34,805",
+            "forks": "3,971",
+            "language": "C#",
+            "stars_today": "20 stars today"
+        }
+    ]
+}

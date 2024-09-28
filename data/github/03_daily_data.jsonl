@@ -46152,3 +46152,157 @@
         }
     ]
 }
+{
+    "09月28日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "2,037",
+            "forks": "218",
+            "language": "Python",
+            "stars_today": "305 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "7,281",
+            "forks": "389",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "免费开源机器翻译API。自托管、可离线且易于设置。",
+            "url": "https://github.com/LibreTranslate/LibreTranslate",
+            "name": "LibreTranslate /LibreTranslate",
+            "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+            "stars": "8,638",
+            "forks": "800",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用强化学习训练变压器语言模型。",
+            "url": "https://github.com/huggingface/trl",
+            "name": "huggingface /trl",
+            "description": "Train transformer language models with reinforcement learning.",
+            "stars": "9,447",
+            "forks": "1,186",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "研发(R&D)对于提升工业生产率至关重要，尤其是在研发的核心方面主要集中在数据和模型的AI时代。我们致力于通过我们的开源研发自动化工具RD-代理来自动化这些高价值的通用研发流程，该工具让AI驱动数据驱动的AI。",
+            "url": "https://github.com/microsoft/RD-Agent",
+            "name": "microsoft /RD-Agent",
+            "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.",
+            "stars": "491",
+            "forks": "42",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "91,075",
+            "forks": "9,578",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "12,538",
+            "forks": "937",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "免费开源地图托管解决方案，具有网站和应用程序的自定义样式，使用OpenStreetMap数据",
+            "url": "https://github.com/hyperknot/openfreemap",
+            "name": "hyperknot /openfreemap",
+            "description": "Free and open-source map hosting solution with custom styles for websites and apps, using OpenStreetMap data",
+            "stars": "1,631",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的代理组件",
+            "url": "https://github.com/meta-llama/llama-stack-apps",
+            "name": "meta-llama /llama-stack-apps",
+            "description": "Agentic components of the Llama Stack APIs",
+            "stars": "3,548",
+            "forks": "387",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "37,168",
+            "forks": "2,415",
+            "language": "Python",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "InstructLab命令行界面。使用它与模型聊天，并执行InstructLab工作流以使用自定义分类数据训练模型。",
+            "url": "https://github.com/instructlab/instructlab",
+            "name": "instructlab /instructlab",
+            "description": "InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.",
+            "stars": "799",
+            "forks": "299",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "871",
+            "forks": "105",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "AlphaChip：一个开源的分布式深度强化学习芯片布局图生成框架",
+            "url": "https://github.com/google-research/circuit_training",
+            "name": "google-research /circuit_training",
+            "description": "AlphaChip: An open-source framework for generating chip floorplans with distributed deep reinforcement learning",
+            "stars": "912",
+            "forks": "152",
+            "language": "Python",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "Home Assistant中对Tuya设备的本地支持",
+            "url": "https://github.com/make-all/tuya-local",
+            "name": "make-all /tuya-local",
+            "description": "Local support for Tuya devices in Home Assistant",
+            "stars": "1,253",
+            "forks": "498",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "FastStream是一个强大且易于使用的Python框架，用于构建与事件流交互的异步服务，如ApacheKafka、RabbitMQ、NatS和Redis。",
+            "url": "https://github.com/airtai/faststream",
+            "name": "airtai /faststream",
+            "description": "FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.",
+            "stars": "2,473",
+            "forks": "126",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
