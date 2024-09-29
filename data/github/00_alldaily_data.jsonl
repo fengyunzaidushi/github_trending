@@ -46694,3 +46694,187 @@
         }
     ]
 }
+{
+    "09月29日": [
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "5,408",
+            "forks": "408",
+            "language": "Python",
+            "stars_today": "629 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "46,408",
+            "forks": "2,300",
+            "language": "TypeScript",
+            "stars_today": "268 stars today"
+        },
+        {
+            "zh_des": "🎧开源视频客户端，既不需要高级版，也不使用电子！台式机和移动设备均可使用！",
+            "url": "https://github.com/KRTirtho/spotube",
+            "name": "KRTirtho /spotube",
+            "description": "🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!",
+            "stars": "29,272",
+            "forks": "1,213",
+            "language": "Dart",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "2,460",
+            "forks": "248",
+            "language": "Python",
+            "stars_today": "548 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "7,594",
+            "forks": "402",
+            "language": "Python",
+            "stars_today": "329 stars today"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "29,018",
+            "forks": "5,039",
+            "language": "Rust",
+            "stars_today": "1,759 stars today"
+        },
+        {
+            "zh_des": "系统计划软件",
+            "url": "https://github.com/systeminit/si",
+            "name": "systeminit /si",
+            "description": "The System Initiative software",
+            "stars": "1,370",
+            "forks": "118",
+            "language": "Rust",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "78,619",
+            "forks": "36,217",
+            "language": "C++",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "29,852",
+            "forks": "2,254",
+            "language": "Ruby",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "使用MLX SWIFT的示例",
+            "url": "https://github.com/ml-explore/mlx-swift-examples",
+            "name": "ml-explore /mlx-swift-examples",
+            "description": "Examples using MLX Swift",
+            "stars": "897",
+            "forks": "96",
+            "language": "Swift",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "33,899",
+            "forks": "4,121",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "专为速度而设计。自动化，简单易用。监控和故障排除，转型！",
+            "url": "https://github.com/netdata/netdata",
+            "name": "netdata /netdata",
+            "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+            "stars": "70,745",
+            "forks": "5,866",
+            "language": "C",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "简单、强大和灵活的站点生成框架，包含您喜欢的来自Next.js的一切。",
+            "url": "https://github.com/shuding/nextra",
+            "name": "shuding /nextra",
+            "description": "Simple, powerful and flexible site generation framework with everything you love from Next.js.",
+            "stars": "11,430",
+            "forks": "1,244",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "106,816",
+            "forks": "29,156",
+            "language": "JavaScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "2,394",
+            "forks": "134",
+            "language": "Rust",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "DiceDB是一种内存、实时和反应式数据库，具有针对现代硬件和构建实时应用程序而优化的Redis和SQL支持。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+            "stars": "5,201",
+            "forks": "668",
+            "language": "Go",
+            "stars_today": "188 stars today"
+        },
+        {
+            "zh_des": "ApacheNuttX是一款成熟的实时嵌入式操作系统(RTOS)",
+            "url": "https://github.com/apache/nuttx",
+            "name": "apache /nuttx",
+            "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+            "stars": "2,688",
+            "forks": "1,131",
+            "language": "C",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "用语音数据轻松训练一个好的VC模型<=10分钟！",
+            "url": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+            "name": "RVC-Project /Retrieval-based-Voice-Conversion-WebUI",
+            "description": "Easily train a good VC model with voice data <= 10 mins!",
+            "stars": "23,316",
+            "forks": "3,488",
+            "language": "Python",
+            "stars_today": "32 stars today"
+        }
+    ]
+}

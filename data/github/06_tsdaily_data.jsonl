@@ -53240,3 +53240,167 @@
         }
     ]
 }
+{
+    "09月29日": [
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "46,408",
+            "forks": "2,300",
+            "language": "TypeScript",
+            "stars_today": "268 stars today"
+        },
+        {
+            "zh_des": "简单、强大和灵活的站点生成框架，包含您喜欢的来自Next.js的一切。",
+            "url": "https://github.com/shuding/nextra",
+            "name": "shuding /nextra",
+            "description": "Simple, powerful and flexible site generation framework with everything you love from Next.js.",
+            "stars": "11,430",
+            "forks": "1,244",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一个框架，用于构建定制的AI Copilot🤖应用内AI聊天机器人、应用内AI代理和AI支持的纹理。",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.",
+            "stars": "10,483",
+            "forks": "1,157",
+            "language": "TypeScript",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,504",
+            "forks": "1,890",
+            "language": "TypeScript",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "AI Chat💬🚀的Reaction组件",
+            "url": "https://github.com/Yonom/assistant-ui",
+            "name": "Yonom /assistant-ui",
+            "description": "React Components for AI Chat 💬 🚀",
+            "stars": "1,088",
+            "forks": "124",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "6,182",
+            "forks": "915",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的脚本/类型，完全可定制，并且是开发者优先的。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "stars": "63,046",
+            "forks": "7,932",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "一款跳过B站视频中恰饭片段的浏览器插件，移植自SponsorBlock。一个浏览器扩展，可以跳过Bilibili.com上从SponsorBlock移植的视频中的赞助片段",
+            "url": "https://github.com/hanydd/BilibiliSponsorBlock",
+            "name": "hanydd /BilibiliSponsorBlock",
+            "description": "一款跳过B站视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos on Bilibili.com, ported from the SponsorBlock",
+            "stars": "1,077",
+            "forks": "24",
+            "language": "TypeScript",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "13,888",
+            "forks": "1,110",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "移动网络浏览器，提供对使用以太区块链的网站的访问",
+            "url": "https://github.com/MetaMask/metamask-mobile",
+            "name": "MetaMask /metamask-mobile",
+            "description": "Mobile web browser providing access to websites that use the Ethereum blockchain",
+            "stars": "2,137",
+            "forks": "1,101",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "95,876",
+            "forks": "25,316",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "13,652",
+            "forks": "1,298",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "这是一个开源框架，可以用Reaction制作通用的原生应用程序。世博会在Android、iOS和网络上运行。",
+            "url": "https://github.com/expo/expo",
+            "name": "expo /expo",
+            "description": "An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+            "stars": "33,090",
+            "forks": "5,275",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "一个现代的自主式音乐播放器。",
+            "url": "https://github.com/jeffvli/feishin",
+            "name": "jeffvli /feishin",
+            "description": "A modern self-hosted music player.",
+            "stars": "2,450",
+            "forks": "103",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🌱是一个快速的、包含电池的静态站点生成器，可以将Markdown内容转换为功能齐全的网站",
+            "url": "https://github.com/jackyzha0/quartz",
+            "name": "jackyzha0 /quartz",
+            "description": "🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites",
+            "stars": "6,778",
+            "forks": "2,460",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于与不一致API进行交互的功能强大的JavaScript库",
+            "url": "https://github.com/discordjs/discord.js",
+            "name": "discordjs /discord.js",
+            "description": "A powerful JavaScript library for interacting with the Discord API",
+            "stars": "25,280",
+            "forks": "3,962",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
