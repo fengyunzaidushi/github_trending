@@ -12436,3 +12436,167 @@
         }
     ]
 }
+{
+    "10月01日": [
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "2,777",
+            "forks": "236",
+            "language": "Vue",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "用于现代Web应用程序的UI库，由Vue和Tailwind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,870",
+            "forks": "479",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "为开发人员提供方便的在线工具集合，具有出色的用户体验。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "21,627",
+            "forks": "2,595",
+            "language": "Vue",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "CloudFlare免费临时域名电子邮件免费收发 临时姓名邮箱 支持附件 IMAP RTP TelegramBot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "2,080",
+            "forks": "782",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "10,009",
+            "forks": "1,198",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "高颜值的第三方互联网播放器，支持 Windows / macOS / Linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "29,151",
+            "forks": "4,283",
+            "language": "Vue",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "做出您的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,417",
+            "forks": "726",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Radix UI Primitives的Vue端口。一个开源UI组件库，用于构建高质量、易于访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,348",
+            "forks": "210",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "先进的Web面板·专为SagerNet/Sing-Box构建",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "2,595",
+            "forks": "397",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "Tiny RCM（Tiny Redis桌面管理器）-一款适合Mac、Windows和Linux的现代、色彩缤纷、超轻量级Redis图形用户界面客户端。",
+            "url": "https://github.com/tiny-craft/tiny-rdm",
+            "name": "tiny-craft /tiny-rdm",
+            "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.",
+            "stars": "8,492",
+            "forks": "423",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "灵活的Mastodon网络客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,401",
+            "forks": "557",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "📄Vue 3的收件箱文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "2,913",
+            "forks": "4,372",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "个人主页，我的个人主页，个人主页密码，主页模板，主页",
+            "url": "https://github.com/imsyy/home",
+            "name": "imsyy /home",
+            "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+            "stars": "3,267",
+            "forks": "2,063",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🚀🚀基于NestJs + TypeScript +Prisma + Redis + MySql + Vue3 + vite + Element-UI编写的一款前后端分离的权限管理系统.🚀内置彩色系统，导入导出，数据权利有限，连续提出电信，前端表格列自定义等.🚀",
+            "url": "https://github.com/87789771/meimei-nestjs-admin",
+            "name": "87789771 /meimei-nestjs-admin",
+            "description": "🚀🚀 基于NestJs + TypeScript +Prisma + Redis + MySql + Vue3 + vite + Element-UI编写的一款前后端分离的权限管理系统。🚀内置角色系统、导入导出、数据权限、表单连续提交拦截、前端表格列自定义等...🚀",
+            "stars": "452",
+            "forks": "91",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "基于宇宙的区块链的光探索者。",
+            "url": "https://github.com/ping-pub/explorer",
+            "name": "ping-pub /explorer",
+            "description": "A light explorer for Cosmos-based Blockchains.",
+            "stars": "321",
+            "forks": "1,017",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "好的，今天我们来做！好吧，让我们做饭吧！",
+            "url": "https://github.com/YunYouJun/cook",
+            "name": "YunYouJun /cook",
+            "description": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+            "stars": "5,015",
+            "forks": "316",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        }
+    ]
+}

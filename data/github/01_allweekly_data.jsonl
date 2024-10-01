@@ -48628,3 +48628,197 @@
         }
     ]
 }
+{
+    "10月01日": [
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "9,339",
+            "forks": "667",
+            "language": "Python",
+            "stars_today": "4,106 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "47,210",
+            "forks": "2,421",
+            "language": "Dart",
+            "stars_today": "4,795 stars this week"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "29,478",
+            "forks": "5,096",
+            "language": "Rust",
+            "stars_today": "3,312 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "9,052",
+            "forks": "481",
+            "language": "Python",
+            "stars_today": "972 stars this week"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "4,517",
+            "forks": "227",
+            "language": "Rust",
+            "stars_today": "1,324 stars this week"
+        },
+        {
+            "zh_des": "随时随地部署Web应用。",
+            "url": "https://github.com/basecamp/kamal",
+            "name": "basecamp /kamal",
+            "description": "Deploy web apps anywhere.",
+            "stars": "10,465",
+            "forks": "397",
+            "language": "Ruby",
+            "stars_today": "356 stars this week"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,735",
+            "forks": "1,693",
+            "language": "Python",
+            "stars_today": "2,541 stars this week"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "30,305",
+            "forks": "2,264",
+            "language": "Ruby",
+            "stars_today": "538 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "11,806",
+            "forks": "1,068",
+            "language": "Python",
+            "stars_today": "1,008 stars this week"
+        },
+        {
+            "zh_des": "DiceDB是一种内存、实时和反应式数据库，具有针对现代硬件和构建实时应用程序而优化的Redis和SQL支持。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+            "stars": "5,434",
+            "forks": "703",
+            "language": "Go",
+            "stars_today": "811 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "5,762",
+            "forks": "606",
+            "language": "Jupyter Notebook",
+            "stars_today": "814 stars this week"
+        },
+        {
+            "zh_des": "科技爱好者周刊，每周五发布",
+            "url": "https://github.com/ruanyf/weekly",
+            "name": "ruanyf /weekly",
+            "description": "科技爱好者周刊，每周五发布",
+            "stars": "46,755",
+            "forks": "2,844",
+            "language": "",
+            "stars_today": "1,187 stars this week"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "46,951",
+            "forks": "2,300",
+            "language": "TypeScript",
+            "stars_today": "1,438 stars this week"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "37,787",
+            "forks": "24,540",
+            "language": "Python",
+            "stars_today": "195 stars this week"
+        },
+        {
+            "zh_des": "Letta(FKA MemGPT)是一个用于创建有状态LLM服务的框架。",
+            "url": "https://github.com/cpacker/MemGPT",
+            "name": "cpacker /MemGPT",
+            "description": "Letta (fka MemGPT) is a framework for creating stateful LLM services.",
+            "stars": "11,865",
+            "forks": "1,290",
+            "language": "Python",
+            "stars_today": "353 stars this week"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序，展示用于WhatsApp和Messenger的Meta Llama。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+            "stars": "11,937",
+            "forks": "1,725",
+            "language": "Jupyter Notebook",
+            "stars_today": "279 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "30,912",
+            "forks": "2,859",
+            "language": "Python",
+            "stars_today": "454 stars this week"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "2,705",
+            "forks": "259",
+            "language": "Python",
+            "stars_today": "2,262 stars this week"
+        },
+        {
+            "zh_des": "专为速度而设计。自动化，简单易用。监控和故障排除，转型！",
+            "url": "https://github.com/netdata/netdata",
+            "name": "netdata /netdata",
+            "description": "Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!",
+            "stars": "71,001",
+            "forks": "5,876",
+            "language": "C",
+            "stars_today": "400 stars this week"
+        }
+    ]
+}
