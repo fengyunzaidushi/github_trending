@@ -12764,3 +12764,167 @@
         }
     ]
 }
+{
+    "10月02日": [
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/radix-vue/radix-vue",
+            "name": "radix-vue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,352",
+            "forks": "211",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,879",
+            "forks": "480",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "10,025",
+            "forks": "1,198",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "个人主页，我的个人主页，个人主页源码，主页模板，主页",
+            "url": "https://github.com/imsyy/home",
+            "name": "imsyy /home",
+            "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+            "stars": "3,270",
+            "forks": "2,065",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,180",
+            "forks": "777",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "MODINITH MONOREPO包含了支持MODINTH的所有代码！",
+            "url": "https://github.com/modrinth/code",
+            "name": "modrinth /code",
+            "description": "The Modrinth monorepo containing all code which powers Modrinth!",
+            "stars": "896",
+            "forks": "159",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "1,831",
+            "forks": "144",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "商城低代码平台，可视化搭建H5、小程序多端商城",
+            "url": "https://github.com/wangyuan389/mall-cook",
+            "name": "wangyuan389 /mall-cook",
+            "description": "商城低代码平台，可视化搭建H5、小程序多端商城",
+            "stars": "4,988",
+            "forks": "1,152",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,069",
+            "forks": "167",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "🍲好的，今天我们来做菜！好了，我们做饭吧！",
+            "url": "https://github.com/YunYouJun/cook",
+            "name": "YunYouJun /cook",
+            "description": "🍲 好的，今天我们来做菜！OK, Let's Cook!",
+            "stars": "5,017",
+            "forks": "316",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,296",
+            "forks": "683",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "先进的多源音乐流媒体+桌面发现客户端。免费，干净，没有登录，没有广告。",
+            "url": "https://github.com/staniel359/muffon",
+            "name": "staniel359 /muffon",
+            "description": "Advanced multi-source music streaming + discovery client for desktop. Free, clean, no login, no ads.",
+            "stars": "1,311",
+            "forks": "55",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于可视化通过Copilot业务指标API提供的Copilot指标的工具(当前处于公测阶段)",
+            "url": "https://github.com/github-copilot-resources/copilot-metrics-viewer",
+            "name": "github-copilot-resources /copilot-metrics-viewer",
+            "description": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
+            "stars": "265",
+            "forks": "127",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/radix-vue/shadcn-vue",
+            "name": "radix-vue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,574",
+            "forks": "264",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "📱图形屏幕显示和控制安卓，由电子设备供电。-使用图形化的Scrcpy显示和控制您的安卓设备，由Electron驱动。",
+            "url": "https://github.com/viarotel-org/escrcpy",
+            "name": "viarotel-org /escrcpy",
+            "description": "📱 Graphical Scrcpy to display and control Android, devices powered by Electron. - 使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。",
+            "stars": "2,362",
+            "forks": "176",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "17,082",
+            "forks": "1,306",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        }
+    ]
+}

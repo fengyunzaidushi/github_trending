@@ -47758,3 +47758,187 @@
         }
     ]
 }
+{
+    "10月02日": [
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "5,754",
+            "forks": "295",
+            "language": "Rust",
+            "stars_today": "1,558 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "9,280",
+            "forks": "490",
+            "language": "Python",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "戈多引擎--多平台2D和3D游戏引擎",
+            "url": "https://github.com/godotengine/godot",
+            "name": "godotengine /godot",
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "stars": "89,694",
+            "forks": "20,800",
+            "language": "C++",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "10,351",
+            "forks": "727",
+            "language": "Python",
+            "stars_today": "1,197 stars today"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "29,030",
+            "forks": "3,621",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "12,970",
+            "forks": "817",
+            "language": "TypeScript",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "335,130",
+            "forks": "61,299",
+            "language": "",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "🐙指南、论文、讲座、笔记本和快速工程资源",
+            "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+            "name": "dair-ai /Prompt-Engineering-Guide",
+            "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+            "stars": "48,330",
+            "forks": "4,707",
+            "language": "MDX",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "32,561",
+            "forks": "3,723",
+            "language": "Python",
+            "stars_today": "228 stars today"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "68,449",
+            "forks": "8,077",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "1,077",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "4,542",
+            "forks": "833",
+            "language": "Rust",
+            "stars_today": "322 stars today"
+        },
+        {
+            "zh_des": "语言萨凡特。如果您的存储库语言报告不正确，请向我们发送拉取请求！",
+            "url": "https://github.com/github-linguist/linguist",
+            "name": "github-linguist /linguist",
+            "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+            "stars": "12,180",
+            "forks": "4,211",
+            "language": "Ruby",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "17,228",
+            "forks": "1,331",
+            "language": "TypeScript",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "一个用Rust编写的开源支付开关，使支付快速、可靠和负担得起",
+            "url": "https://github.com/juspay/hyperswitch",
+            "name": "juspay /hyperswitch",
+            "description": "An open source payments switch written in Rust to make payments fast, reliable and affordable",
+            "stars": "12,050",
+            "forks": "1,271",
+            "language": "Rust",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "58,931",
+            "forks": "19,064",
+            "language": "Java",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "31,188",
+            "forks": "2,866",
+            "language": "Python",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "403,054",
+            "forks": "37,492",
+            "language": "TypeScript",
+            "stars_today": "138 stars today"
+        }
+    ]
+}
