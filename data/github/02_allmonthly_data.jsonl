@@ -53646,3 +53646,197 @@
         }
     ]
 }
+{
+    "10月03日": [
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "10,781",
+            "forks": "463",
+            "language": "TypeScript",
+            "stars_today": "7,447 stars this month"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,040",
+            "forks": "373",
+            "language": "Python",
+            "stars_today": "2,642 stars this month"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "6,420",
+            "forks": "333",
+            "language": "Rust",
+            "stars_today": "4,368 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "12,821",
+            "forks": "959",
+            "language": "Python",
+            "stars_today": "5,573 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "13,019",
+            "forks": "1,377",
+            "language": "C",
+            "stars_today": "3,821 stars this month"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "10,541",
+            "forks": "1,032",
+            "language": "Python",
+            "stars_today": "8,615 stars this month"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "29,610",
+            "forks": "5,113",
+            "language": "Rust",
+            "stars_today": "4,305 stars this month"
+        },
+        {
+            "zh_des": "Chris Ttus Tech的Linux工具箱-Linutil是一个与版本无关的工具箱，旨在简化日常的Linux任务。",
+            "url": "https://github.com/ChrisTitusTech/linutil",
+            "name": "ChrisTitusTech /linutil",
+            "description": "Chris Titus Tech's Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.",
+            "stars": "2,450",
+            "forks": "196",
+            "language": "Shell",
+            "stars_today": "1,887 stars this month"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "24,621",
+            "forks": "6,909",
+            "language": "C",
+            "stars_today": "3,452 stars this month"
+        },
+        {
+            "zh_des": "📨安排社交媒体帖子，衡量它们，与其他成员交流，并从AI🚀获得大量帮助",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 Schedule social media posts, measure them, exchange with other members and get a lot of help from AI 🚀",
+            "stars": "7,606",
+            "forks": "1,609",
+            "language": "TypeScript",
+            "stars_today": "3,131 stars this month"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "2,223",
+            "forks": "127",
+            "language": "Python",
+            "stars_today": "1,283 stars this month"
+        },
+        {
+            "zh_des": "⚡开源工作流自动化平台。使用YAML编排任何语言，数百种集成。替代气流，Zapier，RunDeck，Camunda，...",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...",
+            "stars": "9,436",
+            "forks": "695",
+            "language": "Java",
+            "stars_today": "2,048 stars this month"
+        },
+        {
+            "zh_des": "DiceDB是一种内存、实时和反应式数据库，具有针对现代硬件和构建实时应用程序而优化的Redis和SQL支持。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is an in-memory, real-time, and reactive database with Redis and SQL support optimized for modern hardware and building real-time applications.",
+            "stars": "5,577",
+            "forks": "806",
+            "language": "Go",
+            "stars_today": "2,282 stars this month"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "23,989",
+            "forks": "2,408",
+            "language": "JavaScript",
+            "stars_today": "4,496 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "22,810",
+            "forks": "1,705",
+            "language": "Python",
+            "stars_today": "4,378 stars this month"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "4,774",
+            "forks": "842",
+            "language": "Rust",
+            "stars_today": "988 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "17,397",
+            "forks": "1,345",
+            "language": "TypeScript",
+            "stars_today": "2,101 stars this month"
+        },
+        {
+            "zh_des": "比特币核心集成/升级树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "78,686",
+            "forks": "36,222",
+            "language": "C++",
+            "stars_today": "1,100 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,787",
+            "forks": "2,523",
+            "language": "TypeScript",
+            "stars_today": "1,448 stars this month"
+        }
+    ]
+}
