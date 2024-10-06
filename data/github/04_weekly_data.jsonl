@@ -49586,3 +49586,177 @@
         }
     ]
 }
+{
+    "10月06日": [
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "11,434",
+            "forks": "799",
+            "language": "Python",
+            "stars_today": "7,009 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "9,616",
+            "forks": "512",
+            "language": "Python",
+            "stars_today": "2,384 stars this week"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,255",
+            "forks": "424",
+            "language": "Python",
+            "stars_today": "1,301 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "31,677",
+            "forks": "2,896",
+            "language": "Python",
+            "stars_today": "1,270 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "188,098",
+            "forks": "44,825",
+            "language": "Python",
+            "stars_today": "2,791 stars this week"
+        },
+        {
+            "zh_des": "研发(R&D)对于提升工业生产率至关重要，尤其是在研发的核心方面主要集中在数据和模型的AI时代。我们致力于通过我们的开源研发自动化工具RD-代理来自动化这些高价值的通用研发流程，该工具让AI驱动数据驱动的AI。",
+            "url": "https://github.com/microsoft/RD-Agent",
+            "name": "microsoft /RD-Agent",
+            "description": "Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.",
+            "stars": "795",
+            "forks": "57",
+            "language": "Python",
+            "stars_today": "321 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "30,831",
+            "forks": "3,086",
+            "language": "Python",
+            "stars_today": "779 stars this week"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "1,273",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "394 stars this week"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "34,353",
+            "forks": "4,162",
+            "language": "Python",
+            "stars_today": "545 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "68,882",
+            "forks": "8,110",
+            "language": "Python",
+            "stars_today": "809 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,172",
+            "forks": "30,201",
+            "language": "Python",
+            "stars_today": "401 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "11,954",
+            "forks": "1,078",
+            "language": "Python",
+            "stars_today": "311 stars this week"
+        },
+        {
+            "zh_des": "麻省理工学院和MyShell的即时语音克隆。",
+            "url": "https://github.com/myshell-ai/OpenVoice",
+            "name": "myshell-ai /OpenVoice",
+            "description": "Instant voice cloning by MIT and MyShell.",
+            "stars": "29,010",
+            "forks": "2,830",
+            "language": "Python",
+            "stars_today": "441 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "21,487",
+            "forks": "1,576",
+            "language": "Python",
+            "stars_today": "318 stars this week"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "37,881",
+            "forks": "24,599",
+            "language": "Python",
+            "stars_today": "200 stars this week"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "32,732",
+            "forks": "3,744",
+            "language": "Python",
+            "stars_today": "564 stars this week"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "29,542",
+            "forks": "5,785",
+            "language": "Python",
+            "stars_today": "639 stars this week"
+        }
+    ]
+}
