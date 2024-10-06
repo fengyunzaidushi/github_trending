@@ -49130,3 +49130,137 @@
         }
     ]
 }
+{
+    "10月06日": [
+        {
+            "zh_des": "所有算法都在Python中实现",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "188,943",
+            "forks": "44,890",
+            "language": "Python",
+            "stars_today": "1,377 stars today"
+        },
+        {
+            "zh_des": "构建实时多模式人工智能应用Ÿ",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "1,881",
+            "forks": "254",
+            "language": "Python",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "OPS Studio -用于直播和屏幕录制的免费开源软件",
+            "url": "https://github.com/obsproject/obs-studio",
+            "name": "obsproject /obs-studio",
+            "description": "OBS Studio - Free and open source software for live streaming and screen recording",
+            "stars": "59,346",
+            "forks": "7,875",
+            "language": "C",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "所有算法都用Java实现",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "59,303",
+            "forks": "19,127",
+            "language": "Java",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "30,916",
+            "forks": "3,097",
+            "language": "Python",
+            "stars_today": "208 stars today"
+        },
+        {
+            "zh_des": "精心策划的令人敬畏的远程作业和资源列表。灵感来源：https：github.com/vinta/awesome-python",
+            "url": "https://github.com/lukasz-madon/awesome-remote-job",
+            "name": "lukasz-madon /awesome-remote-job",
+            "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+            "stars": "29,693",
+            "forks": "3,498",
+            "language": "",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "电报-iOS",
+            "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+            "name": "TelegramMessenger /Telegram-iOS",
+            "description": "Telegram-iOS",
+            "stars": "6,033",
+            "forks": "1,611",
+            "language": "Swift",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "亲爱的ImGui：无臃肿的C++图形用户界面，依赖性最小",
+            "url": "https://github.com/ocornut/imgui",
+            "name": "ocornut /imgui",
+            "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+            "stars": "60,043",
+            "forks": "10,191",
+            "language": "C++",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "生成代理人：人类行为的交互模拟",
+            "url": "https://github.com/joonspk-research/generative_agents",
+            "name": "joonspk-research /generative_agents",
+            "description": "Generative Agents: Interactive Simulacra of Human Behavior",
+            "stars": "16,573",
+            "forks": "2,130",
+            "language": "",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "DeliverOne是一个新的React框架，使跨平台变得简单。只需Vite即可针对网络和本地用户。",
+            "url": "https://github.com/onejs/one",
+            "name": "onejs /one",
+            "description": "❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.",
+            "stars": "1,408",
+            "forks": "27",
+            "language": "TypeScript",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "使用Python创建基于Web的用户界面。好的方式。",
+            "url": "https://github.com/zauberzeug/nicegui",
+            "name": "zauberzeug /nicegui",
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "stars": "9,272",
+            "forks": "548",
+            "language": "Python",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "将整个网站转化为LLM准备的降价或结构化数据。使用单个API抓取、爬网和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "15,857",
+            "forks": "1,143",
+            "language": "TypeScript",
+            "stars_today": "302 stars today"
+        },
+        {
+            "zh_des": "您的终端中的代理配备了本地工具：编写代码、使用终端、浏览网络、视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "1,050",
+            "forks": "67",
+            "language": "Python",
+            "stars_today": "231 stars today"
+        }
+    ]
+}

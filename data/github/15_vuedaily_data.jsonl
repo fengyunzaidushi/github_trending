@@ -14176,3 +14176,157 @@
         }
     ]
 }
+{
+    "10月06日": [
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/unovue/radix-vue",
+            "name": "unovue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "3,397",
+            "forks": "210",
+            "language": "Vue",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,612",
+            "forks": "268",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "3,270",
+            "forks": "252",
+            "language": "Vue",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,192",
+            "forks": "780",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "148",
+            "forks": "2,437",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "免费防指纹浏览器、指纹浏览器，隐私浏览器，免费的Web3空投专用指纹浏览器",
+            "url": "https://github.com/Virtual-Browser/VirtualBrowser",
+            "name": "Virtual-Browser /VirtualBrowser",
+            "description": "Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器",
+            "stars": "853",
+            "forks": "175",
+            "language": "Vue",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用于可视化通过Copilot业务指标API提供的Copilot指标的工具(当前处于公测阶段)",
+            "url": "https://github.com/github-copilot-resources/copilot-metrics-viewer",
+            "name": "github-copilot-resources /copilot-metrics-viewer",
+            "description": "Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)",
+            "stars": "266",
+            "forks": "130",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "有声书架的移动应用",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,222",
+            "forks": "166",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "由WooCommerce和Nuxt提供支持的静态电子商务",
+            "url": "https://github.com/scottyzen/woonuxt",
+            "name": "scottyzen /woonuxt",
+            "description": "Static e-commerce powered by WooCommerce & Nuxt",
+            "stars": "639",
+            "forks": "176",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "这是一款自托管、无数据库的笔记Web应用程序，它使用标记文件的平面文件夹进行存储。",
+            "url": "https://github.com/dullage/flatnotes",
+            "name": "dullage /flatnotes",
+            "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+            "stars": "1,402",
+            "forks": "82",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个灵活的Mastodon Web客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,415",
+            "forks": "556",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "24,475",
+            "forks": "2,710",
+            "language": "Vue",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "为您的离线音乐库批量下载LRC同步歌词的实用程序。",
+            "url": "https://github.com/tranxuanthang/lrcget",
+            "name": "tranxuanthang /lrcget",
+            "description": "Utility for mass-downloading LRC synced lyrics for your offline music library.",
+            "stars": "747",
+            "forks": "24",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "生物和化学科学插图的免费开源图标库",
+            "url": "https://github.com/duerrsimon/bioicons",
+            "name": "duerrsimon /bioicons",
+            "description": "A library of free open source icons for science illustrations in biology and chemistry",
+            "stars": "1,318",
+            "forks": "75",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景:海报生成、电商产品图、文章长图、视频/公众号封面等.一个漂亮的在线形象设计师，适合各种场景，比如生成海报，让设计变得更容易！",
+            "url": "https://github.com/palxiao/poster-design",
+            "name": "palxiao /poster-design",
+            "description": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",
+            "stars": "3,586",
+            "forks": "562",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
