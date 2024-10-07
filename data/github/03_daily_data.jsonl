@@ -48990,3 +48990,177 @@
         }
     ]
 }
+{
+    "10月07日": [
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "189,676",
+            "forks": "44,950",
+            "language": "Python",
+            "stars_today": "1,380 stars today"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "2,045",
+            "forks": "260",
+            "language": "Python",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "30,983",
+            "forks": "3,098",
+            "language": "Python",
+            "stars_today": "204 stars today"
+        },
+        {
+            "zh_des": "使用Python创建基于Web的用户界面。最好的方式。",
+            "url": "https://github.com/zauberzeug/nicegui",
+            "name": "zauberzeug /nicegui",
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "stars": "9,420",
+            "forks": "549",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "你的代理在你的终端上，配备了本地工具：编写代码，使用终端，浏览网页，视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "1,225",
+            "forks": "73",
+            "language": "Python",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,204",
+            "forks": "30,226",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "24,785",
+            "forks": "8,650",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "271,763",
+            "forks": "45,825",
+            "language": "Python",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "ControlNet的WebUI扩展",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "name": "Mikubill /sd-webui-controlnet",
+            "description": "WebUI extension for ControlNet",
+            "stars": "16,905",
+            "forks": "1,943",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "313,739",
+            "forks": "33,494",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "8,754",
+            "forks": "3,237",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "12,830",
+            "forks": "1,369",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "我们给你做了一个你无法拒绝的包装纸",
+            "url": "https://github.com/python-telegram-bot/python-telegram-bot",
+            "name": "python-telegram-bot /python-telegram-bot",
+            "description": "We have made you a wrapper you can't refuse",
+            "stars": "26,020",
+            "forks": "5,266",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "12,546",
+            "forks": "934",
+            "language": "Python",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "将视频从一种语言翻译成另一种语言，并添加配音。将视频从一种语言翻译为另一种语言，并支持接口调用",
+            "url": "https://github.com/jianchang512/pyvideotrans",
+            "name": "jianchang512 /pyvideotrans",
+            "description": "Translate the video from one language to another and add dubbing. 将视频从一种语言翻译为另一种语言，并支持api调用",
+            "stars": "10,230",
+            "forks": "1,133",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "Quants(Quants Finance)精选的库、包和资源清单",
+            "url": "https://github.com/wilsonfreitas/awesome-quant",
+            "name": "wilsonfreitas /awesome-quant",
+            "description": "A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)",
+            "stars": "17,791",
+            "forks": "2,604",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "视频+代码讲座：从头开始构建NanGPT",
+            "url": "https://github.com/karpathy/build-nanogpt",
+            "name": "karpathy /build-nanogpt",
+            "description": "Video+code lecture on building nanoGPT from scratch",
+            "stars": "3,474",
+            "forks": "482",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}

@@ -56020,3 +56020,127 @@
         }
     ]
 }
+{
+    "10月07日": [
+        {
+            "zh_des": "DeliverOne是一个新的React框架，使跨平台变得简单。只需Vite即可针对网络和本地用户。",
+            "url": "https://github.com/onejs/one",
+            "name": "onejs /one",
+            "description": "❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.",
+            "stars": "1,562",
+            "forks": "29",
+            "language": "TypeScript",
+            "stars_today": "167 stars today"
+        },
+        {
+            "zh_des": "将整个网站转化为LLM准备的降价或结构化数据。使用单个API抓取、爬网和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "16,049",
+            "forks": "1,150",
+            "language": "TypeScript",
+            "stars_today": "312 stars today"
+        },
+        {
+            "zh_des": "Shardeum是一个基于E虚拟机的自动扩展区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "17,199",
+            "forks": "356",
+            "language": "TypeScript",
+            "stars_today": "659 stars today"
+        },
+        {
+            "zh_des": "最可爱的Discord客户端模组",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "8,754",
+            "forks": "1,241",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "构建一个医疗保健平台，简化患者登记、预约安排和医疗记录，并学习实施复杂的表格和短信通知。",
+            "url": "https://github.com/adrianhajdin/healthcare",
+            "name": "adrianhajdin /healthcare",
+            "description": "Build a healthcare platform that streamlines patient registration, appointment scheduling, and medical records, and learn to implement complex forms and SMS notifications.",
+            "stars": "1,944",
+            "forks": "483",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "下一代Airtable替代品：无代码Postgs",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "11,449",
+            "forks": "523",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "开源API管理平台",
+            "url": "https://github.com/unkeyed/unkey",
+            "name": "unkeyed /unkey",
+            "description": "Open source API management platform",
+            "stars": "2,942",
+            "forks": "301",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "拖放UI构建您自定义的LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "30,383",
+            "forks": "15,707",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Fluent UI web代表用于构建Web应用程序的实用程序、React组件和Web组件的集合。",
+            "url": "https://github.com/microsoft/fluentui",
+            "name": "microsoft /fluentui",
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "stars": "18,396",
+            "forks": "2,720",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "由Vite提供支持的下一代测试框架。",
+            "url": "https://github.com/vitest-dev/vitest",
+            "name": "vitest-dev /vitest",
+            "description": "Next generation testing framework powered by Vite.",
+            "stars": "12,822",
+            "forks": "1,149",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "Joplin -一款注重隐私的笔记应用程序，具有Windows、macOS、Linux、Android和iOS同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "45,405",
+            "forks": "4,937",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "开源创作者文档",
+            "url": "https://github.com/Roblox/creator-docs",
+            "name": "Roblox /creator-docs",
+            "description": "Open Source Creator Documentation",
+            "stars": "322",
+            "forks": "1,485",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        }
+    ]
+}
