@@ -50416,3 +50416,177 @@
         }
     ]
 }
+{
+    "10月08日": [
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "190,458",
+            "forks": "45,055",
+            "language": "Python",
+            "stars_today": "5,544 stars this week"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "12,055",
+            "forks": "849",
+            "language": "Python",
+            "stars_today": "4,478 stars this week"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "2,568",
+            "forks": "284",
+            "language": "Python",
+            "stars_today": "1,282 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "9,872",
+            "forks": "533",
+            "language": "Python",
+            "stars_today": "1,768 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "21,635",
+            "forks": "1,580",
+            "language": "Python",
+            "stars_today": "223 stars this week"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "69,058",
+            "forks": "8,125",
+            "language": "Python",
+            "stars_today": "812 stars this week"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "31,078",
+            "forks": "3,113",
+            "language": "Python",
+            "stars_today": "1,099 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "12,722",
+            "forks": "959",
+            "language": "Python",
+            "stars_today": "472 stars this week"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,397",
+            "forks": "486",
+            "language": "Python",
+            "stars_today": "749 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "32,046",
+            "forks": "2,926",
+            "language": "Python",
+            "stars_today": "1,252 stars this week"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,293",
+            "forks": "30,252",
+            "language": "Python",
+            "stars_today": "425 stars this week"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "1,307",
+            "forks": "124",
+            "language": "Python",
+            "stars_today": "369 stars this week"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "12,641",
+            "forks": "940",
+            "language": "Python",
+            "stars_today": "860 stars this week"
+        },
+        {
+            "zh_des": "从企业数据构建人工智能的平台",
+            "url": "https://github.com/mindsdb/mindsdb",
+            "name": "mindsdb /mindsdb",
+            "description": "The platform for building AI from enterprise data",
+            "stars": "26,474",
+            "forks": "4,807",
+            "language": "Python",
+            "stars_today": "126 stars this week"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "12,866",
+            "forks": "1,377",
+            "language": "Python",
+            "stars_today": "219 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "271,927",
+            "forks": "45,841",
+            "language": "Python",
+            "stars_today": "903 stars this week"
+        },
+        {
+            "zh_des": "Holehe允许你检查邮件是否在Twitter、Instagram等不同的网站上使用，并将在具有忘记密码功能的网站上检索信息。",
+            "url": "https://github.com/megadose/holehe",
+            "name": "megadose /holehe",
+            "description": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
+            "stars": "7,470",
+            "forks": "835",
+            "language": "Python",
+            "stars_today": "88 stars this week"
+        }
+    ]
+}
