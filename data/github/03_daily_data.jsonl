@@ -49616,3 +49616,167 @@
         }
     ]
 }
+{
+    "10月09日": [
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "2,806",
+            "forks": "297",
+            "language": "Python",
+            "stars_today": "352 stars today"
+        },
+        {
+            "zh_des": "你的代理在你的终端上，配备了本地工具：编写代码，使用终端，浏览网页，视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "1,780",
+            "forks": "106",
+            "language": "Python",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "190,660",
+            "forks": "45,077",
+            "language": "Python",
+            "stars_today": "465 stars today"
+        },
+        {
+            "zh_des": "人类的深度学习",
+            "url": "https://github.com/keras-team/keras",
+            "name": "keras-team /keras",
+            "description": "Deep Learning for humans",
+            "stars": "61,830",
+            "forks": "19,437",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "使用Python创建基于Web的用户界面。最好的方式。",
+            "url": "https://github.com/zauberzeug/nicegui",
+            "name": "zauberzeug /nicegui",
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "stars": "9,524",
+            "forks": "557",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "用于构建多步骤代理工作流的API。(AI代理和工作流的协调器。)",
+            "url": "https://github.com/julep-ai/julep",
+            "name": "julep-ai /julep",
+            "description": "API for building multi-step agent workflows. (An orchestrator for AI agents and workflows.)",
+            "stars": "1,135",
+            "forks": "406",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,196",
+            "forks": "1,732",
+            "language": "Python",
+            "stars_today": "151 stars today"
+        },
+        {
+            "zh_des": "Open edX LMS&Studio，为世界各地的教育网站提供动力！",
+            "url": "https://github.com/openedx/edx-platform",
+            "name": "openedx /edx-platform",
+            "description": "The Open edX LMS & Studio, powering education sites around the world!",
+            "stars": "7,375",
+            "forks": "3,855",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "60,518",
+            "forks": "14,547",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "标准的以数据为中心的AI包，用于数据质量和机器学习，提供凌乱的真实数据和标签。",
+            "url": "https://github.com/cleanlab/cleanlab",
+            "name": "cleanlab /cleanlab",
+            "description": "The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+            "stars": "9,561",
+            "forks": "742",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "为您的数据创建最佳生产就绪RAG设置的工具包",
+            "url": "https://github.com/KruxAI/ragbuilder",
+            "name": "KruxAI /ragbuilder",
+            "description": "A toolkit to create optimal Production-ready RAG setup for your data",
+            "stars": "963",
+            "forks": "80",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "6,743",
+            "forks": "599",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "20多个高性能低成本管理系统，包括预先培训、微调和大规模部署的配方。",
+            "url": "https://github.com/Lightning-AI/litgpt",
+            "name": "Lightning-AI /litgpt",
+            "description": "20+ high-performance LLMs with recipes to pretrain, finetune and deploy at scale.",
+            "stars": "10,296",
+            "forks": "1,020",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "一些用于预提交的开箱即用的挂钩",
+            "url": "https://github.com/pre-commit/pre-commit-hooks",
+            "name": "pre-commit /pre-commit-hooks",
+            "description": "Some out-of-the-box hooks for pre-commit",
+            "stars": "5,252",
+            "forks": "700",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "支持100多个比特币/阿尔特币交易所的JavaScript/Tyescript/Python/C#/PHP加密货币交易API",
+            "url": "https://github.com/ccxt/ccxt",
+            "name": "ccxt /ccxt",
+            "description": "A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+            "stars": "32,682",
+            "forks": "7,498",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "使用行业领先的机器学习数据引擎CVAT更好地进行标注。被任何规模的团队使用和信任，用于任何规模的数据。",
+            "url": "https://github.com/cvat-ai/cvat",
+            "name": "cvat-ai /cvat",
+            "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+            "stars": "12,373",
+            "forks": "2,970",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        }
+    ]
+}

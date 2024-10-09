@@ -55960,3 +55960,227 @@
         }
     ]
 }
+{
+    "10月09日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,425",
+            "forks": "489",
+            "language": "Python",
+            "stars_today": "3,124 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "13,068",
+            "forks": "974",
+            "language": "Python",
+            "stars_today": "5,743 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "11,312",
+            "forks": "482",
+            "language": "TypeScript",
+            "stars_today": "7,540 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "13,108",
+            "forks": "1,383",
+            "language": "C",
+            "stars_today": "3,874 stars this month"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "30,118",
+            "forks": "5,216",
+            "language": "Rust",
+            "stars_today": "4,775 stars this month"
+        },
+        {
+            "zh_des": "DiceDB是一个符合Redis标准的内存中、实时和反应式数据库，针对现代硬件和构建和扩展真正的实时应用程序进行了优化。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and building and scaling truly real-time applications.",
+            "stars": "5,834",
+            "forks": "924",
+            "language": "Go",
+            "stars_today": "2,524 stars this month"
+        },
+        {
+            "zh_des": "⚡工作流自动化平台。编排和调度任何语言的代码，在任何地方运行，500多个插件。除了Zapier，RunDeck，Camunda，Airflow..。",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+            "stars": "9,803",
+            "forks": "809",
+            "language": "Java",
+            "stars_today": "2,406 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "190,660",
+            "forks": "45,077",
+            "language": "Python",
+            "stars_today": "6,959 stars this month"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "5,219",
+            "forks": "891",
+            "language": "Rust",
+            "stars_today": "1,633 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,196",
+            "forks": "1,732",
+            "language": "Python",
+            "stars_today": "4,688 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,311",
+            "forks": "30,257",
+            "language": "Python",
+            "stars_today": "1,378 stars this month"
+        },
+        {
+            "zh_des": "一个漂亮的私密安全的桌面投资跟踪应用程序",
+            "url": "https://github.com/afadil/wealthfolio",
+            "name": "afadil /wealthfolio",
+            "description": "A Beautiful Private and Secure Desktop Investment Tracking Application",
+            "stars": "3,954",
+            "forks": "187",
+            "language": "TypeScript",
+            "stars_today": "2,573 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "6,009",
+            "forks": "795",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,482 stars this month"
+        },
+        {
+            "zh_des": "适用于x86的快速PlayStation 1仿真器-/AArch32/AArch64/RV64",
+            "url": "https://github.com/stenzek/duckstation",
+            "name": "stenzek /duckstation",
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "stars": "7,139",
+            "forks": "695",
+            "language": "C++",
+            "stars_today": "439 stars this month"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,752",
+            "forks": "2,017",
+            "language": "TypeScript",
+            "stars_today": "923 stars this month"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "47,647",
+            "forks": "2,586",
+            "language": "Dart",
+            "stars_today": "6,206 stars this month"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "1,315",
+            "forks": "126",
+            "language": "Python",
+            "stars_today": "640 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "30,665",
+            "forks": "2,282",
+            "language": "Ruby",
+            "stars_today": "1,348 stars this month"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "47,780",
+            "forks": "2,490",
+            "language": "TypeScript",
+            "stars_today": "3,831 stars this month"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "59,426",
+            "forks": "19,159",
+            "language": "Java",
+            "stars_today": "1,010 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "17,844",
+            "forks": "1,393",
+            "language": "TypeScript",
+            "stars_today": "2,396 stars this month"
+        },
+        {
+            "zh_des": "官方的Nginx开放源码库。",
+            "url": "https://github.com/nginx/nginx",
+            "name": "nginx /nginx",
+            "description": "The official NGINX Open Source repository.",
+            "stars": "24,743",
+            "forks": "6,916",
+            "language": "C",
+            "stars_today": "2,698 stars this month"
+        }
+    ]
+}
