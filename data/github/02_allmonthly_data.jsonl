@@ -56408,3 +56408,227 @@
         }
     ]
 }
+{
+    "10月10日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,470",
+            "forks": "491",
+            "language": "Python",
+            "stars_today": "3,182 stars this month"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。构建具有完整上下文的人工智能应用程序。和奥拉玛一起工作。Rewind.ai的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.",
+            "stars": "7,360",
+            "forks": "385",
+            "language": "Rust",
+            "stars_today": "6,067 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "13,134",
+            "forks": "976",
+            "language": "Python",
+            "stars_today": "5,796 stars this month"
+        },
+        {
+            "zh_des": "使用eBPF在没有CA证书的情况下捕获SSL/TLS明文。在Linux/Android内核上支持AMD64/arm64。",
+            "url": "https://github.com/gojue/ecapture",
+            "name": "gojue /ecapture",
+            "description": "Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.",
+            "stars": "13,128",
+            "forks": "1,385",
+            "language": "C",
+            "stars_today": "3,886 stars this month"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "30,218",
+            "forks": "5,250",
+            "language": "Rust",
+            "stars_today": "4,886 stars this month"
+        },
+        {
+            "zh_des": "DiceDB是一个符合Redis标准的内存中实时反应型数据库，针对现代硬件以及构建和扩展真正的实时应用程序进行了优化。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",
+            "stars": "5,885",
+            "forks": "929",
+            "language": "Go",
+            "stars_today": "2,400 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "11,452",
+            "forks": "485",
+            "language": "TypeScript",
+            "stars_today": "7,388 stars this month"
+        },
+        {
+            "zh_des": "⚡工作流自动化平台。编排和调度任何语言的代码，在任何地方运行，500多个插件。除了Zapier，RunDeck，Camunda，Airflow..。",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+            "stars": "9,857",
+            "forks": "813",
+            "language": "Java",
+            "stars_today": "2,455 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "190,836",
+            "forks": "45,103",
+            "language": "Python",
+            "stars_today": "7,291 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,359",
+            "forks": "1,740",
+            "language": "Python",
+            "stars_today": "4,810 stars this month"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "5,291",
+            "forks": "901",
+            "language": "Rust",
+            "stars_today": "1,727 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "6,043",
+            "forks": "796",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,466 stars this month"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "11,606",
+            "forks": "896",
+            "language": "TypeScript",
+            "stars_today": "2,150 stars this month"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,800",
+            "forks": "2,017",
+            "language": "TypeScript",
+            "stars_today": "987 stars this month"
+        },
+        {
+            "zh_des": "Deskflow允许你在Windows、MacOS和Linux上的多台电脑之间共享一个鼠标和键盘。",
+            "url": "https://github.com/deskflow/deskflow",
+            "name": "deskflow /deskflow",
+            "description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.",
+            "stars": "11,377",
+            "forks": "3,685",
+            "language": "C++",
+            "stars_today": "808 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,340",
+            "forks": "30,278",
+            "language": "Python",
+            "stars_today": "1,391 stars this month"
+        },
+        {
+            "zh_des": "适用于x86的快速PlayStation 1仿真器-/AArch32/AArch64/RV64",
+            "url": "https://github.com/stenzek/duckstation",
+            "name": "stenzek /duckstation",
+            "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+            "stars": "7,152",
+            "forks": "695",
+            "language": "C++",
+            "stars_today": "469 stars this month"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "47,735",
+            "forks": "2,591",
+            "language": "Dart",
+            "stars_today": "6,250 stars this month"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "3,726",
+            "forks": "330",
+            "language": "TypeScript",
+            "stars_today": "1,205 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "30,724",
+            "forks": "2,290",
+            "language": "Ruby",
+            "stars_today": "1,394 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "17,904",
+            "forks": "1,400",
+            "language": "TypeScript",
+            "stars_today": "2,382 stars this month"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "37,974",
+            "forks": "24,678",
+            "language": "Python",
+            "stars_today": "733 stars this month"
+        }
+    ]
+}
