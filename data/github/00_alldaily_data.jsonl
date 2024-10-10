@@ -50302,3 +50302,197 @@
         }
     ]
 }
+{
+    "10月10日": [
+        {
+            "zh_des": "DPI绕过多平台",
+            "url": "https://github.com/bol-van/zapret",
+            "name": "bol-van /zapret",
+            "description": "DPI bypass multi platform",
+            "stars": "6,739",
+            "forks": "563",
+            "language": "C",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "9,315",
+            "forks": "698",
+            "language": "TypeScript",
+            "stars_today": "550 stars today"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "4,776",
+            "forks": "311",
+            "language": "C++",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/clinebot/cline",
+            "name": "clinebot /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "6,636",
+            "forks": "590",
+            "language": "TypeScript",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "GoodbyeDPI-深度数据包检测规避实用程序(用于Windows)",
+            "url": "https://github.com/ValdikSS/GoodbyeDPI",
+            "name": "ValdikSS /GoodbyeDPI",
+            "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+            "stars": "24,563",
+            "forks": "1,793",
+            "language": "C",
+            "stars_today": "238 stars today"
+        },
+        {
+            "zh_des": "JS是一个渐进式的、可增量采用的🖖框架，用于在Web上构建用户界面。",
+            "url": "https://github.com/vuejs/core",
+            "name": "vuejs /core",
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "stars": "47,074",
+            "forks": "8,249",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "一份精选的优秀远程工作和资源清单。灵感来自https://github.com/vinta/awesome-python",
+            "url": "https://github.com/lukasz-madon/awesome-remote-job",
+            "name": "lukasz-madon /awesome-remote-job",
+            "description": "A curated list of awesome remote jobs and resources. Inspired byhttps://github.com/vinta/awesome-python",
+            "stars": "31,667",
+            "forks": "3,633",
+            "language": "",
+            "stars_today": "491 stars today"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "24,627",
+            "forks": "6,703",
+            "language": "Vue",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,431",
+            "forks": "1,746",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "🚀基于大语言模型和rag的知识库问答系统.开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统.",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+            "stars": "10,660",
+            "forks": "1,402",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "653",
+            "forks": "269",
+            "language": "TypeScript",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "OpenMMLab语义分割工具箱和基准。",
+            "url": "https://github.com/open-mmlab/mmsegmentation",
+            "name": "open-mmlab /mmsegmentation",
+            "description": "OpenMMLab Semantic Segmentation Toolbox and Benchmark.",
+            "stars": "8,081",
+            "forks": "2,589",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "用于自我托管的Hully",
+            "url": "https://github.com/hcengineering/huly-selfhost",
+            "name": "hcengineering /huly-selfhost",
+            "description": "Huly for Self Hosting",
+            "stars": "678",
+            "forks": "75",
+            "language": "Shell",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "38,120",
+            "forks": "5,465",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "47,573",
+            "forks": "6,774",
+            "language": "TypeScript",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "CLIP(对比语言-图像预训练)，预测给定图像的最相关文本片段",
+            "url": "https://github.com/openai/CLIP",
+            "name": "openai /CLIP",
+            "description": "CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image",
+            "stars": "25,150",
+            "forks": "3,246",
+            "language": "Jupyter Notebook",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "314,197",
+            "forks": "33,531",
+            "language": "Python",
+            "stars_today": "136 stars today"
+        },
+        {
+            "zh_des": "强大易用的开源建站工具.",
+            "url": "https://github.com/halo-dev/halo",
+            "name": "halo-dev /halo",
+            "description": "强大易用的开源建站工具。",
+            "stars": "33,584",
+            "forks": "9,634",
+            "language": "Java",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "一个引擎，让你的管道在集装箱里运行",
+            "url": "https://github.com/dagger/dagger",
+            "name": "dagger /dagger",
+            "description": "An engine to run your pipelines in containers",
+            "stars": "11,056",
+            "forks": "599",
+            "language": "Go",
+            "stars_today": "48 stars today"
+        }
+    ]
+}
