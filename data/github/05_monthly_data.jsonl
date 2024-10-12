@@ -56484,3 +56484,187 @@
         }
     ]
 }
+{
+    "10月12日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,546",
+            "forks": "494",
+            "language": "Python",
+            "stars_today": "3,259 stars this month"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "13,118",
+            "forks": "917",
+            "language": "Python",
+            "stars_today": "10,587 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "191,025",
+            "forks": "45,144",
+            "language": "Python",
+            "stars_today": "7,465 stars this month"
+        },
+        {
+            "zh_des": "全新的TTS解决方案",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "Brand new TTS solution",
+            "stars": "13,232",
+            "forks": "987",
+            "language": "Python",
+            "stars_today": "5,716 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,531",
+            "forks": "1,755",
+            "language": "Python",
+            "stars_today": "5,062 stars this month"
+        },
+        {
+            "zh_des": "用于回答带有引文的科学文献问题的高精度RAG",
+            "url": "https://github.com/Future-House/paper-qa",
+            "name": "Future-House /paper-qa",
+            "description": "High accuracy RAG for answering questions from scientific documents with citations",
+            "stars": "6,086",
+            "forks": "572",
+            "language": "Python",
+            "stars_today": "2,230 stars this month"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "10,061",
+            "forks": "554",
+            "language": "Python",
+            "stars_today": "3,735 stars this month"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "72,415",
+            "forks": "30,304",
+            "language": "Python",
+            "stars_today": "1,433 stars this month"
+        },
+        {
+            "zh_des": "🐸💬-用于文本到语音转换的深度学习工具包，在研究和生产中经过了战斗测试",
+            "url": "https://github.com/coqui-ai/TTS",
+            "name": "coqui-ai /TTS",
+            "description": "🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production",
+            "stars": "34,539",
+            "forks": "4,187",
+            "language": "Python",
+            "stars_today": "1,248 stars this month"
+        },
+        {
+            "zh_des": "奥杜。开源应用程序可帮助您发展业务。",
+            "url": "https://github.com/odoo/odoo",
+            "name": "odoo /odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "stars": "38,048",
+            "forks": "24,702",
+            "language": "Python",
+            "stars_today": "778 stars this month"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "32,295",
+            "forks": "2,957",
+            "language": "Python",
+            "stars_today": "2,434 stars this month"
+        },
+        {
+            "zh_des": "Python+NumPy程序的可组合转换：区分、矢量化、JIT到GPU/TPU等",
+            "url": "https://github.com/jax-ml/jax",
+            "name": "jax-ml /jax",
+            "description": "Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more",
+            "stars": "30,176",
+            "forks": "2,764",
+            "language": "Python",
+            "stars_today": "460 stars this month"
+        },
+        {
+            "zh_des": "用于训练和推理的PyTorch原生量化和稀疏性",
+            "url": "https://github.com/pytorch/ao",
+            "name": "pytorch /ao",
+            "description": "PyTorch native quantization and sparsity for training and inference",
+            "stars": "1,353",
+            "forks": "131",
+            "language": "Python",
+            "stars_today": "655 stars this month"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "31,223",
+            "forks": "3,141",
+            "language": "Python",
+            "stars_today": "1,779 stars this month"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "2,338",
+            "forks": "137",
+            "language": "Python",
+            "stars_today": "1,394 stars this month"
+        },
+        {
+            "zh_des": "使用Python创建基于Web的用户界面。最好的方式。",
+            "url": "https://github.com/zauberzeug/nicegui",
+            "name": "zauberzeug /nicegui",
+            "description": "Create web-based user interfaces with Python. The nice way.",
+            "stars": "9,561",
+            "forks": "566",
+            "language": "Python",
+            "stars_today": "819 stars this month"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "3,216",
+            "forks": "319",
+            "language": "Python",
+            "stars_today": "2,197 stars this month"
+        },
+        {
+            "zh_des": "用于大型模型培训的原生PyTorch库",
+            "url": "https://github.com/pytorch/torchtitan",
+            "name": "pytorch /torchtitan",
+            "description": "A native PyTorch Library for large model training",
+            "stars": "2,385",
+            "forks": "174",
+            "language": "Python",
+            "stars_today": "860 stars this month"
+        }
+    ]
+}

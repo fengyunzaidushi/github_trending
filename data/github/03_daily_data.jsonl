@@ -50710,3 +50710,197 @@
         }
     ]
 }
+{
+    "10月12日": [
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "32,882",
+            "forks": "2,478",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "314,823",
+            "forks": "33,570",
+            "language": "Python",
+            "stars_today": "422 stars today"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "30,370",
+            "forks": "5,888",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "“动手学深度学习”：面向中文读者、能运行、可讨论.中英文版被70多个国家的500多所大学用于教学。",
+            "url": "https://github.com/d2l-ai/d2l-zh",
+            "name": "d2l-ai /d2l-zh",
+            "description": "《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。",
+            "stars": "62,225",
+            "forks": "10,919",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "13,446",
+            "forks": "1,449",
+            "language": "Python",
+            "stars_today": "376 stars today"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "6,270",
+            "forks": "670",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "19,137",
+            "forks": "1,936",
+            "language": "Python",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "11,288",
+            "forks": "1,115",
+            "language": "Python",
+            "stars_today": "166 stars today"
+        },
+        {
+            "zh_des": "统一高效微调100多个LLM(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "32,280",
+            "forks": "3,951",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "灵活而强大的Python数据分析/操作库，提供类似于R数据的标记数据结构。框架对象、统计函数等",
+            "url": "https://github.com/pandas-dev/pandas",
+            "name": "pandas-dev /pandas",
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+            "stars": "43,486",
+            "forks": "17,874",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "🚀基于大语言模型和rag的知识库问答系统.开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统.",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 基于大语言模型和 RAG 的知识库问答系统。开箱即用、模型中立、灵活编排，支持快速嵌入到第三方业务系统。",
+            "stars": "10,792",
+            "forks": "1,412",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "基于Awel和代理的AI原生数据应用开发框架",
+            "url": "https://github.com/eosphoros-ai/DB-GPT",
+            "name": "eosphoros-ai /DB-GPT",
+            "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+            "stars": "13,477",
+            "forks": "1,791",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "用于构建Web应用程序的Python微框架。",
+            "url": "https://github.com/pallets/flask",
+            "name": "pallets /flask",
+            "description": "The Python micro framework for building web applications.",
+            "stars": "67,804",
+            "forks": "16,195",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "10,288",
+            "forks": "678",
+            "language": "Python",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "AlphaFold的开放源代码。",
+            "url": "https://github.com/google-deepmind/alphafold",
+            "name": "google-deepmind /alphafold",
+            "description": "Open source code for AlphaFold.",
+            "stars": "12,519",
+            "forks": "2,221",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "数据科学Python笔记本：深度学习(TensorFlow、Theano、Caffe、Kera)、SCRICKIT-Learn、Kaggle、大数据(Spark、Hadoop MapReduce、HDFS)、matplotlib、Pandas、NumPy、SciPy、Python Essentials、AWS和各种命令行。",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "name": "donnemartin /data-science-ipython-notebooks",
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+            "stars": "27,329",
+            "forks": "7,861",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "“用于实时辐射场绘制的三维高斯飞溅”的原始参考实现",
+            "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+            "name": "graphdeco-inria /gaussian-splatting",
+            "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+            "stars": "14,028",
+            "forks": "1,818",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "基于OpenTelemeter的LLM应用程序的开源可观察性",
+            "url": "https://github.com/traceloop/openllmetry",
+            "name": "traceloop /openllmetry",
+            "description": "Open-source observability for your LLM application, based on OpenTelemetry",
+            "stars": "1,974",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "43,180",
+            "forks": "7,733",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        }
+    ]
+}
