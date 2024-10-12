@@ -54066,3 +54066,207 @@
         }
     ]
 }
+{
+    "10月12日": [
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "18,383",
+            "forks": "4,150",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "45,120",
+            "forks": "3,554",
+            "language": "JavaScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "查找并修复您的Java代码中的问题。",
+            "url": "https://github.com/eslint/eslint",
+            "name": "eslint /eslint",
+            "description": "Find and fix problems in your JavaScript code.",
+            "stars": "24,970",
+            "forks": "4,518",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "962",
+            "forks": "11,302",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "安卓系统上的UiAutomator不需要根用户访问权限(安卓平台上的JAVERT自动化工具)",
+            "url": "https://github.com/kkevsekk1/AutoX",
+            "name": "kkevsekk1 /AutoX",
+            "description": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+            "stars": "7,658",
+            "forks": "1,815",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一种基于模式的技术面试问题学习方法",
+            "url": "https://github.com/seanprashad/leetcode-patterns",
+            "name": "seanprashad /leetcode-patterns",
+            "description": "A pattern-based approach for learning technical interview questions",
+            "stars": "10,045",
+            "forks": "1,751",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "本文原文由知名黑客埃里克·S·雷蒙德所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+            "name": "ryanhanwu /How-To-Ask-Questions-The-Smart-Way",
+            "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "stars": "30,678",
+            "forks": "5,637",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "面向事件驱动应用程序的低码编程",
+            "url": "https://github.com/node-red/node-red",
+            "name": "node-red /node-red",
+            "description": "Low-code programming for event-driven applications",
+            "stars": "19,667",
+            "forks": "3,394",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "14,637",
+            "forks": "1,437",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "5,026",
+            "forks": "5,885",
+            "language": "JavaScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Node.js命令行界面变得轻松",
+            "url": "https://github.com/tj/commander.js",
+            "name": "tj /commander.js",
+            "description": "node.js command-line interfaces made easy",
+            "stars": "26,665",
+            "forks": "1,690",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "100多条强大的ESLint规则",
+            "url": "https://github.com/sindresorhus/eslint-plugin-unicorn",
+            "name": "sindresorhus /eslint-plugin-unicorn",
+            "description": "More than 100 powerful ESLint rules",
+            "stars": "4,223",
+            "forks": "366",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "更快、更好、更稳定的🚀🚀🚀桌面管理器[图形用户界面客户端]，兼容linux、windows、mac。",
+            "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+            "name": "qishibo /AnotherRedisDesktopManager",
+            "description": "🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.",
+            "stars": "30,403",
+            "forks": "2,560",
+            "language": "JavaScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "NerfiesWebsite许可证这是包含Nerfies网站源代码的存储库",
+            "url": "https://github.com/nerfies/nerfies.github.io",
+            "name": "nerfies /nerfies.github.io",
+            "description": "NerfiesWebsite LicenseThis is the repository that contains source code for the Nerfies website",
+            "stars": "2,426",
+            "forks": "858",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个用户界面包括Chatgpt网页、中途旅行、GPTS、Suno、Luma、Runway、Vigger、通量、表意文字、实时；同时支持Web/PWA/Linux/Win/MacOS平台",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "name": "Dooy /chatgpt-web-midjourney-proxy",
+            "description": "One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,Realtime; Simultaneous support Web / PWA / Linux / Win / MacOS platform",
+            "stars": "4,915",
+            "forks": "1,268",
+            "language": "JavaScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "具有电子表格外观的Java数据网格。适用于反应、角度和Vue。由Handsontable Team⚡支持",
+            "url": "https://github.com/handsontable/handsontable",
+            "name": "handsontable /handsontable",
+            "description": "JavaScript data grid with a spreadsheet look & feel. Works with React, Angular, and Vue. Supported by the Handsontable team ⚡",
+            "stars": "19,867",
+            "forks": "3,038",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "开源看板(与Meteor一起构建)。保留变量/表/字段名CamelCase。对于翻译，仅将拉取请求更改添加到wekan/i18n/en.i18n.json，其他翻译在https://app.transifex.com/wekan/wekanonly.完成",
+            "url": "https://github.com/wekan/wekan",
+            "name": "wekan /wekan",
+            "description": "The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done athttps://app.transifex.com/wekan/wekanonly.",
+            "stars": "19,506",
+            "forks": "2,833",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "🍃移动友好型交互式地图的JAVASCRIPT库🇺🇦",
+            "url": "https://github.com/Leaflet/Leaflet",
+            "name": "Leaflet /Leaflet",
+            "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+            "stars": "41,194",
+            "forks": "5,822",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "9,457",
+            "forks": "3,697",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "分流规则、重写写规则及脚本.",
+            "url": "https://github.com/blackmatrix7/ios_rule_script",
+            "name": "blackmatrix7 /ios_rule_script",
+            "description": "分流规则、重写写规则及脚本。",
+            "stars": "17,751",
+            "forks": "2,855",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
