@@ -53702,3 +53702,207 @@
         }
     ]
 }
+{
+    "10月14日": [
+        {
+            "zh_des": "DPI绕过多平台",
+            "url": "https://github.com/bol-van/zapret",
+            "name": "bol-van /zapret",
+            "description": "DPI bypass multi platform",
+            "stars": "7,349",
+            "forks": "587",
+            "language": "C",
+            "stars_today": "1,212 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "7,653",
+            "forks": "1,489",
+            "language": "TypeScript",
+            "stars_today": "703 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "23,478",
+            "forks": "1,669",
+            "language": "Python",
+            "stars_today": "1,256 stars this week"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "25,091",
+            "forks": "8,709",
+            "language": "Python",
+            "stars_today": "329 stars this week"
+        },
+        {
+            "zh_des": "GoodbyeDPI-深度数据包检测规避实用程序(用于Windows)",
+            "url": "https://github.com/ValdikSS/GoodbyeDPI",
+            "name": "ValdikSS /GoodbyeDPI",
+            "description": "GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)",
+            "stars": "24,854",
+            "forks": "1,810",
+            "language": "C",
+            "stars_today": "831 stars this week"
+        },
+        {
+            "zh_des": "21课，使用生成式AI🔗https://microsoft.github.io/generative-ai-for-beginners/开始构建",
+            "url": "https://github.com/microsoft/generative-ai-for-beginners",
+            "name": "microsoft /generative-ai-for-beginners",
+            "description": "21 Lessons, Get Started Building with Generative AI 🔗https://microsoft.github.io/generative-ai-for-beginners/",
+            "stars": "64,147",
+            "forks": "32,523",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,603 stars this week"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "5,082",
+            "forks": "325",
+            "language": "C++",
+            "stars_today": "537 stars this week"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "30,667",
+            "forks": "5,933",
+            "language": "Python",
+            "stars_today": "923 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "191,387",
+            "forks": "45,223",
+            "language": "Python",
+            "stars_today": "2,922 stars this week"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "3,377",
+            "forks": "329",
+            "language": "Python",
+            "stars_today": "1,551 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "32,507",
+            "forks": "2,977",
+            "language": "Python",
+            "stars_today": "719 stars this week"
+        },
+        {
+            "zh_des": "一个现代的运行时，用于脚本和打字。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "95,645",
+            "forks": "5,298",
+            "language": "Rust",
+            "stars_today": "857 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "10,927",
+            "forks": "703",
+            "language": "Python",
+            "stars_today": "388 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "16,898",
+            "forks": "1,989",
+            "language": "TypeScript",
+            "stars_today": "580 stars this week"
+        },
+        {
+            "zh_des": "非NVIDIA图形处理器上的CUDA",
+            "url": "https://github.com/vosen/ZLUDA",
+            "name": "vosen /ZLUDA",
+            "description": "CUDA on non-NVIDIA GPUs",
+            "stars": "9,380",
+            "forks": "623",
+            "language": "Rust",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "使用与Rollup兼容的API的快速Rust Bundler for JavaScript/TypeScrip。",
+            "url": "https://github.com/rolldown/rolldown",
+            "name": "rolldown /rolldown",
+            "description": "Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.",
+            "stars": "8,497",
+            "forks": "463",
+            "language": "Rust",
+            "stars_today": "216 stars this week"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "59,597",
+            "forks": "19,225",
+            "language": "Java",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "29,664",
+            "forks": "3,700",
+            "language": "JavaScript",
+            "stars_today": "316 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "13,659",
+            "forks": "1,576",
+            "language": "Python",
+            "stars_today": "1,082 stars this week"
+        },
+        {
+            "zh_des": "电报-iOS",
+            "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+            "name": "TelegramMessenger /Telegram-iOS",
+            "description": "Telegram-iOS",
+            "stars": "6,265",
+            "forks": "1,641",
+            "language": "Swift",
+            "stars_today": "251 stars this week"
+        }
+    ]
+}
