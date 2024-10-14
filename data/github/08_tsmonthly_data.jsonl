@@ -58472,3 +58472,227 @@
         }
     ]
 }
+{
+    "10月14日": [
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "7,570",
+            "forks": "1,470",
+            "language": "TypeScript",
+            "stars_today": "854 stars this month"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "30,950",
+            "forks": "2,025",
+            "language": "TypeScript",
+            "stars_today": "1,089 stars this month"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "7,771",
+            "forks": "648",
+            "language": "TypeScript",
+            "stars_today": "3,548 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "12,261",
+            "forks": "514",
+            "language": "TypeScript",
+            "stars_today": "4,463 stars this month"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "18,089",
+            "forks": "1,426",
+            "language": "TypeScript",
+            "stars_today": "2,320 stars this month"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "1,749",
+            "forks": "860",
+            "language": "TypeScript",
+            "stars_today": "341 stars this month"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "17,042",
+            "forks": "1,225",
+            "language": "TypeScript",
+            "stars_today": "3,391 stars this month"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "48,539",
+            "forks": "2,544",
+            "language": "TypeScript",
+            "stars_today": "3,974 stars this month"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "13,337",
+            "forks": "866",
+            "language": "TypeScript",
+            "stars_today": "5,614 stars this month"
+        },
+        {
+            "zh_des": "超级生产力是一款先进的待办事项列表应用程序，具有集成的时间框和时间跟踪功能。它还集成了Jira、GitLab、GitHub和Open Project。",
+            "url": "https://github.com/johannesjo/super-productivity",
+            "name": "johannesjo /super-productivity",
+            "description": "Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.",
+            "stars": "11,673",
+            "forks": "903",
+            "language": "TypeScript",
+            "stars_today": "1,250 stars this month"
+        },
+        {
+            "zh_des": "Reaction UI+面向AI副飞行员、应用内AI代理、AI聊天机器人和AI驱动的Textareas🪁的优雅基础设施",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+            "stars": "11,268",
+            "forks": "1,816",
+            "language": "TypeScript",
+            "stars_today": "1,508 stars this month"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的脚本/类型，完全可定制，并且是开发者优先的。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "stars": "63,317",
+            "forks": "8,009",
+            "language": "TypeScript",
+            "stars_today": "699 stars this month"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "72,603",
+            "forks": "6,982",
+            "language": "TypeScript",
+            "stars_today": "1,229 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "16,775",
+            "forks": "1,975",
+            "language": "TypeScript",
+            "stars_today": "914 stars this month"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "31,913",
+            "forks": "940",
+            "language": "TypeScript",
+            "stars_today": "1,199 stars this month"
+        },
+        {
+            "zh_des": "🛡️⚛️一种简单、可扩展且功能强大的体系结构，用于构建生产就绪型Reaction应用程序。",
+            "url": "https://github.com/alan2207/bulletproof-react",
+            "name": "alan2207 /bulletproof-react",
+            "description": "🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.",
+            "stars": "27,991",
+            "forks": "2,533",
+            "language": "TypeScript",
+            "stars_today": "1,019 stars this month"
+        },
+        {
+            "zh_des": "Invoke是稳定扩散模型的领先创意引擎，使专业人士、艺术家和爱好者能够使用最新的人工智能驱动技术生成和创建视觉媒体。该解决方案提供业界领先的WebUI，并作为多种商业产品的基础。",
+            "url": "https://github.com/invoke-ai/InvokeAI",
+            "name": "invoke-ai /InvokeAI",
+            "description": "Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, and serves as the foundation for multiple commercial products.",
+            "stars": "23,373",
+            "forks": "2,403",
+            "language": "TypeScript",
+            "stars_today": "613 stars this month"
+        },
+        {
+            "zh_des": "📦Repopack是一个强大的工具，可以将您的整个存储库打包到一个对AI友好的文件中。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repopack",
+            "name": "yamadashy /repopack",
+            "description": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "1,537",
+            "forks": "87",
+            "language": "TypeScript",
+            "stars_today": "942 stars this month"
+        },
+        {
+            "zh_des": "加速新的GitHub操作工作流",
+            "url": "https://github.com/actions/starter-workflows",
+            "name": "actions /starter-workflows",
+            "description": "Accelerating new GitHub Actions workflows",
+            "stars": "9,105",
+            "forks": "5,274",
+            "language": "TypeScript",
+            "stars_today": "186 stars this month"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "46,998",
+            "forks": "6,915",
+            "language": "TypeScript",
+            "stars_today": "1,592 stars this month"
+        },
+        {
+            "zh_des": "用于无缝工作流的开源、跨平台终端",
+            "url": "https://github.com/wavetermdev/waveterm",
+            "name": "wavetermdev /waveterm",
+            "description": "An open-source, cross-platform terminal for seamless workflows",
+            "stars": "4,172",
+            "forks": "106",
+            "language": "TypeScript",
+            "stars_today": "297 stars this month"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "71,606",
+            "forks": "4,313",
+            "language": "TypeScript",
+            "stars_today": "2,540 stars this month"
+        }
+    ]
+}
