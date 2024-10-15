@@ -52998,3 +52998,217 @@
         }
     ]
 }
+{
+    "10月15日": [
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "23,751",
+            "forks": "1,677",
+            "language": "Python",
+            "stars_today": "1,818 stars this week"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "25,120",
+            "forks": "8,713",
+            "language": "Python",
+            "stars_today": "315 stars this week"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "30,726",
+            "forks": "5,939",
+            "language": "Python",
+            "stars_today": "1,055 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "191,432",
+            "forks": "45,238",
+            "language": "Python",
+            "stars_today": "1,505 stars this week"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "3,398",
+            "forks": "332",
+            "language": "Python",
+            "stars_today": "1,236 stars this week"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "32,559",
+            "forks": "2,980",
+            "language": "Python",
+            "stars_today": "682 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "11,051",
+            "forks": "709",
+            "language": "Python",
+            "stars_today": "843 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "13,688",
+            "forks": "1,588",
+            "language": "Python",
+            "stars_today": "1,118 stars this week"
+        },
+        {
+            "zh_des": "与您的数据库(SQL、CSV、PANAS、Polars、MongoDB、NoSQL等)聊天。PandasAI使用LLMS(GPT 3.5/4，Anthropic，Vertex AI)和RAG进行数据分析对话。",
+            "url": "https://github.com/Sinaptik-AI/pandas-ai",
+            "name": "Sinaptik-AI /pandas-ai",
+            "description": "Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.",
+            "stars": "12,910",
+            "forks": "1,248",
+            "language": "Python",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "315,390",
+            "forks": "33,615",
+            "language": "Python",
+            "stars_today": "1,659 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "67,350",
+            "forks": "6,029",
+            "language": "Python",
+            "stars_today": "4,084 stars this week"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "6,587",
+            "forks": "1,624",
+            "language": "Python",
+            "stars_today": "464 stars this week"
+        },
+        {
+            "zh_des": "你的代理在你的终端上，配备了本地工具：编写代码，使用终端，浏览网页，视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "2,060",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "729 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "60,687",
+            "forks": "14,573",
+            "language": "Python",
+            "stars_today": "234 stars this week"
+        },
+        {
+            "zh_des": "为您的数据创建最佳生产就绪RAG设置的工具包",
+            "url": "https://github.com/KruxAI/ragbuilder",
+            "name": "KruxAI /ragbuilder",
+            "description": "A toolkit to create optimal Production-ready RAG setup for your data",
+            "stars": "1,093",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "254 stars this week"
+        },
+        {
+            "zh_des": "AlphaFold的开放源代码。",
+            "url": "https://github.com/google-deepmind/alphafold",
+            "name": "google-deepmind /alphafold",
+            "description": "Open source code for AlphaFold.",
+            "stars": "12,570",
+            "forks": "2,228",
+            "language": "Python",
+            "stars_today": "208 stars this week"
+        },
+        {
+            "zh_des": "跨任务、语言和模式的大规模自我监督预培训",
+            "url": "https://github.com/microsoft/unilm",
+            "name": "microsoft /unilm",
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "stars": "19,839",
+            "forks": "2,526",
+            "language": "Python",
+            "stars_today": "195 stars this week"
+        },
+        {
+            "zh_des": "📺🚀：💰📡🏠🌊🎬🎥🏀🪁🎮🎵电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、音乐；支持自定义增加频道(含图标)；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVbox等播放软件；支持工作流、DOKER(AMD64/ARM64)、命令行、软件界面多种部署/运行方式|电视直播信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | Live TV source update tool",
+            "stars": "776",
+            "forks": "460",
+            "language": "Python",
+            "stars_today": "55 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "19,368",
+            "forks": "1,954",
+            "language": "Python",
+            "stars_today": "647 stars this week"
+        },
+        {
+            "zh_des": "基于PaddlePaddle的厉害多语言OCR工具包(实用超轻量级OCR系统，支持80多种语言识别，提供数据标注和合成工具，支持服务器、移动、嵌入式和物联网设备之间的培训和部署)",
+            "url": "https://github.com/PaddlePaddle/PaddleOCR",
+            "name": "PaddlePaddle /PaddleOCR",
+            "description": "Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)",
+            "stars": "43,424",
+            "forks": "7,751",
+            "language": "Python",
+            "stars_today": "403 stars this week"
+        },
+        {
+            "zh_des": "运行RFDifferity的代码",
+            "url": "https://github.com/RosettaCommons/RFdiffusion",
+            "name": "RosettaCommons /RFdiffusion",
+            "description": "Code for running RFdiffusion",
+            "stars": "1,707",
+            "forks": "331",
+            "language": "Python",
+            "stars_today": "27 stars this week"
+        }
+    ]
+}
