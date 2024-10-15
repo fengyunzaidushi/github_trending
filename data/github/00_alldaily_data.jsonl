@@ -52172,3 +52172,157 @@
         }
     ]
 }
+{
+    "10月15日": [
+        {
+            "zh_des": "探索符合人体工程学的轻量级多智能体协调的教育框架。由OpenAI解决方案团队管理。",
+            "url": "https://github.com/openai/swarm",
+            "name": "openai /swarm",
+            "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+            "stars": "10,933",
+            "forks": "845",
+            "language": "Python",
+            "stars_today": "2,968 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "67,575",
+            "forks": "6,048",
+            "language": "Python",
+            "stars_today": "513 stars today"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "23,947",
+            "forks": "1,686",
+            "language": "Python",
+            "stars_today": "514 stars today"
+        },
+        {
+            "zh_des": "Apple Silicon的设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "On-device Speech Recognition for Apple Silicon",
+            "stars": "3,407",
+            "forks": "285",
+            "language": "Swift",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "4,821",
+            "forks": "662",
+            "language": "TypeScript",
+            "stars_today": "197 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "11,230",
+            "forks": "717",
+            "language": "Python",
+            "stars_today": "311 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "19,461",
+            "forks": "1,455",
+            "language": "TypeScript",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "在Docker中运行MacOS VM！在Docker中运行接近原生OSX-KVM！X11转发！OS X安全研究的CI/CD！Docker Mac容器。",
+            "url": "https://github.com/sickcodes/Docker-OSX",
+            "name": "sickcodes /Docker-OSX",
+            "description": "Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.",
+            "stars": "47,131",
+            "forks": "2,569",
+            "language": "Shell",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "一个轻量级的纯SWIFT库，用于从Web下载和缓存图像。",
+            "url": "https://github.com/onevcat/Kingfisher",
+            "name": "onevcat /Kingfisher",
+            "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+            "stars": "23,190",
+            "forks": "2,650",
+            "language": "Swift",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "KubeBuilder(sig-apimachines)的控制器运行时子项目的repo",
+            "url": "https://github.com/kubernetes-sigs/controller-runtime",
+            "name": "kubernetes-sigs /controller-runtime",
+            "description": "Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)",
+            "stars": "2,475",
+            "forks": "1,138",
+            "language": "Go",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "12,601",
+            "forks": "531",
+            "language": "TypeScript",
+            "stars_today": "232 stars today"
+        },
+        {
+            "zh_des": "⚡工作流自动化平台。编排和调度任何语言的代码，在任何地方运行，500多个插件。除了Zapier，RunDeck，Camunda，Airflow..。",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+            "stars": "10,235",
+            "forks": "850",
+            "language": "Java",
+            "stars_today": "98 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "42,741",
+            "forks": "9,633",
+            "language": "TypeScript",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "1,215",
+            "forks": "120",
+            "language": "Python",
+            "stars_today": "104 stars today"
+        },
+        {
+            "zh_des": "Atmosphère是任天堂交换机的一款正在开发中的定制固件。",
+            "url": "https://github.com/Atmosphere-NX/Atmosphere",
+            "name": "Atmosphere-NX /Atmosphere",
+            "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+            "stars": "14,780",
+            "forks": "1,234",
+            "language": "C++",
+            "stars_today": "43 stars today"
+        }
+    ]
+}
