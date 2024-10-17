@@ -54018,3 +54018,227 @@
         }
     ]
 }
+{
+    "10月17日": [
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "68,148",
+            "forks": "6,075",
+            "language": "Python",
+            "stars_today": "4,858 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "24,461",
+            "forks": "1,711",
+            "language": "Python",
+            "stars_today": "2,463 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "11,929",
+            "forks": "757",
+            "language": "Python",
+            "stars_today": "1,588 stars this week"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "25,193",
+            "forks": "8,722",
+            "language": "Python",
+            "stars_today": "266 stars this week"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "6,483",
+            "forks": "688",
+            "language": "Python",
+            "stars_today": "210 stars this week"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "30,983",
+            "forks": "5,969",
+            "language": "Python",
+            "stars_today": "998 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "33,196",
+            "forks": "2,505",
+            "language": "Python",
+            "stars_today": "569 stars this week"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "6,816",
+            "forks": "1,641",
+            "language": "Python",
+            "stars_today": "663 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "19,730",
+            "forks": "1,971",
+            "language": "Python",
+            "stars_today": "734 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "315,616",
+            "forks": "33,645",
+            "language": "Python",
+            "stars_today": "1,696 stars this week"
+        },
+        {
+            "zh_des": "Ten代理是世界上第一个集成了OpenAI Realtime API和RTC的实时多模式代理，具有天气检查、网络搜索、视觉和RAG功能。",
+            "url": "https://github.com/TEN-framework/TEN-Agent",
+            "name": "TEN-framework /TEN-Agent",
+            "description": "TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.",
+            "stars": "890",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "234 stars this week"
+        },
+        {
+            "zh_des": "📺🚀💰📡🏠🌊🎬🎥🏀🪁🎮🎵🏠🌊🎬🎥🏀🪁🎮🎵电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、广东、港澳台、电影、咪咕、体育、动画、游戏、音乐；支持自定义增加频道(含图标)；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVbox等播放软件；支持工作流、DOKER(AMD64/ARM64)、命令行、软件界面多种部署/运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool",
+            "stars": "815",
+            "forks": "472",
+            "language": "Python",
+            "stars_today": "72 stars this week"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "1,306",
+            "forks": "125",
+            "language": "Python",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "AlphaFold的开放源代码。",
+            "url": "https://github.com/google-deepmind/alphafold",
+            "name": "google-deepmind /alphafold",
+            "description": "Open source code for AlphaFold.",
+            "stars": "12,603",
+            "forks": "2,236",
+            "language": "Python",
+            "stars_today": "195 stars this week"
+        },
+        {
+            "zh_des": "跨任务、语言和模式的大规模自我监督预培训",
+            "url": "https://github.com/microsoft/unilm",
+            "name": "microsoft /unilm",
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "stars": "19,884",
+            "forks": "2,533",
+            "language": "Python",
+            "stars_today": "151 stars this week"
+        },
+        {
+            "zh_des": "与您的🤖数据库📊聊天。使用RAG🔄通过LLMS生成准确的文本到SQL。",
+            "url": "https://github.com/vanna-ai/vanna",
+            "name": "vanna-ai /vanna",
+            "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.",
+            "stars": "11,225",
+            "forks": "890",
+            "language": "Python",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "60,763",
+            "forks": "14,581",
+            "language": "Python",
+            "stars_today": "233 stars this week"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "14,129",
+            "forks": "1,687",
+            "language": "Python",
+            "stars_today": "1,246 stars this week"
+        },
+        {
+            "zh_des": "网络执行工具",
+            "url": "https://github.com/Pennyw0rth/NetExec",
+            "name": "Pennyw0rth /NetExec",
+            "description": "The Network Execution Tool",
+            "stars": "3,037",
+            "forks": "329",
+            "language": "Python",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "你喜欢火炬吗？你喜欢微格勒吗？你爱丁尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "26,597",
+            "forks": "2,942",
+            "language": "Python",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "使用PEFT或全参数微调350+LLM或100+MLLM。(LLM：Qwen2.5、Llama3.2、GLM4、Internlm2.5、I1.5、Mistral、白川2、DeepSeek、Gemma2、...；MLLM：Qwen2-VL、Qwen2-Audio、Llama3.2-Vision、Llava、InternVL2、MiniCPM-V-2.6、GLM4v、XComposer2.5、Yi-VL、DeepSeek-VL、Phi3.5-Vision、...)",
+            "url": "https://github.com/modelscope/ms-swift",
+            "name": "modelscope /ms-swift",
+            "description": "Use PEFT or Full-parameter to finetune 350+ LLMs or 100+ MLLMs. (LLM: Qwen2.5, Llama3.2, GLM4, Internlm2.5, Yi1.5, Mistral, Baichuan2, DeepSeek, Gemma2, ...; MLLM: Qwen2-VL, Qwen2-Audio, Llama3.2-Vision, Llava, InternVL2, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, Yi-VL, DeepSeek-VL, Phi3.5-Vision, ...)",
+            "stars": "3,876",
+            "forks": "340",
+            "language": "Python",
+            "stars_today": "130 stars this week"
+        },
+        {
+            "zh_des": "免费的ChatGPT接口密钥、免费ChatGPT接口、支持GPT4接口(免费)、ChatGPT国内可用免费转发接口、直连无需代理。可以搭配Chatbox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天.",
+            "url": "https://github.com/chatanywhere/GPT_API_free",
+            "name": "chatanywhere /GPT_API_free",
+            "description": "Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。",
+            "stars": "22,905",
+            "forks": "1,745",
+            "language": "Python",
+            "stars_today": "727 stars this week"
+        }
+    ]
+}

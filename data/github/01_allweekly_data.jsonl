@@ -54926,3 +54926,217 @@
         }
     ]
 }
+{
+    "10月17日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "14,984",
+            "forks": "914",
+            "language": "TypeScript",
+            "stars_today": "6,558 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "68,148",
+            "forks": "6,075",
+            "language": "Python",
+            "stars_today": "4,858 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "7,933",
+            "forks": "1,539",
+            "language": "TypeScript",
+            "stars_today": "1,113 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "24,461",
+            "forks": "1,711",
+            "language": "Python",
+            "stars_today": "2,463 stars this week"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "11,929",
+            "forks": "757",
+            "language": "Python",
+            "stars_today": "1,588 stars this week"
+        },
+        {
+            "zh_des": "用于自我托管的Hully",
+            "url": "https://github.com/hcengineering/huly-selfhost",
+            "name": "hcengineering /huly-selfhost",
+            "description": "Huly for Self Hosting",
+            "stars": "1,261",
+            "forks": "111",
+            "language": "Shell",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "17,277",
+            "forks": "2,025",
+            "language": "TypeScript",
+            "stars_today": "1,087 stars this week"
+        },
+        {
+            "zh_des": "DPI绕过多平台",
+            "url": "https://github.com/bol-van/zapret",
+            "name": "bol-van /zapret",
+            "description": "DPI bypass multi platform",
+            "stars": "7,474",
+            "forks": "593",
+            "language": "C",
+            "stars_today": "1,120 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "8,307",
+            "forks": "690",
+            "language": "TypeScript",
+            "stars_today": "1,926 stars this week"
+        },
+        {
+            "zh_des": "一个现代的运行时，用于脚本和打字。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "96,221",
+            "forks": "5,315",
+            "language": "Rust",
+            "stars_today": "1,411 stars this week"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "25,193",
+            "forks": "8,722",
+            "language": "Python",
+            "stars_today": "266 stars this week"
+        },
+        {
+            "zh_des": "一个基本的端到端语音识别工具包和开源SOTA预训练模型，支持语音识别、语音活动检测、文本后处理等。",
+            "url": "https://github.com/modelscope/FunASR",
+            "name": "modelscope /FunASR",
+            "description": "A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.",
+            "stars": "6,483",
+            "forks": "688",
+            "language": "Python",
+            "stars_today": "210 stars this week"
+        },
+        {
+            "zh_des": "Atmosphère是任天堂交换机的一款正在开发中的定制固件。",
+            "url": "https://github.com/Atmosphere-NX/Atmosphere",
+            "name": "Atmosphere-NX /Atmosphere",
+            "description": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+            "stars": "14,870",
+            "forks": "1,236",
+            "language": "C++",
+            "stars_today": "424 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "20,201",
+            "forks": "1,478",
+            "language": "TypeScript",
+            "stars_today": "876 stars this week"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "30,983",
+            "forks": "5,969",
+            "language": "Python",
+            "stars_today": "998 stars this week"
+        },
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "4,140",
+            "forks": "318",
+            "language": "Vue",
+            "stars_today": "424 stars this week"
+        },
+        {
+            "zh_des": "非NVIDIA图形处理器上的CUDA",
+            "url": "https://github.com/vosen/ZLUDA",
+            "name": "vosen /ZLUDA",
+            "description": "CUDA on non-NVIDIA GPUs",
+            "stars": "9,471",
+            "forks": "623",
+            "language": "Rust",
+            "stars_today": "246 stars this week"
+        },
+        {
+            "zh_des": "基于Qt的跨平台图形用户界面代理配置管理器(后台：SING-BOX)",
+            "url": "https://github.com/MatsuriDayo/nekoray",
+            "name": "MatsuriDayo /nekoray",
+            "description": "Qt based cross-platform GUI proxy configuration manager (backend: sing-box)",
+            "stars": "12,892",
+            "forks": "1,211",
+            "language": "C++",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "与Windows兼容的免费操作系统",
+            "url": "https://github.com/reactos/reactos",
+            "name": "reactos /reactos",
+            "description": "A free Windows-compatible Operating System",
+            "stars": "14,582",
+            "forks": "1,743",
+            "language": "C",
+            "stars_today": "64 stars this week"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "33,196",
+            "forks": "2,505",
+            "language": "Python",
+            "stars_today": "569 stars this week"
+        },
+        {
+            "zh_des": "Amnezia VPN客户端(桌面+移动)",
+            "url": "https://github.com/amnezia-vpn/amnezia-client",
+            "name": "amnezia-vpn /amnezia-client",
+            "description": "Amnezia VPN Client (Desktop+Mobile)",
+            "stars": "5,212",
+            "forks": "329",
+            "language": "C++",
+            "stars_today": "536 stars this week"
+        }
+    ]
+}
