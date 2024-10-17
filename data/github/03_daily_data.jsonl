@@ -52340,3 +52340,177 @@
         }
     ]
 }
+{
+    "10月17日": [
+        {
+            "zh_des": "探索符合人体工程学的轻量级多智能体协调的教育框架。由OpenAI解决方案团队管理。",
+            "url": "https://github.com/openai/swarm",
+            "name": "openai /swarm",
+            "description": "Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.",
+            "stars": "12,734",
+            "forks": "1,010",
+            "language": "Python",
+            "stars_today": "1,901 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "11,777",
+            "forks": "746",
+            "language": "Python",
+            "stars_today": "456 stars today"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "24,371",
+            "forks": "1,704",
+            "language": "Python",
+            "stars_today": "340 stars today"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "6,790",
+            "forks": "1,638",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "用于开发、生产和观察数据资产的编排平台。",
+            "url": "https://github.com/dagster-io/dagster",
+            "name": "dagster-io /dagster",
+            "description": "An orchestration platform for the development, production, and observation of data assets.",
+            "stars": "11,478",
+            "forks": "1,443",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的人脸识别和人脸属性分析(年龄、性别、情感和种族)库",
+            "url": "https://github.com/serengil/deepface",
+            "name": "serengil /deepface",
+            "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+            "stars": "12,445",
+            "forks": "2,060",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "基于大规模弱监督的稳健语音识别",
+            "url": "https://github.com/openai/whisper",
+            "name": "openai /whisper",
+            "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
+            "stars": "69,742",
+            "forks": "8,213",
+            "language": "Python",
+            "stars_today": "87 stars today"
+        },
+        {
+            "zh_des": "免费开源机器翻译API。自托管、可离线且易于设置。",
+            "url": "https://github.com/LibreTranslate/LibreTranslate",
+            "name": "LibreTranslate /LibreTranslate",
+            "description": "Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.",
+            "stars": "9,232",
+            "forks": "837",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Ansible是一个非常简单的IT自动化平台，使您的应用程序和系统更易于部署和维护。用简单易懂的语言实现从代码部署到网络配置再到云管理的自动化，无需在远程系统上安装任何代理。https://docs.ansible.com.",
+            "url": "https://github.com/ansible/ansible",
+            "name": "ansible /ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems.https://docs.ansible.com.",
+            "stars": "62,639",
+            "forks": "23,865",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "272,763",
+            "forks": "45,979",
+            "language": "Python",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "使用小型、专用模型构建企业RAG管道的统一框架",
+            "url": "https://github.com/llmware-ai/llmware",
+            "name": "llmware-ai /llmware",
+            "description": "Unified framework for building enterprise RAG pipelines with small, specialized models",
+            "stars": "5,255",
+            "forks": "1,270",
+            "language": "Python",
+            "stars_today": "191 stars today"
+        },
+        {
+            "zh_des": "Llama3.1学会倾听",
+            "url": "https://github.com/homebrewltd/ichigo",
+            "name": "homebrewltd /ichigo",
+            "description": "Llama3.1 learns to Listen",
+            "stars": "726",
+            "forks": "27",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "Ten代理是世界上第一个集成了OpenAI Realtime API和RTC的实时多模式代理，具有天气检查、网络搜索、视觉和RAG功能。",
+            "url": "https://github.com/TEN-framework/TEN-Agent",
+            "name": "TEN-framework /TEN-Agent",
+            "description": "TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.",
+            "stars": "851",
+            "forks": "111",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "论文《AlphaCodium代码生成：从快速工程到流工程》的正式实现",
+            "url": "https://github.com/Codium-ai/AlphaCodium",
+            "name": "Codium-ai /AlphaCodium",
+            "description": "Official implementation for the paper: \"Code Generation with AlphaCodium: From Prompt Engineering to Flow Engineering\"\"",
+            "stars": "3,554",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "🔰家庭助理操作系统",
+            "url": "https://github.com/home-assistant/operating-system",
+            "name": "home-assistant /operating-system",
+            "description": "🔰 Home Assistant Operating System",
+            "stars": "4,883",
+            "forks": "969",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "免费的ChatGPT接口密钥、免费ChatGPT接口、支持GPT4接口(免费)、ChatGPT国内可用免费转发接口、直连无需代理。可以搭配Chatbox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天.",
+            "url": "https://github.com/chatanywhere/GPT_API_free",
+            "name": "chatanywhere /GPT_API_free",
+            "description": "Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。",
+            "stars": "22,830",
+            "forks": "1,736",
+            "language": "Python",
+            "stars_today": "254 stars today"
+        },
+        {
+            "zh_des": "为研究大型语言模型、多模式和语音AI(自动语音识别和文本到语音)的研究人员和开发人员构建的可扩展生成性AI框架",
+            "url": "https://github.com/NVIDIA/NeMo",
+            "name": "NVIDIA /NeMo",
+            "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+            "stars": "11,831",
+            "forks": "2,460",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}

@@ -57385,3 +57385,197 @@
         }
     ]
 }
+{
+    "10月17日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "14,918",
+            "forks": "912",
+            "language": "TypeScript",
+            "stars_today": "6,558 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "7,882",
+            "forks": "1,531",
+            "language": "TypeScript",
+            "stars_today": "1,113 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "17,243",
+            "forks": "2,016",
+            "language": "TypeScript",
+            "stars_today": "1,087 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "8,248",
+            "forks": "683",
+            "language": "TypeScript",
+            "stars_today": "1,926 stars this week"
+        },
+        {
+            "zh_des": "❶One是一个新的Reaction框架，它使跨平台变得简单。目标网络和本地化，只使用VITE。",
+            "url": "https://github.com/onejs/one",
+            "name": "onejs /one",
+            "description": "❶ One is a new React framework that makes cross-platform simple. Target web and native with just Vite.",
+            "stars": "2,819",
+            "forks": "56",
+            "language": "TypeScript",
+            "stars_today": "528 stars this week"
+        },
+        {
+            "zh_des": "直接在浏览器中使用ML支持的语音识别",
+            "url": "https://github.com/xenova/whisper-web",
+            "name": "xenova /whisper-web",
+            "description": "ML-powered speech recognition directly in your browser",
+            "stars": "2,422",
+            "forks": "253",
+            "language": "TypeScript",
+            "stars_today": "361 stars this week"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "4,969",
+            "forks": "680",
+            "language": "TypeScript",
+            "stars_today": "1,438 stars this week"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "966",
+            "forks": "321",
+            "language": "TypeScript",
+            "stars_today": "405 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "19,960",
+            "forks": "1,467",
+            "language": "TypeScript",
+            "stars_today": "876 stars this week"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "17,413",
+            "forks": "4,676",
+            "language": "TypeScript",
+            "stars_today": "142 stars this week"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "24,411",
+            "forks": "1,544",
+            "language": "TypeScript",
+            "stars_today": "642 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "48,290",
+            "forks": "6,904",
+            "language": "TypeScript",
+            "stars_today": "852 stars this week"
+        },
+        {
+            "zh_des": "无损视频/音频编辑的瑞士军刀",
+            "url": "https://github.com/mifi/lossless-cut",
+            "name": "mifi /lossless-cut",
+            "description": "The swiss army knife of lossless video/audio editing",
+            "stars": "27,232",
+            "forks": "1,315",
+            "language": "TypeScript",
+            "stars_today": "262 stars this week"
+        },
+        {
+            "zh_des": "用于无缝工作流的开源、跨平台终端",
+            "url": "https://github.com/wavetermdev/waveterm",
+            "name": "wavetermdev /waveterm",
+            "description": "An open-source, cross-platform terminal for seamless workflows",
+            "stars": "4,214",
+            "forks": "107",
+            "language": "TypeScript",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "42,923",
+            "forks": "9,647",
+            "language": "TypeScript",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。深受Vercel、Raycast和Pplexity等现代营销团队的喜爱。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.",
+            "stars": "18,388",
+            "forks": "1,988",
+            "language": "TypeScript",
+            "stars_today": "481 stars this week"
+        },
+        {
+            "zh_des": "JS是一个渐进式的、可增量采用的🖖框架，用于在Web上构建用户界面。",
+            "url": "https://github.com/vuejs/core",
+            "name": "vuejs /core",
+            "description": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+            "stars": "47,272",
+            "forks": "8,264",
+            "language": "TypeScript",
+            "stars_today": "259 stars this week"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "19,932",
+            "forks": "403",
+            "language": "TypeScript",
+            "stars_today": "2,211 stars this week"
+        },
+        {
+            "zh_des": "OpenMetadata是一个用于数据发现、数据可观察性和数据治理的统一元数据平台，由中央元数据存储库、深入的列级谱系和无缝的团队协作提供支持。",
+            "url": "https://github.com/open-metadata/OpenMetadata",
+            "name": "open-metadata /OpenMetadata",
+            "description": "OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.",
+            "stars": "5,377",
+            "forks": "1,016",
+            "language": "TypeScript",
+            "stars_today": "59 stars this week"
+        }
+    ]
+}
