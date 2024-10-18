@@ -60392,3 +60392,197 @@
         }
     ]
 }
+{
+    "10月18日": [
+        {
+            "zh_des": "具有实时、反应式绑定的轻量级WASM Postgres。",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight WASM Postgres with real-time, reactive bindings.",
+            "stars": "8,658",
+            "forks": "175",
+            "language": "TypeScript",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "20,696",
+            "forks": "1,503",
+            "language": "TypeScript",
+            "stars_today": "654 stars today"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "64,810",
+            "forks": "4,493",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "8,586",
+            "forks": "1,134",
+            "language": "TypeScript",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "一个完整的解决方案，用于打包和构建一个可随时分发的电子应用程序，并提供开箱即用的自动更新支持",
+            "url": "https://github.com/electron-userland/electron-builder",
+            "name": "electron-userland /electron-builder",
+            "description": "A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box",
+            "stars": "13,632",
+            "forks": "1,740",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "最先进的浏览器指纹库。",
+            "url": "https://github.com/fingerprintjs/fingerprintjs",
+            "name": "fingerprintjs /fingerprintjs",
+            "description": "The most advanced browser fingerprinting library.",
+            "stars": "22,490",
+            "forks": "2,265",
+            "language": "TypeScript",
+            "stars_today": "358 stars today"
+        },
+        {
+            "zh_des": "🦜️🔗Chat Lang Chain这个repo是一个聊天机器人的实现，专门专注于通过Lang Chain文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainThis repo is an implementation of a chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "5,256",
+            "forks": "1,256",
+            "language": "TypeScript",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "44,186",
+            "forks": "6,455",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web framework built on Web Standards",
+            "stars": "19,460",
+            "forks": "551",
+            "language": "TypeScript",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "23,851",
+            "forks": "592",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "人人都能用英语",
+            "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+            "name": "ZuodaoTech /everyone-can-use-english",
+            "description": "人人都能用英语",
+            "stars": "24,811",
+            "forks": "3,745",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "所有项目的灵活后端🐰将您的数据库变成一个无头的内容管理系统，管理面板，或应用程序与定制的用户界面，即时API，身份验证和更多。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+            "stars": "27,567",
+            "forks": "3,847",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,225",
+            "forks": "437",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "14,067",
+            "forks": "1,352",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "163,538",
+            "forks": "29,001",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "用于Node.js和TypeScrip的下一代ORM|PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB和CockroachDB",
+            "url": "https://github.com/prisma/prisma",
+            "name": "prisma /prisma",
+            "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+            "stars": "39,344",
+            "forks": "1,536",
+            "language": "TypeScript",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "Node.js的下一代浏览器和移动自动化测试框架",
+            "url": "https://github.com/webdriverio/webdriverio",
+            "name": "webdriverio /webdriverio",
+            "description": "Next-gen browser and mobile automation test framework for Node.js",
+            "stars": "9,038",
+            "forks": "2,503",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "92,220",
+            "forks": "49,382",
+            "language": "TypeScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "用于使✨支持TypeScrip的所有工具的ESLINT Monorepo",
+            "url": "https://github.com/typescript-eslint/typescript-eslint",
+            "name": "typescript-eslint /typescript-eslint",
+            "description": "✨ Monorepo for all the tooling which enables ESLint to support TypeScript",
+            "stars": "15,208",
+            "forks": "2,723",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
