@@ -52942,3 +52942,157 @@
         }
     ]
 }
+{
+    "10月18日": [
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "20,531",
+            "forks": "1,495",
+            "language": "TypeScript",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "Apple Silicon的设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "On-device Speech Recognition for Apple Silicon",
+            "stars": "3,632",
+            "forks": "305",
+            "language": "Swift",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "SecList是安全测试员的同伴。它是在安全评估过程中使用的多种类型的列表的集合，收集在一个地方。列表类型包括用户名、密码、URL、敏感数据模式、模糊有效负载、Web外壳等。",
+            "url": "https://github.com/danielmiessler/SecLists",
+            "name": "danielmiessler /SecLists",
+            "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+            "stars": "57,898",
+            "forks": "23,851",
+            "language": "PHP",
+            "stars_today": "172 stars today"
+        },
+        {
+            "zh_des": "一个轻量级的纯SWIFT库，用于从Web下载和缓存图像。",
+            "url": "https://github.com/onevcat/Kingfisher",
+            "name": "onevcat /Kingfisher",
+            "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+            "stars": "23,291",
+            "forks": "2,658",
+            "language": "Swift",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "12,120",
+            "forks": "765",
+            "language": "Python",
+            "stars_today": "286 stars today"
+        },
+        {
+            "zh_des": "用于现代C++的JSON",
+            "url": "https://github.com/nlohmann/json",
+            "name": "nlohmann /json",
+            "description": "JSON for Modern C++",
+            "stars": "42,628",
+            "forks": "6,693",
+            "language": "C++",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "使用JavaScript、HTML和CSS构建跨平台桌面应用程序",
+            "url": "https://github.com/electron/electron",
+            "name": "electron /electron",
+            "description": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+            "stars": "114,104",
+            "forks": "15,385",
+            "language": "C++",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "Cocos通过Cocos Creator简化了游戏的创建和分发，Cocos Creator是一个免费、开源的跨平台游戏引擎。使数百万开发人员能够创建高性能、引人入胜的2D/3D游戏和即时网络娱乐。",
+            "url": "https://github.com/cocos/cocos-engine",
+            "name": "cocos /cocos-engine",
+            "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+            "stars": "7,530",
+            "forks": "1,872",
+            "language": "C++",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "一个可重定向的基于MLIR的机器学习编译器和运行时工具包。",
+            "url": "https://github.com/iree-org/iree",
+            "name": "iree-org /iree",
+            "description": "A retargetable MLIR-based machine learning compiler and runtime toolkit.",
+            "stars": "2,681",
+            "forks": "594",
+            "language": "C++",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一个开源、可移植、易于使用、可读且灵活的TLS库，以及PSA加密API的参考实现。发布的节奏各不相同，通常在发布之间大约3-6个月。",
+            "url": "https://github.com/Mbed-TLS/mbedtls",
+            "name": "Mbed-TLS /mbedtls",
+            "description": "An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.",
+            "stars": "5,344",
+            "forks": "2,578",
+            "language": "C",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Adobe软件的替代方案列表",
+            "url": "https://github.com/KenneyNL/Adobe-Alternatives",
+            "name": "KenneyNL /Adobe-Alternatives",
+            "description": "A list of alternatives for Adobe software",
+            "stars": "5,294",
+            "forks": "219",
+            "language": "",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "最先进的浏览器指纹库。",
+            "url": "https://github.com/fingerprintjs/fingerprintjs",
+            "name": "fingerprintjs /fingerprintjs",
+            "description": "The most advanced browser fingerprinting library.",
+            "stars": "22,428",
+            "forks": "2,264",
+            "language": "TypeScript",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "🤖AI网关|AI本地应用编程接口网关",
+            "url": "https://github.com/alibaba/higress",
+            "name": "alibaba /higress",
+            "description": "🤖 AI Gateway | AI Native API Gateway",
+            "stars": "3,085",
+            "forks": "490",
+            "language": "Go",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "安全、快速的微VM，用于无服务器计算。",
+            "url": "https://github.com/firecracker-microvm/firecracker",
+            "name": "firecracker-microvm /firecracker",
+            "description": "Secure and fast microVMs for serverless computing.",
+            "stars": "25,721",
+            "forks": "1,784",
+            "language": "Rust",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "FLARE团队的开源工具，用于识别可执行文件中的功能。",
+            "url": "https://github.com/mandiant/capa",
+            "name": "mandiant /capa",
+            "description": "The FLARE team's open-source tool to identify capabilities in executable files.",
+            "stars": "4,751",
+            "forks": "551",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
