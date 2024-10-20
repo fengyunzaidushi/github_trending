@@ -58549,3 +58549,197 @@
         }
     ]
 }
+{
+    "10月20日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "15,352",
+            "forks": "934",
+            "language": "TypeScript",
+            "stars_today": "3,739 stars this week"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "5,101",
+            "forks": "693",
+            "language": "TypeScript",
+            "stars_today": "1,315 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "17,410",
+            "forks": "2,052",
+            "language": "TypeScript",
+            "stars_today": "966 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "20,845",
+            "forks": "1,506",
+            "language": "TypeScript",
+            "stars_today": "1,715 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "8,152",
+            "forks": "1,567",
+            "language": "TypeScript",
+            "stars_today": "975 stars this week"
+        },
+        {
+            "zh_des": "开源API管理平台",
+            "url": "https://github.com/unkeyed/unkey",
+            "name": "unkeyed /unkey",
+            "description": "Open source API management platform",
+            "stars": "3,968",
+            "forks": "464",
+            "language": "TypeScript",
+            "stars_today": "672 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "8,557",
+            "forks": "700",
+            "language": "TypeScript",
+            "stars_today": "1,217 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "8,676",
+            "forks": "1,144",
+            "language": "TypeScript",
+            "stars_today": "278 stars this week"
+        },
+        {
+            "zh_des": "NocoBase是一个可伸缩性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is a scalability-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "12,409",
+            "forks": "1,366",
+            "language": "TypeScript",
+            "stars_today": "277 stars this week"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。深受Vercel、Raycast和Pplexity等现代营销团队的喜爱。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.",
+            "stars": "18,455",
+            "forks": "2,002",
+            "language": "TypeScript",
+            "stars_today": "464 stars this week"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "1,030",
+            "forks": "333",
+            "language": "TypeScript",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "92,234",
+            "forks": "49,397",
+            "language": "TypeScript",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "17,459",
+            "forks": "4,687",
+            "language": "TypeScript",
+            "stars_today": "135 stars this week"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "24,511",
+            "forks": "1,552",
+            "language": "TypeScript",
+            "stars_today": "714 stars this week"
+        },
+        {
+            "zh_des": "您最友好的开源AI自动化工具✨工作流自动化工具200+集成/企业自动化工具/Zapier替代工具",
+            "url": "https://github.com/activepieces/activepieces",
+            "name": "activepieces /activepieces",
+            "description": "Your friendliest open source AI automation tool ✨ Workflow automation tool 200+ integration / Enterprise automation tool / Zapier Alternative",
+            "stars": "9,563",
+            "forks": "1,142",
+            "language": "TypeScript",
+            "stars_today": "65 stars this week"
+        },
+        {
+            "zh_des": "Deno标准库",
+            "url": "https://github.com/denoland/std",
+            "name": "denoland /std",
+            "description": "The Deno Standard Library",
+            "stars": "3,109",
+            "forks": "614",
+            "language": "TypeScript",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "64,844",
+            "forks": "4,498",
+            "language": "TypeScript",
+            "stars_today": "534 stars this week"
+        },
+        {
+            "zh_des": "🦜️🔗Chat Lang Chain这个repo是一个聊天机器人的实现，专门专注于通过Lang Chain文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainThis repo is an implementation of a chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "5,358",
+            "forks": "1,267",
+            "language": "TypeScript",
+            "stars_today": "114 stars this week"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "13,233",
+            "forks": "560",
+            "language": "TypeScript",
+            "stars_today": "1,389 stars this week"
+        }
+    ]
+}

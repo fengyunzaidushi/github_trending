@@ -60964,3 +60964,187 @@
         }
     ]
 }
+{
+    "10月20日": [
+        {
+            "zh_des": "最先进的浏览器指纹库。",
+            "url": "https://github.com/fingerprintjs/fingerprintjs",
+            "name": "fingerprintjs /fingerprintjs",
+            "description": "The most advanced browser fingerprinting library.",
+            "stars": "22,712",
+            "forks": "2,277",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "🦜️🔗Chat Lang Chain这个repo是一个聊天机器人的实现，专门专注于通过Lang Chain文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainThis repo is an implementation of a chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "5,358",
+            "forks": "1,267",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "84,373",
+            "forks": "9,273",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "OHIF零足迹DICOM查看器和肿瘤学特定的病变跟踪器，以及共享的扩展包",
+            "url": "https://github.com/OHIF/Viewers",
+            "name": "OHIF /Viewers",
+            "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+            "stars": "3,267",
+            "forks": "3,319",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web framework built on Web Standards",
+            "stars": "19,540",
+            "forks": "552",
+            "language": "TypeScript",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "44,188",
+            "forks": "6,456",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "17,376",
+            "forks": "1,263",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "20,845",
+            "forks": "1,506",
+            "language": "TypeScript",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "8,676",
+            "forks": "1,144",
+            "language": "TypeScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "具有实时、反应式绑定的轻量级WASM Postgres。",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight WASM Postgres with real-time, reactive bindings.",
+            "stars": "8,766",
+            "forks": "179",
+            "language": "TypeScript",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "991",
+            "forks": "359",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "通过Inertia.js，您可以使用传统的服务器端路由和控制器快速构建现代的单页面Reaction、Vue和Svelte应用程序。",
+            "url": "https://github.com/inertiajs/inertia",
+            "name": "inertiajs /inertia",
+            "description": "Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.",
+            "stars": "6,410",
+            "forks": "429",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "30,730",
+            "forks": "15,957",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "TypeScrip是可编译为干净的JavaScript输出的JavaScript的超集。",
+            "url": "https://github.com/microsoft/TypeScript",
+            "name": "microsoft /TypeScript",
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "stars": "100,737",
+            "forks": "12,456",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "用于绘制手绘示意图的虚拟白板",
+            "url": "https://github.com/excalidraw/excalidraw",
+            "name": "excalidraw /excalidraw",
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "stars": "83,098",
+            "forks": "7,813",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Xplorer，一个可定制的现代文件管理器",
+            "url": "https://github.com/kimlimjustin/xplorer",
+            "name": "kimlimjustin /xplorer",
+            "description": "Xplorer, a customizable, modern file manager",
+            "stars": "4,450",
+            "forks": "313",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "96,038",
+            "forks": "25,404",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "47,316",
+            "forks": "7,084",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        }
+    ]
+}
