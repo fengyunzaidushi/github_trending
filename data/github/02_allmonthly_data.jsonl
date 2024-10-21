@@ -60986,3 +60986,217 @@
         }
     ]
 }
+{
+    "10月21日": [
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,804",
+            "forks": "504",
+            "language": "Python",
+            "stars_today": "3,488 stars this month"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "14,279",
+            "forks": "999",
+            "language": "Python",
+            "stars_today": "11,316 stars this month"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "15,514",
+            "forks": "942",
+            "language": "TypeScript",
+            "stars_today": "8,242 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "192,864",
+            "forks": "45,441",
+            "language": "Python",
+            "stars_today": "8,855 stars this month"
+        },
+        {
+            "zh_des": "全天候本地AI屏幕和麦克风录音。和奥拉玛一起工作。Llama3.2控制您的计算机。Rewind.ai&Zapier的替代方案。打开。安全。你拥有你的数据。生锈了。",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.",
+            "stars": "8,129",
+            "forks": "448",
+            "language": "Rust",
+            "stars_today": "6,741 stars this month"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "68,610",
+            "forks": "6,100",
+            "language": "Python",
+            "stars_today": "6,682 stars this month"
+        },
+        {
+            "zh_des": "⚡工作流自动化平台。编排和调度任何语言的代码，在任何地方运行，500多个插件。除了Zapier，RunDeck，Camunda，Airflow..。",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+            "stars": "10,661",
+            "forks": "917",
+            "language": "Java",
+            "stars_today": "3,181 stars this month"
+        },
+        {
+            "zh_des": "🤱🏻使用Rust将任何网页转换为桌面应用程序。🤱🏻利用锈菌轻松构建轻量级多端桌面应用",
+            "url": "https://github.com/tw93/Pake",
+            "name": "tw93 /Pake",
+            "description": "🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用",
+            "stars": "31,105",
+            "forks": "5,447",
+            "language": "Rust",
+            "stars_today": "5,327 stars this month"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "8,252",
+            "forks": "1,580",
+            "language": "TypeScript",
+            "stars_today": "1,654 stars this month"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "6,346",
+            "forks": "810",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,561 stars this month"
+        },
+        {
+            "zh_des": "我们为您编写可重复使用的计算机视觉工具。💜",
+            "url": "https://github.com/roboflow/supervision",
+            "name": "roboflow /supervision",
+            "description": "We write your reusable computer vision tools. 💜",
+            "stars": "23,787",
+            "forks": "1,777",
+            "language": "Python",
+            "stars_today": "4,653 stars this month"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "3,599",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "2,522 stars this month"
+        },
+        {
+            "zh_des": "DiceDB是一个符合Redis标准的内存中实时反应型数据库，针对现代硬件以及构建和扩展真正的实时应用程序进行了优化。",
+            "url": "https://github.com/DiceDB/dice",
+            "name": "DiceDB /dice",
+            "description": "DiceDB is a redis-compliant, in-memory, real-time, and reactive database optimized for modern hardware and for building and scaling truly real-time applications.",
+            "stars": "6,447",
+            "forks": "1,018",
+            "language": "Go",
+            "stars_today": "2,029 stars this month"
+        },
+        {
+            "zh_des": "Deskflow允许你在Windows、MacOS和Linux上的多台电脑之间共享一个鼠标和键盘。",
+            "url": "https://github.com/deskflow/deskflow",
+            "name": "deskflow /deskflow",
+            "description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.",
+            "stars": "12,234",
+            "forks": "3,721",
+            "language": "C++",
+            "stars_today": "1,856 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "12,692",
+            "forks": "804",
+            "language": "Python",
+            "stars_today": "2,695 stars this month"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "48,886",
+            "forks": "2,655",
+            "language": "Dart",
+            "stars_today": "6,797 stars this month"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "31,163",
+            "forks": "2,022",
+            "language": "TypeScript",
+            "stars_today": "1,270 stars this month"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "10,487",
+            "forks": "596",
+            "language": "Python",
+            "stars_today": "3,568 stars this month"
+        },
+        {
+            "zh_des": "这是一个自定进度的课程，学习铁锈，一次一个练习。",
+            "url": "https://github.com/mainmatter/100-exercises-to-learn-rust",
+            "name": "mainmatter /100-exercises-to-learn-rust",
+            "description": "A self-paced course to learn Rust, one exercise at a time.",
+            "stars": "5,771",
+            "forks": "967",
+            "language": "Rust",
+            "stars_today": "1,892 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "31,390",
+            "forks": "2,327",
+            "language": "Ruby",
+            "stars_today": "1,758 stars this month"
+        },
+        {
+            "zh_des": "自主托管的AI Starter Kit是一个开源模板，可以快速建立本地AI环境。由n8n管理，它提供了创建安全的、自我托管的AI工作流的必要工具。",
+            "url": "https://github.com/n8n-io/self-hosted-ai-starter-kit",
+            "name": "n8n-io /self-hosted-ai-starter-kit",
+            "description": "The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.",
+            "stars": "3,196",
+            "forks": "502",
+            "language": "",
+            "stars_today": "1,337 stars this month"
+        }
+    ]
+}
