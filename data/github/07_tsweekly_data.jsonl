@@ -59181,3 +59181,207 @@
         }
     ]
 }
+{
+    "10月21日": [
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "21,037",
+            "forks": "1,516",
+            "language": "TypeScript",
+            "stars_today": "1,784 stars this week"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "17,471",
+            "forks": "2,058",
+            "language": "TypeScript",
+            "stars_today": "828 stars this week"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "15,595",
+            "forks": "946",
+            "language": "TypeScript",
+            "stars_today": "2,807 stars this week"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "5,212",
+            "forks": "711",
+            "language": "TypeScript",
+            "stars_today": "1,228 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,031",
+            "forks": "1,174",
+            "language": "TypeScript",
+            "stars_today": "366 stars this week"
+        },
+        {
+            "zh_des": "所有项目的灵活后端🐰将您的数据库变成一个无头的内容管理系统，管理面板，或应用程序与定制的用户界面，即时API，身份验证和更多。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+            "stars": "27,634",
+            "forks": "3,856",
+            "language": "TypeScript",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "开源API管理平台",
+            "url": "https://github.com/unkeyed/unkey",
+            "name": "unkeyed /unkey",
+            "description": "Open source API management platform",
+            "stars": "4,029",
+            "forks": "470",
+            "language": "TypeScript",
+            "stars_today": "544 stars this week"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "8,275",
+            "forks": "1,589",
+            "language": "TypeScript",
+            "stars_today": "827 stars this week"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "24,549",
+            "forks": "1,557",
+            "language": "TypeScript",
+            "stars_today": "703 stars this week"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。深受Vercel、Raycast和Pplexity等现代营销团队的喜爱。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.",
+            "stars": "18,487",
+            "forks": "2,002",
+            "language": "TypeScript",
+            "stars_today": "447 stars this week"
+        },
+        {
+            "zh_des": "🦜️🔗Chat Lang Chain这个repo是一个聊天机器人的实现，专门专注于通过Lang Chain文档回答问题",
+            "url": "https://github.com/langchain-ai/chat-langchain",
+            "name": "langchain-ai /chat-langchain",
+            "description": "🦜️🔗 Chat LangChainThis repo is an implementation of a chatbot specifically focused on question answering over the LangChain documentation",
+            "stars": "5,377",
+            "forks": "1,272",
+            "language": "TypeScript",
+            "stars_today": "187 stars this week"
+        },
+        {
+            "zh_des": "具有实时、反应式绑定的轻量级WASM Postgres。",
+            "url": "https://github.com/electric-sql/pglite",
+            "name": "electric-sql /pglite",
+            "description": "Lightweight WASM Postgres with real-time, reactive bindings.",
+            "stars": "8,973",
+            "forks": "190",
+            "language": "TypeScript",
+            "stars_today": "305 stars this week"
+        },
+        {
+            "zh_des": "具有完全可配置选项的Performant交互式底板🚀",
+            "url": "https://github.com/gorhom/react-native-bottom-sheet",
+            "name": "gorhom /react-native-bottom-sheet",
+            "description": "A performant interactive bottom sheet with fully configurable options 🚀",
+            "stars": "6,910",
+            "forks": "753",
+            "language": "TypeScript",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "企业级用户界面设计语言和反应用户界面库",
+            "url": "https://github.com/ant-design/ant-design",
+            "name": "ant-design /ant-design",
+            "description": "An enterprise-class UI design language and React UI library",
+            "stars": "92,247",
+            "forks": "49,423",
+            "language": "TypeScript",
+            "stars_today": "129 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,283",
+            "forks": "442",
+            "language": "TypeScript",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "64,894",
+            "forks": "4,504",
+            "language": "TypeScript",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "Deno标准库",
+            "url": "https://github.com/denoland/std",
+            "name": "denoland /std",
+            "description": "The Deno Standard Library",
+            "stars": "3,113",
+            "forks": "614",
+            "language": "TypeScript",
+            "stars_today": "48 stars this week"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "84,403",
+            "forks": "9,279",
+            "language": "TypeScript",
+            "stars_today": "224 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令等每一步。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.",
+            "stars": "8,718",
+            "forks": "711",
+            "language": "TypeScript",
+            "stars_today": "1,076 stars this week"
+        },
+        {
+            "zh_des": "VS浏览器中的代码",
+            "url": "https://github.com/coder/code-server",
+            "name": "coder /code-server",
+            "description": "VS Code in the browser",
+            "stars": "68,156",
+            "forks": "5,597",
+            "language": "TypeScript",
+            "stars_today": "151 stars this week"
+        }
+    ]
+}
