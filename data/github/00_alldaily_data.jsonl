@@ -54104,3 +54104,137 @@
         }
     ]
 }
+{
+    "10月22日": [
+        {
+            "zh_des": "利用记忆、知识、工具和推理构建人工智能代理",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning",
+            "stars": "12,747",
+            "forks": "1,819",
+            "language": "Python",
+            "stars_today": "472 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "85,657",
+            "forks": "6,677",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "灾难-未来的黑暗日子。一款以后世界末日世界为背景的回合制生存游戏。",
+            "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+            "name": "CleverRaven /Cataclysm-DDA",
+            "description": "Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.",
+            "stars": "10,479",
+            "forks": "4,154",
+            "language": "C++",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "适用于Web、iOS和Android的Bluesky社交应用程序",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,111",
+            "forks": "1,181",
+            "language": "TypeScript",
+            "stars_today": "281 stars today"
+        },
+        {
+            "zh_des": "Solana程序示例的存储库",
+            "url": "https://github.com/solana-developers/program-examples",
+            "name": "solana-developers /program-examples",
+            "description": "A repository of Solana program examples",
+            "stars": "732",
+            "forks": "242",
+            "language": "TypeScript",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "带GPT-4 o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "3,866",
+            "forks": "198",
+            "language": "Python",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "所有算法都在Python中实现",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "193,092",
+            "forks": "45,461",
+            "language": "Python",
+            "stars_today": "289 stars today"
+        },
+        {
+            "zh_des": "Telegram for Android源",
+            "url": "https://github.com/DrKLO/Telegram",
+            "name": "DrKLO /Telegram",
+            "description": "Telegram for Android source",
+            "stars": "25,081",
+            "forks": "8,082",
+            "language": "Java",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "Python程序通常很短，难度相当大，用于完善特定技能。",
+            "url": "https://github.com/norvig/pytudes",
+            "name": "norvig /pytudes",
+            "description": "Python programs, usually short, of considerable difficulty, to perfect particular skills.",
+            "stars": "23,001",
+            "forks": "2,427",
+            "language": "Jupyter Notebook",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "极快的LLM推理。",
+            "url": "https://github.com/EricLBuehler/mistral.rs",
+            "name": "EricLBuehler /mistral.rs",
+            "description": "Blazingly fast LLM inference.",
+            "stars": "4,109",
+            "forks": "287",
+            "language": "Rust",
+            "stars_today": "153 stars today"
+        },
+        {
+            "zh_des": "CoTracker是一个用于跟踪视频上任何点（像素）的模型。",
+            "url": "https://github.com/facebookresearch/co-tracker",
+            "name": "facebookresearch /co-tracker",
+            "description": "CoTracker is a model for tracking any point (pixel) on a video.",
+            "stars": "3,348",
+            "forks": "228",
+            "language": "Jupyter Notebook",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "Godot Engine -多平台2D和3D游戏引擎",
+            "url": "https://github.com/godotengine/godot",
+            "name": "godotengine /godot",
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "stars": "90,446",
+            "forks": "21,068",
+            "language": "C++",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "从雅虎下载市场数据！财务API",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "13,526",
+            "forks": "2,361",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        }
+    ]
+}
