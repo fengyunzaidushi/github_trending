@@ -62048,3 +62048,187 @@
         }
     ]
 }
+{
+    "10月23日": [
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "48,949",
+            "forks": "7,006",
+            "language": "TypeScript",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "17,652",
+            "forks": "4,705",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "翻新的CLI之家：Mend.io的跨平台依赖项自动化",
+            "url": "https://github.com/renovatebot/renovate",
+            "name": "renovatebot /renovate",
+            "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+            "stars": "17,429",
+            "forks": "2,287",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "工具板：仪表板和内部应用程序的全堆栈组件和低代码构建器。",
+            "url": "https://github.com/mui/toolpad",
+            "name": "mui /toolpad",
+            "description": "Toolpad: Full stack components and low-code builder for dashboards and internal apps.",
+            "stars": "1,064",
+            "forks": "271",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web framework built on Web Standards",
+            "stars": "19,726",
+            "forks": "560",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "一个现代的JavaScript实用程序库，速度快2-3倍，小97%--这是对loDash的重大升级。",
+            "url": "https://github.com/toss/es-toolkit",
+            "name": "toss /es-toolkit",
+            "description": "A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.",
+            "stars": "6,582",
+            "forks": "296",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,168",
+            "forks": "1,187",
+            "language": "TypeScript",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "您的后端，减去麻烦。",
+            "url": "https://github.com/appwrite/appwrite",
+            "name": "appwrite /appwrite",
+            "description": "Your backend, minus the hassle.",
+            "stars": "44,721",
+            "forks": "3,974",
+            "language": "TypeScript",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "17,584",
+            "forks": "1,290",
+            "language": "TypeScript",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "Js框架，用于使用TypeScrip/JavaScript🚀构建高效、可伸缩的企业级服务器端应用程序",
+            "url": "https://github.com/nestjs/nest",
+            "name": "nestjs /nest",
+            "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+            "stars": "67,380",
+            "forks": "7,593",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Bitwarden客户端应用程序(Web、浏览器扩展、桌面和CLI)。",
+            "url": "https://github.com/bitwarden/clients",
+            "name": "bitwarden /clients",
+            "description": "Bitwarden client apps (web, browser extension, desktop, and cli).",
+            "stars": "9,180",
+            "forks": "1,240",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "19,537",
+            "forks": "1,652",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Solana程序示例存储库",
+            "url": "https://github.com/solana-developers/program-examples",
+            "name": "solana-developers /program-examples",
+            "description": "A repository of Solana program examples",
+            "stars": "750",
+            "forks": "257",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "32,201",
+            "forks": "944",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥开源Jira、线性、星期一和Asana替代。Plane帮助您以最简单的方式跟踪您的问题、史诗和产品路线图。",
+            "url": "https://github.com/makeplane/plane",
+            "name": "makeplane /plane",
+            "description": "🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.",
+            "stars": "29,971",
+            "forks": "1,662",
+            "language": "TypeScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "72,940",
+            "forks": "7,030",
+            "language": "TypeScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "M3u8[m3u8-下载器]视频在线提取工具流媒体下载、视频下载、m3u8下载、B站视频下载桌面客户端Windows Mac",
+            "url": "https://github.com/caorushizi/mediago",
+            "name": "caorushizi /mediago",
+            "description": "m3u8[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac",
+            "stars": "4,191",
+            "forks": "382",
+            "language": "TypeScript",
+            "stars_today": "199 stars today"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "7,556",
+            "forks": "729",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        }
+    ]
+}

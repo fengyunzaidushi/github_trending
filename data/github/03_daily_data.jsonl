@@ -54218,3 +54218,117 @@
         }
     ]
 }
+{
+    "10月23日": [
+        {
+            "zh_des": "利用记忆、知识、工具和推理构建人工智能代理。使用漂亮的Agent UI与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "13,162",
+            "forks": "1,867",
+            "language": "Python",
+            "stars_today": "477 stars today"
+        },
+        {
+            "zh_des": "适用于Python的轻量级面部识别和面部属性分析（年龄、性别、情感和种族）库",
+            "url": "https://github.com/serengil/deepface",
+            "name": "serengil /deepface",
+            "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+            "stars": "13,686",
+            "forks": "2,143",
+            "language": "Python",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "从雅虎下载市场数据！财务API",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "13,754",
+            "forks": "2,370",
+            "language": "Python",
+            "stars_today": "269 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型图形用户界面、API和后台，具有图形/节点界面。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "54,156",
+            "forks": "5,733",
+            "language": "Python",
+            "stars_today": "195 stars today"
+        },
+        {
+            "zh_des": "无需微软Edge或Windows或API密钥即可使用Python中的在线文本转语音服务",
+            "url": "https://github.com/rany2/edge-tts",
+            "name": "rany2 /edge-tts",
+            "description": "Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge or Windows or an API key",
+            "stars": "5,935",
+            "forks": "596",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "带GPT-4 o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "4,057",
+            "forks": "207",
+            "language": "Python",
+            "stars_today": "415 stars today"
+        },
+        {
+            "zh_des": "电力消耗二氧化碳排放的实时可视化",
+            "url": "https://github.com/electricitymaps/electricitymaps-contrib",
+            "name": "electricitymaps /electricitymaps-contrib",
+            "description": "A real-time visualisation of the CO2 emissions of electricity consumption",
+            "stars": "3,554",
+            "forks": "940",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "21,987",
+            "forks": "2,141",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "基于模块化图的检索增强生成（RAG）系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "18,334",
+            "forks": "1,778",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "📺IPTV电视直播源更新工具🚀：包含💰电视（付费）、📡电视、🏠广东🌊、港·台、🎬电影🎥🏀🪁🎮🎵🏛、mares、体育、动画、游戏、音乐、古典剧场;支持自定义增加频道（含制图）;支持广播源、酒店源、订阅源、线上检查;每天自动更新两次，如果可用于TVBox等播放软件;支持工作流、Docker（amd64/arm64）、界面、软件部门/运行多种方式|IPTV直播电视资源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道（含图标）；支持组播源、酒店源、订阅源、线上检索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、软件界面多种部署/运行方式 | IPTV live TV source update tool",
+            "stars": "2,070",
+            "forks": "625",
+            "language": "Python",
+            "stars_today": "846 stars today"
+        },
+        {
+            "zh_des": "基于OpenTelember，您的LLM应用程序的开源可观察性",
+            "url": "https://github.com/traceloop/openllmetry",
+            "name": "traceloop /openllmetry",
+            "description": "Open-source observability for your LLM application, based on OpenTelemetry",
+            "stars": "2,833",
+            "forks": "481",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        }
+    ]
+}
