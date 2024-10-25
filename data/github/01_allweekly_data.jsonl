@@ -57896,3 +57896,177 @@
         }
     ]
 }
+{
+    "10月25日": [
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "13,149",
+            "forks": "831",
+            "language": "Python",
+            "stars_today": "1,247 stars this week"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融的应用编程接口",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "14,136",
+            "forks": "2,383",
+            "language": "Python",
+            "stars_today": "794 stars this week"
+        },
+        {
+            "zh_des": "Cocos通过Cocos Creator简化了游戏的创建和分发，Cocos Creator是一个免费、开源的跨平台游戏引擎。使数百万开发人员能够创建高性能、引人入胜的2D/3D游戏和即时网络娱乐。",
+            "url": "https://github.com/cocos/cocos-engine",
+            "name": "cocos /cocos-engine",
+            "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+            "stars": "7,999",
+            "forks": "1,914",
+            "language": "C++",
+            "stars_today": "581 stars this week"
+        },
+        {
+            "zh_des": "Google API的公共接口定义。",
+            "url": "https://github.com/googleapis/googleapis",
+            "name": "googleapis /googleapis",
+            "description": "Public interface definitions of Google APIs.",
+            "stars": "7,555",
+            "forks": "2,312",
+            "language": "Starlark",
+            "stars_today": "774 stars this week"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库图表编辑器和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+            "stars": "21,011",
+            "forks": "1,493",
+            "language": "JavaScript",
+            "stars_today": "502 stars this week"
+        },
+        {
+            "zh_des": "📚技术面试必备基础知识、LeetCode、计算机操作系统、计算机网络、系统设计",
+            "url": "https://github.com/CyC2018/CS-Notes",
+            "name": "CyC2018 /CS-Notes",
+            "description": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计",
+            "stars": "176,536",
+            "forks": "51,046",
+            "language": "",
+            "stars_today": "531 stars this week"
+        },
+        {
+            "zh_des": "Android源的电报",
+            "url": "https://github.com/DrKLO/Telegram",
+            "name": "DrKLO /Telegram",
+            "description": "Telegram for Android source",
+            "stars": "25,132",
+            "forks": "8,091",
+            "language": "Java",
+            "stars_today": "204 stars this week"
+        },
+        {
+            "zh_des": "用于现代C++的JSON",
+            "url": "https://github.com/nlohmann/json",
+            "name": "nlohmann /json",
+            "description": "JSON for Modern C++",
+            "stars": "42,918",
+            "forks": "6,706",
+            "language": "C++",
+            "stars_today": "366 stars this week"
+        },
+        {
+            "zh_des": "您的后端，减去麻烦。",
+            "url": "https://github.com/appwrite/appwrite",
+            "name": "appwrite /appwrite",
+            "description": "Your backend, minus the hassle.",
+            "stars": "44,882",
+            "forks": "3,986",
+            "language": "TypeScript",
+            "stars_today": "511 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "21,332",
+            "forks": "1,532",
+            "language": "TypeScript",
+            "stars_today": "1,295 stars this week"
+        },
+        {
+            "zh_des": "Apple Silicon的设备上语音识别",
+            "url": "https://github.com/argmaxinc/WhisperKit",
+            "name": "argmaxinc /WhisperKit",
+            "description": "On-device Speech Recognition for Apple Silicon",
+            "stars": "3,780",
+            "forks": "319",
+            "language": "Swift",
+            "stars_today": "232 stars this week"
+        },
+        {
+            "zh_des": "所有项目的灵活后端🐰将您的数据库变成一个无头的内容管理系统，管理面板，或应用程序与定制的用户界面，即时API，身份验证和更多。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+            "stars": "27,797",
+            "forks": "3,866",
+            "language": "TypeScript",
+            "stars_today": "263 stars this week"
+        },
+        {
+            "zh_des": ".NET Maui是.NET多平台应用程序用户界面，是一个用于构建跨越移动、平板电脑和桌面的本机设备应用程序的框架。",
+            "url": "https://github.com/dotnet/maui",
+            "name": "dotnet /maui",
+            "description": ".NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.",
+            "stars": "22,152",
+            "forks": "1,739",
+            "language": "C#",
+            "stars_today": "104 stars this week"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "57,945",
+            "forks": "5,224",
+            "language": "JavaScript",
+            "stars_today": "529 stars this week"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "7,607",
+            "forks": "734",
+            "language": "TypeScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "一个现代的运行时，用于脚本和打字。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "96,880",
+            "forks": "5,349",
+            "language": "Rust",
+            "stars_today": "704 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "13,630",
+            "forks": "1,915",
+            "language": "Python",
+            "stars_today": "2,113 stars this week"
+        }
+    ]
+}
