@@ -61749,3 +61749,197 @@
         }
     ]
 }
+{
+    "10月27日": [
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,352",
+            "forks": "1,208",
+            "language": "TypeScript",
+            "stars_today": "679 stars this week"
+        },
+        {
+            "zh_des": "最先进的浏览器指纹库。",
+            "url": "https://github.com/fingerprintjs/fingerprintjs",
+            "name": "fingerprintjs /fingerprintjs",
+            "description": "The most advanced browser fingerprinting library.",
+            "stars": "22,959",
+            "forks": "2,294",
+            "language": "TypeScript",
+            "stars_today": "368 stars this week"
+        },
+        {
+            "zh_des": "基于Web标准构建的Web框架",
+            "url": "https://github.com/honojs/hono",
+            "name": "honojs /hono",
+            "description": "Web framework built on Web Standards",
+            "stars": "19,859",
+            "forks": "566",
+            "language": "TypeScript",
+            "stars_today": "343 stars this week"
+        },
+        {
+            "zh_des": "在您自己的基础设施上构建完整的应用程序。",
+            "url": "https://github.com/sst/sst",
+            "name": "sst /sst",
+            "description": "Build full-stack apps on your own infrastructure.",
+            "stars": "21,673",
+            "forks": "1,640",
+            "language": "TypeScript",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "49,729",
+            "forks": "7,108",
+            "language": "TypeScript",
+            "stars_today": "1,155 stars this week"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,340",
+            "forks": "446",
+            "language": "TypeScript",
+            "stars_today": "94 stars this week"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "7,657",
+            "forks": "749",
+            "language": "TypeScript",
+            "stars_today": "155 stars this week"
+        },
+        {
+            "zh_des": "您的后端，减去麻烦。",
+            "url": "https://github.com/appwrite/appwrite",
+            "name": "appwrite /appwrite",
+            "description": "Your backend, minus the hassle.",
+            "stars": "45,008",
+            "forks": "3,988",
+            "language": "TypeScript",
+            "stars_today": "610 stars this week"
+        },
+        {
+            "zh_des": "世界上最灵活的商务平台。",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "The world's most flexible commerce platform.",
+            "stars": "25,464",
+            "forks": "2,533",
+            "language": "TypeScript",
+            "stars_today": "325 stars this week"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "84,492",
+            "forks": "9,292",
+            "language": "TypeScript",
+            "stars_today": "226 stars this week"
+        },
+        {
+            "zh_des": "Solana程序示例存储库",
+            "url": "https://github.com/solana-developers/program-examples",
+            "name": "solana-developers /program-examples",
+            "description": "A repository of Solana program examples",
+            "stars": "763",
+            "forks": "277",
+            "language": "TypeScript",
+            "stars_today": "175 stars this week"
+        },
+        {
+            "zh_des": "为成长中的团队提供最快的知识库。美观、实时协作、功能丰富、兼容降价。",
+            "url": "https://github.com/outline/outline",
+            "name": "outline /outline",
+            "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+            "stars": "28,074",
+            "forks": "2,239",
+            "language": "TypeScript",
+            "stars_today": "242 stars this week"
+        },
+        {
+            "zh_des": "工具板：仪表板和内部应用程序的全堆栈组件和低代码构建器。",
+            "url": "https://github.com/mui/toolpad",
+            "name": "mui /toolpad",
+            "description": "Toolpad: Full stack components and low-code builder for dashboards and internal apps.",
+            "stars": "1,177",
+            "forks": "278",
+            "language": "TypeScript",
+            "stars_today": "143 stars this week"
+        },
+        {
+            "zh_des": "所有项目的灵活后端🐰将您的数据库变成一个无头的内容管理系统，管理面板，或应用程序与定制的用户界面，即时API，身份验证和更多。",
+            "url": "https://github.com/directus/directus",
+            "name": "directus /directus",
+            "description": "The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+            "stars": "27,833",
+            "forks": "3,874",
+            "language": "TypeScript",
+            "stars_today": "256 stars this week"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "14,823",
+            "forks": "631",
+            "language": "TypeScript",
+            "stars_today": "1,499 stars this week"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "5,531",
+            "forks": "503",
+            "language": "TypeScript",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "8,953",
+            "forks": "1,279",
+            "language": "TypeScript",
+            "stars_today": "91 stars this week"
+        },
+        {
+            "zh_des": "免费和开源的Web Builder框架。无需编码即可构建模板的下一代工具",
+            "url": "https://github.com/GrapesJS/grapesjs",
+            "name": "GrapesJS /grapesjs",
+            "description": "Free and Open source Web Builder Framework. Next generation tool for building templates without coding",
+            "stars": "22,517",
+            "forks": "4,080",
+            "language": "TypeScript",
+            "stars_today": "96 stars this week"
+        },
+        {
+            "zh_des": "开源网站构建器和Webflow替代。WebStudio是一个高级的可视化构建器，可以连接到任何无头CMS，支持所有的CSS属性，并且可以在任何地方托管，包括与我们一起托管。",
+            "url": "https://github.com/webstudio-is/webstudio",
+            "name": "webstudio-is /webstudio",
+            "description": "Open source website builder and Webflow alternative. Webstudio is an advanced visual builder that connects to any headless CMS, supports all CSS properties, and can be hosted anywhere, including with us.",
+            "stars": "5,079",
+            "forks": "592",
+            "language": "TypeScript",
+            "stars_today": "251 stars this week"
+        }
+    ]
+}
