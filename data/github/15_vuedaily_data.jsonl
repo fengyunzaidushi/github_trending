@@ -22322,3 +22322,197 @@
         }
     ]
 }
+{
+    "10月28日": [
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "4,930",
+            "forks": "284",
+            "language": "Vue",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "17,370",
+            "forks": "1,324",
+            "language": "Vue",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "154",
+            "forks": "2,615",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "⚡具有分析功能的简单、快速、安全的链接缩短器，100%运行在CloudFlare上。",
+            "url": "https://github.com/ccbikai/Sink",
+            "name": "ccbikai /Sink",
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "stars": "2,762",
+            "forks": "1,379",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值.🎞",
+            "url": "https://github.com/Hunlongyu/ZY-Player",
+            "name": "Hunlongyu /ZY-Player",
+            "description": "▶️跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+            "stars": "14,117",
+            "forks": "2,253",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,249",
+            "forks": "782",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "🎉(若易)官方仓库基于SpringBoot、春泉安全、智威汤逊、VUE3和VITE、Element Plus的前后端分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "4,847",
+            "forks": "1,965",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "29,416",
+            "forks": "4,318",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "有声书架的移动应用",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,260",
+            "forks": "171",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "快速、现代、先进的照片管理套件。作为NextCloud应用程序运行。",
+            "url": "https://github.com/pulsejet/memories",
+            "name": "pulsejet /memories",
+            "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+            "stars": "3,159",
+            "forks": "84",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "1,911",
+            "forks": "149",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "这是一款自托管、无数据库的笔记Web应用程序，它使用标记文件的平面文件夹进行存储。",
+            "url": "https://github.com/dullage/flatnotes",
+            "name": "dullage /flatnotes",
+            "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+            "stars": "1,448",
+            "forks": "85",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "24,617",
+            "forks": "2,726",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "☀️A vue3管理员模板|vue3管理员/元素加管理员/vite管理员/vue3模板/vue3后台/vue3模板/vue3后台管理系统",
+            "url": "https://github.com/un-pany/v3-admin-vite",
+            "name": "un-pany /v3-admin-vite",
+            "description": "☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统",
+            "stars": "5,165",
+            "forks": "880",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "VUE3+PINIA仿抖音，VUE在移动端的最佳实践.模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "9,321",
+            "forks": "2,548",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "开源CRM的未来",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "The future of open source CRM",
+            "stars": "362",
+            "forks": "178",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "3,995",
+            "forks": "504",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Tchiyomi应用的官方网站。",
+            "url": "https://github.com/tachiyomiorg/website",
+            "name": "tachiyomiorg /website",
+            "description": "Official website for the Tachiyomi app.",
+            "stars": "764",
+            "forks": "1,567",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "子网站",
+            "url": "https://github.com/CareyWang/sub-web",
+            "name": "CareyWang /sub-web",
+            "description": "sub-web",
+            "stars": "5,115",
+            "forks": "1,869",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
