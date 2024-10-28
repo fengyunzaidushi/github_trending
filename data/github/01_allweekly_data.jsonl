@@ -58980,3 +58980,177 @@
         }
     ]
 }
+{
+    "10月28日": [
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "13,970",
+            "forks": "1,960",
+            "language": "Python",
+            "stars_today": "2,002 stars this week"
+        },
+        {
+            "zh_des": "您可以使用自己的API Hub来学习和掌握API交互。非常适合前端、移动开发人员和后端开发人员。",
+            "url": "https://github.com/hiteshchoudhary/apihub",
+            "name": "hiteshchoudhary /apihub",
+            "description": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
+            "stars": "6,236",
+            "forks": "1,057",
+            "language": "JavaScript",
+            "stars_today": "2,248 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "54,214",
+            "forks": "4,758",
+            "language": "Python",
+            "stars_today": "1,402 stars this week"
+        },
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "1,557",
+            "forks": "201",
+            "language": "JavaScript",
+            "stars_today": "381 stars this week"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库图表编辑器和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+            "stars": "21,285",
+            "forks": "1,509",
+            "language": "JavaScript",
+            "stars_today": "1,047 stars this week"
+        },
+        {
+            "zh_des": "带gpt-4o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "4,663",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "1,299 stars this week"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融的应用编程接口",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "14,328",
+            "forks": "2,402",
+            "language": "Python",
+            "stars_today": "1,015 stars this week"
+        },
+        {
+            "zh_des": "CoTracker是一个用于跟踪视频上任何点(像素)的模型。",
+            "url": "https://github.com/facebookresearch/co-tracker",
+            "name": "facebookresearch /co-tracker",
+            "description": "CoTracker is a model for tracking any point (pixel) on a video.",
+            "stars": "3,655",
+            "forks": "239",
+            "language": "Jupyter Notebook",
+            "stars_today": "510 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,369",
+            "forks": "1,208",
+            "language": "TypeScript",
+            "stars_today": "646 stars this week"
+        },
+        {
+            "zh_des": "Cocos通过Cocos Creator简化了游戏的创建和分发，Cocos Creator是一个免费、开源的跨平台游戏引擎。使数百万开发人员能够创建高性能、引人入胜的2D/3D游戏和即时网络娱乐。",
+            "url": "https://github.com/cocos/cocos-engine",
+            "name": "cocos /cocos-engine",
+            "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games and instant web entertainment.",
+            "stars": "8,115",
+            "forks": "1,923",
+            "language": "C++",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "适用于每个系统的PowerShell！",
+            "url": "https://github.com/PowerShell/PowerShell",
+            "name": "PowerShell /PowerShell",
+            "description": "PowerShell for every system!",
+            "stars": "45,257",
+            "forks": "7,285",
+            "language": "C#",
+            "stars_today": "346 stars this week"
+        },
+        {
+            "zh_des": "为我们其他人开发Web",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "web development for the rest of us",
+            "stars": "79,569",
+            "forks": "4,209",
+            "language": "JavaScript",
+            "stars_today": "735 stars this week"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "6,349",
+            "forks": "496",
+            "language": "Jupyter Notebook",
+            "stars_today": "573 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "21,058",
+            "forks": "2,059",
+            "language": "Python",
+            "stars_today": "1,089 stars this week"
+        },
+        {
+            "zh_des": "一种轻量级的人脸识别和人脸属性分析(年龄、性别、情感和种族)库",
+            "url": "https://github.com/serengil/deepface",
+            "name": "serengil /deepface",
+            "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+            "stars": "14,002",
+            "forks": "2,167",
+            "language": "Python",
+            "stars_today": "1,106 stars this week"
+        },
+        {
+            "zh_des": "🚀简单10倍，🚀存储成本降低140倍，🚀高性能，🚀PB规模-🚀的ElasticSearch/Splunk/Datadog替代方案(日志、指标、跟踪、朗姆、错误跟踪、会话重放)。",
+            "url": "https://github.com/openobserve/openobserve",
+            "name": "openobserve /openobserve",
+            "description": "🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).",
+            "stars": "12,668",
+            "forks": "457",
+            "language": "Rust",
+            "stars_today": "338 stars this week"
+        },
+        {
+            "zh_des": "Google API的公共接口定义。",
+            "url": "https://github.com/googleapis/googleapis",
+            "name": "googleapis /googleapis",
+            "description": "Public interface definitions of Google APIs.",
+            "stars": "7,597",
+            "forks": "2,316",
+            "language": "Starlark",
+            "stars_today": "187 stars this week"
+        }
+    ]
+}
