@@ -56200,3 +56200,147 @@
         }
     ]
 }
+{
+    "10月29日": [
+        {
+            "zh_des": "Amphion(/æmˈfaɪən/)是一个用于音频、音乐和语音生成的工具包。其目的是支持可重现的研究，并帮助初级研究人员和工程师在音频、音乐和语音生成研究和开发领域起步。",
+            "url": "https://github.com/open-mmlab/Amphion",
+            "name": "open-mmlab /Amphion",
+            "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+            "stars": "5,762",
+            "forks": "447",
+            "language": "Python",
+            "stars_today": "523 stars today"
+        },
+        {
+            "zh_des": "抓取网页的⏬哑巴下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "52,406",
+            "forks": "9,526",
+            "language": "Python",
+            "stars_today": "762 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "12,696",
+            "forks": "1,164",
+            "language": "Python",
+            "stars_today": "234 stars today"
+        },
+        {
+            "zh_des": "FastStream是一个强大且易于使用的Python框架，用于构建与事件流交互的异步服务，如ApacheKafka、RabbitMQ、NatS和Redis。",
+            "url": "https://github.com/airtai/faststream",
+            "name": "airtai /faststream",
+            "description": "FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.",
+            "stars": "2,788",
+            "forks": "148",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "利用MASt3R实现三维图像匹配",
+            "url": "https://github.com/naver/mast3r",
+            "name": "naver /mast3r",
+            "description": "Grounding Image Matching in 3D with MASt3R",
+            "stars": "1,169",
+            "forks": "89",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于RAG的AutoML工具",
+            "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+            "name": "Marker-Inc-Korea /AutoRAG",
+            "description": "AutoML tool for RAG",
+            "stars": "2,131",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "使用TensorFlow构建的模型和示例",
+            "url": "https://github.com/tensorflow/models",
+            "name": "tensorflow /models",
+            "description": "Models and examples built with TensorFlow",
+            "stars": "77,104",
+            "forks": "45,770",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "7,145",
+            "forks": "657",
+            "language": "Python",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "92,461",
+            "forks": "9,627",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "😘让你“爱”上GitHub，解决访问时图裂、加载慢的问题.(无需安装)",
+            "url": "https://github.com/521xueweihan/GitHub520",
+            "name": "521xueweihan /GitHub520",
+            "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+            "stars": "21,681",
+            "forks": "2,175",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "31,709",
+            "forks": "6,085",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "精灵宝可梦API",
+            "url": "https://github.com/PokeAPI/pokeapi",
+            "name": "PokeAPI /pokeapi",
+            "description": "The Pokémon API",
+            "stars": "4,258",
+            "forks": "949",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "39,026",
+            "forks": "4,187",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "社区支持的增强型无纸化版本：扫描、索引和存档您所有的物理文档",
+            "url": "https://github.com/paperless-ngx/paperless-ngx",
+            "name": "paperless-ngx /paperless-ngx",
+            "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+            "stars": "20,272",
+            "forks": "1,111",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        }
+    ]
+}

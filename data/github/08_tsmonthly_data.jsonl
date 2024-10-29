@@ -65306,3 +65306,217 @@
         }
     ]
 }
+{
+    "10月29日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "16,341",
+            "forks": "987",
+            "language": "TypeScript",
+            "stars_today": "9,029 stars this month"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "31,428",
+            "forks": "2,044",
+            "language": "TypeScript",
+            "stars_today": "1,075 stars this month"
+        },
+        {
+            "zh_des": "Reaction UI+面向AI副飞行员、应用内AI代理、AI聊天机器人和AI驱动的Textareas🪁的优雅基础设施",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+            "stars": "12,440",
+            "forks": "1,972",
+            "language": "TypeScript",
+            "stars_today": "2,169 stars this month"
+        },
+        {
+            "zh_des": "高性能的浏览器内LLM推理机",
+            "url": "https://github.com/mlc-ai/web-llm",
+            "name": "mlc-ai /web-llm",
+            "description": "High-performance In-browser LLM Inference Engine",
+            "stars": "13,462",
+            "forks": "864",
+            "language": "TypeScript",
+            "stars_today": "1,080 stars this month"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "9,578",
+            "forks": "764",
+            "language": "TypeScript",
+            "stars_today": "3,921 stars this month"
+        },
+        {
+            "zh_des": "📦Repopack是一个强大的工具，可以将您的整个存储库打包到一个对AI友好的文件中。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repopack",
+            "name": "yamadashy /repopack",
+            "description": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "2,117",
+            "forks": "111",
+            "language": "TypeScript",
+            "stars_today": "1,152 stars this month"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "21,562",
+            "forks": "1,552",
+            "language": "TypeScript",
+            "stars_today": "2,884 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,434",
+            "forks": "1,213",
+            "language": "TypeScript",
+            "stars_today": "1,154 stars this month"
+        },
+        {
+            "zh_des": "开源应用编程接口开发生态系统-https://hoppscotch.io(open-source替代邮递员、失眠)",
+            "url": "https://github.com/hoppscotch/hoppscotch",
+            "name": "hoppscotch /hoppscotch",
+            "description": "Open source API development ecosystem -https://hoppscotch.io(open-source alternative to Postman, Insomnia)",
+            "stars": "65,097",
+            "forks": "4,524",
+            "language": "TypeScript",
+            "stars_today": "1,140 stars this month"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "8,589",
+            "forks": "1,628",
+            "language": "TypeScript",
+            "stars_today": "1,951 stars this month"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "5,424",
+            "forks": "732",
+            "language": "TypeScript",
+            "stars_today": "1,990 stars this month"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "73,195",
+            "forks": "4,473",
+            "language": "TypeScript",
+            "stars_today": "2,876 stars this month"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "68,224",
+            "forks": "6,153",
+            "language": "TypeScript",
+            "stars_today": "873 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "17,746",
+            "forks": "2,096",
+            "language": "TypeScript",
+            "stars_today": "1,802 stars this month"
+        },
+        {
+            "zh_des": "欢迎来到New Expensify：以聊天为中心的金融协作的完全重新想象。通过分享反馈并贡献代码，帮助我们构建下一代Expensify。",
+            "url": "https://github.com/Expensify/App",
+            "name": "Expensify /App",
+            "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code.",
+            "stars": "3,510",
+            "forks": "2,855",
+            "language": "TypeScript",
+            "stars_today": "166 stars this month"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "20,741",
+            "forks": "415",
+            "language": "TypeScript",
+            "stars_today": "9,922 stars this month"
+        },
+        {
+            "zh_des": "世界上最灵活的商务平台。",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "The world's most flexible commerce platform.",
+            "stars": "25,566",
+            "forks": "2,546",
+            "language": "TypeScript",
+            "stars_today": "778 stars this month"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "1,086",
+            "forks": "351",
+            "language": "TypeScript",
+            "stars_today": "745 stars this month"
+        },
+        {
+            "zh_des": "用于无缝工作流的开源、跨平台终端",
+            "url": "https://github.com/wavetermdev/waveterm",
+            "name": "wavetermdev /waveterm",
+            "description": "An open-source, cross-platform terminal for seamless workflows",
+            "stars": "4,334",
+            "forks": "110",
+            "language": "TypeScript",
+            "stars_today": "373 stars this month"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "24,798",
+            "forks": "1,577",
+            "language": "TypeScript",
+            "stars_today": "1,320 stars this month"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "15,157",
+            "forks": "645",
+            "language": "TypeScript",
+            "stars_today": "4,917 stars this month"
+        }
+    ]
+}
