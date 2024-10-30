@@ -56488,3 +56488,147 @@
         }
     ]
 }
+{
+    "10月30日": [
+        {
+            "zh_des": "Amphion(/æmˈfaɪən/)是一个用于音频、音乐和语音生成的工具包。其目的是支持可重现的研究，并帮助初级研究人员和工程师在音频、音乐和语音生成研究和开发领域起步。",
+            "url": "https://github.com/open-mmlab/Amphion",
+            "name": "open-mmlab /Amphion",
+            "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+            "stars": "6,246",
+            "forks": "466",
+            "language": "Python",
+            "stars_today": "342 stars today"
+        },
+        {
+            "zh_des": "社区支持的增强型无纸化版本：扫描、索引和存档您所有的物理文档",
+            "url": "https://github.com/paperless-ngx/paperless-ngx",
+            "name": "paperless-ngx /paperless-ngx",
+            "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+            "stars": "20,448",
+            "forks": "1,119",
+            "language": "Python",
+            "stars_today": "133 stars today"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "17,763",
+            "forks": "990",
+            "language": "Python",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "156,359",
+            "forks": "52,264",
+            "language": "Python",
+            "stars_today": "187 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "12,881",
+            "forks": "1,174",
+            "language": "Python",
+            "stars_today": "276 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "31,589",
+            "forks": "2,264",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "“用于实时辐射场绘制的三维高斯飞溅”的原始参考实现",
+            "url": "https://github.com/graphdeco-inria/gaussian-splatting",
+            "name": "graphdeco-inria /gaussian-splatting",
+            "description": "Original reference implementation of \"3D Gaussian Splatting for Real-Time Radiance Field Rendering\"",
+            "stars": "14,375",
+            "forks": "1,865",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "用于RAG的AutoML工具",
+            "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+            "name": "Marker-Inc-Korea /AutoRAG",
+            "description": "AutoML tool for RAG",
+            "stars": "2,345",
+            "forks": "178",
+            "language": "Python",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "基于蟒蛇的开源量化交易平台开发框架",
+            "url": "https://github.com/vnpy/vnpy",
+            "name": "vnpy /vnpy",
+            "description": "基于Python的开源量化交易平台开发框架",
+            "stars": "25,492",
+            "forks": "8,775",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "57,096",
+            "forks": "7,080",
+            "language": "Python",
+            "stars_today": "124 stars today"
+        },
+        {
+            "zh_des": "一种基于PyTorch的语音工具包",
+            "url": "https://github.com/speechbrain/speechbrain",
+            "name": "speechbrain /speechbrain",
+            "description": "A PyTorch-based Speech Toolkit",
+            "stars": "8,827",
+            "forks": "1,388",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "🔍AI编排框架，用于构建可定制、可投入生产的LLm应用程序。将组件(模型、矢量数据库、文件转换器)连接到可与数据交互的管道或代理。凭借先进的检索方法，它最适合构建RAG、问答、语义搜索或对话代理聊天机器人。",
+            "url": "https://github.com/deepset-ai/haystack",
+            "name": "deepset-ai /haystack",
+            "description": "🔍 AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.",
+            "stars": "17,428",
+            "forks": "1,897",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "142,001",
+            "forks": "26,827",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "抓取网页的⏬哑巴下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "52,972",
+            "forks": "9,574",
+            "language": "Python",
+            "stars_today": "642 stars today"
+        }
+    ]
+}
