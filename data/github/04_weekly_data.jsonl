@@ -58818,3 +58818,147 @@
         }
     ]
 }
+{
+    "10月30日": [
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "54,473",
+            "forks": "4,768",
+            "language": "Python",
+            "stars_today": "1,783 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "14,244",
+            "forks": "1,985",
+            "language": "Python",
+            "stars_today": "1,287 stars this week"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融的应用编程接口",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "14,427",
+            "forks": "2,408",
+            "language": "Python",
+            "stars_today": "807 stars this week"
+        },
+        {
+            "zh_des": "带gpt-4o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "5,003",
+            "forks": "275",
+            "language": "Python",
+            "stars_today": "892 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "60,830",
+            "forks": "13,287",
+            "language": "Python",
+            "stars_today": "394 stars this week"
+        },
+        {
+            "zh_des": "🤗LeRobot：通过端到端学习使机器人人工智能更容易获得",
+            "url": "https://github.com/huggingface/lerobot",
+            "name": "huggingface /lerobot",
+            "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+            "stars": "7,169",
+            "forks": "657",
+            "language": "Python",
+            "stars_today": "244 stars this week"
+        },
+        {
+            "zh_des": "使用LLMS和计算机视觉自动执行基于浏览器的工作流",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "9,171",
+            "forks": "597",
+            "language": "Python",
+            "stars_today": "3,169 stars this week"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡🏠🌊🎬🎥🏀🪁🎮🎵🏠🌊🎬央视(付费)、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "4,104",
+            "forks": "942",
+            "language": "Python",
+            "stars_today": "2,268 stars this week"
+        },
+        {
+            "zh_des": "抓取网页的⏬哑巴下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "52,727",
+            "forks": "9,554",
+            "language": "Python",
+            "stars_today": "1,965 stars this week"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "21,308",
+            "forks": "2,083",
+            "language": "Python",
+            "stars_today": "1,077 stars this week"
+        },
+        {
+            "zh_des": "用于高分辨率生成和感知的高效视觉基础模型。",
+            "url": "https://github.com/mit-han-lab/efficientvit",
+            "name": "mit-han-lab /efficientvit",
+            "description": "Efficient vision foundation models for high-resolution generation and perception.",
+            "stars": "2,220",
+            "forks": "181",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "55,085",
+            "forks": "5,818",
+            "language": "Python",
+            "stars_today": "1,097 stars this week"
+        },
+        {
+            "zh_des": "用于交易策略的Python反向测试库",
+            "url": "https://github.com/mementum/backtrader",
+            "name": "mementum /backtrader",
+            "description": "Python Backtesting library for trading strategies",
+            "stars": "14,488",
+            "forks": "3,920",
+            "language": "Python",
+            "stars_today": "171 stars this week"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "134,198",
+            "forks": "26,832",
+            "language": "Python",
+            "stars_today": "436 stars this week"
+        }
+    ]
+}

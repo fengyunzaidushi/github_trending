@@ -65048,3 +65048,227 @@
         }
     ]
 }
+{
+    "10月30日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "16,375",
+            "forks": "989",
+            "language": "TypeScript",
+            "stars_today": "9,138 stars this month"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "193,683",
+            "forks": "45,560",
+            "language": "Python",
+            "stars_today": "9,534 stars this month"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "69,561",
+            "forks": "6,143",
+            "language": "Python",
+            "stars_today": "7,006 stars this month"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "14,244",
+            "forks": "1,985",
+            "language": "Python",
+            "stars_today": "3,036 stars this month"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "25,421",
+            "forks": "1,765",
+            "language": "Python",
+            "stars_today": "4,185 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "13,457",
+            "forks": "847",
+            "language": "Python",
+            "stars_today": "3,535 stars this month"
+        },
+        {
+            "zh_des": "超智能时代的开源全天候屏幕和语音记录",
+            "url": "https://github.com/mediar-ai/screenpipe",
+            "name": "mediar-ai /screenpipe",
+            "description": "open source 24/7 screen & voice recording for the age of superintelligence",
+            "stars": "8,603",
+            "forks": "484",
+            "language": "Rust",
+            "stars_today": "6,375 stars this month"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "7,194",
+            "forks": "1,673",
+            "language": "Python",
+            "stars_today": "1,192 stars this month"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "3,761",
+            "forks": "370",
+            "language": "Python",
+            "stars_today": "2,625 stars this month"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "15,006",
+            "forks": "1,056",
+            "language": "Python",
+            "stars_today": "10,042 stars this month"
+        },
+        {
+            "zh_des": "所有用Java实现的算法",
+            "url": "https://github.com/TheAlgorithms/Java",
+            "name": "TheAlgorithms /Java",
+            "description": "All Algorithms implemented in Java",
+            "stars": "59,890",
+            "forks": "19,345",
+            "language": "Java",
+            "stars_today": "1,161 stars this month"
+        },
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "1,669",
+            "forks": "208",
+            "language": "JavaScript",
+            "stars_today": "867 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "32,014",
+            "forks": "2,353",
+            "language": "Ruby",
+            "stars_today": "2,318 stars this month"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序，展示用于WhatsApp和Messenger的Meta Llama。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+            "stars": "14,220",
+            "forks": "2,090",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,152 stars this month"
+        },
+        {
+            "zh_des": "一个现代的运行时，用于脚本和打字。",
+            "url": "https://github.com/denoland/deno",
+            "name": "denoland /deno",
+            "description": "A modern runtime for JavaScript and TypeScript.",
+            "stars": "97,096",
+            "forks": "5,359",
+            "language": "Rust",
+            "stars_today": "2,746 stars this month"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "31,806",
+            "forks": "4,110",
+            "language": "JavaScript",
+            "stars_today": "2,979 stars this month"
+        },
+        {
+            "zh_des": "⚡工作流自动化平台。编排和调度任何语言的代码，在任何地方运行，500多个插件。除了Zapier，RunDeck，Camunda，Airflow..。",
+            "url": "https://github.com/kestra-io/kestra",
+            "name": "kestra-io /kestra",
+            "description": "⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...",
+            "stars": "11,180",
+            "forks": "961",
+            "language": "Java",
+            "stars_today": "2,177 stars this month"
+        },
+        {
+            "zh_des": "骆驼堆栈API的模型组件",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Model components of the Llama Stack APIs",
+            "stars": "3,991",
+            "forks": "529",
+            "language": "Python",
+            "stars_today": "1,597 stars this month"
+        },
+        {
+            "zh_des": "Deskflow允许你在Windows、MacOS和Linux上的多台电脑之间共享一个鼠标和键盘。它就像一个软件KVM(但没有视频)。",
+            "url": "https://github.com/deskflow/deskflow",
+            "name": "deskflow /deskflow",
+            "description": "Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).",
+            "stars": "12,834",
+            "forks": "3,751",
+            "language": "C++",
+            "stars_today": "2,396 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "54,473",
+            "forks": "4,768",
+            "language": "Python",
+            "stars_today": "2,151 stars this month"
+        },
+        {
+            "zh_des": "随时随地部署Web应用。",
+            "url": "https://github.com/basecamp/kamal",
+            "name": "basecamp /kamal",
+            "description": "Deploy web apps anywhere.",
+            "stars": "11,325",
+            "forks": "446",
+            "language": "Ruby",
+            "stars_today": "1,015 stars this month"
+        },
+        {
+            "zh_des": "⚓是用Rust编写的一组脚本工具。",
+            "url": "https://github.com/oxc-project/oxc",
+            "name": "oxc-project /oxc",
+            "description": "⚓ A collection of JavaScript tools written in Rust.",
+            "stars": "12,159",
+            "forks": "440",
+            "language": "Rust",
+            "stars_today": "1,370 stars this month"
+        }
+    ]
+}
