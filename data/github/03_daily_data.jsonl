@@ -56776,3 +56776,197 @@
         }
     ]
 }
+{
+    "10月31日": [
+        {
+            "zh_des": "Amphion(/æmˈfaɪən/)是一个用于音频、音乐和语音生成的工具包。其目的是支持可重现的研究，并帮助初级研究人员和工程师在音频、音乐和语音生成研究和开发领域起步。",
+            "url": "https://github.com/open-mmlab/Amphion",
+            "name": "open-mmlab /Amphion",
+            "description": "Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, music, and speech generation research and development.",
+            "stars": "6,756",
+            "forks": "495",
+            "language": "Jupyter Notebook",
+            "stars_today": "705 stars today"
+        },
+        {
+            "zh_des": "抓取网页的⏬哑巴下载器",
+            "url": "https://github.com/soimort/you-get",
+            "name": "soimort /you-get",
+            "description": "⏬ Dumb downloader that scrapes the web",
+            "stars": "53,177",
+            "forks": "9,594",
+            "language": "Python",
+            "stars_today": "221 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "12,998",
+            "forks": "1,180",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "在Azure中运行的一个示例应用程序，用于检索-增强生成模式，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。",
+            "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+            "name": "Azure-Samples /azure-search-openai-demo",
+            "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences.",
+            "stars": "6,082",
+            "forks": "4,158",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用PostgreSQL更轻松地开发RAG、语义搜索和其他AI应用程序的一套工具",
+            "url": "https://github.com/timescale/pgai",
+            "name": "timescale /pgai",
+            "description": "A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL",
+            "stars": "1,157",
+            "forks": "53",
+            "language": "Python",
+            "stars_today": "156 stars today"
+        },
+        {
+            "zh_des": "用于RAG的AutoML工具",
+            "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+            "name": "Marker-Inc-Korea /AutoRAG",
+            "description": "AutoML tool for RAG",
+            "stars": "2,448",
+            "forks": "187",
+            "language": "Python",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "57,228",
+            "forks": "7,113",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "15,189",
+            "forks": "1,080",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "社区支持的增强型无纸化版本：扫描、索引和存档您所有的物理文档",
+            "url": "https://github.com/paperless-ngx/paperless-ngx",
+            "name": "paperless-ngx /paperless-ngx",
+            "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+            "stars": "20,701",
+            "forks": "1,130",
+            "language": "Python",
+            "stars_today": "305 stars today"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "21,293",
+            "forks": "7,264",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "概述该存储库包含用于评估语言模型的轻量级库",
+            "url": "https://github.com/openai/simple-evals",
+            "name": "openai /simple-evals",
+            "description": "OverviewThis repository contains a lightweight library for evaluating language models",
+            "stars": "1,752",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "Llama3.1学会倾听",
+            "url": "https://github.com/homebrewltd/ichigo",
+            "name": "homebrewltd /ichigo",
+            "description": "Llama3.1 learns to Listen",
+            "stars": "1,365",
+            "forks": "51",
+            "language": "Python",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "156,420",
+            "forks": "52,277",
+            "language": "Python",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "18,080",
+            "forks": "998",
+            "language": "Python",
+            "stars_today": "432 stars today"
+        },
+        {
+            "zh_des": "利用MASt3R实现三维图像匹配",
+            "url": "https://github.com/naver/mast3r",
+            "name": "naver /mast3r",
+            "description": "Grounding Image Matching in 3D with MASt3R",
+            "stars": "1,257",
+            "forks": "93",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "使用TensorFlow构建的模型和示例",
+            "url": "https://github.com/tensorflow/models",
+            "name": "tensorflow /models",
+            "description": "Models and examples built with TensorFlow",
+            "stars": "77,155",
+            "forks": "45,767",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "统一高效微调100多个LLM(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "33,344",
+            "forks": "4,101",
+            "language": "Python",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "LMDeploy是一个用于压缩、部署和服务LLM的工具包。",
+            "url": "https://github.com/InternLM/lmdeploy",
+            "name": "InternLM /lmdeploy",
+            "description": "LMDeploy is a toolkit for compressing, deploying, and serving LLMs.",
+            "stars": "4,543",
+            "forks": "409",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "带gpt-4o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "5,543",
+            "forks": "291",
+            "language": "Python",
+            "stars_today": "435 stars today"
+        }
+    ]
+}
