@@ -63365,3 +63365,167 @@
         }
     ]
 }
+{
+    "11月01日": [
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "44,032",
+            "forks": "9,846",
+            "language": "TypeScript",
+            "stars_today": "931 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,563",
+            "forks": "1,227",
+            "language": "TypeScript",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "世界上最灵活的商务平台。",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "The world's most flexible commerce platform.",
+            "stars": "25,669",
+            "forks": "2,557",
+            "language": "TypeScript",
+            "stars_today": "470 stars this week"
+        },
+        {
+            "zh_des": "📦Repopack是一个强大的工具，可以将您的整个存储库打包到一个对AI友好的文件中。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repopack",
+            "name": "yamadashy /repopack",
+            "description": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "2,442",
+            "forks": "125",
+            "language": "TypeScript",
+            "stars_today": "308 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "10,121",
+            "forks": "802",
+            "language": "TypeScript",
+            "stars_today": "951 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "48,006",
+            "forks": "7,378",
+            "language": "TypeScript",
+            "stars_today": "444 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "13,335",
+            "forks": "808",
+            "language": "TypeScript",
+            "stars_today": "393 stars this week"
+        },
+        {
+            "zh_des": "🧡下一代信息浏览器。",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Next generation information browser.",
+            "stars": "15,419",
+            "forks": "657",
+            "language": "TypeScript",
+            "stars_today": "1,396 stars this week"
+        },
+        {
+            "zh_des": "开源客户参与。跨电子邮件、短信、移动推送、WhatsApp、Slack等📨自动发送交易和营销消息",
+            "url": "https://github.com/dittofeed/dittofeed",
+            "name": "dittofeed /dittofeed",
+            "description": "Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨",
+            "stars": "1,874",
+            "forks": "165",
+            "language": "TypeScript",
+            "stars_today": "335 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "50,316",
+            "forks": "7,207",
+            "language": "TypeScript",
+            "stars_today": "1,101 stars this week"
+        },
+        {
+            "zh_des": "在您自己的基础设施上构建完整的应用程序。",
+            "url": "https://github.com/sst/sst",
+            "name": "sst /sst",
+            "description": "Build full-stack apps on your own infrastructure.",
+            "stars": "21,727",
+            "forks": "1,644",
+            "language": "TypeScript",
+            "stars_today": "121 stars this week"
+        },
+        {
+            "zh_des": "🏠将小爱音箱接入聊天GPT和豆包，改造成你的专属语音助手。",
+            "url": "https://github.com/idootop/mi-gpt",
+            "name": "idootop /mi-gpt",
+            "description": "🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。",
+            "stars": "7,722",
+            "forks": "768",
+            "language": "TypeScript",
+            "stars_today": "150 stars this week"
+        },
+        {
+            "zh_des": "具有广泛可定制性的海普兰酒吧/面板。",
+            "url": "https://github.com/Jas-SinghFSU/HyprPanel",
+            "name": "Jas-SinghFSU /HyprPanel",
+            "description": "A Bar/Panel for Hyprland with extensive customizability.",
+            "stars": "758",
+            "forks": "55",
+            "language": "TypeScript",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "一个实用程序优先的CSS框架，用于快速开发用户界面。",
+            "url": "https://github.com/tailwindlabs/tailwindcss",
+            "name": "tailwindlabs /tailwindcss",
+            "description": "A utility-first CSS framework for rapid UI development.",
+            "stars": "82,838",
+            "forks": "4,201",
+            "language": "TypeScript",
+            "stars_today": "192 stars this week"
+        },
+        {
+            "zh_des": "有头的无头打字稿ORM。在Node、Bun和Deno上运行。生活在边缘，是的，它也是一个JavaScript ORM😅",
+            "url": "https://github.com/drizzle-team/drizzle-orm",
+            "name": "drizzle-team /drizzle-orm",
+            "description": "Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅",
+            "stars": "24,148",
+            "forks": "615",
+            "language": "TypeScript",
+            "stars_today": "179 stars this week"
+        },
+        {
+            "zh_des": "Reaction、Vue、Svelte、Qwik等的可视化开发",
+            "url": "https://github.com/BuilderIO/builder",
+            "name": "BuilderIO /builder",
+            "description": "Visual Development for React, Vue, Svelte, Qwik, and more",
+            "stars": "7,504",
+            "forks": "937",
+            "language": "TypeScript",
+            "stars_today": "67 stars this week"
+        }
+    ]
+}
