@@ -65708,3 +65708,207 @@
         }
     ]
 }
+{
+    "11月02日": [
+        {
+            "zh_des": "可自动化的GenAI脚本编写",
+            "url": "https://github.com/microsoft/genaiscript",
+            "name": "microsoft /genaiscript",
+            "description": "Automatable GenAI Scripting",
+            "stars": "940",
+            "forks": "70",
+            "language": "TypeScript",
+            "stars_today": "122 stars today"
+        },
+        {
+            "zh_des": "免费、开源、无代码的Web数据抽取平台。构建自定义机器人以自动收集数据[Beta版]",
+            "url": "https://github.com/getmaxun/maxun",
+            "name": "getmaxun /maxun",
+            "description": "Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]",
+            "stars": "1,037",
+            "forks": "66",
+            "language": "TypeScript",
+            "stars_today": "429 stars today"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "10,259",
+            "forks": "815",
+            "language": "TypeScript",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "18,768",
+            "forks": "1,586",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "由人工智能提供支持的富文本编辑器",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "A rich-text editor powered by AI",
+            "stars": "11,590",
+            "forks": "704",
+            "language": "TypeScript",
+            "stars_today": "308 stars today"
+        },
+        {
+            "zh_des": "您的弹性堆栈之窗",
+            "url": "https://github.com/elastic/kibana",
+            "name": "elastic /kibana",
+            "description": "Your window into the Elastic Stack",
+            "stars": "19,599",
+            "forks": "8,211",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Solana JavaScript SDK",
+            "url": "https://github.com/solana-labs/solana-web3.js",
+            "name": "solana-labs /solana-web3.js",
+            "description": "Solana JavaScript SDK",
+            "stars": "2,179",
+            "forks": "865",
+            "language": "TypeScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "50,027",
+            "forks": "2,654",
+            "language": "TypeScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "13,424",
+            "forks": "829",
+            "language": "TypeScript",
+            "stars_today": "208 stars today"
+        },
+        {
+            "zh_des": "开源通知平台。可嵌入的通知中心、电子邮件、推送和松弛集成。",
+            "url": "https://github.com/novuhq/novu",
+            "name": "novuhq /novu",
+            "description": "Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.",
+            "stars": "35,181",
+            "forks": "3,797",
+            "language": "TypeScript",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "163,976",
+            "forks": "29,187",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "43,247",
+            "forks": "4,685",
+            "language": "TypeScript",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "📦Repopack是一个强大的工具，可以将您的整个存储库打包到一个对AI友好的文件中。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repopack",
+            "name": "yamadashy /repopack",
+            "description": "📦 Repopack is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "2,891",
+            "forks": "136",
+            "language": "TypeScript",
+            "stars_today": "455 stars today"
+        },
+        {
+            "zh_des": "Deskreen将任何带有Web浏览器的设备都变成计算机的辅助屏幕。⭐️之星支持我们的工作！",
+            "url": "https://github.com/pavlobu/deskreen",
+            "name": "pavlobu /deskreen",
+            "description": "Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!",
+            "stars": "17,232",
+            "forks": "941",
+            "language": "TypeScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "6,360",
+            "forks": "938",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "68,331",
+            "forks": "6,159",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "这是Vue 2的回购。Vue 3的回购请访问https://github.com/vuejs/core",
+            "url": "https://github.com/vuejs/vue",
+            "name": "vuejs /vue",
+            "description": "This is the repo for Vue 2. For Vue 3, go tohttps://github.com/vuejs/core",
+            "stars": "207,951",
+            "forks": "33,683",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,635",
+            "forks": "1,237",
+            "language": "TypeScript",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "♾Infrical是一个开源的秘密管理平台：在您的团队/基础设施中同步秘密，防止秘密泄露，并管理内部PKI",
+            "url": "https://github.com/Infisical/infisical",
+            "name": "Infisical /infisical",
+            "description": "♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI",
+            "stars": "15,474",
+            "forks": "945",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "A32NX和A380X项目是社区驱动的开源项目，旨在在微软飞行模拟器中创建尽可能接近现实的免费空客飞机。",
+            "url": "https://github.com/flybywiresim/aircraft",
+            "name": "flybywiresim /aircraft",
+            "description": "The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.",
+            "stars": "5,068",
+            "forks": "1,091",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        }
+    ]
+}

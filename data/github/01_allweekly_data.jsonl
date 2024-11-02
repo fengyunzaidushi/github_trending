@@ -60810,3 +60810,187 @@
         }
     ]
 }
+{
+    "11月02日": [
+        {
+            "zh_des": "使用LLMS和计算机视觉自动执行基于浏览器的工作流",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "9,621",
+            "forks": "647",
+            "language": "Python",
+            "stars_today": "2,870 stars this week"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "54,739",
+            "forks": "4,784",
+            "language": "Python",
+            "stars_today": "1,675 stars this week"
+        },
+        {
+            "zh_des": "人类的教育课程",
+            "url": "https://github.com/anthropics/courses",
+            "name": "anthropics /courses",
+            "description": "Anthropic's educational courses",
+            "stars": "7,318",
+            "forks": "551",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,432 stars this week"
+        },
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "1,756",
+            "forks": "218",
+            "language": "JavaScript",
+            "stars_today": "461 stars this week"
+        },
+        {
+            "zh_des": "适用于每个系统的PowerShell！",
+            "url": "https://github.com/PowerShell/PowerShell",
+            "name": "PowerShell /PowerShell",
+            "description": "PowerShell for every system!",
+            "stars": "45,468",
+            "forks": "7,287",
+            "language": "C#",
+            "stars_today": "483 stars this week"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "18,332",
+            "forks": "1,010",
+            "language": "Python",
+            "stars_today": "786 stars this week"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "32,122",
+            "forks": "4,146",
+            "language": "JavaScript",
+            "stars_today": "1,383 stars this week"
+        },
+        {
+            "zh_des": "社区支持的增强型无纸化版本：扫描、索引和存档您所有的物理文档",
+            "url": "https://github.com/paperless-ngx/paperless-ngx",
+            "name": "paperless-ngx /paperless-ngx",
+            "description": "A community-supported supercharged version of paperless: scan, index and archive all your physical documents",
+            "stars": "21,004",
+            "forks": "1,146",
+            "language": "Python",
+            "stars_today": "833 stars this week"
+        },
+        {
+            "zh_des": "自由软件媒体系统",
+            "url": "https://github.com/jellyfin/jellyfin",
+            "name": "jellyfin /jellyfin",
+            "description": "The Free Software Media System",
+            "stars": "34,691",
+            "forks": "3,157",
+            "language": "C#",
+            "stars_today": "407 stars this week"
+        },
+        {
+            "zh_des": "Asterinas是一个安全、快速和通用的操作系统内核，用Rust编写，并提供与Linux兼容的ABI。",
+            "url": "https://github.com/asterinas/asterinas",
+            "name": "asterinas /asterinas",
+            "description": "Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.",
+            "stars": "2,303",
+            "forks": "128",
+            "language": "Rust",
+            "stars_today": "475 stars this week"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库图表编辑器和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+            "stars": "21,865",
+            "forks": "1,535",
+            "language": "JavaScript",
+            "stars_today": "584 stars this week"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "14,465",
+            "forks": "2,018",
+            "language": "Python",
+            "stars_today": "778 stars this week"
+        },
+        {
+            "zh_des": "使用可组合的FSDP和PEFT方法微调Meta Llama的脚本，以涵盖单节点/多节点GPU。支持摘要和问答等应用程序的默认和自定义数据集，支持多种坦率的推理解决方案，如用于本地或云部署的HF TGI、VLLM。演示应用程序，展示用于WhatsApp和Messenger的Meta Llama。",
+            "url": "https://github.com/meta-llama/llama-recipes",
+            "name": "meta-llama /llama-recipes",
+            "description": "Scripts for fine-tuning Meta Llama with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization and Q&A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp & Messenger.",
+            "stars": "14,623",
+            "forks": "2,128",
+            "language": "Jupyter Notebook",
+            "stars_today": "2,377 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "44,075",
+            "forks": "9,849",
+            "language": "TypeScript",
+            "stars_today": "954 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,635",
+            "forks": "1,237",
+            "language": "TypeScript",
+            "stars_today": "336 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "10,259",
+            "forks": "815",
+            "language": "TypeScript",
+            "stars_today": "1,081 stars this week"
+        },
+        {
+            "zh_des": "带gpt-4o-mini的零镜头pdf OCR",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "Zero shot pdf OCR with gpt-4o-mini",
+            "stars": "5,694",
+            "forks": "299",
+            "language": "Python",
+            "stars_today": "1,294 stars this week"
+        },
+        {
+            "zh_des": "一个开源的远程桌面应用程序，设计用于自托管，作为TeamViewer的替代方案。",
+            "url": "https://github.com/rustdesk/rustdesk",
+            "name": "rustdesk /rustdesk",
+            "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+            "stars": "75,184",
+            "forks": "9,644",
+            "language": "Rust",
+            "stars_today": "609 stars this week"
+        }
+    ]
+}

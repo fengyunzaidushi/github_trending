@@ -62580,3 +62580,197 @@
         }
     ]
 }
+{
+    "11月02日": [
+        {
+            "zh_des": "分流规则、重写写规则及脚本.",
+            "url": "https://github.com/blackmatrix7/ios_rule_script",
+            "name": "blackmatrix7 /ios_rule_script",
+            "description": "分流规则、重写写规则及脚本。",
+            "stars": "18,216",
+            "forks": "2,959",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "可视化解释变压器：了解LLM变压器模型如何使用交互式可视化",
+            "url": "https://github.com/poloclub/transformer-explainer",
+            "name": "poloclub /transformer-explainer",
+            "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+            "stars": "3,052",
+            "forks": "272",
+            "language": "JavaScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "15,005",
+            "forks": "1,476",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "一个用户界面可同时支持Chatgpt Web、MidRoad、GPTS、Suno、Luma、Runway、Vigger、通量、表意文字、Realtime、Pika；同时支持Web/PWA/Linux/Win/MacOS平台",
+            "url": "https://github.com/Dooy/chatgpt-web-midjourney-proxy",
+            "name": "Dooy /chatgpt-web-midjourney-proxy",
+            "description": "One UI is all done with chatgpt web, midjourney, gpts,suno,luma,runway,viggle,flux,ideogram,realtime,pika; Simultaneous support Web / PWA / Linux / Win / MacOS platform",
+            "stars": "5,182",
+            "forks": "1,332",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "这个项目是一个基于云耀斑工人的码头工人镜像代理工具。它能够中转对Docker官方镜像仓库的请求，解决一些访问限制和加速访问的问题.",
+            "url": "https://github.com/cmliu/CF-Workers-docker.io",
+            "name": "cmliu /CF-Workers-docker.io",
+            "description": "这个项目是一个基于 Cloudflare Workers 的 Docker 镜像代理工具。它能够中转对 Docker 官方镜像仓库的请求，解决一些访问限制和加速访问的问题。",
+            "stars": "5,458",
+            "forks": "6,513",
+            "language": "JavaScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "ComfyUI多语种翻译插件，实现驻留菜单栏/搜索栏/右键上下文菜单/节点等翻译",
+            "url": "https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation",
+            "name": "AIGODLIKE /AIGODLIKE-ComfyUI-Translation",
+            "description": "A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc",
+            "stars": "1,661",
+            "forks": "134",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "</>htmx-强大的超文本标记语言工具",
+            "url": "https://github.com/bigskysoftware/htmx",
+            "name": "bigskysoftware /htmx",
+            "description": "</> htmx - high power tools for HTML",
+            "stars": "38,188",
+            "forks": "1,300",
+            "language": "JavaScript",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "Swagger UI是一组HTML、JavaScript和CSS资产，可以从与Swagger兼容的API动态生成漂亮的文档。",
+            "url": "https://github.com/swagger-api/swagger-ui",
+            "name": "swagger-api /swagger-ui",
+            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+            "stars": "26,535",
+            "forks": "8,957",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "228,902",
+            "forks": "46,839",
+            "language": "JavaScript",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "大多数现代移动触控滑块具有硬件加速过渡功能",
+            "url": "https://github.com/nolimits4web/swiper",
+            "name": "nolimits4web /swiper",
+            "description": "Most modern mobile touch slider with hardware accelerated transitions",
+            "stars": "39,857",
+            "forks": "9,745",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "《抓取算法》一书的代码(https://amzn.to/29rVyHf)",
+            "url": "https://github.com/egonSchiele/grokking_algorithms",
+            "name": "egonSchiele /grokking_algorithms",
+            "description": "Code for the book Grokking Algorithms (https://amzn.to/29rVyHf)",
+            "stars": "11,613",
+            "forks": "3,786",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "基于Sorable.js的VUE 3兼容拖放组件",
+            "url": "https://github.com/SortableJS/vue.draggable.next",
+            "name": "SortableJS /vue.draggable.next",
+            "description": "Vue 3 compatible drag-and-drop component based on Sortable.js",
+            "stars": "3,880",
+            "forks": "530",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Meteor，Java应用程序平台",
+            "url": "https://github.com/meteor/meteor",
+            "name": "meteor /meteor",
+            "description": "Meteor, the JavaScript App Platform",
+            "stars": "44,399",
+            "forks": "5,193",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "带有响应性断点的可拖动和可调整大小的网格布局，用于Reaction。",
+            "url": "https://github.com/react-grid-layout/react-grid-layout",
+            "name": "react-grid-layout /react-grid-layout",
+            "description": "A draggable and resizable grid layout with responsive breakpoints, for React.",
+            "stars": "20,439",
+            "forks": "2,591",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "JavaScript 3D库。",
+            "url": "https://github.com/mrdoob/three.js",
+            "name": "mrdoob /three.js",
+            "description": "JavaScript 3D Library.",
+            "stars": "102,508",
+            "forks": "35,372",
+            "language": "JavaScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "设置和管理标题竞价广告合作伙伴，无需编写代码或混淆行项目。Js是开源的，而且是免费的。",
+            "url": "https://github.com/prebid/Prebid.js",
+            "name": "prebid /Prebid.js",
+            "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
+            "stars": "1,316",
+            "forks": "2,079",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正.未完待续.如有意合作，联系skajy2015@163.com版权所有，违权必究Tan 2018.06",
+            "url": "https://github.com/scutan90/DeepLearning-500-questions",
+            "name": "scutan90 /DeepLearning-500-questions",
+            "description": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+            "stars": "54,753",
+            "forks": "15,881",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "25,440",
+            "forks": "2,578",
+            "language": "JavaScript",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Zigbee🐝to MQTT Bridge🌉，摆脱你专有的Zigbee Bridge🔨",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "name": "Koenkk /zigbee2mqtt",
+            "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+            "stars": "12,069",
+            "forks": "1,674",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
