@@ -66698,3 +66698,157 @@
         }
     ]
 }
+{
+    "11月04日": [
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "18,959",
+            "forks": "2,163",
+            "language": "TypeScript",
+            "stars_today": "468 stars today"
+        },
+        {
+            "zh_des": "免费、开源、无代码的Web数据抽取平台。构建自定义机器人以自动收集数据[Beta版]",
+            "url": "https://github.com/getmaxun/maxun",
+            "name": "getmaxun /maxun",
+            "description": "Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]",
+            "stars": "2,630",
+            "forks": "166",
+            "language": "TypeScript",
+            "stars_today": "798 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,926",
+            "forks": "1,266",
+            "language": "TypeScript",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "32,626",
+            "forks": "2,096",
+            "language": "TypeScript",
+            "stars_today": "480 stars today"
+        },
+        {
+            "zh_des": "可自动化的GenAI脚本编写",
+            "url": "https://github.com/microsoft/genaiscript",
+            "name": "microsoft /genaiscript",
+            "description": "Automatable GenAI Scripting",
+            "stars": "1,599",
+            "forks": "84",
+            "language": "TypeScript",
+            "stars_today": "252 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "296,113",
+            "forks": "39,063",
+            "language": "TypeScript",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "12,312",
+            "forks": "561",
+            "language": "TypeScript",
+            "stars_today": "461 stars today"
+        },
+        {
+            "zh_des": "这是一个Next.js，Tailind的css博客入门模板。开箱即用，配置了最新的技术，使技术编写变得轻而易举。可轻松配置和定制。作为现有Jekyll和Hugo个人博客的完美替代品。",
+            "url": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
+            "name": "timlrx /tailwind-nextjs-starter-blog",
+            "description": "This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.",
+            "stars": "8,803",
+            "forks": "2,048",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "带有服务器端排序、筛选和分页的Shadcn表。",
+            "url": "https://github.com/sadmann7/shadcn-table",
+            "name": "sadmann7 /shadcn-table",
+            "description": "Shadcn table with server-side sorting, filtering, and pagination.",
+            "stars": "3,005",
+            "forks": "250",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "一个注重简单性和可扩展性的人工智能Web浏览框架。",
+            "url": "https://github.com/browserbase/stagehand",
+            "name": "browserbase /stagehand",
+            "description": "An AI web browsing framework focused on simplicity and extensibility.",
+            "stars": "746",
+            "forks": "22",
+            "language": "TypeScript",
+            "stars_today": "146 stars today"
+        },
+        {
+            "zh_des": "用于IP摄像机的具有实时本地目标检测的NVR",
+            "url": "https://github.com/blakeblackshear/frigate",
+            "name": "blakeblackshear /frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "stars": "19,000",
+            "forks": "1,734",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "73,333",
+            "forks": "7,077",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括Anthropic，AWS，OpenAI，Assistents API，Azure，Groq，o1，GPT-4o，Mistral，OpenRouter，Vertex AI，Gemini，Artitures，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。积极参与公共发展。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+            "stars": "18,805",
+            "forks": "3,138",
+            "language": "TypeScript",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "办公桌的事情：不和谐的事情，特雷洛的事情，天气的事情，宏观的事情，只是不再是汽车的事情了",
+            "url": "https://github.com/ItsRiprod/DeskThing",
+            "name": "ItsRiprod /DeskThing",
+            "description": "Desk Thing: The Discord Thing, Trello Thing, The Weather Thing, The Macro Thing, Just not The Car Thing anymore",
+            "stars": "526",
+            "forks": "14",
+            "language": "TypeScript",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "AI生成的UI组件",
+            "url": "https://github.com/raidendotai/openv0",
+            "name": "raidendotai /openv0",
+            "description": "AI generated UI components",
+            "stars": "3,607",
+            "forks": "314",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        }
+    ]
+}
