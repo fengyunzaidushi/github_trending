@@ -66494,3 +66494,207 @@
         }
     ]
 }
+{
+    "11月04日": [
+        {
+            "zh_des": "可自动化的GenAI脚本编写",
+            "url": "https://github.com/microsoft/genaiscript",
+            "name": "microsoft /genaiscript",
+            "description": "Automatable GenAI Scripting",
+            "stars": "1,446",
+            "forks": "83",
+            "language": "TypeScript",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,871",
+            "forks": "1,259",
+            "language": "TypeScript",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "免费、开源、无代码的Web数据抽取平台。构建自定义机器人以自动收集数据[Beta版]",
+            "url": "https://github.com/getmaxun/maxun",
+            "name": "getmaxun /maxun",
+            "description": "Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]",
+            "stars": "2,299",
+            "forks": "146",
+            "language": "TypeScript",
+            "stars_today": "501 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "295,997",
+            "forks": "39,059",
+            "language": "TypeScript",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "一个注重简单性和可扩展性的人工智能Web浏览框架。",
+            "url": "https://github.com/browserbase/stagehand",
+            "name": "browserbase /stagehand",
+            "description": "An AI web browsing framework focused on simplicity and extensibility.",
+            "stars": "638",
+            "forks": "19",
+            "language": "TypeScript",
+            "stars_today": "209 stars today"
+        },
+        {
+            "zh_des": "A32NX和A380X项目是社区驱动的开源项目，旨在在微软飞行模拟器中创建尽可能接近现实的免费空客飞机。",
+            "url": "https://github.com/flybywiresim/aircraft",
+            "name": "flybywiresim /aircraft",
+            "description": "The A32NX & A380X Project are community driven open source projects to create free Airbus aircraft in Microsoft Flight Simulator that are as close to reality as possible.",
+            "stars": "5,085",
+            "forks": "1,099",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "32,263",
+            "forks": "7,935",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "9,034",
+            "forks": "1,283",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "3,186",
+            "forks": "145",
+            "language": "TypeScript",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "JHipster是一个快速生成、开发和部署现代Web应用程序和微服务架构的开发平台。",
+            "url": "https://github.com/jhipster/generator-jhipster",
+            "name": "jhipster /generator-jhipster",
+            "description": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+            "stars": "21,545",
+            "forks": "4,024",
+            "language": "TypeScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "118,714",
+            "forks": "14,700",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "🚀Strapi是领先的开源无头CMS。它是100%的脚本/类型，完全可定制，并且是开发者优先的。",
+            "url": "https://github.com/strapi/strapi",
+            "name": "strapi /strapi",
+            "description": "🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.",
+            "stars": "63,626",
+            "forks": "8,085",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括Anthropic，AWS，OpenAI，Assistents API，Azure，Groq，o1，GPT-4o，Mistral，OpenRouter，Vertex AI，Gemini，Artitures，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。积极参与公共发展。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+            "stars": "18,775",
+            "forks": "3,133",
+            "language": "TypeScript",
+            "stars_today": "157 stars today"
+        },
+        {
+            "zh_des": "✨创新的开源可视化应用程序，可将各种数据格式(如json、yaml、xml、csv等)转换为交互式图形。",
+            "url": "https://github.com/AykutSarac/jsoncrack.com",
+            "name": "AykutSarac /jsoncrack.com",
+            "description": "✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.",
+            "stars": "32,400",
+            "forks": "2,082",
+            "language": "TypeScript",
+            "stars_today": "598 stars today"
+        },
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "16,743",
+            "forks": "1,012",
+            "language": "TypeScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "Mui X：使用越来越多的高级Reaction组件构建复杂且数据丰富的应用程序，如数据网格、日期和时间选取器、图表等！",
+            "url": "https://github.com/mui/mui-x",
+            "name": "mui /mui-x",
+            "description": "MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!",
+            "stars": "4,509",
+            "forks": "1,308",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "405,050",
+            "forks": "37,992",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "使用Next.js克隆、部署和完全定制SaaS订阅应用程序。",
+            "url": "https://github.com/vercel/nextjs-subscription-payments",
+            "name": "vercel /nextjs-subscription-payments",
+            "description": "Clone, deploy, and fully customize a SaaS subscription application with Next.js.",
+            "stars": "6,630",
+            "forks": "1,363",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "下一代数据科学集成开发环境Positron",
+            "url": "https://github.com/posit-dev/positron",
+            "name": "posit-dev /positron",
+            "description": "Positron, a next-generation data science IDE",
+            "stars": "2,698",
+            "forks": "81",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "1,111",
+            "forks": "353",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}

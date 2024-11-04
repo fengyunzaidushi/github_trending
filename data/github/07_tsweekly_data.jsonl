@@ -64359,3 +64359,177 @@
         }
     ]
 }
+{
+    "11月04日": [
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,871",
+            "forks": "1,259",
+            "language": "TypeScript",
+            "stars_today": "445 stars this week"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "3,186",
+            "forks": "145",
+            "language": "TypeScript",
+            "stars_today": "1,057 stars this week"
+        },
+        {
+            "zh_des": "在您自己的基础设施上构建完整的应用程序。",
+            "url": "https://github.com/sst/sst",
+            "name": "sst /sst",
+            "description": "Build full-stack apps on your own infrastructure.",
+            "stars": "21,798",
+            "forks": "1,650",
+            "language": "TypeScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "13,571",
+            "forks": "850",
+            "language": "TypeScript",
+            "stars_today": "774 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "10,470",
+            "forks": "828",
+            "language": "TypeScript",
+            "stars_today": "1,125 stars this week"
+        },
+        {
+            "zh_des": "由人工智能提供支持的富文本编辑器",
+            "url": "https://github.com/udecode/plate",
+            "name": "udecode /plate",
+            "description": "A rich-text editor powered by AI",
+            "stars": "11,653",
+            "forks": "709",
+            "language": "TypeScript",
+            "stars_today": "621 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "44,142",
+            "forks": "9,865",
+            "language": "TypeScript",
+            "stars_today": "811 stars this week"
+        },
+        {
+            "zh_des": "世界上最灵活的商务平台。",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "The world's most flexible commerce platform.",
+            "stars": "25,726",
+            "forks": "2,565",
+            "language": "TypeScript",
+            "stars_today": "268 stars this week"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行。多引擎支持(llama.cpp、TensorRT-LLM)",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer. Multiple engine support (llama.cpp, TensorRT-LLM)",
+            "stars": "23,147",
+            "forks": "1,345",
+            "language": "TypeScript",
+            "stars_today": "193 stars this week"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "50,563",
+            "forks": "7,262",
+            "language": "TypeScript",
+            "stars_today": "818 stars this week"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "48,167",
+            "forks": "7,453",
+            "language": "TypeScript",
+            "stars_today": "441 stars this week"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "8,416",
+            "forks": "1,191",
+            "language": "TypeScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "68,361",
+            "forks": "6,164",
+            "language": "TypeScript",
+            "stars_today": "214 stars this week"
+        },
+        {
+            "zh_des": "Https://swapy.tahazsh.com/是一个与框架无关的工具，只需几行代码就可以将任何布局转换为拖放交换布局",
+            "url": "https://github.com/TahaSh/swapy",
+            "name": "TahaSh /swapy",
+            "description": "✨ A framework-agnostic tool that converts any layout into a drag-to-swap one with just a few lines of codehttps://swapy.tahazsh.com/",
+            "stars": "6,415",
+            "forks": "127",
+            "language": "TypeScript",
+            "stars_today": "395 stars this week"
+        },
+        {
+            "zh_des": "下一代数据科学集成开发环境Positron",
+            "url": "https://github.com/posit-dev/positron",
+            "name": "posit-dev /positron",
+            "description": "Positron, a next-generation data science IDE",
+            "stars": "2,698",
+            "forks": "81",
+            "language": "TypeScript",
+            "stars_today": "95 stars this week"
+        },
+        {
+            "zh_des": "⚡️为您的React应用程序提供简单、模块化且易于访问的UI组件",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "name": "chakra-ui /chakra-ui",
+            "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+            "stars": "37,806",
+            "forks": "3,259",
+            "language": "TypeScript",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括Anthropic，AWS，OpenAI，Assistents API，Azure，Groq，o1，GPT-4o，Mistral，OpenRouter，Vertex AI，Gemini，Artitures，AI模型切换，消息搜索，langchain，Dall-E-3，ChatGPT插件，OpenAI功能，安全多用户系统，预设，完全开源的自我托管。积极参与公共发展。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. Actively in public development.",
+            "stars": "18,775",
+            "forks": "3,133",
+            "language": "TypeScript",
+            "stars_today": "282 stars this week"
+        }
+    ]
+}
