@@ -67808,3 +67808,177 @@
         }
     ]
 }
+{
+    "11月05日": [
+        {
+            "zh_des": "Hly-一体式项目管理平台(可替代Line、Jira、Slack、Concept、Motion)",
+            "url": "https://github.com/hcengineering/platform",
+            "name": "hcengineering /platform",
+            "description": "Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)",
+            "stars": "16,814",
+            "forks": "1,016",
+            "language": "TypeScript",
+            "stars_today": "9,557 stars this month"
+        },
+        {
+            "zh_des": "开源调查平台",
+            "url": "https://github.com/formbricks/formbricks",
+            "name": "formbricks /formbricks",
+            "description": "Open Source Survey Platform",
+            "stars": "8,797",
+            "forks": "1,654",
+            "language": "TypeScript",
+            "stars_today": "2,137 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "19,356",
+            "forks": "2,181",
+            "language": "TypeScript",
+            "stars_today": "2,775 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "9,970",
+            "forks": "1,268",
+            "language": "TypeScript",
+            "stars_today": "1,646 stars this month"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "10,577",
+            "forks": "832",
+            "language": "TypeScript",
+            "stars_today": "4,652 stars this month"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "21,894",
+            "forks": "1,562",
+            "language": "TypeScript",
+            "stars_today": "3,018 stars this month"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "3,270",
+            "forks": "148",
+            "language": "TypeScript",
+            "stars_today": "2,196 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "13,582",
+            "forks": "867",
+            "language": "TypeScript",
+            "stars_today": "996 stars this month"
+        },
+        {
+            "zh_des": "世界上最灵活的商务平台。",
+            "url": "https://github.com/medusajs/medusa",
+            "name": "medusajs /medusa",
+            "description": "The world's most flexible commerce platform.",
+            "stars": "25,744",
+            "forks": "2,569",
+            "language": "TypeScript",
+            "stars_today": "947 stars this month"
+        },
+        {
+            "zh_des": "⚡️为您的React应用程序提供简单、模块化且易于访问的UI组件",
+            "url": "https://github.com/chakra-ui/chakra-ui",
+            "name": "chakra-ui /chakra-ui",
+            "description": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+            "stars": "37,809",
+            "forks": "3,261",
+            "language": "TypeScript",
+            "stars_today": "316 stars this month"
+        },
+        {
+            "zh_des": "直接在浏览器中使用ML支持的语音识别",
+            "url": "https://github.com/xenova/whisper-web",
+            "name": "xenova /whisper-web",
+            "description": "ML-powered speech recognition directly in your browser",
+            "stars": "2,539",
+            "forks": "268",
+            "language": "TypeScript",
+            "stars_today": "685 stars this month"
+        },
+        {
+            "zh_des": "Papermark是开源的DocSend替代品，具有内置的分析和自定义域。",
+            "url": "https://github.com/mfts/papermark",
+            "name": "mfts /papermark",
+            "description": "Papermark is the open-source DocSend alternative with built-in analytics and custom domains.",
+            "stars": "5,494",
+            "forks": "739",
+            "language": "TypeScript",
+            "stars_today": "2,029 stars this month"
+        },
+        {
+            "zh_des": "精灵宝可梦自走棋游戏。粉丝为粉丝制作的。开源，非营利性。精灵宝可梦公司的所有权利。",
+            "url": "https://github.com/keldaanCommunity/pokemonAutoChess",
+            "name": "keldaanCommunity /pokemonAutoChess",
+            "description": "Pokemon Auto Chess Game. Made by fans for fans. Open source, non profit. All rights to the Pokemon Company.",
+            "stars": "1,113",
+            "forks": "354",
+            "language": "TypeScript",
+            "stars_today": "762 stars this month"
+        },
+        {
+            "zh_des": "开源链接管理基础设施。深受Vercel、Raycast和Pplexity等现代营销团队的喜爱。",
+            "url": "https://github.com/dubinc/dub",
+            "name": "dubinc /dub",
+            "description": "Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.",
+            "stars": "18,708",
+            "forks": "2,022",
+            "language": "TypeScript",
+            "stars_today": "895 stars this month"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "1,071",
+            "forks": "382",
+            "language": "TypeScript",
+            "stars_today": "126 stars this month"
+        },
+        {
+            "zh_des": "在您自己的基础设施上构建完整的应用程序。",
+            "url": "https://github.com/sst/sst",
+            "name": "sst /sst",
+            "description": "Build full-stack apps on your own infrastructure.",
+            "stars": "21,829",
+            "forks": "1,650",
+            "language": "TypeScript",
+            "stars_today": "327 stars this month"
+        },
+        {
+            "zh_des": "工具板：仪表板和内部应用程序的全堆栈组件和低代码构建器。",
+            "url": "https://github.com/mui/toolpad",
+            "name": "mui /toolpad",
+            "description": "Toolpad: Full stack components and low-code builder for dashboards and internal apps.",
+            "stars": "1,249",
+            "forks": "282",
+            "language": "TypeScript",
+            "stars_today": "261 stars this month"
+        }
+    ]
+}

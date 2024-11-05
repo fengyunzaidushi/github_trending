@@ -58452,3 +58452,177 @@
         }
     ]
 }
+{
+    "11月05日": [
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "16,272",
+            "forks": "1,249",
+            "language": "Python",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "用于构建骆驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "4,385",
+            "forks": "557",
+            "language": "Python",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "4,778",
+            "forks": "253",
+            "language": "Python",
+            "stars_today": "1,857 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "33,985",
+            "forks": "3,872",
+            "language": "Python",
+            "stars_today": "301 stars today"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "38,368",
+            "forks": "2,491",
+            "language": "Python",
+            "stars_today": "218 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "58,376",
+            "forks": "7,236",
+            "language": "Python",
+            "stars_today": "637 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "274,291",
+            "forks": "46,146",
+            "language": "Python",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "你的代理在你的终端上，配备了本地工具：编写代码，使用终端，浏览网页，视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "2,429",
+            "forks": "164",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "一个简单的用于Honkai的Python Pydatics模型：Star Rail解析来自Mihomo API的数据。",
+            "url": "https://github.com/MetaCubeX/mihomo",
+            "name": "MetaCubeX /mihomo",
+            "description": "A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.",
+            "stars": "16,420",
+            "forks": "2,637",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "InstructLab命令行界面。使用它与模型聊天，并执行InstructLab工作流以使用自定义分类数据训练模型。",
+            "url": "https://github.com/instructlab/instructlab",
+            "name": "instructlab /instructlab",
+            "description": "InstructLab Command-Line Interface. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.",
+            "stars": "890",
+            "forks": "323",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "87,352",
+            "forks": "6,791",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "SpiderFoot自动执行OSINT，提供威胁情报和绘制攻击面。",
+            "url": "https://github.com/smicallef/spiderfoot",
+            "name": "smicallef /spiderfoot",
+            "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+            "stars": "13,032",
+            "forks": "2,269",
+            "language": "Python",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "一款针对Python的反应式笔记本--运行可重现的实验，以脚本形式执行，以应用程序形式部署，并使用Git进行版本控制。",
+            "url": "https://github.com/marimo-team/marimo",
+            "name": "marimo-team /marimo",
+            "description": "A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.",
+            "stars": "7,570",
+            "forks": "261",
+            "language": "Python",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "142,346",
+            "forks": "26,853",
+            "language": "Python",
+            "stars_today": "121 stars today"
+        },
+        {
+            "zh_des": "在Python中快速构建AI应用程序",
+            "url": "https://github.com/google/mesop",
+            "name": "google /mesop",
+            "description": "Rapidly build AI apps in Python",
+            "stars": "5,482",
+            "forks": "262",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "PyGWalker：将您的熊猫数据帧转换为可视化分析的交互式用户界面",
+            "url": "https://github.com/Kanaries/pygwalker",
+            "name": "Kanaries /pygwalker",
+            "description": "PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis",
+            "stars": "13,283",
+            "forks": "691",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "构建和共享令人愉快的机器学习应用程序，所有这些都是在Python中实现的。🌟之星支持我们的工作！",
+            "url": "https://github.com/gradio-app/gradio",
+            "name": "gradio-app /gradio",
+            "description": "Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!",
+            "stars": "33,698",
+            "forks": "2,553",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        }
+    ]
+}
