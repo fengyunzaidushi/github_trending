@@ -67692,3 +67692,167 @@
         }
     ]
 }
+{
+    "11月07日": [
+        {
+            "zh_des": "🚀新一代AI一站式国际化解决方案。🚀下一代AI一站式B/C端解决方案，支持OpenAI，中途，克劳德，讯飞星火，稳定扩散，Dall·E，ChatGLM，通义千问，腾讯混元，360智脑，百川AI，火山方舟，新必应，双子座，Moonshot等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计.",
+            "url": "https://github.com/zmh-program/chatnio",
+            "name": "zmh-program /chatnio",
+            "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "stars": "5,772",
+            "forks": "768",
+            "language": "TypeScript",
+            "stars_today": "1,198 stars today"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "64,796",
+            "forks": "12,113",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "50,725",
+            "forks": "2,684",
+            "language": "TypeScript",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "带有Nextjs14和shadcn UI的Admin Dashboard Starter",
+            "url": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+            "name": "Kiranism /next-shadcn-dashboard-starter",
+            "description": "Admin Dashboard Starter with Nextjs14 and shadcn ui",
+            "stars": "2,651",
+            "forks": "619",
+            "language": "TypeScript",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "296,806",
+            "forks": "39,107",
+            "language": "TypeScript",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "OHIF零足迹DICOM查看器和肿瘤学特定的病变跟踪器，以及共享的扩展包",
+            "url": "https://github.com/OHIF/Viewers",
+            "name": "OHIF /Viewers",
+            "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker, plus shared extension packages",
+            "stars": "3,334",
+            "forks": "3,357",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用于绘制手绘示意图的虚拟白板",
+            "url": "https://github.com/excalidraw/excalidraw",
+            "name": "excalidraw /excalidraw",
+            "description": "Virtual whiteboard for sketching hand-drawn like diagrams",
+            "stars": "84,152",
+            "forks": "7,939",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "开源电子邮件应用程序，以快速到达收件箱零。",
+            "url": "https://github.com/elie222/inbox-zero",
+            "name": "elie222 /inbox-zero",
+            "description": "Open source email app to reach inbox zero fast.",
+            "stars": "2,920",
+            "forks": "286",
+            "language": "TypeScript",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "50,968",
+            "forks": "7,333",
+            "language": "TypeScript",
+            "stars_today": "127 stars today"
+        },
+        {
+            "zh_des": "用于MySQL、Postgres、SQLite、SQL Server等的现代化且易于使用的SQL客户端。Linux、MacOS和Windows。",
+            "url": "https://github.com/beekeeper-studio/beekeeper-studio",
+            "name": "beekeeper-studio /beekeeper-studio",
+            "description": "Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.",
+            "stars": "16,664",
+            "forks": "1,090",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "您的后端，减去麻烦。",
+            "url": "https://github.com/appwrite/appwrite",
+            "name": "appwrite /appwrite",
+            "description": "Your backend, minus the hassle.",
+            "stars": "45,255",
+            "forks": "4,002",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "开源Form Builder",
+            "url": "https://github.com/heyform/heyform",
+            "name": "heyform /heyform",
+            "description": "Open-Source Form Builder",
+            "stars": "6,994",
+            "forks": "481",
+            "language": "TypeScript",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "18,000",
+            "forks": "4,789",
+            "language": "TypeScript",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MariaDB、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "22,642",
+            "forks": "1,567",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "开源Claude人工制品-使用Llama 3.1 405B构建",
+            "url": "https://github.com/Nutlope/llamacoder",
+            "name": "Nutlope /llamacoder",
+            "description": "Open source Claude Artifacts – built with Llama 3.1 405B",
+            "stars": "3,346",
+            "forks": "553",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "这个商业平台的DNA中包含了定制。",
+            "url": "https://github.com/vendure-ecommerce/vendure",
+            "name": "vendure-ecommerce /vendure",
+            "description": "The commerce platform with customization in its DNA.",
+            "stars": "5,737",
+            "forks": "1,020",
+            "language": "TypeScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
