@@ -68020,3 +68020,227 @@
         }
     ]
 }
+{
+    "11月08日": [
+        {
+            "zh_des": "🚀新一代AI一站式国际化解决方案。🚀下一代AI一站式B/C端解决方案，支持OpenAI，中途，克劳德，讯飞星火，稳定扩散，Dall·E，ChatGLM，通义千问，腾讯混元，360智脑，百川AI，火山方舟，新必应，双子座，Moonshot等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计.",
+            "url": "https://github.com/zmh-program/chatnio",
+            "name": "zmh-program /chatnio",
+            "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "stars": "6,138",
+            "forks": "802",
+            "language": "TypeScript",
+            "stars_today": "410 stars today"
+        },
+        {
+            "zh_des": "适用于Chrome和Firefox的JavaScript API",
+            "url": "https://github.com/puppeteer/puppeteer",
+            "name": "puppeteer /puppeteer",
+            "description": "JavaScript API for Chrome and Firefox",
+            "stars": "88,746",
+            "forks": "9,071",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "51,017",
+            "forks": "2,697",
+            "language": "TypeScript",
+            "stars_today": "351 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款注重隐私的笔记应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "45,960",
+            "forks": "4,993",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "建立更好的网站。使用Web基础知识创建现代化、弹性强的用户体验。",
+            "url": "https://github.com/remix-run/remix",
+            "name": "remix-run /remix",
+            "description": "Build Better Websites. Create modern, resilient user experiences with web fundamentals.",
+            "stars": "29,930",
+            "forks": "2,523",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "测试您的提示、代理和破烂。红色分组、五角大楼测试和漏洞扫描LLM。比较GPT、Claude、Gemini、Llama等的性能。使用命令行和CI/CD集成的简单声明性配置。",
+            "url": "https://github.com/promptfoo/promptfoo",
+            "name": "promptfoo /promptfoo",
+            "description": "Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.",
+            "stars": "4,673",
+            "forks": "368",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "开源Claude人工制品-使用Llama 3.1 405B构建",
+            "url": "https://github.com/Nutlope/llamacoder",
+            "name": "Nutlope /llamacoder",
+            "description": "Open source Claude Artifacts – built with Llama 3.1 405B",
+            "stars": "3,382",
+            "forks": "556",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "51,083",
+            "forks": "7,354",
+            "language": "TypeScript",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "令人愉快的JavaScript测试。",
+            "url": "https://github.com/jestjs/jest",
+            "name": "jestjs /jest",
+            "description": "Delightful JavaScript Testing.",
+            "stars": "44,245",
+            "forks": "6,463",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "将数据保护放在首位的通信平台。",
+            "url": "https://github.com/RocketChat/Rocket.Chat",
+            "name": "RocketChat /Rocket.Chat",
+            "description": "The communications platform that puts data protection first.",
+            "stars": "40,553",
+            "forks": "10,577",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "轻量级的下一代数据资源管理器-Postgres、MySQL、SQLite、MongoDB、Redis、MariaDB和带有聊天界面的Elastic Search",
+            "url": "https://github.com/clidey/whodb",
+            "name": "clidey /whodb",
+            "description": "A lightweight next-gen data explorer - Postgres, MySQL, SQLite, MongoDB, Redis, MariaDB & Elastic Search with Chat interface",
+            "stars": "1,718",
+            "forks": "43",
+            "language": "TypeScript",
+            "stars_today": "261 stars today"
+        },
+        {
+            "zh_des": "开源Form Builder",
+            "url": "https://github.com/heyform/heyform",
+            "name": "heyform /heyform",
+            "description": "Open-Source Form Builder",
+            "stars": "7,097",
+            "forks": "487",
+            "language": "TypeScript",
+            "stars_today": "158 stars today"
+        },
+        {
+            "zh_des": "易于维护的开源文档网站。",
+            "url": "https://github.com/facebook/docusaurus",
+            "name": "facebook /docusaurus",
+            "description": "Easy to maintain open source documentation websites.",
+            "stars": "56,605",
+            "forks": "8,498",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "18,038",
+            "forks": "4,791",
+            "language": "TypeScript",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "96,174",
+            "forks": "25,452",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "31,294",
+            "forks": "16,294",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "开源DocuSign替代方案。",
+            "url": "https://github.com/documenso/documenso",
+            "name": "documenso /documenso",
+            "description": "The Open Source DocuSign Alternative.",
+            "stars": "8,557",
+            "forks": "1,213",
+            "language": "TypeScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "TypeScrip是可编译为干净的JavaScript输出的JavaScript的超集。",
+            "url": "https://github.com/microsoft/TypeScript",
+            "name": "microsoft /TypeScript",
+            "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+            "stars": "100,998",
+            "forks": "12,483",
+            "language": "TypeScript",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "现代最简约的JS精通组合",
+            "url": "https://github.com/adrianhajdin/portfolio",
+            "name": "adrianhajdin /portfolio",
+            "description": "Modern & Minimal JS Mastery Portfolio",
+            "stars": "2,470",
+            "forks": "524",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "部件基础结构和材料设计部件",
+            "url": "https://github.com/angular/components",
+            "name": "angular /components",
+            "description": "Component infrastructure and Material Design components for Angular",
+            "stars": "24,368",
+            "forks": "6,743",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "面向Web工匠的无头富文本编辑器框架。",
+            "url": "https://github.com/ueberdosis/tiptap",
+            "name": "ueberdosis /tiptap",
+            "description": "The headless rich text editor framework for web artisans.",
+            "stars": "27,402",
+            "forks": "2,278",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "带有Nextjs14和shadcn UI的Admin Dashboard Starter",
+            "url": "https://github.com/Kiranism/next-shadcn-dashboard-starter",
+            "name": "Kiranism /next-shadcn-dashboard-starter",
+            "description": "Admin Dashboard Starter with Nextjs14 and shadcn ui",
+            "stars": "2,686",
+            "forks": "621",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        }
+    ]
+}

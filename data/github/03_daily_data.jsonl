@@ -59630,3 +59630,167 @@
         }
     ]
 }
+{
+    "11月08日": [
+        {
+            "zh_des": "帮助为您的帐户🤖生成丰富的GitHub贡献图的脚本",
+            "url": "https://github.com/Shpota/github-activity-generator",
+            "name": "Shpota /github-activity-generator",
+            "description": "A script that helps generate a rich GitHub Contribution Graph for your account 🤖",
+            "stars": "2,043",
+            "forks": "158",
+            "language": "Python",
+            "stars_today": "178 stars today"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "2,306",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "298 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "13,581",
+            "forks": "689",
+            "language": "Python",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "35,060",
+            "forks": "3,945",
+            "language": "Python",
+            "stars_today": "299 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "38,978",
+            "forks": "2,461",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "Letta(以前的MemGPT)是一个用于创建带内存的LLM服务的框架。",
+            "url": "https://github.com/letta-ai/letta",
+            "name": "letta-ai /letta",
+            "description": "Letta (formerly MemGPT) is a framework for creating LLM services with memory.",
+            "stars": "12,220",
+            "forks": "1,345",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "31,680",
+            "forks": "2,269",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "49,851",
+            "forks": "9,086",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "39,095",
+            "forks": "4,197",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "使用行业领先的机器学习数据引擎CVAT更好地进行标注。被任何规模的团队使用和信任，用于任何规模的数据。",
+            "url": "https://github.com/cvat-ai/cvat",
+            "name": "cvat-ai /cvat",
+            "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+            "stars": "12,557",
+            "forks": "3,001",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "用于现实世界应用程序的低代码Web框架，使用Python和Java脚本",
+            "url": "https://github.com/frappe/frappe",
+            "name": "frappe /frappe",
+            "description": "Low code web framework for real world applications, in Python and Javascript",
+            "stars": "7,243",
+            "forks": "3,435",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "134,641",
+            "forks": "26,923",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "11,084",
+            "forks": "649",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "用于在NVIDIA图形处理器上加速变压器模型的库，包括在Hopper和Ada图形处理器上使用8位浮点(FP8)精度，以在训练和推理中以较低的内存使用率提供更好的性能。",
+            "url": "https://github.com/NVIDIA/TransformerEngine",
+            "name": "NVIDIA /TransformerEngine",
+            "description": "A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.",
+            "stars": "1,951",
+            "forks": "324",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "第一个真正的人工智能开发者",
+            "url": "https://github.com/Pythagora-io/gpt-pilot",
+            "name": "Pythagora-io /gpt-pilot",
+            "description": "The first real AI developer",
+            "stars": "31,815",
+            "forks": "3,196",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "为有最后期限的完美主义者准备的Web框架。",
+            "url": "https://github.com/django/django",
+            "name": "django /django",
+            "description": "The Web framework for perfectionists with deadlines.",
+            "stars": "80,760",
+            "forks": "31,791",
+            "language": "Python",
+            "stars_today": "172 stars today"
+        }
+    ]
+}
