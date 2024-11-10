@@ -60122,3 +60122,167 @@
         }
     ]
 }
+{
+    "11月10日": [
+        {
+            "zh_des": "Prefect是一个工作流编排框架，用于在Python语言中构建弹性数据管道。",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "stars": "16,896",
+            "forks": "1,614",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "Bjorn是一款功能强大的网络扫描和攻击性安全工具，适用于2.13英寸e-Paper帽子的树莓PI。它发现网络目标，识别开放端口、暴露的服务和潜在的漏洞。Bjorn可以执行暴力攻击、文件窃取、主机僵尸，并支持自定义攻击脚本。",
+            "url": "https://github.com/infinition/Bjorn",
+            "name": "infinition /Bjorn",
+            "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+            "stars": "675",
+            "forks": "23",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "文本和图像到视频的生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "8,749",
+            "forks": "835",
+            "language": "Python",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "2,625",
+            "forks": "210",
+            "language": "Python",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "不折不扣的Python代码格式化器",
+            "url": "https://github.com/psf/black",
+            "name": "psf /black",
+            "description": "The uncompromising Python code formatter",
+            "stars": "39,106",
+            "forks": "2,469",
+            "language": "Python",
+            "stars_today": "108 stars today"
+        },
+        {
+            "zh_des": "超分析大奖🚀",
+            "url": "https://github.com/ultralytics/ultralytics",
+            "name": "ultralytics /ultralytics",
+            "description": "Ultralytics YOLO11 🚀",
+            "stars": "32,291",
+            "forks": "6,203",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "35,330",
+            "forks": "3,993",
+            "language": "Python",
+            "stars_today": "225 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于构建可靠的爬行器。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、剧作家和原始HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee-python",
+            "name": "apify /crawlee-python",
+            "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "4,508",
+            "forks": "313",
+            "language": "Python",
+            "stars_today": "110 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "13,903",
+            "forks": "699",
+            "language": "Python",
+            "stars_today": "368 stars today"
+        },
+        {
+            "zh_des": "Letta(以前的MemGPT)是一个用于创建带内存的LLM服务的框架。",
+            "url": "https://github.com/letta-ai/letta",
+            "name": "letta-ai /letta",
+            "description": "Letta (formerly MemGPT) is a framework for creating LLM services with memory.",
+            "stars": "12,326",
+            "forks": "1,357",
+            "language": "Python",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "这是一个8节课的课程，教授你需要知道的关于利用GitHub副驾驶和AI配对编程资源的一切知识。",
+            "url": "https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming",
+            "name": "microsoft /Mastering-GitHub-Copilot-for-Paired-Programming",
+            "description": "An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.",
+            "stars": "4,726",
+            "forks": "782",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "一个快速的高级Web爬行和抓取框架，适用于Python。",
+            "url": "https://github.com/scrapy/scrapy",
+            "name": "scrapy /scrapy",
+            "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+            "stars": "53,066",
+            "forks": "10,558",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "11,478",
+            "forks": "666",
+            "language": "Python",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "领先的ETL/ELT数据集成平台，用于从API、数据库和文件到数据仓库、数据湖和数据湖库的数据管道。包括自托管和云托管。",
+            "url": "https://github.com/airbytehq/airbyte",
+            "name": "airbytehq /airbyte",
+            "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",
+            "stars": "16,114",
+            "forks": "4,121",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "33,761",
+            "forks": "4,086",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "Google Gemini API的官方Python库",
+            "url": "https://github.com/google-gemini/generative-ai-python",
+            "name": "google-gemini /generative-ai-python",
+            "description": "The official Python library for the Google Gemini API",
+            "stars": "1,577",
+            "forks": "313",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
