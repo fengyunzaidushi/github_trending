@@ -60024,3 +60024,157 @@
         }
     ]
 }
+{
+    "11月11日": [
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "22,359",
+            "forks": "1,725",
+            "language": "Shell",
+            "stars_today": "1,207 stars today"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "7,737",
+            "forks": "2,235",
+            "language": "TypeScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "一个独一无二的简历建造者，它会把你的隐私牢记在心。完全安全，可定制，可移植，开源，永远免费。今天就试试吧！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "24,519",
+            "forks": "2,552",
+            "language": "TypeScript",
+            "stars_today": "386 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "11,927",
+            "forks": "685",
+            "language": "Python",
+            "stars_today": "407 stars today"
+        },
+        {
+            "zh_des": "🔥人人可用的开源BI工具，Tableau、帆软的开源替代。",
+            "url": "https://github.com/dataease/dataease",
+            "name": "dataease /dataease",
+            "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+            "stars": "18,088",
+            "forks": "3,276",
+            "language": "Java",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Prefect是一个工作流编排框架，用于在Python语言中构建弹性数据管道。",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "stars": "17,123",
+            "forks": "1,627",
+            "language": "Python",
+            "stars_today": "530 stars today"
+        },
+        {
+            "zh_des": "文本和图像到视频的生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "8,918",
+            "forks": "844",
+            "language": "Python",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "15,305",
+            "forks": "1,192",
+            "language": "TypeScript",
+            "stars_today": "214 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "17,316",
+            "forks": "2,713",
+            "language": "Python",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "Letta(以前的MemGPT)是一个用于创建带内存的LLM服务的框架。",
+            "url": "https://github.com/letta-ai/letta",
+            "name": "letta-ai /letta",
+            "description": "Letta (formerly MemGPT) is a framework for creating LLM services with memory.",
+            "stars": "12,473",
+            "forks": "1,364",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "掠夺性ESP32固件",
+            "url": "https://github.com/pr3y/Bruce",
+            "name": "pr3y /Bruce",
+            "description": "Predatory ESP32 Firmware",
+            "stars": "751",
+            "forks": "94",
+            "language": "C",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "14,292",
+            "forks": "709",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "终极摄像头流应用程序，支持RTSP、RTMP、HTTP-FLV、WebRTC、MSE、HLS、MP4、MJPEG、HomeKit、FFmpeg等。",
+            "url": "https://github.com/AlexxIT/go2rtc",
+            "name": "AlexxIT /go2rtc",
+            "description": "Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.",
+            "stars": "5,970",
+            "forks": "442",
+            "language": "Go",
+            "stars_today": "297 stars today"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "33,292",
+            "forks": "4,828",
+            "language": "Jupyter Notebook",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "一个快速、干净、反应迅速的雨果主题。",
+            "url": "https://github.com/adityatelange/hugo-PaperMod",
+            "name": "adityatelange /hugo-PaperMod",
+            "description": "A fast, clean, responsive Hugo theme.",
+            "stars": "10,062",
+            "forks": "2,709",
+            "language": "HTML",
+            "stars_today": "17 stars today"
+        }
+    ]
+}

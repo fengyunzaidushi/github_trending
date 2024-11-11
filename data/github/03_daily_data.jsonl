@@ -60500,3 +60500,217 @@
         }
     ]
 }
+{
+    "11月11日": [
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "11,927",
+            "forks": "685",
+            "language": "Python",
+            "stars_today": "407 stars today"
+        },
+        {
+            "zh_des": "Prefect是一个工作流编排框架，用于在Python语言中构建弹性数据管道。",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "stars": "17,123",
+            "forks": "1,627",
+            "language": "Python",
+            "stars_today": "530 stars today"
+        },
+        {
+            "zh_des": "文本和图像到视频的生成：CogVideoX(2024)和CogVideo(ICLR 2023)",
+            "url": "https://github.com/THUDM/CogVideo",
+            "name": "THUDM /CogVideo",
+            "description": "text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)",
+            "stars": "8,918",
+            "forks": "844",
+            "language": "Python",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "17,316",
+            "forks": "2,713",
+            "language": "Python",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "Letta(以前的MemGPT)是一个用于创建带内存的LLM服务的框架。",
+            "url": "https://github.com/letta-ai/letta",
+            "name": "letta-ai /letta",
+            "description": "Letta (formerly MemGPT) is a framework for creating LLM services with memory.",
+            "stars": "12,473",
+            "forks": "1,364",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "14,292",
+            "forks": "709",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于构建可靠的爬行器。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与BeautifulSoup、剧作家和原始HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee-python",
+            "name": "apify /crawlee-python",
+            "description": "Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with BeautifulSoup, Playwright, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "4,548",
+            "forks": "314",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "35,614",
+            "forks": "4,045",
+            "language": "Python",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "用于从多个图像托管站点下载图片库和收藏集的命令行程序",
+            "url": "https://github.com/mikf/gallery-dl",
+            "name": "mikf /gallery-dl",
+            "description": "Command-line program to download image galleries and collections from several image hosting sites",
+            "stars": "11,860",
+            "forks": "975",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "2,994",
+            "forks": "244",
+            "language": "Python",
+            "stars_today": "240 stars today"
+        },
+        {
+            "zh_des": "只需一张图片即可实现实时人脸互换和一键视频深度假冒",
+            "url": "https://github.com/hacksider/Deep-Live-Cam",
+            "name": "hacksider /Deep-Live-Cam",
+            "description": "real time face swap and one-click video deepfake with only a single image",
+            "stars": "39,916",
+            "forks": "5,843",
+            "language": "Python",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "🔥🕷️Crawl4AI：开源的LLm友好的网络爬虫和剪贴器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper",
+            "stars": "15,853",
+            "forks": "1,154",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "Bjorn是一款功能强大的网络扫描和攻击性安全工具，适用于2.13英寸e-Paper帽子的树莓PI。它发现网络目标，识别开放端口、暴露的服务和潜在的漏洞。Bjorn可以执行暴力攻击、文件窃取、主机僵尸，并支持自定义攻击脚本。",
+            "url": "https://github.com/infinition/Bjorn",
+            "name": "infinition /Bjorn",
+            "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+            "stars": "973",
+            "forks": "32",
+            "language": "Python",
+            "stars_today": "215 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "70,452",
+            "forks": "6,196",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "支持100多个比特币/阿尔特币交易所的JavaScript/Tyescript/Python/C#/PHP加密货币交易API",
+            "url": "https://github.com/ccxt/ccxt",
+            "name": "ccxt /ccxt",
+            "description": "A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+            "stars": "33,028",
+            "forks": "7,539",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡🏠🌊🎬🎥🏀🪁🎮🎵🏠🌊🎬央视(付费)、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "4,926",
+            "forks": "1,118",
+            "language": "Python",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "13,007",
+            "forks": "1,241",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个用于高质量PDF内容提取的综合工具包",
+            "url": "https://github.com/opendatalab/PDF-Extract-Kit",
+            "name": "opendatalab /PDF-Extract-Kit",
+            "description": "A Comprehensive Toolkit for High-Quality PDF Content Extraction",
+            "stars": "5,469",
+            "forks": "364",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "：requests、beautifulSoup、selenium、appium、scrapy爬虫教程系列、从0到1学习PYTHON爬虫，包括浏览器抓包，手机APP抓包，如fiddler、MitmProxy，各种爬虫涉及的模块的使用，如PYTHON等，以及IP代理，验证码识别，mysql，mongodb数据库的PYTHON使用，多线程多进程爬虫的使用，css爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+            "url": "https://github.com/wistbean/learn_python3_spider",
+            "name": "wistbean /learn_python3_spider",
+            "description": "python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式爬虫，爬虫项目实战实例等",
+            "stars": "18,361",
+            "forks": "3,737",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "MESA是一个用于基于代理的建模的开放源码的Python库，非常适合模拟复杂系统和探索紧急行为。",
+            "url": "https://github.com/projectmesa/mesa",
+            "name": "projectmesa /mesa",
+            "description": "Mesa is an open-source Python library for agent-based modeling, ideal for simulating complex systems and exploring emergent behaviors.",
+            "stars": "2,501",
+            "forks": "875",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "从公共资源中收集大量Shadowsock、ShadowsocksR、特洛伊木马、VMess，并按速度过滤最佳节点",
+            "url": "https://github.com/mahdibland/V2RayAggregator",
+            "name": "mahdibland /V2RayAggregator",
+            "description": "Collect Lots of Shadowsocks, ShadowsocksR, Trojan, Vmess from Public Sources & Filter Best Nodes By Speed",
+            "stars": "3,212",
+            "forks": "546",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        }
+    ]
+}
