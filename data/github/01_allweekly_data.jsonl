@@ -64494,3 +64494,177 @@
         }
     ]
 }
+{
+    "11月12日": [
+        {
+            "zh_des": "🚀新一代AI一站式国际化解决方案。🚀下一代AI一站式B/C端解决方案，支持OpenAI，中途，克劳德，讯飞星火，稳定扩散，Dall·E，ChatGLM，通义千问，腾讯混元，360智脑，百川AI，火山方舟，新必应，双子座，Moonshot等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计.",
+            "url": "https://github.com/zmh-program/chatnio",
+            "name": "zmh-program /chatnio",
+            "description": "🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。",
+            "stars": "6,738",
+            "forks": "878",
+            "language": "TypeScript",
+            "stars_today": "2,630 stars this week"
+        },
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "26,620",
+            "forks": "1,884",
+            "language": "Shell",
+            "stars_today": "5,170 stars this week"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "36,061",
+            "forks": "4,108",
+            "language": "Python",
+            "stars_today": "1,937 stars this week"
+        },
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "8,562",
+            "forks": "406",
+            "language": "Python",
+            "stars_today": "3,883 stars this week"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "8,946",
+            "forks": "2,352",
+            "language": "TypeScript",
+            "stars_today": "1,372 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥AI驱动的数据库工具和SQL客户端，最热门的图形用户界面客户端，支持MySQL、Oracle、PostgreSQL、DB2SQL Server、DB2SQLite、H2、ClickHouse等。",
+            "url": "https://github.com/CodePhiliaX/Chat2DB",
+            "name": "CodePhiliaX /Chat2DB",
+            "description": "🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+            "stars": "16,483",
+            "forks": "1,859",
+            "language": "Java",
+            "stars_today": "510 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "13,147",
+            "forks": "731",
+            "language": "Python",
+            "stars_today": "1,131 stars this week"
+        },
+        {
+            "zh_des": "免费、开源、无代码的Web数据抽取平台。[测试版]",
+            "url": "https://github.com/getmaxun/maxun",
+            "name": "getmaxun /maxun",
+            "description": "Free, open-source no-code web data extraction platform. [In Beta]",
+            "stars": "4,234",
+            "forks": "277",
+            "language": "TypeScript",
+            "stars_today": "1,567 stars this week"
+        },
+        {
+            "zh_des": "AirDrop的开源跨平台替代方案",
+            "url": "https://github.com/localsend/localsend",
+            "name": "localsend /localsend",
+            "description": "An open-source cross-platform alternative to AirDrop",
+            "stars": "51,855",
+            "forks": "2,772",
+            "language": "Dart",
+            "stars_today": "1,326 stars this week"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "25,210",
+            "forks": "2,673",
+            "language": "Go",
+            "stars_today": "708 stars this week"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "33,624",
+            "forks": "4,864",
+            "language": "Jupyter Notebook",
+            "stars_today": "802 stars this week"
+        },
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,769",
+            "forks": "8,827",
+            "language": "JavaScript",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "🔥人人可用的开源BI工具，Tableau、帆软的开源替代。",
+            "url": "https://github.com/dataease/dataease",
+            "name": "dataease /dataease",
+            "description": "🔥 人人可用的开源 BI 工具，Tableau、帆软的开源替代。",
+            "stars": "18,184",
+            "forks": "3,279",
+            "language": "Java",
+            "stars_today": "269 stars this week"
+        },
+        {
+            "zh_des": "Prefect是一个工作流编排框架，用于在Python语言中构建弹性数据管道。",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "stars": "17,325",
+            "forks": "1,638",
+            "language": "Python",
+            "stars_today": "871 stars this week"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "39,296",
+            "forks": "2,523",
+            "language": "Python",
+            "stars_today": "1,205 stars this week"
+        },
+        {
+            "zh_des": "排名第一的本地托管Web应用程序，允许您对PDF文件执行各种操作",
+            "url": "https://github.com/Stirling-Tools/Stirling-PDF",
+            "name": "Stirling-Tools /Stirling-PDF",
+            "description": "#1 Locally hosted web application that allows you to perform various operations on PDF files",
+            "stars": "45,998",
+            "forks": "3,740",
+            "language": "Java",
+            "stars_today": "1,294 stars this week"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,861",
+            "forks": "78,879",
+            "language": "JavaScript",
+            "stars_today": "369 stars this week"
+        }
+    ]
+}
