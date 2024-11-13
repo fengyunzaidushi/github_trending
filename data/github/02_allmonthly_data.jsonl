@@ -70904,3 +70904,207 @@
         }
     ]
 }
+{
+    "11月13日": [
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "8,823",
+            "forks": "421",
+            "language": "Python",
+            "stars_today": "7,893 stars this month"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "15,059",
+            "forks": "2,085",
+            "language": "Python",
+            "stars_today": "3,808 stars this month"
+        },
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "28,005",
+            "forks": "1,939",
+            "language": "Shell",
+            "stars_today": "8,592 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "10,580",
+            "forks": "1,334",
+            "language": "TypeScript",
+            "stars_today": "2,058 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "59,652",
+            "forks": "7,332",
+            "language": "Python",
+            "stars_today": "3,074 stars this month"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "9,123",
+            "forks": "2,367",
+            "language": "TypeScript",
+            "stars_today": "2,537 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "55,271",
+            "forks": "4,814",
+            "language": "Python",
+            "stars_today": "2,836 stars this month"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "14,088",
+            "forks": "871",
+            "language": "Python",
+            "stars_today": "3,756 stars this month"
+        },
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "1,991",
+            "forks": "245",
+            "language": "JavaScript",
+            "stars_today": "1,132 stars this month"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "39,329",
+            "forks": "2,524",
+            "language": "Python",
+            "stars_today": "1,949 stars this month"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "22,558",
+            "forks": "1,589",
+            "language": "TypeScript",
+            "stars_today": "3,493 stars this month"
+        },
+        {
+            "zh_des": "适用于您个人财务的操作系统",
+            "url": "https://github.com/maybe-finance/maybe",
+            "name": "maybe-finance /maybe",
+            "description": "The OS for your personal finances",
+            "stars": "33,851",
+            "forks": "2,437",
+            "language": "Ruby",
+            "stars_today": "3,096 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "20,250",
+            "forks": "2,247",
+            "language": "TypeScript",
+            "stars_today": "3,855 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库图表编辑器和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+            "stars": "22,439",
+            "forks": "1,566",
+            "language": "JavaScript",
+            "stars_today": "2,306 stars this month"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融的应用编程接口",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "14,709",
+            "forks": "2,436",
+            "language": "Python",
+            "stars_today": "1,516 stars this month"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "19,097",
+            "forks": "1,032",
+            "language": "Python",
+            "stars_today": "1,871 stars this month"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "3,824",
+            "forks": "172",
+            "language": "TypeScript",
+            "stars_today": "2,248 stars this month"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "32,768",
+            "forks": "4,254",
+            "language": "JavaScript",
+            "stars_today": "3,313 stars this month"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "22,629",
+            "forks": "2,215",
+            "language": "Python",
+            "stars_today": "3,441 stars this month"
+        },
+        {
+            "zh_des": "为我们其他人开发Web",
+            "url": "https://github.com/sveltejs/svelte",
+            "name": "sveltejs /svelte",
+            "description": "web development for the rest of us",
+            "stars": "79,876",
+            "forks": "4,245",
+            "language": "JavaScript",
+            "stars_today": "1,351 stars this month"
+        }
+    ]
+}

@@ -61350,3 +61350,177 @@
         }
     ]
 }
+{
+    "11月13日": [
+        {
+            "zh_des": "Docker容器中的OSX(MacOS)。",
+            "url": "https://github.com/dockur/macos",
+            "name": "dockur /macos",
+            "description": "OSX (macOS) inside a Docker container.",
+            "stars": "4,031",
+            "forks": "151",
+            "language": "Python",
+            "stars_today": "1,218 stars today"
+        },
+        {
+            "zh_des": "LLM支持的多智能体角色模拟，可增强想象力和商业洞察力。",
+            "url": "https://github.com/microsoft/TinyTroupe",
+            "name": "microsoft /TinyTroupe",
+            "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+            "stars": "1,313",
+            "forks": "64",
+            "language": "Python",
+            "stars_today": "361 stars today"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "1,609",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "301 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "14,114",
+            "forks": "758",
+            "language": "Python",
+            "stars_today": "1,376 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "157,190",
+            "forks": "52,399",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡🏠🌊🎬🎥🏀🪁🎮🎵🏠🌊🎬央视(付费)、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "5,128",
+            "forks": "1,170",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "275,287",
+            "forks": "46,259",
+            "language": "Python",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "奈飞级别的字幕剪切、翻译、对齐，甚至配音--一键全自动AI视频字幕团队|奈飞级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "url": "https://github.com/Huanshere/VideoLingo",
+            "name": "Huanshere /VideoLingo",
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "stars": "5,727",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "大语言模型文本生成推理",
+            "url": "https://github.com/huggingface/text-generation-inference",
+            "name": "huggingface /text-generation-inference",
+            "description": "Large Language Model Text Generation Inference",
+            "stars": "9,056",
+            "forks": "1,068",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "欢迎使用新的NNU-Net！什么是NNU-Net？确认如果您正在寻找旧的NNU-Net，请单击此处",
+            "url": "https://github.com/MIC-DKFZ/nnUNet",
+            "name": "MIC-DKFZ /nnUNet",
+            "description": "Welcome to the new nnU-Net!What is nnU-Net?AcknowledgementsClick here if you were looking for the old one instead",
+            "stars": "5,888",
+            "forks": "1,761",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Bjorn是一款功能强大的网络扫描和攻击性安全工具，适用于2.13英寸e-Paper帽子的树莓PI。它发现网络目标，识别开放端口、暴露的服务和潜在的漏洞。Bjorn可以执行暴力攻击、文件窃取、主机僵尸，并支持自定义攻击脚本。",
+            "url": "https://github.com/infinition/Bjorn",
+            "name": "infinition /Bjorn",
+            "description": "Bjorn is a powerful network scanning and offensive security tool for the Raspberry Pi with a 2.13-inch e-Paper HAT. It discovers network targets, identifies open ports, exposed services, and potential vulnerabilities. Bjorn can perform brute force attacks, file stealing, host zombification, and supports custom attack scripts.",
+            "stars": "1,868",
+            "forks": "61",
+            "language": "Python",
+            "stars_today": "258 stars today"
+        },
+        {
+            "zh_des": "面向CPU、GPU和专用加速器的开放式深度学习编译器堆栈",
+            "url": "https://github.com/apache/tvm",
+            "name": "apache /tvm",
+            "description": "Open deep learning compiler stack for cpu, gpu and specialized accelerators",
+            "stars": "11,779",
+            "forks": "3,472",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Azure中运行的RAG模式的解决方案加速器，使用Azure AI Search进行检索，并使用Azure OpenAI大型语言模型来支持ChatGPT风格和问答体验。这包括最常见的要求和最佳实践。",
+            "url": "https://github.com/Azure-Samples/chat-with-your-data-solution-accelerator",
+            "name": "Azure-Samples /chat-with-your-data-solution-accelerator",
+            "description": "A Solution Accelerator for the RAG pattern running in Azure, using Azure AI Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. This includes most common requirements and best practices.",
+            "stars": "834",
+            "forks": "431",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "21,064",
+            "forks": "2,924",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "开发人员优先的错误跟踪和性能监控",
+            "url": "https://github.com/getsentry/sentry",
+            "name": "getsentry /sentry",
+            "description": "Developer-first error tracking and performance monitoring",
+            "stars": "39,147",
+            "forks": "4,199",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "在QEMU/KVM上运行MacOS。现在就支持OpenCore+蒙特雷+Ventura+Sonoma！现在只提供商业(付费)支持，以避免垃圾邮件问题。不需要Mac系统。",
+            "url": "https://github.com/kholia/OSX-KVM",
+            "name": "kholia /OSX-KVM",
+            "description": "Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.",
+            "stars": "20,608",
+            "forks": "1,877",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "17,953",
+            "forks": "2,779",
+            "language": "Python",
+            "stars_today": "289 stars today"
+        }
+    ]
+}

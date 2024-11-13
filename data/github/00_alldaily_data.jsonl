@@ -60884,3 +60884,187 @@
         }
     ]
 }
+{
+    "11月13日": [
+        {
+            "zh_des": "Docker容器中的OSX(MacOS)。",
+            "url": "https://github.com/dockur/macos",
+            "name": "dockur /macos",
+            "description": "OSX (macOS) inside a Docker container.",
+            "stars": "4,031",
+            "forks": "151",
+            "language": "Python",
+            "stars_today": "1,218 stars today"
+        },
+        {
+            "zh_des": "LLM支持的多智能体角色模拟，可增强想象力和商业洞察力。",
+            "url": "https://github.com/microsoft/TinyTroupe",
+            "name": "microsoft /TinyTroupe",
+            "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+            "stars": "1,313",
+            "forks": "64",
+            "language": "Python",
+            "stars_today": "361 stars today"
+        },
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "28,004",
+            "forks": "1,939",
+            "language": "Shell",
+            "stars_today": "1,939 stars today"
+        },
+        {
+            "zh_des": "推特和不和谐的对话代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Conversational Agent for Twitter and Discord",
+            "stars": "703",
+            "forks": "212",
+            "language": "TypeScript",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "🤖是开放人工智能、克劳德和其他软件的免费、开源替代品。自托管和本地优先。OpenAI的临时替代品，运行在消费级硬件上。不需要图形处理器。运行GGUF、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理",
+            "url": "https://github.com/mudler/LocalAI",
+            "name": "mudler /LocalAI",
+            "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+            "stars": "25,377",
+            "forks": "1,916",
+            "language": "C++",
+            "stars_today": "214 stars today"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "1,609",
+            "forks": "115",
+            "language": "Python",
+            "stars_today": "301 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "14,114",
+            "forks": "758",
+            "language": "Python",
+            "stars_today": "1,376 stars today"
+        },
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "5,449",
+            "forks": "421",
+            "language": "JavaScript",
+            "stars_today": "166 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "80,208",
+            "forks": "8,018",
+            "language": "Shell",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "开发人员文档：用于Visual Studio代码的AI工具包这是用于VS代码的AI工具包的临时文档站点",
+            "url": "https://github.com/microsoft/vscode-ai-toolkit",
+            "name": "microsoft /vscode-ai-toolkit",
+            "description": "Developer Document: AI Toolkit for Visual Studio CodeThis is the temporary documentation site for AI Toolkit for VS Code",
+            "stars": "1,114",
+            "forks": "58",
+            "language": "",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "157,190",
+            "forks": "52,399",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "9,123",
+            "forks": "2,367",
+            "language": "TypeScript",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡🏠🌊🎬🎥🏀🪁🎮🎵🏠🌊🎬央视(付费)、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视(付费)、卫视、广东、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/TV",
+            "name": "Guovin /TV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视(付费)、📡卫视、🏠广东、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "5,128",
+            "forks": "1,170",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "33,826",
+            "forks": "4,884",
+            "language": "Jupyter Notebook",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "275,287",
+            "forks": "46,259",
+            "language": "Python",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "使用Gemini API的示例和指南",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "Examples and guides for using the Gemini API",
+            "stars": "5,239",
+            "forks": "774",
+            "language": "Jupyter Notebook",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "奈飞级别的字幕剪切、翻译、对齐，甚至配音--一键全自动AI视频字幕团队|奈飞级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "url": "https://github.com/Huanshere/VideoLingo",
+            "name": "Huanshere /VideoLingo",
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "stars": "5,727",
+            "forks": "602",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "一个独一无二的简历建造者，它会把你的隐私牢记在心。完全安全，可定制，可移植，开源，永远免费。今天就试试吧！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "25,432",
+            "forks": "2,605",
+            "language": "TypeScript",
+            "stars_today": "328 stars today"
+        }
+    ]
+}
