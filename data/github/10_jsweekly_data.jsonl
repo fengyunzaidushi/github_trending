@@ -70426,3 +70426,157 @@
         }
     ]
 }
+{
+    "11月14日": [
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,782",
+            "forks": "8,829",
+            "language": "JavaScript",
+            "stars_today": "106 stars this week"
+        },
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "5,717",
+            "forks": "431",
+            "language": "JavaScript",
+            "stars_today": "378 stars this week"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "170,882",
+            "forks": "78,876",
+            "language": "JavaScript",
+            "stars_today": "356 stars this week"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "59,747",
+            "forks": "5,340",
+            "language": "JavaScript",
+            "stars_today": "1,091 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "27,284",
+            "forks": "1,248",
+            "language": "JavaScript",
+            "stars_today": "379 stars this week"
+        },
+        {
+            "zh_des": "拥有速度、隐私和安全性的Firefox user.js。你最喜欢的浏览器，但更好。",
+            "url": "https://github.com/yokoffing/Betterfox",
+            "name": "yokoffing /Betterfox",
+            "description": "Firefox user.js for speed, privacy, and security. Your favorite browser, but better.",
+            "stars": "6,054",
+            "forks": "149",
+            "language": "JavaScript",
+            "stars_today": "121 stars this week"
+        },
+        {
+            "zh_des": "可供出版的神经网络体系结构示意图。",
+            "url": "https://github.com/alexlenail/NN-SVG",
+            "name": "alexlenail /NN-SVG",
+            "description": "Publication-ready NN-architecture schematics.",
+            "stars": "5,084",
+            "forks": "675",
+            "language": "JavaScript",
+            "stars_today": "240 stars this week"
+        },
+        {
+            "zh_des": "Js的✨标准库。✨",
+            "url": "https://github.com/stdlib-js/stdlib",
+            "name": "stdlib-js /stdlib",
+            "description": "✨ Standard library for JavaScript and Node.js. ✨",
+            "stars": "4,498",
+            "forks": "486",
+            "language": "JavaScript",
+            "stars_today": "75 stars this week"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "229,247",
+            "forks": "46,947",
+            "language": "JavaScript",
+            "stars_today": "294 stars this week"
+        },
+        {
+            "zh_des": "ReactJS面试问答500强榜单……编码练习题马上就要来了！！",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "name": "sudheerj /reactjs-interview-questions",
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+            "stars": "39,939",
+            "forks": "9,459",
+            "language": "JavaScript",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "免费的隐私友好型屏幕录像机，没有限制🎥",
+            "url": "https://github.com/alyssaxuu/screenity",
+            "name": "alyssaxuu /screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "stars": "12,592",
+            "forks": "975",
+            "language": "JavaScript",
+            "stars_today": "333 stars this week"
+        },
+        {
+            "zh_des": "这是关于邮递员挑战的文档帮助的All in One位置。",
+            "url": "https://github.com/GSSoC24/Postman-Challenge",
+            "name": "GSSoC24 /Postman-Challenge",
+            "description": "This is the all in one place for documentation help regarding the postman challenge.",
+            "stars": "215",
+            "forks": "3,057",
+            "language": "JavaScript",
+            "stars_today": "46 stars this week"
+        },
+        {
+            "zh_des": "Java动画引擎",
+            "url": "https://github.com/juliangarnier/anime",
+            "name": "juliangarnier /anime",
+            "description": "JavaScript animation engine",
+            "stars": "50,329",
+            "forks": "3,684",
+            "language": "JavaScript",
+            "stars_today": "426 stars this week"
+        },
+        {
+            "zh_des": "本文原文由知名黑客埃里克·S·雷蒙德所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+            "name": "ryanhanwu /How-To-Ask-Questions-The-Smart-Way",
+            "description": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+            "stars": "31,058",
+            "forks": "5,653",
+            "language": "JavaScript",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "9,587",
+            "forks": "3,705",
+            "language": "JavaScript",
+            "stars_today": "37 stars this week"
+        }
+    ]
+}
