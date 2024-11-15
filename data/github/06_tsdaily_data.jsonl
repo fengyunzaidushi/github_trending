@@ -70646,3 +70646,207 @@
         }
     ]
 }
+{
+    "11月15日": [
+        {
+            "zh_des": "后台是用于构建开发人员门户的开放框架",
+            "url": "https://github.com/backstage/backstage",
+            "name": "backstage /backstage",
+            "description": "Backstage is an open framework for building developer portals",
+            "stars": "28,331",
+            "forks": "6,032",
+            "language": "TypeScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "推特和不和谐的对话代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Conversational Agent for Twitter and Discord",
+            "stars": "961",
+            "forks": "271",
+            "language": "TypeScript",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "用于Next.js应用程序的生产级Turborepo模板。",
+            "url": "https://github.com/haydenbleasel/next-forge",
+            "name": "haydenbleasel /next-forge",
+            "description": "Production-grade Turborepo template for Next.js apps.",
+            "stars": "3,420",
+            "forks": "271",
+            "language": "TypeScript",
+            "stars_today": "728 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "19,787",
+            "forks": "1,679",
+            "language": "TypeScript",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Spacedrive是一个开源的跨平台文件资源管理器，由Rust编写的虚拟分布式文件系统提供支持。",
+            "url": "https://github.com/spacedriveapp/spacedrive",
+            "name": "spacedriveapp /spacedrive",
+            "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+            "stars": "32,829",
+            "forks": "968",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "Aura类似于Siri，但在你的浏览器中。一款针对低延迟响应进行了优化的AI语音助手。",
+            "url": "https://github.com/ntegrals/aura-voice",
+            "name": "ntegrals /aura-voice",
+            "description": "Aura is like Siri, but in your browser. An AI voice assistant optimized for low latency responses.",
+            "stars": "678",
+            "forks": "53",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "AWS云开发工具包是用于在代码中定义云基础架构的框架",
+            "url": "https://github.com/aws/aws-cdk",
+            "name": "aws /aws-cdk",
+            "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+            "stars": "11,676",
+            "forks": "3,927",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Evolution API是一个开源的WhatsApp集成API",
+            "url": "https://github.com/EvolutionAPI/evolution-api",
+            "name": "EvolutionAPI /evolution-api",
+            "description": "Evolution API is an open-source WhatsApp integration API",
+            "stars": "1,940",
+            "forks": "1,082",
+            "language": "TypeScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "48,871",
+            "forks": "7,748",
+            "language": "TypeScript",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "使用静态类型推理的TypeScrip优先模式验证",
+            "url": "https://github.com/colinhacks/zod",
+            "name": "colinhacks /zod",
+            "description": "TypeScript-first schema validation with static type inference",
+            "stars": "34,015",
+            "forks": "1,188",
+            "language": "TypeScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "信心十足地交付Web应用程序🚀",
+            "url": "https://github.com/angular/angular",
+            "name": "angular /angular",
+            "description": "Deliver web apps with confidence 🚀",
+            "stars": "96,223",
+            "forks": "25,497",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "73,736",
+            "forks": "7,126",
+            "language": "TypeScript",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "1,147",
+            "forks": "409",
+            "language": "TypeScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,636",
+            "forks": "466",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Material UI：全面的Reaction组件库，实现了Google的Material Design。永远自由。",
+            "url": "https://github.com/mui/material-ui",
+            "name": "mui /material-ui",
+            "description": "Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.",
+            "stars": "93,956",
+            "forks": "32,273",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Storybook是独立构建、记录和测试UI组件的行业标准研讨会",
+            "url": "https://github.com/storybookjs/storybook",
+            "name": "storybookjs /storybook",
+            "description": "Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation",
+            "stars": "84,677",
+            "forks": "9,319",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "11,031",
+            "forks": "1,389",
+            "language": "TypeScript",
+            "stars_today": "176 stars today"
+        },
+        {
+            "zh_des": "用于Reaction和JavaScript的现代动画库",
+            "url": "https://github.com/motiondivision/motion",
+            "name": "motiondivision /motion",
+            "description": "A modern animation library for React and JavaScript",
+            "stars": "24,572",
+            "forks": "824",
+            "language": "TypeScript",
+            "stars_today": "452 stars today"
+        },
+        {
+            "zh_des": "🔥将整个网站转变为支持LLm的降价或结构化数据。只需一个API即可抓取、抓取和提取。",
+            "url": "https://github.com/mendableai/firecrawl",
+            "name": "mendableai /firecrawl",
+            "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.",
+            "stars": "18,606",
+            "forks": "1,417",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "开放式网络威胁情报平台",
+            "url": "https://github.com/OpenCTI-Platform/opencti",
+            "name": "OpenCTI-Platform /opencti",
+            "description": "Open Cyber Threat Intelligence Platform",
+            "stars": "6,400",
+            "forks": "946",
+            "language": "TypeScript",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
