@@ -62008,3 +62008,187 @@
         }
     ]
 }
+{
+    "11月16日": [
+        {
+            "zh_des": "这是一个Repo，其中包含您想要了解的有关数据工程的所有内容的链接",
+            "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+            "name": "DataExpert-io /data-engineer-handbook",
+            "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+            "stars": "13,864",
+            "forks": "2,128",
+            "language": "Makefile",
+            "stars_today": "985 stars today"
+        },
+        {
+            "zh_des": "一站式、开源、高质量的数据提取工具，支持PDF/网页/电子书提取。一站式开源高质量数据提取工具，支持pdf/网页/多格式电子书提取。",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。",
+            "stars": "16,763",
+            "forks": "1,212",
+            "language": "Python",
+            "stars_today": "1,129 stars today"
+        },
+        {
+            "zh_des": "LLM支持的多智能体角色模拟，可增强想象力和商业洞察力。",
+            "url": "https://github.com/microsoft/TinyTroupe",
+            "name": "microsoft /TinyTroupe",
+            "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+            "stars": "3,081",
+            "forks": "178",
+            "language": "Python",
+            "stars_today": "409 stars today"
+        },
+        {
+            "zh_des": "黑色星期五的超值优惠：应用程序、SaaS、图书、课程等。",
+            "url": "https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday",
+            "name": "trungdq88 /Awesome-Black-Friday-Cyber-Monday",
+            "description": "Awesome deals on Black Friday: Apps, SaaS, Books, Courses, etc.",
+            "stars": "4,496",
+            "forks": "903",
+            "language": "",
+            "stars_today": "89 stars today"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "7,676",
+            "forks": "2,190",
+            "language": "Jupyter Notebook",
+            "stars_today": "163 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "275,896",
+            "forks": "46,329",
+            "language": "Python",
+            "stars_today": "237 stars today"
+        },
+        {
+            "zh_des": "开源开发平台，支持您的整个基础设施，并将脚本转换为WebHook、工作流和用户界面。最快的工作流程引擎(13倍于气流)。开源，替代重组和时态。",
+            "url": "https://github.com/windmill-labs/windmill",
+            "name": "windmill-labs /windmill",
+            "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.",
+            "stars": "10,692",
+            "forks": "517",
+            "language": "HTML",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "用于Next.js应用程序的生产级Turborepo模板。",
+            "url": "https://github.com/haydenbleasel/next-forge",
+            "name": "haydenbleasel /next-forge",
+            "description": "Production-grade Turborepo template for Next.js apps.",
+            "stars": "3,566",
+            "forks": "282",
+            "language": "TypeScript",
+            "stars_today": "164 stars today"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "2,490",
+            "forks": "160",
+            "language": "Python",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "托伦蒂奥",
+            "url": "https://github.com/TheBeastLT/torrentio-scraper",
+            "name": "TheBeastLT /torrentio-scraper",
+            "description": "Torrentio",
+            "stars": "789",
+            "forks": "101",
+            "language": "JavaScript",
+            "stars_today": "280 stars today"
+        },
+        {
+            "zh_des": "黑客的递归互联网扫描器。",
+            "url": "https://github.com/blacklanternsecurity/bbot",
+            "name": "blacklanternsecurity /bbot",
+            "description": "A recursive internet scanner for hackers.",
+            "stars": "5,474",
+            "forks": "458",
+            "language": "Python",
+            "stars_today": "273 stars today"
+        },
+        {
+            "zh_des": "嵌入式图形库，可为任何MCU、MPU和显示器类型创建漂亮的用户界面。",
+            "url": "https://github.com/lvgl/lvgl",
+            "name": "lvgl /lvgl",
+            "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+            "stars": "16,798",
+            "forks": "3,268",
+            "language": "C",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "LibSQL是SQLite的一个分支，它既是开源的，也是开放贡献的。",
+            "url": "https://github.com/tursodatabase/libsql",
+            "name": "tursodatabase /libsql",
+            "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+            "stars": "11,211",
+            "forks": "286",
+            "language": "C",
+            "stars_today": "297 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的OSX(MacOS)。",
+            "url": "https://github.com/dockur/macos",
+            "name": "dockur /macos",
+            "description": "OSX (macOS) inside a Docker container.",
+            "stars": "7,999",
+            "forks": "274",
+            "language": "Python",
+            "stars_today": "526 stars today"
+        },
+        {
+            "zh_des": "连接、保护、控制和观察服务。",
+            "url": "https://github.com/istio/istio",
+            "name": "istio /istio",
+            "description": "Connect, secure, control, and observe services.",
+            "stars": "36,020",
+            "forks": "7,778",
+            "language": "Go",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "15,260",
+            "forks": "2,111",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "科技爱好者周刊，每周五发布",
+            "url": "https://github.com/ruanyf/weekly",
+            "name": "ruanyf /weekly",
+            "description": "科技爱好者周刊，每周五发布",
+            "stars": "47,751",
+            "forks": "2,875",
+            "language": "",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "56,740",
+            "forks": "6,011",
+            "language": "Python",
+            "stars_today": "85 stars today"
+        }
+    ]
+}
