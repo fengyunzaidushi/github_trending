@@ -29718,3 +29718,197 @@
         }
     ]
 }
+{
+    "11月17日": [
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "5,668",
+            "forks": "406",
+            "language": "Vue",
+            "stars_today": "427 stars this week"
+        },
+        {
+            "zh_des": "VUE3+PINIA仿抖音，VUE在移动端的最佳实践.模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "9,832",
+            "forks": "2,704",
+            "language": "Vue",
+            "stars_today": "208 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "11,924",
+            "forks": "1,296",
+            "language": "Vue",
+            "stars_today": "216 stars this week"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,002",
+            "forks": "30,477",
+            "language": "Vue",
+            "stars_today": "103 stars this week"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "2,883",
+            "forks": "312",
+            "language": "Vue",
+            "stars_today": "62 stars this week"
+        },
+        {
+            "zh_des": "本项目乃是基于Vue与Nuxt.js技术打造的网盘搜索项目，持续开源并保持维护更新.其旨在让人人皆可拥有属于自己的网盘搜索网站.强烈建议自行部署，向所有参与者致敬！向所有人致敬！",
+            "url": "https://github.com/unilei/aipan-netdisk-search",
+            "name": "unilei /aipan-netdisk-search",
+            "description": "本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!",
+            "stars": "1,358",
+            "forks": "540",
+            "language": "Vue",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,083",
+            "forks": "529",
+            "language": "Vue",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "22,978",
+            "forks": "2,782",
+            "language": "Vue",
+            "stars_today": "225 stars this week"
+        },
+        {
+            "zh_des": "⚡具有分析功能的简单、快速、安全的链接缩短器，100%运行在CloudFlare上。",
+            "url": "https://github.com/ccbikai/Sink",
+            "name": "ccbikai /Sink",
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "stars": "2,924",
+            "forks": "1,550",
+            "language": "Vue",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "5,207",
+            "forks": "305",
+            "language": "Vue",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "CSGHub是一个开源的大型模型平台，就像内部版本的拥抱脸。您可以使用用户界面轻松管理模型和数据集、部署模型应用程序以及设置模型微调或推理作业。CSGHub还为Python SDK提供了与HF SDK完全兼容的功能。携手共建更安全、更开放的⭐️平台",
+            "url": "https://github.com/OpenCSGs/csghub",
+            "name": "OpenCSGs /csghub",
+            "description": "CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️",
+            "stars": "3,006",
+            "forks": "465",
+            "language": "Vue",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景:海报生成、电商产品图、文章长图、视频/公众号封面等.一个漂亮的在线形象设计师，适合各种场景，比如生成海报，让设计变得更容易！",
+            "url": "https://github.com/palxiao/poster-design",
+            "name": "palxiao /poster-design",
+            "description": "一款漂亮且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",
+            "stars": "3,723",
+            "forks": "577",
+            "language": "Vue",
+            "stars_today": "29 stars this week"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,323",
+            "forks": "787",
+            "language": "Vue",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "🚀一款简洁高效的VuePress知识管理&博客(博客)主题",
+            "url": "https://github.com/xugaoyi/vuepress-theme-vdoing",
+            "name": "xugaoyi /vuepress-theme-vdoing",
+            "description": "🚀一款简洁高效的VuePress知识管理&博客(blog)主题",
+            "stars": "4,560",
+            "forks": "1,165",
+            "language": "Vue",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "面向Web的Vue.js 2.0用户界面工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,127",
+            "forks": "14,637",
+            "language": "Vue",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "24,779",
+            "forks": "2,732",
+            "language": "Vue",
+            "stars_today": "69 stars this week"
+        },
+        {
+            "zh_des": "🎉(若易)官方仓库基于SpringBoot、春泉安全、智威汤逊、VUE3和VITE、Element Plus的前后端分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "4,948",
+            "forks": "2,003",
+            "language": "Vue",
+            "stars_today": "47 stars this week"
+        },
+        {
+            "zh_des": "开源节点订阅转换生成管理系统",
+            "url": "https://github.com/gooaclok819/sublinkX",
+            "name": "gooaclok819 /sublinkX",
+            "description": "开源节点订阅转换生成管理系统",
+            "stars": "281",
+            "forks": "55",
+            "language": "Vue",
+            "stars_today": "38 stars this week"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,615",
+            "forks": "241",
+            "language": "Vue",
+            "stars_today": "22 stars this week"
+        }
+    ]
+}
