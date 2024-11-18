@@ -71868,3 +71868,177 @@
         }
     ]
 }
+{
+    "11月18日": [
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "6,092",
+            "forks": "448",
+            "language": "JavaScript",
+            "stars_today": "1,027 stars this week"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "229,392",
+            "forks": "46,972",
+            "language": "JavaScript",
+            "stars_today": "324 stars this week"
+        },
+        {
+            "zh_des": "📝是一个简单而优雅的标记编辑器，适用于linux、macos和windows。",
+            "url": "https://github.com/marktext/marktext",
+            "name": "marktext /marktext",
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+            "stars": "47,442",
+            "forks": "3,521",
+            "language": "JavaScript",
+            "stars_today": "224 stars this week"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "27,323",
+            "forks": "2,739",
+            "language": "JavaScript",
+            "stars_today": "596 stars this week"
+        },
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,796",
+            "forks": "8,840",
+            "language": "JavaScript",
+            "stars_today": "53 stars this week"
+        },
+        {
+            "zh_des": "轻量级全功能文字脚本/Java脚本WhatsApp Web API",
+            "url": "https://github.com/WhiskeySockets/Baileys",
+            "name": "WhiskeySockets /Baileys",
+            "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+            "stars": "4,045",
+            "forks": "1,368",
+            "language": "JavaScript",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "27,423",
+            "forks": "1,261",
+            "language": "JavaScript",
+            "stars_today": "366 stars this week"
+        },
+        {
+            "zh_des": "VNC客户端Web应用程序",
+            "url": "https://github.com/novnc/noVNC",
+            "name": "novnc /noVNC",
+            "description": "VNC client web application",
+            "stars": "11,689",
+            "forks": "2,317",
+            "language": "JavaScript",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "一个还算强大的WEB思维导图.相对强大的网络思维导图。",
+            "url": "https://github.com/wanglin2/mind-map",
+            "name": "wanglin2 /mind-map",
+            "description": "一个还算强大的Web思维导图。A relatively powerful web mind map.",
+            "stars": "6,629",
+            "forks": "948",
+            "language": "JavaScript",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "免费的隐私友好型屏幕录像机，没有限制🎥",
+            "url": "https://github.com/alyssaxuu/screenity",
+            "name": "alyssaxuu /screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "stars": "12,652",
+            "forks": "980",
+            "language": "JavaScript",
+            "stars_today": "388 stars this week"
+        },
+        {
+            "zh_des": "语料库的抽象和推理",
+            "url": "https://github.com/fchollet/ARC-AGI",
+            "name": "fchollet /ARC-AGI",
+            "description": "The Abstraction and Reasoning Corpus",
+            "stars": "3,557",
+            "forks": "592",
+            "language": "JavaScript",
+            "stars_today": "58 stars this week"
+        },
+        {
+            "zh_des": "🌐🔌MetaMASK浏览器扩展支持浏览启用了以太区块链的网站",
+            "url": "https://github.com/MetaMask/metamask-extension",
+            "name": "MetaMask /metamask-extension",
+            "description": "🌐 🔌 The MetaMask browser extension enables browsing Ethereum blockchain enabled websites",
+            "stars": "12,056",
+            "forks": "4,925",
+            "language": "JavaScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "6,248",
+            "forks": "1,923",
+            "language": "JavaScript",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "具有语言自动检测和零依赖的JavaScript语法高亮笔。",
+            "url": "https://github.com/highlightjs/highlight.js",
+            "name": "highlightjs /highlight.js",
+            "description": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
+            "stars": "23,739",
+            "forks": "3,603",
+            "language": "JavaScript",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "🎮开源、跨平台的2D/3D/多人游戏引擎，专为每个人设计。",
+            "url": "https://github.com/4ian/GDevelop",
+            "name": "4ian /GDevelop",
+            "description": "🎮 Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+            "stars": "11,372",
+            "forks": "873",
+            "language": "JavaScript",
+            "stars_today": "189 stars this week"
+        },
+        {
+            "zh_des": "🍃移动友好型交互式地图的JAVASCRIPT库🇺🇦",
+            "url": "https://github.com/Leaflet/Leaflet",
+            "name": "Leaflet /Leaflet",
+            "description": "🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦",
+            "stars": "41,457",
+            "forks": "5,846",
+            "language": "JavaScript",
+            "stars_today": "74 stars this week"
+        },
+        {
+            "zh_des": "用JAVASCRIPT实现的📝算法和数据结构及其解释和指向更多阅读资料的链接",
+            "url": "https://github.com/trekhleb/javascript-algorithms",
+            "name": "trekhleb /javascript-algorithms",
+            "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+            "stars": "188,510",
+            "forks": "30,269",
+            "language": "JavaScript",
+            "stars_today": "211 stars this week"
+        }
+    ]
+}

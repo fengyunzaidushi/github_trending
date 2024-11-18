@@ -72924,3 +72924,207 @@
         }
     ]
 }
+{
+    "11月18日": [
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "9,841",
+            "forks": "468",
+            "language": "Python",
+            "stars_today": "8,894 stars this month"
+        },
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "29,109",
+            "forks": "1,985",
+            "language": "Shell",
+            "stars_today": "11,253 stars this month"
+        },
+        {
+            "zh_des": "1位LLMS的官方推理框架",
+            "url": "https://github.com/microsoft/BitNet",
+            "name": "microsoft /BitNet",
+            "description": "Official inference framework for 1-bit LLMs",
+            "stars": "11,210",
+            "forks": "760",
+            "language": "C++",
+            "stars_today": "11,223 stars this month"
+        },
+        {
+            "zh_des": "用记忆、知识、工具和推理构建AI代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "15,392",
+            "forks": "2,123",
+            "language": "Python",
+            "stars_today": "3,997 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "59,996",
+            "forks": "7,377",
+            "language": "Python",
+            "stars_today": "3,435 stars this month"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "9,500",
+            "forks": "2,408",
+            "language": "TypeScript",
+            "stars_today": "2,969 stars this month"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "55,493",
+            "forks": "4,826",
+            "language": "Python",
+            "stars_today": "3,000 stars this month"
+        },
+        {
+            "zh_des": "PDF将使用视觉模型进行降价",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "PDF to Markdown with vision models",
+            "stars": "6,341",
+            "forks": "346",
+            "language": "Python",
+            "stars_today": "4,598 stars this month"
+        },
+        {
+            "zh_des": "您可以使用自己的API Hub来学习和掌握API交互。非常适合前端、移动开发人员和后端开发人员。",
+            "url": "https://github.com/hiteshchoudhary/apihub",
+            "name": "hiteshchoudhary /apihub",
+            "description": "Your own API Hub to learn and master API interaction. Ideal for frontend, mobile dev and backend developers.",
+            "stars": "6,780",
+            "forks": "1,085",
+            "language": "JavaScript",
+            "stars_today": "3,160 stars this month"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "7,962",
+            "forks": "2,244",
+            "language": "Jupyter Notebook",
+            "stars_today": "701 stars this month"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "39,445",
+            "forks": "2,537",
+            "language": "Python",
+            "stars_today": "2,041 stars this month"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "19,315",
+            "forks": "1,047",
+            "language": "Python",
+            "stars_today": "1,994 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "11,354",
+            "forks": "1,446",
+            "language": "TypeScript",
+            "stars_today": "2,817 stars this month"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "17,482",
+            "forks": "1,259",
+            "language": "Python",
+            "stars_today": "4,194 stars this month"
+        },
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "2,105",
+            "forks": "255",
+            "language": "JavaScript",
+            "stars_today": "1,218 stars this month"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "34,361",
+            "forks": "4,963",
+            "language": "Python",
+            "stars_today": "2,288 stars this month"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "15,376",
+            "forks": "768",
+            "language": "Python",
+            "stars_today": "2,478 stars this month"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "4,079",
+            "forks": "184",
+            "language": "TypeScript",
+            "stars_today": "2,405 stars this month"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "32,943",
+            "forks": "4,265",
+            "language": "JavaScript",
+            "stars_today": "3,079 stars this month"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "36,890",
+            "forks": "4,190",
+            "language": "Python",
+            "stars_today": "3,939 stars this month"
+        }
+    ]
+}
