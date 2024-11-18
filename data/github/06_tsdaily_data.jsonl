@@ -71626,3 +71626,167 @@
         }
     ]
 }
+{
+    "11月18日": [
+        {
+            "zh_des": "推特和不和谐的对话代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Conversational Agent for Twitter and Discord",
+            "stars": "1,298",
+            "forks": "343",
+            "language": "TypeScript",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "15,235",
+            "forks": "1,456",
+            "language": "TypeScript",
+            "stars_today": "118 stars today"
+        },
+        {
+            "zh_des": "Org的开源代码库和课程。免费学习编程。",
+            "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+            "name": "freeCodeCamp /freeCodeCamp",
+            "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.",
+            "stars": "405,649",
+            "forks": "38,055",
+            "language": "TypeScript",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "1,187",
+            "forks": "429",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "11,297",
+            "forks": "1,437",
+            "language": "TypeScript",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "收集打字稿类型挑战与在线评委",
+            "url": "https://github.com/type-challenges/type-challenges",
+            "name": "type-challenges /type-challenges",
+            "description": "Collection of TypeScript type challenges with online judge",
+            "stars": "43,410",
+            "forks": "4,709",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "4,052",
+            "forks": "182",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "Lexical是一个可扩展的文本编辑器框架，它提供了出色的可靠性、可访问性和性能。",
+            "url": "https://github.com/facebook/lexical",
+            "name": "facebook /lexical",
+            "description": "Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.",
+            "stars": "19,884",
+            "forks": "1,686",
+            "language": "TypeScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "44,657",
+            "forks": "10,025",
+            "language": "TypeScript",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "启动完整堆栈、类型安全的Next.js应用程序的最佳方式",
+            "url": "https://github.com/t3-oss/create-t3-app",
+            "name": "t3-oss /create-t3-app",
+            "description": "The best way to start a full-stack, typesafe Next.js app",
+            "stars": "25,534",
+            "forks": "1,176",
+            "language": "TypeScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "6,717",
+            "forks": "472",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "ComfyUI官方前端实现",
+            "url": "https://github.com/Comfy-Org/ComfyUI_frontend",
+            "name": "Comfy-Org /ComfyUI_frontend",
+            "description": "Official front-end implementation of ComfyUI",
+            "stars": "617",
+            "forks": "111",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "面向AI模型/LLM(GPT、Claude、Gemini、Ollama...)的用户友好的桌面客户端应用程序",
+            "url": "https://github.com/Bin-Huang/chatbox",
+            "name": "Bin-Huang /chatbox",
+            "description": "User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)",
+            "stars": "21,962",
+            "forks": "2,207",
+            "language": "TypeScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "设计精美的组件，您可以复制并粘贴到您的应用程序中。无障碍。可定制。开放源码。",
+            "url": "https://github.com/shadcn-ui/ui",
+            "name": "shadcn-ui /ui",
+            "description": "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
+            "stars": "74,723",
+            "forks": "4,646",
+            "language": "TypeScript",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "更智能地运营您的业务🪄",
+            "url": "https://github.com/midday-ai/midday",
+            "name": "midday-ai /midday",
+            "description": "Run your business smarter 🪄",
+            "stars": "5,825",
+            "forks": "528",
+            "language": "TypeScript",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "现代最简约的JS精通组合",
+            "url": "https://github.com/adrianhajdin/portfolio",
+            "name": "adrianhajdin /portfolio",
+            "description": "Modern & Minimal JS Mastery Portfolio",
+            "stars": "2,542",
+            "forks": "537",
+            "language": "TypeScript",
+            "stars_today": "12 stars today"
+        }
+    ]
+}
