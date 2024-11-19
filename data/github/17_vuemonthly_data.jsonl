@@ -30828,3 +30828,187 @@
         }
     ]
 }
+{
+    "11月19日": [
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "5,799",
+            "forks": "417",
+            "language": "Vue",
+            "stars_today": "1,518 stars this month"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "25,393",
+            "forks": "6,909",
+            "language": "Vue",
+            "stars_today": "601 stars this month"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "18,065",
+            "forks": "1,362",
+            "language": "Vue",
+            "stars_today": "840 stars this month"
+        },
+        {
+            "zh_des": "VUE3+PINIA仿抖音，VUE在移动端的最佳实践.模仿TikTok、Vue在移动领域的最佳实践",
+            "url": "https://github.com/zyronon/douyin",
+            "name": "zyronon /douyin",
+            "description": "Vue3 + Pinia 仿抖音，Vue 在移动端的最佳实践 . Imitate TikTok ，Vue Best practices on Mobile",
+            "stars": "9,874",
+            "forks": "2,713",
+            "language": "Vue",
+            "stars_today": "612 stars this month"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,033",
+            "forks": "30,477",
+            "language": "Vue",
+            "stars_today": "376 stars this month"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商城免费开源多语言商城系统、Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、应用程序，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "6,038",
+            "forks": "1,501",
+            "language": "Vue",
+            "stars_today": "551 stars this month"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "5,224",
+            "forks": "308",
+            "language": "Vue",
+            "stars_today": "445 stars this month"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "12,029",
+            "forks": "1,308",
+            "language": "Vue",
+            "stars_today": "533 stars this month"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "2,909",
+            "forks": "312",
+            "language": "Vue",
+            "stars_today": "235 stars this month"
+        },
+        {
+            "zh_des": "芋道管理后台，基于VUE3+Element Plus实现，支持RBAC动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP、AI大模型等功能。",
+            "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+            "name": "yudaocode /yudao-ui-admin-vue3",
+            "description": "芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
+            "stars": "1,763",
+            "forks": "762",
+            "language": "Vue",
+            "stars_today": "119 stars this month"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,622",
+            "forks": "243",
+            "language": "Vue",
+            "stars_today": "113 stars this month"
+        },
+        {
+            "zh_des": "本项目乃是基于Vue与Nuxt.js技术打造的网盘搜索项目，持续开源并保持维护更新.其旨在让人人皆可拥有属于自己的网盘搜索网站.强烈建议自行部署，向所有参与者致敬！向所有人致敬！",
+            "url": "https://github.com/unilei/aipan-netdisk-search",
+            "name": "unilei /aipan-netdisk-search",
+            "description": "本项目乃是基于 Vue 与 Nuxt.js 技术打造的网盘搜索项目，持续开源并保持维护更新。其旨在让人人皆可拥有属于自己的网盘搜索网站。强烈建议自行部署，向所有参与者致敬！Salute to all!",
+            "stars": "1,377",
+            "forks": "544",
+            "language": "Vue",
+            "stars_today": "312 stars this month"
+        },
+        {
+            "zh_des": "📱图形屏幕显示和控制安卓，由电子设备供电。",
+            "url": "https://github.com/viarotel-org/escrcpy",
+            "name": "viarotel-org /escrcpy",
+            "description": "📱 Graphical Scrcpy to display and control Android, devices powered by Electron.",
+            "stars": "2,629",
+            "forks": "194",
+            "language": "Vue",
+            "stars_today": "187 stars this month"
+        },
+        {
+            "zh_des": "云Flare免费临时域名电子邮件免费收发临时域名邮箱支持附件IMAP SMTP Telegram Bot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "2,619",
+            "forks": "991",
+            "language": "Vue",
+            "stars_today": "319 stars this month"
+        },
+        {
+            "zh_des": "朴素的用户界面管理是一款基于VUE 3、VITE 3和打字脚本的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目.无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "5,010",
+            "forks": "933",
+            "language": "Vue",
+            "stars_today": "73 stars this month"
+        },
+        {
+            "zh_des": "☀️A vue3管理员模板|vue3管理员/元素加管理员/vite管理员/vue3模板/vue3后台/vue3模板/vue3后台管理系统",
+            "url": "https://github.com/un-pany/v3-admin-vite",
+            "name": "un-pany /v3-admin-vite",
+            "description": "☀️ A vue3 admin template | vue3 admin/element plus admin/vite admin/vue3 template/vue3 后台/vue3 模板/vue3 后台管理系统",
+            "stars": "5,295",
+            "forks": "896",
+            "language": "Vue",
+            "stars_today": "187 stars this month"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,336",
+            "forks": "786",
+            "language": "Vue",
+            "stars_today": "134 stars this month"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "10,605",
+            "forks": "1,235",
+            "language": "Vue",
+            "stars_today": "389 stars this month"
+        }
+    ]
+}
