@@ -63966,3 +63966,147 @@
         }
     ]
 }
+{
+    "11月20日": [
+        {
+            "zh_des": "针对黑客的循环互联网扫描仪。",
+            "url": "https://github.com/blacklanternsecurity/bbot",
+            "name": "blacklanternsecurity /bbot",
+            "description": "A recursive internet scanner for hackers.",
+            "stars": "6,452",
+            "forks": "502",
+            "language": "Python",
+            "stars_today": "267 stars today"
+        },
+        {
+            "zh_des": "LangFlow是一款针对RAG和多代理AI应用程序的低代码应用程序构建器。它基于Python，并且与任何模型、API或数据库无关。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "34,774",
+            "forks": "4,167",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "免费、开源加密货币交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "30,678",
+            "forks": "6,320",
+            "language": "Python",
+            "stars_today": "383 stars today"
+        },
+        {
+            "zh_des": "Python中的张量和动态神经网络，具有强大的图形处理器加速",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "84,279",
+            "forks": "22,692",
+            "language": "Python",
+            "stars_today": "150 stars today"
+        },
+        {
+            "zh_des": "官方gpt 4free存储库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "61,953",
+            "forks": "13,359",
+            "language": "Python",
+            "stars_today": "235 stars today"
+        },
+        {
+            "zh_des": "Python打包和依赖项管理变得简单",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "31,769",
+            "forks": "2,273",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "让你“爱”在GitHub上，解决访问时图破裂，添加的问题。（无需安装）",
+            "url": "https://github.com/521xueweihan/GitHub520",
+            "name": "521xueweihan /GitHub520",
+            "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+            "stars": "22,831",
+            "forks": "2,264",
+            "language": "Python",
+            "stars_today": "116 stars today"
+        },
+        {
+            "zh_des": "Apache AirFlow -一个以编程方式创作、安排和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "37,216",
+            "forks": "14,325",
+            "language": "Python",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "RAG的AutoML工具",
+            "url": "https://github.com/Marker-Inc-Korea/AutoRAG",
+            "name": "Marker-Inc-Korea /AutoRAG",
+            "description": "AutoML tool for RAG",
+            "stars": "2,744",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而非预算语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "18,962",
+            "forks": "1,450",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "使用行业领先的机器学习数据引擎CVAT更好地注释。任何规模的团队使用和信任任何规模的数据。",
+            "url": "https://github.com/cvat-ai/cvat",
+            "name": "cvat-ai /cvat",
+            "description": "Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.",
+            "stars": "12,648",
+            "forks": "3,014",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "机器学习生命周期的开源平台",
+            "url": "https://github.com/mlflow/mlflow",
+            "name": "mlflow /mlflow",
+            "description": "Open source platform for the machine learning lifecycle",
+            "stars": "18,819",
+            "forks": "4,246",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "LLM漏洞扫描器",
+            "url": "https://github.com/NVIDIA/garak",
+            "name": "NVIDIA /garak",
+            "description": "the LLM vulnerability scanner",
+            "stars": "2,656",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "旨在与Lama模型一起使用的实用程序。",
+            "url": "https://github.com/meta-llama/llama-models",
+            "name": "meta-llama /llama-models",
+            "description": "Utilities intended for use with Llama models.",
+            "stars": "4,856",
+            "forks": "836",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        }
+    ]
+}

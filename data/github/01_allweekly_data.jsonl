@@ -67578,3 +67578,217 @@
         }
     ]
 }
+{
+    "11月20日": [
+        {
+            "zh_des": "这是一个Repo，其中包含您想要了解的有关数据工程的所有内容的链接",
+            "url": "https://github.com/DataExpert-io/data-engineer-handbook",
+            "name": "DataExpert-io /data-engineer-handbook",
+            "description": "This is a repo with links to everything you'd ever want to learn about data engineering",
+            "stars": "19,469",
+            "forks": "2,846",
+            "language": "Makefile",
+            "stars_today": "5,479 stars this week"
+        },
+        {
+            "zh_des": "LLM支持的多智能体角色模拟，可增强想象力和商业洞察力。",
+            "url": "https://github.com/microsoft/TinyTroupe",
+            "name": "microsoft /TinyTroupe",
+            "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+            "stars": "3,835",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "2,766 stars this week"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "17,818",
+            "forks": "1,285",
+            "language": "Python",
+            "stars_today": "3,800 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的OSX(MacOS)。",
+            "url": "https://github.com/dockur/macos",
+            "name": "dockur /macos",
+            "description": "OSX (macOS) inside a Docker container.",
+            "stars": "8,694",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "6,354 stars this week"
+        },
+        {
+            "zh_des": "推特和不和谐的对话代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Conversational Agent for Twitter and Discord",
+            "stars": "1,765",
+            "forks": "456",
+            "language": "TypeScript",
+            "stars_today": "975 stars this week"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "30,678",
+            "forks": "6,320",
+            "language": "Python",
+            "stars_today": "1,460 stars this week"
+        },
+        {
+            "zh_des": "用于Next.js应用程序的生产级Turborepo模板。",
+            "url": "https://github.com/haydenbleasel/next-forge",
+            "name": "haydenbleasel /next-forge",
+            "description": "Production-grade Turborepo template for Next.js apps.",
+            "stars": "3,883",
+            "forks": "302",
+            "language": "TypeScript",
+            "stars_today": "1,839 stars this week"
+        },
+        {
+            "zh_des": "Google Cloud上的生成式AI的示例代码和笔记本，Vertex AI上的Gemini",
+            "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+            "name": "GoogleCloudPlatform /generative-ai",
+            "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI",
+            "stars": "8,038",
+            "forks": "2,274",
+            "language": "Jupyter Notebook",
+            "stars_today": "619 stars this week"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "15,663",
+            "forks": "779",
+            "language": "Python",
+            "stars_today": "1,031 stars this week"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "2,804",
+            "forks": "186",
+            "language": "Python",
+            "stars_today": "1,547 stars this week"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "80,491",
+            "forks": "8,030",
+            "language": "Shell",
+            "stars_today": "414 stars this week"
+        },
+        {
+            "zh_des": "🤖是开放人工智能、克劳德和其他软件的免费、开源替代品。自托管和本地优先。OpenAI的临时替代品，运行在消费级硬件上。不需要图形处理器。运行GGUF、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理",
+            "url": "https://github.com/mudler/LocalAI",
+            "name": "mudler /LocalAI",
+            "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+            "stars": "26,009",
+            "forks": "1,950",
+            "language": "Go",
+            "stars_today": "898 stars this week"
+        },
+        {
+            "zh_des": "奈飞级别的字幕剪切、翻译、对齐，甚至配音--一键全自动AI视频字幕团队|奈飞级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "url": "https://github.com/Huanshere/VideoLingo",
+            "name": "Huanshere /VideoLingo",
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "stars": "6,837",
+            "forks": "671",
+            "language": "Python",
+            "stars_today": "1,210 stars this week"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "6,040",
+            "forks": "440",
+            "language": "Python",
+            "stars_today": "2,495 stars this week"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "34,539",
+            "forks": "4,990",
+            "language": "Python",
+            "stars_today": "887 stars this week"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "11,618",
+            "forks": "1,481",
+            "language": "TypeScript",
+            "stars_today": "1,075 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "276,758",
+            "forks": "46,428",
+            "language": "Python",
+            "stars_today": "1,673 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "15,331",
+            "forks": "822",
+            "language": "Python",
+            "stars_today": "2,449 stars this week"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "15,973",
+            "forks": "1,499",
+            "language": "TypeScript",
+            "stars_today": "1,071 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "157,782",
+            "forks": "52,464",
+            "language": "Python",
+            "stars_today": "654 stars this week"
+        },
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "6,164",
+            "forks": "456",
+            "language": "JavaScript",
+            "stars_today": "912 stars this week"
+        }
+    ]
+}

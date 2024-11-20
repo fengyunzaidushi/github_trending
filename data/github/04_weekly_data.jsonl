@@ -66830,3 +66830,187 @@
         }
     ]
 }
+{
+    "11月20日": [
+        {
+            "zh_des": "LLM支持的多智能体角色模拟，可增强想象力和商业洞察力。",
+            "url": "https://github.com/microsoft/TinyTroupe",
+            "name": "microsoft /TinyTroupe",
+            "description": "LLM-powered multiagent persona simulation for imagination enhancement and business insights.",
+            "stars": "3,835",
+            "forks": "258",
+            "language": "Python",
+            "stars_today": "2,766 stars this week"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "17,818",
+            "forks": "1,285",
+            "language": "Python",
+            "stars_today": "3,800 stars this week"
+        },
+        {
+            "zh_des": "Docker容器中的OSX(MacOS)。",
+            "url": "https://github.com/dockur/macos",
+            "name": "dockur /macos",
+            "description": "OSX (macOS) inside a Docker container.",
+            "stars": "8,694",
+            "forks": "312",
+            "language": "Python",
+            "stars_today": "6,354 stars this week"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "30,678",
+            "forks": "6,320",
+            "language": "Python",
+            "stars_today": "1,460 stars this week"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "15,663",
+            "forks": "779",
+            "language": "Python",
+            "stars_today": "1,031 stars this week"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "2,804",
+            "forks": "186",
+            "language": "Python",
+            "stars_today": "1,547 stars this week"
+        },
+        {
+            "zh_des": "奈飞级别的字幕剪切、翻译、对齐，甚至配音--一键全自动AI视频字幕团队|奈飞级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "url": "https://github.com/Huanshere/VideoLingo",
+            "name": "Huanshere /VideoLingo",
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "stars": "6,837",
+            "forks": "671",
+            "language": "Python",
+            "stars_today": "1,210 stars this week"
+        },
+        {
+            "zh_des": "获取QQ空间发布的历史说说",
+            "url": "https://github.com/LibraHp/GetQzonehistory",
+            "name": "LibraHp /GetQzonehistory",
+            "description": "获取QQ空间发布的历史说说",
+            "stars": "6,040",
+            "forks": "440",
+            "language": "Python",
+            "stars_today": "2,495 stars this week"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "34,539",
+            "forks": "4,990",
+            "language": "Python",
+            "stars_today": "887 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "276,758",
+            "forks": "46,428",
+            "language": "Python",
+            "stars_today": "1,673 stars this week"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "15,331",
+            "forks": "822",
+            "language": "Python",
+            "stars_today": "2,449 stars this week"
+        },
+        {
+            "zh_des": "巨蟒--100天从新手到大师",
+            "url": "https://github.com/jackfrued/Python-100-Days",
+            "name": "jackfrued /Python-100-Days",
+            "description": "Python - 100天从新手到大师",
+            "stars": "157,782",
+            "forks": "52,464",
+            "language": "Python",
+            "stars_today": "654 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "18,284",
+            "forks": "2,807",
+            "language": "Python",
+            "stars_today": "578 stars this week"
+        },
+        {
+            "zh_des": "黑客的递归互联网扫描器。",
+            "url": "https://github.com/blacklanternsecurity/bbot",
+            "name": "blacklanternsecurity /bbot",
+            "description": "A recursive internet scanner for hackers.",
+            "stars": "6,452",
+            "forks": "502",
+            "language": "Python",
+            "stars_today": "1,447 stars this week"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "61,953",
+            "forks": "13,359",
+            "language": "Python",
+            "stars_today": "644 stars this week"
+        },
+        {
+            "zh_des": "你喜欢火炬吗？你喜欢微格勒吗？你爱丁尼格勒！❤️",
+            "url": "https://github.com/tinygrad/tinygrad",
+            "name": "tinygrad /tinygrad",
+            "description": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+            "stars": "26,919",
+            "forks": "2,991",
+            "language": "Python",
+            "stars_today": "91 stars this week"
+        },
+        {
+            "zh_des": "Nexa SDK是一个支持ONNX和GGML模型的综合工具包。它支持文本生成、图像生成、视觉语言模型(VLM)、自动语音识别(ASR)和文本到语音(TTS)功能。",
+            "url": "https://github.com/NexaAI/nexa-sdk",
+            "name": "NexaAI /nexa-sdk",
+            "description": "Nexa SDK is a comprehensive toolkit for supporting ONNX and GGML models. It supports text generation, image generation, vision-language models (VLM), auto-speech-recognition (ASR), and text-to-speech (TTS) capabilities.",
+            "stars": "3,933",
+            "forks": "577",
+            "language": "Python",
+            "stars_today": "527 stars this week"
+        },
+        {
+            "zh_des": "😘让你“爱”上GitHub，解决访问时图裂、加载慢的问题.(无需安装)",
+            "url": "https://github.com/521xueweihan/GitHub520",
+            "name": "521xueweihan /GitHub520",
+            "description": "😘 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）",
+            "stars": "22,831",
+            "forks": "2,264",
+            "language": "Python",
+            "stars_today": "427 stars this week"
+        }
+    ]
+}
