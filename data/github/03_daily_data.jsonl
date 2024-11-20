@@ -63802,3 +63802,167 @@
         }
     ]
 }
+{
+    "11月20日": [
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "30,518",
+            "forks": "6,312",
+            "language": "Python",
+            "stars_today": "662 stars today"
+        },
+        {
+            "zh_des": "黑客的递归互联网扫描器。",
+            "url": "https://github.com/blacklanternsecurity/bbot",
+            "name": "blacklanternsecurity /bbot",
+            "description": "A recursive internet scanner for hackers.",
+            "stars": "6,345",
+            "forks": "498",
+            "language": "Python",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "LLM漏洞扫描程序",
+            "url": "https://github.com/NVIDIA/garak",
+            "name": "NVIDIA /garak",
+            "description": "the LLM vulnerability scanner",
+            "stars": "2,609",
+            "forks": "231",
+            "language": "Python",
+            "stars_today": "464 stars today"
+        },
+        {
+            "zh_des": "被动记录项目允许您完全控制您的数据。一个完全由你掌控数据的“被动记录”项目.",
+            "url": "https://github.com/arkohut/pensieve",
+            "name": "arkohut /pensieve",
+            "description": "A passive recording project allows you to have complete control over your data. 一个完全由你掌控数据的「被动记录」项目。",
+            "stars": "572",
+            "forks": "15",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "官方gpt4Free资源库|各种强大的语言模型集合",
+            "url": "https://github.com/xtekky/gpt4free",
+            "name": "xtekky /gpt4free",
+            "description": "The official gpt4free repository | various collection of powerful language models",
+            "stars": "61,851",
+            "forks": "13,354",
+            "language": "Python",
+            "stars_today": "257 stars today"
+        },
+        {
+            "zh_des": "强GPU加速的Python语言中的张量和动态神经网络",
+            "url": "https://github.com/pytorch/pytorch",
+            "name": "pytorch /pytorch",
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "stars": "84,218",
+            "forks": "22,684",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "一种简单、易于破解的GraphRAG实现",
+            "url": "https://github.com/gusye1234/nano-graphrag",
+            "name": "gusye1234 /nano-graphrag",
+            "description": "A simple, easy-to-hack GraphRAG implementation",
+            "stars": "1,587",
+            "forks": "153",
+            "language": "Python",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "276,695",
+            "forks": "46,418",
+            "language": "Python",
+            "stars_today": "203 stars today"
+        },
+        {
+            "zh_des": "一种高吞吐量、高内存效率的LLMS推理服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "30,492",
+            "forks": "4,619",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "使用来自Coqui TTS的Calibre和Xtts以及可选的语音克隆生成带有章节和电子书元数据的有声读物，并支持多种语言",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook",
+            "name": "DrewThomasson /ebook2audiobook",
+            "description": "Generates an audiobook with chapters and ebook metadata using Calibre and Xtts from Coqui tts, and with optional voice cloning, and supports multiple languages",
+            "stars": "1,021",
+            "forks": "96",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "🚀MaxKB是一款基于大语言模型和RAG的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "🚀 MaxKB 是一款基于大语言模型和 RAG 的开源知识库问答系统，广泛应用于智能客服、企业内部知识库、学术研究与教育等场景。",
+            "stars": "11,535",
+            "forks": "1,511",
+            "language": "Python",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "LLM实用指南：从基础到使用LLMOPS最佳实践将高级LLM和RAG应用程序部署到AWS",
+            "url": "https://github.com/PacktPublishing/LLM-Engineers-Handbook",
+            "name": "PacktPublishing /LLM-Engineers-Handbook",
+            "description": "The LLM's practical guide: From the fundamentals to deploying advanced LLM and RAG apps to AWS using LLMOps best practices",
+            "stars": "1,670",
+            "forks": "265",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "D-FINE：将DETR的回归任务重新定义为细粒度分布精化💥💥💥",
+            "url": "https://github.com/Peterande/D-FINE",
+            "name": "Peterande /D-FINE",
+            "description": "D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement 💥💥💥",
+            "stars": "948",
+            "forks": "72",
+            "language": "Python",
+            "stars_today": "117 stars today"
+        },
+        {
+            "zh_des": "SearXNG是一个免费的互联网元搜索引擎，它聚合了各种搜索服务和数据库的结果。用户既不会被跟踪，也不会被分析。",
+            "url": "https://github.com/searxng/searxng",
+            "name": "searxng /searxng",
+            "description": "SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.",
+            "stars": "14,007",
+            "forks": "1,457",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "19,243",
+            "forks": "1,901",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "[CVPR 2024口头]InternVL Family：GPT-40的开创性开源替代方案。接近Gpt-40表现的开源多模态对话模型",
+            "url": "https://github.com/OpenGVLab/InternVL",
+            "name": "OpenGVLab /InternVL",
+            "description": "[CVPR 2024 Oral] InternVL Family: A Pioneering Open-Source Alternative to GPT-4o. 接近GPT-4o表现的开源多模态对话模型",
+            "stars": "6,059",
+            "forks": "471",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
