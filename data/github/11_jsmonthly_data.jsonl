@@ -73657,3 +73657,227 @@
         }
     ]
 }
+{
+    "11月23日": [
+        {
+            "zh_des": "心意手艺🧠⛏️",
+            "url": "https://github.com/kolbytn/mindcraft",
+            "name": "kolbytn /mindcraft",
+            "description": "Mindcraft 🧠⛏️",
+            "stars": "2,268",
+            "forks": "273",
+            "language": "JavaScript",
+            "stars_today": "1,092 stars this month"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "33,104",
+            "forks": "4,282",
+            "language": "JavaScript",
+            "stars_today": "2,771 stars this month"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "60,197",
+            "forks": "5,382",
+            "language": "JavaScript",
+            "stars_today": "2,640 stars this month"
+        },
+        {
+            "zh_des": "免费、简单、直观的在线数据库图表编辑器和SQL生成器。",
+            "url": "https://github.com/drawdb-io/drawdb",
+            "name": "drawdb-io /drawdb",
+            "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
+            "stars": "22,722",
+            "forks": "1,583",
+            "language": "JavaScript",
+            "stars_today": "2,474 stars this month"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "19,337",
+            "forks": "4,319",
+            "language": "JavaScript",
+            "stars_today": "781 stars this month"
+        },
+        {
+            "zh_des": "最先进的网络机器学习。直接在浏览器中运行🤗Transformers，无需服务器！",
+            "url": "https://github.com/huggingface/transformers.js",
+            "name": "huggingface /transformers.js",
+            "description": "State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!",
+            "stars": "12,144",
+            "forks": "771",
+            "language": "JavaScript",
+            "stars_today": "762 stars this month"
+        },
+        {
+            "zh_des": "用于管理Nginx代理主机的Docker容器，具有简单、强大的界面",
+            "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+            "name": "NginxProxyManager /nginx-proxy-manager",
+            "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+            "stars": "23,289",
+            "forks": "2,696",
+            "language": "JavaScript",
+            "stars_today": "705 stars this month"
+        },
+        {
+            "zh_des": "可视化解释变压器：了解LLM变压器模型如何使用交互式可视化",
+            "url": "https://github.com/poloclub/transformer-explainer",
+            "name": "poloclub /transformer-explainer",
+            "description": "Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization",
+            "stars": "3,411",
+            "forks": "298",
+            "language": "JavaScript",
+            "stars_today": "615 stars this month"
+        },
+        {
+            "zh_des": "Docs.githorb.com的开源回购",
+            "url": "https://github.com/github/docs",
+            "name": "github /docs",
+            "description": "The open-source repo for docs.github.com",
+            "stars": "16,395",
+            "forks": "59,968",
+            "language": "JavaScript",
+            "stars_today": "199 stars this month"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "1,100",
+            "forks": "13,251",
+            "language": "JavaScript",
+            "stars_today": "130 stars this month"
+        },
+        {
+            "zh_des": "具有Windows、MacOS、Linux和Web同步和备份功能的现代电子书管理器和阅读器",
+            "url": "https://github.com/koodo-reader/koodo-reader",
+            "name": "koodo-reader /koodo-reader",
+            "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+            "stars": "19,171",
+            "forks": "1,480",
+            "language": "JavaScript",
+            "stars_today": "779 stars this month"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "35,262",
+            "forks": "4,200",
+            "language": "JavaScript",
+            "stars_today": "3,214 stars this month"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "46,487",
+            "forks": "3,628",
+            "language": "JavaScript",
+            "stars_today": "1,107 stars this month"
+        },
+        {
+            "zh_des": "漂亮和一致的图标工具包，由社区制作。开源项目和羽毛图标的一个分支。",
+            "url": "https://github.com/lucide-icons/lucide",
+            "name": "lucide-icons /lucide",
+            "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+            "stars": "11,450",
+            "forks": "524",
+            "language": "JavaScript",
+            "stars_today": "649 stars this month"
+        },
+        {
+            "zh_des": "这是一个面向Java脚本和朋友的捆绑包。将许多模块打包到几个捆绑的资源中。代码拆分允许按需加载部分应用程序。通过“加载器”，模块可以是CommonJs，AMD，ES6模块，CSS，Images，JSON，Coffeescrip，LESS，...还有你的定制物品。",
+            "url": "https://github.com/webpack/webpack",
+            "name": "webpack /webpack",
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "stars": "64,809",
+            "forks": "8,842",
+            "language": "JavaScript",
+            "stars_today": "235 stars this month"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源、可自行托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "26,634",
+            "forks": "1,777",
+            "language": "JavaScript",
+            "stars_today": "1,186 stars this month"
+        },
+        {
+            "zh_des": "Fay是一个开源的数字人类框架，集成了语言模型和数字字符。它为不同的应用提供零售、助理和代理版本，如虚拟导购、广播、助理、服务员、教师和基于语音或文本的移动助理。",
+            "url": "https://github.com/xszyou/Fay",
+            "name": "xszyou /Fay",
+            "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+            "stars": "9,256",
+            "forks": "1,800",
+            "language": "JavaScript",
+            "stars_today": "264 stars this month"
+        },
+        {
+            "zh_des": "Js的✨标准库。✨",
+            "url": "https://github.com/stdlib-js/stdlib",
+            "name": "stdlib-js /stdlib",
+            "description": "✨ Standard library for JavaScript and Node.js. ✨",
+            "stars": "4,536",
+            "forks": "506",
+            "language": "JavaScript",
+            "stars_today": "169 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "27,670",
+            "forks": "1,279",
+            "language": "JavaScript",
+            "stars_today": "1,458 stars this month"
+        },
+        {
+            "zh_des": "免费的隐私友好型屏幕录像机，没有限制🎥",
+            "url": "https://github.com/alyssaxuu/screenity",
+            "name": "alyssaxuu /screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "stars": "12,888",
+            "forks": "1,007",
+            "language": "JavaScript",
+            "stars_today": "863 stars this month"
+        },
+        {
+            "zh_des": "VNC客户端Web应用程序",
+            "url": "https://github.com/novnc/noVNC",
+            "name": "novnc /noVNC",
+            "description": "VNC client web application",
+            "stars": "11,714",
+            "forks": "2,322",
+            "language": "JavaScript",
+            "stars_today": "202 stars this month"
+        },
+        {
+            "zh_des": "JavaScript 3D库。",
+            "url": "https://github.com/mrdoob/three.js",
+            "name": "mrdoob /three.js",
+            "description": "JavaScript 3D Library.",
+            "stars": "102,885",
+            "forks": "35,389",
+            "language": "JavaScript",
+            "stars_today": "658 stars this month"
+        }
+    ]
+}
