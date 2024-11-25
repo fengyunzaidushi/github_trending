@@ -75706,3 +75706,197 @@
         }
     ]
 }
+{
+    "11月25日": [
+        {
+            "zh_des": "Docker容器内的窗口。",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows inside a Docker container.",
+            "stars": "29,697",
+            "forks": "2,027",
+            "language": "Shell",
+            "stars_today": "11,867 stars this month"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "61,255",
+            "forks": "7,498",
+            "language": "Python",
+            "stars_today": "4,289 stars this month"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "18,374",
+            "forks": "1,313",
+            "language": "Python",
+            "stars_today": "5,159 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "23,437",
+            "forks": "2,426",
+            "language": "TypeScript",
+            "stars_today": "5,922 stars this month"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "31,217",
+            "forks": "6,363",
+            "language": "Python",
+            "stars_today": "2,687 stars this month"
+        },
+        {
+            "zh_des": "一个开源的轻量级笔记解决方案。轻松创建有意义的笔记的方法。你的笔记，你的方式。",
+            "url": "https://github.com/usememos/memos",
+            "name": "usememos /memos",
+            "description": "An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.",
+            "stars": "34,534",
+            "forks": "2,489",
+            "language": "Go",
+            "stars_today": "3,609 stars this month"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "37,339",
+            "forks": "4,225",
+            "language": "Python",
+            "stars_today": "4,323 stars this month"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "28,107",
+            "forks": "1,741",
+            "language": "TypeScript",
+            "stars_today": "3,494 stars this month"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主人工智能(例如，Gpt、Claude、Gemini、Allama、Qwen、Mistral)。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (e.g gpt, claude, gemini, llama, qwen, mistral).",
+            "stars": "16,101",
+            "forks": "794",
+            "language": "Python",
+            "stars_today": "3,268 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "12,439",
+            "forks": "1,590",
+            "language": "TypeScript",
+            "stars_today": "3,023 stars this month"
+        },
+        {
+            "zh_des": "使用LLMS和计算机视觉自动执行基于浏览器的工作流",
+            "url": "https://github.com/Skyvern-AI/skyvern",
+            "name": "Skyvern-AI /skyvern",
+            "description": "Automate browser-based workflows with LLMs and Computer Vision",
+            "stars": "10,667",
+            "forks": "734",
+            "language": "Python",
+            "stars_today": "4,645 stars this month"
+        },
+        {
+            "zh_des": "一种面向智能型AI🤖的编程框架",
+            "url": "https://github.com/microsoft/autogen",
+            "name": "microsoft /autogen",
+            "description": "A programming framework for agentic AI 🤖",
+            "stars": "34,777",
+            "forks": "5,033",
+            "language": "Python",
+            "stars_today": "2,585 stars this month"
+        },
+        {
+            "zh_des": "最好和最简单的免费开源网页变化检测，网站观察者，进货监控和通知服务。进货监控，变化检测。设计简单-只需监控哪些网站的文本更改是免费的。免费开源网页更改检测、网站污损监控、价格更改通知",
+            "url": "https://github.com/dgtlmoon/changedetection.io",
+            "name": "dgtlmoon /changedetection.io",
+            "description": "The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification",
+            "stars": "19,638",
+            "forks": "1,063",
+            "language": "Python",
+            "stars_today": "2,222 stars this month"
+        },
+        {
+            "zh_des": "🎨图作为云系统架构原型的代码",
+            "url": "https://github.com/mingrammer/diagrams",
+            "name": "mingrammer /diagrams",
+            "description": "🎨 Diagram as Code for prototyping cloud system architectures",
+            "stars": "39,655",
+            "forks": "2,543",
+            "language": "Python",
+            "stars_today": "2,191 stars this month"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "4,326",
+            "forks": "201",
+            "language": "TypeScript",
+            "stars_today": "2,456 stars this month"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡☘️🌊🎬🎥🏀🪁🎮🎵☘️🌊🎬央视、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/IPTV",
+            "name": "Guovin /IPTV",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "6,086",
+            "forks": "1,390",
+            "language": "Python",
+            "stars_today": "3,246 stars this month"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "7,073",
+            "forks": "505",
+            "language": "TypeScript",
+            "stars_today": "691 stars this month"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群📱💻🖥️⌚",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "15,870",
+            "forks": "844",
+            "language": "Python",
+            "stars_today": "5,085 stars this month"
+        },
+        {
+            "zh_des": "🤖是开放人工智能、克劳德和其他软件的免费、开源替代品。自托管和本地优先。OpenAI的临时替代品，运行在消费级硬件上。不需要图形处理器。运行GGUF、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理",
+            "url": "https://github.com/mudler/LocalAI",
+            "name": "mudler /LocalAI",
+            "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+            "stars": "26,280",
+            "forks": "1,970",
+            "language": "Go",
+            "stars_today": "2,164 stars this month"
+        }
+    ]
+}
