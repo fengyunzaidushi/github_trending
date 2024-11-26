@@ -65258,3 +65258,107 @@
         }
     ]
 }
+{
+    "11月26日": [
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "61,916",
+            "forks": "7,560",
+            "language": "Python",
+            "stars_today": "337 stars today"
+        },
+        {
+            "zh_des": "培训开放说明-遵循语言模型TODO，解锁设置工具当闪存中的这个问题得到解决时，如果你在AI2内部，你可以创建这样的形象：使用1个GPU快速调试运行使用8个GPU训练一个8B Tulu3模型使用8个GPU训练一个8B Tulu3模型使用8个GPU快速调试运行使用2个GPU(1个用于推理，1个用于培训)这里我们使用HuggingFaceTB/SmolLM2-360M-指令；它可能不起作用，但它很容易测试运行和打印",
+            "url": "https://github.com/allenai/open-instruct",
+            "name": "allenai /open-instruct",
+            "description": "Training Open Instruction-Following Language ModelsTODO, unpin setuptools when this issue in flash attention is resolvedif you are interally at AI2, you can create an image like this:quick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 2 GPU (1 for inference, 1 for training)here we are using HuggingFaceTB/SmolLM2-360M-Instruct; it's prob notgonna work, but it's easy to test run and print stuff",
+            "stars": "1,661",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "339,882",
+            "forks": "61,820",
+            "language": "HTML",
+            "stars_today": "342 stars today"
+        },
+        {
+            "zh_des": "一个免费的、开源的、多平台的SQLite数据库管理器。",
+            "url": "https://github.com/pawelsalawa/sqlitestudio",
+            "name": "pawelsalawa /sqlitestudio",
+            "description": "A free, open source, multi-platform SQLite database manager.",
+            "stars": "5,092",
+            "forks": "578",
+            "language": "C",
+            "stars_today": "202 stars today"
+        },
+        {
+            "zh_des": "轻松制作人工智能驱动的界面🤖",
+            "url": "https://github.com/ant-design/x",
+            "name": "ant-design /x",
+            "description": "Craft AI-driven interfaces effortlessly 🤖",
+            "stars": "467",
+            "forks": "28",
+            "language": "TypeScript",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "56,196",
+            "forks": "4,855",
+            "language": "Python",
+            "stars_today": "266 stars today"
+        },
+        {
+            "zh_des": "使使用着色器变得更容易",
+            "url": "https://github.com/shader-slang/slang",
+            "name": "shader-slang /slang",
+            "description": "Making it easier to work with shaders",
+            "stars": "2,996",
+            "forks": "210",
+            "language": "C++",
+            "stars_today": "111 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "52,782",
+            "forks": "7,715",
+            "language": "TypeScript",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "一个先进成熟的开源MPP(大规模并行处理)数据库。Greenplum数据库的开源替代方案。",
+            "url": "https://github.com/apache/cloudberry",
+            "name": "apache /cloudberry",
+            "description": "One advanced and mature open-source MPP (Massively Parallel Processing) database. Open source alternative to Greenplum Database.",
+            "stars": "531",
+            "forks": "109",
+            "language": "C",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一套适用于ESP32的WiFi/蓝牙攻防工具",
+            "url": "https://github.com/justcallmekoko/ESP32Marauder",
+            "name": "justcallmekoko /ESP32Marauder",
+            "description": "A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32",
+            "stars": "6,064",
+            "forks": "645",
+            "language": "C++",
+            "stars_today": "24 stars today"
+        }
+    ]
+}

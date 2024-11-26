@@ -65754,3 +65754,137 @@
         }
     ]
 }
+{
+    "11月26日": [
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "61,916",
+            "forks": "7,560",
+            "language": "Python",
+            "stars_today": "337 stars today"
+        },
+        {
+            "zh_des": "培训开放说明-遵循语言模型TODO，解锁设置工具当闪存中的这个问题得到解决时，如果你在AI2内部，你可以创建这样的形象：使用1个GPU快速调试运行使用8个GPU训练一个8B Tulu3模型使用8个GPU训练一个8B Tulu3模型使用8个GPU快速调试运行使用2个GPU(1个用于推理，1个用于培训)这里我们使用HuggingFaceTB/SmolLM2-360M-指令；它可能不起作用，但它很容易测试运行和打印",
+            "url": "https://github.com/allenai/open-instruct",
+            "name": "allenai /open-instruct",
+            "description": "Training Open Instruction-Following Language ModelsTODO, unpin setuptools when this issue in flash attention is resolvedif you are interally at AI2, you can create an image like this:quick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 2 GPU (1 for inference, 1 for training)here we are using HuggingFaceTB/SmolLM2-360M-Instruct; it's prob notgonna work, but it's easy to test run and print stuff",
+            "stars": "1,661",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "95 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "56,196",
+            "forks": "4,855",
+            "language": "Python",
+            "stars_today": "266 stars today"
+        },
+        {
+            "zh_des": "Cloud-init官方上游：云实例初始化",
+            "url": "https://github.com/canonical/cloud-init",
+            "name": "canonical /cloud-init",
+            "description": "Official upstream for the cloud-init: cloud instance initialization",
+            "stars": "3,006",
+            "forks": "887",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "剧作家测试和自动化库的Python版本。",
+            "url": "https://github.com/microsoft/playwright-python",
+            "name": "microsoft /playwright-python",
+            "description": "Python version of the Playwright testing and automation library.",
+            "stars": "11,920",
+            "forks": "916",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "LightGlue：光速局部特征匹配(ICCV 2023)",
+            "url": "https://github.com/cvg/LightGlue",
+            "name": "cvg /LightGlue",
+            "description": "LightGlue: Local Feature Matching at Light Speed (ICCV 2023)",
+            "stars": "3,433",
+            "forks": "339",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "11,795",
+            "forks": "4,289",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "135,511",
+            "forks": "27,121",
+            "language": "Python",
+            "stars_today": "64 stars today"
+        },
+        {
+            "zh_des": "LlamaIndex是您的LLM应用程序的数据框架",
+            "url": "https://github.com/run-llama/llama_index",
+            "name": "run-llama /llama_index",
+            "description": "LlamaIndex is a data framework for your LLM applications",
+            "stars": "36,985",
+            "forks": "5,303",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "318,714",
+            "forks": "33,934",
+            "language": "Python",
+            "stars_today": "365 stars today"
+        },
+        {
+            "zh_des": "分布式任务队列(开发分支)",
+            "url": "https://github.com/celery/celery",
+            "name": "celery /celery",
+            "description": "Distributed Task Queue (development branch)",
+            "stars": "24,946",
+            "forks": "4,677",
+            "language": "Python",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于Frappe框架和ERPNext的生产和开发设置的Docker图像",
+            "url": "https://github.com/frappe/frappe_docker",
+            "name": "frappe /frappe_docker",
+            "description": "Docker images for production and development setups of the Frappe framework and ERPNext",
+            "stars": "1,509",
+            "forks": "1,398",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "[ECCV 2024]论文《接地恐龙：与开放场景目标探测接地预训练的恐龙结婚》的正式实施",
+            "url": "https://github.com/IDEA-Research/GroundingDINO",
+            "name": "IDEA-Research /GroundingDINO",
+            "description": "[ECCV 2024] Official implementation of the paper \"Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection\"",
+            "stars": "6,831",
+            "forks": "693",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
