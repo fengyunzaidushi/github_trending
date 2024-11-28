@@ -75488,3 +75488,157 @@
         }
     ]
 }
+{
+    "11月28日": [
+        {
+            "zh_des": "标志性的SVG、字体和CSS工具包",
+            "url": "https://github.com/FortAwesome/Font-Awesome",
+            "name": "FortAwesome /Font-Awesome",
+            "description": "The iconic SVG, font, and CSS toolkit",
+            "stars": "74,302",
+            "forks": "12,206",
+            "language": "JavaScript",
+            "stars_today": "573 stars this week"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "27,856",
+            "forks": "1,290",
+            "language": "JavaScript",
+            "stars_today": "351 stars this week"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "35,952",
+            "forks": "4,254",
+            "language": "JavaScript",
+            "stars_today": "1,076 stars this week"
+        },
+        {
+            "zh_des": "具有Windows、MacOS、Linux和Web同步和备份功能的现代电子书管理器和阅读器",
+            "url": "https://github.com/koodo-reader/koodo-reader",
+            "name": "koodo-reader /koodo-reader",
+            "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+            "stars": "19,352",
+            "forks": "1,494",
+            "language": "JavaScript",
+            "stars_today": "543 stars this week"
+        },
+        {
+            "zh_des": "梅谢里，云本地经理",
+            "url": "https://github.com/meshery/meshery",
+            "name": "meshery /meshery",
+            "description": "Meshery, the cloud native manager",
+            "stars": "6,282",
+            "forks": "1,908",
+            "language": "JavaScript",
+            "stars_today": "158 stars this week"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "6,362",
+            "forks": "1,954",
+            "language": "JavaScript",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "运行V2ray Inside Edge/无服务器运行时",
+            "url": "https://github.com/zizifn/edgetunnel",
+            "name": "zizifn /edgetunnel",
+            "description": "Running V2ray inside edge/serverless runtime",
+            "stars": "7,253",
+            "forks": "26,062",
+            "language": "JavaScript",
+            "stars_today": "97 stars this week"
+        },
+        {
+            "zh_des": "一个跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "name": "GitSquared /edex-ui",
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+            "stars": "40,864",
+            "forks": "2,585",
+            "language": "JavaScript",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "📡️vCard中国黄页-优化iOS/安卓来电、信息界面体验",
+            "url": "https://github.com/metowolf/vCards",
+            "name": "metowolf /vCards",
+            "description": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+            "stars": "4,999",
+            "forks": "233",
+            "language": "JavaScript",
+            "stars_today": "238 stars this week"
+        },
+        {
+            "zh_des": "开源的SSH、VNC和RDP服务器管理软件",
+            "url": "https://github.com/gnmyt/Nexterm",
+            "name": "gnmyt /Nexterm",
+            "description": "The open source server management software for SSH, VNC & RDP",
+            "stars": "1,982",
+            "forks": "69",
+            "language": "JavaScript",
+            "stars_today": "131 stars this week"
+        },
+        {
+            "zh_des": "🤖一个基于微信结合开放AI微信GPT/kimi/讯飞等Ai服务实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "url": "https://github.com/wangrongding/wechat-bot",
+            "name": "wangrongding /wechat-bot",
+            "description": "🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "stars": "5,559",
+            "forks": "767",
+            "language": "JavaScript",
+            "stars_today": "99 stars this week"
+        },
+        {
+            "zh_des": "NerfiesWebsite许可证这是包含Nerfies网站源代码的存储库",
+            "url": "https://github.com/nerfies/nerfies.github.io",
+            "name": "nerfies /nerfies.github.io",
+            "description": "NerfiesWebsite LicenseThis is the repository that contains source code for the Nerfies website",
+            "stars": "2,629",
+            "forks": "936",
+            "language": "JavaScript",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "7,140",
+            "forks": "938",
+            "language": "JavaScript",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "这是一个专门为新贡献者策划任务的项目列表。这些问题是开始一个项目的一个很好的方式，或者帮助分担开源项目的工作负担。跳上来吧！",
+            "url": "https://github.com/up-for-grabs/up-for-grabs.net",
+            "name": "up-for-grabs /up-for-grabs.net",
+            "description": "This is a list of projects which have curated tasks specifically for new contributors. These issues are a great way to get started with a project, or to help share the load of working on open source projects. Jump in!",
+            "stars": "5,436",
+            "forks": "2,081",
+            "language": "JavaScript",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "Draw.io的官方电子建设",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "51,002",
+            "forks": "5,038",
+            "language": "JavaScript",
+            "stars_today": "152 stars this week"
+        }
+    ]
+}

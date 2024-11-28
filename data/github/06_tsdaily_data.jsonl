@@ -75510,3 +75510,167 @@
         }
     ]
 }
+{
+    "11月28日": [
+        {
+            "zh_des": "用于TypeScrip和JavaScript的ORM。支持MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP HANA、WebSQL数据库。适用于NodeJS、Browser、Ionic、Cordova和Electron平台。",
+            "url": "https://github.com/typeorm/typeorm",
+            "name": "typeorm /typeorm",
+            "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+            "stars": "34,340",
+            "forks": "6,328",
+            "language": "TypeScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "下一代前端工具。太快了！",
+            "url": "https://github.com/vitejs/vite",
+            "name": "vitejs /vite",
+            "description": "Next generation frontend tooling. It's fast!",
+            "stars": "68,918",
+            "forks": "6,230",
+            "language": "TypeScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多AI提供商(OpenAI/Claude 3/Gemini/Ollama/Azure/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS)和插件系统。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "45,106",
+            "forks": "10,167",
+            "language": "TypeScript",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "轻松制作人工智能驱动的界面🤖",
+            "url": "https://github.com/ant-design/x",
+            "name": "ant-design /x",
+            "description": "Craft AI-driven interfaces effortlessly 🤖",
+            "stars": "1,180",
+            "forks": "63",
+            "language": "TypeScript",
+            "stars_today": "240 stars today"
+        },
+        {
+            "zh_des": "👨‍💼Headshot AI-使用AI的专业头像(由Astria提供支持",
+            "url": "https://github.com/astriaai/headshots-starter",
+            "name": "astriaai /headshots-starter",
+            "description": "👨‍💼 Headshot AI - Professional Headshots with AI (powered by Astria",
+            "stars": "3,996",
+            "forks": "691",
+            "language": "TypeScript",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "ApacheSuperset是一个数据可视化和数据探索平台",
+            "url": "https://github.com/apache/superset",
+            "name": "apache /superset",
+            "description": "Apache Superset is a Data Visualization and Data Exploration Platform",
+            "stars": "63,005",
+            "forks": "13,957",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "49,938",
+            "forks": "8,090",
+            "language": "TypeScript",
+            "stars_today": "280 stars today"
+        },
+        {
+            "zh_des": "🎥使用Reaction以编程方式制作视频",
+            "url": "https://github.com/remotion-dev/remotion",
+            "name": "remotion-dev /remotion",
+            "description": "🎥 Make videos programmatically with React",
+            "stars": "20,930",
+            "forks": "1,057",
+            "language": "TypeScript",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "Js框架，用于使用TypeScrip/JavaScript🚀构建高效、可伸缩的企业级服务器端应用程序",
+            "url": "https://github.com/nestjs/nest",
+            "name": "nestjs /nest",
+            "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+            "stars": "67,992",
+            "forks": "7,658",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "开源的Firebase替代方案。Supabase为您提供了一个专用的Postgres数据库来构建您的Web、移动和AI应用程序。",
+            "url": "https://github.com/supabase/supabase",
+            "name": "supabase /supabase",
+            "description": "The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+            "stars": "74,322",
+            "forks": "7,213",
+            "language": "TypeScript",
+            "stars_today": "68 stars today"
+        },
+        {
+            "zh_des": "内容驱动型网站的Web框架。⭐️之星支持我们的工作！",
+            "url": "https://github.com/withastro/astro",
+            "name": "withastro /astro",
+            "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+            "stars": "47,056",
+            "forks": "2,501",
+            "language": "TypeScript",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "NestJS样板。Auth、TypeORM、Mongoose、Postgres、MongoDB、邮件、I18N、Docker。",
+            "url": "https://github.com/brocoders/nestjs-boilerplate",
+            "name": "brocoders /nestjs-boilerplate",
+            "description": "NestJS boilerplate. Auth, TypeORM, Mongoose, Postgres, MongoDB, Mailing, I18N, Docker.",
+            "stars": "3,230",
+            "forks": "664",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "功能齐全的Reaction组件库",
+            "url": "https://github.com/mantinedev/mantine",
+            "name": "mantinedev /mantine",
+            "description": "A fully featured React components library",
+            "stars": "26,928",
+            "forks": "1,900",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "用于在几分钟内构建业务应用程序和工作流程的低代码平台。支持PostgreSQL、MySQL、MariaDB、MSSQL、MongoDB、rest API、Docker、K8等🚀",
+            "url": "https://github.com/Budibase/budibase",
+            "name": "Budibase /budibase",
+            "description": "Low code platform for building business apps and workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀",
+            "stars": "22,813",
+            "forks": "1,582",
+            "language": "TypeScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "53,153",
+            "forks": "7,753",
+            "language": "TypeScript",
+            "stars_today": "125 stars today"
+        },
+        {
+            "zh_des": "🦄🦄🦄Uniswap v3的核心智能合同",
+            "url": "https://github.com/Uniswap/v3-core",
+            "name": "Uniswap /v3-core",
+            "description": "🦄 🦄 🦄 Core smart contracts of Uniswap v3",
+            "stars": "4,436",
+            "forks": "2,734",
+            "language": "TypeScript",
+            "stars_today": "1 star today"
+        }
+    ]
+}

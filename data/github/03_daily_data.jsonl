@@ -66310,3 +66310,167 @@
         }
     ]
 }
+{
+    "11月28日": [
+        {
+            "zh_des": "到多个生产性AI提供商的简单、统一的界面",
+            "url": "https://github.com/andrewyng/aisuite",
+            "name": "andrewyng /aisuite",
+            "description": "Simple, unified interface to multiple Generative AI providers",
+            "stars": "3,940",
+            "forks": "338",
+            "language": "Python",
+            "stars_today": "893 stars today"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "63,250",
+            "forks": "7,752",
+            "language": "Python",
+            "stars_today": "610 stars today"
+        },
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "1,946",
+            "forks": "478",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "56,830",
+            "forks": "4,891",
+            "language": "Python",
+            "stars_today": "380 stars today"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "4,921",
+            "forks": "408",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "58,261",
+            "forks": "6,185",
+            "language": "Python",
+            "stars_today": "159 stars today"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡☘️🌊🎬🎥🏀🪁🎮🎵☘️🌊🎬央视、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM64)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "6,417",
+            "forks": "1,455",
+            "language": "Python",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "统一高效微调100多个LLM(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "35,087",
+            "forks": "4,338",
+            "language": "Python",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：让高效的视频制作大众化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "22,387",
+            "forks": "2,189",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "DeepFast是一个深度学习优化库，它使分布式训练和推理变得简单、高效和有效。",
+            "url": "https://github.com/microsoft/DeepSpeed",
+            "name": "microsoft /DeepSpeed",
+            "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+            "stars": "35,645",
+            "forks": "4,140",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "21,741",
+            "forks": "3,012",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "开源警报管理和AIOps平台",
+            "url": "https://github.com/keephq/keep",
+            "name": "keephq /keep",
+            "description": "The open-source alert management and AIOps platform",
+            "stars": "5,154",
+            "forks": "705",
+            "language": "Python",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "我的Python示例",
+            "url": "https://github.com/geekcomputers/Python",
+            "name": "geekcomputers /Python",
+            "description": "My Python Examples",
+            "stars": "31,968",
+            "forks": "12,320",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "培训开放说明-遵循语言模型TODO，解锁设置工具当闪存中的这个问题得到解决时，如果你在AI2内部，你可以创建这样的形象：使用1个GPU快速调试运行使用8个GPU训练一个8B Tulu3模型使用8个GPU训练一个8B Tulu3模型使用8个GPU快速调试运行使用2个GPU(1个用于推理，1个用于培训)这里我们使用HuggingFaceTB/SmolLM2-360M-指令；它可能不起作用，但它很容易测试运行和打印",
+            "url": "https://github.com/allenai/open-instruct",
+            "name": "allenai /open-instruct",
+            "description": "Training Open Instruction-Following Language ModelsTODO, unpin setuptools when this issue in flash attention is resolvedif you are interally at AI2, you can create an image like this:quick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 2 GPU (1 for inference, 1 for training)here we are using HuggingFaceTB/SmolLM2-360M-Instruct; it's prob notgonna work, but it's easy to test run and print stuff",
+            "stars": "1,847",
+            "forks": "205",
+            "language": "Python",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "无需移动您的数据即可进行AI搜索和RAG。在确保数据安全的同时，从您公司的100多个应用程序的知识中获得即时答案。在几分钟内部署，而不是几个月。",
+            "url": "https://github.com/swirlai/swirl-search",
+            "name": "swirlai /swirl-search",
+            "description": "AI Search & RAG Without Moving Your Data. Get instant answers from your company's knowledge across 100+ apps while keeping data secure. Deploy in minutes, not months.",
+            "stars": "1,991",
+            "forks": "172",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "19,800",
+            "forks": "1,940",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        }
+    ]
+}
