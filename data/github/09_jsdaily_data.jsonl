@@ -72278,3 +72278,187 @@
         }
     ]
 }
+{
+    "11月28日": [
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "47,241",
+            "forks": "3,193",
+            "language": "JavaScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "用于WordPress及更高版本的块编辑器项目。插件可以从官方资源库获得。",
+            "url": "https://github.com/WordPress/gutenberg",
+            "name": "WordPress /gutenberg",
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+            "stars": "10,544",
+            "forks": "4,217",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一体式桌面和Docker AI应用程序，具有内置RAG、AI代理等功能。",
+            "url": "https://github.com/Mintplex-Labs/anything-llm",
+            "name": "Mintplex-Labs /anything-llm",
+            "description": "The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.",
+            "stars": "27,710",
+            "forks": "2,805",
+            "language": "JavaScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "开源的SSH、VNC和RDP服务器管理软件",
+            "url": "https://github.com/gnmyt/Nexterm",
+            "name": "gnmyt /Nexterm",
+            "description": "The open source server management software for SSH, VNC & RDP",
+            "stars": "1,970",
+            "forks": "68",
+            "language": "JavaScript",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "运行V2ray Inside Edge/无服务器运行时",
+            "url": "https://github.com/zizifn/edgetunnel",
+            "name": "zizifn /edgetunnel",
+            "description": "Running V2ray inside edge/serverless runtime",
+            "stars": "7,238",
+            "forks": "25,937",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "65,770",
+            "forks": "16,401",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一款奇特的自托管监控工具",
+            "url": "https://github.com/louislam/uptime-kuma",
+            "name": "louislam /uptime-kuma",
+            "description": "A fancy self-hosted monitoring tool",
+            "stars": "60,413",
+            "forks": "5,401",
+            "language": "JavaScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "社区精心策划的模板列表，供核心引擎查找安全漏洞。",
+            "url": "https://github.com/projectdiscovery/nuclei-templates",
+            "name": "projectdiscovery /nuclei-templates",
+            "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+            "stars": "9,364",
+            "forks": "2,657",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用于浏览器和node.js的基于Promise的HTTP客户端",
+            "url": "https://github.com/axios/axios",
+            "name": "axios /axios",
+            "description": "Promise based HTTP client for the browser and node.js",
+            "stars": "105,850",
+            "forks": "10,968",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "⚛️快速3kb反应与相同的现代应用编程接口的替代。组件和虚拟DOM。",
+            "url": "https://github.com/preactjs/preact",
+            "name": "preactjs /preact",
+            "description": "⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.",
+            "stars": "36,879",
+            "forks": "1,951",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "功能强大的富文本编辑器框架，具有模块化架构、现代集成和协作编辑等功能。",
+            "url": "https://github.com/ckeditor/ckeditor5",
+            "name": "ckeditor /ckeditor5",
+            "description": "Powerful rich text editor framework with a modular architecture, modern integrations, and features like collaborative editing.",
+            "stars": "9,644",
+            "forks": "3,706",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🎈全栈MERN电子商务应用",
+            "url": "https://github.com/mohamedsamara/mern-ecommerce",
+            "name": "mohamedsamara /mern-ecommerce",
+            "description": "🎈 Fullstack MERN Ecommerce Application",
+            "stars": "1,698",
+            "forks": "816",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,768",
+            "forks": "10,028",
+            "language": "JavaScript",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "与Odoo Web客户端UI相关的加载项",
+            "url": "https://github.com/OCA/web",
+            "name": "OCA /web",
+            "description": "Odoo web client UI related addons",
+            "stars": "951",
+            "forks": "1,899",
+            "language": "JavaScript",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "127,362",
+            "forks": "27,018",
+            "language": "JavaScript",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "30天的JavaScript编程挑战是一本在30天内学习JavaScript编程语言的循序渐进的指南。这项挑战可能需要100多天，请按照自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+            "name": "Asabeneh /30-Days-Of-JavaScript",
+            "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "43,405",
+            "forks": "10,059",
+            "language": "JavaScript",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "📡️vCard中国黄页-优化iOS/安卓来电、信息界面体验",
+            "url": "https://github.com/metowolf/vCards",
+            "name": "metowolf /vCards",
+            "description": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+            "stars": "4,991",
+            "forks": "233",
+            "language": "JavaScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "最全面的中国诗歌数据库🧶最全中华古诗词数据库，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗。两宋时期1564位词人，21050首词。",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "name": "chinese-poetry /chinese-poetry",
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+            "stars": "48,267",
+            "forks": "9,691",
+            "language": "JavaScript",
+            "stars_today": "15 stars today"
+        }
+    ]
+}
