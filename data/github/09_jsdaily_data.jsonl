@@ -72596,3 +72596,137 @@
         }
     ]
 }
+{
+    "11月29日": [
+        {
+            "zh_des": "对浏览器中运行的任何内容进行快速、简单且可靠的测试。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "47,387",
+            "forks": "3,198",
+            "language": "JavaScript",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "react框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "127,394",
+            "forks": "27,024",
+            "language": "JavaScript",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "Swagger UI是HTML、JavaScript和CSS资产的集合，可以从符合Swagger的API动态生成精美的文档。",
+            "url": "https://github.com/swagger-api/swagger-ui",
+            "name": "swagger-api /swagger-ui",
+            "description": "Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.",
+            "stars": "26,651",
+            "forks": "8,967",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "一个为Node.js从头开始编写的HTTP/1.1客户端",
+            "url": "https://github.com/nodejs/undici",
+            "name": "nodejs /undici",
+            "description": "An HTTP/1.1 client, written from scratch for Node.js",
+            "stars": "6,291",
+            "forks": "551",
+            "language": "JavaScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "MediaCMS是一个现代化的、功能齐全的开源视频和媒体CMS，用Python/Django和React编写，具有REST API。",
+            "url": "https://github.com/mediacms-io/mediacms",
+            "name": "mediacms-io /mediacms",
+            "description": "MediaCMS is a modern, fully featured open source video and media CMS, written in Python/Django and React, featuring a REST API.",
+            "stars": "2,922",
+            "forks": "538",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "用于自动化Web UI测试的无障碍引擎",
+            "url": "https://github.com/dequelabs/axe-core",
+            "name": "dequelabs /axe-core",
+            "description": "Accessibility engine for automated Web UI testing",
+            "stars": "6,032",
+            "forks": "784",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用于探索和测试Api ' s（邮递员/失眠症的轻量级替代品）的开源IDE",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "27,869",
+            "forks": "1,293",
+            "language": "JavaScript",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "几乎所有的记录器。",
+            "url": "https://github.com/winstonjs/winston",
+            "name": "winstonjs /winston",
+            "description": "A logger for just about everything.",
+            "stars": "22,966",
+            "forks": "1,816",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "最全面的中国诗歌数据库最全中华古典词数据库，两近一万四千人，近5.5万加26万。🧶两宋时期1564位词人，21050首词。",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "name": "chinese-poetry /chinese-poetry",
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+            "stars": "48,282",
+            "forks": "9,692",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "🌐互联网操作系统！免费、开源和可自托管。",
+            "url": "https://github.com/HeyPuter/puter",
+            "name": "HeyPuter /puter",
+            "description": "🌐 The Internet OS! Free, Open-Source, and Self-Hostable.",
+            "stars": "26,743",
+            "forks": "1,810",
+            "language": "JavaScript",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "查找并修复JavaScript代码中的问题。",
+            "url": "https://github.com/eslint/eslint",
+            "name": "eslint /eslint",
+            "description": "Find and fix problems in your JavaScript code.",
+            "stars": "25,180",
+            "forks": "4,557",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于网络的任务控制框架。",
+            "url": "https://github.com/nasa/openmct",
+            "name": "nasa /openmct",
+            "description": "A web based mission control framework.",
+            "stars": "12,093",
+            "forks": "1,259",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于Markdown/CommonMark文件的Node.js风格检查器和lint工具。",
+            "url": "https://github.com/DavidAnson/markdownlint",
+            "name": "DavidAnson /markdownlint",
+            "description": "A Node.js style checker and lint tool for Markdown/CommonMark files.",
+            "stars": "4,849",
+            "forks": "738",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        }
+    ]
+}

@@ -76420,3 +76420,187 @@
         }
     ]
 }
+{
+    "11月29日": [
+        {
+            "zh_des": "推特和不和谐的对话代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Conversational Agent for Twitter and Discord",
+            "stars": "2,339",
+            "forks": "654",
+            "language": "TypeScript",
+            "stars_today": "2,141 stars this month"
+        },
+        {
+            "zh_des": "由Vercel构建的全功能、可黑客攻击的Next.js AI聊天机器人",
+            "url": "https://github.com/vercel/ai-chatbot",
+            "name": "vercel /ai-chatbot",
+            "description": "A full-featured, hackable Next.js AI chatbot built by Vercel",
+            "stars": "9,888",
+            "forks": "2,502",
+            "language": "TypeScript",
+            "stars_today": "3,338 stars this month"
+        },
+        {
+            "zh_des": "打造一个Salesforce的现代替代品，由社区提供动力。",
+            "url": "https://github.com/twentyhq/twenty",
+            "name": "twentyhq /twenty",
+            "description": "Building a modern alternative to Salesforce, powered by the community.",
+            "stars": "23,682",
+            "forks": "2,440",
+            "language": "TypeScript",
+            "stars_today": "6,097 stars this month"
+        },
+        {
+            "zh_des": "PayLoad是开放源码的完整堆栈Next.js框架，为您提供即时的后端超能力。立即获得完整的打字脚本后端和管理面板。使用PayLoad作为无头CMS或构建功能强大的应用程序。",
+            "url": "https://github.com/payloadcms/payload",
+            "name": "payloadcms /payload",
+            "description": "Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications.",
+            "stars": "28,742",
+            "forks": "1,782",
+            "language": "TypeScript",
+            "stars_today": "4,018 stars this month"
+        },
+        {
+            "zh_des": "适用于网络、iOS和Android的Bluesky社交应用",
+            "url": "https://github.com/bluesky-social/social-app",
+            "name": "bluesky-social /social-app",
+            "description": "The Bluesky Social application for Web, iOS, and Android",
+            "stars": "13,122",
+            "forks": "1,681",
+            "language": "TypeScript",
+            "stars_today": "3,714 stars this month"
+        },
+        {
+            "zh_des": "一个独一无二的简历建造者，它会把你的隐私牢记在心。完全安全，可定制，可移植，开源，永远免费。今天就试试吧！",
+            "url": "https://github.com/AmruthPillai/Reactive-Resume",
+            "name": "AmruthPillai /Reactive-Resume",
+            "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+            "stars": "26,104",
+            "forks": "2,667",
+            "language": "TypeScript",
+            "stars_today": "2,700 stars this month"
+        },
+        {
+            "zh_des": "Perplexica是一款人工智能支持的搜索引擎。它是Pplexity AI的开源替代方案",
+            "url": "https://github.com/ItzCrazyKns/Perplexica",
+            "name": "ItzCrazyKns /Perplexica",
+            "description": "Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI",
+            "stars": "16,655",
+            "forks": "1,556",
+            "language": "TypeScript",
+            "stars_today": "2,406 stars this month"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "4,519",
+            "forks": "212",
+            "language": "TypeScript",
+            "stars_today": "2,433 stars this month"
+        },
+        {
+            "zh_des": "Bluesky创造的社交网络技术",
+            "url": "https://github.com/bluesky-social/atproto",
+            "name": "bluesky-social /atproto",
+            "description": "Social networking technology created by Bluesky",
+            "stars": "7,397",
+            "forks": "527",
+            "language": "TypeScript",
+            "stars_today": "1,043 stars this month"
+        },
+        {
+            "zh_des": "ATProto进给发电机启动器套件",
+            "url": "https://github.com/bluesky-social/feed-generator",
+            "name": "bluesky-social /feed-generator",
+            "description": "ATProto Feed Generator Starter Kit",
+            "stars": "1,423",
+            "forks": "499",
+            "language": "TypeScript",
+            "stars_today": "373 stars this month"
+        },
+        {
+            "zh_des": "对于喜欢阅读的人来说，杂食者是一个完整的、开源的、稍后阅读的解决方案。",
+            "url": "https://github.com/omnivore-app/omnivore",
+            "name": "omnivore-app /omnivore",
+            "description": "Omnivore is a complete, open source read-it-later solution for people who like reading.",
+            "stars": "13,989",
+            "forks": "1,019",
+            "language": "TypeScript",
+            "stars_today": "1,273 stars this month"
+        },
+        {
+            "zh_des": "开放、可组合的可观察性和数据可视化平台。可视化来自多个来源的指标、日志和跟踪，如Prometheus、Loki、Elasticearch、InfluxDB、Postgres等。",
+            "url": "https://github.com/grafana/grafana",
+            "name": "grafana /grafana",
+            "description": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+            "stars": "65,279",
+            "forks": "12,180",
+            "language": "TypeScript",
+            "stars_today": "796 stars this month"
+        },
+        {
+            "zh_des": "Univer是一个同构的全栈框架，用于跨客户端和服务器创建和编辑电子表格、文档和幻灯片。",
+            "url": "https://github.com/dream-num/univer",
+            "name": "dream-num /univer",
+            "description": "Univer is an isomorphic full-stack framework for creating and editing spreadsheets, docs, and slides across client and server.",
+            "stars": "7,495",
+            "forks": "648",
+            "language": "TypeScript",
+            "stars_today": "585 stars this month"
+        },
+        {
+            "zh_des": "您的Reaction原生应用程序的路线和导航",
+            "url": "https://github.com/react-navigation/react-navigation",
+            "name": "react-navigation /react-navigation",
+            "description": "Routing and navigation for your React Native apps",
+            "stars": "23,641",
+            "forks": "5,047",
+            "language": "TypeScript",
+            "stars_today": "126 stars this month"
+        },
+        {
+            "zh_des": "FastGPT是构建在LLMS之上的基于知识的平台，提供一整套开箱即用的功能，如数据处理、RAG检索和可视化AI工作流程编排，使您可以轻松开发和部署复杂的问答系统，而不需要进行大量设置或配置。",
+            "url": "https://github.com/labring/FastGPT",
+            "name": "labring /FastGPT",
+            "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+            "stars": "18,637",
+            "forks": "4,916",
+            "language": "TypeScript",
+            "stars_today": "911 stars this month"
+        },
+        {
+            "zh_des": "Dify是一个开源的LLM应用程序开发平台。Dify的直观界面结合了AI工作流程、RAG管道、代理功能、模型管理、可观察性功能等，让您快速从原型进入生产。",
+            "url": "https://github.com/langgenius/dify",
+            "name": "langgenius /dify",
+            "description": "Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.",
+            "stars": "53,201",
+            "forks": "7,763",
+            "language": "TypeScript",
+            "stars_today": "3,471 stars this month"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "13,219",
+            "forks": "595",
+            "language": "TypeScript",
+            "stars_today": "1,565 stars this month"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "164,847",
+            "forks": "29,503",
+            "language": "TypeScript",
+            "stars_today": "1,372 stars this month"
+        }
+    ]
+}
