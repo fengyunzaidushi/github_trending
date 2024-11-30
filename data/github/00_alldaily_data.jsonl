@@ -66206,3 +66206,197 @@
         }
     ]
 }
+{
+    "11月30日": [
+        {
+            "zh_des": "到多个生产性AI提供商的简单、统一的界面",
+            "url": "https://github.com/andrewyng/aisuite",
+            "name": "andrewyng /aisuite",
+            "description": "Simple, unified interface to multiple Generative AI providers",
+            "stars": "5,424",
+            "forks": "455",
+            "language": "Python",
+            "stars_today": "778 stars today"
+        },
+        {
+            "zh_des": "可视化数据包在内核中花费的时间，在命令行中观察和分析。",
+            "url": "https://github.com/hengyoush/kyanos",
+            "name": "hengyoush /kyanos",
+            "description": "Visualize the time packets spend in the kernel, watch & analyze in command line.",
+            "stars": "1,933",
+            "forks": "41",
+            "language": "C",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "在不到一小时的时间内开始使用GitHub。",
+            "url": "https://github.com/skills/introduction-to-github",
+            "name": "skills /introduction-to-github",
+            "description": "Get started using GitHub in less than an hour.",
+            "stars": "5,043",
+            "forks": "3,160",
+            "language": "",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "每个软件开发人员都应该知道的(主要是)技术知识的集合",
+            "url": "https://github.com/mtdvio/every-programmer-should-know",
+            "name": "mtdvio /every-programmer-should-know",
+            "description": "A collection of (mostly) technical things every software developer should know about",
+            "stars": "84,883",
+            "forks": "7,866",
+            "language": "",
+            "stars_today": "641 stars today"
+        },
+        {
+            "zh_des": "SWIFT中优雅的HTTP网络",
+            "url": "https://github.com/Alamofire/Alamofire",
+            "name": "Alamofire /Alamofire",
+            "description": "Elegant HTTP Networking in Swift",
+            "stars": "41,295",
+            "forks": "7,555",
+            "language": "Swift",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "313,961",
+            "forks": "29,153",
+            "language": "Markdown",
+            "stars_today": "293 stars today"
+        },
+        {
+            "zh_des": "💯为忙碌的软件工程师策划的编码面试准备材料",
+            "url": "https://github.com/yangshun/tech-interview-handbook",
+            "name": "yangshun /tech-interview-handbook",
+            "description": "💯 Curated coding interview preparation materials for busy software engineers",
+            "stars": "119,611",
+            "forks": "14,775",
+            "language": "TypeScript",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "一种计算机的自然语言界面",
+            "url": "https://github.com/OpenInterpreter/open-interpreter",
+            "name": "OpenInterpreter /open-interpreter",
+            "description": "A natural language interface for computers",
+            "stars": "57,093",
+            "forks": "4,906",
+            "language": "Python",
+            "stars_today": "212 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "50,191",
+            "forks": "8,134",
+            "language": "TypeScript",
+            "stars_today": "92 stars today"
+        },
+        {
+            "zh_des": "本黑色星期五与InfoSec相关的软件/工具的所有交易",
+            "url": "https://github.com/0x90n/InfoSec-Black-Friday",
+            "name": "0x90n /InfoSec-Black-Friday",
+            "description": "All the deals for InfoSec related software/tools this Black Friday",
+            "stars": "3,657",
+            "forks": "423",
+            "language": "",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "为中小企业和企业提供免费和开源的Laravel CRM解决方案，以实现完整的客户生命周期管理。",
+            "url": "https://github.com/krayin/laravel-crm",
+            "name": "krayin /laravel-crm",
+            "description": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+            "stars": "11,468",
+            "forks": "781",
+            "language": "Blade",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "开源端到端LLM开发平台",
+            "url": "https://github.com/comet-ml/opik",
+            "name": "comet-ml /opik",
+            "description": "Open-source end-to-end LLM Development Platform",
+            "stars": "2,372",
+            "forks": "142",
+            "language": "Java",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "开源警报管理和AIOps平台",
+            "url": "https://github.com/keephq/keep",
+            "name": "keephq /keep",
+            "description": "The open-source alert management and AIOps platform",
+            "stars": "5,415",
+            "forks": "714",
+            "language": "Python",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "用于TypeScrip和JavaScript的ORM。支持MySQL、PostgreSQL、MariaDB、SQLite、MS SQL Server、Oracle、SAP HANA、WebSQL数据库。适用于NodeJS、Browser、Ionic、Cordova和Electron平台。",
+            "url": "https://github.com/typeorm/typeorm",
+            "name": "typeorm /typeorm",
+            "description": "ORM for TypeScript and JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, SAP Hana, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.",
+            "stars": "34,467",
+            "forks": "6,334",
+            "language": "TypeScript",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "47,489",
+            "forks": "3,202",
+            "language": "JavaScript",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "TerraForm使您能够安全、可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，可以将API编码到声明性配置文件中，这些配置文件可以在团队成员之间共享，被视为代码，进行编辑、审查和版本控制。",
+            "url": "https://github.com/hashicorp/terraform",
+            "name": "hashicorp /terraform",
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+            "stars": "43,107",
+            "forks": "9,575",
+            "language": "Go",
+            "stars_today": "165 stars today"
+        },
+        {
+            "zh_des": "📦Repomix(以前的Repopack)是一个强大的工具，它可以将您的整个存储库打包成一个对AI友好的文件。非常适合需要将代码库提供给大型语言模型(LLM)或其他人工智能工具(如Claude、ChatGPT和Gemini)的情况。",
+            "url": "https://github.com/yamadashy/repomix",
+            "name": "yamadashy /repomix",
+            "description": "📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like Claude, ChatGPT, and Gemini.",
+            "stars": "4,753",
+            "forks": "219",
+            "language": "TypeScript",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "内容驱动型网站的Web框架。⭐️之星支持我们的工作！",
+            "url": "https://github.com/withastro/astro",
+            "name": "withastro /astro",
+            "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+            "stars": "47,175",
+            "forks": "2,506",
+            "language": "TypeScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "Js框架，用于使用TypeScrip/JavaScript🚀构建高效、可伸缩的企业级服务器端应用程序",
+            "url": "https://github.com/nestjs/nest",
+            "name": "nestjs /nest",
+            "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀",
+            "stars": "68,080",
+            "forks": "7,665",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        }
+    ]
+}
