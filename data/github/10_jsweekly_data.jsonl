@@ -76308,3 +76308,187 @@
         }
     ]
 }
+{
+    "12月01日": [
+        {
+            "zh_des": "标志性的SVG、字体和CSS工具包",
+            "url": "https://github.com/FortAwesome/Font-Awesome",
+            "name": "FortAwesome /Font-Awesome",
+            "description": "The iconic SVG, font, and CSS toolkit",
+            "stars": "74,325",
+            "forks": "12,206",
+            "language": "JavaScript",
+            "stars_today": "383 stars this week"
+        },
+        {
+            "zh_des": "具有Windows、MacOS、Linux和Web同步和备份功能的现代电子书管理器和阅读器",
+            "url": "https://github.com/koodo-reader/koodo-reader",
+            "name": "koodo-reader /koodo-reader",
+            "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+            "stars": "19,506",
+            "forks": "1,501",
+            "language": "JavaScript",
+            "stars_today": "334 stars this week"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "14,348",
+            "forks": "2,919",
+            "language": "JavaScript",
+            "stars_today": "274 stars this week"
+        },
+        {
+            "zh_des": "一个HTTP/1.1客户端，为Node.js从头开始编写",
+            "url": "https://github.com/nodejs/undici",
+            "name": "nodejs /undici",
+            "description": "An HTTP/1.1 client, written from scratch for Node.js",
+            "stars": "6,298",
+            "forks": "551",
+            "language": "JavaScript",
+            "stars_today": "45 stars this week"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "6,386",
+            "forks": "1,963",
+            "language": "JavaScript",
+            "stars_today": "81 stars this week"
+        },
+        {
+            "zh_des": "快速、轻松、可靠地测试在浏览器中运行的任何东西。",
+            "url": "https://github.com/cypress-io/cypress",
+            "name": "cypress-io /cypress",
+            "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+            "stars": "47,500",
+            "forks": "3,203",
+            "language": "JavaScript",
+            "stars_today": "430 stars this week"
+        },
+        {
+            "zh_des": "一个跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "name": "GitSquared /edex-ui",
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+            "stars": "40,879",
+            "forks": "2,589",
+            "language": "JavaScript",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "运行V2ray Inside Edge/无服务器运行时",
+            "url": "https://github.com/zizifn/edgetunnel",
+            "name": "zizifn /edgetunnel",
+            "description": "Running V2ray inside edge/serverless runtime",
+            "stars": "7,288",
+            "forks": "26,472",
+            "language": "JavaScript",
+            "stars_today": "124 stars this week"
+        },
+        {
+            "zh_des": "一个简单的新标签(浏览器的主页)，灵感来自谷歌的“你的材料”设计",
+            "url": "https://github.com/XengShi/materialYouNewTab",
+            "name": "XengShi /materialYouNewTab",
+            "description": "A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design",
+            "stars": "1,493",
+            "forks": "150",
+            "language": "JavaScript",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "📡️vCard中国黄页-优化iOS/安卓来电、信息界面体验",
+            "url": "https://github.com/metowolf/vCards",
+            "name": "metowolf /vCards",
+            "description": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+            "stars": "5,042",
+            "forks": "233",
+            "language": "JavaScript",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "36,371",
+            "forks": "4,284",
+            "language": "JavaScript",
+            "stars_today": "1,097 stars this week"
+        },
+        {
+            "zh_des": "开源的SSH、VNC和RDP服务器管理软件",
+            "url": "https://github.com/gnmyt/Nexterm",
+            "name": "gnmyt /Nexterm",
+            "description": "The open source server management software for SSH, VNC & RDP",
+            "stars": "2,025",
+            "forks": "71",
+            "language": "JavaScript",
+            "stars_today": "155 stars this week"
+        },
+        {
+            "zh_des": "🤖一个基于微信结合开放AI微信GPT/kimi/讯飞等Ai服务实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "url": "https://github.com/wangrongding/wechat-bot",
+            "name": "wangrongding /wechat-bot",
+            "description": "🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "stars": "5,587",
+            "forks": "770",
+            "language": "JavaScript",
+            "stars_today": "118 stars this week"
+        },
+        {
+            "zh_des": "一系列有趣和棘手的🤪示例",
+            "url": "https://github.com/denysdovhan/wtfjs",
+            "name": "denysdovhan /wtfjs",
+            "description": "🤪 A list of funny and tricky JavaScript examples",
+            "stars": "35,368",
+            "forks": "2,564",
+            "language": "JavaScript",
+            "stars_today": "75 stars this week"
+        },
+        {
+            "zh_des": "TwitchAdSolutions",
+            "url": "https://github.com/pixeltris/TwitchAdSolutions",
+            "name": "pixeltris /TwitchAdSolutions",
+            "description": "TwitchAdSolutions",
+            "stars": "8,143",
+            "forks": "464",
+            "language": "JavaScript",
+            "stars_today": "54 stars this week"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "7,180",
+            "forks": "947",
+            "language": "JavaScript",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "Docs.githorb.com的开源回购",
+            "url": "https://github.com/github/docs",
+            "name": "github /docs",
+            "description": "The open-source repo for docs.github.com",
+            "stars": "16,429",
+            "forks": "60,055",
+            "language": "JavaScript",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "Draw.io的官方电子建设",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "51,044",
+            "forks": "5,044",
+            "language": "JavaScript",
+            "stars_today": "155 stars this week"
+        }
+    ]
+}
