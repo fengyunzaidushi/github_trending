@@ -67662,3 +67662,167 @@
         }
     ]
 }
+{
+    "12月02日": [
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "4,224",
+            "forks": "786",
+            "language": "Python",
+            "stars_today": "1,251 stars today"
+        },
+        {
+            "zh_des": "📺IPTV🚀：💰📡☘️🌊🎬🎥🏀🪁🎮🎵☘️🌊🎬央视、卫视、🪁🎮🎵🏛电视直播源更新工具包含央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、游戏、支持工作流、Docker(AMD64/ARM 64/ARM v7)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：包含💰央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "6,995",
+            "forks": "1,563",
+            "language": "Python",
+            "stars_today": "346 stars today"
+        },
+        {
+            "zh_des": "开源警报管理和AIOps平台",
+            "url": "https://github.com/keephq/keep",
+            "name": "keephq /keep",
+            "description": "The open-source alert management and AIOps platform",
+            "stars": "7,571",
+            "forks": "737",
+            "language": "Python",
+            "stars_today": "282 stars today"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "94,614",
+            "forks": "9,681",
+            "language": "Python",
+            "stars_today": "328 stars today"
+        },
+        {
+            "zh_des": "奈飞级别的字幕剪切、翻译、对齐，甚至配音--一键全自动AI视频字幕团队|奈飞级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "url": "https://github.com/Huanshere/VideoLingo",
+            "name": "Huanshere /VideoLingo",
+            "description": "Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组",
+            "stars": "7,613",
+            "forks": "737",
+            "language": "Python",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "专注于提示和生成",
+            "url": "https://github.com/lllyasviel/Fooocus",
+            "name": "lllyasviel /Fooocus",
+            "description": "Focus on prompting and generating",
+            "stars": "41,762",
+            "forks": "5,973",
+            "language": "Python",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "开源LLMOps平台：集即时操场、即时管理、LLM评估、LLM可观测性于一体。",
+            "url": "https://github.com/Agenta-AI/agenta",
+            "name": "Agenta-AI /agenta",
+            "description": "The open-source LLMOps platform: prompt playground, prompt management, LLM evaluation, and LLM Observability all in one place.",
+            "stars": "1,489",
+            "forks": "202",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "SQLite是一个🥤工具包，用于使用PostgreSQLite或SQLite进行检索增强生成(RAG",
+            "url": "https://github.com/superlinear-ai/raglite",
+            "name": "superlinear-ai /raglite",
+            "description": "🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite",
+            "stars": "318",
+            "forks": "18",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "让我们控制扩散模型！",
+            "url": "https://github.com/lllyasviel/ControlNet",
+            "name": "lllyasviel /ControlNet",
+            "description": "Let us control diffusion models!",
+            "stars": "30,680",
+            "forks": "2,753",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "基于Qwen>=2.0构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "4,197",
+            "forks": "382",
+            "language": "Python",
+            "stars_today": "228 stars today"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "19,903",
+            "forks": "1,414",
+            "language": "Python",
+            "stars_today": "382 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "143,771",
+            "forks": "27,044",
+            "language": "Python",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "包含视频和材料https://github的大型完整数据科学指南",
+            "url": "https://github.com/krishnaik06/The-Grand-Complete-Data-Science-Materials",
+            "name": "krishnaik06 /The-Grand-Complete-Data-Science-Materials",
+            "description": "The Grand Complete Data Science Guide With Videos And Materialshttps://github",
+            "stars": "6,928",
+            "forks": "3,627",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "支持100多个比特币/阿尔特币交易所的JavaScript/Tyescript/Python/C#/PHP加密货币交易API",
+            "url": "https://github.com/ccxt/ccxt",
+            "name": "ccxt /ccxt",
+            "description": "A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+            "stars": "33,394",
+            "forks": "7,569",
+            "language": "Python",
+            "stars_today": "29 stars today"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "13,276",
+            "forks": "4,273",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "ControlNet的WebUI扩展",
+            "url": "https://github.com/Mikubill/sd-webui-controlnet",
+            "name": "Mikubill /sd-webui-controlnet",
+            "description": "WebUI extension for ControlNet",
+            "stars": "17,125",
+            "forks": "1,968",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        }
+    ]
+}
