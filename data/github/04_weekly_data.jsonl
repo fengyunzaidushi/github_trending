@@ -71874,3 +71874,157 @@
         }
     ]
 }
+{
+    "12月06日": [
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "5,545",
+            "forks": "994",
+            "language": "Python",
+            "stars_today": "3,568 stars this week"
+        },
+        {
+            "zh_des": "📺IPTV IPTV🚀：✨📡☘️🌊🎬🎥🏀🪁🎮🎵🏛电视直播源更新工具央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVbox等播放软件；支持工作流、Docker(AMD64/ARM 64/ARM v7)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "7,794",
+            "forks": "1,705",
+            "language": "Python",
+            "stars_today": "1,365 stars this week"
+        },
+        {
+            "zh_des": "开源警报管理和AIOps平台",
+            "url": "https://github.com/keephq/keep",
+            "name": "keephq /keep",
+            "description": "The open-source alert management and AIOps platform",
+            "stars": "8,136",
+            "forks": "764",
+            "language": "Python",
+            "stars_today": "2,974 stars this week"
+        },
+        {
+            "zh_des": "插入一个屏幕截图并将其转换为干净的代码(HTML/Tailind/Reaction/Vue)",
+            "url": "https://github.com/abi/screenshot-to-code",
+            "name": "abi /screenshot-to-code",
+            "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+            "stars": "64,871",
+            "forks": "7,903",
+            "language": "Python",
+            "stars_today": "1,687 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS2024口头][GPT Beats Diffect🔥][视觉生成中的标度法则📈]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "5,492",
+            "forks": "376",
+            "language": "Python",
+            "stars_today": "1,030 stars this week"
+        },
+        {
+            "zh_des": "基于Qwen>=2.0构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "4,370",
+            "forks": "398",
+            "language": "Python",
+            "stars_today": "742 stars this week"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "95,360",
+            "forks": "9,707",
+            "language": "Python",
+            "stars_today": "1,602 stars this week"
+        },
+        {
+            "zh_des": "一种基于模块化图的检索-扩充生成系统",
+            "url": "https://github.com/microsoft/graphrag",
+            "name": "microsoft /graphrag",
+            "description": "A modular graph-based Retrieval-Augmented Generation (RAG) system",
+            "stars": "20,235",
+            "forks": "1,978",
+            "language": "Python",
+            "stars_today": "429 stars this week"
+        },
+        {
+            "zh_des": "Ollama巨蟒文库",
+            "url": "https://github.com/ollama/ollama-python",
+            "name": "ollama /ollama-python",
+            "description": "Ollama Python library",
+            "stars": "5,160",
+            "forks": "434",
+            "language": "Python",
+            "stars_today": "264 stars this week"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "20,484",
+            "forks": "1,455",
+            "language": "Python",
+            "stars_today": "1,706 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "22,113",
+            "forks": "3,066",
+            "language": "Python",
+            "stars_today": "361 stars this week"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "6,750",
+            "forks": "12,650",
+            "language": "Python",
+            "stars_today": "64 stars this week"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "59,132",
+            "forks": "6,279",
+            "language": "Python",
+            "stars_today": "884 stars this week"
+        },
+        {
+            "zh_des": "DeepFaceLab是制造深度假货的领先软件。",
+            "url": "https://github.com/iperov/DeepFaceLab",
+            "name": "iperov /DeepFaceLab",
+            "description": "DeepFaceLab is the leading software for creating deepfakes.",
+            "stars": "16,484",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "83 stars this week"
+        },
+        {
+            "zh_des": "适用于Python的下一代HTTP客户端。🦋",
+            "url": "https://github.com/encode/httpx",
+            "name": "encode /httpx",
+            "description": "A next generation HTTP client for Python. 🦋",
+            "stars": "13,389",
+            "forks": "855",
+            "language": "Python",
+            "stars_today": "41 stars this week"
+        }
+    ]
+}

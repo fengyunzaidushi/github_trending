@@ -68454,3 +68454,167 @@
         }
     ]
 }
+{
+    "12月06日": [
+        {
+            "zh_des": "代理框架/填充程序将与LLMS配合使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "2,549",
+            "forks": "130",
+            "language": "Python",
+            "stars_today": "826 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多种AI提供者(OpenAI/Claude 3/Gemini/Ollama/Qwen/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS/Plugins/Artitures)。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "48,045",
+            "forks": "10,438",
+            "language": "TypeScript",
+            "stars_today": "835 stars today"
+        },
+        {
+            "zh_des": "[NeurIPS2024口头][GPT Beats Diffect🔥][视觉生成中的标度法则📈]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "5,492",
+            "forks": "376",
+            "language": "Python",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "网络视频平台是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的ipc、nvr、dvr接入。支持国标级联，支持RTSP/RTMP等视频流转发到国标平台，支持RTSP/RTMP等推流转发到国标平台。",
+            "url": "https://github.com/648540858/wvp-GB28181-pro",
+            "name": "648540858 /wvp-GB28181-pro",
+            "description": "WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。",
+            "stars": "5,288",
+            "forks": "1,515",
+            "language": "Java",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "真正独立的Web浏览器",
+            "url": "https://github.com/LadybirdBrowser/ladybird",
+            "name": "LadybirdBrowser /ladybird",
+            "description": "Truly independent web browser",
+            "stars": "25,918",
+            "forks": "1,112",
+            "language": "C++",
+            "stars_today": "1,039 stars today"
+        },
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "15,413",
+            "forks": "1,179",
+            "language": "Python",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "1位LLMS的官方推理框架",
+            "url": "https://github.com/microsoft/BitNet",
+            "name": "microsoft /BitNet",
+            "description": "Official inference framework for 1-bit LLMs",
+            "stars": "12,129",
+            "forks": "842",
+            "language": "C++",
+            "stars_today": "97 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "108,199",
+            "forks": "29,876",
+            "language": "JavaScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "使用SAX/DOM风格API的C++快速JSON解析器/生成器",
+            "url": "https://github.com/Tencent/rapidjson",
+            "name": "Tencent /rapidjson",
+            "description": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+            "stars": "14,403",
+            "forks": "3,540",
+            "language": "C++",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "19,655",
+            "forks": "1,488",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "空间和时间|SQL的证明",
+            "url": "https://github.com/spaceandtimelabs/sxt-proof-of-sql",
+            "name": "spaceandtimelabs /sxt-proof-of-sql",
+            "description": "Space and Time | Proof of SQL",
+            "stars": "3,111",
+            "forks": "105",
+            "language": "Rust",
+            "stars_today": "74 stars today"
+        },
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "5,545",
+            "forks": "994",
+            "language": "Python",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "使用GitHub页面从您的GitHub存储库创建站点或博客。",
+            "url": "https://github.com/skills/github-pages",
+            "name": "skills /github-pages",
+            "description": "Create a site or blog from your GitHub repositories with GitHub Pages.",
+            "stars": "1,147",
+            "forks": "469",
+            "language": "",
+            "stars_today": "181 stars today"
+        },
+        {
+            "zh_des": "AWS提供程序使Terraform能够管理AWS资源。",
+            "url": "https://github.com/hashicorp/terraform-provider-aws",
+            "name": "hashicorp /terraform-provider-aws",
+            "description": "The AWS Provider enables Terraform to manage AWS resources.",
+            "stars": "9,924",
+            "forks": "9,219",
+            "language": "Go",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "2024年的DevOps路线图。使用学习资源",
+            "url": "https://github.com/milanm/DevOps-Roadmap",
+            "name": "milanm /DevOps-Roadmap",
+            "description": "DevOps Roadmap for 2024. with learning resources",
+            "stars": "13,019",
+            "forks": "2,093",
+            "language": "",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "🔗为程序员提供了一些有用的网站。",
+            "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+            "name": "sdmg15 /Best-websites-a-programmer-should-visit",
+            "description": "🔗 Some useful websites for programmers.",
+            "stars": "63,670",
+            "forks": "7,896",
+            "language": "",
+            "stars_today": "278 stars today"
+        }
+    ]
+}

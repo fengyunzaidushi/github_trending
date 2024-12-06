@@ -68910,3 +68910,177 @@
         }
     ]
 }
+{
+    "12月06日": [
+        {
+            "zh_des": "代理框架/填充程序将与LLMS配合使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "2,549",
+            "forks": "130",
+            "language": "Python",
+            "stars_today": "826 stars today"
+        },
+        {
+            "zh_des": "[NeurIPS2024口头][GPT Beats Diffect🔥][视觉生成中的标度法则📈]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "5,492",
+            "forks": "376",
+            "language": "Python",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "15,413",
+            "forks": "1,179",
+            "language": "Python",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "19,655",
+            "forks": "1,488",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "5,545",
+            "forks": "994",
+            "language": "Python",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "模块化的SQL Linterer和自动格式化程序，支持多种方言和模板化代码。",
+            "url": "https://github.com/sqlfluff/sqlfluff",
+            "name": "sqlfluff /sqlfluff",
+            "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+            "stars": "8,030",
+            "forks": "737",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "文件解析器针对LLM摄取进行了优化，无损失地解析PDF、DOCX、PPTX格式，这是LLMS的理想格式。",
+            "url": "https://github.com/QuivrHQ/MegaParse",
+            "name": "QuivrHQ /MegaParse",
+            "description": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+            "stars": "2,110",
+            "forks": "121",
+            "language": "Python",
+            "stars_today": "473 stars today"
+        },
+        {
+            "zh_des": "一个灵活的包管理器，支持多个版本、配置、平台和编译器。",
+            "url": "https://github.com/spack/spack",
+            "name": "spack /spack",
+            "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
+            "stars": "4,457",
+            "forks": "2,299",
+            "language": "Python",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "[RSS 2023]通过行动扩散实现扩散策略可视化策略学习",
+            "url": "https://github.com/real-stanford/diffusion_policy",
+            "name": "real-stanford /diffusion_policy",
+            "description": "[RSS 2023] Diffusion Policy Visuomotor Policy Learning via Action Diffusion",
+            "stars": "1,701",
+            "forks": "334",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "关注灵活性和用户体验的Django内容管理系统",
+            "url": "https://github.com/wagtail/wagtail",
+            "name": "wagtail /wagtail",
+            "description": "A Django content management system focused on flexibility and user experience",
+            "stars": "18,477",
+            "forks": "3,916",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "💻是一个功能齐全的本地AWS云堆栈。离线开发和测试您的云和无服务器应用程序",
+            "url": "https://github.com/localstack/localstack",
+            "name": "localstack /localstack",
+            "description": "💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline",
+            "stars": "56,677",
+            "forks": "4,036",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "Google DeepMind GraphCast和GenCast",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "Google DeepMind GraphCast and GenCast",
+            "stars": "4,991",
+            "forks": "614",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "📺IPTV IPTV🚀：✨📡☘️🌊🎬🎥🏀🪁🎮🎵🏛电视直播源更新工具央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVbox等播放软件；支持工作流、Docker(AMD64/ARM 64/ARM v7)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "7,794",
+            "forks": "1,705",
+            "language": "Python",
+            "stars_today": "197 stars today"
+        },
+        {
+            "zh_des": "英特尔(R)RealSense(TM)摄像头的ROS包装",
+            "url": "https://github.com/IntelRealSense/realsense-ros",
+            "name": "IntelRealSense /realsense-ros",
+            "description": "ROS Wrapper for Intel(R) RealSense(TM) Cameras",
+            "stars": "2,618",
+            "forks": "1,769",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Qwen2.5-Coder是阿里云Qwen2.5团队开发的大型语言模型系列Qwen2.5的代码版本。",
+            "url": "https://github.com/QwenLM/Qwen2.5-Coder",
+            "name": "QwenLM /Qwen2.5-Coder",
+            "description": "Qwen2.5-Coder is the code version of Qwen2.5, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": "3,248",
+            "forks": "219",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "22,113",
+            "forks": "3,066",
+            "language": "Python",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "使用Python类型提示进行数据验证",
+            "url": "https://github.com/pydantic/pydantic",
+            "name": "pydantic /pydantic",
+            "description": "Data validation using Python type hints",
+            "stars": "21,513",
+            "forks": "1,920",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        }
+    ]
+}
