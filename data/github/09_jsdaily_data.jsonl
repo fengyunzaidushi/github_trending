@@ -75400,3 +75400,237 @@
         }
     ]
 }
+{
+    "12月07日": [
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "230,123",
+            "forks": "48,163",
+            "language": "JavaScript",
+            "stars_today": "90 stars today"
+        },
+        {
+            "zh_des": "云Flare-Worker/Pages代理脚本[Vless与特洛伊木马]、VPS与Serv00都支持Reality协议一键自建代理与CF反代IP、推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP",
+            "url": "https://github.com/yonggekkk/Cloudflare_vless_trojan",
+            "name": "yonggekkk /Cloudflare_vless_trojan",
+            "description": "Cloudflare-workers/pages代理脚本【Vless与Trojan】，VPS与Serv00都支持reality协议一键自建proxyip与CF反代IP，推荐CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP",
+            "stars": "6,299",
+            "forks": "4,996",
+            "language": "JavaScript",
+            "stars_today": "73 stars today"
+        },
+        {
+            "zh_des": "只需运行一条命令即可设置现代网络应用程序。",
+            "url": "https://github.com/facebook/create-react-app",
+            "name": "facebook /create-react-app",
+            "description": "Set up a modern web app by running one command.",
+            "stars": "102,860",
+            "forks": "26,890",
+            "language": "JavaScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "🔍--一种基于LLM的网络搜索引擎多代理框架(如Perplexity.ai Pro和SearchGPT)",
+            "url": "https://github.com/InternLM/MindSearch",
+            "name": "InternLM /MindSearch",
+            "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+            "stars": "5,361",
+            "forks": "541",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "108,226",
+            "forks": "29,884",
+            "language": "JavaScript",
+            "stars_today": "78 stars today"
+        },
+        {
+            "zh_des": "Label Studio是一种具有标准化输出格式的多类型数据标注和注记工具",
+            "url": "https://github.com/HumanSignal/label-studio",
+            "name": "HumanSignal /label-studio",
+            "description": "Label Studio is a multi-type data labeling and annotation tool with standardized output format",
+            "stars": "19,658",
+            "forks": "2,429",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "社区精心策划的模板列表，供核心引擎查找安全漏洞。",
+            "url": "https://github.com/projectdiscovery/nuclei-templates",
+            "name": "projectdiscovery /nuclei-templates",
+            "description": "Community curated list of templates for the nuclei engine to find security vulnerabilities.",
+            "stars": "9,410",
+            "forks": "2,661",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "快速、无拘无束、极简主义的节点网络框架。",
+            "url": "https://github.com/expressjs/express",
+            "name": "expressjs /express",
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "stars": "65,828",
+            "forks": "17,572",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "InSomnium是一个快速的本地API测试工具，关注隐私，100%本地。用于测试GraphQL、REST、WebSockets和GRPC。这是一把刚/失眠的叉子",
+            "url": "https://github.com/ArchGPT/insomnium",
+            "name": "ArchGPT /insomnium",
+            "description": "Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia",
+            "stars": "3,421",
+            "forks": "187",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "反向代理、在线代理、反向代理，免翻墙访问Youtube/推特/谷歌、支持GitHub和电报网络登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问Chat GPT3.5和Claude3)",
+            "url": "https://github.com/netptop/siteproxy",
+            "name": "netptop /siteproxy",
+            "description": "reverse proxy, online proxy, 反向代理,免翻墙访问Youtube/twitter/Google, 支持github和telegram web登录(请注意不要通过不信任的代理进行登录)。支持DuckDuckGo AI Chat(可免费访问chatGPT3.5和Claude3)",
+            "stars": "2,107",
+            "forks": "1,095",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "一个用于输入和验证国际电话号码的JavaScript插件。React和Vue组件也包括在内。",
+            "url": "https://github.com/jackocnr/intl-tel-input",
+            "name": "jackocnr /intl-tel-input",
+            "description": "A JavaScript plugin for entering and validating international telephone numbers. React and Vue components also included.",
+            "stars": "7,711",
+            "forks": "1,952",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "设置和管理标题竞价广告合作伙伴，无需编写代码或混淆行项目。Js是开源的，而且是免费的。",
+            "url": "https://github.com/prebid/Prebid.js",
+            "name": "prebid /Prebid.js",
+            "description": "Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.",
+            "stars": "1,336",
+            "forks": "2,091",
+            "language": "JavaScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "JavaScript 3D库。",
+            "url": "https://github.com/mrdoob/three.js",
+            "name": "mrdoob /three.js",
+            "description": "JavaScript 3D Library.",
+            "stars": "103,152",
+            "forks": "35,420",
+            "language": "JavaScript",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,881",
+            "forks": "10,046",
+            "language": "JavaScript",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "🥉对Reaction-Three光纤的有用帮手",
+            "url": "https://github.com/pmndrs/drei",
+            "name": "pmndrs /drei",
+            "description": "🥉 useful helpers for react-three-fiber",
+            "stars": "8,484",
+            "forks": "715",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "28,225",
+            "forks": "1,308",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "在Java脚本中解析、验证、操作和显示日期。",
+            "url": "https://github.com/moment/moment",
+            "name": "moment /moment",
+            "description": "Parse, validate, manipulate, and display dates in javascript.",
+            "stars": "48,019",
+            "forks": "8,121",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "开源看板(与Meteor一起构建)。保留变量/表/字段名CamelCase。对于翻译，仅将拉取请求更改添加到wekan/i18n/en.i18n.json，其他翻译在https://app.transifex.com/wekan/wekanonly.完成",
+            "url": "https://github.com/wekan/wekan",
+            "name": "wekan /wekan",
+            "description": "The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done athttps://app.transifex.com/wekan/wekanonly.",
+            "stars": "19,643",
+            "forks": "2,833",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "用于构建业务应用程序的低码平台。连接到数据库、云存储、GraphQL、API端点、Airtable、Google Sheet、OpenAI等，并使用拖放应用程序构建器构建应用程序。使用JavaScript/TypeScrip构建。🚀",
+            "url": "https://github.com/ToolJet/ToolJet",
+            "name": "ToolJet /ToolJet",
+            "description": "Low-code platform for building business applications. Connect to databases, cloud storages, GraphQL, API endpoints, Airtable, Google sheets, OpenAI, etc and build apps using drag and drop application builder. Built using JavaScript/TypeScript. 🚀",
+            "stars": "33,332",
+            "forks": "4,318",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "1,126",
+            "forks": "13,725",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "用于世界级3D地球和地图🌎的开源JAVASCRIPT库",
+            "url": "https://github.com/CesiumGS/cesium",
+            "name": "CesiumGS /cesium",
+            "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+            "stars": "13,066",
+            "forks": "3,509",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "适用于现代浏览器和触控设备的可重新排序的拖放列表。不需要jQuery或框架。",
+            "url": "https://github.com/SortableJS/Sortable",
+            "name": "SortableJS /Sortable",
+            "description": "Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.",
+            "stars": "29,813",
+            "forks": "3,702",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "包括完整API的JSON架构文件的集合",
+            "url": "https://github.com/SchemaStore/schemastore",
+            "name": "SchemaStore /schemastore",
+            "description": "A collection of JSON schema files including full API",
+            "stars": "3,134",
+            "forks": "1,728",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
