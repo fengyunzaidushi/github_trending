@@ -75838,3 +75838,207 @@
         }
     ]
 }
+{
+    "12月08日": [
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "230,191",
+            "forks": "48,171",
+            "language": "JavaScript",
+            "stars_today": "123 stars today"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "16,193",
+            "forks": "1,581",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "1,131",
+            "forks": "13,742",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "用于WordPress及更高版本的块编辑器项目。插件可以从官方资源库获得。",
+            "url": "https://github.com/WordPress/gutenberg",
+            "name": "WordPress /gutenberg",
+            "description": "The Block Editor project for WordPress and beyond. Plugin is available from the official repository.",
+            "stars": "10,597",
+            "forks": "4,230",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "在浏览器中运行的x86 PC仿真器和x86转WASM JIT",
+            "url": "https://github.com/copy/v86",
+            "name": "copy /v86",
+            "description": "x86 PC emulator and x86-to-wasm JIT, running in the browser",
+            "stars": "19,941",
+            "forks": "1,417",
+            "language": "JavaScript",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Reaction💻🌈⚡中的Windows 11",
+            "url": "https://github.com/blueedgetechno/win11React",
+            "name": "blueedgetechno /win11React",
+            "description": "Windows 11 in React 💻🌈⚡",
+            "stars": "9,187",
+            "forks": "978",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "最流行的用于在Web上开发响应式、移动优先项目的HTML、CSS和JavaScript框架。",
+            "url": "https://github.com/twbs/bootstrap",
+            "name": "twbs /bootstrap",
+            "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+            "stars": "171,029",
+            "forks": "78,907",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,888",
+            "forks": "10,047",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于NodeJS的WhatsApp客户端库，通过WhatsApp Web浏览器应用程序连接",
+            "url": "https://github.com/pedroslopez/whatsapp-web.js",
+            "name": "pedroslopez /whatsapp-web.js",
+            "description": "A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app",
+            "stars": "15,666",
+            "forks": "3,734",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "VNC客户端Web应用程序",
+            "url": "https://github.com/novnc/noVNC",
+            "name": "novnc /noVNC",
+            "description": "VNC client web application",
+            "stars": "11,778",
+            "forks": "2,333",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "支持100多种语言的纯JAVASSCRIPT OCR📖🎉🖥",
+            "url": "https://github.com/naptha/tesseract.js",
+            "name": "naptha /tesseract.js",
+            "description": "Pure Javascript OCR for more than 100 Languages 📖🎉🖥",
+            "stars": "35,479",
+            "forks": "2,238",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "127,639",
+            "forks": "27,074",
+            "language": "JavaScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "108,238",
+            "forks": "29,894",
+            "language": "JavaScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "使用NextJS+概念接口实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为概念和所有创作者设计。(使用NextJS和概念API构建的静态博客，支持多种部署选项。不需要服务器，设置网站的门槛为零。是为理念和所有创作者设计的。)",
+            "url": "https://github.com/tangly1024/NotionNext",
+            "name": "tangly1024 /NotionNext",
+            "description": "使用 NextJS + Notion API 实现的，支持多种部署方案的静态博客，无需服务器、零门槛搭建网站，为Notion和所有创作者设计。 (A static blog built with NextJS and Notion API, supporting multiple deployment options. No server required, zero threshold to set up a website. Designed for Notion and all creators.)",
+            "stars": "8,052",
+            "forks": "11,059",
+            "language": "JavaScript",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "多个游戏黑客使用，让游戏变得更容易玩！",
+            "url": "https://github.com/therealgliz/blooket-hacks",
+            "name": "therealgliz /blooket-hacks",
+            "description": "Multiple game hacks to use so the game become easier to play!",
+            "stars": "1,834",
+            "forks": "3,579",
+            "language": "JavaScript",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "用于世界级3D地球和地图🌎的开源JAVASCRIPT库",
+            "url": "https://github.com/CesiumGS/cesium",
+            "name": "CesiumGS /cesium",
+            "description": "An open-source JavaScript library for world-class 3D globes and maps 🌎",
+            "stars": "13,072",
+            "forks": "3,508",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🃏是一个神奇的文档站点生成器。",
+            "url": "https://github.com/docsifyjs/docsify",
+            "name": "docsifyjs /docsify",
+            "description": "🃏 A magical documentation site generator.",
+            "stars": "27,946",
+            "forks": "5,682",
+            "language": "JavaScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "最全面的中国诗歌数据库🧶最全中华古诗词数据库，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗。两宋时期1564位词人，21050首词。",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "name": "chinese-poetry /chinese-poetry",
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+            "stars": "48,348",
+            "forks": "9,705",
+            "language": "JavaScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "13,747",
+            "forks": "874",
+            "language": "JavaScript",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Reaction-完整的指南课程资源(代码、附件、幻灯片)",
+            "url": "https://github.com/academind/react-complete-guide-course-resources",
+            "name": "academind /react-complete-guide-course-resources",
+            "description": "React - The Complete Guide Course Resources (Code, Attachments, Slides)",
+            "stars": "2,347",
+            "forks": "1,850",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        }
+    ]
+}

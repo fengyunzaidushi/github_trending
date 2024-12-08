@@ -69586,3 +69586,177 @@
         }
     ]
 }
+{
+    "12月08日": [
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "15,899",
+            "forks": "1,209",
+            "language": "Python",
+            "stars_today": "224 stars today"
+        },
+        {
+            "zh_des": "文件解析器针对LLM摄取进行了优化，无损失地解析PDF、DOCX、PPTX格式，这是LLMS的理想格式。",
+            "url": "https://github.com/QuivrHQ/MegaParse",
+            "name": "QuivrHQ /MegaParse",
+            "description": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+            "stars": "3,408",
+            "forks": "176",
+            "language": "Python",
+            "stars_today": "936 stars today"
+        },
+        {
+            "zh_des": "模块化的SQL Linterer和自动格式化程序，支持多种方言和模板化代码。",
+            "url": "https://github.com/sqlfluff/sqlfluff",
+            "name": "sqlfluff /sqlfluff",
+            "description": "A modular SQL linter and auto-formatter with support for multiple dialects and templated code.",
+            "stars": "8,276",
+            "forks": "740",
+            "language": "Python",
+            "stars_today": "177 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️通过用户名从数以千计的站点收集一个人的档案",
+            "url": "https://github.com/soxoj/maigret",
+            "name": "soxoj /maigret",
+            "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "stars": "10,815",
+            "forks": "815",
+            "language": "Python",
+            "stars_today": "101 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "19,818",
+            "forks": "1,498",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "Google DeepMind GraphCast和GenCast",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "Google DeepMind GraphCast and GenCast",
+            "stars": "5,137",
+            "forks": "630",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "申请伪造访问并获得访问令牌我会指导您如何从HuggingFace Hub获取API密钥，制作一个具有读取权限的API密钥",
+            "url": "https://github.com/evolutionaryscale/esm",
+            "name": "evolutionaryscale /esm",
+            "description": "Apply for forge access and get an access tokenWill instruct you how to get an API key from huggingface hub, make one with \"Read\" permission",
+            "stars": "1,409",
+            "forks": "163",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "可调用100多个OpenAI格式的LLM API的Python SDK、代理服务器(LLM网关)-[Bedock、Azure、OpenAI、Vertex AI、Cohere、Anthropic、Sagemaker、HuggingFace、Replate、Groq]",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+            "stars": "14,797",
+            "forks": "1,736",
+            "language": "Python",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "英特尔(R)RealSense(TM)摄像头的ROS包装",
+            "url": "https://github.com/IntelRealSense/realsense-ros",
+            "name": "IntelRealSense /realsense-ros",
+            "description": "ROS Wrapper for Intel(R) RealSense(TM) Cameras",
+            "stars": "2,623",
+            "forks": "1,774",
+            "language": "Python",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "20,712",
+            "forks": "1,192",
+            "language": "Python",
+            "stars_today": "77 stars today"
+        },
+        {
+            "zh_des": "JAXTransformers：最先进的机器学习，适用于🤗、TensorFlow和JAX。",
+            "url": "https://github.com/huggingface/transformers",
+            "name": "huggingface /transformers",
+            "description": "🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+            "stars": "136,014",
+            "forks": "27,240",
+            "language": "Python",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "带有Web界面的声音克隆工具，使用您的声音或任何声音来录制音频/一个带Web界面的声音克隆工具，使用你的音色或任意声音来录制音频",
+            "url": "https://github.com/jianchang512/clone-voice",
+            "name": "jianchang512 /clone-voice",
+            "description": "A sound cloning tool with a web interface, using your voice or any sound to record audio / 一个带web界面的声音克隆工具，使用你的音色或任意声音来录制音频",
+            "stars": "7,697",
+            "forks": "793",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "一种简单、易于破解的GraphRAG实现",
+            "url": "https://github.com/gusye1234/nano-graphrag",
+            "name": "gusye1234 /nano-graphrag",
+            "description": "A simple, easy-to-hack GraphRAG implementation",
+            "stars": "1,857",
+            "forks": "179",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "代理框架/填充程序将与LLMS配合使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "3,046",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "268 stars today"
+        },
+        {
+            "zh_des": "🛡️开源和下一代网络应用防火墙(WAF)",
+            "url": "https://github.com/bunkerity/bunkerweb",
+            "name": "bunkerity /bunkerweb",
+            "description": "🛡️ Open-source and next-generation Web Application Firewall (WAF)",
+            "stars": "6,953",
+            "forks": "387",
+            "language": "Python",
+            "stars_today": "220 stars today"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "195,329",
+            "forks": "45,898",
+            "language": "Python",
+            "stars_today": "237 stars today"
+        },
+        {
+            "zh_des": "SD.Next：高级实现生成图像模型",
+            "url": "https://github.com/vladmandic/automatic",
+            "name": "vladmandic /automatic",
+            "description": "SD.Next: Advanced Implementation Generative Image Models",
+            "stars": "5,801",
+            "forks": "438",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        }
+    ]
+}
