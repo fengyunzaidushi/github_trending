@@ -70090,3 +70090,87 @@
         }
     ]
 }
+{
+    "12月10日": [
+        {
+            "zh_des": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "url": "https://github.com/soxoj/maigret",
+            "name": "soxoj /maigret",
+            "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "stars": "11,752",
+            "forks": "853",
+            "language": "Python",
+            "stars_today": "231 stars today"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "31,279",
+            "forks": "846",
+            "language": "Rust",
+            "stars_today": "1,707 stars today"
+        },
+        {
+            "zh_des": "启动并运行Llama 3.3、Mistral、Gemma 2和其他大型语言模型。",
+            "url": "https://github.com/ollama/ollama",
+            "name": "ollama /ollama",
+            "description": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+            "stars": "102,062",
+            "forks": "8,143",
+            "language": "Go",
+            "stars_today": "335 stars today"
+        },
+        {
+            "zh_des": "Swift中优雅的HTTP网络",
+            "url": "https://github.com/Alamofire/Alamofire",
+            "name": "Alamofire /Alamofire",
+            "description": "Elegant HTTP Networking in Swift",
+            "stars": "41,351",
+            "forks": "7,563",
+            "language": "Swift",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、Typescript和ShadCN构建的发票生成器应用程序",
+            "url": "https://github.com/al1abb/invoify",
+            "name": "al1abb /invoify",
+            "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+            "stars": "1,333",
+            "forks": "156",
+            "language": "TypeScript",
+            "stars_today": "347 stars today"
+        },
+        {
+            "zh_des": "通过Web前端构建更小、更快、更安全的桌面和移动应用程序。",
+            "url": "https://github.com/tauri-apps/tauri",
+            "name": "tauri-apps /tauri",
+            "description": "Build smaller, faster, and more secure desktop and mobile applications with a web frontend.",
+            "stars": "86,602",
+            "forks": "2,621",
+            "language": "Rust",
+            "stars_today": "191 stars today"
+        },
+        {
+            "zh_des": "比特币核心集成/舞台树",
+            "url": "https://github.com/bitcoin/bitcoin",
+            "name": "bitcoin /bitcoin",
+            "description": "Bitcoin Core integration/staging tree",
+            "stars": "80,442",
+            "forks": "36,538",
+            "language": "C++",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "快速使用Next.js、Postgs、Stripe和shadnn/ui。",
+            "url": "https://github.com/leerob/next-saas-starter",
+            "name": "leerob /next-saas-starter",
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "stars": "5,906",
+            "forks": "679",
+            "language": "TypeScript",
+            "stars_today": "36 stars today"
+        }
+    ]
+}

@@ -79444,3 +79444,187 @@
         }
     ]
 }
+{
+    "12月10日": [
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "230,284",
+            "forks": "47,628",
+            "language": "JavaScript",
+            "stars_today": "481 stars this week"
+        },
+        {
+            "zh_des": "Js脚本运行时✨🐢🚀✨",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "108,264",
+            "forks": "29,917",
+            "language": "JavaScript",
+            "stars_today": "231 stars this week"
+        },
+        {
+            "zh_des": "一种基于Web的协作式LaTeX编辑器",
+            "url": "https://github.com/overleaf/overleaf",
+            "name": "overleaf /overleaf",
+            "description": "A web-based collaborative LaTeX editor",
+            "stars": "14,424",
+            "forks": "1,468",
+            "language": "JavaScript",
+            "stars_today": "218 stars this week"
+        },
+        {
+            "zh_des": "运行WireGuard VPN+基于Web的管理用户界面的最简单方式。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "16,249",
+            "forks": "1,585",
+            "language": "JavaScript",
+            "stars_today": "265 stars this week"
+        },
+        {
+            "zh_des": "Draw.io的官方电子建设",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "51,284",
+            "forks": "5,057",
+            "language": "JavaScript",
+            "stars_today": "197 stars this week"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,926",
+            "forks": "10,052",
+            "language": "JavaScript",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "面向高级用户的LLM前端。",
+            "url": "https://github.com/SillyTavern/SillyTavern",
+            "name": "SillyTavern /SillyTavern",
+            "description": "LLM Frontend for Power Users.",
+            "stars": "8,713",
+            "forks": "2,490",
+            "language": "JavaScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "一个由IBM构建的设计系统",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "name": "carbon-design-system /carbon",
+            "description": "A design system built by IBM",
+            "stars": "7,900",
+            "forks": "1,825",
+            "language": "JavaScript",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "🔍--一种基于LLM的网络搜索引擎多代理框架(如Perplexity.ai Pro和SearchGPT)",
+            "url": "https://github.com/InternLM/MindSearch",
+            "name": "InternLM /MindSearch",
+            "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+            "stars": "5,431",
+            "forks": "545",
+            "language": "JavaScript",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "19,940",
+            "forks": "4,382",
+            "language": "JavaScript",
+            "stars_today": "237 stars this week"
+        },
+        {
+            "zh_des": "Reaction💻🌈⚡中的Windows 11",
+            "url": "https://github.com/blueedgetechno/win11React",
+            "name": "blueedgetechno /win11React",
+            "description": "Windows 11 in React 💻🌈⚡",
+            "stars": "9,198",
+            "forks": "980",
+            "language": "JavaScript",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "6,479",
+            "forks": "2,000",
+            "language": "JavaScript",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "猫抓浏览器资源嗅探扩展/CAT-Catch浏览器资源嗅探扩展",
+            "url": "https://github.com/xifangczy/cat-catch",
+            "name": "xifangczy /cat-catch",
+            "description": "猫抓 浏览器资源嗅探扩展 / cat-catch Browser Resource Sniffing Extension",
+            "stars": "10,154",
+            "forks": "925",
+            "language": "JavaScript",
+            "stars_today": "101 stars this week"
+        },
+        {
+            "zh_des": "一款开源的YouTube隐私应用程序",
+            "url": "https://github.com/FreeTubeApp/FreeTube",
+            "name": "FreeTubeApp /FreeTube",
+            "description": "An Open Source YouTube app for privacy",
+            "stars": "13,764",
+            "forks": "872",
+            "language": "JavaScript",
+            "stars_today": "76 stars this week"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "87,547",
+            "forks": "2,811",
+            "language": "JavaScript",
+            "stars_today": "503 stars this week"
+        },
+        {
+            "zh_des": "🃏是一个神奇的文档站点生成器。",
+            "url": "https://github.com/docsifyjs/docsify",
+            "name": "docsifyjs /docsify",
+            "description": "🃏 A magical documentation site generator.",
+            "stars": "27,985",
+            "forks": "5,685",
+            "language": "JavaScript",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "面向事件驱动应用程序的低码编程",
+            "url": "https://github.com/node-red/node-red",
+            "name": "node-red /node-red",
+            "description": "Low-code programming for event-driven applications",
+            "stars": "20,032",
+            "forks": "3,440",
+            "language": "JavaScript",
+            "stars_today": "48 stars this week"
+        },
+        {
+            "zh_des": "Reaction-完整的指南课程资源(代码、附件、幻灯片)",
+            "url": "https://github.com/academind/react-complete-guide-course-resources",
+            "name": "academind /react-complete-guide-course-resources",
+            "description": "React - The Complete Guide Course Resources (Code, Attachments, Slides)",
+            "stars": "2,364",
+            "forks": "1,857",
+            "language": "JavaScript",
+            "stars_today": "44 stars this week"
+        }
+    ]
+}
