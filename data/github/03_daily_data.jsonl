@@ -70272,3 +70272,187 @@
         }
     ]
 }
+{
+    "12月10日": [
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "16,536",
+            "forks": "1,248",
+            "language": "Python",
+            "stars_today": "404 stars today"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "16,049",
+            "forks": "2,199",
+            "language": "Python",
+            "stars_today": "63 stars today"
+        },
+        {
+            "zh_des": "TorchGeo：地理空间数据的数据集、采样器、转换和预先训练的模型",
+            "url": "https://github.com/microsoft/torchgeo",
+            "name": "microsoft /torchgeo",
+            "description": "TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data",
+            "stars": "2,957",
+            "forks": "360",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "用于骆驼模型的实用程序。",
+            "url": "https://github.com/meta-llama/llama-models",
+            "name": "meta-llama /llama-models",
+            "description": "Utilities intended for use with Llama models.",
+            "stars": "5,217",
+            "forks": "875",
+            "language": "Python",
+            "stars_today": "41 stars today"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "132,884",
+            "forks": "10,093",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "278,780",
+            "forks": "46,662",
+            "language": "Python",
+            "stars_today": "169 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️通过用户名从数以千计的站点收集一个人的档案",
+            "url": "https://github.com/soxoj/maigret",
+            "name": "soxoj /maigret",
+            "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "stars": "11,478",
+            "forks": "837",
+            "language": "Python",
+            "stars_today": "479 stars today"
+        },
+        {
+            "zh_des": "功能丰富的命令行音频/视频下载器",
+            "url": "https://github.com/yt-dlp/yt-dlp",
+            "name": "yt-dlp /yt-dlp",
+            "description": "A feature-rich command-line audio/video downloader",
+            "stars": "92,360",
+            "forks": "7,190",
+            "language": "Python",
+            "stars_today": "115 stars today"
+        },
+        {
+            "zh_des": "用于流处理、实时分析、LLM管道和RAG的Python ETL框架。",
+            "url": "https://github.com/pathwaycom/pathway",
+            "name": "pathwaycom /pathway",
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "stars": "6,254",
+            "forks": "150",
+            "language": "Python",
+            "stars_today": "307 stars today"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "13,344",
+            "forks": "1,272",
+            "language": "Python",
+            "stars_today": "59 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "17,900",
+            "forks": "1,392",
+            "language": "Python",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "19,924",
+            "forks": "1,507",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "在项目中工作支持的型号及其支持功能的电子表格(WIP)：https://docs",
+            "url": "https://github.com/kijai/ComfyUI-CogVideoXWrapper",
+            "name": "kijai /ComfyUI-CogVideoXWrapper",
+            "description": "WORK IN PROGRESSSpreadsheet (WIP) of supported models and their supported features: https://docs",
+            "stars": "1,114",
+            "forks": "70",
+            "language": "Python",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "稳定的扩散Web用户界面",
+            "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+            "name": "AUTOMATIC1111 /stable-diffusion-webui",
+            "description": "Stable Diffusion web UI",
+            "stars": "144,170",
+            "forks": "27,082",
+            "language": "Python",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "2,122",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "MPLUG-DocOwl：面向文档理解的模块化多通道大型语言模型",
+            "url": "https://github.com/X-PLUG/mPLUG-DocOwl",
+            "name": "X-PLUG /mPLUG-DocOwl",
+            "description": "mPLUG-DocOwl: Modularized Multimodal Large Language Model for Document Understanding",
+            "stars": "1,872",
+            "forks": "113",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "在《神经网络：从零到英雄》系列视频讲座中创建的Nanogpt-lectureCode，特别是有关NanGPT的第一堂课",
+            "url": "https://github.com/karpathy/ng-video-lecture",
+            "name": "karpathy /ng-video-lecture",
+            "description": "nanogpt-lectureCode created in the Neural Networks: Zero To Hero video lecture series, specifically on the first lecture on nanoGPT",
+            "stars": "3,629",
+            "forks": "951",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "从Yahoo！下载市场数据金融的应用编程接口",
+            "url": "https://github.com/ranaroussi/yfinance",
+            "name": "ranaroussi /yfinance",
+            "description": "Download market data from Yahoo! Finance's API",
+            "stars": "15,066",
+            "forks": "2,467",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        }
+    ]
+}

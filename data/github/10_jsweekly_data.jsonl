@@ -79280,3 +79280,167 @@
         }
     ]
 }
+{
+    "12月10日": [
+        {
+            "zh_des": "Web和本地用户界面库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "230,265",
+            "forks": "48,184",
+            "language": "JavaScript",
+            "stars_today": "481 stars this week"
+        },
+        {
+            "zh_des": "JavaScript中的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,919",
+            "forks": "10,053",
+            "language": "JavaScript",
+            "stars_today": "119 stars this week"
+        },
+        {
+            "zh_des": "运行WireGuard VPN +基于Web的管理UI的最简单方法。",
+            "url": "https://github.com/wg-easy/wg-easy",
+            "name": "wg-easy /wg-easy",
+            "description": "The easiest way to run WireGuard VPN + Web-based Admin UI.",
+            "stars": "16,243",
+            "forks": "1,583",
+            "language": "JavaScript",
+            "stars_today": "265 stars this week"
+        },
+        {
+            "zh_des": "IBM构建的设计系统",
+            "url": "https://github.com/carbon-design-system/carbon",
+            "name": "carbon-design-system /carbon",
+            "description": "A design system built by IBM",
+            "stars": "7,899",
+            "forks": "1,825",
+            "language": "JavaScript",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "面向高级用户的LLM前端。",
+            "url": "https://github.com/SillyTavern/SillyTavern",
+            "name": "SillyTavern /SillyTavern",
+            "description": "LLM Frontend for Power Users.",
+            "stars": "8,702",
+            "forks": "2,489",
+            "language": "JavaScript",
+            "stars_today": "122 stars this week"
+        },
+        {
+            "zh_des": "基于网络的协作LaTeX编辑器",
+            "url": "https://github.com/overleaf/overleaf",
+            "name": "overleaf /overleaf",
+            "description": "A web-based collaborative LaTeX editor",
+            "stars": "14,418",
+            "forks": "1,468",
+            "language": "JavaScript",
+            "stars_today": "218 stars this week"
+        },
+        {
+            "zh_des": "Zigbee切换到MQTT桥切换，摆脱您专有的Zigbee桥切换",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "name": "Koenkk /zigbee2mqtt",
+            "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+            "stars": "12,387",
+            "forks": "1,693",
+            "language": "JavaScript",
+            "stars_today": "117 stars this week"
+        },
+        {
+            "zh_des": "draw.io官方电子版",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "51,264",
+            "forks": "5,055",
+            "language": "JavaScript",
+            "stars_today": "197 stars this week"
+        },
+        {
+            "zh_des": "一个简单的新选项卡（浏览器主页），灵感来自Google的“Content You”设计",
+            "url": "https://github.com/XengShi/materialYouNewTab",
+            "name": "XengShi /materialYouNewTab",
+            "description": "A Simple New Tab ( browsers's home page ) inspired with Google's 'Material You' design",
+            "stars": "1,555",
+            "forks": "181",
+            "language": "JavaScript",
+            "stars_today": "42 stars this week"
+        },
+        {
+            "zh_des": "React中的Windows 11💻🌈",
+            "url": "https://github.com/blueedgetechno/win11React",
+            "name": "blueedgetechno /win11React",
+            "description": "Windows 11 in React 💻🌈⚡",
+            "stars": "9,197",
+            "forks": "980",
+            "language": "JavaScript",
+            "stars_today": "52 stars this week"
+        },
+        {
+            "zh_des": "通过运行一个命令设置现代网络应用程序。",
+            "url": "https://github.com/facebook/create-react-app",
+            "name": "facebook /create-react-app",
+            "description": "Set up a modern web app by running one command.",
+            "stars": "102,873",
+            "forks": "26,895",
+            "language": "JavaScript",
+            "stars_today": "57 stars this week"
+        },
+        {
+            "zh_des": "📱Graphical Scrcpy来显示和控制Android、由Electron提供支持的设备。",
+            "url": "https://github.com/viarotel-org/escrcpy",
+            "name": "viarotel-org /escrcpy",
+            "description": "📱 Graphical Scrcpy to display and control Android, devices powered by Electron.",
+            "stars": "2,896",
+            "forks": "208",
+            "language": "JavaScript",
+            "stars_today": "130 stars this week"
+        },
+        {
+            "zh_des": "🔍基于LLM的Web搜索引擎多代理框架（如Perplexity.ai Pro和SearchGPT）",
+            "url": "https://github.com/InternLM/MindSearch",
+            "name": "InternLM /MindSearch",
+            "description": "🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)",
+            "stars": "5,399",
+            "forks": "543",
+            "language": "JavaScript",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "Osint框架",
+            "url": "https://github.com/lockfale/OSINT-Framework",
+            "name": "lockfale /OSINT-Framework",
+            "description": "OSINT Framework",
+            "stars": "7,857",
+            "forks": "1,324",
+            "language": "JavaScript",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "一个为Node.js从头开始编写的HTTP/1.1客户端",
+            "url": "https://github.com/nodejs/undici",
+            "name": "nodejs /undici",
+            "description": "An HTTP/1.1 client, written from scratch for Node.js",
+            "stars": "6,379",
+            "forks": "559",
+            "language": "JavaScript",
+            "stars_today": "70 stars this week"
+        },
+        {
+            "zh_des": "Node.js JavaScript运行时🐢🚀",
+            "url": "https://github.com/nodejs/node",
+            "name": "nodejs /node",
+            "description": "Node.js JavaScript runtime ✨🐢🚀✨",
+            "stars": "108,263",
+            "forks": "29,909",
+            "language": "JavaScript",
+            "stars_today": "231 stars this week"
+        }
+    ]
+}

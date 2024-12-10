@@ -79792,3 +79792,197 @@
         }
     ]
 }
+{
+    "12月10日": [
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "14,082",
+            "forks": "1,123",
+            "language": "TypeScript",
+            "stars_today": "275 stars today"
+        },
+        {
+            "zh_des": "使用Next.js、TypeScrip和Shadcn构建的发票生成器应用程序",
+            "url": "https://github.com/al1abb/invoify",
+            "name": "al1abb /invoify",
+            "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+            "stars": "1,184",
+            "forks": "150",
+            "language": "TypeScript",
+            "stars_today": "141 stars today"
+        },
+        {
+            "zh_des": "用于Next.js应用程序的生产级Turborepo模板。",
+            "url": "https://github.com/haydenbleasel/next-forge",
+            "name": "haydenbleasel /next-forge",
+            "description": "Production-grade Turborepo template for Next.js apps.",
+            "stars": "4,463",
+            "forks": "356",
+            "language": "TypeScript",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "本地首创的个人理财应用",
+            "url": "https://github.com/actualbudget/actual",
+            "name": "actualbudget /actual",
+            "description": "A local-first personal finance app",
+            "stars": "15,958",
+            "forks": "1,230",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "3,579",
+            "forks": "1,018",
+            "language": "TypeScript",
+            "stars_today": "154 stars today"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "32,264",
+            "forks": "16,813",
+            "language": "TypeScript",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "使用HTML5画布构建的高性能财务图表",
+            "url": "https://github.com/tradingview/lightweight-charts",
+            "name": "tradingview /lightweight-charts",
+            "description": "Performant financial charts built with HTML5 canvas",
+            "stars": "9,956",
+            "forks": "1,659",
+            "language": "TypeScript",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "Joplin-一款注重隐私的笔记应用程序，具有Windows、MacOS、Linux、Android和iOS的同步功能。",
+            "url": "https://github.com/laurent22/joplin",
+            "name": "laurent22 /joplin",
+            "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+            "stars": "46,475",
+            "forks": "5,051",
+            "language": "TypeScript",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "13,602",
+            "forks": "625",
+            "language": "TypeScript",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "用于表单状态管理和验证的📋Reaction挂钩(Web+Reaction Native)",
+            "url": "https://github.com/react-hook-form/react-hook-form",
+            "name": "react-hook-form /react-hook-form",
+            "description": "📋 React Hooks for form state management and validation (Web + React Native)",
+            "stars": "41,825",
+            "forks": "2,093",
+            "language": "TypeScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "高性能自托管照片和视频管理解决方案。",
+            "url": "https://github.com/immich-app/immich",
+            "name": "immich-app /immich",
+            "description": "High performance self-hosted photo and video management solution.",
+            "stars": "53,817",
+            "forks": "2,852",
+            "language": "TypeScript",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "ChatOllama是一个基于LLMS的开源聊天机器人。它支持广泛的语言模型和知识库管理。",
+            "url": "https://github.com/sugarforever/chat-ollama",
+            "name": "sugarforever /chat-ollama",
+            "description": "ChatOllama is an open source chatbot based on LLMs. It supports a wide range of language models, and knowledge base management.",
+            "stars": "2,686",
+            "forks": "425",
+            "language": "TypeScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括代理、人类、AWS、OpenAI、助手API、Azure、Groq、o1、GPT-4o、Mistral、OpenRouter、Vertex AI、Gemini、Artitures、AI模型切换、消息搜索、代码解释器、langchain、Dall-E-3、OpenAPI操作、函数、安全多用户身份验证、预设、用于自托管的开源。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
+            "stars": "19,661",
+            "forks": "3,270",
+            "language": "TypeScript",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "构建和部署gpt/llm代理⚡️的开源中心",
+            "url": "https://github.com/botpress/botpress",
+            "name": "botpress /botpress",
+            "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️",
+            "stars": "12,885",
+            "forks": "1,804",
+            "language": "TypeScript",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "🧡在一个收件箱中关注您最喜欢的内容",
+            "url": "https://github.com/RSSNext/Follow",
+            "name": "RSSNext /Follow",
+            "description": "🧡 Follow your favorites in one inbox",
+            "stars": "19,841",
+            "forks": "823",
+            "language": "TypeScript",
+            "stars_today": "130 stars today"
+        },
+        {
+            "zh_des": "Crawlee-一个Web抓取和浏览器自动化库，用于Node.js构建可靠的爬行器。在脚本和打字稿中。提取AI、LLMS、RAG或GPT的数据。从网站下载HTML、PDF、JPG、PNG和其他文件。与木偶、剧作家、Cheerio、JSDOM和RAW HTTP一起工作。无论是有头模式还是无头模式。使用代理轮换。",
+            "url": "https://github.com/apify/crawlee",
+            "name": "apify /crawlee",
+            "description": "Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation.",
+            "stars": "15,965",
+            "forks": "692",
+            "language": "TypeScript",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "最可爱的不和谐客户端模式",
+            "url": "https://github.com/Vendicated/Vencord",
+            "name": "Vendicated /Vencord",
+            "description": "The cutest Discord client mod",
+            "stars": "9,398",
+            "forks": "1,323",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "开源财富管理软件。角度+NestJS+棱镜+NX+打字🤍",
+            "url": "https://github.com/ghostfolio/ghostfolio",
+            "name": "ghostfolio /ghostfolio",
+            "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
+            "stars": "4,690",
+            "forks": "474",
+            "language": "TypeScript",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "一个奇特的、易于使用的、能动的自托管码头组合。yaml面向堆栈的管理器",
+            "url": "https://github.com/louislam/dockge",
+            "name": "louislam /dockge",
+            "description": "A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager",
+            "stars": "13,426",
+            "forks": "385",
+            "language": "TypeScript",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
