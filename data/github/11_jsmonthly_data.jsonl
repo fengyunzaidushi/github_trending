@@ -81471,3 +81471,227 @@
         }
     ]
 }
+{
+    "12月11日": [
+        {
+            "zh_des": "📝是一个简单而优雅的标记编辑器，适用于linux、macos和windows。",
+            "url": "https://github.com/marktext/marktext",
+            "name": "marktext /marktext",
+            "description": "📝A simple and elegant markdown editor, available for Linux, macOS and Windows.",
+            "stars": "47,864",
+            "forks": "3,536",
+            "language": "JavaScript",
+            "stars_today": "721 stars this month"
+        },
+        {
+            "zh_des": "具有Windows、MacOS、Linux和Web同步和备份功能的现代电子书管理器和阅读器",
+            "url": "https://github.com/koodo-reader/koodo-reader",
+            "name": "koodo-reader /koodo-reader",
+            "description": "A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web",
+            "stars": "19,777",
+            "forks": "1,527",
+            "language": "JavaScript",
+            "stars_today": "1,175 stars this month"
+        },
+        {
+            "zh_des": "🤖一个基于微信结合开放AI微信GPT/kimi/讯飞等Ai服务实现的微信机器人，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "url": "https://github.com/wangrongding/wechat-bot",
+            "name": "wangrongding /wechat-bot",
+            "description": "🤖一个基于 WeChaty 结合 OpenAi ChatGPT / Kimi / 讯飞等Ai服务实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...",
+            "stars": "5,702",
+            "forks": "784",
+            "language": "JavaScript",
+            "stars_today": "351 stars this month"
+        },
+        {
+            "zh_des": "一个跨平台，可定制的科幻终端模拟器，具有先进的监控和触摸屏支持。",
+            "url": "https://github.com/GitSquared/edex-ui",
+            "name": "GitSquared /edex-ui",
+            "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+            "stars": "40,925",
+            "forks": "2,594",
+            "language": "JavaScript",
+            "stars_today": "262 stars this month"
+        },
+        {
+            "zh_des": "Sigma Web开发课程的源代码",
+            "url": "https://github.com/CodeWithHarry/Sigma-Web-Dev-Course",
+            "name": "CodeWithHarry /Sigma-Web-Dev-Course",
+            "description": "Source Code for Sigma Web Development Course",
+            "stars": "6,488",
+            "forks": "2,004",
+            "language": "JavaScript",
+            "stars_today": "368 stars this month"
+        },
+        {
+            "zh_des": "用于Web和本机用户界面的库。",
+            "url": "https://github.com/facebook/react",
+            "name": "facebook /react",
+            "description": "The library for web and native user interfaces.",
+            "stars": "230,325",
+            "forks": "47,628",
+            "language": "JavaScript",
+            "stars_today": "1,465 stars this month"
+        },
+        {
+            "zh_des": "没有中断招聘流程的⭐️公司",
+            "url": "https://github.com/poteto/hiring-without-whiteboards",
+            "name": "poteto /hiring-without-whiteboards",
+            "description": "⭐️ Companies that don't have a broken hiring process",
+            "stars": "46,712",
+            "forks": "3,644",
+            "language": "JavaScript",
+            "stars_today": "1,118 stars this month"
+        },
+        {
+            "zh_des": "Draw.io的官方电子建设",
+            "url": "https://github.com/jgraph/drawio-desktop",
+            "name": "jgraph /drawio-desktop",
+            "description": "Official electron build of draw.io",
+            "stars": "51,305",
+            "forks": "5,058",
+            "language": "JavaScript",
+            "stars_today": "695 stars this month"
+        },
+        {
+            "zh_des": "免费的隐私友好型屏幕录像机，没有限制🎥",
+            "url": "https://github.com/alyssaxuu/screenity",
+            "name": "alyssaxuu /screenity",
+            "description": "The free and privacy-friendly screen recorder with no limits 🎥",
+            "stars": "13,055",
+            "forks": "1,018",
+            "language": "JavaScript",
+            "stars_today": "809 stars this month"
+        },
+        {
+            "zh_des": "移动安全框架(MobSF)是一个自动化的一体化移动应用程序(Android/iOS/Windows)笔测试、恶意软件分析和安全评估框架，能够执行静态和动态分析。",
+            "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+            "name": "MobSF /Mobile-Security-Framework-MobSF",
+            "description": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+            "stars": "17,679",
+            "forks": "3,258",
+            "language": "JavaScript",
+            "stars_today": "273 stars this month"
+        },
+        {
+            "zh_des": "用Java编写的PDF阅读器",
+            "url": "https://github.com/mozilla/pdf.js",
+            "name": "mozilla /pdf.js",
+            "description": "PDF Reader in JavaScript",
+            "stars": "48,941",
+            "forks": "10,056",
+            "language": "JavaScript",
+            "stars_today": "394 stars this month"
+        },
+        {
+            "zh_des": "OpenAI接口管理&分发系统，支持蔚蓝、人类克劳德、谷歌掌上2和双子座、智谱ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360智脑以及腾讯混元，可用于二次分发管理Key，仅单可执行文件，已打包好Docker镜像，一键部署，开箱即用。OpenAI密钥管理和重新分发系统，对所有LLM使用单一API，并具有英文用户界面。",
+            "url": "https://github.com/songquanpeng/one-api",
+            "name": "songquanpeng /one-api",
+            "description": "OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.",
+            "stars": "19,971",
+            "forks": "4,383",
+            "language": "JavaScript",
+            "stars_today": "930 stars this month"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "87,625",
+            "forks": "2,818",
+            "language": "JavaScript",
+            "stars_today": "1,448 stars this month"
+        },
+        {
+            "zh_des": "最全面的中国诗歌数据库🧶最全中华古诗词数据库，唐宋两朝近一万四千古诗人，接近5.5万首唐诗加26万宋诗。两宋时期1564位词人，21050首词。",
+            "url": "https://github.com/chinese-poetry/chinese-poetry",
+            "name": "chinese-poetry /chinese-poetry",
+            "description": "The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库, 唐宋两朝近一万四千古诗人, 接近5.5万首唐诗加26万宋诗. 两宋时期1564位词人，21050首词。",
+            "stars": "48,370",
+            "forks": "9,713",
+            "language": "JavaScript",
+            "stars_today": "286 stars this month"
+        },
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "6,557",
+            "forks": "479",
+            "language": "JavaScript",
+            "stars_today": "1,538 stars this month"
+        },
+        {
+            "zh_des": "用于探索和测试Api的开源IDE(邮递员/失眠的轻量级替代方案)",
+            "url": "https://github.com/usebruno/bruno",
+            "name": "usebruno /bruno",
+            "description": "Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)",
+            "stars": "28,360",
+            "forks": "1,313",
+            "language": "JavaScript",
+            "stars_today": "1,338 stars this month"
+        },
+        {
+            "zh_des": "Fay是一个开源的数字人类框架，集成了语言模型和数字字符。它为不同的应用提供零售、助理和代理版本，如虚拟导购、广播、助理、服务员、教师和基于语音或文本的移动助理。",
+            "url": "https://github.com/xszyou/Fay",
+            "name": "xszyou /Fay",
+            "description": "Fay is an open-source digital human framework integrating language models and digital characters. It offers retail, assistant, and agent versions for diverse applications like virtual shopping guides, broadcasters, assistants, waiters, teachers, and voice or text-based mobile assistants.",
+            "stars": "9,433",
+            "forks": "1,827",
+            "language": "JavaScript",
+            "stars_today": "270 stars this month"
+        },
+        {
+            "zh_des": "标志性的SVG、字体和CSS工具包",
+            "url": "https://github.com/FortAwesome/Font-Awesome",
+            "name": "FortAwesome /Font-Awesome",
+            "description": "The iconic SVG, font, and CSS toolkit",
+            "stars": "74,410",
+            "forks": "12,211",
+            "language": "JavaScript",
+            "stars_today": "780 stars this month"
+        },
+        {
+            "zh_des": "ComfyUI-Manager是一个扩展，旨在增强ComfyUI的可用性。它提供了安装、删除、禁用和启用ComfyUI的各种自定义节点的管理功能。此外，该扩展还提供了集线器功能和方便的函数来访问ComfyUI中的各种信息。",
+            "url": "https://github.com/ltdrdata/ComfyUI-Manager",
+            "name": "ltdrdata /ComfyUI-Manager",
+            "description": "ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.",
+            "stars": "7,376",
+            "forks": "972",
+            "language": "JavaScript",
+            "stars_today": "552 stars this month"
+        },
+        {
+            "zh_des": "Zigbee🐝to MQTT Bridge🌉，摆脱你专有的Zigbee Bridge🔨",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "name": "Koenkk /zigbee2mqtt",
+            "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+            "stars": "12,397",
+            "forks": "1,695",
+            "language": "JavaScript",
+            "stars_today": "287 stars this month"
+        },
+        {
+            "zh_des": "轻量级全功能文字脚本/Java脚本WhatsApp Web API",
+            "url": "https://github.com/WhiskeySockets/Baileys",
+            "name": "WhiskeySockets /Baileys",
+            "description": "Lightweight full-featured typescript/javascript WhatsApp Web API",
+            "stars": "4,177",
+            "forks": "1,411",
+            "language": "JavaScript",
+            "stars_today": "194 stars this month"
+        },
+        {
+            "zh_des": "用于管理Nginx代理主机的Docker容器，具有简单、强大的界面",
+            "url": "https://github.com/NginxProxyManager/nginx-proxy-manager",
+            "name": "NginxProxyManager /nginx-proxy-manager",
+            "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface",
+            "stars": "23,593",
+            "forks": "2,737",
+            "language": "JavaScript",
+            "stars_today": "637 stars this month"
+        }
+    ]
+}
