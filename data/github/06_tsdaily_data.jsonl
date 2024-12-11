@@ -80160,3 +80160,177 @@
         }
     ]
 }
+{
+    "12月11日": [
+        {
+            "zh_des": "使用Next.js、TypeScrip和Shadcn构建的发票生成器应用程序",
+            "url": "https://github.com/al1abb/invoify",
+            "name": "al1abb /invoify",
+            "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+            "stars": "1,461",
+            "forks": "162",
+            "language": "TypeScript",
+            "stars_today": "353 stars today"
+        },
+        {
+            "zh_des": "快速开始使用Next.js、postgres、条纹和shadcn/ui。",
+            "url": "https://github.com/leerob/next-saas-starter",
+            "name": "leerob /next-saas-starter",
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "stars": "6,111",
+            "forks": "694",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "19,985",
+            "forks": "1,770",
+            "language": "TypeScript",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "NocoBase是一个可扩展性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "12,936",
+            "forks": "1,435",
+            "language": "TypeScript",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "开源Claude人工制品-使用Llama 3.1 405B构建",
+            "url": "https://github.com/Nutlope/llamacoder",
+            "name": "Nutlope /llamacoder",
+            "description": "Open source Claude Artifacts – built with Llama 3.1 405B",
+            "stars": "3,812",
+            "forks": "653",
+            "language": "TypeScript",
+            "stars_today": "66 stars today"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "21,745",
+            "forks": "431",
+            "language": "TypeScript",
+            "stars_today": "103 stars today"
+        },
+        {
+            "zh_des": "免费和源代码可用公平代码许可的工作流自动化工具。轻松实现跨不同服务的任务自动化。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.",
+            "stars": "51,191",
+            "forks": "8,466",
+            "language": "TypeScript",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "3,732",
+            "forks": "1,058",
+            "language": "TypeScript",
+            "stars_today": "155 stars today"
+        },
+        {
+            "zh_des": "最完整的角度用户界面组件库",
+            "url": "https://github.com/primefaces/primeng",
+            "name": "primefaces /primeng",
+            "description": "The Most Complete Angular UI Component Library",
+            "stars": "10,692",
+            "forks": "4,635",
+            "language": "TypeScript",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "165,184",
+            "forks": "29,621",
+            "language": "TypeScript",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是唯一可用于生产的人工智能支持的后端代码生成",
+            "url": "https://github.com/amplication/amplication",
+            "name": "amplication /amplication",
+            "description": "🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation",
+            "stars": "15,392",
+            "forks": "1,497",
+            "language": "TypeScript",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "Etherum应用程序的反应式原语",
+            "url": "https://github.com/wevm/wagmi",
+            "name": "wevm /wagmi",
+            "description": "Reactive primitives for Ethereum apps",
+            "stars": "6,048",
+            "forks": "1,085",
+            "language": "TypeScript",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "增强的ChatGPT克隆：功能包括代理、人类、AWS、OpenAI、助手API、Azure、Groq、o1、GPT-4o、Mistral、OpenRouter、Vertex AI、Gemini、Artitures、AI模型切换、消息搜索、代码解释器、langchain、Dall-E-3、OpenAPI操作、函数、安全多用户身份验证、预设、用于自托管的开源。激活的项目。",
+            "url": "https://github.com/danny-avila/LibreChat",
+            "name": "danny-avila /LibreChat",
+            "description": "Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.",
+            "stars": "19,696",
+            "forks": "3,280",
+            "language": "TypeScript",
+            "stars_today": "48 stars today"
+        },
+        {
+            "zh_des": "开源财富管理软件。角度+NestJS+棱镜+NX+打字🤍",
+            "url": "https://github.com/ghostfolio/ghostfolio",
+            "name": "ghostfolio /ghostfolio",
+            "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
+            "stars": "4,717",
+            "forks": "475",
+            "language": "TypeScript",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "14,186",
+            "forks": "1,133",
+            "language": "TypeScript",
+            "stars_today": "231 stars today"
+        },
+        {
+            "zh_des": "Weaviate支持的RAG聊天机器人",
+            "url": "https://github.com/weaviate/Verba",
+            "name": "weaviate /Verba",
+            "description": "Retrieval Augmented Generation (RAG) chatbot powered by Weaviate",
+            "stars": "6,464",
+            "forks": "702",
+            "language": "TypeScript",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "SigNoz是OpenTelemeter原生的开源可观察性平台，在单个应用程序中提供日志、跟踪和指标。DataDog、NewRelic等的开源替代品。🔥🖥。👉开源应用程序性能监控和可观察性工具",
+            "url": "https://github.com/SigNoz/signoz",
+            "name": "SigNoz /signoz",
+            "description": "SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool",
+            "stars": "19,752",
+            "forks": "1,335",
+            "language": "TypeScript",
+            "stars_today": "45 stars today"
+        }
+    ]
+}
