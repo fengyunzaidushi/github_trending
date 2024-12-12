@@ -79397,3 +79397,227 @@
         }
     ]
 }
+{
+    "12月12日": [
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "4,008",
+            "forks": "1,152",
+            "language": "TypeScript",
+            "stars_today": "889 stars this week"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多种AI提供者(OpenAI/Claude 3/Gemini/Ollama/Qwen/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS/Plugins/Artitures)。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "48,788",
+            "forks": "10,578",
+            "language": "TypeScript",
+            "stars_today": "1,716 stars this week"
+        },
+        {
+            "zh_des": "快速开始使用Next.js、postgres、条纹和shadcn/ui。",
+            "url": "https://github.com/leerob/next-saas-starter",
+            "name": "leerob /next-saas-starter",
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "stars": "6,506",
+            "forks": "723",
+            "language": "TypeScript",
+            "stars_today": "533 stars this week"
+        },
+        {
+            "zh_des": "加速新的GitHub操作工作流",
+            "url": "https://github.com/actions/starter-workflows",
+            "name": "actions /starter-workflows",
+            "description": "Accelerating new GitHub Actions workflows",
+            "stars": "9,448",
+            "forks": "5,457",
+            "language": "TypeScript",
+            "stars_today": "53 stars this week"
+        },
+        {
+            "zh_des": "为每个人安排基础设施。",
+            "url": "https://github.com/calcom/cal.com",
+            "name": "calcom /cal.com",
+            "description": "Scheduling infrastructure for absolutely everyone.",
+            "stars": "32,941",
+            "forks": "8,192",
+            "language": "TypeScript",
+            "stars_today": "200 stars this week"
+        },
+        {
+            "zh_des": "使用HTML5画布构建的高性能财务图表",
+            "url": "https://github.com/tradingview/lightweight-charts",
+            "name": "tradingview /lightweight-charts",
+            "description": "Performant financial charts built with HTML5 canvas",
+            "stars": "10,009",
+            "forks": "1,661",
+            "language": "TypeScript",
+            "stars_today": "335 stars this week"
+        },
+        {
+            "zh_des": "NocoBase是一个可扩展性优先的开源无代码/低代码平台，用于构建业务应用程序和企业解决方案。",
+            "url": "https://github.com/nocobase/nocobase",
+            "name": "nocobase /nocobase",
+            "description": "NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.",
+            "stars": "12,956",
+            "forks": "1,436",
+            "language": "TypeScript",
+            "stars_today": "109 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "14,341",
+            "forks": "1,151",
+            "language": "TypeScript",
+            "stars_today": "886 stars this week"
+        },
+        {
+            "zh_des": "开源Claude人工制品-使用Llama 3.1 405B构建",
+            "url": "https://github.com/Nutlope/llamacoder",
+            "name": "Nutlope /llamacoder",
+            "description": "Open source Claude Artifacts – built with Llama 3.1 405B",
+            "stars": "3,842",
+            "forks": "665",
+            "language": "TypeScript",
+            "stars_today": "167 stars this week"
+        },
+        {
+            "zh_des": "PlayWright是用于Web测试和自动化的框架。它允许用一个API测试Chromium、Firefox和WebKit。",
+            "url": "https://github.com/microsoft/playwright",
+            "name": "microsoft /playwright",
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.",
+            "stars": "67,729",
+            "forks": "3,727",
+            "language": "TypeScript",
+            "stars_today": "346 stars this week"
+        },
+        {
+            "zh_des": "交互式路线图、指南和其他教育内容，帮助开发人员在职业生涯中成长。",
+            "url": "https://github.com/kamranahmedse/developer-roadmap",
+            "name": "kamranahmedse /developer-roadmap",
+            "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+            "stars": "301,174",
+            "forks": "39,518",
+            "language": "TypeScript",
+            "stars_today": "1,121 stars this week"
+        },
+        {
+            "zh_des": "具有原生人工智能功能的公平代码工作流自动化平台。将可视化构建与定制代码、自托管或云、400多种集成相结合。",
+            "url": "https://github.com/n8n-io/n8n",
+            "name": "n8n-io /n8n",
+            "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+            "stars": "51,324",
+            "forks": "8,522",
+            "language": "TypeScript",
+            "stars_today": "666 stars this week"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "22,376",
+            "forks": "438",
+            "language": "TypeScript",
+            "stars_today": "909 stars this week"
+        },
+        {
+            "zh_des": "用于无缝工作流的开源、跨平台终端",
+            "url": "https://github.com/wavetermdev/waveterm",
+            "name": "wavetermdev /waveterm",
+            "description": "An open-source, cross-platform terminal for seamless workflows",
+            "stars": "4,909",
+            "forks": "126",
+            "language": "TypeScript",
+            "stars_today": "248 stars this week"
+        },
+        {
+            "zh_des": "定位浮动元素并为其创建交互的JavaScript库。",
+            "url": "https://github.com/floating-ui/floating-ui",
+            "name": "floating-ui /floating-ui",
+            "description": "A JavaScript library to position floating elements and create interactions for them.",
+            "stars": "30,289",
+            "forks": "1,620",
+            "language": "TypeScript",
+            "stars_today": "94 stars this week"
+        },
+        {
+            "zh_des": "内容驱动型网站的Web框架。⭐️之星支持我们的工作！",
+            "url": "https://github.com/withastro/astro",
+            "name": "withastro /astro",
+            "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+            "stars": "47,597",
+            "forks": "2,522",
+            "language": "TypeScript",
+            "stars_today": "251 stars this week"
+        },
+        {
+            "zh_des": "Docs.githorb.com的开源回购",
+            "url": "https://github.com/github/docs",
+            "name": "github /docs",
+            "description": "The open-source repo for docs.github.com",
+            "stars": "16,487",
+            "forks": "60,192",
+            "language": "TypeScript",
+            "stars_today": "43 stars this week"
+        },
+        {
+            "zh_des": "⏩Continue是领先的开源AI代码助手。您可以连接任何模型和任何上下文，以在VS代码和JetBrains中构建自定义自动完成和聊天体验",
+            "url": "https://github.com/continuedev/continue",
+            "name": "continuedev /continue",
+            "description": "⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains",
+            "stars": "20,046",
+            "forks": "1,784",
+            "language": "TypeScript",
+            "stars_today": "289 stars this week"
+        },
+        {
+            "zh_des": "拖放用户界面以构建您的定制LLM流程",
+            "url": "https://github.com/FlowiseAI/Flowise",
+            "name": "FlowiseAI /Flowise",
+            "description": "Drag & drop UI to build your customized LLM flow",
+            "stars": "32,347",
+            "forks": "16,850",
+            "language": "TypeScript",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "Reaction的声明性路由",
+            "url": "https://github.com/remix-run/react-router",
+            "name": "remix-run /react-router",
+            "description": "Declarative routing for React",
+            "stars": "53,459",
+            "forks": "10,357",
+            "language": "TypeScript",
+            "stars_today": "100 stars this week"
+        },
+        {
+            "zh_des": "这是一个免费的开源SaaS应用程序初学者，适用于具有超能力的Reaction&Node.js。功能齐全。以社区为导向。",
+            "url": "https://github.com/wasp-lang/open-saas",
+            "name": "wasp-lang /open-saas",
+            "description": "A free, open-source SaaS app starter for React & Node.js with superpowers. Full-featured. Community-driven.",
+            "stars": "8,548",
+            "forks": "820",
+            "language": "TypeScript",
+            "stars_today": "103 stars this week"
+        },
+        {
+            "zh_des": "一个注重简单性和可扩展性的人工智能Web浏览框架。",
+            "url": "https://github.com/browserbase/stagehand",
+            "name": "browserbase /stagehand",
+            "description": "An AI web browsing framework focused on simplicity and extensibility.",
+            "stars": "1,658",
+            "forks": "69",
+            "language": "TypeScript",
+            "stars_today": "169 stars this week"
+        }
+    ]
+}

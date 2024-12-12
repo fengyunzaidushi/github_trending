@@ -70912,3 +70912,177 @@
         }
     ]
 }
+{
+    "12月12日": [
+        {
+            "zh_des": "🕵️‍♂️通过用户名从数以千计的站点收集一个人的档案",
+            "url": "https://github.com/soxoj/maigret",
+            "name": "soxoj /maigret",
+            "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "stars": "12,741",
+            "forks": "898",
+            "language": "Python",
+            "stars_today": "384 stars today"
+        },
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "13,555",
+            "forks": "674",
+            "language": "Python",
+            "stars_today": "205 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "50,227",
+            "forks": "9,166",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "大语言模型文本生成推理",
+            "url": "https://github.com/huggingface/text-generation-inference",
+            "name": "huggingface /text-generation-inference",
+            "description": "Large Language Model Text Generation Inference",
+            "stars": "9,349",
+            "forks": "1,094",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "代理零人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "5,046",
+            "forks": "1,138",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "安装Jenkins，将Docker配置为Slave，设置CICD，使用Argo CD以GitOps的方式将应用部署到K8。",
+            "url": "https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero",
+            "name": "iam-veeramalla /Jenkins-Zero-To-Hero",
+            "description": "Install Jenkins, configure Docker as slave, set up cicd, deploy applications to k8s using Argo CD in GitOps way.",
+            "stars": "6,795",
+            "forks": "12,756",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "面向机器学习的开源特征存储",
+            "url": "https://github.com/feast-dev/feast",
+            "name": "feast-dev /feast",
+            "description": "The Open Source Feature Store for Machine Learning",
+            "stars": "5,661",
+            "forks": "1,006",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "25,231",
+            "forks": "2,434",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "71,880",
+            "forks": "6,311",
+            "language": "Python",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "SQLite是一个🥤工具包，用于使用PostgreSQLite或SQLite进行检索增强生成(RAG",
+            "url": "https://github.com/superlinear-ai/raglite",
+            "name": "superlinear-ai /raglite",
+            "description": "🥤 RAGLite is a Python toolkit for Retrieval-Augmented Generation (RAG) with PostgreSQL or SQLite",
+            "stars": "510",
+            "forks": "37",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "⚡️HivisionIDPhotos：一款轻量级高效的AI ID照片工具。一个轻量级的AI证件照制作算法.",
+            "url": "https://github.com/Zeyi-Lin/HivisionIDPhotos",
+            "name": "Zeyi-Lin /HivisionIDPhotos",
+            "description": "⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。",
+            "stars": "13,424",
+            "forks": "1,401",
+            "language": "Python",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "适用于Python的静态类型检查器",
+            "url": "https://github.com/microsoft/pyright",
+            "name": "microsoft /pyright",
+            "description": "Static Type Checker for Python",
+            "stars": "13,547",
+            "forks": "1,497",
+            "language": "Python",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Robyn是一个具有Rust运行时的超快异步Python Web框架。",
+            "url": "https://github.com/sparckles/Robyn",
+            "name": "sparckles /Robyn",
+            "description": "Robyn is a Super Fast Async Python Web Framework with a Rust runtime.",
+            "stars": "4,710",
+            "forks": "244",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "一种用于创建、编辑和调用有噪声的中间尺度量子(NISQ)电路的Python框架。",
+            "url": "https://github.com/quantumlib/Cirq",
+            "name": "quantumlib /Cirq",
+            "description": "A Python framework for creating, editing, and invoking Noisy Intermediate Scale Quantum (NISQ) circuits.",
+            "stars": "4,334",
+            "forks": "1,031",
+            "language": "Python",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "让你恼火的不只是一个短绒！",
+            "url": "https://github.com/pylint-dev/pylint",
+            "name": "pylint-dev /pylint",
+            "description": "It's not just a linter that annoys you!",
+            "stars": "5,346",
+            "forks": "1,146",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "SeCloud-安全与便捷的网盘应用SeCloud是一款集安全认证、加密传输和加密存储于一体的高级网盘应用。通过创新的密码学设计和自主开发的通信协议、SeCloud致力于保护用户隐私，确保服务器无法窃取任何用户数据。SeCloud提供了与传统网盘类似的便捷使用体验，同时构建了顶级的安全保障体系。SeCloud由三部分组成:服务器(服务器端)、客户端后端(客户端)和客户端前端(前端)。每个部分均需独立配置运行环境.确保已安装以下工具：《巨蟒3》",
+            "url": "https://github.com/DeMoYao100/byrFileShare",
+            "name": "DeMoYao100 /byrFileShare",
+            "description": "SeCloud - 安全与便捷的网盘应用SeCloud 是一款集 安全认证、加密传输 和 加密存储 于一体的高级网盘应用。通过创新的密码学设计和自主开发的通信协议，SeCloud 致力于保护用户隐私，确保服务器无法窃取任何用户数据。SeCloud 提供了与传统网盘类似的便捷使用体验，同时构建了顶级的安全保障体系。SeCloud 由三部分组成：服务器 (server)、客户端后端 (client) 和 客户端前端 (frontend)。每个部分均需独立配置运行环境。确保已安装以下工具：Python 3",
+            "stars": "156",
+            "forks": "21",
+            "language": "Python",
+            "stars_today": "83 stars today"
+        },
+        {
+            "zh_des": "支持100多个比特币/阿尔特币交易所的JavaScript/Tyescript/Python/C#/PHP加密货币交易API",
+            "url": "https://github.com/ccxt/ccxt",
+            "name": "ccxt /ccxt",
+            "description": "A JavaScript / TypeScript / Python / C# / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges",
+            "stars": "33,586",
+            "forks": "7,587",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        }
+    ]
+}
