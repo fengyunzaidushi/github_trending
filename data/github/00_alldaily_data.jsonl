@@ -70660,3 +70660,167 @@
         }
     ]
 }
+{
+    "12月13日": [
+        {
+            "zh_des": "Libo是一个与SQLite兼容的在建、在建的OLTP数据库管理系统。",
+            "url": "https://github.com/tursodatabase/limbo",
+            "name": "tursodatabase /limbo",
+            "description": "Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite.",
+            "stars": "4,380",
+            "forks": "150",
+            "language": "Rust",
+            "stars_today": "784 stars today"
+        },
+        {
+            "zh_des": "Nexus zkVM：零知识的虚拟机器",
+            "url": "https://github.com/nexus-xyz/nexus-zkvm",
+            "name": "nexus-xyz /nexus-zkvm",
+            "description": "The Nexus zkVM: The zero-knowledge virtual machine",
+            "stars": "1,942",
+            "forks": "343",
+            "language": "Rust",
+            "stars_today": "843 stars today"
+        },
+        {
+            "zh_des": "🕵️‍♂️通过用户名从数以千计的站点收集一个人的档案",
+            "url": "https://github.com/soxoj/maigret",
+            "name": "soxoj /maigret",
+            "description": "🕵️‍♂️ Collect a dossier on a person by username from thousands of sites",
+            "stars": "12,928",
+            "forks": "904",
+            "language": "Python",
+            "stars_today": "384 stars today"
+        },
+        {
+            "zh_des": "快速开始使用Next.js、postgres、条纹和shadcn/ui。",
+            "url": "https://github.com/leerob/next-saas-starter",
+            "name": "leerob /next-saas-starter",
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "stars": "6,747",
+            "forks": "736",
+            "language": "TypeScript",
+            "stars_today": "269 stars today"
+        },
+        {
+            "zh_des": "24通道、100Msps逻辑分析仪硬件和软件",
+            "url": "https://github.com/gusmanb/logicanalyzer",
+            "name": "gusmanb /logicanalyzer",
+            "description": "24 channel, 100Msps logic analyzer hardware and software",
+            "stars": "2,768",
+            "forks": "291",
+            "language": "C#",
+            "stars_today": "109 stars today"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "5,299",
+            "forks": "606",
+            "language": "Python",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "⚙️🦀构建可移植、模块化和轻量级的全栈代理",
+            "url": "https://github.com/0xPlaygrounds/rig",
+            "name": "0xPlaygrounds /rig",
+            "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+            "stars": "771",
+            "forks": "47",
+            "language": "Rust",
+            "stars_today": "284 stars today"
+        },
+        {
+            "zh_des": "为新一代人工智能准备好您的文档",
+            "url": "https://github.com/DS4SD/docling",
+            "name": "DS4SD /docling",
+            "description": "Get your documents ready for gen AI",
+            "stars": "13,777",
+            "forks": "683",
+            "language": "Python",
+            "stars_today": "206 stars today"
+        },
+        {
+            "zh_des": "Shardeum是一个基于EVM的自动伸缩区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "22,409",
+            "forks": "440",
+            "language": "TypeScript",
+            "stars_today": "614 stars today"
+        },
+        {
+            "zh_des": "SWIFT中优雅的HTTP网络",
+            "url": "https://github.com/Alamofire/Alamofire",
+            "name": "Alamofire /Alamofire",
+            "description": "Elegant HTTP Networking in Swift",
+            "stars": "41,440",
+            "forks": "7,571",
+            "language": "Swift",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "LibSQL是SQLite的一个分支，它既是开源的，也是开放贡献的。",
+            "url": "https://github.com/tursodatabase/libsql",
+            "name": "tursodatabase /libsql",
+            "description": "libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
+            "stars": "12,459",
+            "forks": "315",
+            "language": "C",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "50,353",
+            "forks": "9,173",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "用于无缝工作流的开源、跨平台终端",
+            "url": "https://github.com/wavetermdev/waveterm",
+            "name": "wavetermdev /waveterm",
+            "description": "An open-source, cross-platform terminal for seamless workflows",
+            "stars": "5,055",
+            "forks": "129",
+            "language": "TypeScript",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "一种由ESP32微控制器供电的低功耗电子纸天气显示器。利用OpenWeatherMap API。",
+            "url": "https://github.com/lmarzen/esp32-weather-epd",
+            "name": "lmarzen /esp32-weather-epd",
+            "description": "A low-power E-Paper weather display powered by an ESP32 microcontroller. Utilizes the OpenWeatherMap API.",
+            "stars": "4,428",
+            "forks": "270",
+            "language": "C",
+            "stars_today": "691 stars today"
+        },
+        {
+            "zh_des": "将您的Postgres数据的小子集同步到本地应用程序和服务。",
+            "url": "https://github.com/electric-sql/electric",
+            "name": "electric-sql /electric",
+            "description": "Sync little subsets of your Postgres data into local apps and services.",
+            "stars": "6,918",
+            "forks": "166",
+            "language": "Elixir",
+            "stars_today": "107 stars today"
+        },
+        {
+            "zh_des": "大语言模型文本生成推理",
+            "url": "https://github.com/huggingface/text-generation-inference",
+            "name": "huggingface /text-generation-inference",
+            "description": "Large Language Model Text Generation Inference",
+            "stars": "9,400",
+            "forks": "1,098",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        }
+    ]
+}

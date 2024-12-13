@@ -74360,3 +74360,147 @@
         }
     ]
 }
+{
+    "12月13日": [
+        {
+            "zh_des": "[NeurIPS2024口头][GPT Beats Diffect🔥][视觉生成中的标度法则📈]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "6,125",
+            "forks": "411",
+            "language": "Python",
+            "stars_today": "758 stars this week"
+        },
+        {
+            "zh_des": "代理框架/填充程序将与LLMS配合使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "3,699",
+            "forks": "217",
+            "language": "Python",
+            "stars_today": "1,446 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "20,110",
+            "forks": "1,526",
+            "language": "Python",
+            "stars_today": "534 stars this week"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "16,222",
+            "forks": "2,212",
+            "language": "Python",
+            "stars_today": "440 stars this week"
+        },
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "16,937",
+            "forks": "1,264",
+            "language": "Python",
+            "stars_today": "1,762 stars this week"
+        },
+        {
+            "zh_des": "文件解析器针对LLM摄取进行了优化，无损失地解析PDF、DOCX、PPTX格式，这是LLMS的理想格式。",
+            "url": "https://github.com/QuivrHQ/MegaParse",
+            "name": "QuivrHQ /MegaParse",
+            "description": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+            "stars": "4,135",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "2,294 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "5,299",
+            "forks": "606",
+            "language": "Python",
+            "stars_today": "680 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "20,835",
+            "forks": "1,202",
+            "language": "Python",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "申请伪造访问并获得访问令牌我会指导您如何从HuggingFace Hub获取API密钥，制作一个具有读取权限的API密钥",
+            "url": "https://github.com/evolutionaryscale/esm",
+            "name": "evolutionaryscale /esm",
+            "description": "Apply for forge access and get an access tokenWill instruct you how to get an API key from huggingface hub, make one with \"Read\" permission",
+            "stars": "1,500",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "Qodo-Cover：一个人工智能支持的自动测试生成和代码覆盖率增强工具！💻🤖🧪🐞",
+            "url": "https://github.com/qodo-ai/qodo-cover",
+            "name": "qodo-ai /qodo-cover",
+            "description": "Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞",
+            "stars": "4,635",
+            "forks": "355",
+            "language": "Python",
+            "stars_today": "195 stars this week"
+        },
+        {
+            "zh_des": "📺IPTV IPTV🚀：✨📡☘️🌊🎬🎥🏀🪁🎮🎵🏛电视直播源更新工具央视、卫视、广东及各省份地方台、港·澳·台、电影、咪咕、体育、动画、；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVbox等播放软件；支持工作流、Docker(AMD64/ARM 64/ARM v7)、命令行、图形用户界面运行方式|IPTV直播电视信号源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "8,541",
+            "forks": "1,852",
+            "language": "Python",
+            "stars_today": "792 stars this week"
+        },
+        {
+            "zh_des": "可调用100多个OpenAI格式的LLM API的Python SDK、代理服务器(LLM网关)-[Bedock、Azure、OpenAI、Vertex AI、Cohere、Anthropic、Sagemaker、HuggingFace、Replate、Groq]",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+            "stars": "15,059",
+            "forks": "1,768",
+            "language": "Python",
+            "stars_today": "431 stars this week"
+        },
+        {
+            "zh_des": "用于从YouTube.com和其他视频网站下载视频的命令行程序",
+            "url": "https://github.com/ytdl-org/youtube-dl",
+            "name": "ytdl-org /youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "stars": "132,951",
+            "forks": "10,095",
+            "language": "Python",
+            "stars_today": "179 stars this week"
+        },
+        {
+            "zh_des": "在Python中实现的所有算法",
+            "url": "https://github.com/TheAlgorithms/Python",
+            "name": "TheAlgorithms /Python",
+            "description": "All Algorithms implemented in Python",
+            "stars": "195,513",
+            "forks": "45,928",
+            "language": "Python",
+            "stars_today": "607 stars this week"
+        }
+    ]
+}
