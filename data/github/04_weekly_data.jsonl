@@ -74504,3 +74504,157 @@
         }
     ]
 }
+{
+    "12月13日": [
+        {
+            "zh_des": "SOTA开源TTS",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "16,988",
+            "forks": "1,266",
+            "language": "Python",
+            "stars_today": "1,762 stars this week"
+        },
+        {
+            "zh_des": "文件解析器针对LLM摄取进行了优化，无损失地解析PDF、DOCX、PPTX格式，这是LLMS的理想格式。",
+            "url": "https://github.com/QuivrHQ/MegaParse",
+            "name": "QuivrHQ /MegaParse",
+            "description": "File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.",
+            "stars": "4,184",
+            "forks": "216",
+            "language": "Python",
+            "stars_today": "2,294 stars this week"
+        },
+        {
+            "zh_des": "Google DeepMind GraphCast和GenCast",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "Google DeepMind GraphCast and GenCast",
+            "stars": "5,384",
+            "forks": "660",
+            "language": "Python",
+            "stars_today": "373 stars this week"
+        },
+        {
+            "zh_des": "代理框架/填充程序将与LLMS配合使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "3,760",
+            "forks": "218",
+            "language": "Python",
+            "stars_today": "1,446 stars this week"
+        },
+        {
+            "zh_des": "Gen-AI团队聊天-如果ChatGPT可以访问您团队的独特知识，请考虑ChatGPT。",
+            "url": "https://github.com/onyx-dot-app/onyx",
+            "name": "onyx-dot-app /onyx",
+            "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+            "stars": "11,068",
+            "forks": "1,395",
+            "language": "Python",
+            "stars_today": "200 stars this week"
+        },
+        {
+            "zh_des": "DSPy：编程而不是提示语言模型的框架",
+            "url": "https://github.com/stanfordnlp/dspy",
+            "name": "stanfordnlp /dspy",
+            "description": "DSPy: The framework for programming—not prompting—language models",
+            "stars": "20,135",
+            "forks": "1,526",
+            "language": "Python",
+            "stars_today": "534 stars this week"
+        },
+        {
+            "zh_des": "纯🕸️🐍中的PythonWeb应用程序",
+            "url": "https://github.com/reflex-dev/reflex",
+            "name": "reflex-dev /reflex",
+            "description": "🕸️ Web apps in pure Python 🐍",
+            "stars": "20,858",
+            "forks": "1,201",
+            "language": "Python",
+            "stars_today": "314 stars this week"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "16,244",
+            "forks": "2,212",
+            "language": "Python",
+            "stars_today": "440 stars this week"
+        },
+        {
+            "zh_des": "申请伪造访问并获得访问令牌我会指导您如何从HuggingFace Hub获取API密钥，制作一个具有读取权限的API密钥",
+            "url": "https://github.com/evolutionaryscale/esm",
+            "name": "evolutionaryscale /esm",
+            "description": "Apply for forge access and get an access tokenWill instruct you how to get an API key from huggingface hub, make one with \"Read\" permission",
+            "stars": "1,503",
+            "forks": "168",
+            "language": "Python",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "5,500",
+            "forks": "619",
+            "language": "Python",
+            "stars_today": "680 stars this week"
+        },
+        {
+            "zh_des": "[NeurIPS2024口头][GPT Beats Diffect🔥][视觉生成中的标度法则📈]官方实施。“视觉自回归建模：基于下一尺度预测的可伸缩图像生成”。一个*超简单，用户友好的，但最先进的*代码库，用于自回归图像生成！",
+            "url": "https://github.com/FoundationVision/VAR",
+            "name": "FoundationVision /VAR",
+            "description": "[NeurIPS 2024 Oral][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of \"Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction\". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!",
+            "stars": "6,152",
+            "forks": "416",
+            "language": "Python",
+            "stars_today": "758 stars this week"
+        },
+        {
+            "zh_des": "建立在最新的OpenAI助手API之上的唯一可靠的代理框架。",
+            "url": "https://github.com/VRSEN/agency-swarm",
+            "name": "VRSEN /agency-swarm",
+            "description": "The only reliable agent framework built on top of the latest OpenAI Assistants API.",
+            "stars": "2,909",
+            "forks": "770",
+            "language": "Python",
+            "stars_today": "87 stars this week"
+        },
+        {
+            "zh_des": "像以前一样体验MacOS",
+            "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+            "name": "dortania /OpenCore-Legacy-Patcher",
+            "description": "Experience macOS just like before",
+            "stars": "13,366",
+            "forks": "1,280",
+            "language": "Python",
+            "stars_today": "124 stars this week"
+        },
+        {
+            "zh_des": "Langflow是一个用于RAG和多代理AI应用程序的低码应用程序构建器。它是基于Python的，不依赖于任何模型、API或数据库。",
+            "url": "https://github.com/langflow-ai/langflow",
+            "name": "langflow-ai /langflow",
+            "description": "Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.",
+            "stars": "38,451",
+            "forks": "4,418",
+            "language": "Python",
+            "stars_today": "1,174 stars this week"
+        },
+        {
+            "zh_des": "保留格式的pdf科学论文翻译-基于AI完整保留排版的pdf文档全文双语翻译，支持谷歌/深度/ollama/OpenAI/图形用户界面/图形用户界面/Docker",
+            "url": "https://github.com/Byaidu/PDFMathTranslate",
+            "name": "Byaidu /PDFMathTranslate",
+            "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+            "stars": "5,650",
+            "forks": "403",
+            "language": "Python",
+            "stars_today": "1,303 stars this week"
+        }
+    ]
+}
