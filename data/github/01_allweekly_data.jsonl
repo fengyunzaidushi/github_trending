@@ -76602,3 +76602,177 @@
         }
     ]
 }
+{
+    "12月16日": [
+        {
+            "zh_des": "快速使用Next.js、Postgs、Stripe和shadnn/ui。",
+            "url": "https://github.com/leerob/next-saas-starter",
+            "name": "leerob /next-saas-starter",
+            "description": "Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.",
+            "stars": "6,981",
+            "forks": "753",
+            "language": "TypeScript",
+            "stars_today": "1,203 stars this week"
+        },
+        {
+            "zh_des": "适用于Web、桌面、移动设备等的全栈应用程序框架。",
+            "url": "https://github.com/DioxusLabs/dioxus",
+            "name": "DioxusLabs /dioxus",
+            "description": "Fullstack app framework for web, desktop, mobile, and more.",
+            "stars": "23,119",
+            "forks": "884",
+            "language": "Rust",
+            "stars_today": "1,240 stars this week"
+        },
+        {
+            "zh_des": "使用Gemini API的示例和指南",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "Examples and guides for using the Gemini API",
+            "stars": "6,779",
+            "forks": "926",
+            "language": "Jupyter Notebook",
+            "stars_today": "843 stars this week"
+        },
+        {
+            "zh_des": "Google DeepMind GraphCast和GenCast",
+            "url": "https://github.com/google-deepmind/graphcast",
+            "name": "google-deepmind /graphcast",
+            "description": "Google DeepMind GraphCast and GenCast",
+            "stars": "5,426",
+            "forks": "665",
+            "language": "Python",
+            "stars_today": "252 stars this week"
+        },
+        {
+            "zh_des": "Shardeum是一个基于E虚拟机的自动扩展区块链",
+            "url": "https://github.com/shardeum/shardeum",
+            "name": "shardeum /shardeum",
+            "description": "Shardeum is an EVM based autoscaling blockchain",
+            "stars": "22,470",
+            "forks": "447",
+            "language": "TypeScript",
+            "stars_today": "950 stars this week"
+        },
+        {
+            "zh_des": "SOTA开源TTC",
+            "url": "https://github.com/fishaudio/fish-speech",
+            "name": "fishaudio /fish-speech",
+            "description": "SOTA Open Source TTS",
+            "stars": "17,160",
+            "forks": "1,278",
+            "language": "Python",
+            "stars_today": "1,145 stars this week"
+        },
+        {
+            "zh_des": "一个速度极快的Python包和项目管理器，用Rust编写。",
+            "url": "https://github.com/astral-sh/uv",
+            "name": "astral-sh /uv",
+            "description": "An extremely fast Python package and project manager, written in Rust.",
+            "stars": "32,424",
+            "forks": "878",
+            "language": "Rust",
+            "stars_today": "3,309 stars this week"
+        },
+        {
+            "zh_des": "使用Next.js、Typescript和ShadCN构建的发票生成器应用程序",
+            "url": "https://github.com/al1abb/invoify",
+            "name": "al1abb /invoify",
+            "description": "An invoice generator app built using Next.js, Typescript, and Shadcn",
+            "stars": "1,587",
+            "forks": "177",
+            "language": "TypeScript",
+            "stars_today": "800 stars this week"
+        },
+        {
+            "zh_des": "Telegram for Android源",
+            "url": "https://github.com/DrKLO/Telegram",
+            "name": "DrKLO /Telegram",
+            "description": "Telegram for Android source",
+            "stars": "25,496",
+            "forks": "8,193",
+            "language": "Java",
+            "stars_today": "146 stars this week"
+        },
+        {
+            "zh_des": "每个人的自主代理",
+            "url": "https://github.com/ai16z/eliza",
+            "name": "ai16z /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "4,670",
+            "forks": "1,343",
+            "language": "TypeScript",
+            "stars_today": "1,251 stars this week"
+        },
+        {
+            "zh_des": "以太坊改进提案库",
+            "url": "https://github.com/ethereum/EIPs",
+            "name": "ethereum /EIPs",
+            "description": "The Ethereum Improvement Proposal repository",
+            "stars": "13,023",
+            "forks": "5,335",
+            "language": "Python",
+            "stars_today": "64 stars this week"
+        },
+        {
+            "zh_des": "代理框架/ shim将Pydantic与LLM一起使用",
+            "url": "https://github.com/pydantic/pydantic-ai",
+            "name": "pydantic /pydantic-ai",
+            "description": "Agent Framework / shim to use Pydantic with LLMs",
+            "stars": "3,928",
+            "forks": "228",
+            "language": "Python",
+            "stars_today": "800 stars this week"
+        },
+        {
+            "zh_des": "React UI +适用于AI Copilots、应用内AI代理、AI聊天机器人和AI驱动的Textareas收件箱的优雅基础设施",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+            "stars": "13,935",
+            "forks": "2,125",
+            "language": "TypeScript",
+            "stars_today": "927 stars this week"
+        },
+        {
+            "zh_des": "Agent Zero人工智能框架",
+            "url": "https://github.com/frdel/agent-zero",
+            "name": "frdel /agent-zero",
+            "description": "Agent Zero AI framework",
+            "stars": "5,137",
+            "forks": "1,144",
+            "language": "Python",
+            "stars_today": "153 stars this week"
+        },
+        {
+            "zh_des": "利用记忆、知识、工具和推理构建多模式代理。使用漂亮的Agent UI与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "16,330",
+            "forks": "2,217",
+            "language": "Python",
+            "stars_today": "466 stars this week"
+        },
+        {
+            "zh_des": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+            "url": "https://github.com/0xPlaygrounds/rig",
+            "name": "0xPlaygrounds /rig",
+            "description": "⚙️🦀 Build portable, modular & lightweight Fullstack Agents",
+            "stars": "981",
+            "forks": "66",
+            "language": "Rust",
+            "stars_today": "678 stars this week"
+        },
+        {
+            "zh_des": "GitHub Action跑步者图片",
+            "url": "https://github.com/actions/runner-images",
+            "name": "actions /runner-images",
+            "description": "GitHub Actions runner images",
+            "stars": "10,368",
+            "forks": "3,116",
+            "language": "PowerShell",
+            "stars_today": "64 stars this week"
+        }
+    ]
+}
