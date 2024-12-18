@@ -82548,3 +82548,187 @@
         }
     ]
 }
+{
+    "12月18日": [
+        {
+            "zh_des": "或者首先，运行开发服务器：`bash\nNPM运行开发纱线开发\n`用浏览器打开http://localhost:3000查看结果",
+            "url": "https://github.com/DefiLlama/chainlist",
+            "name": "DefiLlama /chainlist",
+            "description": "orFirst, run the development server:```bash\nnpm run devyarn dev\n```Open http://localhost:3000 with your browser to see the result",
+            "stars": "2,428",
+            "forks": "2,485",
+            "language": "JavaScript",
+            "stars_today": "74 stars this week"
+        },
+        {
+            "zh_des": "一款习惯跟踪应用程序，它将您的目标视为角色扮演游戏。",
+            "url": "https://github.com/HabitRPG/habitica",
+            "name": "HabitRPG /habitica",
+            "description": "A habit tracker app which treats your goals like a Role Playing Game.",
+            "stars": "12,192",
+            "forks": "4,128",
+            "language": "JavaScript",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "📡️vCard中国黄页-优化iOS/安卓来电、信息界面体验",
+            "url": "https://github.com/metowolf/vCards",
+            "name": "metowolf /vCards",
+            "description": "📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验",
+            "stars": "5,479",
+            "forks": "263",
+            "language": "JavaScript",
+            "stars_today": "297 stars this week"
+        },
+        {
+            "zh_des": "Reaction框架",
+            "url": "https://github.com/vercel/next.js",
+            "name": "vercel /next.js",
+            "description": "The React Framework",
+            "stars": "127,918",
+            "forks": "27,148",
+            "language": "JavaScript",
+            "stars_today": "235 stars this week"
+        },
+        {
+            "zh_des": "WebKit项目的总部，Safari、Mail、App Store和MacOS、iOS和Linux上的许多其他应用程序使用的浏览器引擎。",
+            "url": "https://github.com/WebKit/WebKit",
+            "name": "WebKit /WebKit",
+            "description": "Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.",
+            "stars": "8,166",
+            "forks": "1,397",
+            "language": "JavaScript",
+            "stars_today": "61 stars this week"
+        },
+        {
+            "zh_des": "收集来自世界各地的可公开使用的IPTV频道",
+            "url": "https://github.com/iptv-org/iptv",
+            "name": "iptv-org /iptv",
+            "description": "Collection of publicly available IPTV channels from all over the world",
+            "stars": "87,962",
+            "forks": "2,855",
+            "language": "JavaScript",
+            "stars_today": "427 stars this week"
+        },
+        {
+            "zh_des": "最受欢迎的现代网络代理之一，速度惊人，游戏种类繁多。",
+            "url": "https://github.com/UseInterstellar/Interstellar",
+            "name": "UseInterstellar /Interstellar",
+            "description": "One of the most popular modern web proxies with blazing fast speeds and a variety of games.",
+            "stars": "1,171",
+            "forks": "14,360",
+            "language": "JavaScript",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "CheckMate是一款开源的自托管工具，旨在通过漂亮的可视化功能实时跟踪和监控服务器硬件、正常运行时间、响应时间和事件。",
+            "url": "https://github.com/bluewave-labs/checkmate",
+            "name": "bluewave-labs /checkmate",
+            "description": "Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.",
+            "stars": "2,663",
+            "forks": "150",
+            "language": "JavaScript",
+            "stars_today": "1,776 stars this week"
+        },
+        {
+            "zh_des": "</>htmx-强大的超文本标记语言工具",
+            "url": "https://github.com/bigskysoftware/htmx",
+            "name": "bigskysoftware /htmx",
+            "description": "</> htmx - high power tools for HTML",
+            "stars": "39,328",
+            "forks": "1,334",
+            "language": "JavaScript",
+            "stars_today": "415 stars this week"
+        },
+        {
+            "zh_des": "邮箱：停靠-🐮+🐋=💕",
+            "url": "https://github.com/mailcow/mailcow-dockerized",
+            "name": "mailcow /mailcow-dockerized",
+            "description": "mailcow: dockerized - 🐮 + 🐋 = 💕",
+            "stars": "9,209",
+            "forks": "1,202",
+            "language": "JavaScript",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "Js的✨标准库。✨",
+            "url": "https://github.com/stdlib-js/stdlib",
+            "name": "stdlib-js /stdlib",
+            "description": "✨ Standard library for JavaScript and Node.js. ✨",
+            "stars": "4,710",
+            "forks": "565",
+            "language": "JavaScript",
+            "stars_today": "72 stars this week"
+        },
+        {
+            "zh_des": "Leetcode解决方案",
+            "url": "https://github.com/neetcode-gh/leetcode",
+            "name": "neetcode-gh /leetcode",
+            "description": "Leetcode solutions",
+            "stars": "5,768",
+            "forks": "2,342",
+            "language": "JavaScript",
+            "stars_today": "63 stars this week"
+        },
+        {
+            "zh_des": "拥有速度、隐私和安全性的Firefox user.js。你最喜欢的浏览器，但更好。",
+            "url": "https://github.com/yokoffing/Betterfox",
+            "name": "yokoffing /Betterfox",
+            "description": "Firefox user.js for speed, privacy, and security. Your favorite browser, but better.",
+            "stars": "6,420",
+            "forks": "159",
+            "language": "JavaScript",
+            "stars_today": "115 stars this week"
+        },
+        {
+            "zh_des": "PairDrop：跨平台传输文件。不需要设置，不需要注册。",
+            "url": "https://github.com/schlagmichdoch/PairDrop",
+            "name": "schlagmichdoch /PairDrop",
+            "description": "PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.",
+            "stars": "4,861",
+            "forks": "271",
+            "language": "JavaScript",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "📱图形屏幕显示和控制安卓，由电子设备供电。",
+            "url": "https://github.com/viarotel-org/escrcpy",
+            "name": "viarotel-org /escrcpy",
+            "description": "📱 Graphical Scrcpy to display and control Android, devices powered by Electron.",
+            "stars": "3,065",
+            "forks": "219",
+            "language": "JavaScript",
+            "stars_today": "147 stars this week"
+        },
+        {
+            "zh_des": "丰美影视和电视盒配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解.",
+            "url": "https://github.com/gaotianliuyun/gao",
+            "name": "gaotianliuyun /gao",
+            "description": "FongMi影视和tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。",
+            "stars": "5,978",
+            "forks": "2,378",
+            "language": "JavaScript",
+            "stars_today": "123 stars this week"
+        },
+        {
+            "zh_des": "检查数字是否等于13。",
+            "url": "https://github.com/jezen/is-thirteen",
+            "name": "jezen /is-thirteen",
+            "description": "Check if a number is equal to 13.",
+            "stars": "5,857",
+            "forks": "487",
+            "language": "JavaScript",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "用于将完整网页的忠实副本保存在单个HTML文件中的Web扩展",
+            "url": "https://github.com/gildas-lormeau/SingleFile",
+            "name": "gildas-lormeau /SingleFile",
+            "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+            "stars": "16,002",
+            "forks": "1,026",
+            "language": "JavaScript",
+            "stars_today": "126 stars this week"
+        }
+    ]
+}
