@@ -73228,3 +73228,107 @@
         }
     ]
 }
+{
+    "12月19日": [
+        {
+            "zh_des": "小米家居集成家居助手",
+            "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+            "name": "XiaoMi /ha_xiaomi_home",
+            "description": "Xiaomi Home Integration for Home Assistant",
+            "stars": "11,348",
+            "forks": "484",
+            "language": "Python",
+            "stars_today": "3,023 stars today"
+        },
+        {
+            "zh_des": "📺IPTV电视直播源更新工具🚀：电视📡、环卫、️广东及各省份地方台、🌊港··台、🎬电影、🎥咪🏀🪁🎮🎵🏛呀、体育、动画、游戏、音乐、古典剧场;支持IPv4/IPv6;支持自定义增加频道;支持广播源，酒店源，订阅源，关键字搜索;每天自动更新两次，结果可用于TVBox等发布软件;支持工作流，Docker（amd64/arm64/arm v7），令行，图形用户运行方式|IPTV直播电视资源更新工具",
+            "url": "https://github.com/Guovin/iptv-api",
+            "name": "Guovin /iptv-api",
+            "description": "📺IPTV电视直播源更新工具🚀：✨央视、📡卫视、☘️广东及各省份地方台、🌊港·澳·台、🎬电影、🎥咪咕、🏀体育、🪁动画、🎮游戏、🎵音乐、🏛经典剧场；支持IPv4/IPv6；支持自定义增加频道；支持组播源、酒店源、订阅源、关键字搜索；每天自动更新两次，结果可用于TVBox等播放软件；支持工作流、Docker(amd64/arm64/arm v7)、命令行、GUI运行方式 | IPTV live TV source update tool",
+            "stars": "9,405",
+            "forks": "2,011",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "“儿童人物绘画动画方法”附带代码",
+            "url": "https://github.com/facebookresearch/AnimatedDrawings",
+            "name": "facebookresearch /AnimatedDrawings",
+            "description": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
+            "stars": "11,506",
+            "forks": "990",
+            "language": "Python",
+            "stars_today": "398 stars today"
+        },
+        {
+            "zh_des": "Apache AirFlow -一个以编程方式创作、安排和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "37,720",
+            "forks": "14,411",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        },
+        {
+            "zh_des": "用于Web自动化、测试和绕过僵尸检测的Python API。",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "name": "seleniumbase /SeleniumBase",
+            "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+            "stars": "6,723",
+            "forks": "1,031",
+            "language": "Python",
+            "stars_today": "624 stars today"
+        },
+        {
+            "zh_des": "Unitree RL GYM这是使用Unitree Robots进行强化学习的简单示例，包括Unitree Go2、H1、H1_2、G1|艾萨克健身房|Mujoco|物理|\n|--- | --- | --- |\n|  |  |  |Create a new python virtual env with python 3",
+            "url": "https://github.com/unitreerobotics/unitree_rl_gym",
+            "name": "unitreerobotics /unitree_rl_gym",
+            "description": "Unitree RL GYMThis is a simple example of using Unitree Robots for reinforcement learning, including Unitree Go2, H1, H1_2, G1| Isaac Gym | Mujoco | Physical |\n|--- | --- | --- |\n|  |  |  |Create a new python virtual env with python 3",
+            "stars": "819",
+            "forks": "125",
+            "language": "Python",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "用于构建大羊驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "5,377",
+            "forks": "676",
+            "language": "Python",
+            "stars_today": "173 stars today"
+        },
+        {
+            "zh_des": "在家中使用日常设备运行您自己的AI集群'''🖥️📱💻",
+            "url": "https://github.com/exo-explore/exo",
+            "name": "exo-explore /exo",
+            "description": "Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚",
+            "stars": "17,539",
+            "forks": "951",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "Datadog Agent的核心集成",
+            "url": "https://github.com/DataDog/integrations-core",
+            "name": "DataDog /integrations-core",
+            "description": "Core integrations of the Datadog Agent",
+            "stars": "943",
+            "forks": "1,411",
+            "language": "Python",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键解谜并编辑视频;使用AI模型只需单击即可自动提供评论和编辑视频。",
+            "url": "https://github.com/linyqh/NarratoAI",
+            "name": "linyqh /NarratoAI",
+            "description": "利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.",
+            "stars": "2,538",
+            "forks": "294",
+            "language": "Python",
+            "stars_today": "99 stars today"
+        }
+    ]
+}
