@@ -73446,3 +73446,167 @@
         }
     ]
 }
+{
+    "12月20日": [
+        {
+            "zh_des": "通用机器人的产生式世界&体现的人工智能学习。",
+            "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+            "name": "Genesis-Embodied-AI /Genesis",
+            "description": "A generative world for general-purpose robotics & embodied AI learning.",
+            "stars": "14,586",
+            "forks": "959",
+            "language": "Python",
+            "stars_today": "7,187 stars today"
+        },
+        {
+            "zh_des": "从破烂的聊天机器人到代码助手，再到复杂的代理管道等，构建运行更好、更快、更便宜的LLM系统，包括跟踪、评估和仪表盘。",
+            "url": "https://github.com/comet-ml/opik",
+            "name": "comet-ml /opik",
+            "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+            "stars": "3,228",
+            "forks": "191",
+            "language": "Python",
+            "stars_today": "292 stars today"
+        },
+        {
+            "zh_des": "面向家庭助理的小米家庭集成",
+            "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+            "name": "XiaoMi /ha_xiaomi_home",
+            "description": "Xiaomi Home Integration for Home Assistant",
+            "stars": "13,228",
+            "forks": "559",
+            "language": "Python",
+            "stars_today": "2,255 stars today"
+        },
+        {
+            "zh_des": "用于Web自动化、测试和绕过bot检测的PythonAPI。",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "name": "seleniumbase /SeleniumBase",
+            "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+            "stars": "7,103",
+            "forks": "1,047",
+            "language": "Python",
+            "stars_today": "404 stars today"
+        },
+        {
+            "zh_des": "用于构建骆驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "5,509",
+            "forks": "694",
+            "language": "Python",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "统一高效微调100多个LLM(ACL 2024)",
+            "url": "https://github.com/hiyouga/LLaMA-Factory",
+            "name": "hiyouga /LLaMA-Factory",
+            "description": "Unified Efficient Fine-Tuning of 100+ LLMs (ACL 2024)",
+            "stars": "36,473",
+            "forks": "4,492",
+            "language": "Python",
+            "stars_today": "67 stars today"
+        },
+        {
+            "zh_des": "Gen-AI团队聊天-如果ChatGPT可以访问您团队的独特知识，请考虑ChatGPT。",
+            "url": "https://github.com/onyx-dot-app/onyx",
+            "name": "onyx-dot-app /onyx",
+            "description": "Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.",
+            "stars": "11,273",
+            "forks": "1,418",
+            "language": "Python",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "RAGFlow是一个基于深度文档理解的开源RAG(检索-增强生成)引擎。",
+            "url": "https://github.com/infiniflow/ragflow",
+            "name": "infiniflow /ragflow",
+            "description": "RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.",
+            "stars": "25,822",
+            "forks": "2,487",
+            "language": "Python",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "《一种儿童人物画动画制作方法》附码",
+            "url": "https://github.com/facebookresearch/AnimatedDrawings",
+            "name": "facebookresearch /AnimatedDrawings",
+            "description": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
+            "stars": "11,680",
+            "forks": "1,001",
+            "language": "Python",
+            "stars_today": "239 stars today"
+        },
+        {
+            "zh_des": "配备生产就绪API-MCP客户端的Docker Computer Use Agents for Langchain-GCA",
+            "url": "https://github.com/Upsonic/gpt-computer-assistant",
+            "name": "Upsonic /gpt-computer-assistant",
+            "description": "Dockerized Computer Use Agents with Production Ready API’s - MCP Client for Langchain - GCA",
+            "stars": "5,626",
+            "forks": "514",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "快速而简单的RL算法实现，完全在GPU上运行。",
+            "url": "https://github.com/leggedrobotics/rsl_rl",
+            "name": "leggedrobotics /rsl_rl",
+            "description": "Fast and simple implementation of RL algorithms, designed to run fully on GPU.",
+            "stars": "723",
+            "forks": "201",
+            "language": "Python",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "宏伟的应用程序，更正您之前的控制台命令。",
+            "url": "https://github.com/nvbn/thefuck",
+            "name": "nvbn /thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "stars": "86,616",
+            "forks": "3,467",
+            "language": "Python",
+            "stars_today": "492 stars today"
+        },
+        {
+            "zh_des": "为无可救药的困惑的人提供的终端助手",
+            "url": "https://github.com/shobrook/wut",
+            "name": "shobrook /wut",
+            "description": "A terminal assistant for the hopelessly confused",
+            "stars": "908",
+            "forks": "49",
+            "language": "Python",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "在任何时间内将数据和AI算法转变为可生产的Web应用程序。",
+            "url": "https://github.com/Avaiga/taipy",
+            "name": "Avaiga /taipy",
+            "description": "Turns Data and AI algorithms into production-ready web applications in no time.",
+            "stars": "17,412",
+            "forks": "1,873",
+            "language": "Python",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "ApacheAirflow--以编程方式创作、调度和监控工作流的平台",
+            "url": "https://github.com/apache/airflow",
+            "name": "apache /airflow",
+            "description": "Apache Airflow - A platform to programmatically author, schedule, and monitor workflows",
+            "stars": "37,833",
+            "forks": "14,423",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "基于Awel和代理的AI原生数据应用开发框架",
+            "url": "https://github.com/eosphoros-ai/DB-GPT",
+            "name": "eosphoros-ai /DB-GPT",
+            "description": "AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents",
+            "stars": "14,042",
+            "forks": "1,891",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        }
+    ]
+}
