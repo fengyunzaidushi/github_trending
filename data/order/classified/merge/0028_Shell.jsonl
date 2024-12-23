@@ -1,0 +1,284 @@
+{
+    "Shell": [
+        {
+            "zh_des": "论文来自计算机科学界阅读和讨论。",
+            "url": "https://github.com/papers-we-love/papers-we-love",
+            "name": "papers-we-love /papers-we-love",
+            "description": "Papers from the computer science community to read and discuss.",
+            "stars": 79984,
+            "forks": "5,830",
+            "language": "Shell",
+            "stars_today": "751 stars this week"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": 74406,
+            "forks": "7,546",
+            "language": "Shell",
+            "stars_today": "339 stars this week"
+        },
+        {
+            "zh_des": "程序员在家做饭方法指南.关于如何在家里做饭的程序员指南(仅中文)。",
+            "url": "https://github.com/Anduin2017/HowToCook",
+            "name": "Anduin2017 /HowToCook",
+            "description": "程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).",
+            "stars": 58465,
+            "forks": "8,148",
+            "language": "Shell",
+            "stars_today": "478 stars this week"
+        },
+        {
+            "zh_des": "我正在使用这个存储库来记录我学习DevOps的旅程。我从2022年1月1日开始这个过程，并计划持续到3月31日。我将每天花一个小时，包括周末，对DevOps的各个方面有一个基本的了解。这将是一个为期90天的密集学习期。2022年和2023年公司",
+            "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+            "name": "MichaelCade /90DaysOfDevOps",
+            "description": "I am using this repository to document my journey learning about DevOps. I began this process on January 1, 2022, and plan to continue until March 31. I will be dedicating one hour each day, including weekends, to gaining a foundational understanding of the various aspects of DevOps. This will be a 90-day intensive study period. 2022 & 2023 inc.",
+            "stars": 25113,
+            "forks": "6,064",
+            "language": "Shell",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "使用自然语言理念创建定制软件(通过LLM支持的多代理协作)",
+            "url": "https://github.com/OpenBMB/ChatDev",
+            "name": "OpenBMB /ChatDev",
+            "description": "Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)",
+            "stars": 22209,
+            "forks": "2,783",
+            "language": "Shell",
+            "stars_today": "746 stars this week"
+        },
+        {
+            "zh_des": "🖼️：用bash3.2+编写的命令行系统信息工具",
+            "url": "https://github.com/dylanaraps/neofetch",
+            "name": "dylanaraps /neofetch",
+            "description": "🖼️ A command-line system information tool written in bash 3.2+",
+            "stars": 21091,
+            "forks": "1,647",
+            "language": "Shell",
+            "stars_today": "339 stars this week"
+        },
+        {
+            "zh_des": "一个用于Termux的包构建系统。",
+            "url": "https://github.com/termux/termux-packages",
+            "name": "termux /termux-packages",
+            "description": "A package build system for Termux.",
+            "stars": 12400,
+            "forks": "2,870",
+            "language": "Shell",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Lynis—适用于Linux、macOS和UNIX系统的安全审计工具。协助合规性测试（HIPAA/ISO27001/PCI DSS）和系统加固。无障碍，安装可选。",
+            "url": "https://github.com/CISOfy/lynis",
+            "name": "CISOfy /lynis",
+            "description": "Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.",
+            "stars": 12220,
+            "forks": "1,362",
+            "language": "Shell",
+            "stars_today": "96 stars today"
+        },
+        {
+            "zh_des": "X光、TUIC、歇斯底里2、单盒八合一一键脚本",
+            "url": "https://github.com/mack-a/v2ray-agent",
+            "name": "mack-a /v2ray-agent",
+            "description": "Xray、Tuic、hysteria2、sing-box 八合一一键脚本",
+            "stars": 11939,
+            "forks": "4,364",
+            "language": "Shell",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "Docker容器中的Windows",
+            "url": "https://github.com/dockur/windows",
+            "name": "dockur /windows",
+            "description": "Windows in a Docker container.",
+            "stars": 8813,
+            "forks": "622",
+            "language": "Shell",
+            "stars_today": "2,057 stars this week"
+        },
+        {
+            "zh_des": "Proxmox VE辅助工具",
+            "url": "https://github.com/tteck/Proxmox",
+            "name": "tteck /Proxmox",
+            "description": "Proxmox VE Helper-Scripts",
+            "stars": 8301,
+            "forks": "1,358",
+            "language": "Shell",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "提供了一种使用Docker在Chrome、Firefox和Edge上运行Selify Grid的简单方法，使执行浏览器自动化变得更容易",
+            "url": "https://github.com/SeleniumHQ/docker-selenium",
+            "name": "SeleniumHQ /docker-selenium",
+            "description": "Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation",
+            "stars": 7637,
+            "forks": "2,493",
+            "language": "Shell",
+            "stars_today": "178 stars this week"
+        },
+        {
+            "zh_des": "在外壳中以客户端身份运行sing-box/mihomo",
+            "url": "https://github.com/juewuy/ShellCrash",
+            "name": "juewuy /ShellCrash",
+            "description": "Run sing-box/mihomo as client in shell",
+            "stars": 6845,
+            "forks": "1,211",
+            "language": "Shell",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "与工程管理和技术领导力相关的鼓舞人心的资源集合",
+            "url": "https://github.com/charlax/engineering-management",
+            "name": "charlax /engineering-management",
+            "description": "A collection of inspiring resources related to engineering management and tech leadership",
+            "stars": 6836,
+            "forks": "551",
+            "language": "Shell",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "🐧linux教程，主要内容：linux命令、linux系统运维、软件运维、精选常用外壳脚本",
+            "url": "https://github.com/dunwu/linux-tutorial",
+            "name": "dunwu /linux-tutorial",
+            "description": "🐧 Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本",
+            "stars": 4255,
+            "forks": "793",
+            "language": "Shell",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "预先提交GIT挂钩以处理Terraform配置🇺🇦",
+            "url": "https://github.com/antonbabenko/pre-commit-terraform",
+            "name": "antonbabenko /pre-commit-terraform",
+            "description": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+            "stars": 2944,
+            "forks": "515",
+            "language": "Shell",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Bitnami容器图像",
+            "url": "https://github.com/bitnami/containers",
+            "name": "bitnami /containers",
+            "description": "Bitnami container images",
+            "stars": 2593,
+            "forks": "3,879",
+            "language": "Shell",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "Qwen1.5是Qwen的改进版本，Qwen是阿里云Qwen团队开发的大型语言模型系列。",
+            "url": "https://github.com/QwenLM/Qwen1.5",
+            "name": "QwenLM /Qwen1.5",
+            "description": "Qwen1.5 is the improved version of Qwen, the large language model series developed by Qwen team, Alibaba Cloud.",
+            "stars": 2197,
+            "forks": "112",
+            "language": "Shell",
+            "stars_today": "1,076 stars this month"
+        },
+        {
+            "zh_des": "一个Docker Container，可以轻松运行Palworld专用服务器。",
+            "url": "https://github.com/thijsvanloef/palworld-server-docker",
+            "name": "thijsvanloef /palworld-server-docker",
+            "description": "A Docker Container to easily run a Palworld dedicated server.",
+            "stars": 1954,
+            "forks": "234",
+            "language": "Shell",
+            "stars_today": "364 stars this week"
+        },
+        {
+            "zh_des": "SSH-Snake是一个自传播、自复制、无文件的脚本，可自动执行SSH私钥和主机发现的利用后任务。",
+            "url": "https://github.com/MegaManSec/SSH-Snake",
+            "name": "MegaManSec /SSH-Snake",
+            "description": "SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.",
+            "stars": 1589,
+            "forks": "143",
+            "language": "Shell",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "安装配置英语\n|\nРусский\n|\nУкраїнська\n|\n葡萄牙语S巴西莱罗\n|\nPolski Mobox是一个旨在使用Box64和Wine在Termux中运行Windows x86应用程序的项目",
+            "url": "https://github.com/olegos2/mobox",
+            "name": "olegos2 /mobox",
+            "description": "InstallationConfigurationEnglish\n  |   \nРусский\n  |   \nУкраїнська\n  |   \nPortuguês Brasileiro\n  |   \nPolskiMobox is a project designed to run windows x86 applications in Termux using Box64 and Wine",
+            "stars": 1409,
+            "forks": "55",
+            "language": "Shell",
+            "stars_today": "72 stars today"
+        },
+        {
+            "zh_des": "安装并运行您自己的AI代理服务",
+            "url": "https://github.com/GaiaNet-AI/gaianet-node",
+            "name": "GaiaNet-AI /gaianet-node",
+            "description": "Install and run your own AI agent service",
+            "stars": 1149,
+            "forks": "33",
+            "language": "Shell",
+            "stars_today": "207 stars today"
+        },
+        {
+            "zh_des": "💽 为Tmux制作舒缓粉彩主题！",
+            "url": "https://github.com/catppuccin/tmux",
+            "name": "catppuccin /tmux",
+            "description": "💽 Soothing pastel theme for Tmux!",
+            "stars": 1117,
+            "forks": "376",
+            "language": "Shell",
+            "stars_today": "160 stars today"
+        },
+        {
+            "zh_des": "Docker容器可轻松配置和管理Palworld专用服务器",
+            "url": "https://github.com/jammsen/docker-palworld-dedicated-server",
+            "name": "jammsen /docker-palworld-dedicated-server",
+            "description": "Docker container to easily provision and manage Palworld Dedicated Server",
+            "stars": 657,
+            "forks": "94",
+            "language": "Shell",
+            "stars_today": "557 stars this week"
+        },
+        {
+            "zh_des": "利用CVE的PoC-2024-32002",
+            "url": "https://github.com/amalmurali47/git_rce",
+            "name": "amalmurali47 /git_rce",
+            "description": "Exploit PoC for CVE-2024-32002",
+            "stars": 392,
+            "forks": "107",
+            "language": "Shell",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "一个简单的外壳脚本，用于扫描您的Xcode SWIFT项目所需的原因API使用情况，以确保隐私合规性并简化隐私清单的创建。",
+            "url": "https://github.com/Wooder/ios_17_required_reason_api_scanner",
+            "name": "Wooder /ios_17_required_reason_api_scanner",
+            "description": "A simple shell script to scan your Xcode Swift project for required reason API usage to ensure privacy compliance and to simplify the creation of privacy manifests.",
+            "stars": 269,
+            "forks": "23",
+            "language": "Shell",
+            "stars_today": "68 stars this week"
+        },
+        {
+            "zh_des": "创建配置：编辑配置：并重新运行脚本：编辑默认身份脚本自动获取新身份：创建新身份脚本使用路径上的身份并重新运行带有标志的脚本：要运行Avail Light客户端，只需运行以下命令：\n巴斯\nCURL-SL1可用",
+            "url": "https://github.com/availproject/availup",
+            "name": "availproject /availup",
+            "description": "create the config:edit the config:and rerunning the script:edit default identitythe script picks up the new identity automatically:create a new identitythe script uses the identity at the pathand rerunning the script with flags:To run an Avail light client, simply run the following command:\nbash\ncurl -sL1 avail",
+            "stars": 166,
+            "forks": "529",
+            "language": "Shell",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "解锁俄罗斯、古巴、伊朗、朝鲜、克里米亚、苏丹和叙利亚的码头枢纽",
+            "url": "https://github.com/StasPlov/docker-unlock",
+            "name": "StasPlov /docker-unlock",
+            "description": "Unlocks docker hub in Russia, Cuba, Iran, North Korea, Republic of Crimea, Sudan, and Syria",
+            "stars": 140,
+            "forks": "17",
+            "language": "Shell",
+            "stars_today": "34 stars today"
+        }
+    ]
+}

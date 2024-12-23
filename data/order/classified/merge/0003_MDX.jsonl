@@ -1,0 +1,34 @@
+{
+    "MDX": [
+        {
+            "zh_des": "使用OpenAI API的示例和指南",
+            "url": "https://github.com/openai/openai-cookbook",
+            "name": "openai /openai-cookbook",
+            "description": "Examples and guides for using the OpenAI API",
+            "stars": 56551,
+            "forks": "8,902",
+            "language": "MDX",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "🐙指南、论文、讲座、笔记本和快速工程资源",
+            "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+            "name": "dair-ai /Prompt-Engineering-Guide",
+            "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+            "stars": 39994,
+            "forks": "3,699",
+            "language": "MDX",
+            "stars_today": "682 stars this week"
+        },
+        {
+            "zh_des": "❍--SST的新引擎",
+            "url": "https://github.com/sst/ion",
+            "name": "sst /ion",
+            "description": "❍ — a new engine for SST",
+            "stars": 743,
+            "forks": "58",
+            "language": "MDX",
+            "stars_today": "32 stars today"
+        }
+    ]
+}

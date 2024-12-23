@@ -1,0 +1,184 @@
+{
+    "Lua": [
+        {
+            "zh_des": "🦍云-原生接口网关和AI网关。",
+            "url": "https://github.com/Kong/kong",
+            "name": "Kong /kong",
+            "description": "🦍 The Cloud-Native API Gateway and AI Gateway.",
+            "stars": 37964,
+            "forks": "4,711",
+            "language": "Lua",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "快速的Neovim配置提供可靠的默认设置和漂亮的用户界面，增强您的Neovim体验。",
+            "url": "https://github.com/NvChad/NvChad",
+            "name": "NvChad /NvChad",
+            "description": "Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.",
+            "stars": 21979,
+            "forks": "1,933",
+            "language": "Lua",
+            "stars_today": "1,111 stars this month"
+        },
+        {
+            "zh_des": "面向懒人的Neovim配置",
+            "url": "https://github.com/LazyVim/LazyVim",
+            "name": "LazyVim /LazyVim",
+            "description": "Neovim config for the lazy",
+            "stars": 15360,
+            "forks": "1,057",
+            "language": "Lua",
+            "stars_today": "1,504 stars this month"
+        },
+        {
+            "zh_des": "个人nvim配置的启动点",
+            "url": "https://github.com/nvim-lua/kickstart.nvim",
+            "name": "nvim-lua /kickstart.nvim",
+            "description": "A launch point for your personal nvim configuration",
+            "stars": 12991,
+            "forks": "8,277",
+            "language": "Lua",
+            "stars_today": "676 stars this week"
+        },
+        {
+            "zh_des": "💤Neovim的现代插件管理器",
+            "url": "https://github.com/folke/lazy.nvim",
+            "name": "folke /lazy.nvim",
+            "description": "💤 A modern plugin manager for Neovim",
+            "stars": 12433,
+            "forks": "296",
+            "language": "Lua",
+            "stars_today": "247 stars this week"
+        },
+        {
+            "zh_des": "AstroNvim是一个美观且功能丰富的nevim配置，它是可扩展的，并且易于与一组优秀的插件一起使用",
+            "url": "https://github.com/AstroNvim/AstroNvim",
+            "name": "AstroNvim /AstroNvim",
+            "description": "AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
+            "stars": 11803,
+            "forks": "907",
+            "language": "Lua",
+            "stars_today": "527 stars this week"
+        },
+        {
+            "zh_des": "NVIM LSP的快速入门配置",
+            "url": "https://github.com/neovim/nvim-lspconfig",
+            "name": "neovim /nvim-lspconfig",
+            "description": "Quickstart configs for Nvim LSP",
+            "stars": 9673,
+            "forks": "2,014",
+            "language": "Lua",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🏙用Lua编写的干净、黑暗的Neovim主题，支持LSP、Treester和许多插件。包括凯蒂、阿拉克里蒂、伊特姆和鱼的其他主题。",
+            "url": "https://github.com/folke/tokyonight.nvim",
+            "name": "folke /tokyonight.nvim",
+            "description": "🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.",
+            "stars": 5875,
+            "forks": "384",
+            "language": "Lua",
+            "stars_today": "94 stars today"
+        },
+        {
+            "zh_des": "🚦是一个很好的诊断、参考、望远镜结果、快速修复和位置列表，可以帮助你解决你的代码造成的所有麻烦。",
+            "url": "https://github.com/folke/trouble.nvim",
+            "name": "folke /trouble.nvim",
+            "description": "🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.",
+            "stars": 4561,
+            "forks": "158",
+            "language": "Lua",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "流放之路的离线构建规划器。",
+            "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+            "name": "PathOfBuildingCommunity /PathOfBuilding",
+            "description": "Offline build planner for Path of Exile.",
+            "stars": 3786,
+            "forks": "2,026",
+            "language": "Lua",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "主题医院的开源克隆",
+            "url": "https://github.com/CorsixTH/CorsixTH",
+            "name": "CorsixTH /CorsixTH",
+            "description": "Open source clone of Theme Hospital",
+            "stars": 3563,
+            "forks": "325",
+            "language": "Lua",
+            "stars_today": "180 stars today"
+        },
+        {
+            "zh_des": "蚂蚁游戏引擎",
+            "url": "https://github.com/ejoy/ant",
+            "name": "ejoy /ant",
+            "description": "Ant game engine",
+            "stars": 2430,
+            "forks": "201",
+            "language": "Lua",
+            "stars_today": "769 stars this week"
+        },
+        {
+            "zh_des": "SOHO对Neovim的共鸣",
+            "url": "https://github.com/rose-pine/neovim",
+            "name": "rose-pine /neovim",
+            "description": "Soho vibes for Neovim",
+            "stars": 1601,
+            "forks": "93",
+            "language": "Lua",
+            "stars_today": "39 stars today"
+        },
+        {
+            "zh_des": "简单的配置模板的Rime由Mintimate。QQ群：703260572",
+            "url": "https://github.com/Mintimate/oh-my-rime",
+            "name": "Mintimate /oh-my-rime",
+            "description": "The Simple Config Template Of Rime By Mintimate. QQ Chat-Group: 703260572",
+            "stars": 957,
+            "forks": "83",
+            "language": "Lua",
+            "stars_today": "148 stars today"
+        },
+        {
+            "zh_des": "Ant引擎的游戏演示",
+            "url": "https://github.com/ejoy/vaststars",
+            "name": "ejoy /vaststars",
+            "description": "A game demo for Ant engine",
+            "stars": 280,
+            "forks": "34",
+            "language": "Lua",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "增强Neovim原生评论的微型插件",
+            "url": "https://github.com/folke/ts-comments.nvim",
+            "name": "folke /ts-comments.nvim",
+            "description": "Tiny plugin to enhance Neovim's native comments",
+            "stars": 196,
+            "forks": "13",
+            "language": "Lua",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "我的NVIM配置",
+            "url": "https://github.com/tjdevries/config.nvim",
+            "name": "tjdevries /config.nvim",
+            "description": "my nvim config",
+            "stars": 176,
+            "forks": "5",
+            "language": "Lua",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "a simple lua neovim configuration for newbs",
+            "url": "https://github.com/cpow/neovim-for-newbs",
+            "name": "cpow /neovim-for-newbs",
+            "description": "a simple lua neovim configuration for newbs",
+            "stars": 153,
+            "forks": "18",
+            "language": "Lua",
+            "stars_today": "43 stars this week"
+        }
+    ]
+}

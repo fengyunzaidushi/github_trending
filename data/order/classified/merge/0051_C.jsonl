@@ -1,0 +1,514 @@
+{
+    "C": [
+        {
+            "zh_des": "每个人都需要的开源观察性平台！",
+            "url": "https://github.com/netdata/netdata",
+            "name": "netdata /netdata",
+            "description": "The open-source observability platform everyone needs!",
+            "stars": 67859,
+            "forks": "5,701",
+            "language": "C",
+            "stars_today": "272 stars this week"
+        },
+        {
+            "zh_des": "Redis是一个驻留在磁盘上的内存数据库。数据模型是键-值，但支持许多不同类型的值：字符串、列表、集、排序集、散列、流、HyperLogs、位图。",
+            "url": "https://github.com/redis/redis",
+            "name": "redis /redis",
+            "description": "Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.",
+            "stars": 64327,
+            "forks": "23,340",
+            "language": "C",
+            "stars_today": "390 stars this week"
+        },
+        {
+            "zh_des": "新的可引导USB解决方案。",
+            "url": "https://github.com/ventoy/Ventoy",
+            "name": "ventoy /Ventoy",
+            "description": "A new bootable USB solution.",
+            "stars": 55395,
+            "forks": "3,886",
+            "language": "C",
+            "stars_today": "381 stars this week"
+        },
+        {
+            "zh_des": "Git源代码镜像-这是一个仅发布的存储库，但拉请求可以通过GitGitGadget(https://gitgitgadget.github.io/).)转换为邮件列表的补丁请按照文档/提交补丁程序进行任何改进。",
+            "url": "https://github.com/git/git",
+            "name": "git /git",
+            "description": "Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.",
+            "stars": 49849,
+            "forks": "25,066",
+            "language": "C",
+            "stars_today": "206 stars this week"
+        },
+        {
+            "zh_des": "使用URL语法传输数据的命令行工具和库，支持DICT、FILE、FTP、FTPS、GOPHER、GOPHER、HTTP、HTTPS、IMAP、IMAPS、LDAP、LDAPS、MQTT、POP3、POP3S、RTMP、RTMPS、RTSP、SCP、SFTP、SMB、SMBS、SMTP、SMTPS、Telnet、TFTP、WS和WSS。Libcurl提供了大量强大的功能",
+            "url": "https://github.com/curl/curl",
+            "name": "curl /curl",
+            "description": "A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features",
+            "stars": 33650,
+            "forks": "6,032",
+            "language": "C",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "OpenAI的密语模型在C/C++中的移植",
+            "url": "https://github.com/ggerganov/whisper.cpp",
+            "name": "ggerganov /whisper.cpp",
+            "description": "Port of OpenAI's Whisper model in C/C++",
+            "stars": 31050,
+            "forks": "3,063",
+            "language": "C",
+            "stars_today": "1,191 stars this week"
+        },
+        {
+            "zh_des": "Lean的Lede来源",
+            "url": "https://github.com/coolsnowwolf/lede",
+            "name": "coolsnowwolf /lede",
+            "description": "Lean's LEDE source",
+            "stars": 28292,
+            "forks": "19,812",
+            "language": "C",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "我的电视电视直播软件，安装即可使用",
+            "url": "https://github.com/lizongying/my-tv",
+            "name": "lizongying /my-tv",
+            "description": "我的电视 电视直播软件，安装即可使用",
+            "stars": 25536,
+            "forks": "2,835",
+            "language": "C",
+            "stars_today": "1,030 stars this week"
+        },
+        {
+            "zh_des": "🎥命令行视频播放器",
+            "url": "https://github.com/mpv-player/mpv",
+            "name": "mpv-player /mpv",
+            "description": "🎥 Command line video player",
+            "stars": 24537,
+            "forks": "2,730",
+            "language": "C",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "适用于基于ESP8266和ESP32的设备的替代固件，具有使用WebUI、OTA更新、使用定时器或规则的自动化、可扩展性以及对MQTT、HTTP、Serial或KNX的完全本地控制的轻松配置。完整文档，请访问",
+            "url": "https://github.com/arendst/Tasmota",
+            "name": "arendst /Tasmota",
+            "description": "Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+            "stars": 21551,
+            "forks": "4,685",
+            "language": "C",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "该项目旨在改善Windows上的工作环境",
+            "url": "https://github.com/valinet/ExplorerPatcher",
+            "name": "valinet /ExplorerPatcher",
+            "description": "This project aims to enhance the working environment on Windows",
+            "stars": 20683,
+            "forks": "932",
+            "language": "C",
+            "stars_today": "42 stars today"
+        },
+        {
+            "zh_des": "一个简单易用的库来享受视频游戏编程",
+            "url": "https://github.com/raysan5/raylib",
+            "name": "raysan5 /raylib",
+            "description": "A simple and easy-to-use library to enjoy videogames programming",
+            "stars": 19801,
+            "forks": "2,046",
+            "language": "C",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "纯C语言一个文件中的推理Llama 2",
+            "url": "https://github.com/karpathy/llama2.c",
+            "name": "karpathy /llama2.c",
+            "description": "Inference Llama 2 in one file of pure C",
+            "stars": 15718,
+            "forks": "1,782",
+            "language": "C",
+            "stars_today": "322 stars this week"
+        },
+        {
+            "zh_des": "嵌入式图形库，可为任何MCU、MPU和显示器类型创建漂亮的用户界面。",
+            "url": "https://github.com/lvgl/lvgl",
+            "name": "lvgl /lvgl",
+            "description": "Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.",
+            "stars": 15241,
+            "forks": "3,003",
+            "language": "C",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "构建-一次运行-Anywhere c库",
+            "url": "https://github.com/jart/cosmopolitan",
+            "name": "jart /cosmopolitan",
+            "description": "build-once run-anywhere c library",
+            "stars": 14304,
+            "forks": "460",
+            "language": "C",
+            "stars_today": "135 stars this week"
+        },
+        {
+            "zh_des": "被监禁的iOS应用程序，可以永久安装带有任意权限和根助手的IPA，因为它攻击苹果",
+            "url": "https://github.com/opa334/TrollStore",
+            "name": "opa334 /TrollStore",
+            "description": "Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple",
+            "stars": 13494,
+            "forks": "942",
+            "language": "C",
+            "stars_today": "80 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的网络游戏框架",
+            "url": "https://github.com/cloudwu/skynet",
+            "name": "cloudwu /skynet",
+            "description": "A lightweight online game framework",
+            "stars": 12991,
+            "forks": "4,127",
+            "language": "C",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "用于OpenGL、OpenGL ES、Vulkan、窗口和输入的多平台库",
+            "url": "https://github.com/glfw/glfw",
+            "name": "glfw /glfw",
+            "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+            "stars": 11950,
+            "forks": "4,849",
+            "language": "C",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "我为Flipper Zero制作或修改的东西的游乐场(和垃圾场)",
+            "url": "https://github.com/UberGuidoZ/Flipper",
+            "name": "UberGuidoZ /Flipper",
+            "description": "Playground (and dump) of stuff I make or modify for the Flipper Zero",
+            "stars": 10869,
+            "forks": "2,768",
+            "language": "C",
+            "stars_today": "241 stars this week"
+        },
+        {
+            "zh_des": "WCDB是微信开发的跨平台数据库框架。",
+            "url": "https://github.com/Tencent/wcdb",
+            "name": "Tencent /wcdb",
+            "description": "WCDB is a cross-platform database framework developed by WeChat.",
+            "stars": 10406,
+            "forks": "1,375",
+            "language": "C",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "Flipper Zero固件源代码",
+            "url": "https://github.com/flipperdevices/flipperzero-firmware",
+            "name": "flipperdevices /flipperzero-firmware",
+            "description": "Flipper Zero firmware source code",
+            "stars": 9522,
+            "forks": "2,260",
+            "language": "C",
+            "stars_today": "102 stars this week"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。我们将其命名为Valkey，因为它是键值数据存储的一个变种。",
+            "url": "https://github.com/valkey-io/valkey",
+            "name": "valkey-io /valkey",
+            "description": "A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.",
+            "stars": 9325,
+            "forks": "324",
+            "language": "C",
+            "stars_today": "2,895 stars this week"
+        },
+        {
+            "zh_des": "",
+            "url": "https://github.com/jemalloc/jemalloc",
+            "name": "jemalloc /jemalloc",
+            "description": "",
+            "stars": 8697,
+            "forks": "1,389",
+            "language": "C",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Wazuh -开源安全平台。针对端点和云工作负载的统一XDR和SIEM保护。",
+            "url": "https://github.com/wazuh/wazuh",
+            "name": "wazuh /wazuh",
+            "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
+            "stars": 8664,
+            "forks": "1,374",
+            "language": "C",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "基于MITRE的ATT和CK的小型和高度便携的检测测试。",
+            "url": "https://github.com/redcanaryco/atomic-red-team",
+            "name": "redcanaryco /atomic-red-team",
+            "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
+            "stars": 8524,
+            "forks": "2,611",
+            "language": "C",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "DarkTable是一款开源的摄影工作流应用程序和RAW开发者",
+            "url": "https://github.com/darktable-org/darktable",
+            "name": "darktable-org /darktable",
+            "description": "darktable is an open source photography workflow application and raw developer",
+            "stars": 8485,
+            "forks": "1,060",
+            "language": "C",
+            "stars_today": "243 stars this week"
+        },
+        {
+            "zh_des": "RandomX、KawPow、CryptoNight和Ghost Rider统一的CPU/GPU挖掘器和RandomX基准测试",
+            "url": "https://github.com/xmrig/xmrig",
+            "name": "xmrig /xmrig",
+            "description": "RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark",
+            "stars": 8433,
+            "forks": "3,377",
+            "language": "C",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Klipper是一款3D打印机固件",
+            "url": "https://github.com/Klipper3d/klipper",
+            "name": "Klipper3d /klipper",
+            "description": "Klipper is a 3d-printer firmware",
+            "stars": 8431,
+            "forks": "4,987",
+            "language": "C",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Flipper Zero固件中的DOM。给你的鳍状肢它真正渴望的力量和自由。让它向你展示它的真实面貌。不要耽搁，今天就切换到唯一真正的师父吧！",
+            "url": "https://github.com/Flipper-XFW/Xtreme-Firmware",
+            "name": "Flipper-XFW /Xtreme-Firmware",
+            "description": "The Dom amongst the Flipper Zero Firmware. Give your Flipper the power and freedom it is really craving. Let it show you its true form. Dont delay, switch to the one and only true Master today!",
+            "stars": 8110,
+            "forks": "576",
+            "language": "C",
+            "stars_today": "300 stars this week"
+        },
+        {
+            "zh_des": "一款快速易用的拖放复古游戏创作者，适用于您最喜欢的手持视频游戏系统",
+            "url": "https://github.com/chrismaltby/gb-studio",
+            "name": "chrismaltby /gb-studio",
+            "description": "A quick and easy to use drag and drop retro game creator for your favourite handheld video game system",
+            "stars": 7858,
+            "forks": "441",
+            "language": "C",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "与neofetch类似，但速度要快得多，因为主要是用C编写的。",
+            "url": "https://github.com/fastfetch-cli/fastfetch",
+            "name": "fastfetch-cli /fastfetch",
+            "description": "Like neofetch, but much faster because written mostly in C.",
+            "stars": 5996,
+            "forks": "288",
+            "language": "C",
+            "stars_today": "2,092 stars this week"
+        },
+        {
+            "zh_des": "在配备消费级GPU的PC上运行的高速大语言模型",
+            "url": "https://github.com/SJTU-IPADS/PowerInfer",
+            "name": "SJTU-IPADS /PowerInfer",
+            "description": "High-speed Large Language Model Serving on PCs with Consumer-grade GPUs",
+            "stars": 5714,
+            "forks": "284",
+            "language": "C",
+            "stars_today": "2,935 stars this week"
+        },
+        {
+            "zh_des": "这是一个非常漂亮但又非常低调的压缩库。",
+            "url": "https://github.com/madler/zlib",
+            "name": "madler /zlib",
+            "description": "A massively spiffy yet delicately unobtrusive compression library.",
+            "stars": 5061,
+            "forks": "2,340",
+            "language": "C",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "快速桌面切换设备",
+            "url": "https://github.com/hrvach/deskhop",
+            "name": "hrvach /deskhop",
+            "description": "Fast Desktop Switching Device",
+            "stars": 4439,
+            "forks": "80",
+            "language": "C",
+            "stars_today": "1,590 stars this week"
+        },
+        {
+            "zh_des": "ESak NG是一个开源的语音合成器，支持100多种语言和口音。",
+            "url": "https://github.com/espeak-ng/espeak-ng",
+            "name": "espeak-ng /espeak-ng",
+            "description": "eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.",
+            "stars": 3682,
+            "forks": "810",
+            "language": "C",
+            "stars_today": "542 stars this week"
+        },
+        {
+            "zh_des": "FRRouting协议套件",
+            "url": "https://github.com/FRRouting/frr",
+            "name": "FRRouting /frr",
+            "description": "The FRRouting Protocol Suite",
+            "stars": 3042,
+            "forks": "1,177",
+            "language": "C",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一个本机的、用户模式的、多进程的图形调试器。",
+            "url": "https://github.com/EpicGames/raddebugger",
+            "name": "EpicGames /raddebugger",
+            "description": "A native, user-mode, multi-process, graphical debugger.",
+            "stars": 2322,
+            "forks": "106",
+            "language": "C",
+            "stars_today": "1,233 stars this week"
+        },
+        {
+            "zh_des": "把任何一副眼镜都变成人工智能眼镜",
+            "url": "https://github.com/BasedHardware/OpenGlass",
+            "name": "BasedHardware /OpenGlass",
+            "description": "Turn any glasses into AI-powered smart glasses",
+            "stars": 2234,
+            "forks": "259",
+            "language": "C",
+            "stars_today": "519 stars this week"
+        },
+        {
+            "zh_des": "可以使用任何Web浏览器作为图形用户界面，在后端使用您喜欢的语言，在前端使用HTML5，所有这些都在一个轻量级的可移植库中。",
+            "url": "https://github.com/webui-dev/webui",
+            "name": "webui-dev /webui",
+            "description": "Use any web browser as GUI, with your preferred language in the backend and HTML5 in the frontend, all in a lightweight portable lib.",
+            "stars": 1474,
+            "forks": "84",
+            "language": "C",
+            "stars_today": "93 stars today"
+        },
+        {
+            "zh_des": "针对CVE-2024-1086的通用本地权限提升概念验证漏洞，适用于v5.14和v6.6之间的大多数Linux内核，包括Debian、Ubuntu和KernelCTF。KernelCTF图像成功率为99.4%。",
+            "url": "https://github.com/Notselwyn/CVE-2024-1086",
+            "name": "Notselwyn /CVE-2024-1086",
+            "description": "Universal local privilege escalation Proof-of-Concept exploit for CVE-2024-1086, working on most Linux kernels between v5.14 and v6.6, including Debian, Ubuntu, and KernelCTF. The success rate is 99.4% in KernelCTF images.",
+            "stars": 1371,
+            "forks": "136",
+            "language": "C",
+            "stars_today": "620 stars this week"
+        },
+        {
+            "zh_des": "🐬功能丰富、稳定且可定制的Flipper固件",
+            "url": "https://github.com/Next-Flip/Momentum-Firmware",
+            "name": "Next-Flip /Momentum-Firmware",
+            "description": "🐬 Feature-rich, stable and customizable Flipper firmware",
+            "stars": 938,
+            "forks": "31",
+            "language": "C",
+            "stars_today": "120 stars today"
+        },
+        {
+            "zh_des": "用于C语言的并行库(协程)",
+            "url": "https://github.com/tidwall/neco",
+            "name": "tidwall /neco",
+            "description": "Concurrency library for C (coroutines)",
+            "stars": 856,
+            "forks": "68",
+            "language": "C",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "C++标准库的C++实现",
+            "url": "https://github.com/KaisenAmin/c_std",
+            "name": "KaisenAmin /c_std",
+            "description": "Implementation of C++ standard libraries in C",
+            "stars": 855,
+            "forks": "45",
+            "language": "C",
+            "stars_today": "233 stars today"
+        },
+        {
+            "zh_des": "带有KVM后端的VirtualBox。在我们目前的开发模式下，我们不能在这里轻松地接受Pull请求。如果您愿意提供帮助，请随时联系我们，我们很乐意找到解决方案。",
+            "url": "https://github.com/cyberus-technology/virtualbox-kvm",
+            "name": "cyberus-technology /virtualbox-kvm",
+            "description": "VirtualBox with KVM Backend. With our current development model, we cannot easily accept pull requests here. If you'd like to contribute, feel free to reach out to us, we are happy to find a solution.",
+            "stars": 722,
+            "forks": "106",
+            "language": "C",
+            "stars_today": "102 stars today"
+        },
+        {
+            "zh_des": "针对6.4-6.5内核的漏洞攻击和针对5.15-6.5内核的另一漏洞攻击",
+            "url": "https://github.com/YuriiCrimson/ExploitGSM",
+            "name": "YuriiCrimson /ExploitGSM",
+            "description": "Exploit for 6.4 - 6.5 kernels and another exploit for 5.15 - 6.5",
+            "stars": 689,
+            "forks": "120",
+            "language": "C",
+            "stars_today": "85 stars today"
+        },
+        {
+            "zh_des": "KFD是内核文件描述符的缩写，是一个在Apple设备上读写内核内存的项目。",
+            "url": "https://github.com/felix-pb/kfd",
+            "name": "felix-pb /kfd",
+            "description": "kfd, short for kernel file descriptor, is a project to read and write kernel memory on Apple devices.",
+            "stars": 680,
+            "forks": "107",
+            "language": "C",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "恢复开发以前开源的Redis项目的新项目。名称为占位符。",
+            "url": "https://github.com/placeholderkv/placeholderkv",
+            "name": "placeholderkv /placeholderkv",
+            "description": "A new project to resume development on the formerly open-source Redis project. Name is placeholder.",
+            "stars": 642,
+            "forks": "29",
+            "language": "C",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "一种简单、非常实验性的LPC总线TPM嗅探器",
+            "url": "https://github.com/stacksmashing/pico-tpmsniffer",
+            "name": "stacksmashing /pico-tpmsniffer",
+            "description": "A simple, very experimental TPM sniffer for LPC bus",
+            "stars": 363,
+            "forks": "53",
+            "language": "C",
+            "stars_today": "98 stars this week"
+        },
+        {
+            "zh_des": "在没有无线电的情况下传输LORA帧",
+            "url": "https://github.com/cnlohr/lolra",
+            "name": "cnlohr /lolra",
+            "description": "Transmit LoRa Frames Without a Radio",
+            "stars": 321,
+            "forks": "22",
+            "language": "C",
+            "stars_today": "79 stars today"
+        },
+        {
+            "zh_des": "用于学习的最低限度的ATW风格的口译员",
+            "url": "https://github.com/kparc/ksimple",
+            "name": "kparc /ksimple",
+            "description": "bare minimum atw-style interpreter for learning purposes",
+            "stars": 177,
+            "forks": "10",
+            "language": "C",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "一种编程语言基准",
+            "url": "https://github.com/attractivechaos/plb2",
+            "name": "attractivechaos /plb2",
+            "description": "A programming language benchmark",
+            "stars": 146,
+            "forks": "24",
+            "language": "C",
+            "stars_today": "34 stars today"
+        }
+    ]
+}

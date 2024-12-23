@@ -1,0 +1,7 @@
+discord==2.3.2
+beautifulsoup4==4.12.2
+markdown==3.4.1
+aiohttp==3.8.4
+tencentcloud-sdk-python==3.0.1057
+requests==2.31.0
+python-dotenv

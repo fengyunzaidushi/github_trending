@@ -1,0 +1,54 @@
+{
+    "Solidity": [
+        {
+            "zh_des": "LayerZero V2OmNichain互操作性协议LayerZero是一种不变的、抗审查和无许可的消息传递协议，它连接区块链(60+和更多)，以实现区块链应用的全方位互操作性",
+            "url": "https://github.com/LayerZero-Labs/LayerZero-v2",
+            "name": "LayerZero-Labs /LayerZero-v2",
+            "description": "LayerZero V2Omnichain Interoperability ProtocolLayerZero is an immutable, censorship-resistant, and permissionless messaging protocol, that connects blockchains (60+ and counting) to enable omnichain interoperability for blockchain applications",
+            "stars": 402,
+            "forks": "243",
+            "language": "Solidity",
+            "stars_today": "43 stars this week"
+        },
+        {
+            "zh_des": "NOTICEERC404",
+            "url": "https://github.com/0xacme/ERC404",
+            "name": "0xacme /ERC404",
+            "description": "NOTICEERC404",
+            "stars": 399,
+            "forks": "215",
+            "language": "Solidity",
+            "stars_today": "168 stars this week"
+        },
+        {
+            "zh_des": "实施共同加入的ERC20和ERC721对。",
+            "url": "https://github.com/Vectorized/dn404",
+            "name": "Vectorized /dn404",
+            "description": "Implementation of a co-joined ERC20 and ERC721 pair.",
+            "stars": 319,
+            "forks": "113",
+            "language": "Solidity",
+            "stars_today": "116 stars this week"
+        },
+        {
+            "zh_des": "基座",
+            "url": "https://github.com/mztacat/Base",
+            "name": "mztacat /Base",
+            "description": "Base",
+            "stars": 206,
+            "forks": "166",
+            "language": "Solidity",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "NOTICEERC404不再对此存储库进行主动维护",
+            "url": "https://github.com/Pandora-Labs-Org/erc404-legacy",
+            "name": "Pandora-Labs-Org /erc404-legacy",
+            "description": "NOTICEERC404This repository is no longer being actively maintained",
+            "stars": 94,
+            "forks": "52",
+            "language": "Solidity",
+            "stars_today": "33 stars today"
+        }
+    ]
+}

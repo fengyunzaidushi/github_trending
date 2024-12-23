@@ -1,0 +1,14 @@
+{
+    "Scala": [
+        {
+            "zh_des": "开源存储框架，支持使用Spark、PrestoDB、Flink、Trino和Have等计算引擎和API构建Lakehouse体系结构",
+            "url": "https://github.com/delta-io/delta",
+            "name": "delta-io /delta",
+            "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+            "stars": 7125,
+            "forks": "1,608",
+            "language": "Scala",
+            "stars_today": "82 stars today"
+        }
+    ]
+}

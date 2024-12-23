@@ -1,0 +1,44 @@
+{
+    "Zig": [
+        {
+            "zh_des": "令人难以置信的快速的JavaScript运行时、绑定器、测试运行器和包管理器-所有这些都集于一身",
+            "url": "https://github.com/oven-sh/bun",
+            "name": "oven-sh /bun",
+            "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+            "stars": 70089,
+            "forks": "2,411",
+            "language": "Zig",
+            "stars_today": "711 stars this week"
+        },
+        {
+            "zh_des": "用于维护健壮、优化和可重用软件的通用编程语言和工具链。",
+            "url": "https://github.com/ziglang/zig",
+            "name": "ziglang /zig",
+            "description": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+            "stars": 30603,
+            "forks": "2,225",
+            "language": "Zig",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "分布式金融交易数据库专为关键任务的安全性和性能而设计。",
+            "url": "https://github.com/tigerbeetle/tigerbeetle",
+            "name": "tigerbeetle /tigerbeetle",
+            "description": "The distributed financial transactions database designed for mission critical safety and performance.",
+            "stars": 6165,
+            "forks": "311",
+            "language": "Zig",
+            "stars_today": "642 stars this week"
+        },
+        {
+            "zh_des": "Zig Cookbook是一个简单的Zig程序的集合，它展示了完成常见编程任务的良好实践。",
+            "url": "https://github.com/zigcc/zig-cookbook",
+            "name": "zigcc /zig-cookbook",
+            "description": "Zig cookbook is a collection of simple Zig programs that demonstrate good practices to accomplish common programming tasks.",
+            "stars": 354,
+            "forks": "16",
+            "language": "Zig",
+            "stars_today": "51 stars today"
+        }
+    ]
+}
