@@ -74868,3 +74868,157 @@
         }
     ]
 }
+{
+    "12月24日": [
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "282,187",
+            "forks": "47,202",
+            "language": "Python",
+            "stars_today": "461 stars today"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "8,619",
+            "forks": "872",
+            "language": "Python",
+            "stars_today": "651 stars today"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "3,166",
+            "forks": "196",
+            "language": "Python",
+            "stars_today": "128 stars today"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "169,522",
+            "forks": "44,640",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "机器人算法的Python示例代码。",
+            "url": "https://github.com/AtsushiSakai/PythonRobotics",
+            "name": "AtsushiSakai /PythonRobotics",
+            "description": "Python sample codes for robotics algorithms.",
+            "stars": "23,737",
+            "forks": "6,604",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "PDF将使用视觉模型进行降价",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "PDF to Markdown with vision models",
+            "stars": "7,177",
+            "forks": "417",
+            "language": "Python",
+            "stars_today": "31 stars today"
+        },
+        {
+            "zh_des": "股票股票。获取股票数据，计算股票指标，识别股票形态，综合选股，选股策略，股票验证回测，股票自动交易，支持PC及移动设备。",
+            "url": "https://github.com/myhhub/stock",
+            "name": "myhhub /stock",
+            "description": "stock股票.获取股票数据,计算股票指标,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。",
+            "stars": "6,503",
+            "forks": "1,177",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "3,589",
+            "forks": "319",
+            "language": "Python",
+            "stars_today": "239 stars today"
+        },
+        {
+            "zh_des": "Vila-一种多图像可视化语言模型，包含训练、推理和评估配方，可从云部署到边缘(Jetson Orin和笔记本电脑)",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA - a multi-image visual language model with training, inference and evaluation recipe, deployable from cloud to edge (Jetson Orin and laptops)",
+            "stars": "2,208",
+            "forks": "181",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "最强大和模块化的扩散模型，具有图形/节点界面的图形、API和后端。",
+            "url": "https://github.com/comfyanonymous/ComfyUI",
+            "name": "comfyanonymous /ComfyUI",
+            "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+            "stars": "61,070",
+            "forks": "6,515",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        },
+        {
+            "zh_des": "Composo通过函数调用为您的AI代理和LLM配备100+高质量集成",
+            "url": "https://github.com/ComposioHQ/composio",
+            "name": "ComposioHQ /composio",
+            "description": "Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling",
+            "stars": "13,660",
+            "forks": "4,249",
+            "language": "Python",
+            "stars_today": "23 stars today"
+        },
+        {
+            "zh_des": "开源库存管理系统",
+            "url": "https://github.com/inventree/InvenTree",
+            "name": "inventree /InvenTree",
+            "description": "Open Source Inventory Management System",
+            "stars": "4,503",
+            "forks": "808",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "使用程序生成的无限照片级真实感世界",
+            "url": "https://github.com/princeton-vl/infinigen",
+            "name": "princeton-vl /infinigen",
+            "description": "Infinite Photorealistic Worlds using Procedural Generation",
+            "stars": "5,886",
+            "forks": "492",
+            "language": "Python",
+            "stars_today": "219 stars today"
+        },
+        {
+            "zh_des": "通过建筑变化和规模将Bert带入现代性",
+            "url": "https://github.com/AnswerDotAI/ModernBERT",
+            "name": "AnswerDotAI /ModernBERT",
+            "description": "Bringing BERT into modernity via both architecture changes and scaling",
+            "stars": "626",
+            "forks": "34",
+            "language": "Python",
+            "stars_today": "76 stars today"
+        },
+        {
+            "zh_des": "构建实时多通道AI应用程序🤖🎙️📹",
+            "url": "https://github.com/livekit/agents",
+            "name": "livekit /agents",
+            "description": "Build real-time multimodal AI applications 🤖🎙️📹",
+            "stars": "4,373",
+            "forks": "502",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        }
+    ]
+}
