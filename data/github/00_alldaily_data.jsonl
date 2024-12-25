@@ -75030,3 +75030,117 @@
         }
     ]
 }
+{
+    "12月25日": [
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "9,104",
+            "forks": "919",
+            "language": "Python",
+            "stars_today": "393 stars today"
+        },
+        {
+            "zh_des": "通过自然语言人工智能测试的QA",
+            "url": "https://github.com/anti-work/shortest",
+            "name": "anti-work /shortest",
+            "description": "QA via natural language AI tests",
+            "stars": "1,154",
+            "forks": "54",
+            "language": "TypeScript",
+            "stars_today": "313 stars today"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "208,717",
+            "forks": "27,240",
+            "language": "",
+            "stars_today": "299 stars today"
+        },
+        {
+            "zh_des": "🤯lobe Chat--一个开源的、现代设计的AI聊天框架。支持多种AI提供者(OpenAI/Claude 3/Gemini/Ollama/Qwen/DeepSeek)、知识库(文件上传/知识管理/RAG)、多通道(Vision/TTS/Plugins/Artitures)。一键免费部署您的私人ChatGPT/Claude应用程序。",
+            "url": "https://github.com/lobehub/lobe-chat",
+            "name": "lobehub /lobe-chat",
+            "description": "🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen / DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.",
+            "stars": "49,618",
+            "forks": "10,769",
+            "language": "TypeScript",
+            "stars_today": "86 stars today"
+        },
+        {
+            "zh_des": "OpenAI API的OpenAPI规范",
+            "url": "https://github.com/openai/openai-openapi",
+            "name": "openai /openai-openapi",
+            "description": "OpenAPI specification for the OpenAI API",
+            "stars": "1,549",
+            "forks": "397",
+            "language": "",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "282,569",
+            "forks": "47,244",
+            "language": "Python",
+            "stars_today": "408 stars today"
+        },
+        {
+            "zh_des": "CasaOS-一个简单、易用、优雅的开源Personal Cloud系统。",
+            "url": "https://github.com/IceWhaleTech/CasaOS",
+            "name": "IceWhaleTech /CasaOS",
+            "description": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+            "stars": "27,208",
+            "forks": "1,487",
+            "language": "Go",
+            "stars_today": "161 stars today"
+        },
+        {
+            "zh_des": "一个直接面向司机的开放式移动平台，为印度的下一代移动应用提供动力。",
+            "url": "https://github.com/nammayatri/nammayatri",
+            "name": "nammayatri /nammayatri",
+            "description": "A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.",
+            "stars": "1,696",
+            "forks": "192",
+            "language": "PureScript",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLMS的逻辑形式制导的推理和检索框架。它用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效地克服传统的RAG向量相似度计算模型的不足。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "1,122",
+            "forks": "89",
+            "language": "Python",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "🦜🔗构建上下文感知推理应用程序",
+            "url": "https://github.com/langchain-ai/langchain",
+            "name": "langchain-ai /langchain",
+            "description": "🦜🔗 Build context-aware reasoning applications",
+            "stars": "96,770",
+            "forks": "15,742",
+            "language": "Jupyter Notebook",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "免费提供游戏服务",
+            "url": "https://github.com/microg/GmsCore",
+            "name": "microg /GmsCore",
+            "description": "Free implementation of Play Services",
+            "stars": "8,935",
+            "forks": "1,770",
+            "language": "Java",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
