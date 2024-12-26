@@ -75280,3 +75280,87 @@
         }
     ]
 }
+{
+    "12月26日": [
+        {
+            "zh_des": "了解如何设计大型系统。准备系统设计面试。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "282,721",
+            "forks": "47,268",
+            "language": "Python",
+            "stars_today": "407 stars today"
+        },
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLM的逻辑形式引导推理和检索框架。用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效克服传统RAG向度计算模型的缺点。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "1,274",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "用于LLM的高吞吐量和内存效率的推理和服务引擎",
+            "url": "https://github.com/vllm-project/vllm",
+            "name": "vllm-project /vllm",
+            "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+            "stars": "32,560",
+            "forks": "4,956",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "Open-Sora：为所有人实现高效视频制作民主化",
+            "url": "https://github.com/hpcaitech/Open-Sora",
+            "name": "hpcaitech /Open-Sora",
+            "description": "Open-Sora: Democratizing Efficient Video Production for All",
+            "stars": "22,862",
+            "forks": "2,245",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "提取微信昨天记录，将其引导为HTML、Word、Excel文档永久保存，对昨天记录进入分析生成年度昨天报告，利用昨天数据训练属于个人的AI昨天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "35,636",
+            "forks": "3,718",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "您的终端中的代理配备了本地工具：编写代码、使用终端、浏览网络、视觉。",
+            "url": "https://github.com/ErikBjare/gptme",
+            "name": "ErikBjare /gptme",
+            "description": "Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.",
+            "stars": "2,954",
+            "forks": "205",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "机器人算法的Python示例代码。",
+            "url": "https://github.com/AtsushiSakai/PythonRobotics",
+            "name": "AtsushiSakai /PythonRobotics",
+            "description": "Python sample codes for robotics algorithms.",
+            "stars": "23,792",
+            "forks": "6,612",
+            "language": "Python",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "AutoGPT是让每个人都可以使用和构建的可访问人工智能的愿景。我们的使命是提供工具，以便您可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "169,649",
+            "forks": "44,658",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        }
+    ]
+}
