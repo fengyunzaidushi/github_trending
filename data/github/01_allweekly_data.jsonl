@@ -80266,3 +80266,157 @@
         }
     ]
 }
+{
+    "12月26日": [
+        {
+            "zh_des": "面向家庭助理的小米家庭集成",
+            "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+            "name": "XiaoMi /ha_xiaomi_home",
+            "description": "Xiaomi Home Integration for Home Assistant",
+            "stars": "15,266",
+            "forks": "671",
+            "language": "Python",
+            "stars_today": "6,758 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "282,855",
+            "forks": "47,286",
+            "language": "Python",
+            "stars_today": "3,114 stars this week"
+        },
+        {
+            "zh_des": "白板/无限画布SDK",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "whiteboard / infinite canvas SDK",
+            "stars": "37,661",
+            "forks": "2,307",
+            "language": "TypeScript",
+            "stars_today": "1,325 stars this week"
+        },
+        {
+            "zh_des": "UBlock Origin-一款针对Chromium和Firefox的高效拦截器。又快又倾斜。",
+            "url": "https://github.com/gorhill/uBlock",
+            "name": "gorhill /uBlock",
+            "description": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.",
+            "stars": "48,593",
+            "forks": "3,224",
+            "language": "JavaScript",
+            "stars_today": "580 stars this week"
+        },
+        {
+            "zh_des": "用于Web自动化、测试和绕过bot检测的PythonAPI。",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "name": "seleniumbase /SeleniumBase",
+            "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+            "stars": "7,923",
+            "forks": "1,078",
+            "language": "Python",
+            "stars_today": "1,746 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "8,428",
+            "forks": "1,042",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,046 stars this week"
+        },
+        {
+            "zh_des": "💥BREAZING FAST终端文件管理器，基于异步I/O，用RUST编写。",
+            "url": "https://github.com/sxyazi/yazi",
+            "name": "sxyazi /yazi",
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "stars": "19,170",
+            "forks": "437",
+            "language": "Rust",
+            "stars_today": "1,278 stars this week"
+        },
+        {
+            "zh_des": "从破烂的聊天机器人到代码助手，再到复杂的代理管道等，构建运行更好、更快、更便宜的LLM系统，包括跟踪、评估和仪表盘。",
+            "url": "https://github.com/comet-ml/opik",
+            "name": "comet-ml /opik",
+            "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+            "stars": "3,748",
+            "forks": "213",
+            "language": "Python",
+            "stars_today": "1,109 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "16,303",
+            "forks": "1,361",
+            "language": "TypeScript",
+            "stars_today": "1,116 stars this week"
+        },
+        {
+            "zh_des": "用于构建骆驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "5,735",
+            "forks": "756",
+            "language": "Python",
+            "stars_today": "507 stars this week"
+        },
+        {
+            "zh_des": "一个简单易用的库来享受视频游戏编程",
+            "url": "https://github.com/raysan5/raylib",
+            "name": "raysan5 /raylib",
+            "description": "A simple and easy-to-use library to enjoy videogames programming",
+            "stars": "23,840",
+            "forks": "2,344",
+            "language": "C",
+            "stars_today": "482 stars this week"
+        },
+        {
+            "zh_des": "OpenAI API的OpenAPI规范",
+            "url": "https://github.com/openai/openai-openapi",
+            "name": "openai /openai-openapi",
+            "description": "OpenAPI specification for the OpenAI API",
+            "stars": "1,684",
+            "forks": "402",
+            "language": "",
+            "stars_today": "236 stars this week"
+        },
+        {
+            "zh_des": "使用Gemini API的示例和指南",
+            "url": "https://github.com/google-gemini/cookbook",
+            "name": "google-gemini /cookbook",
+            "description": "Examples and guides for using the Gemini API",
+            "stars": "9,591",
+            "forks": "1,116",
+            "language": "Jupyter Notebook",
+            "stars_today": "1,066 stars this week"
+        },
+        {
+            "zh_des": "一个注重简单性和可扩展性的人工智能Web浏览框架。",
+            "url": "https://github.com/browserbase/stagehand",
+            "name": "browserbase /stagehand",
+            "description": "An AI web browsing framework focused on simplicity and extensibility.",
+            "stars": "2,533",
+            "forks": "122",
+            "language": "TypeScript",
+            "stars_today": "764 stars this week"
+        },
+        {
+            "zh_des": "DPI绕过多平台",
+            "url": "https://github.com/bol-van/zapret",
+            "name": "bol-van /zapret",
+            "description": "DPI bypass multi platform",
+            "stars": "9,302",
+            "forks": "694",
+            "language": "C",
+            "stars_today": "401 stars this week"
+        }
+    ]
+}
