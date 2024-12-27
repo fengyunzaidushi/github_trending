@@ -78786,3 +78786,147 @@
         }
     ]
 }
+{
+    "12月27日": [
+        {
+            "zh_des": "通用机器人的产生式世界&体现的人工智能学习。",
+            "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+            "name": "Genesis-Embodied-AI /Genesis",
+            "description": "A generative world for general-purpose robotics & embodied AI learning.",
+            "stars": "19,863",
+            "forks": "1,500",
+            "language": "Python",
+            "stars_today": "6,622 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "283,008",
+            "forks": "47,313",
+            "language": "Python",
+            "stars_today": "3,297 stars this week"
+        },
+        {
+            "zh_des": "面向家庭助理的小米家庭集成",
+            "url": "https://github.com/XiaoMi/ha_xiaomi_home",
+            "name": "XiaoMi /ha_xiaomi_home",
+            "description": "Xiaomi Home Integration for Home Assistant",
+            "stars": "15,482",
+            "forks": "688",
+            "language": "Python",
+            "stars_today": "4,563 stars this week"
+        },
+        {
+            "zh_des": "用于Web自动化、测试和绕过bot检测的PythonAPI。",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "name": "seleniumbase /SeleniumBase",
+            "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+            "stars": "8,001",
+            "forks": "1,079",
+            "language": "Python",
+            "stars_today": "1,329 stars this week"
+        },
+        {
+            "zh_des": "从破烂的聊天机器人到代码助手，再到复杂的代理管道等，构建运行更好、更快、更便宜的LLM系统，包括跟踪、评估和仪表盘。",
+            "url": "https://github.com/comet-ml/opik",
+            "name": "comet-ml /opik",
+            "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+            "stars": "3,777",
+            "forks": "214",
+            "language": "Python",
+            "stars_today": "1,062 stars this week"
+        },
+        {
+            "zh_des": "用于构建骆驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "5,762",
+            "forks": "757",
+            "language": "Python",
+            "stars_today": "372 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "22,412",
+            "forks": "7,484",
+            "language": "Python",
+            "stars_today": "118 stars this week"
+        },
+        {
+            "zh_des": "《一种儿童人物画动画制作方法》附码",
+            "url": "https://github.com/facebookresearch/AnimatedDrawings",
+            "name": "facebookresearch /AnimatedDrawings",
+            "description": "Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
+            "stars": "11,973",
+            "forks": "1,019",
+            "language": "Python",
+            "stars_today": "493 stars this week"
+        },
+        {
+            "zh_des": "PDF将使用视觉模型进行降价",
+            "url": "https://github.com/getomni-ai/zerox",
+            "name": "getomni-ai /zerox",
+            "description": "PDF to Markdown with vision models",
+            "stars": "7,353",
+            "forks": "433",
+            "language": "Python",
+            "stars_today": "286 stars this week"
+        },
+        {
+            "zh_des": "宏伟的应用程序，更正您之前的控制台命令。",
+            "url": "https://github.com/nvbn/thefuck",
+            "name": "nvbn /thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "stars": "87,984",
+            "forks": "3,534",
+            "language": "Python",
+            "stars_today": "1,927 stars this week"
+        },
+        {
+            "zh_des": "SGLang是一个用于大型语言模型和视觉语言模型的快速服务框架。",
+            "url": "https://github.com/sgl-project/sglang",
+            "name": "sgl-project /sglang",
+            "description": "SGLang is a fast serving framework for large language models and vision language models.",
+            "stars": "6,783",
+            "forks": "616",
+            "language": "Python",
+            "stars_today": "182 stars this week"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "3,231",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "655 stars this week"
+        },
+        {
+            "zh_des": "提取微信聊天记录，将其导出成Html、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "url": "https://github.com/LC044/WeChatMsg",
+            "name": "LC044 /WeChatMsg",
+            "description": "提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手",
+            "stars": "35,697",
+            "forks": "3,720",
+            "language": "Python",
+            "stars_today": "290 stars this week"
+        },
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLMS的逻辑形式制导的推理和检索框架。它用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效地克服传统的RAG向量相似度计算模型的不足。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "1,642",
+            "forks": "118",
+            "language": "Python",
+            "stars_today": "520 stars this week"
+        }
+    ]
+}
