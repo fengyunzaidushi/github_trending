@@ -79074,3 +79074,167 @@
         }
     ]
 }
+{
+    "12月28日": [
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "283,143",
+            "forks": "47,334",
+            "language": "Python",
+            "stars_today": "3,342 stars this week"
+        },
+        {
+            "zh_des": "通用机器人的产生式世界&体现的人工智能学习。",
+            "url": "https://github.com/Genesis-Embodied-AI/Genesis",
+            "name": "Genesis-Embodied-AI /Genesis",
+            "description": "A generative world for general-purpose robotics & embodied AI learning.",
+            "stars": "20,157",
+            "forks": "1,524",
+            "language": "Python",
+            "stars_today": "6,136 stars this week"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "3,776",
+            "forks": "325",
+            "language": "Python",
+            "stars_today": "1,229 stars this week"
+        },
+        {
+            "zh_des": "用于Web自动化、测试和绕过bot检测的PythonAPI。",
+            "url": "https://github.com/seleniumbase/SeleniumBase",
+            "name": "seleniumbase /SeleniumBase",
+            "description": "Python APIs for web automation, testing, and bypassing bot-detection.",
+            "stars": "8,068",
+            "forks": "1,082",
+            "language": "Python",
+            "stars_today": "1,001 stars this week"
+        },
+        {
+            "zh_des": "AutoGPT的愿景是让每个人都可以使用和建立可访问的人工智能。我们的使命是提供工具，这样您就可以专注于重要的事情。",
+            "url": "https://github.com/Significant-Gravitas/AutoGPT",
+            "name": "Significant-Gravitas /AutoGPT",
+            "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+            "stars": "169,862",
+            "forks": "44,689",
+            "language": "Python",
+            "stars_today": "601 stars this week"
+        },
+        {
+            "zh_des": "SGLang是一个用于大型语言模型和视觉语言模型的快速服务框架。",
+            "url": "https://github.com/sgl-project/sglang",
+            "name": "sgl-project /sglang",
+            "description": "SGLang is a fast serving framework for large language models and vision language models.",
+            "stars": "6,818",
+            "forks": "620",
+            "language": "Python",
+            "stars_today": "198 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "72,743",
+            "forks": "6,363",
+            "language": "Python",
+            "stars_today": "606 stars this week"
+        },
+        {
+            "zh_des": "免费开放源码的企业资源规划(ERP)",
+            "url": "https://github.com/frappe/erpnext",
+            "name": "frappe /erpnext",
+            "description": "Free and Open Source Enterprise Resource Planning (ERP)",
+            "stars": "22,425",
+            "forks": "7,486",
+            "language": "Python",
+            "stars_today": "128 stars this week"
+        },
+        {
+            "zh_des": "构建强大的AI代理的最快方法",
+            "url": "https://github.com/AgentOps-AI/AgentStack",
+            "name": "AgentOps-AI /AgentStack",
+            "description": "The fastest way to build robust AI agents",
+            "stars": "1,228",
+            "forks": "94",
+            "language": "Python",
+            "stars_today": "234 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,043",
+            "forks": "88",
+            "language": "Python",
+            "stars_today": "689 stars this week"
+        },
+        {
+            "zh_des": "无代码LLM平台启动API和ETL管道以结构化非结构化文档",
+            "url": "https://github.com/Zipstack/unstract",
+            "name": "Zipstack /unstract",
+            "description": "No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents",
+            "stars": "3,241",
+            "forks": "203",
+            "language": "Python",
+            "stars_today": "646 stars this week"
+        },
+        {
+            "zh_des": "宏伟的应用程序，更正您之前的控制台命令。",
+            "url": "https://github.com/nvbn/thefuck",
+            "name": "nvbn /thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "stars": "88,092",
+            "forks": "3,536",
+            "language": "Python",
+            "stars_today": "1,443 stars this week"
+        },
+        {
+            "zh_des": "使用动态人工智能模型和语音克隆将电子书转换为带有章节和元数据的有声读物。支持1,107多种语言！",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook",
+            "name": "DrewThomasson /ebook2audiobook",
+            "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+            "stars": "2,000",
+            "forks": "155",
+            "language": "Python",
+            "stars_today": "738 stars this week"
+        },
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLMS的逻辑形式制导的推理和检索框架。它用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效地克服传统的RAG向量相似度计算模型的不足。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "1,750",
+            "forks": "123",
+            "language": "Python",
+            "stars_today": "762 stars this week"
+        },
+        {
+            "zh_des": "这是一个非常棒的Python框架、库、软件和资源的固执己见的列表。",
+            "url": "https://github.com/vinta/awesome-python",
+            "name": "vinta /awesome-python",
+            "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+            "stars": "228,868",
+            "forks": "25,053",
+            "language": "Python",
+            "stars_today": "746 stars this week"
+        },
+        {
+            "zh_des": "从破烂的聊天机器人到代码助手，再到复杂的代理管道等，构建运行更好、更快、更便宜的LLM系统，包括跟踪、评估和仪表盘。",
+            "url": "https://github.com/comet-ml/opik",
+            "name": "comet-ml /opik",
+            "description": "From RAG chatbots to code assistants to complex agentic pipelines and beyond, build LLM systems that run better, faster, and cheaper with tracing, evaluations, and dashboards.",
+            "stars": "3,814",
+            "forks": "215",
+            "language": "Python",
+            "stars_today": "758 stars this week"
+        }
+    ]
+}
