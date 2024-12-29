@@ -76122,3 +76122,197 @@
         }
     ]
 }
+{
+    "12月29日": [
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "343,184",
+            "forks": "62,160",
+            "language": "HTML",
+            "stars_today": "239 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "321,449",
+            "forks": "34,181",
+            "language": "Python",
+            "stars_today": "310 stars today"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "27,856",
+            "forks": "1,944",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "用于流处理、实时分析、LLM管道和RAG的Python ETL框架。",
+            "url": "https://github.com/pathwaycom/pathway",
+            "name": "pathwaycom /pathway",
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "stars": "9,870",
+            "forks": "193",
+            "language": "Python",
+            "stars_today": "512 stars today"
+        },
+        {
+            "zh_des": "使用动态人工智能模型和语音克隆将电子书转换为带有章节和元数据的有声读物。支持1,107多种语言！",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook",
+            "name": "DrewThomasson /ebook2audiobook",
+            "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+            "stars": "2,240",
+            "forks": "167",
+            "language": "Python",
+            "stars_today": "139 stars today"
+        },
+        {
+            "zh_des": "一系列鼓舞人心的列表、手册、小抄、博客、黑客、一行程序、cli/web工具等等。",
+            "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+            "name": "trimstray /the-book-of-secret-knowledge",
+            "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+            "stars": "152,885",
+            "forks": "9,728",
+            "language": "",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "72,909",
+            "forks": "6,378",
+            "language": "Python",
+            "stars_today": "145 stars today"
+        },
+        {
+            "zh_des": "一个完整的计算机科学学习计划，成为一名软件工程师。",
+            "url": "https://github.com/jwasham/coding-interview-university",
+            "name": "jwasham /coding-interview-university",
+            "description": "A complete computer science study plan to become a software engineer.",
+            "stars": "308,626",
+            "forks": "77,283",
+            "language": "",
+            "stars_today": "126 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "24,965",
+            "forks": "1,713",
+            "language": "TypeScript",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "🍒Cherry Studio是一个桌面客户端，支持多个LLm提供者",
+            "url": "https://github.com/kangfenmao/cherry-studio",
+            "name": "kangfenmao /cherry-studio",
+            "description": "🍒 Cherry Studio is a desktop client that supports for multiple LLM providers",
+            "stars": "2,511",
+            "forks": "138",
+            "language": "TypeScript",
+            "stars_today": "226 stars today"
+        },
+        {
+            "zh_des": "拯救你所爱的人的最佳方式",
+            "url": "https://github.com/imputnet/cobalt",
+            "name": "imputnet /cobalt",
+            "description": "best way to save what you love",
+            "stars": "23,093",
+            "forks": "1,881",
+            "language": "Svelte",
+            "stars_today": "467 stars today"
+        },
+        {
+            "zh_des": "用于Next.js应用程序的生产级Turborepo模板。",
+            "url": "https://github.com/haydenbleasel/next-forge",
+            "name": "haydenbleasel /next-forge",
+            "description": "Production-grade Turborepo template for Next.js apps.",
+            "stars": "4,893",
+            "forks": "379",
+            "language": "TypeScript",
+            "stars_today": "57 stars today"
+        },
+        {
+            "zh_des": "一个高质量的工具转换PDF到Markdown和JSON。一站式开源高质量数据提取工具，将pdf转换成Markdown和Json格式.",
+            "url": "https://github.com/opendatalab/MinerU",
+            "name": "opendatalab /MinerU",
+            "description": "A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。",
+            "stars": "22,498",
+            "forks": "1,627",
+            "language": "Python",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "17,054",
+            "forks": "2,294",
+            "language": "Python",
+            "stars_today": "47 stars today"
+        },
+        {
+            "zh_des": "修正Play诚信(和安全网)的判决。",
+            "url": "https://github.com/chiteroman/PlayIntegrityFix",
+            "name": "chiteroman /PlayIntegrityFix",
+            "description": "Fix Play Integrity (and SafetyNet) verdicts.",
+            "stars": "5,530",
+            "forks": "346",
+            "language": "C++",
+            "stars_today": "51 stars today"
+        },
+        {
+            "zh_des": "ITerm/iTerm2的超过325个终端配色方案/主题。包括终端端口、Konsole端口、PuTTY端口、XResources端口、XRDB端口、Remmina端口、Termite端口、XFCE端口、Tilda端口、FreeBSD VT端口、Terminator端口、Kitty端口、MobaXTerm端口、LX终端端口、Microsoft Windows终端端口、Visual Studio端口、Alacritty端口以及更多端口",
+            "url": "https://github.com/mbadolato/iTerm2-Color-Schemes",
+            "name": "mbadolato /iTerm2-Color-Schemes",
+            "description": "Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more",
+            "stars": "25,077",
+            "forks": "6,454",
+            "language": "Shell",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "🐙指南、论文、讲座、笔记本和快速工程资源",
+            "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+            "name": "dair-ai /Prompt-Engineering-Guide",
+            "description": "🐙 Guides, papers, lecture, notebooks and resources for prompt engineering",
+            "stars": "51,643",
+            "forks": "5,007",
+            "language": "MDX",
+            "stars_today": "119 stars today"
+        },
+        {
+            "zh_des": "分享GitHub上有趣、入门级的开源项目。在GitHub上分享有趣的入门级开源项目。",
+            "url": "https://github.com/521xueweihan/HelloGitHub",
+            "name": "521xueweihan /HelloGitHub",
+            "description": "分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.",
+            "stars": "96,701",
+            "forks": "9,747",
+            "language": "Python",
+            "stars_today": "149 stars today"
+        },
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/elizaOS/eliza",
+            "name": "elizaOS /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "6,518",
+            "forks": "1,946",
+            "language": "TypeScript",
+            "stars_today": "123 stars today"
+        }
+    ]
+}
