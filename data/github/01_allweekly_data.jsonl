@@ -81384,3 +81384,147 @@
         }
     ]
 }
+{
+    "12月30日": [
+        {
+            "zh_des": "用C语言编写的高性能UI布局库。",
+            "url": "https://github.com/nicbarker/clay",
+            "name": "nicbarker /clay",
+            "description": "High performance UI layout library in C.",
+            "stars": "8,640",
+            "forks": "277",
+            "language": "C",
+            "stars_today": "3,751 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,177",
+            "forks": "92",
+            "language": "Python",
+            "stars_today": "533 stars this week"
+        },
+        {
+            "zh_des": "拯救你所爱的人的最佳方式",
+            "url": "https://github.com/imputnet/cobalt",
+            "name": "imputnet /cobalt",
+            "description": "best way to save what you love",
+            "stars": "23,292",
+            "forks": "1,893",
+            "language": "Svelte",
+            "stars_today": "2,821 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "283,551",
+            "forks": "47,381",
+            "language": "Python",
+            "stars_today": "2,818 stars this week"
+        },
+        {
+            "zh_des": "💥BREAZING FAST终端文件管理器，基于异步I/O，用RUST编写。",
+            "url": "https://github.com/sxyazi/yazi",
+            "name": "sxyazi /yazi",
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "stars": "19,582",
+            "forks": "442",
+            "language": "Rust",
+            "stars_today": "1,152 stars this week"
+        },
+        {
+            "zh_des": "人工智能支持的自动化SDK可以控制页面，执行断言，并使用自然语言提取JSON格式的数据。",
+            "url": "https://github.com/web-infra-dev/midscene",
+            "name": "web-infra-dev /midscene",
+            "description": "An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.",
+            "stars": "1,561",
+            "forks": "81",
+            "language": "HTML",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "3,867",
+            "forks": "326",
+            "language": "Python",
+            "stars_today": "926 stars this week"
+        },
+        {
+            "zh_des": "一个笔记本/食谱的集合，展示了一些有趣和有效的使用Claude的方法。",
+            "url": "https://github.com/anthropics/anthropic-cookbook",
+            "name": "anthropics /anthropic-cookbook",
+            "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+            "stars": "8,684",
+            "forks": "1,051",
+            "language": "Jupyter Notebook",
+            "stars_today": "896 stars this week"
+        },
+        {
+            "zh_des": "白板/无限画布SDK",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "whiteboard / infinite canvas SDK",
+            "stars": "37,960",
+            "forks": "2,325",
+            "language": "TypeScript",
+            "stars_today": "1,007 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "13,435",
+            "forks": "1,452",
+            "language": "Vue",
+            "stars_today": "480 stars this week"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "14,423",
+            "forks": "666",
+            "language": "TypeScript",
+            "stars_today": "587 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "17,182",
+            "forks": "1,430",
+            "language": "TypeScript",
+            "stars_today": "1,048 stars this week"
+        },
+        {
+            "zh_des": "一个简单易用的库来享受视频游戏编程",
+            "url": "https://github.com/raysan5/raylib",
+            "name": "raysan5 /raylib",
+            "description": "A simple and easy-to-use library to enjoy videogames programming",
+            "stars": "23,989",
+            "forks": "2,351",
+            "language": "C",
+            "stars_today": "583 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键解说并剪辑视频；使用AI模型，只需一次点击即可自动提供评论和编辑视频。",
+            "url": "https://github.com/linyqh/NarratoAI",
+            "name": "linyqh /NarratoAI",
+            "description": "利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.",
+            "stars": "2,987",
+            "forks": "331",
+            "language": "Python",
+            "stars_today": "312 stars this week"
+        }
+    ]
+}
