@@ -81702,3 +81702,177 @@
         }
     ]
 }
+{
+    "12月31日": [
+        {
+            "zh_des": "用C语言编写的高性能UI布局库。",
+            "url": "https://github.com/nicbarker/clay",
+            "name": "nicbarker /clay",
+            "description": "High performance UI layout library in C.",
+            "stars": "8,827",
+            "forks": "284",
+            "language": "C",
+            "stars_today": "2,397 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "10,273",
+            "forks": "1,040",
+            "language": "Python",
+            "stars_today": "2,165 stars this week"
+        },
+        {
+            "zh_des": "拯救你所爱的人的最佳方式",
+            "url": "https://github.com/imputnet/cobalt",
+            "name": "imputnet /cobalt",
+            "description": "best way to save what you love",
+            "stars": "23,716",
+            "forks": "1,909",
+            "language": "Svelte",
+            "stars_today": "3,103 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,299",
+            "forks": "100",
+            "language": "Python",
+            "stars_today": "576 stars this week"
+        },
+        {
+            "zh_des": "人工智能支持的自动化SDK可以控制页面，执行断言，并使用自然语言提取JSON格式的数据。",
+            "url": "https://github.com/web-infra-dev/midscene",
+            "name": "web-infra-dev /midscene",
+            "description": "An AI-powered automation SDK can control the page, perform assertions, and extract data in JSON format using natural language.",
+            "stars": "1,782",
+            "forks": "87",
+            "language": "HTML",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "283,767",
+            "forks": "47,409",
+            "language": "Python",
+            "stars_today": "2,067 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "13,513",
+            "forks": "1,454",
+            "language": "Vue",
+            "stars_today": "548 stars this week"
+        },
+        {
+            "zh_des": "白板/无限画布SDK",
+            "url": "https://github.com/tldraw/tldraw",
+            "name": "tldraw /tldraw",
+            "description": "whiteboard / infinite canvas SDK",
+            "stars": "38,031",
+            "forks": "2,328",
+            "language": "TypeScript",
+            "stars_today": "774 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "73,179",
+            "forks": "6,395",
+            "language": "Python",
+            "stars_today": "945 stars this week"
+        },
+        {
+            "zh_des": "适用于Windows、Linux、MacOS的PS4仿真器",
+            "url": "https://github.com/shadps4-emu/shadPS4",
+            "name": "shadps4-emu /shadPS4",
+            "description": "PS4 emulator for Windows,Linux,MacOS",
+            "stars": "12,497",
+            "forks": "825",
+            "language": "C++",
+            "stars_today": "780 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "17,717",
+            "forks": "1,459",
+            "language": "TypeScript",
+            "stars_today": "1,442 stars this week"
+        },
+        {
+            "zh_des": "💥BREAZING FAST终端文件管理器，基于异步I/O，用RUST编写。",
+            "url": "https://github.com/sxyazi/yazi",
+            "name": "sxyazi /yazi",
+            "description": "💥 Blazing fast terminal file manager written in Rust, based on async I/O.",
+            "stars": "19,656",
+            "forks": "442",
+            "language": "Rust",
+            "stars_today": "1,096 stars this week"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "14,623",
+            "forks": "670",
+            "language": "TypeScript",
+            "stars_today": "667 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "25,421",
+            "forks": "1,726",
+            "language": "TypeScript",
+            "stars_today": "1,609 stars this week"
+        },
+        {
+            "zh_des": "基于项目的教程的精选列表",
+            "url": "https://github.com/practical-tutorials/project-based-learning",
+            "name": "practical-tutorials /project-based-learning",
+            "description": "Curated list of project-based tutorials",
+            "stars": "209,658",
+            "forks": "27,367",
+            "language": "",
+            "stars_today": "1,726 stars this week"
+        },
+        {
+            "zh_des": "🆙Upscayl-#1免费开源的AI图像升级器，适用于LINUX、MacOS和Windows。",
+            "url": "https://github.com/upscayl/upscayl",
+            "name": "upscayl /upscayl",
+            "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+            "stars": "32,625",
+            "forks": "1,492",
+            "language": "TypeScript",
+            "stars_today": "648 stars this week"
+        },
+        {
+            "zh_des": "X光面板支持多协议多用户到期日期、流量和IP限制(VMess、Vless、特洛伊木马、ShadowSock和Wireguard)",
+            "url": "https://github.com/MHSanaei/3x-ui",
+            "name": "MHSanaei /3x-ui",
+            "description": "Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan & ShadowSocks & Wireguard)",
+            "stars": "15,367",
+            "forks": "3,130",
+            "language": "JavaScript",
+            "stars_today": "315 stars this week"
+        }
+    ]
+}
