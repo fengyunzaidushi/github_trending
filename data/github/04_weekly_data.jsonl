@@ -80754,3 +80754,167 @@
         }
     ]
 }
+{
+    "01月02日": [
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLMS的逻辑形式制导的推理和检索框架。它用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效地克服传统的RAG向量相似度计算模型的不足。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "2,824",
+            "forks": "172",
+            "language": "Python",
+            "stars_today": "1,593 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "322,744",
+            "forks": "34,251",
+            "language": "Python",
+            "stars_today": "1,940 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,557",
+            "forks": "116",
+            "language": "Python",
+            "stars_today": "633 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "73,421",
+            "forks": "6,418",
+            "language": "Python",
+            "stars_today": "1,081 stars this week"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "17,297",
+            "forks": "2,331",
+            "language": "Python",
+            "stars_today": "490 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "28,416",
+            "forks": "1,979",
+            "language": "Python",
+            "stars_today": "873 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键解说并剪辑视频；使用AI模型，只需一次点击即可自动提供评论和编辑视频。",
+            "url": "https://github.com/linyqh/NarratoAI",
+            "name": "linyqh /NarratoAI",
+            "description": "利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.",
+            "stars": "3,116",
+            "forks": "337",
+            "language": "Python",
+            "stars_today": "345 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "23,751",
+            "forks": "3,236",
+            "language": "Python",
+            "stars_today": "816 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "10,826",
+            "forks": "1,137",
+            "language": "Python",
+            "stars_today": "1,702 stars this week"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "39,733",
+            "forks": "4,469",
+            "language": "Python",
+            "stars_today": "601 stars this week"
+        },
+        {
+            "zh_des": "SGLang是一个用于大型语言模型和视觉语言模型的快速服务框架。",
+            "url": "https://github.com/sgl-project/sglang",
+            "name": "sgl-project /sglang",
+            "description": "SGLang is a fast serving framework for large language models and vision language models.",
+            "stars": "6,988",
+            "forks": "643",
+            "language": "Python",
+            "stars_today": "291 stars this week"
+        },
+        {
+            "zh_des": "DeepSeek Coder：让代码自己编写",
+            "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+            "name": "deepseek-ai /DeepSeek-Coder",
+            "description": "DeepSeek Coder: Let the Code Write Itself",
+            "stars": "8,993",
+            "forks": "596",
+            "language": "Python",
+            "stars_today": "767 stars this week"
+        },
+        {
+            "zh_des": "跨平台、快速、功能丰富、基于GPU的终端",
+            "url": "https://github.com/kovidgoyal/kitty",
+            "name": "kovidgoyal /kitty",
+            "description": "Cross-platform, fast, feature-rich, GPU based terminal",
+            "stars": "25,627",
+            "forks": "1,014",
+            "language": "Python",
+            "stars_today": "479 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "14,327",
+            "forks": "1,343",
+            "language": "Python",
+            "stars_today": "412 stars this week"
+        },
+        {
+            "zh_des": "绝区零一条龙|全自动|自动闪避|自动每日|自动空洞|支持手柄(1.4迷失之地开放测试)",
+            "url": "https://github.com/DoctorReid/ZenlessZoneZero-OneDragon",
+            "name": "DoctorReid /ZenlessZoneZero-OneDragon",
+            "description": "绝区零 一条龙 | 全自动 | 自动闪避 | 自动每日 | 自动空洞 | 支持手柄（1.4 迷失之地开放测试）",
+            "stars": "2,286",
+            "forks": "58",
+            "language": "Python",
+            "stars_today": "227 stars this week"
+        },
+        {
+            "zh_des": "下载你的Spotify播放列表和歌曲，以及专辑图片和元数据(如果找到匹配项，可以从YouTube下载)。",
+            "url": "https://github.com/spotDL/spotify-downloader",
+            "name": "spotDL /spotify-downloader",
+            "description": "Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).",
+            "stars": "18,226",
+            "forks": "1,642",
+            "language": "Python",
+            "stars_today": "108 stars this week"
+        }
+    ]
+}

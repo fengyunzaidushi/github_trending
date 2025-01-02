@@ -85042,3 +85042,137 @@
         }
     ]
 }
+{
+    "01月02日": [
+        {
+            "zh_des": "Actual的服务器",
+            "url": "https://github.com/actualbudget/actual-server",
+            "name": "actualbudget /actual-server",
+            "description": "Actual's server",
+            "stars": "3,323",
+            "forks": "654",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "梅谢里，云本地经理",
+            "url": "https://github.com/meshery/meshery",
+            "name": "meshery /meshery",
+            "description": "Meshery, the cloud native manager",
+            "stars": "6,467",
+            "forks": "1,961",
+            "language": "JavaScript",
+            "stars_today": "43 stars today"
+        },
+        {
+            "zh_des": "自动认领Epic Games商店、亚马逊Prime游戏和谷歌的免费游戏。",
+            "url": "https://github.com/vogler/free-games-claimer",
+            "name": "vogler /free-games-claimer",
+            "description": "Automatically claims free games on the Epic Games Store, Amazon Prime Gaming and GOG.",
+            "stars": "2,841",
+            "forks": "170",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "带上你自己漂亮的‘.is-a.dev’子域名。",
+            "url": "https://github.com/is-a-dev/register",
+            "name": "is-a-dev /register",
+            "description": "Grab your own sweet-looking '.is-a.dev' subdomain.",
+            "stars": "3,615",
+            "forks": "7,994",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "30天的JavaScript编程挑战是一本在30天内学习JavaScript编程语言的循序渐进的指南。这项挑战可能需要100多天，请按照自己的节奏进行。这些视频可能会对too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw有所帮助",
+            "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+            "name": "Asabeneh /30-Days-Of-JavaScript",
+            "description": "30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace. These videos may help too:https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+            "stars": "43,654",
+            "forks": "10,110",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "我与盖茨比一起建立的个人网站的第四次迭代",
+            "url": "https://github.com/bchiang7/v4",
+            "name": "bchiang7 /v4",
+            "description": "Fourth iteration of my personal website built with Gatsby",
+            "stars": "7,655",
+            "forks": "3,823",
+            "language": "JavaScript",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "提供VLESS、特洛伊木马和Warp工作人员订阅的图形用户界面面板与链代理一起配置，为使用Sing-box、Clash/Mihomo和Xray内核的跨平台客户端提供完整的域名系统、干净IP、碎片、Warp Pro和路由设置。",
+            "url": "https://github.com/bia-pain-bache/BPB-Worker-Panel",
+            "name": "bia-pain-bache /BPB-Worker-Panel",
+            "description": "A GUI Panel providing Worker subscriptions for VLESS, Trojan and Warp configs alongside chain proxies, offering full DNS, clean IP, Fragment, Warp, Warp pro and routing settings for cross-platform clients using Sing-box, Clash/Mihomo and Xray cores.",
+            "stars": "6,447",
+            "forks": "30,619",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "或者首先，运行开发服务器：`bash\nNPM运行开发纱线开发\n`用浏览器打开http://localhost:3000查看结果",
+            "url": "https://github.com/DefiLlama/chainlist",
+            "name": "DefiLlama /chainlist",
+            "description": "orFirst, run the development server:```bash\nnpm run devyarn dev\n```Open http://localhost:3000 with your browser to see the result",
+            "stars": "2,459",
+            "forks": "2,508",
+            "language": "JavaScript",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "📦Workbox：用于渐进式网络应用的JAVASCRIPT库",
+            "url": "https://github.com/GoogleChrome/workbox",
+            "name": "GoogleChrome /workbox",
+            "description": "📦 Workbox: JavaScript libraries for Progressive Web Apps",
+            "stars": "12,446",
+            "forks": "827",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "漂亮和一致的图标工具包，由社区制作。开源项目和羽毛图标的一个分支。",
+            "url": "https://github.com/lucide-icons/lucide",
+            "name": "lucide-icons /lucide",
+            "description": "Beautiful & consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons.",
+            "stars": "12,052",
+            "forks": "557",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Zigbee🐝to MQTT Bridge🌉，摆脱你专有的Zigbee Bridge🔨",
+            "url": "https://github.com/Koenkk/zigbee2mqtt",
+            "name": "Koenkk /zigbee2mqtt",
+            "description": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+            "stars": "12,498",
+            "forks": "1,711",
+            "language": "JavaScript",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "OpenWRT的Clash客户端",
+            "url": "https://github.com/vernesong/OpenClash",
+            "name": "vernesong /OpenClash",
+            "description": "A Clash Client For OpenWrt",
+            "stars": "18,201",
+            "forks": "3,259",
+            "language": "JavaScript",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "ReactJS面试问答500强榜单……编码练习题马上就要来了！！",
+            "url": "https://github.com/sudheerj/reactjs-interview-questions",
+            "name": "sudheerj /reactjs-interview-questions",
+            "description": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+            "stars": "40,532",
+            "forks": "9,601",
+            "language": "JavaScript",
+            "stars_today": "11 stars today"
+        }
+    ]
+}
