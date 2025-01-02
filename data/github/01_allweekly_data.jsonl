@@ -82398,3 +82398,177 @@
         }
     ]
 }
+{
+    "01月02日": [
+        {
+            "zh_des": "拯救你所爱的人的最佳方式",
+            "url": "https://github.com/imputnet/cobalt",
+            "name": "imputnet /cobalt",
+            "description": "best way to save what you love",
+            "stars": "24,344",
+            "forks": "1,961",
+            "language": "Svelte",
+            "stars_today": "3,603 stars this week"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "25,614",
+            "forks": "1,731",
+            "language": "TypeScript",
+            "stars_today": "1,916 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,511",
+            "forks": "112",
+            "language": "Python",
+            "stars_today": "633 stars this week"
+        },
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/elizaOS/eliza",
+            "name": "elizaOS /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "8,351",
+            "forks": "2,221",
+            "language": "TypeScript",
+            "stars_today": "1,974 stars this week"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "18,259",
+            "forks": "1,518",
+            "language": "TypeScript",
+            "stars_today": "1,887 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "73,382",
+            "forks": "6,409",
+            "language": "Python",
+            "stars_today": "1,081 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "322,633",
+            "forks": "34,244",
+            "language": "Python",
+            "stars_today": "1,940 stars this week"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "10,758",
+            "forks": "1,122",
+            "language": "Python",
+            "stars_today": "1,702 stars this week"
+        },
+        {
+            "zh_des": "✨的下一代可选飞机：无代码PostGres",
+            "url": "https://github.com/teableio/teable",
+            "name": "teableio /teable",
+            "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres",
+            "stars": "14,728",
+            "forks": "671",
+            "language": "TypeScript",
+            "stars_today": "880 stars this week"
+        },
+        {
+            "zh_des": "🆙Upscayl-#1免费开源的AI图像升级器，适用于LINUX、MacOS和Windows。",
+            "url": "https://github.com/upscayl/upscayl",
+            "name": "upscayl /upscayl",
+            "description": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+            "stars": "32,788",
+            "forks": "1,502",
+            "language": "TypeScript",
+            "stars_today": "804 stars this week"
+        },
+        {
+            "zh_des": "用户友好的命令行外壳。",
+            "url": "https://github.com/fish-shell/fish-shell",
+            "name": "fish-shell /fish-shell",
+            "description": "The user-friendly command line shell.",
+            "stars": "27,143",
+            "forks": "1,938",
+            "language": "Rust",
+            "stars_today": "420 stars this week"
+        },
+        {
+            "zh_des": "使用人工智能自动执行浏览器操作、提取数据和执行断言。它提供了JavaScript SDK、Chrome扩展和对YAML脚本的支持。",
+            "url": "https://github.com/web-infra-dev/midscene",
+            "name": "web-infra-dev /midscene",
+            "description": "Automate browser actions, extract data, and perform assertions using AI. It offers JavaScript SDK, Chrome extension, and support for scripting in YAML.",
+            "stars": "2,188",
+            "forks": "94",
+            "language": "HTML",
+            "stars_today": "764 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "28,374",
+            "forks": "1,975",
+            "language": "Python",
+            "stars_today": "873 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "13,657",
+            "forks": "1,468",
+            "language": "Vue",
+            "stars_today": "500 stars this week"
+        },
+        {
+            "zh_des": "用C++编写的Windows、Linux和MacOS版PlayStation 4模拟器",
+            "url": "https://github.com/shadps4-emu/shadPS4",
+            "name": "shadps4-emu /shadPS4",
+            "description": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+            "stars": "12,635",
+            "forks": "832",
+            "language": "C++",
+            "stars_today": "999 stars this week"
+        },
+        {
+            "zh_des": "📚免费提供的编程书籍",
+            "url": "https://github.com/EbookFoundation/free-programming-books",
+            "name": "EbookFoundation /free-programming-books",
+            "description": "📚 Freely available programming books",
+            "stars": "345,659",
+            "forks": "62,343",
+            "language": "HTML",
+            "stars_today": "3,021 stars this week"
+        },
+        {
+            "zh_des": "构建有记忆、有知识、有工具、有推理的多通道代理。使用漂亮的代理用户界面与他们聊天。",
+            "url": "https://github.com/phidatahq/phidata",
+            "name": "phidatahq /phidata",
+            "description": "Build multi-modal Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.",
+            "stars": "17,256",
+            "forks": "2,327",
+            "language": "Python",
+            "stars_today": "490 stars this week"
+        }
+    ]
+}

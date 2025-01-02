@@ -77316,3 +77316,147 @@
         }
     ]
 }
+{
+    "01月02日": [
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "5,135",
+            "forks": "423",
+            "language": "Python",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "DeepSeek Coder：让代码自己编写",
+            "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+            "name": "deepseek-ai /DeepSeek-Coder",
+            "description": "DeepSeek Coder: Let the Code Write Itself",
+            "stars": "8,627",
+            "forks": "586",
+            "language": "Python",
+            "stars_today": "138 stars today"
+        },
+        {
+            "zh_des": "使用动态人工智能模型和语音克隆将电子书转换为带有章节和元数据的有声读物。支持1,107多种语言！",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook",
+            "name": "DrewThomasson /ebook2audiobook",
+            "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+            "stars": "4,206",
+            "forks": "287",
+            "language": "Python",
+            "stars_today": "451 stars today"
+        },
+        {
+            "zh_des": "用于流处理、实时分析、LLM管道和RAG的Python ETL框架。",
+            "url": "https://github.com/pathwaycom/pathway",
+            "name": "pathwaycom /pathway",
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "stars": "11,877",
+            "forks": "255",
+            "language": "Python",
+            "stars_today": "617 stars today"
+        },
+        {
+            "zh_des": "1分钟的语音数据也可以用来训练一个好的TTS模型！(小镜头语音克隆)",
+            "url": "https://github.com/RVC-Boss/GPT-SoVITS",
+            "name": "RVC-Boss /GPT-SoVITS",
+            "description": "1 min voice data can also be used to train a good TTS model! (few shot voice cloning)",
+            "stars": "37,855",
+            "forks": "4,289",
+            "language": "Python",
+            "stars_today": "100 stars today"
+        },
+        {
+            "zh_des": "保留格式的pdf科学论文翻译-基于AI完整保留排版的pdf文档全文双语翻译，支持谷歌/深度/ollama/OpenAI/图形用户界面/图形用户界面/Docker",
+            "url": "https://github.com/Byaidu/PDFMathTranslate",
+            "name": "Byaidu /PDFMathTranslate",
+            "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+            "stars": "12,989",
+            "forks": "947",
+            "language": "Python",
+            "stars_today": "258 stars today"
+        },
+        {
+            "zh_des": "基于Qwen>=2.0构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "4,824",
+            "forks": "431",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "您需要的身份验证胶水。",
+            "url": "https://github.com/goauthentik/authentik",
+            "name": "goauthentik /authentik",
+            "description": "The authentication glue you need.",
+            "stars": "14,254",
+            "forks": "965",
+            "language": "Python",
+            "stars_today": "22 stars today"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "23,679",
+            "forks": "3,232",
+            "language": "Python",
+            "stars_today": "247 stars today"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,511",
+            "forks": "112",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "KATS是一个分析时间序列数据的工具包，是一个轻量级、易于使用、可概括和可扩展的框架，用于执行时间序列分析，从了解关键统计数据和特征、检测变化点和异常到预测未来趋势。",
+            "url": "https://github.com/facebookresearch/Kats",
+            "name": "facebookresearch /Kats",
+            "description": "Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.",
+            "stars": "5,376",
+            "forks": "559",
+            "language": "Python",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "CISO Assistant是GRC的一站式服务，涵盖风险、应用安全和审计管理，并支持全球70个框架的自动映射：NIST CSF、ISO 27001、SOC2、CIS、PCIDSS、NIS2、CMMC、PSPF、GDPR、HIPAA、Essential Eight、NYDFS-500、DORA、NIST AI RMF、800-53、800-171、CyFun、CJIS、AirCyber、NCSC、ECC、SCF等等",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more",
+            "stars": "1,376",
+            "forks": "195",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "322,633",
+            "forks": "34,244",
+            "language": "Python",
+            "stars_today": "259 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "14,112",
+            "forks": "1,318",
+            "language": "Python",
+            "stars_today": "129 stars today"
+        }
+    ]
+}
