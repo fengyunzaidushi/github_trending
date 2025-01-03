@@ -81082,3 +81082,187 @@
         }
     ]
 }
+{
+    "01月03日": [
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLMS的逻辑形式制导的推理和检索框架。它用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效地克服传统的RAG向量相似度计算模型的不足。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "2,956",
+            "forks": "179",
+            "language": "Python",
+            "stars_today": "1,457 stars this week"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "6,273",
+            "forks": "470",
+            "language": "Python",
+            "stars_today": "2,521 stars this week"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,627",
+            "forks": "119",
+            "language": "Python",
+            "stars_today": "637 stars this week"
+        },
+        {
+            "zh_des": "免费API集合列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "322,887",
+            "forks": "34,259",
+            "language": "Python",
+            "stars_today": "2,087 stars this week"
+        },
+        {
+            "zh_des": "用于解释数学视频的动画引擎",
+            "url": "https://github.com/3b1b/manim",
+            "name": "3b1b /manim",
+            "description": "Animation engine for explanatory math videos",
+            "stars": "73,483",
+            "forks": "6,423",
+            "language": "Python",
+            "stars_today": "1,095 stars this week"
+        },
+        {
+            "zh_des": "社区维护的用于创建数学动画的Python框架。",
+            "url": "https://github.com/ManimCommunity/manim",
+            "name": "ManimCommunity /manim",
+            "description": "A community-maintained Python framework for creating mathematical animations.",
+            "stars": "28,472",
+            "forks": "1,982",
+            "language": "Python",
+            "stars_today": "910 stars this week"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "15,198",
+            "forks": "1,408",
+            "language": "Python",
+            "stars_today": "520 stars this week"
+        },
+        {
+            "zh_des": "帮助为您的帐户🤖生成丰富的GitHub贡献图的脚本",
+            "url": "https://github.com/Shpota/github-activity-generator",
+            "name": "Shpota /github-activity-generator",
+            "description": "A script that helps generate a rich GitHub Contribution Graph for your account 🤖",
+            "stars": "3,157",
+            "forks": "239",
+            "language": "Python",
+            "stars_today": "280 stars this week"
+        },
+        {
+            "zh_des": "用于协调角色扮演的自主AI代理的框架。通过培养协作智能，CrewAI使代理能够无缝合作，处理复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "23,826",
+            "forks": "3,246",
+            "language": "Python",
+            "stars_today": "835 stars this week"
+        },
+        {
+            "zh_des": "用于大型语言模型的GRadio Web用户界面，支持多个推理后端。",
+            "url": "https://github.com/oobabooga/text-generation-webui",
+            "name": "oobabooga /text-generation-webui",
+            "description": "A Gradio web UI for Large Language Models with support for multiple inference backends.",
+            "stars": "41,440",
+            "forks": "5,399",
+            "language": "Python",
+            "stars_today": "145 stars this week"
+        },
+        {
+            "zh_des": "DeepSeek Coder：让代码自己编写",
+            "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+            "name": "deepseek-ai /DeepSeek-Coder",
+            "description": "DeepSeek Coder: Let the Code Write Itself",
+            "stars": "9,403",
+            "forks": "623",
+            "language": "Python",
+            "stars_today": "1,920 stars this week"
+        },
+        {
+            "zh_des": "用于流处理、实时分析、LLM管道和RAG的Python ETL框架。",
+            "url": "https://github.com/pathwaycom/pathway",
+            "name": "pathwaycom /pathway",
+            "description": "Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.",
+            "stars": "12,132",
+            "forks": "268",
+            "language": "Python",
+            "stars_today": "3,373 stars this week"
+        },
+        {
+            "zh_des": "企业级面向生产的多代理编排框架加入我们的Community:https://discord.com/servers/agora-999382051935506503",
+            "url": "https://github.com/kyegomez/swarms",
+            "name": "kyegomez /swarms",
+            "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503",
+            "stars": "2,261",
+            "forks": "314",
+            "language": "Python",
+            "stars_today": "157 stars this week"
+        },
+        {
+            "zh_des": "利用AI大模型，一键解说并剪辑视频；使用AI模型，只需一次点击即可自动提供评论和编辑视频。",
+            "url": "https://github.com/linyqh/NarratoAI",
+            "name": "linyqh /NarratoAI",
+            "description": "利用AI大模型，一键解说并剪辑视频； Using AI models to automatically provide commentary and edit videos with a single click.",
+            "stars": "3,145",
+            "forks": "341",
+            "language": "Python",
+            "stars_today": "309 stars this week"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "19,000",
+            "forks": "1,463",
+            "language": "Python",
+            "stars_today": "731 stars this week"
+        },
+        {
+            "zh_des": "跨平台、快速、功能丰富、基于GPU的终端",
+            "url": "https://github.com/kovidgoyal/kitty",
+            "name": "kovidgoyal /kitty",
+            "description": "Cross-platform, fast, feature-rich, GPU based terminal",
+            "stars": "25,659",
+            "forks": "1,015",
+            "language": "Python",
+            "stars_today": "499 stars this week"
+        },
+        {
+            "zh_des": "3Blue1Brown视频中Manim生成的场景代码",
+            "url": "https://github.com/3b1b/videos",
+            "name": "3b1b /videos",
+            "description": "Code for the manim-generated scenes used in 3blue1brown videos",
+            "stars": "8,634",
+            "forks": "1,799",
+            "language": "Python",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "帮助您创建和部署高频密码交易机器人的开源软件",
+            "url": "https://github.com/hummingbot/hummingbot",
+            "name": "hummingbot /hummingbot",
+            "description": "Open source software that helps you create and deploy high-frequency crypto trading bots",
+            "stars": "8,961",
+            "forks": "2,984",
+            "language": "Python",
+            "stars_today": "200 stars this week"
+        }
+    ]
+}
