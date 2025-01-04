@@ -78066,3 +78066,167 @@
         }
     ]
 }
+{
+    "01月04日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "15,764",
+            "forks": "1,468",
+            "language": "Python",
+            "stars_today": "412 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "19,127",
+            "forks": "1,470",
+            "language": "Python",
+            "stars_today": "350 stars today"
+        },
+        {
+            "zh_des": "基于Qwen>=2.0构建的代理框架和应用程序，具有函数调用、代码解释器、RAG和Chrome扩展。",
+            "url": "https://github.com/QwenLM/Qwen-Agent",
+            "name": "QwenLM /Qwen-Agent",
+            "description": "Agent framework and applications built upon Qwen>=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.",
+            "stars": "5,030",
+            "forks": "436",
+            "language": "Python",
+            "stars_today": "54 stars today"
+        },
+        {
+            "zh_des": "DeepSeek Coder：让代码自己编写",
+            "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+            "name": "deepseek-ai /DeepSeek-Coder",
+            "description": "DeepSeek Coder: Let the Code Write Itself",
+            "stars": "9,523",
+            "forks": "628",
+            "language": "Python",
+            "stars_today": "457 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "6,339",
+            "forks": "473",
+            "language": "Python",
+            "stars_today": "899 stars today"
+        },
+        {
+            "zh_des": "空间和时间|SQL的证明",
+            "url": "https://github.com/spaceandtimelabs/sxt-proof-of-sql",
+            "name": "spaceandtimelabs /sxt-proof-of-sql",
+            "description": "Space and Time | Proof of SQL",
+            "stars": "4,303",
+            "forks": "157",
+            "language": "Rust",
+            "stars_today": "168 stars today"
+        },
+        {
+            "zh_des": "节点版本管理器-符合POSIX的bash脚本，用于管理多个活动node.js版本",
+            "url": "https://github.com/nvm-sh/nvm",
+            "name": "nvm-sh /nvm",
+            "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+            "stars": "81,382",
+            "forks": "8,103",
+            "language": "Shell",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "Jan是ChatGPT的开源替代品，可在您的计算机上100%脱机运行",
+            "url": "https://github.com/janhq/jan",
+            "name": "janhq /jan",
+            "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer",
+            "stars": "25,413",
+            "forks": "1,464",
+            "language": "TypeScript",
+            "stars_today": "132 stars today"
+        },
+        {
+            "zh_des": "在我的世界Java版中生成来自真实世界的任何位置，并提供高级别的细节。",
+            "url": "https://github.com/louis-e/arnis",
+            "name": "louis-e /arnis",
+            "description": "Generate any location from the real world in Minecraft Java Edition with a high level of detail.",
+            "stars": "3,190",
+            "forks": "79",
+            "language": "Rust",
+            "stars_today": "998 stars today"
+        },
+        {
+            "zh_des": "此回购包括ChatGPT提示管理，以便更好地使用ChatGPT。",
+            "url": "https://github.com/f/awesome-chatgpt-prompts",
+            "name": "f /awesome-chatgpt-prompts",
+            "description": "This repo includes ChatGPT prompt curation to use ChatGPT better.",
+            "stars": "115,466",
+            "forks": "15,722",
+            "language": "HTML",
+            "stars_today": "403 stars today"
+        },
+        {
+            "zh_des": "TerraForm使您能够安全、可预测地创建、更改和改进基础设施。它是一个源代码可用的工具，可以将API编码到声明性配置文件中，这些配置文件可以在团队成员之间共享，被视为代码，进行编辑、审查和版本控制。",
+            "url": "https://github.com/hashicorp/terraform",
+            "name": "hashicorp /terraform",
+            "description": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+            "stars": "43,470",
+            "forks": "9,605",
+            "language": "Go",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "适用于每个人的自主代理",
+            "url": "https://github.com/elizaOS/eliza",
+            "name": "elizaOS /eliza",
+            "description": "Autonomous agents for everyone",
+            "stars": "9,158",
+            "forks": "2,387",
+            "language": "TypeScript",
+            "stars_today": "363 stars today"
+        },
+        {
+            "zh_des": "🚂🦀：针对副业和初创企业的Rust单人框架",
+            "url": "https://github.com/loco-rs/loco",
+            "name": "loco-rs /loco",
+            "description": "🚂 🦀 The one-person framework for Rust for side-projects and startups",
+            "stars": "5,963",
+            "forks": "263",
+            "language": "Rust",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "📨是社交媒体的终极日程安排工具，带有一堆AI🤖",
+            "url": "https://github.com/gitroomhq/postiz-app",
+            "name": "gitroomhq /postiz-app",
+            "description": "📨 The ultimate social media scheduling tool, with a bunch of AI 🤖",
+            "stars": "16,337",
+            "forks": "2,653",
+            "language": "TypeScript",
+            "stars_today": "463 stars today"
+        },
+        {
+            "zh_des": "保留格式的pdf科学论文翻译-基于AI完整保留排版的pdf文档全文双语翻译，支持谷歌/深度/ollama/OpenAI/图形用户界面/图形用户界面/Docker",
+            "url": "https://github.com/Byaidu/PDFMathTranslate",
+            "name": "Byaidu /PDFMathTranslate",
+            "description": "PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker",
+            "stars": "13,515",
+            "forks": "987",
+            "language": "Python",
+            "stars_today": "256 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "322,178",
+            "forks": "29,865",
+            "language": "Markdown",
+            "stars_today": "489 stars today"
+        }
+    ]
+}
