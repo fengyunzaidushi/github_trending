@@ -81524,3 +81524,77 @@
         }
     ]
 }
+{
+    "01月05日": [
+        {
+            "zh_des": "使用动态人工智能模型和语音克隆将电子书转换为包含章节和元数据的有声读物。支持1，107+种语言！",
+            "url": "https://github.com/DrewThomasson/ebook2audiobook",
+            "name": "DrewThomasson /ebook2audiobook",
+            "description": "Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!",
+            "stars": "4,965",
+            "forks": "320",
+            "language": "Python",
+            "stars_today": "2,865 stars this week"
+        },
+        {
+            "zh_des": "KAG是一个基于OpenSPG引擎和LLM的逻辑形式引导推理和检索框架。用于为专业领域知识库构建逻辑推理和事实问答解决方案。它可以有效克服传统RAG向度计算模型的缺点。",
+            "url": "https://github.com/OpenSPG/KAG",
+            "name": "OpenSPG /KAG",
+            "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs. It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
+            "stars": "3,084",
+            "forks": "188",
+            "language": "Python",
+            "stars_today": "1,311 stars this week"
+        },
+        {
+            "zh_des": "一个由法学硕士驱动的知识策展系统，研究主题并生成包含引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "16,658",
+            "forks": "1,518",
+            "language": "Python",
+            "stars_today": "2,353 stars this week"
+        },
+        {
+            "zh_des": "轻量级推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "6,446",
+            "forks": "481",
+            "language": "Python",
+            "stars_today": "2,661 stars this week"
+        },
+        {
+            "zh_des": "任务感知代理驱动的提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "1,663",
+            "forks": "122",
+            "language": "Python",
+            "stars_today": "625 stars this week"
+        },
+        {
+            "zh_des": "免费API的集体列表",
+            "url": "https://github.com/public-apis/public-apis",
+            "name": "public-apis /public-apis",
+            "description": "A collective list of free APIs",
+            "stars": "323,035",
+            "forks": "34,277",
+            "language": "Python",
+            "stars_today": "2,076 stars this week"
+        },
+        {
+            "zh_des": "用于编排角色扮演、自主人工智能代理的框架。通过促进协作智能，CrewAI使代理能够无缝协作，解决复杂的任务。",
+            "url": "https://github.com/crewAIInc/crewAI",
+            "name": "crewAIInc /crewAI",
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "stars": "23,908",
+            "forks": "3,255",
+            "language": "Python",
+            "stars_today": "880 stars this week"
+        }
+    ]
+}

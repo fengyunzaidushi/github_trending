@@ -78250,3 +78250,157 @@
         }
     ]
 }
+{
+    "01月05日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "16,658",
+            "forks": "1,518",
+            "language": "Python",
+            "stars_today": "1,309 stars today"
+        },
+        {
+            "zh_des": "可调用100多个OpenAI格式的LLM API的Python SDK、代理服务器(LLM网关)-[Bedock、Azure、OpenAI、Vertex AI、Cohere、Anthropic、Sagemaker、HuggingFace、Replate、Groq]",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+            "stars": "15,822",
+            "forks": "1,853",
+            "language": "Python",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "19,320",
+            "forks": "1,483",
+            "language": "Python",
+            "stars_today": "307 stars today"
+        },
+        {
+            "zh_des": "企业级面向生产的多代理编排框架加入我们的Community:https://discord.com/servers/agora-999382051935506503",
+            "url": "https://github.com/kyegomez/swarms",
+            "name": "kyegomez /swarms",
+            "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503",
+            "stars": "2,510",
+            "forks": "333",
+            "language": "Python",
+            "stars_today": "45 stars today"
+        },
+        {
+            "zh_des": "领先的ETL/ELT数据集成平台，用于从API、数据库和文件到数据仓库、数据湖和数据湖库的数据管道。包括自托管和云托管。",
+            "url": "https://github.com/airbytehq/airbyte",
+            "name": "airbytehq /airbyte",
+            "description": "The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.",
+            "stars": "16,679",
+            "forks": "4,220",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "💬现成的、灵活的碎布聊天机器人。",
+            "url": "https://github.com/1Panel-dev/MaxKB",
+            "name": "1Panel-dev /MaxKB",
+            "description": "💬 Ready-to-use, flexible RAG Chatbot.",
+            "stars": "12,368",
+            "forks": "1,612",
+            "language": "Python",
+            "stars_today": "28 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "75,239",
+            "forks": "31,739",
+            "language": "Python",
+            "stars_today": "56 stars today"
+        },
+        {
+            "zh_des": "FLUX.1模型的官方推理库",
+            "url": "https://github.com/black-forest-labs/flux",
+            "name": "black-forest-labs /flux",
+            "description": "Official inference repo for FLUX.1 models",
+            "stars": "19,102",
+            "forks": "1,351",
+            "language": "Python",
+            "stars_today": "38 stars today"
+        },
+        {
+            "zh_des": "快速、节省内存的精确关注",
+            "url": "https://github.com/Dao-AILab/flash-attention",
+            "name": "Dao-AILab /flash-attention",
+            "description": "Fast and memory-efficient exact attention",
+            "stars": "14,916",
+            "forks": "1,410",
+            "language": "Python",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "51,284",
+            "forks": "9,258",
+            "language": "Python",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "DeepSeek Coder：让代码自己编写",
+            "url": "https://github.com/deepseek-ai/DeepSeek-Coder",
+            "name": "deepseek-ai /DeepSeek-Coder",
+            "description": "DeepSeek Coder: Let the Code Write Itself",
+            "stars": "9,604",
+            "forks": "629",
+            "language": "Python",
+            "stars_today": "241 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "33,506",
+            "forks": "6,697",
+            "language": "Python",
+            "stars_today": "65 stars today"
+        },
+        {
+            "zh_des": "这是GLaDOS的个性核心，是Valve从门户系列实现AI的第一步。",
+            "url": "https://github.com/dnhkng/GlaDOS",
+            "name": "dnhkng /GlaDOS",
+            "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+            "stars": "3,280",
+            "forks": "298",
+            "language": "Python",
+            "stars_today": "40 stars today"
+        },
+        {
+            "zh_des": "用于大型模型培训的PyTorch原生库",
+            "url": "https://github.com/pytorch/torchtitan",
+            "name": "pytorch /torchtitan",
+            "description": "A PyTorch native library for large model training",
+            "stars": "2,918",
+            "forks": "233",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "ApachePolaris，用于ApacheIceberg的可互操作的开放源码目录",
+            "url": "https://github.com/apache/polaris",
+            "name": "apache /polaris",
+            "description": "Apache Polaris, the interoperable, open source catalog for Apache Iceberg",
+            "stars": "1,257",
+            "forks": "156",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        }
+    ]
+}
