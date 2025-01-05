@@ -78404,3 +78404,177 @@
         }
     ]
 }
+{
+    "01月05日": [
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "17,233",
+            "forks": "1,549",
+            "language": "Python",
+            "stars_today": "877 stars today"
+        },
+        {
+            "zh_des": "一个基于RAG的开源工具，用于与您的文档聊天。",
+            "url": "https://github.com/Cinnamon/kotaemon",
+            "name": "Cinnamon /kotaemon",
+            "description": "An open-source RAG-based tool for chatting with your documents.",
+            "stars": "19,424",
+            "forks": "1,494",
+            "language": "Python",
+            "stars_today": "179 stars today"
+        },
+        {
+            "zh_des": "企业级面向生产的多代理编排框架加入我们的Community:https://discord.com/servers/agora-999382051935506503",
+            "url": "https://github.com/kyegomez/swarms",
+            "name": "kyegomez /swarms",
+            "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503",
+            "stars": "2,699",
+            "forks": "353",
+            "language": "Python",
+            "stars_today": "303 stars today"
+        },
+        {
+            "zh_des": "🏡开源家庭自动化，将本地控制和隐私放在首位。",
+            "url": "https://github.com/home-assistant/core",
+            "name": "home-assistant /core",
+            "description": "🏡 Open source home automation that puts local control and privacy first.",
+            "stars": "75,342",
+            "forks": "31,756",
+            "language": "Python",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "40,355",
+            "forks": "4,501",
+            "language": "Python",
+            "stars_today": "189 stars today"
+        },
+        {
+            "zh_des": "CISO Assistant是GRC的一站式服务，涵盖风险、应用安全和审计管理，并支持全球70个框架的自动映射：NIST CSF、ISO 27001、SOC2、CIS、PCIDSS、NIS2、CMMC、PSPF、GDPR、HIPAA、Essential Eight、NYDFS-500、DORA、NIST AI RMF、800-53、800-171、CyFun、CJIS、AirCyber、NCSC、ECC、SCF等等",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more",
+            "stars": "1,895",
+            "forks": "240",
+            "language": "Python",
+            "stars_today": "250 stars today"
+        },
+        {
+            "zh_des": "低洼可探测物体的下落确定。无人驾驶飞机的福斯AI中的Sota！",
+            "url": "https://github.com/stephansturges/WALDO",
+            "name": "stephansturges /WALDO",
+            "description": "Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!",
+            "stars": "991",
+            "forks": "108",
+            "language": "Python",
+            "stars_today": "52 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "33,616",
+            "forks": "6,710",
+            "language": "Python",
+            "stars_today": "106 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "51,307",
+            "forks": "9,258",
+            "language": "Python",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "可调用100多个OpenAI格式的LLM API的Python SDK、代理服务器(LLM网关)-[Bedock、Azure、OpenAI、Vertex AI、Cohere、Anthropic、Sagemaker、HuggingFace、Replate、Groq]",
+            "url": "https://github.com/BerriAI/litellm",
+            "name": "BerriAI /litellm",
+            "description": "Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]",
+            "stars": "15,866",
+            "forks": "1,856",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "NVIDIA Ingest是一套早期访问的微服务，用于将数十万复杂、混乱的非结构化PDF和其他企业文档解析为元数据和文本，以便嵌入到检索系统中。",
+            "url": "https://github.com/NVIDIA/nv-ingest",
+            "name": "NVIDIA /nv-ingest",
+            "description": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+            "stars": "501",
+            "forks": "89",
+            "language": "Python",
+            "stars_today": "137 stars today"
+        },
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主AI(Gpt、Claude、Gemini、Allama、Qwen、Mistral)。免费入门。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "stars": "18,114",
+            "forks": "930",
+            "language": "Python",
+            "stars_today": "466 stars today"
+        },
+        {
+            "zh_des": "Sunnypilot是一个开源的驾驶员辅助系统。Sunnypilot为用户提供了独特的驾驶体验，超过290个受支持的汽车品牌和车型的驾驶辅助行为得到了改进。Sunnypilot尽可能准确地遵守Comma.ai的安全规则。",
+            "url": "https://github.com/sunnypilot/sunnypilot",
+            "name": "sunnypilot /sunnypilot",
+            "description": "sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 290 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with comma.ai's safety rules as accurately as possible.",
+            "stars": "886",
+            "forks": "740",
+            "language": "Python",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Web应用程序安全和PENTEST/CTF的有用有效负载和绕过列表",
+            "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+            "name": "swisskyrepo /PayloadsAllTheThings",
+            "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+            "stars": "62,310",
+            "forks": "14,847",
+            "language": "Python",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "用于构建骆驼应用程序的可组合构建块",
+            "url": "https://github.com/meta-llama/llama-stack",
+            "name": "meta-llama /llama-stack",
+            "description": "Composable building blocks to build Llama Apps",
+            "stars": "5,906",
+            "forks": "773",
+            "language": "Python",
+            "stars_today": "34 stars today"
+        },
+        {
+            "zh_des": "Zulip服务器和Web应用程序。开源团队聊天，帮助团队保持高效和专注。",
+            "url": "https://github.com/zulip/zulip",
+            "name": "zulip /zulip",
+            "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+            "stars": "21,886",
+            "forks": "8,066",
+            "language": "Python",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "🍰桌面实用程序可从各种网站下载图像/视频/音乐/文本等。",
+            "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+            "name": "KurtBestor /Hitomi-Downloader",
+            "description": "🍰 Desktop utility to download images/videos/music/text from various websites, and more.",
+            "stars": "22,887",
+            "forks": "2,121",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        }
+    ]
+}
