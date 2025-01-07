@@ -79020,3 +79020,137 @@
         }
     ]
 }
+{
+    "01月07日": [
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主AI(Gpt、Claude、Gemini、Allama、Qwen、Mistral)。免费入门。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "stars": "19,901",
+            "forks": "1,039",
+            "language": "Python",
+            "stars_today": "363 stars today"
+        },
+        {
+            "zh_des": "企业级面向生产的多代理编排框架加入我们的Community:https://discord.com/servers/agora-999382051935506503",
+            "url": "https://github.com/kyegomez/swarms",
+            "name": "kyegomez /swarms",
+            "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503",
+            "stars": "3,449",
+            "forks": "399",
+            "language": "Python",
+            "stars_today": "373 stars today"
+        },
+        {
+            "zh_des": "CISO Assistant是GRC的一站式服务，涵盖风险、应用安全和审计管理，并支持全球70个框架的自动映射：NIST CSF、ISO 27001、SOC2、CIS、PCIDSS、NIS2、CMMC、PSPF、GDPR、HIPAA、Essential Eight、NYDFS-500、DORA、NIST AI RMF、800-53、800-171、CyFun、CJIS、AirCyber、NCSC、ECC、SCF等等",
+            "url": "https://github.com/intuitem/ciso-assistant-community",
+            "name": "intuitem /ciso-assistant-community",
+            "description": "CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more",
+            "stars": "2,165",
+            "forks": "256",
+            "language": "Python",
+            "stars_today": "252 stars today"
+        },
+        {
+            "zh_des": "一个由LLM支持的知识管理系统，它研究一个主题并生成一份带有引文的完整报告。",
+            "url": "https://github.com/stanford-oval/storm",
+            "name": "stanford-oval /storm",
+            "description": "An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.",
+            "stars": "18,642",
+            "forks": "1,634",
+            "language": "Python",
+            "stars_today": "1,425 stars today"
+        },
+        {
+            "zh_des": "一个极简主义的人工智能支持的搜索引擎，帮助你在互联网上查找信息。由Vercel AI SDK提供支持！搜索一下像Grok 2.0这样的机型。",
+            "url": "https://github.com/zaidmukaddam/miniperplx",
+            "name": "zaidmukaddam /miniperplx",
+            "description": "A minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.",
+            "stars": "2,352",
+            "forks": "259",
+            "language": "TypeScript",
+            "stars_today": "362 stars today"
+        },
+        {
+            "zh_des": "通过从头开始重新创建您最喜欢的技术来掌握编程。",
+            "url": "https://github.com/codecrafters-io/build-your-own-x",
+            "name": "codecrafters-io /build-your-own-x",
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "stars": "323,807",
+            "forks": "29,990",
+            "language": "Markdown",
+            "stars_today": "674 stars today"
+        },
+        {
+            "zh_des": "戈多引擎--多平台2D和3D游戏引擎",
+            "url": "https://github.com/godotengine/godot",
+            "name": "godotengine /godot",
+            "description": "Godot Engine – Multi-platform 2D and 3D game engine",
+            "stars": "92,625",
+            "forks": "21,432",
+            "language": "C++",
+            "stars_today": "53 stars today"
+        },
+        {
+            "zh_des": "此回购包括ChatGPT提示管理，以便更好地使用ChatGPT和其他LLM工具。",
+            "url": "https://github.com/f/awesome-chatgpt-prompts",
+            "name": "f /awesome-chatgpt-prompts",
+            "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+            "stars": "116,201",
+            "forks": "15,793",
+            "language": "HTML",
+            "stars_today": "201 stars today"
+        },
+        {
+            "zh_des": "🚀🤖Crawl4AI：开源的LLm友好的网络爬虫和爬行器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+            "stars": "21,594",
+            "forks": "1,553",
+            "language": "HTML",
+            "stars_today": "1,527 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "34,064",
+            "forks": "6,754",
+            "language": "Python",
+            "stars_today": "325 stars today"
+        },
+        {
+            "zh_des": "AI原生开源嵌入式数据库",
+            "url": "https://github.com/chroma-core/chroma",
+            "name": "chroma-core /chroma",
+            "description": "the AI-native open-source embedding database",
+            "stars": "16,546",
+            "forks": "1,380",
+            "language": "Rust",
+            "stars_today": "191 stars today"
+        },
+        {
+            "zh_des": "低洼可探测物体的下落确定。无人驾驶飞机的福斯AI中的Sota！",
+            "url": "https://github.com/stephansturges/WALDO",
+            "name": "stephansturges /WALDO",
+            "description": "Whereabouts Ascertainment for Low-lying Detectable Objects. The SOTA in FOSS AI for drones!",
+            "stars": "1,241",
+            "forks": "126",
+            "language": "Python",
+            "stars_today": "196 stars today"
+        },
+        {
+            "zh_des": "简历匹配器是一个开源的免费工具，可以改善你的简历。它的工作原理是使用语言模型将简历与工作描述进行比较和排名。",
+            "url": "https://github.com/srbhr/Resume-Matcher",
+            "name": "srbhr /Resume-Matcher",
+            "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.",
+            "stars": "6,088",
+            "forks": "2,424",
+            "language": "Python",
+            "stars_today": "25 stars today"
+        }
+    ]
+}
