@@ -79214,3 +79214,137 @@
         }
     ]
 }
+{
+    "01月08日": [
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主AI(Gpt、Claude、Gemini、Allama、Qwen、Mistral)。免费入门。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "stars": "21,270",
+            "forks": "1,113",
+            "language": "Python",
+            "stars_today": "1,930 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的人脸识别和人脸属性分析(年龄、性别、情感和种族)库",
+            "url": "https://github.com/serengil/deepface",
+            "name": "serengil /deepface",
+            "description": "A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python",
+            "stars": "16,473",
+            "forks": "2,355",
+            "language": "Python",
+            "stars_today": "375 stars today"
+        },
+        {
+            "zh_des": "🙌OpenHands：代码更少，创造更多",
+            "url": "https://github.com/All-Hands-AI/OpenHands",
+            "name": "All-Hands-AI /OpenHands",
+            "description": "🙌 OpenHands: Code Less, Make More",
+            "stars": "41,976",
+            "forks": "4,641",
+            "language": "Python",
+            "stars_today": "779 stars today"
+        },
+        {
+            "zh_des": "OpenPilot是一个机器人操作系统。目前，它正在为275辆以上支持的汽车升级驾驶员辅助系统。",
+            "url": "https://github.com/commaai/openpilot",
+            "name": "commaai /openpilot",
+            "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 275+ supported cars.",
+            "stars": "51,503",
+            "forks": "9,274",
+            "language": "Python",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "简化了Python打包和依赖项管理",
+            "url": "https://github.com/python-poetry/poetry",
+            "name": "python-poetry /poetry",
+            "description": "Python packaging and dependency management made easy",
+            "stars": "32,174",
+            "forks": "2,298",
+            "language": "Python",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "34,167",
+            "forks": "6,767",
+            "language": "Python",
+            "stars_today": "236 stars today"
+        },
+        {
+            "zh_des": "雷是一个人工智能计算引擎。Ray由一个核心分布式运行时和一组用于加速ML工作负载的AI库组成。",
+            "url": "https://github.com/ray-project/ray",
+            "name": "ray-project /ray",
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "stars": "34,784",
+            "forks": "5,909",
+            "language": "Python",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "NVIDIA Ingest是一套早期访问的微服务，用于将数十万复杂、混乱的非结构化PDF和其他企业文档解析为元数据和文本，以便嵌入到检索系统中。",
+            "url": "https://github.com/NVIDIA/nv-ingest",
+            "name": "NVIDIA /nv-ingest",
+            "description": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+            "stars": "691",
+            "forks": "113",
+            "language": "Python",
+            "stars_today": "88 stars today"
+        },
+        {
+            "zh_des": "90多种语言的OCR、布局分析、阅读顺序、表格识别",
+            "url": "https://github.com/VikParuchuri/surya",
+            "name": "VikParuchuri /surya",
+            "description": "OCR, layout analysis, reading order, table recognition in 90+ languages",
+            "stars": "15,262",
+            "forks": "983",
+            "language": "Python",
+            "stars_today": "70 stars today"
+        },
+        {
+            "zh_des": "Prefect是一个工作流编排框架，用于在Python语言中构建弹性数据管道。",
+            "url": "https://github.com/PrefectHQ/prefect",
+            "name": "PrefectHQ /prefect",
+            "description": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+            "stars": "17,957",
+            "forks": "1,676",
+            "language": "Python",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "企业级面向生产的多代理编排框架加入我们的Community:https://discord.com/servers/agora-999382051935506503",
+            "url": "https://github.com/kyegomez/swarms",
+            "name": "kyegomez /swarms",
+            "description": "The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community:https://discord.com/servers/agora-999382051935506503",
+            "stars": "3,632",
+            "forks": "417",
+            "language": "Python",
+            "stars_today": "522 stars today"
+        },
+        {
+            "zh_des": "简历匹配器是一个开源的免费工具，可以改善你的简历。它的工作原理是使用语言模型将简历与工作描述进行比较和排名。",
+            "url": "https://github.com/srbhr/Resume-Matcher",
+            "name": "srbhr /Resume-Matcher",
+            "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using language models to compare and rank resumes with job descriptions.",
+            "stars": "6,253",
+            "forks": "2,456",
+            "language": "Python",
+            "stars_today": "556 stars today"
+        },
+        {
+            "zh_des": "培训开放说明-遵循语言模型TODO，解锁设置工具当闪存中的这个问题得到解决时，如果你在AI2内部，你可以创建这样的形象：使用1个GPU快速调试运行使用8个GPU训练一个8B Tulu3模型使用8个GPU训练一个8B Tulu3模型使用8个GPU快速调试运行使用2个GPU(1个用于推理，1个用于培训)这里我们使用HuggingFaceTB/SmolLM2-360M-指令；它可能不起作用，但它很容易测试运行和打印",
+            "url": "https://github.com/allenai/open-instruct",
+            "name": "allenai /open-instruct",
+            "description": "Training Open Instruction-Following Language ModelsTODO, unpin setuptools when this issue in flash attention is resolvedif you are interally at AI2, you can create an image like this:quick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 1 GPUtrain an 8B tulu3 model using 8 GPUquick debugging run using 2 GPU (1 for inference, 1 for training)here we are using HuggingFaceTB/SmolLM2-360M-Instruct; it's prob notgonna work, but it's easy to test run and print stuff",
+            "stars": "2,259",
+            "forks": "261",
+            "language": "Python",
+            "stars_today": "10 stars today"
+        }
+    ]
+}
