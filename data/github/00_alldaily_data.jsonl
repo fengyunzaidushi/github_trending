@@ -79730,3 +79730,147 @@
         }
     ]
 }
+{
+    "01月09日": [
+        {
+            "zh_des": "你的人工智能第二大脑。可自行操控。从网络或您的文档中获取答案。构建自定义代理，安排自动化，进行深入研究。将任何在线或本地LLM转变为您的个人自主AI(Gpt、Claude、Gemini、Allama、Qwen、Mistral)。免费入门。",
+            "url": "https://github.com/khoj-ai/khoj",
+            "name": "khoj-ai /khoj",
+            "description": "Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.",
+            "stars": "23,241",
+            "forks": "1,223",
+            "language": "Python",
+            "stars_today": "1,508 stars today"
+        },
+        {
+            "zh_des": "简历匹配器是一个开源的免费工具，可以改善你的简历。它的工作原理是使用人工智能，即Reader LLMS，将简历与工作描述进行比较和排名。",
+            "url": "https://github.com/srbhr/Resume-Matcher",
+            "name": "srbhr /Resume-Matcher",
+            "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.",
+            "stars": "6,858",
+            "forks": "2,539",
+            "language": "Python",
+            "stars_today": "436 stars today"
+        },
+        {
+            "zh_des": "如何运行墨迹节点",
+            "url": "https://github.com/inkonchain/node",
+            "name": "inkonchain /node",
+            "description": "How to run an Ink Node",
+            "stars": "17,561",
+            "forks": "239",
+            "language": "Shell",
+            "stars_today": "3,303 stars today"
+        },
+        {
+            "zh_des": "VILA是一系列最先进的视觉语言模型(VLM)，适用于边缘、数据中心和云中的各种多模式AI任务。",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+            "stars": "2,517",
+            "forks": "200",
+            "language": "Python",
+            "stars_today": "60 stars today"
+        },
+        {
+            "zh_des": "🚀🤖Crawl4AI：开源的LLm友好的网络爬虫和爬行器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+            "stars": "23,558",
+            "forks": "1,695",
+            "language": "Python",
+            "stars_today": "230 stars today"
+        },
+        {
+            "zh_des": "墨迹文档",
+            "url": "https://github.com/inkonchain/docs",
+            "name": "inkonchain /docs",
+            "description": "Ink Documentation",
+            "stars": "17,493",
+            "forks": "178",
+            "language": "MDX",
+            "stars_today": "3,301 stars today"
+        },
+        {
+            "zh_des": "GoogleTest-Google测试和模拟框架",
+            "url": "https://github.com/google/googletest",
+            "name": "google /googletest",
+            "description": "GoogleTest - Google Testing and Mocking Framework",
+            "stars": "35,185",
+            "forks": "10,224",
+            "language": "C++",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "建立自己的人工智能好友",
+            "url": "https://github.com/78/xiaozhi-esp32",
+            "name": "78 /xiaozhi-esp32",
+            "description": "Build your own AI friend",
+            "stars": "1,990",
+            "forks": "340",
+            "language": "C",
+            "stars_today": "437 stars today"
+        },
+        {
+            "zh_des": "用于苹果应用程序开发的FireBase SDK",
+            "url": "https://github.com/firebase/firebase-ios-sdk",
+            "name": "firebase /firebase-ios-sdk",
+            "description": "Firebase SDK for Apple App Development",
+            "stars": "5,827",
+            "forks": "1,505",
+            "language": "C++",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "PyTorch原生培训后库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "PyTorch native post-training library",
+            "stars": "4,608",
+            "forks": "476",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "快速C++记录库。",
+            "url": "https://github.com/gabime/spdlog",
+            "name": "gabime /spdlog",
+            "description": "Fast C++ logging library.",
+            "stars": "24,969",
+            "forks": "4,637",
+            "language": "C++",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "阿帕奇节俭",
+            "url": "https://github.com/apache/thrift",
+            "name": "apache /thrift",
+            "description": "Apache Thrift",
+            "stars": "10,516",
+            "forks": "4,038",
+            "language": "C++",
+            "stars_today": "37 stars today"
+        },
+        {
+            "zh_des": "自动编码代理就在您的IDE中，能够在您的许可下创建/编辑文件、执行命令、使用浏览器等。",
+            "url": "https://github.com/cline/cline",
+            "name": "cline /cline",
+            "description": "Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.",
+            "stars": "20,825",
+            "forks": "1,767",
+            "language": "TypeScript",
+            "stars_today": "345 stars today"
+        },
+        {
+            "zh_des": "一种基于GO-ETHERUM分叉的BNB智能连锁客户端",
+            "url": "https://github.com/bnb-chain/bsc",
+            "name": "bnb-chain /bsc",
+            "description": "A BNB Smart Chain client based on the go-ethereum fork",
+            "stars": "2,839",
+            "forks": "1,588",
+            "language": "Go",
+            "stars_today": "13 stars today"
+        }
+    ]
+}
