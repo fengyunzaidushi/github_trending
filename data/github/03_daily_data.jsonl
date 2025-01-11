@@ -80312,3 +80312,117 @@
         }
     ]
 }
+{
+    "01月11日": [
+        {
+            "zh_des": "AUTO_JOBS_APPLIER_AI_代理旨在通过自动化求职申请过程来简化求职过程。利用人工智能，它使用户能够以自动化和个性化的方式申请多个工作。",
+            "url": "https://github.com/feder-cr/Jobs_Applier_AI_Agent",
+            "name": "feder-cr /Jobs_Applier_AI_Agent",
+            "description": "Auto_Jobs_Applier_AI_Agent aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and personalized way.",
+            "stars": "25,002",
+            "forks": "3,713",
+            "language": "Python",
+            "stars_today": "332 stars today"
+        },
+        {
+            "zh_des": "收集可怕的LLM应用程序与RAG使用OpenAI，人类，双子座和开源模型。",
+            "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+            "name": "Shubhamsaboo /awesome-llm-apps",
+            "description": "Collection of awesome LLM apps with RAG using OpenAI, Anthropic, Gemini and opensource models.",
+            "stars": "11,837",
+            "forks": "1,276",
+            "language": "Python",
+            "stars_today": "162 stars today"
+        },
+        {
+            "zh_des": "一种用于实时语音的快速多模LLM",
+            "url": "https://github.com/fixie-ai/ultravox",
+            "name": "fixie-ai /ultravox",
+            "description": "A fast multimodal LLM for real-time voice",
+            "stars": "1,897",
+            "forks": "140",
+            "language": "Python",
+            "stars_today": "30 stars today"
+        },
+        {
+            "zh_des": "NVIDIA Ingest是一套早期访问的微服务，用于将数十万复杂、混乱的非结构化PDF和其他企业文档解析为元数据和文本，以便嵌入到检索系统中。",
+            "url": "https://github.com/NVIDIA/nv-ingest",
+            "name": "NVIDIA /nv-ingest",
+            "description": "NVIDIA Ingest is an early access set of microservices for parsing hundreds of thousands of complex, messy unstructured PDFs and other enterprise documents into metadata and text to embed into retrieval systems.",
+            "stars": "1,279",
+            "forks": "135",
+            "language": "Python",
+            "stars_today": "334 stars today"
+        },
+        {
+            "zh_des": "简历匹配器是一个开源的免费工具，可以改善你的简历。它的工作原理是使用人工智能，即Reader LLMS，将简历与工作描述进行比较和排名。",
+            "url": "https://github.com/srbhr/Resume-Matcher",
+            "name": "srbhr /Resume-Matcher",
+            "description": "Resume Matcher is an open source, free tool to improve your resume. It works by using AI, Reader LLMs, to compare and rank resumes with job descriptions.",
+            "stars": "7,490",
+            "forks": "2,629",
+            "language": "Python",
+            "stars_today": "274 stars today"
+        },
+        {
+            "zh_des": "学习如何设计大型系统。为系统设计面试做准备。包括Anki抽认卡。",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "name": "donnemartin /system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+            "stars": "285,453",
+            "forks": "47,618",
+            "language": "Python",
+            "stars_today": "213 stars today"
+        },
+        {
+            "zh_des": "法学院评估框架",
+            "url": "https://github.com/confident-ai/deepeval",
+            "name": "confident-ai /deepeval",
+            "description": "The LLM Evaluation Framework",
+            "stars": "4,286",
+            "forks": "352",
+            "language": "Python",
+            "stars_today": "50 stars today"
+        },
+        {
+            "zh_des": "⚡TabPFN：表格数据⚡的基础模型",
+            "url": "https://github.com/PriorLabs/TabPFN",
+            "name": "PriorLabs /TabPFN",
+            "description": "⚡ TabPFN: Foundation Model for Tabular Data ⚡",
+            "stars": "1,833",
+            "forks": "141",
+            "language": "Python",
+            "stars_today": "82 stars today"
+        },
+        {
+            "zh_des": "基于任务感知的智能体驱动提示优化框架",
+            "url": "https://github.com/microsoft/PromptWizard",
+            "name": "microsoft /PromptWizard",
+            "description": "Task-Aware Agent-driven Prompt Optimization Framework",
+            "stars": "2,068",
+            "forks": "166",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "VILA是一系列最先进的视觉语言模型(VLM)，适用于边缘、数据中心和云中的各种多模式AI任务。",
+            "url": "https://github.com/NVlabs/VILA",
+            "name": "NVlabs /VILA",
+            "description": "VILA is a family of state-of-the-art vision language models (VLMs) for diverse multimodal AI tasks across the edge, data center, and cloud.",
+            "stars": "2,665",
+            "forks": "214",
+            "language": "Python",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "PyTorch原生培训后库",
+            "url": "https://github.com/pytorch/torchtune",
+            "name": "pytorch /torchtune",
+            "description": "PyTorch native post-training library",
+            "stars": "4,675",
+            "forks": "484",
+            "language": "Python",
+            "stars_today": "8 stars today"
+        }
+    ]
+}
