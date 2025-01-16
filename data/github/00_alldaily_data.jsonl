@@ -81742,3 +81742,167 @@
         }
     ]
 }
+{
+    "01月16日": [
+        {
+            "zh_des": "自托管AI编码助手",
+            "url": "https://github.com/TabbyML/tabby",
+            "name": "TabbyML /tabby",
+            "description": "Self-hosted AI coding assistant",
+            "stars": "27,381",
+            "forks": "1,250",
+            "language": "Rust",
+            "stars_today": "1,439 stars today"
+        },
+        {
+            "zh_des": "高性能算法交易平台和事件驱动的回测器",
+            "url": "https://github.com/nautechsystems/nautilus_trader",
+            "name": "nautechsystems /nautilus_trader",
+            "description": "A high-performance algorithmic trading platform and event-driven backtester",
+            "stars": "3,303",
+            "forks": "589",
+            "language": "Python",
+            "stars_today": "390 stars today"
+        },
+        {
+            "zh_des": "用于运行使用LangGraph、FastAPI和Streamlitt构建的AI代理服务的完整工具包",
+            "url": "https://github.com/JoshuaC215/agent-service-toolkit",
+            "name": "JoshuaC215 /agent-service-toolkit",
+            "description": "Full toolkit for running an AI agent service built with LangGraph, FastAPI and Streamlit",
+            "stars": "1,539",
+            "forks": "214",
+            "language": "Python",
+            "stars_today": "193 stars today"
+        },
+        {
+            "zh_des": "利用AI大模型，一键生成高清短视频使用AI LLM一键生成短视频。",
+            "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+            "name": "harry0703 /MoneyPrinterTurbo",
+            "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+            "stars": "20,283",
+            "forks": "3,092",
+            "language": "Python",
+            "stars_today": "242 stars today"
+        },
+        {
+            "zh_des": "开源的Zapier替代方案。无需花费时间和金钱即可构建工作流自动化。",
+            "url": "https://github.com/automatisch/automatisch",
+            "name": "automatisch /automatisch",
+            "description": "The open source Zapier alternative. Build workflow automation without spending time and money.",
+            "stars": "7,596",
+            "forks": "542",
+            "language": "JavaScript",
+            "stars_today": "264 stars today"
+        },
+        {
+            "zh_des": "一个简单的HTML5、YouTube和Vimeo播放器",
+            "url": "https://github.com/sampotts/plyr",
+            "name": "sampotts /plyr",
+            "description": "A simple HTML5, YouTube and Vimeo player",
+            "stars": "27,875",
+            "forks": "3,012",
+            "language": "JavaScript",
+            "stars_today": "185 stars today"
+        },
+        {
+            "zh_des": "一个CLI工具，可以将您的代码库转换为具有源代码树、提示符模板和令牌计数的单一LLM提示符。",
+            "url": "https://github.com/mufeedvh/code2prompt",
+            "name": "mufeedvh /code2prompt",
+            "description": "A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.",
+            "stars": "3,508",
+            "forks": "211",
+            "language": "Rust",
+            "stars_today": "58 stars today"
+        },
+        {
+            "zh_des": "自动化在线赚钱的过程。",
+            "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+            "name": "FujiwaraChoki /MoneyPrinterV2",
+            "description": "Automate the process of making money online.",
+            "stars": "5,519",
+            "forks": "566",
+            "language": "Python",
+            "stars_today": "531 stars today"
+        },
+        {
+            "zh_des": "现代生成性人工智能项目和服务的精选清单",
+            "url": "https://github.com/steven2358/awesome-generative-ai",
+            "name": "steven2358 /awesome-generative-ai",
+            "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+            "stars": "6,644",
+            "forks": "707",
+            "language": "",
+            "stars_today": "91 stars today"
+        },
+        {
+            "zh_des": "这是GLaDOS的个性核心，是Valve从门户系列实现AI的第一步。",
+            "url": "https://github.com/dnhkng/GlaDOS",
+            "name": "dnhkng /GlaDOS",
+            "description": "This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.",
+            "stars": "4,096",
+            "forks": "322",
+            "language": "Python",
+            "stars_today": "227 stars today"
+        },
+        {
+            "zh_des": "SANA：基于线性扩散变换的高效高分辨率图像合成",
+            "url": "https://github.com/NVlabs/Sana",
+            "name": "NVlabs /Sana",
+            "description": "SANA: Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer",
+            "stars": "2,618",
+            "forks": "149",
+            "language": "Python",
+            "stars_today": "152 stars today"
+        },
+        {
+            "zh_des": "主吨位单价",
+            "url": "https://github.com/ton-blockchain/ton",
+            "name": "ton-blockchain /ton",
+            "description": "Main TON monorepo",
+            "stars": "3,259",
+            "forks": "1,069",
+            "language": "C++",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "一个开源的电子商务平台，给你完全的控制权和定制化。模块化和API优先。多供应商、多租户、多商店、多币种、多语言。使用Ruby on Rails构建。由@veno-dev开发",
+            "url": "https://github.com/spree/spree",
+            "name": "spree /spree",
+            "description": "An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by@vendo-dev",
+            "stars": "13,493",
+            "forks": "4,974",
+            "language": "Ruby",
+            "stars_today": "62 stars today"
+        },
+        {
+            "zh_des": "强大、高效、低延迟的语音到文本库，具有高级语音活动检测、唤醒单词激活和即时转录功能。",
+            "url": "https://github.com/KoljaB/RealtimeSTT",
+            "name": "KoljaB /RealtimeSTT",
+            "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+            "stars": "2,972",
+            "forks": "269",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "将项目、维基和团队与人工智能结合在一起。AppFlowy是AI协作工作区，您可以在其中实现更多成就，而不会失去对数据的控制。领先的开源概念替代方案。",
+            "url": "https://github.com/AppFlowy-IO/AppFlowy",
+            "name": "AppFlowy-IO /AppFlowy",
+            "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+            "stars": "59,945",
+            "forks": "3,979",
+            "language": "Dart",
+            "stars_today": "224 stars today"
+        },
+        {
+            "zh_des": "Visual Studio代码",
+            "url": "https://github.com/microsoft/vscode",
+            "name": "microsoft /vscode",
+            "description": "Visual Studio Code",
+            "stars": "166,271",
+            "forks": "30,060",
+            "language": "TypeScript",
+            "stars_today": "47 stars today"
+        }
+    ]
+}
