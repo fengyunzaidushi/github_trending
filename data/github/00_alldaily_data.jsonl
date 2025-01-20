@@ -83138,3 +83138,177 @@
         }
     ]
 }
+{
+    "01月20日": [
+        {
+            "zh_des": "Vercel、Netlify和Heroku的开源替代方案。",
+            "url": "https://github.com/Dokploy/dokploy",
+            "name": "Dokploy /dokploy",
+            "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+            "stars": "12,811",
+            "forks": "655",
+            "language": "TypeScript",
+            "stars_today": "384 stars today"
+        },
+        {
+            "zh_des": "Reaction UI+面向AI副飞行员、应用内AI代理、AI聊天机器人和AI驱动的Textareas🪁的优雅基础设施",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+            "stars": "15,811",
+            "forks": "2,295",
+            "language": "TypeScript",
+            "stars_today": "272 stars today"
+        },
+        {
+            "zh_des": "🤖是开放人工智能、克劳德和其他软件的免费、开源替代品。自托管和本地优先。OpenAI的临时替代品，运行在消费级硬件上。不需要图形处理器。运行GGUF、变压器、扩散器和更多模型架构。功能：生成文本、音频、视频、图像、语音克隆、分布式、P2P推理",
+            "url": "https://github.com/mudler/LocalAI",
+            "name": "mudler /LocalAI",
+            "description": "🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference",
+            "stars": "28,987",
+            "forks": "2,185",
+            "language": "Go",
+            "stars_today": "217 stars today"
+        },
+        {
+            "zh_des": "Fabric是一个开源框架，用于使用人工智能来增强人类。它提供了一个模块化框架，使用一组可以在任何地方使用的众包人工智能提示来解决特定问题。",
+            "url": "https://github.com/danielmiessler/fabric",
+            "name": "danielmiessler /fabric",
+            "description": "fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.",
+            "stars": "27,281",
+            "forks": "2,886",
+            "language": "Go",
+            "stars_today": "175 stars today"
+        },
+        {
+            "zh_des": "🚀🚀“大模型”3小时完全从0训练26M的小参数Gpt！🌏从零开始训练26M参数的GPT只需3个小时！",
+            "url": "https://github.com/jingyaogong/minimind",
+            "name": "jingyaogong /minimind",
+            "description": "🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!",
+            "stars": "5,587",
+            "forks": "626",
+            "language": "Python",
+            "stars_today": "229 stars today"
+        },
+        {
+            "zh_des": "📄非常棒的.cursorrules文件的精选列表",
+            "url": "https://github.com/PatrickJS/awesome-cursorrules",
+            "name": "PatrickJS /awesome-cursorrules",
+            "description": "📄 A curated list of awesome .cursorrules files",
+            "stars": "6,780",
+            "forks": "465",
+            "language": "",
+            "stars_today": "417 stars today"
+        },
+        {
+            "zh_des": "一个自主托管、无广告、尊重隐私的元搜索引擎",
+            "url": "https://github.com/benbusby/whoogle-search",
+            "name": "benbusby /whoogle-search",
+            "description": "A self-hosted, ad-free, privacy-respecting metasearch engine",
+            "stars": "10,164",
+            "forks": "977",
+            "language": "Python",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "42,964",
+            "forks": "4,598",
+            "language": "Jupyter Notebook",
+            "stars_today": "596 stars today"
+        },
+        {
+            "zh_des": "🔥开源无代码Web数据抽取平台。在几分钟内将网站变成无代码机器人的API和电子表格[测试版]",
+            "url": "https://github.com/getmaxun/maxun",
+            "name": "getmaxun /maxun",
+            "description": "🔥 Open-source no-code web data extraction platform. Turn websites to APIs and spreadsheets with no-code robots in minutes [In Beta]",
+            "stars": "7,550",
+            "forks": "599",
+            "language": "TypeScript",
+            "stars_today": "112 stars today"
+        },
+        {
+            "zh_des": "GNU核心的跨平台Rust重写",
+            "url": "https://github.com/uutils/coreutils",
+            "name": "uutils /coreutils",
+            "description": "Cross-platform Rust rewrite of the GNU coreutils",
+            "stars": "18,087",
+            "forks": "1,306",
+            "language": "Rust",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "35,023",
+            "forks": "6,882",
+            "language": "Python",
+            "stars_today": "353 stars today"
+        },
+        {
+            "zh_des": "MiniCPM-o 2.6：适用于手机上的视觉、语音和多模式直播的GPT-4o级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-o",
+            "name": "OpenBMB /MiniCPM-o",
+            "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone",
+            "stars": "16,983",
+            "forks": "1,212",
+            "language": "Python",
+            "stars_today": "922 stars today"
+        },
+        {
+            "zh_des": "Linera协议的主存储库",
+            "url": "https://github.com/linera-io/linera-protocol",
+            "name": "linera-io /linera-protocol",
+            "description": "Main repository for the Linera protocol",
+            "stars": "3,112",
+            "forks": "246",
+            "language": "Rust",
+            "stars_today": "518 stars today"
+        },
+        {
+            "zh_des": "相当花哨和现代的终端文件管理器",
+            "url": "https://github.com/yorukot/superfile",
+            "name": "yorukot /superfile",
+            "description": "Pretty fancy and modern terminal file manager",
+            "stars": "9,249",
+            "forks": "207",
+            "language": "Go",
+            "stars_today": "352 stars today"
+        },
+        {
+            "zh_des": "一款支持PDF、DjVu、EPUB、FB2和更多格式的电子书阅读器应用程序，可在Cervantes、Kindle、Kobo、Pocketbook和Android设备上运行",
+            "url": "https://github.com/koreader/koreader",
+            "name": "koreader /koreader",
+            "description": "An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices",
+            "stars": "17,864",
+            "forks": "1,306",
+            "language": "Lua",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "包含40多个独立Lua模块的库，以最小的工作量改进了整体Neovim(0.8版及更高版本)体验",
+            "url": "https://github.com/echasnovski/mini.nvim",
+            "name": "echasnovski /mini.nvim",
+            "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+            "stars": "6,172",
+            "forks": "211",
+            "language": "Lua",
+            "stars_today": "171 stars today"
+        },
+        {
+            "zh_des": "🚀🤖Crawl4AI：开源的LLm友好的网络爬虫和爬行器",
+            "url": "https://github.com/unclecode/crawl4ai",
+            "name": "unclecode /crawl4ai",
+            "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper",
+            "stars": "26,279",
+            "forks": "2,043",
+            "language": "Python",
+            "stars_today": "253 stars today"
+        }
+    ]
+}

@@ -53454,3 +53454,177 @@
         }
     ]
 }
+{
+    "01月20日": [
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,392",
+            "forks": "300",
+            "language": "Vue",
+            "stars_today": "547 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "24,634",
+            "forks": "3,028",
+            "language": "Vue",
+            "stars_today": "282 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "5,855",
+            "forks": "344",
+            "language": "Vue",
+            "stars_today": "89 stars this week"
+        },
+        {
+            "zh_des": "🎈🎈🎈🎈年会抽奖程序，Three ejs+Vue3 3D球体动态抽奖应用。",
+            "url": "https://github.com/LOG1997/log-lottery",
+            "name": "LOG1997 /log-lottery",
+            "description": "🎈🎈🎈🎈年会抽奖程序，threejs+vue3 3D球体动态抽奖应用。",
+            "stars": "397",
+            "forks": "105",
+            "language": "Vue",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,457",
+            "forks": "1,293",
+            "language": "Vue",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "Freqtrade用户界面-Freqtrade的前端",
+            "url": "https://github.com/freqtrade/frequi",
+            "name": "freqtrade /frequi",
+            "description": "Freqtrade UI - Frontend for Freqtrade",
+            "stars": "660",
+            "forks": "294",
+            "language": "Vue",
+            "stars_today": "10 stars this week"
+        },
+        {
+            "zh_des": "CSGHub是一个开源的大型模型平台，就像内部版本的拥抱脸。您可以使用用户界面轻松管理模型和数据集、部署模型应用程序以及设置模型微调或推理作业。CSGHub还为Python SDK提供了与HF SDK完全兼容的功能。携手共建更安全、更开放的⭐️平台",
+            "url": "https://github.com/OpenCSGs/csghub",
+            "name": "OpenCSGs /csghub",
+            "description": "CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️",
+            "stars": "2,475",
+            "forks": "374",
+            "language": "Vue",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘Pauəp PPT Intist/)，这是一个在线演示应用程序，它复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.",
+            "stars": "6,289",
+            "forks": "1,225",
+            "language": "Vue",
+            "stars_today": "27 stars this week"
+        },
+        {
+            "zh_des": "这是一款自托管、无数据库的笔记Web应用程序，它使用标记文件的平面文件夹进行存储。",
+            "url": "https://github.com/dullage/flatnotes",
+            "name": "dullage /flatnotes",
+            "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+            "stars": "1,728",
+            "forks": "98",
+            "language": "Vue",
+            "stars_today": "37 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,343",
+            "forks": "606",
+            "language": "Vue",
+            "stars_today": "30 stars this week"
+        },
+        {
+            "zh_des": "TinyEngine是一个低码引擎，您可以基于它在不同的域中构建或开发低码平台/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "url": "https://github.com/opentiny/tiny-engine",
+            "name": "opentiny /tiny-engine",
+            "description": "TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "stars": "2,105",
+            "forks": "326",
+            "language": "Vue",
+            "stars_today": "15 stars this week"
+        },
+        {
+            "zh_des": "基于CloudFlare Pages和R2的免费镜像服务。基于云Flare Pages和R2实现的免费图床。",
+            "url": "https://github.com/roimdev/roim-picx",
+            "name": "roimdev /roim-picx",
+            "description": "free image service based on cloudflare Pages & R2.基于CloudFlare Pages和R2实现的免费图床。",
+            "stars": "158",
+            "forks": "212",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/unovue/radix-vue",
+            "name": "unovue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "4,046",
+            "forks": "259",
+            "language": "Vue",
+            "stars_today": "48 stars this week"
+        },
+        {
+            "zh_des": "云Flare免费临时域名电子邮件免费收发临时域名邮箱支持附件IMAP SMTP Telegram Bot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "3,079",
+            "forks": "1,224",
+            "language": "Vue",
+            "stars_today": "61 stars this week"
+        },
+        {
+            "zh_des": "一组用于快速UI开发的组件和实用程序",
+            "url": "https://github.com/frappe/frappe-ui",
+            "name": "frappe /frappe-ui",
+            "description": "A set of components and utilities for rapid UI development",
+            "stars": "371",
+            "forks": "134",
+            "language": "Vue",
+            "stars_today": "21 stars this week"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,740",
+            "forks": "266",
+            "language": "Vue",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "⏰协作跟踪CCF推荐的会议截止日期(网站，PYTHON CLI，微信小程序)/如果你觉得有用，请启动这个项目，谢谢~",
+            "url": "https://github.com/ccfddl/ccf-deadlines",
+            "name": "ccfddl /ccf-deadlines",
+            "description": "⏰ Collaboratively track deadlines of conferences recommended by CCF (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~",
+            "stars": "6,758",
+            "forks": "464",
+            "language": "Vue",
+            "stars_today": "55 stars this week"
+        }
+    ]
+}

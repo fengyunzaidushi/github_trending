@@ -52664,3 +52664,217 @@
         }
     ]
 }
+{
+    "01月20日": [
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,392",
+            "forks": "300",
+            "language": "Vue",
+            "stars_today": "299 stars today"
+        },
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "6,646",
+            "forks": "1,050",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,594",
+            "forks": "807",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "用Vuejs制作的qBittorrent最时尚的WebUI！",
+            "url": "https://github.com/VueTorrent/VueTorrent",
+            "name": "VueTorrent /VueTorrent",
+            "description": "The sleekest looking WEBUI for qBittorrent made with Vuejs!",
+            "stars": "5,323",
+            "forks": "271",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "24,634",
+            "forks": "3,028",
+            "language": "Vue",
+            "stars_today": "61 stars today"
+        },
+        {
+            "zh_des": "基于VUE3、TypeScrip、Element-Plus、VITE的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "2,917",
+            "forks": "708",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,740",
+            "forks": "266",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "169",
+            "forks": "3,305",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Mainsail是使用Klipper管理和控制3D打印机的流行网络界面。",
+            "url": "https://github.com/mainsail-crew/mainsail",
+            "name": "mainsail-crew /mainsail",
+            "description": "Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.",
+            "stars": "1,788",
+            "forks": "394",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,039",
+            "forks": "1,427",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "CSGHub是一个开源的大型模型平台，就像内部版本的拥抱脸。您可以使用用户界面轻松管理模型和数据集、部署模型应用程序以及设置模型微调或推理作业。CSGHub还为Python SDK提供了与HF SDK完全兼容的功能。携手共建更安全、更开放的⭐️平台",
+            "url": "https://github.com/OpenCSGs/csghub",
+            "name": "OpenCSGs /csghub",
+            "description": "CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️",
+            "stars": "2,475",
+            "forks": "374",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,642",
+            "forks": "708",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "有声书架的移动应用",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,447",
+            "forks": "189",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Fluidd，Klipper用户界面。",
+            "url": "https://github.com/fluidd-core/fluidd",
+            "name": "fluidd-core /fluidd",
+            "description": "Fluidd, the klipper UI.",
+            "stars": "1,464",
+            "forks": "449",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "🎉一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配|网易云音乐|极简主义音乐播放器",
+            "url": "https://github.com/imsyy/SPlayer",
+            "name": "imsyy /SPlayer",
+            "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+            "stars": "3,180",
+            "forks": "571",
+            "language": "Vue",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "为SagerNet/Sing-Box打造的高级Web面板",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "3,110",
+            "forks": "508",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一个灵活的Mastodon Web客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,603",
+            "forks": "575",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,584",
+            "forks": "805",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "ASF的官方Web界面",
+            "url": "https://github.com/JustArchiNET/ASF-ui",
+            "name": "JustArchiNET /ASF-ui",
+            "description": "The official web interface for ASF",
+            "stars": "274",
+            "forks": "38",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "3,307",
+            "forks": "348",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个兼容Onebot协议的非官方QQ全平台客户端实现！",
+            "url": "https://github.com/Stapxs/Stapxs-QQ-Lite-2.0",
+            "name": "Stapxs /Stapxs-QQ-Lite-2.0",
+            "description": "一个兼容 OneBot 协议的非官方 QQ 全平台客户端实现！",
+            "stars": "598",
+            "forks": "48",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
