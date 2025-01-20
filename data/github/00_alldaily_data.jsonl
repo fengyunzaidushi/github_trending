@@ -82954,3 +82954,187 @@
         }
     ]
 }
+{
+    "01月20日": [
+        {
+            "zh_des": "MiniCPM-o 2.6：适用于手机上的视觉、语音和多模式直播的GPT-4o级别MLLM",
+            "url": "https://github.com/OpenBMB/MiniCPM-o",
+            "name": "OpenBMB /MiniCPM-o",
+            "description": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Vision, Speech and Multimodal Live Streaming on Your Phone",
+            "stars": "16,760",
+            "forks": "1,201",
+            "language": "Python",
+            "stars_today": "849 stars today"
+        },
+        {
+            "zh_des": "通过路线图和Colab笔记本进入大型语言模型(LLM)的课程。",
+            "url": "https://github.com/mlabonne/llm-course",
+            "name": "mlabonne /llm-course",
+            "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+            "stars": "42,793",
+            "forks": "4,587",
+            "language": "Jupyter Notebook",
+            "stars_today": "190 stars today"
+        },
+        {
+            "zh_des": "Reaction UI+面向AI副飞行员、应用内AI代理、AI聊天机器人和AI驱动的Textareas🪁的优雅基础设施",
+            "url": "https://github.com/CopilotKit/CopilotKit",
+            "name": "CopilotKit /CopilotKit",
+            "description": "React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁",
+            "stars": "15,685",
+            "forks": "2,288",
+            "language": "TypeScript",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "流放之路的离线构建规划器。",
+            "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+            "name": "PathOfBuildingCommunity /PathOfBuilding",
+            "description": "Offline build planner for Path of Exile.",
+            "stars": "4,399",
+            "forks": "2,106",
+            "language": "Lua",
+            "stars_today": "75 stars today"
+        },
+        {
+            "zh_des": "这是一个隐私至上、自主托管、完全开源的个人知识管理软件，用打字稿和Golang编写。",
+            "url": "https://github.com/siyuan-note/siyuan",
+            "name": "siyuan-note /siyuan",
+            "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+            "stars": "27,989",
+            "forks": "1,836",
+            "language": "TypeScript",
+            "stars_today": "665 stars today"
+        },
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,333",
+            "forks": "298",
+            "language": "Vue",
+            "stars_today": "113 stars today"
+        },
+        {
+            "zh_des": "Vercel、Netlify和Heroku的开源替代方案。",
+            "url": "https://github.com/Dokploy/dokploy",
+            "name": "Dokploy /dokploy",
+            "description": "Open Source Alternative to Vercel, Netlify and Heroku.",
+            "stars": "11,814",
+            "forks": "618",
+            "language": "TypeScript",
+            "stars_today": "380 stars today"
+        },
+        {
+            "zh_des": "面向每个人、任何地方的投资研究。",
+            "url": "https://github.com/OpenBB-finance/OpenBB",
+            "name": "OpenBB-finance /OpenBB",
+            "description": "Investment Research for Everyone, Everywhere.",
+            "stars": "35,349",
+            "forks": "3,219",
+            "language": "Python",
+            "stars_today": "170 stars today"
+        },
+        {
+            "zh_des": "☁️NextCloud服务器，您所有数据的安全之家",
+            "url": "https://github.com/nextcloud/server",
+            "name": "nextcloud /server",
+            "description": "☁️ Nextcloud server, a safe home for all your data",
+            "stars": "28,283",
+            "forks": "4,144",
+            "language": "PHP",
+            "stars_today": "26 stars today"
+        },
+        {
+            "zh_des": "强大、高效、低延迟的语音到文本库，具有高级语音活动检测、唤醒单词激活和即时转录功能。",
+            "url": "https://github.com/KoljaB/RealtimeSTT",
+            "name": "KoljaB /RealtimeSTT",
+            "description": "A robust, efficient, low-latency speech-to-text library with advanced voice activity detection, wake word activation and instant transcription.",
+            "stars": "4,221",
+            "forks": "355",
+            "language": "Python",
+            "stars_today": "135 stars today"
+        },
+        {
+            "zh_des": "以下是为您提供灵感的开发人员组合列表",
+            "url": "https://github.com/emmabostian/developer-portfolios",
+            "name": "emmabostian /developer-portfolios",
+            "description": "A list of developer portfolios for your inspiration",
+            "stars": "9,561",
+            "forks": "1,979",
+            "language": "",
+            "stars_today": "105 stars today"
+        },
+        {
+            "zh_des": "面向客户的LLM代理商行为指导框架",
+            "url": "https://github.com/emcie-co/parlant",
+            "name": "emcie-co /parlant",
+            "description": "The behavior guidance framework for customer-facing LLM agents",
+            "stars": "678",
+            "forks": "41",
+            "language": "Python",
+            "stars_today": "55 stars today"
+        },
+        {
+            "zh_des": "使用Chrome扩展、JavaScript和YAML脚本的人工智能驱动的浏览器自动化。",
+            "url": "https://github.com/web-infra-dev/midscene",
+            "name": "web-infra-dev /midscene",
+            "description": "AI-Driven Browser Automation with Chrome Extensions, JavaScript, and YAML Scripts.",
+            "stars": "3,683",
+            "forks": "176",
+            "language": "HTML",
+            "stars_today": "225 stars today"
+        },
+        {
+            "zh_des": "一种轻量级的推荐系统",
+            "url": "https://github.com/bytedance/monolith",
+            "name": "bytedance /monolith",
+            "description": "A Lightweight Recommendation System",
+            "stars": "7,755",
+            "forks": "592",
+            "language": "Python",
+            "stars_today": "185 stars today"
+        },
+        {
+            "zh_des": "包含40多个独立Lua模块的库，以最小的工作量改进了整体Neovim(0.8版及更高版本)体验",
+            "url": "https://github.com/echasnovski/mini.nvim",
+            "name": "echasnovski /mini.nvim",
+            "description": "Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort",
+            "stars": "6,089",
+            "forks": "209",
+            "language": "Lua",
+            "stars_today": "69 stars today"
+        },
+        {
+            "zh_des": "免费、开源的密码交易机器人",
+            "url": "https://github.com/freqtrade/freqtrade",
+            "name": "freqtrade /freqtrade",
+            "description": "Free, open source crypto trading bot",
+            "stars": "34,871",
+            "forks": "6,865",
+            "language": "Python",
+            "stars_today": "81 stars today"
+        },
+        {
+            "zh_des": "具有历史数据、坞站统计信息和警报的轻量级服务器监控中心。",
+            "url": "https://github.com/henrygd/beszel",
+            "name": "henrygd /beszel",
+            "description": "Lightweight server monitoring hub with historical data, docker stats, and alerts.",
+            "stars": "6,149",
+            "forks": "182",
+            "language": "Go",
+            "stars_today": "144 stars today"
+        },
+        {
+            "zh_des": "在几分钟内构建对话式人工智能⚡️",
+            "url": "https://github.com/Chainlit/chainlit",
+            "name": "Chainlit /chainlit",
+            "description": "Build Conversational AI in minutes ⚡️",
+            "stars": "8,081",
+            "forks": "1,057",
+            "language": "Python",
+            "stars_today": "18 stars today"
+        }
+    ]
+}
