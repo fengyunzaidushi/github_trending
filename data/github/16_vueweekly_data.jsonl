@@ -54498,3 +54498,187 @@
         }
     ]
 }
+{
+    "01月23日": [
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,453",
+            "forks": "307",
+            "language": "Vue",
+            "stars_today": "732 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "24,859",
+            "forks": "3,061",
+            "language": "Vue",
+            "stars_today": "291 stars this week"
+        },
+        {
+            "zh_des": "Freqtrade用户界面-Freqtrade的前端",
+            "url": "https://github.com/freqtrade/frequi",
+            "name": "freqtrade /frequi",
+            "description": "Freqtrade UI - Frontend for Freqtrade",
+            "stars": "663",
+            "forks": "294",
+            "language": "Vue",
+            "stars_today": "10 stars this week"
+        },
+        {
+            "zh_des": "TinyEngine是一个低码引擎，您可以基于它在不同的域中构建或开发低码平台/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "url": "https://github.com/opentiny/tiny-engine",
+            "name": "opentiny /tiny-engine",
+            "description": "TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "stars": "2,154",
+            "forks": "335",
+            "language": "Vue",
+            "stars_today": "41 stars this week"
+        },
+        {
+            "zh_des": "迅排设计-美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景:海报生成、电商产品图、文章长图、视频/公众号封面等.一个漂亮的在线形象设计师，适合各种场景，比如生成海报，让设计变得更容易！",
+            "url": "https://github.com/palxiao/poster-design",
+            "name": "palxiao /poster-design",
+            "description": "迅排设计 - 美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",
+            "stars": "3,945",
+            "forks": "617",
+            "language": "Vue",
+            "stars_today": "29 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,510",
+            "forks": "1,297",
+            "language": "Vue",
+            "stars_today": "97 stars this week"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘Pauəp PPT Intist/)，这是一个在线演示应用程序，它复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.",
+            "stars": "6,302",
+            "forks": "1,230",
+            "language": "Vue",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "这是一款自托管、无数据库的笔记Web应用程序，它使用标记文件的平面文件夹进行存储。",
+            "url": "https://github.com/dullage/flatnotes",
+            "name": "dullage /flatnotes",
+            "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+            "stars": "1,740",
+            "forks": "98",
+            "language": "Vue",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "一组用于快速UI开发的组件和实用程序",
+            "url": "https://github.com/frappe/frappe-ui",
+            "name": "frappe /frappe-ui",
+            "description": "A set of components and utilities for rapid UI development",
+            "stars": "374",
+            "forks": "134",
+            "language": "Vue",
+            "stars_today": "21 stars this week"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "171",
+            "forks": "3,329",
+            "language": "Vue",
+            "stars_today": "3 stars this week"
+        },
+        {
+            "zh_des": "CSGHub是一个开源的大型模型平台，就像内部版本的拥抱脸。您可以使用用户界面轻松管理模型和数据集、部署模型应用程序以及设置模型微调或推理作业。CSGHub还为Python SDK提供了与HF SDK完全兼容的功能。携手共建更安全、更开放的⭐️平台",
+            "url": "https://github.com/OpenCSGs/csghub",
+            "name": "OpenCSGs /csghub",
+            "description": "CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️",
+            "stars": "2,490",
+            "forks": "375",
+            "language": "Vue",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "5,891",
+            "forks": "348",
+            "language": "Vue",
+            "stars_today": "76 stars this week"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,591",
+            "forks": "807",
+            "language": "Vue",
+            "stars_today": "15 stars this week"
+        },
+        {
+            "zh_des": "用于检查和了解您的ESLint平面配置的可视化工具。",
+            "url": "https://github.com/eslint/config-inspector",
+            "name": "eslint /config-inspector",
+            "description": "A visual tool for inspecting and understanding your ESLint flat configs.",
+            "stars": "848",
+            "forks": "24",
+            "language": "Vue",
+            "stars_today": "34 stars this week"
+        },
+        {
+            "zh_des": "基于VUE3、TypeScrip、Element-Plus、VITE的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "2,922",
+            "forks": "711",
+            "language": "Vue",
+            "stars_today": "12 stars this week"
+        },
+        {
+            "zh_des": "为开发人员提供免费和开放源代码的代码片段管理器",
+            "url": "https://github.com/massCodeIO/massCode",
+            "name": "massCodeIO /massCode",
+            "description": "A free and open source code snippets manager for developers",
+            "stars": "5,921",
+            "forks": "202",
+            "language": "Vue",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,743",
+            "forks": "268",
+            "language": "Vue",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,351",
+            "forks": "609",
+            "language": "Vue",
+            "stars_today": "26 stars this week"
+        }
+    ]
+}
