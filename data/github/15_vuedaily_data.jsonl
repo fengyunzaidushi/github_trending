@@ -55052,3 +55052,187 @@
         }
     ]
 }
+{
+    "01月26日": [
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "25,706",
+            "forks": "3,115",
+            "language": "Vue",
+            "stars_today": "366 stars today"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "14,326",
+            "forks": "1,544",
+            "language": "Vue",
+            "stars_today": "49 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,092",
+            "forks": "1,431",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "171",
+            "forks": "3,364",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,754",
+            "forks": "270",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "653",
+            "forks": "100",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "30,199",
+            "forks": "4,441",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,616",
+            "forks": "806",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用Vuejs制作的qBittorrent最时尚的WebUI！",
+            "url": "https://github.com/VueTorrent/VueTorrent",
+            "name": "VueTorrent /VueTorrent",
+            "description": "The sleekest looking WEBUI for qBittorrent made with Vuejs!",
+            "stars": "5,358",
+            "forks": "271",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "为SagerNet/Sing-Box打造的高级Web面板",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "3,124",
+            "forks": "514",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "个人主页，我的个人主页，个人主页源码，主页模板，主页",
+            "url": "https://github.com/imsyy/home",
+            "name": "imsyy /home",
+            "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+            "stars": "3,706",
+            "forks": "2,512",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Freqtrade用户界面-Freqtrade的前端",
+            "url": "https://github.com/freqtrade/frequi",
+            "name": "freqtrade /frequi",
+            "description": "Freqtrade UI - Frontend for Freqtrade",
+            "stars": "668",
+            "forks": "296",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,339",
+            "forks": "202",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "功能强大的Web服务器和环境管理器。支持MacOS/Windows/Linux",
+            "url": "https://github.com/xpf0000/FlyEnv",
+            "name": "xpf0000 /FlyEnv",
+            "description": "Powerful Web Server and Environment Manager. Support macOS / Windows / Linux",
+            "stars": "938",
+            "forks": "74",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "Nuxt网站，由Nuxt制作。",
+            "url": "https://github.com/nuxt/nuxt.com",
+            "name": "nuxt /nuxt.com",
+            "description": "The Nuxt website, made with Nuxt.",
+            "stars": "327",
+            "forks": "172",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "ASF的官方Web界面",
+            "url": "https://github.com/JustArchiNET/ASF-ui",
+            "name": "JustArchiNET /ASF-ui",
+            "description": "The official web interface for ASF",
+            "stars": "274",
+            "forks": "39",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "一个Web界面，用于管理码头容器，重点是模板以提供一次点击部署。把它想象成一个去中心化的服务器应用商店，任何人都可以为其制作包。",
+            "url": "https://github.com/SelfhostedPro/Yacht",
+            "name": "SelfhostedPro /Yacht",
+            "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.",
+            "stars": "3,553",
+            "forks": "174",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用Nuxt UI Pro制作的SaaS模板。",
+            "url": "https://github.com/nuxt-ui-pro/saas",
+            "name": "nuxt-ui-pro /saas",
+            "description": "A SaaS template made with Nuxt UI Pro.",
+            "stars": "317",
+            "forks": "71",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        }
+    ]
+}

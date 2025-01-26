@@ -55602,3 +55602,197 @@
         }
     ]
 }
+{
+    "01月26日": [
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,561",
+            "forks": "312",
+            "language": "Vue",
+            "stars_today": "496 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "25,706",
+            "forks": "3,115",
+            "language": "Vue",
+            "stars_today": "863 stars this week"
+        },
+        {
+            "zh_des": "玻璃钢跨平台桌面客户端，可视化配置，轻松实现内网穿透！支持所有玻璃钢版本",
+            "url": "https://github.com/luckjiawei/frpc-desktop",
+            "name": "luckjiawei /frpc-desktop",
+            "description": "frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本",
+            "stars": "4,619",
+            "forks": "311",
+            "language": "Vue",
+            "stars_today": "263 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,532",
+            "forks": "1,304",
+            "language": "Vue",
+            "stars_today": "97 stars this week"
+        },
+        {
+            "zh_des": "TinyEngine是一个低码引擎，您可以基于它在不同的域中构建或开发低码平台/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "url": "https://github.com/opentiny/tiny-engine",
+            "name": "opentiny /tiny-engine",
+            "description": "TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "stars": "2,166",
+            "forks": "338",
+            "language": "Vue",
+            "stars_today": "60 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "5,917",
+            "forks": "349",
+            "language": "Vue",
+            "stars_today": "75 stars this week"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,754",
+            "forks": "270",
+            "language": "Vue",
+            "stars_today": "17 stars this week"
+        },
+        {
+            "zh_des": "Freqtrade用户界面-Freqtrade的前端",
+            "url": "https://github.com/freqtrade/frequi",
+            "name": "freqtrade /frequi",
+            "description": "Freqtrade UI - Frontend for Freqtrade",
+            "stars": "668",
+            "forks": "296",
+            "language": "Vue",
+            "stars_today": "12 stars this week"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘Pauəp PPT Intist/)，这是一个在线演示应用程序，它复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online.",
+            "stars": "6,306",
+            "forks": "1,232",
+            "language": "Vue",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "171",
+            "forks": "3,364",
+            "language": "Vue",
+            "stars_today": "4 stars this week"
+        },
+        {
+            "zh_des": "轻松和美丽的文档模板构建的Nuxt内容和shadcn-vue。",
+            "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+            "name": "ZTL-UwU /shadcn-docs-nuxt",
+            "description": "Effortless and beautiful docs template built with Nuxt Content & shadcn-vue.",
+            "stars": "349",
+            "forks": "54",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,339",
+            "forks": "202",
+            "language": "Vue",
+            "stars_today": "35 stars this week"
+        },
+        {
+            "zh_des": "功能强大的Web服务器和环境管理器。支持MacOS/Windows/Linux",
+            "url": "https://github.com/xpf0000/FlyEnv",
+            "name": "xpf0000 /FlyEnv",
+            "description": "Powerful Web Server and Environment Manager. Support macOS / Windows / Linux",
+            "stars": "938",
+            "forks": "74",
+            "language": "Vue",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "迅排设计-美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景:海报生成、电商产品图、文章长图、视频/公众号封面等.一个漂亮的在线形象设计师，适合各种场景，比如生成海报，让设计变得更容易！",
+            "url": "https://github.com/palxiao/poster-design",
+            "name": "palxiao /poster-design",
+            "description": "迅排设计 - 美观且功能强大的在线海报设计器，图片编辑器，仿稿定设计，适用于多种场景：海报生成、电商产品图、文章长图、视频/公众号封面等。A beautiful online image designer, suitable for various scenarios like generate posters, making design easier!",
+            "stars": "3,949",
+            "forks": "617",
+            "language": "Vue",
+            "stars_today": "33 stars this week"
+        },
+        {
+            "zh_des": "开源阅读鸿蒙版仓库",
+            "url": "https://github.com/mgz0227/legado-Harmony",
+            "name": "mgz0227 /legado-Harmony",
+            "description": "开源阅读鸿蒙版仓库",
+            "stars": "1,272",
+            "forks": "210",
+            "language": "Vue",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "CSGHub是一个开源的大型模型平台，就像内部版本的拥抱脸。您可以使用用户界面轻松管理模型和数据集、部署模型应用程序以及设置模型微调或推理作业。CSGHub还为Python SDK提供了与HF SDK完全兼容的功能。携手共建更安全、更开放的⭐️平台",
+            "url": "https://github.com/OpenCSGs/csghub",
+            "name": "OpenCSGs /csghub",
+            "description": "CSGHub is an open-source large model platform just like on-premise version of Hugging Face. You can easily manage models and datasets, deploy model applications and setup model finetune or inference jobs with user interface. CSGHub also provides Python SDK with full compatibility of hf sdk. Join us together to build a safer and more open platform⭐️",
+            "stars": "2,498",
+            "forks": "376",
+            "language": "Vue",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "释放Nuxt开发人员体验",
+            "url": "https://github.com/nuxt/devtools",
+            "name": "nuxt /devtools",
+            "description": "Unleash Nuxt Developer Experience",
+            "stars": "2,989",
+            "forks": "167",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "有声书架的移动应用",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,461",
+            "forks": "189",
+            "language": "Vue",
+            "stars_today": "19 stars this week"
+        },
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "653",
+            "forks": "100",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        }
+    ]
+}
