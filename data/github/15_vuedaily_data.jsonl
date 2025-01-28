@@ -55584,3 +55584,167 @@
         }
     ]
 }
+{
+    "01月28日": [
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "25,998",
+            "forks": "3,132",
+            "language": "Vue",
+            "stars_today": "134 stars today"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,762",
+            "forks": "272",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,371",
+            "forks": "613",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "14,343",
+            "forks": "1,549",
+            "language": "Vue",
+            "stars_today": "19 stars today"
+        },
+        {
+            "zh_des": "用Vuejs制作的qBittorrent最时尚的WebUI！",
+            "url": "https://github.com/VueTorrent/VueTorrent",
+            "name": "VueTorrent /VueTorrent",
+            "description": "The sleekest looking WEBUI for qBittorrent made with Vuejs!",
+            "stars": "5,364",
+            "forks": "271",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Freqtrade用户界面-Freqtrade的前端",
+            "url": "https://github.com/freqtrade/frequi",
+            "name": "freqtrade /frequi",
+            "description": "Freqtrade UI - Frontend for Freqtrade",
+            "stars": "670",
+            "forks": "296",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Traq S-陷阱内部信使应用前端",
+            "url": "https://github.com/traPtitech/traQ_S-UI",
+            "name": "traPtitech /traQ_S-UI",
+            "description": "traQ S - traP Internal Messenger Application Frontend",
+            "stars": "111",
+            "forks": "42",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Evolation ManageréUma接口开放源码Para gerenciar a演进API，SIMPLICANO DO Criação e Administação de Instáncias API com Recursos avançados e Integraçóes Diversas。",
+            "url": "https://github.com/EvolutionAPI/evolution-manager",
+            "name": "EvolutionAPI /evolution-manager",
+            "description": "Evolution Manager é uma interface open-source para gerenciar a Evolution API, simplificando a criação e administração de instâncias API com recursos avançados e integrações diversas.",
+            "stars": "105",
+            "forks": "191",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,626",
+            "forks": "808",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,550",
+            "forks": "1,306",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "翼龙的文档是开源的！该存储库包含安装和更新面板和守护进程的文档。",
+            "url": "https://github.com/pterodactyl/documentation",
+            "name": "pterodactyl /documentation",
+            "description": "Pterodactyl's documentation is open source! This repository contains the documentation for installing and updating both the panel and the daemon.",
+            "stars": "154",
+            "forks": "1,128",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "一组用于快速UI开发的组件和实用程序",
+            "url": "https://github.com/frappe/frappe-ui",
+            "name": "frappe /frappe-ui",
+            "description": "A set of components and utilities for rapid UI development",
+            "stars": "386",
+            "forks": "134",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "2,066",
+            "forks": "158",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "26,508",
+            "forks": "7,217",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "664",
+            "forks": "103",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,102",
+            "forks": "1,432",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        }
+    ]
+}
