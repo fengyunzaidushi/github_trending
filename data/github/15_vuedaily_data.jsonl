@@ -55892,3 +55892,147 @@
         }
     ]
 }
+{
+    "01月29日": [
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "675",
+            "forks": "103",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,763",
+            "forks": "272",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "26,075",
+            "forks": "3,137",
+            "language": "Vue",
+            "stars_today": "147 stars today"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,374",
+            "forks": "613",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "基数UI基元的VUE端口。一个开源的UI组件库，用于构建高质量、可访问的设计系统和Web应用程序。",
+            "url": "https://github.com/unovue/radix-vue",
+            "name": "unovue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "4,087",
+            "forks": "260",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,560",
+            "forks": "1,310",
+            "language": "Vue",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "[重构中]S导航一个简约的起始页|支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份",
+            "url": "https://github.com/imsyy/SNav",
+            "name": "imsyy /SNav",
+            "description": "【重构中】Snavigation 一个简约的起始页 | 支持自定义搜索引擎，自定义快捷方式，自定义壁纸以及数据备份",
+            "stars": "391",
+            "forks": "306",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "📺一个基于Uptime Robot接口的在线状态面板|站点监测|状态检测|基于Uptime Robot接口的在线状态面板|Uptime Robot，Status，Site",
+            "url": "https://github.com/imsyy/site-status",
+            "name": "imsyy /site-status",
+            "description": "📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
+            "stars": "553",
+            "forks": "450",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,631",
+            "forks": "811",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "一个灵活的Mastodon Web客户端",
+            "url": "https://github.com/elk-zone/elk",
+            "name": "elk-zone /elk",
+            "description": "A nimble Mastodon web client",
+            "stars": "5,620",
+            "forks": "577",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "2,071",
+            "forks": "158",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "GeoGuess是一款使用谷歌地图StreetView的开源地理游戏。你可以单独玩，也可以同时和你的朋友一起玩。",
+            "url": "https://github.com/GeoGuess/GeoGuess",
+            "name": "GeoGuess /GeoGuess",
+            "description": "GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.",
+            "stars": "426",
+            "forks": "112",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "让密码和其他敏感信息远离您的收件箱和聊天日志。",
+            "url": "https://github.com/onetimesecret/onetimesecret",
+            "name": "onetimesecret /onetimesecret",
+            "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+            "stars": "2,196",
+            "forks": "383",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Vue 3的📄文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "2,996",
+            "forks": "4,571",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        }
+    ]
+}
