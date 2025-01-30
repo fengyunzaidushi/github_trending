@@ -56364,3 +56364,157 @@
         }
     ]
 }
+{
+    "01月30日": [
+        {
+            "zh_des": "用于通过ollama API与当地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "697",
+            "forks": "105",
+            "language": "Vue",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "用于现代Web应用程序的UI库，由Vue和Tailwind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,385",
+            "forks": "616",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "高级Web面板·专为SagerNet/Sing-Box构建",
+            "url": "https://github.com/alireza0/s-ui",
+            "name": "alireza0 /s-ui",
+            "description": "An advanced Web Panel • Built for SagerNet/Sing-Box",
+            "stars": "3,144",
+            "forks": "519",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Wiki.js |基于Node.js构建的现代化且强大的维基应用程序",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,485",
+            "forks": "2,822",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,576",
+            "forks": "1,314",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "功能齐全、开源CRM",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "Fully featured, open source CRM",
+            "stars": "863",
+            "forks": "277",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Github Starred仓库经理",
+            "url": "https://github.com/cfour-hi/gitstars",
+            "name": "cfour-hi /gitstars",
+            "description": "Github Starred Repositories Manager",
+            "stars": "1,552",
+            "forks": "251",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "做出您的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,603",
+            "forks": "808",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "使用Nuxt Content和shadcn-vue构建轻松且美丽的文档模板。",
+            "url": "https://github.com/ZTL-UwU/shadcn-docs-nuxt",
+            "name": "ZTL-UwU /shadcn-docs-nuxt",
+            "description": "Effortless and beautiful docs template built with Nuxt Content & shadcn-vue.",
+            "stars": "351",
+            "forks": "56",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "牧场主UI",
+            "url": "https://github.com/rancher/dashboard",
+            "name": "rancher /dashboard",
+            "description": "The Rancher UI",
+            "stars": "478",
+            "forks": "267",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Radix UI Primitives的Vue端口。一个开源UI组件库，用于构建高质量、易于访问的设计系统和Web应用程序。",
+            "url": "https://github.com/unovue/radix-vue",
+            "name": "unovue /radix-vue",
+            "description": "Vue port of Radix UI Primitives. An open-source UI component library for building high-quality, accessible design systems and web apps.",
+            "stars": "4,089",
+            "forks": "262",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "音频书架移动应用程序",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,467",
+            "forks": "191",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "使用直观的视觉构建器轻松制作美丽的网站并立即发布它们",
+            "url": "https://github.com/frappe/builder",
+            "name": "frappe /builder",
+            "description": "Craft beautiful websites effortlessly with an intuitive visual builder and publish them instantly",
+            "stars": "589",
+            "forks": "179",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "子网络",
+            "url": "https://github.com/CareyWang/sub-web",
+            "name": "CareyWang /sub-web",
+            "description": "sub-web",
+            "stars": "5,382",
+            "forks": "1,920",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Evolution Manager é uma接口开源，可扩展Evolution API，简化criação e administração de instâncias API com recursos avançados e Integrations diversas。",
+            "url": "https://github.com/EvolutionAPI/evolution-manager",
+            "name": "EvolutionAPI /evolution-manager",
+            "description": "Evolution Manager é uma interface open-source para gerenciar a Evolution API, simplificando a criação e administração de instâncias API com recursos avançados e integrações diversas.",
+            "stars": "106",
+            "forks": "194",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        }
+    ]
+}
