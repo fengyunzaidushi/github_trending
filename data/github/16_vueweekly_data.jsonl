@@ -59864,3 +59864,197 @@
         }
     ]
 }
+{
+    "02月07日": [
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "748",
+            "forks": "112",
+            "language": "Vue",
+            "stars_today": "46 stars this week"
+        },
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "7,435",
+            "forks": "520",
+            "language": "Vue",
+            "stars_today": "367 stars this week"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,592",
+            "forks": "1,447",
+            "language": "Vue",
+            "stars_today": "470 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,427",
+            "forks": "619",
+            "language": "Vue",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "📚LookScanned.io-让您的PDF看起来像是扫描过的",
+            "url": "https://github.com/lookscanned/lookscanned.io",
+            "name": "lookscanned /lookscanned.io",
+            "description": "📚 LookScanned.io - Make your PDFs look scanned",
+            "stars": "2,861",
+            "forks": "217",
+            "language": "Vue",
+            "stars_today": "115 stars this week"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,019",
+            "forks": "59",
+            "language": "Vue",
+            "stars_today": "156 stars this week"
+        },
+        {
+            "zh_des": "让密码和其他敏感信息远离您的收件箱和聊天日志。",
+            "url": "https://github.com/onetimesecret/onetimesecret",
+            "name": "onetimesecret /onetimesecret",
+            "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+            "stars": "2,207",
+            "forks": "389",
+            "language": "Vue",
+            "stars_today": "8 stars this week"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,718",
+            "forks": "718",
+            "language": "Vue",
+            "stars_today": "44 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,016",
+            "forks": "357",
+            "language": "Vue",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,634",
+            "forks": "1,326",
+            "language": "Vue",
+            "stars_today": "59 stars this week"
+        },
+        {
+            "zh_des": "功能齐全的开源CRM",
+            "url": "https://github.com/frappe/crm",
+            "name": "frappe /crm",
+            "description": "Fully featured, open source CRM",
+            "stars": "897",
+            "forks": "290",
+            "language": "Vue",
+            "stars_today": "32 stars this week"
+        },
+        {
+            "zh_des": "开源商业智能工具",
+            "url": "https://github.com/frappe/insights",
+            "name": "frappe /insights",
+            "description": "Open Source Business Intelligence Tool",
+            "stars": "505",
+            "forks": "255",
+            "language": "Vue",
+            "stars_today": "10 stars this week"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "174",
+            "forks": "3,470",
+            "language": "Vue",
+            "stars_today": "2 stars this week"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,373",
+            "forks": "207",
+            "language": "Vue",
+            "stars_today": "26 stars this week"
+        },
+        {
+            "zh_des": "RUXAILAB-可用性测试和启发式评估概念学习",
+            "url": "https://github.com/ruxailab/RUXAILAB",
+            "name": "ruxailab /RUXAILAB",
+            "description": "RUXAILAB - Usability Testing and Heuristics Evaluation Conceptual learning",
+            "stars": "55",
+            "forks": "82",
+            "language": "Vue",
+            "stars_today": "2 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "2,095",
+            "forks": "159",
+            "language": "Vue",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,612",
+            "forks": "820",
+            "language": "Vue",
+            "stars_today": "11 stars this week"
+        },
+        {
+            "zh_des": "Elysia.js的文档",
+            "url": "https://github.com/elysiajs/documentation",
+            "name": "elysiajs /documentation",
+            "description": "Documentation for Elysia.js",
+            "stars": "85",
+            "forks": "315",
+            "language": "Vue",
+            "stars_today": "1 star this week"
+        },
+        {
+            "zh_des": "Vue Black仪表板",
+            "url": "https://github.com/creativetimofficial/vue-black-dashboard",
+            "name": "creativetimofficial /vue-black-dashboard",
+            "description": "Vue Black Dashboard",
+            "stars": "569",
+            "forks": "905",
+            "language": "Vue",
+            "stars_today": "0 stars this week"
+        }
+    ]
+}
