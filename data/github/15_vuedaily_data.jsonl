@@ -59258,3 +59258,157 @@
         }
     ]
 }
+{
+    "02月07日": [
+        {
+            "zh_des": "一个现代化的vue管理面板，使用Vue 3、ShadCN UI、Vite、TypScript和Monorepo构建。速度很快！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "26,571",
+            "forks": "7,238",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "shadcn-ui的Vue端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,024",
+            "forks": "357",
+            "language": "Vue",
+            "stars_today": "20 stars today"
+        },
+        {
+            "zh_des": "显示神奇的视频管理员https：panjiachen.github.io/vue-element-admin",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,626",
+            "forks": "30,528",
+            "language": "Vue",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "Wiki.js |基于Node.js构建的现代化且强大的维基应用程序",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,548",
+            "forks": "2,824",
+            "language": "Vue",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,636",
+            "forks": "1,326",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "道管理后台，基于 Vue3 + Element Plus实现，支持RSC动态权限有限，数据权限有限，SaaS 多用户，Flowable 工作流，三方登录，支持，短信，曼城，CRM，企业资源管理，AI 大模型等功能。",
+            "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+            "name": "yudaocode /yudao-ui-admin-vue3",
+            "description": "芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
+            "stars": "1,991",
+            "forks": "860",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。| 一个服务器，NAS导航面板，主页，浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "3,359",
+            "forks": "355",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块来自动化您的浏览器",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "14,466",
+            "forks": "1,563",
+            "language": "Vue",
+            "stars_today": "17 stars today"
+        },
+        {
+            "zh_des": "📄Vue 3的收件箱文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "3,003",
+            "forks": "4,592",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "frp平台桌面客户端，可视化配置，轻松实现互联网透！支持所有frp版本",
+            "url": "https://github.com/luckjiawei/frpc-desktop",
+            "name": "luckjiawei /frpc-desktop",
+            "description": "frp跨平台桌面客户端，可视化配置，轻松实现内网穿透！ 支持所有frp版本",
+            "stars": "4,697",
+            "forks": "316",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "用于现代Web应用程序的UI库，由Vue和Tailwind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,429",
+            "forks": "619",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "将密码和其他敏感信息保留在收件箱和聊天记录中。",
+            "url": "https://github.com/onetimesecret/onetimesecret",
+            "name": "onetimesecret /onetimesecret",
+            "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+            "stars": "2,209",
+            "forks": "389",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Vue.js 2.0 Web UI工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,170",
+            "forks": "14,653",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "Windows桌面小部件。使用vue 3构建",
+            "url": "https://github.com/widget-js/widgets",
+            "name": "widget-js /widgets",
+            "description": "Desktop widgets for windows. built with vue3",
+            "stars": "408",
+            "forks": "26",
+            "language": "Vue",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "🌈基于Ant Design和Vue的企业级UI组件。🐜",
+            "url": "https://github.com/vueComponent/ant-design-vue",
+            "name": "vueComponent /ant-design-vue",
+            "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "stars": "20,508",
+            "forks": "3,820",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        }
+    ]
+}
