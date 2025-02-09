@@ -60570,3 +60570,177 @@
         }
     ]
 }
+{
+    "02月09日": [
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "760",
+            "forks": "113",
+            "language": "Vue",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,606",
+            "forks": "1,451",
+            "language": "Vue",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,035",
+            "forks": "358",
+            "language": "Vue",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,434",
+            "forks": "620",
+            "language": "Vue",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "Vue 3的📄文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "3,002",
+            "forks": "4,596",
+            "language": "Vue",
+            "stars_today": "6 stars this week"
+        },
+        {
+            "zh_des": "释放Nuxt开发人员体验",
+            "url": "https://github.com/nuxt/devtools",
+            "name": "nuxt /devtools",
+            "description": "Unleash Nuxt Developer Experience",
+            "stars": "3,006",
+            "forks": "166",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "让密码和其他敏感信息远离您的收件箱和聊天日志。",
+            "url": "https://github.com/onetimesecret/onetimesecret",
+            "name": "onetimesecret /onetimesecret",
+            "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+            "stars": "2,211",
+            "forks": "389",
+            "language": "Vue",
+            "stars_today": "11 stars this week"
+        },
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "6,823",
+            "forks": "1,085",
+            "language": "Vue",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,047",
+            "forks": "65",
+            "language": "Vue",
+            "stars_today": "136 stars this week"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,564",
+            "forks": "2,830",
+            "language": "Vue",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,719",
+            "forks": "718",
+            "language": "Vue",
+            "stars_today": "40 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,653",
+            "forks": "1,329",
+            "language": "Vue",
+            "stars_today": "72 stars this week"
+        },
+        {
+            "zh_des": "GeoGuess是一款使用谷歌地图StreetView的开源地理游戏。你可以单独玩，也可以同时和你的朋友一起玩。",
+            "url": "https://github.com/GeoGuess/GeoGuess",
+            "name": "GeoGuess /GeoGuess",
+            "description": "GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.",
+            "stars": "465",
+            "forks": "118",
+            "language": "Vue",
+            "stars_today": "16 stars this week"
+        },
+        {
+            "zh_des": "📚LookScanned.io-让您的PDF看起来像是扫描过的",
+            "url": "https://github.com/lookscanned/lookscanned.io",
+            "name": "lookscanned /lookscanned.io",
+            "description": "📚 LookScanned.io - Make your PDFs look scanned",
+            "stars": "2,868",
+            "forks": "217",
+            "language": "Vue",
+            "stars_today": "116 stars this week"
+        },
+        {
+            "zh_des": "AI AS工作区-精心设计的AI(LLm)客户端。全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、人工制品",
+            "url": "https://github.com/NitroRCr/AIaW",
+            "name": "NitroRCr /AIaW",
+            "description": "AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts",
+            "stars": "476",
+            "forks": "40",
+            "language": "Vue",
+            "stars_today": "136 stars this week"
+        },
+        {
+            "zh_des": "📺一个基于Uptime Robot接口的在线状态面板|站点监测|状态检测|基于Uptime Robot接口的在线状态面板|Uptime Robot，Status，Site",
+            "url": "https://github.com/imsyy/site-status",
+            "name": "imsyy /site-status",
+            "description": "📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
+            "stars": "571",
+            "forks": "457",
+            "language": "Vue",
+            "stars_today": "11 stars this week"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,614",
+            "forks": "819",
+            "language": "Vue",
+            "stars_today": "11 stars this week"
+        }
+    ]
+}
