@@ -60744,3 +60744,167 @@
         }
     ]
 }
+{
+    "02月09日": [
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "766",
+            "forks": "116",
+            "language": "Vue",
+            "stars_today": "50 stars this week"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,613",
+            "forks": "1,452",
+            "language": "Vue",
+            "stars_today": "468 stars this week"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,573",
+            "forks": "2,830",
+            "language": "Vue",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,038",
+            "forks": "360",
+            "language": "Vue",
+            "stars_today": "85 stars this week"
+        },
+        {
+            "zh_des": "GeoGuess是一款使用谷歌地图StreetView的开源地理游戏。你可以单独玩，也可以同时和你的朋友一起玩。",
+            "url": "https://github.com/GeoGuess/GeoGuess",
+            "name": "GeoGuess /GeoGuess",
+            "description": "GeoGuess is an open-source geography game with Google Map StreetView. You can play solo or with your friends simultaneously.",
+            "stars": "465",
+            "forks": "118",
+            "language": "Vue",
+            "stars_today": "16 stars this week"
+        },
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "6,824",
+            "forks": "1,088",
+            "language": "Vue",
+            "stars_today": "111 stars this week"
+        },
+        {
+            "zh_des": "释放Nuxt开发人员体验",
+            "url": "https://github.com/nuxt/devtools",
+            "name": "nuxt /devtools",
+            "description": "Unleash Nuxt Developer Experience",
+            "stars": "3,006",
+            "forks": "166",
+            "language": "Vue",
+            "stars_today": "14 stars this week"
+        },
+        {
+            "zh_des": "Vue 3的📄文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "3,002",
+            "forks": "4,598",
+            "language": "Vue",
+            "stars_today": "6 stars this week"
+        },
+        {
+            "zh_des": "让密码和其他敏感信息远离您的收件箱和聊天日志。",
+            "url": "https://github.com/onetimesecret/onetimesecret",
+            "name": "onetimesecret /onetimesecret",
+            "description": "Keep passwords and other sensitive information out of your inboxes and chat logs.",
+            "stars": "2,211",
+            "forks": "389",
+            "language": "Vue",
+            "stars_today": "11 stars this week"
+        },
+        {
+            "zh_des": "使用Vue&Nuxt创建漂亮的网站。",
+            "url": "https://github.com/unovue/inspira-ui",
+            "name": "unovue /inspira-ui",
+            "description": "Build beautiful website using Vue & Nuxt.",
+            "stars": "1,571",
+            "forks": "51",
+            "language": "Vue",
+            "stars_today": "141 stars this week"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,436",
+            "forks": "620",
+            "language": "Vue",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,056",
+            "forks": "65",
+            "language": "Vue",
+            "stars_today": "136 stars this week"
+        },
+        {
+            "zh_des": "面向Web的Vue.js 2.0用户界面工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,172",
+            "forks": "14,650",
+            "language": "Vue",
+            "stars_today": "16 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,658",
+            "forks": "1,330",
+            "language": "Vue",
+            "stars_today": "72 stars this week"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "2,104",
+            "forks": "160",
+            "language": "Vue",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "30,280",
+            "forks": "4,453",
+            "language": "Vue",
+            "stars_today": "63 stars this week"
+        }
+    ]
+}
