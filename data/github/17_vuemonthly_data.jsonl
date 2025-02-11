@@ -62740,3 +62740,197 @@
         }
     ]
 }
+{
+    "02月11日": [
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "26,747",
+            "forks": "3,202",
+            "language": "Vue",
+            "stars_today": "2,484 stars this month"
+        },
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "1,710",
+            "forks": "329",
+            "language": "Vue",
+            "stars_today": "1,016 stars this month"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,138",
+            "forks": "72",
+            "language": "Vue",
+            "stars_today": "802 stars this month"
+        },
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "779",
+            "forks": "117",
+            "language": "Vue",
+            "stars_today": "146 stars this month"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,642",
+            "forks": "1,455",
+            "language": "Vue",
+            "stars_today": "735 stars this month"
+        },
+        {
+            "zh_des": "Nginx的另一个WebUI",
+            "url": "https://github.com/0xJacky/nginx-ui",
+            "name": "0xJacky /nginx-ui",
+            "description": "Yet another WebUI for Nginx",
+            "stars": "7,554",
+            "forks": "527",
+            "language": "Vue",
+            "stars_today": "953 stars this month"
+        },
+        {
+            "zh_des": "TinyEngine是一个低码引擎，您可以基于它在不同的域中构建或开发低码平台/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "url": "https://github.com/opentiny/tiny-engine",
+            "name": "opentiny /tiny-engine",
+            "description": "TinyEngine is a low-code engine based on which you can build or develop low-code platforms in different domains/TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台",
+            "stars": "2,225",
+            "forks": "343",
+            "language": "Vue",
+            "stars_today": "139 stars this month"
+        },
+        {
+            "zh_des": "📚LookScanned.io-让您的PDF看起来像是扫描过的",
+            "url": "https://github.com/lookscanned/lookscanned.io",
+            "name": "lookscanned /lookscanned.io",
+            "description": "📚 LookScanned.io - Make your PDFs look scanned",
+            "stars": "2,876",
+            "forks": "220",
+            "language": "Vue",
+            "stars_today": "158 stars this month"
+        },
+        {
+            "zh_des": "一个面向现代网络应用程序的用户界面库，由Vue&TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "A UI Library for Modern Web Apps, powered by Vue & Tailwind CSS.",
+            "stars": "4,442",
+            "forks": "621",
+            "language": "Vue",
+            "stars_today": "139 stars this month"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,704",
+            "forks": "1,338",
+            "language": "Vue",
+            "stars_today": "359 stars this month"
+        },
+        {
+            "zh_des": "一组用于快速UI开发的组件和实用程序",
+            "url": "https://github.com/frappe/frappe-ui",
+            "name": "frappe /frappe-ui",
+            "description": "A set of components and utilities for rapid UI development",
+            "stars": "405",
+            "forks": "139",
+            "language": "Vue",
+            "stars_today": "54 stars this month"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "177",
+            "forks": "3,513",
+            "language": "Vue",
+            "stars_today": "13 stars this month"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,803",
+            "forks": "290",
+            "language": "Vue",
+            "stars_today": "95 stars this month"
+        },
+        {
+            "zh_des": "做出你的第一个开源贡献。",
+            "url": "https://github.com/DeepSourceCorp/good-first-issue",
+            "name": "DeepSourceCorp /good-first-issue",
+            "description": "Make your first open-source contribution.",
+            "stars": "2,620",
+            "forks": "823",
+            "language": "Vue",
+            "stars_today": "53 stars this month"
+        },
+        {
+            "zh_des": "释放Nuxt开发人员体验",
+            "url": "https://github.com/nuxt/devtools",
+            "name": "nuxt /devtools",
+            "description": "Unleash Nuxt Developer Experience",
+            "stars": "3,008",
+            "forks": "169",
+            "language": "Vue",
+            "stars_today": "45 stars this month"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,602",
+            "forks": "2,831",
+            "language": "Vue",
+            "stars_today": "311 stars this month"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,068",
+            "forks": "361",
+            "language": "Vue",
+            "stars_today": "332 stars this month"
+        },
+        {
+            "zh_des": "这是一款自托管、无数据库的笔记Web应用程序，它使用标记文件的平面文件夹进行存储。",
+            "url": "https://github.com/dullage/flatnotes",
+            "name": "dullage /flatnotes",
+            "description": "A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage.",
+            "stars": "1,804",
+            "forks": "99",
+            "language": "Vue",
+            "stars_today": "124 stars this month"
+        },
+        {
+            "zh_des": "🔥🔥🔥是Mint、YNAB等的开源替代品。保持预算，在不牺牲隐私的情况下积累财富。",
+            "url": "https://github.com/serversideup/financial-freedom",
+            "name": "serversideup /financial-freedom",
+            "description": "🔥🔥🔥 An open source alternative to Mint, YNAB, and more. Stay on budget and build wealth without sacrificing your privacy.",
+            "stars": "2,112",
+            "forks": "160",
+            "language": "Vue",
+            "stars_today": "83 stars this month"
+        }
+    ]
+}
