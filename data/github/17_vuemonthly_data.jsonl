@@ -70684,3 +70684,187 @@
         }
     ]
 }
+{
+    "03月04日": [
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "7,694",
+            "forks": "1,218",
+            "language": "Vue",
+            "stars_today": "927 stars this month"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,949",
+            "forks": "1,372",
+            "language": "Vue",
+            "stars_today": "369 stars this month"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,343",
+            "forks": "381",
+            "language": "Vue",
+            "stars_today": "395 stars this month"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,536",
+            "forks": "104",
+            "language": "Vue",
+            "stars_today": "588 stars this month"
+        },
+        {
+            "zh_des": "一个开源的UI组件库，用于为Vue构建高质量、可访问的设计系统和Web应用程序。以前的Radix Vue",
+            "url": "https://github.com/unovue/reka-ui",
+            "name": "unovue /reka-ui",
+            "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+            "stars": "4,325",
+            "forks": "291",
+            "language": "Vue",
+            "stars_today": "234 stars this month"
+        },
+        {
+            "zh_des": "用于通过ollama API与本地LLM聊天的Web界面",
+            "url": "https://github.com/HelgeSverre/ollama-gui",
+            "name": "HelgeSverre /ollama-gui",
+            "description": "A Web Interface for chatting with your local LLMs via the ollama API",
+            "stars": "890",
+            "forks": "126",
+            "language": "Vue",
+            "stars_today": "168 stars this month"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "19,898",
+            "forks": "1,477",
+            "language": "Vue",
+            "stars_today": "519 stars this month"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,757",
+            "forks": "2,850",
+            "language": "Vue",
+            "stars_today": "289 stars this month"
+        },
+        {
+            "zh_des": "芋道管理后台，基于VUE3+Element Plus实现，支持RBAC动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP、AI大模型等功能。",
+            "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+            "name": "yudaocode /yudao-ui-admin-vue3",
+            "description": "芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
+            "stars": "2,067",
+            "forks": "910",
+            "language": "Vue",
+            "stars_today": "92 stars this month"
+        },
+        {
+            "zh_des": "AI AS工作区-精心设计的AI(LLm)客户端。全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、人工制品",
+            "url": "https://github.com/NitroRCr/AIaW",
+            "name": "NitroRCr /AIaW",
+            "description": "AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts",
+            "stars": "698",
+            "forks": "55",
+            "language": "Vue",
+            "stars_today": "357 stars this month"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘PAUəp PPT Intist/)，这是一个在线演示应用程序，复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。支持AIPPT。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+            "stars": "6,546",
+            "forks": "1,275",
+            "language": "Vue",
+            "stars_today": "234 stars this month"
+        },
+        {
+            "zh_des": "UMO编辑器是一个基于Vue3和TipTap的开源文档编辑器。",
+            "url": "https://github.com/umodoc/editor",
+            "name": "umodoc /editor",
+            "description": "Umo Editor is an open-source document editor, based on Vue3 and Tiptap.",
+            "stars": "589",
+            "forks": "111",
+            "language": "Vue",
+            "stars_today": "135 stars this month"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,591",
+            "forks": "226",
+            "language": "Vue",
+            "stars_today": "235 stars this month"
+        },
+        {
+            "zh_des": "🔥基于VUE 3+VITE 6+打字+元素+构建的后台管理前端模板(配套后端源码)，VUE-元素-管理的VUE 3版本。",
+            "url": "https://github.com/youlaitech/vue3-element-admin",
+            "name": "youlaitech /vue3-element-admin",
+            "description": "🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。",
+            "stars": "1,708",
+            "forks": "426",
+            "language": "Vue",
+            "stars_today": "101 stars this month"
+        },
+        {
+            "zh_des": "📚LookScanned.io-让您的PDF看起来像是扫描过的",
+            "url": "https://github.com/lookscanned/lookscanned.io",
+            "name": "lookscanned /lookscanned.io",
+            "description": "📚 LookScanned.io - Make your PDFs look scanned",
+            "stars": "2,928",
+            "forks": "228",
+            "language": "Vue",
+            "stars_today": "94 stars this month"
+        },
+        {
+            "zh_des": "使用Vue&Nuxt创建漂亮的网站。",
+            "url": "https://github.com/unovue/inspira-ui",
+            "name": "unovue /inspira-ui",
+            "description": "Build beautiful website using Vue & Nuxt.",
+            "stars": "1,849",
+            "forks": "65",
+            "language": "Vue",
+            "stars_today": "424 stars this month"
+        },
+        {
+            "zh_des": "AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT、Azure、ChatGLM、讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，稳定的扩散AI绘画，微博热搜等插件工具。采用Go+VUE3+Element+实现。",
+            "url": "https://github.com/yangjian102621/geekai",
+            "name": "yangjian102621 /geekai",
+            "description": "AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+            "stars": "4,075",
+            "forks": "1,004",
+            "language": "Vue",
+            "stars_today": "141 stars this month"
+        },
+        {
+            "zh_des": "开源商业智能工具",
+            "url": "https://github.com/frappe/insights",
+            "name": "frappe /insights",
+            "description": "Open Source Business Intelligence Tool",
+            "stars": "525",
+            "forks": "271",
+            "language": "Vue",
+            "stars_today": "27 stars this month"
+        }
+    ]
+}
