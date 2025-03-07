@@ -72032,3 +72032,197 @@
         }
     ]
 }
+{
+    "03月07日": [
+        {
+            "zh_des": "✍微信降价编辑|一款高度简洁的微信Markdown编辑器:支持Markdown语法、色盘取色、多图上传、一键下载文档、自定义css样式、一键重置等特性",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "7,784",
+            "forks": "1,238",
+            "language": "Vue",
+            "stars_today": "984 stars this month"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "11,989",
+            "forks": "1,375",
+            "language": "Vue",
+            "stars_today": "373 stars this month"
+        },
+        {
+            "zh_des": "一个开源的UI组件库，用于为Vue构建高质量、可访问的设计系统和Web应用程序。以前的Radix Vue",
+            "url": "https://github.com/unovue/reka-ui",
+            "name": "unovue /reka-ui",
+            "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+            "stars": "4,361",
+            "forks": "295",
+            "language": "Vue",
+            "stars_today": "251 stars this month"
+        },
+        {
+            "zh_des": "芋道管理后台，基于VUE3+Element Plus实现，支持RBAC动态权限、数据权限、SaaS多租户、Flowable工作流、三方登录、支付、短信、商城、CRM、ERP、AI大模型等功能。",
+            "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+            "name": "yudaocode /yudao-ui-admin-vue3",
+            "description": "芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
+            "stars": "2,078",
+            "forks": "917",
+            "language": "Vue",
+            "stars_today": "99 stars this month"
+        },
+        {
+            "zh_des": "🎧Vue+SpringBoot+MyBatis音乐网站",
+            "url": "https://github.com/Yin-Hongwei/music-website",
+            "name": "Yin-Hongwei /music-website",
+            "description": "🎧 Vue + SpringBoot + MyBatis 音乐网站",
+            "stars": "5,865",
+            "forks": "1,508",
+            "language": "Vue",
+            "stars_today": "135 stars this month"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,396",
+            "forks": "391",
+            "language": "Vue",
+            "stars_today": "402 stars this month"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,583",
+            "forks": "106",
+            "language": "Vue",
+            "stars_today": "574 stars this month"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,001",
+            "forks": "7,356",
+            "language": "Vue",
+            "stars_today": "469 stars this month"
+        },
+        {
+            "zh_des": "🔥Cool-Admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于VUE 3、Element-Plus、Pinia、Vite、Tail css、I18N等构建",
+            "url": "https://github.com/cool-team-official/cool-admin-vue",
+            "name": "cool-team-official /cool-admin-vue",
+            "description": "🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建",
+            "stars": "2,016",
+            "forks": "535",
+            "language": "Vue",
+            "stars_today": "87 stars this month"
+        },
+        {
+            "zh_des": "VUE3、元素加、打字脚本后台管理系统",
+            "url": "https://github.com/lin-xin/vue-manage-system",
+            "name": "lin-xin /vue-manage-system",
+            "description": "Vue3、Element Plus、typescript后台管理系统",
+            "stars": "19,137",
+            "forks": "6,077",
+            "language": "Vue",
+            "stars_today": "103 stars this month"
+        },
+        {
+            "zh_des": "AI as Workspace-更好的AI(LLM)客户端。功能齐全，重量轻。支持多个工作区、插件系统、跨平台、本地优先+实时云同步、人工智能、mcp|更好的AI客户端",
+            "url": "https://github.com/NitroRCr/AIaW",
+            "name": "NitroRCr /AIaW",
+            "description": "AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端",
+            "stars": "725",
+            "forks": "58",
+            "language": "Vue",
+            "stars_today": "367 stars this month"
+        },
+        {
+            "zh_des": "🌈是一个基于Ant Design和Vue的企业级UI组件。🐜",
+            "url": "https://github.com/vueComponent/ant-design-vue",
+            "name": "vueComponent /ant-design-vue",
+            "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "stars": "20,606",
+            "forks": "3,835",
+            "language": "Vue",
+            "stars_today": "116 stars this month"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘PAUəp PPT Intist/)，这是一个在线演示应用程序，复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。支持AIPPT。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+            "stars": "6,592",
+            "forks": "1,290",
+            "language": "Vue",
+            "stars_today": "276 stars this month"
+        },
+        {
+            "zh_des": "AI助手全套开源解决方案，自带运营管理后台，开箱即用。集成了ChatGPT、Azure、ChatGLM、讯飞星火，文心一言等多个平台的大语言模型。支持MJ AI绘画，稳定的扩散AI绘画，微博热搜等插件工具。采用Go+VUE3+Element+实现。",
+            "url": "https://github.com/yangjian102621/geekai",
+            "name": "yangjian102621 /geekai",
+            "description": "AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+            "stars": "4,086",
+            "forks": "1,007",
+            "language": "Vue",
+            "stars_today": "148 stars this month"
+        },
+        {
+            "zh_des": "🔥基于VUE 3+VITE 6+打字+元素+构建的后台管理前端模板(配套后端源码)，VUE-元素-管理的VUE 3版本。",
+            "url": "https://github.com/youlaitech/vue3-element-admin",
+            "name": "youlaitech /vue3-element-admin",
+            "description": "🔥基于 vue 3 + vite 6+ typescript + element-plus 构建的后台管理前端模板（配套后端源码），vue-element-admin 的 vue3 版本。",
+            "stars": "1,719",
+            "forks": "429",
+            "language": "Vue",
+            "stars_today": "107 stars this month"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,851",
+            "forks": "30,546",
+            "language": "Vue",
+            "stars_today": "355 stars this month"
+        },
+        {
+            "zh_des": "使用Vue&Nuxt创建漂亮的网站。",
+            "url": "https://github.com/unovue/inspira-ui",
+            "name": "unovue /inspira-ui",
+            "description": "Build beautiful website using Vue & Nuxt.",
+            "stars": "1,875",
+            "forks": "67",
+            "language": "Vue",
+            "stars_today": "435 stars this month"
+        },
+        {
+            "zh_des": "基于VUE3、TypeScrip、Element-Plus、VITE的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "2,994",
+            "forks": "735",
+            "language": "Vue",
+            "stars_today": "61 stars this month"
+        },
+        {
+            "zh_des": "MixPost自托管社交媒体管理软件(缓冲区替代)",
+            "url": "https://github.com/inovector/mixpost",
+            "name": "inovector /mixpost",
+            "description": "Mixpost - Self-hosted social media management software (Buffer alternative)",
+            "stars": "1,598",
+            "forks": "226",
+            "language": "Vue",
+            "stars_today": "231 stars this month"
+        }
+    ]
+}
