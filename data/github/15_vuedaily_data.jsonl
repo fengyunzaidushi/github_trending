@@ -70376,3 +70376,167 @@
         }
     ]
 }
+{
+    "03月10日": [
+        {
+            "zh_des": "直观的Vue UI库，由Reka UI和TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,539",
+            "forks": "646",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "20,002",
+            "forks": "1,487",
+            "language": "Vue",
+            "stars_today": "35 stars today"
+        },
+        {
+            "zh_des": "云Flare免费临时域名电子邮件免费收发临时域名邮箱支持附件IMAP SMTP Telegram Bot",
+            "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+            "name": "dreamhunter2333 /cloudflare_temp_email",
+            "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+            "stars": "3,343",
+            "forks": "1,347",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "一个开源的UI组件库，用于为Vue构建高质量、可访问的设计系统和Web应用程序。以前的Radix Vue",
+            "url": "https://github.com/unovue/reka-ui",
+            "name": "unovue /reka-ui",
+            "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+            "stars": "4,382",
+            "forks": "296",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "全新3.X版本，基于GI演示前端模板开发的Content新的管理员前端适配项目。",
+            "url": "https://github.com/continew-org/continew-admin-ui",
+            "name": "continew-org /continew-admin-ui",
+            "description": "全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。",
+            "stars": "173",
+            "forks": "89",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,809",
+            "forks": "722",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "VUE3、元素加、打字脚本后台管理系统",
+            "url": "https://github.com/lin-xin/vue-manage-system",
+            "name": "lin-xin /vue-manage-system",
+            "description": "Vue3、Element Plus、typescript后台管理系统",
+            "stars": "19,148",
+            "forks": "6,081",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,012",
+            "forks": "1,378",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "Rikka应用程序的网站。",
+            "url": "https://github.com/RikkaApps/websites",
+            "name": "RikkaApps /websites",
+            "description": "Websites for Rikka apps.",
+            "stars": "183",
+            "forks": "3,763",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "快速、现代、先进的照片管理套件。作为NextCloud应用程序运行。",
+            "url": "https://github.com/pulsejet/memories",
+            "name": "pulsejet /memories",
+            "description": "Fast, modern and advanced photo management suite. Runs as a Nextcloud app.",
+            "stars": "3,394",
+            "forks": "95",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,809",
+            "forks": "825",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于大模型碎布知识库的知识图谱问答系统。Llamaindex+VueJS+烧瓶+Neo4j.大模型适配OpenAI、国内主流大模型平台的模型调用、本地vllm部署。支持推理模型DeepSeek-R1、联网检索。",
+            "url": "https://github.com/xerrors/Yuxi-Know",
+            "name": "xerrors /Yuxi-Know",
+            "description": "基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。",
+            "stars": "500",
+            "forks": "33",
+            "language": "Vue",
+            "stars_today": "71 stars today"
+        },
+        {
+            "zh_des": "Mainsail是使用Klipper管理和控制3D打印机的流行网络界面。",
+            "url": "https://github.com/mainsail-crew/mainsail",
+            "name": "mainsail-crew /mainsail",
+            "description": "Mainsail is the popular web interface for managing and controlling 3D printers with Klipper.",
+            "stars": "1,828",
+            "forks": "407",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "使用Nuxt UI Pro制作的SaaS模板。",
+            "url": "https://github.com/nuxt-ui-pro/saas",
+            "name": "nuxt-ui-pro /saas",
+            "description": "A SaaS template made with Nuxt UI Pro.",
+            "stars": "347",
+            "forks": "90",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "在创纪录的时间内建立材料设计界面。对于开发人员来说没有压力..。🍺💛",
+            "url": "https://github.com/beercss/beercss",
+            "name": "beercss /beercss",
+            "description": "Build material design interfaces in record time... without stress for devs... 🍺💛",
+            "stars": "1,635",
+            "forks": "57",
+            "language": "Vue",
+            "stars_today": "27 stars today"
+        },
+        {
+            "zh_des": "ASF的官方Web界面",
+            "url": "https://github.com/JustArchiNET/ASF-ui",
+            "name": "JustArchiNET /ASF-ui",
+            "description": "The official web interface for ASF",
+            "stars": "278",
+            "forks": "42",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        }
+    ]
+}
