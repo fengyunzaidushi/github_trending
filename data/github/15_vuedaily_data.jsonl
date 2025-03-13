@@ -71370,3 +71370,177 @@
         }
     ]
 }
+{
+    "03月13日": [
+        {
+            "zh_des": "直观的Vue UI库，由Reka UI和TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,561",
+            "forks": "649",
+            "language": "Vue",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "一个开源的UI组件库，用于为Vue构建高质量、可访问的设计系统和Web应用程序。以前的Radix Vue",
+            "url": "https://github.com/unovue/reka-ui",
+            "name": "unovue /reka-ui",
+            "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+            "stars": "4,409",
+            "forks": "300",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,055",
+            "forks": "1,387",
+            "language": "Vue",
+            "stars_today": "16 stars today"
+        },
+        {
+            "zh_des": "☀️A精心设计的管理模板/VUE管理员/VUE模板/VUE3管理员/VUE3模板/VUE3后台/VUE3模板",
+            "url": "https://github.com/un-pany/v3-admin-vite",
+            "name": "un-pany /v3-admin-vite",
+            "description": "☀️ A crafted admin template / vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板",
+            "stars": "5,924",
+            "forks": "1,004",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,913",
+            "forks": "30,558",
+            "language": "Vue",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "面向Web的Vue.js 2.0用户界面工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,198",
+            "forks": "14,644",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "子网站",
+            "url": "https://github.com/CareyWang/sub-web",
+            "name": "CareyWang /sub-web",
+            "description": "sub-web",
+            "stars": "5,500",
+            "forks": "1,943",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "⚡具有分析功能的简单、快速、安全的链接缩短器，100%运行在CloudFlare上。",
+            "url": "https://github.com/ccbikai/Sink",
+            "name": "ccbikai /Sink",
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "stars": "3,847",
+            "forks": "2,259",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Wiki.js|基于Node.js构建的功能强大的现代维基应用",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,839",
+            "forks": "2,857",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "Powerpoint-ist(/‘PAUəp PPT Intist/)，这是一个在线演示应用程序，复制了MS Powerpoint的大多数常用功能，允许编辑和演示ɔOnline。支持AIPPT。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+            "stars": "6,630",
+            "forks": "1,300",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "另一个隐私友好的YouTube前端，设计高效。",
+            "url": "https://github.com/TeamPiped/Piped",
+            "name": "TeamPiped /Piped",
+            "description": "An alternative privacy-friendly YouTube frontend which is efficient by design.",
+            "stars": "8,816",
+            "forks": "724",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,107",
+            "forks": "7,385",
+            "language": "Vue",
+            "stars_today": "36 stars today"
+        },
+        {
+            "zh_des": "朴素的用户界面管理是一款基于VUE 3、VITE 3和打字脚本的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目.无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "5,221",
+            "forks": "956",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "Laravel+Vue初学者工具包我们的Vue初学者工具包为使用惯性构建具有Vue前端的Laravel应用程序提供了一个强大的现代起点",
+            "url": "https://github.com/laravel/vue-starter-kit",
+            "name": "laravel /vue-starter-kit",
+            "description": "Laravel + Vue Starter KitOur Vue starter kit provides a robust, modern starting point for building Laravel applications with a Vue frontend using Inertia",
+            "stars": "283",
+            "forks": "84",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "JeecgBoot配套应用程序移动解决方案，采用统一应用程序架构！一份代码多终端适配，同时支持应用程序、小程序、H5、鸿蒙！实现了与JeecgBoot平台完美对接，目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。",
+            "url": "https://github.com/jeecgboot/JeecgUniapp",
+            "name": "jeecgboot /JeecgUniapp",
+            "description": "JeecgBoot配套APP移动解决方案，采用uniapp架构！一份代码多终端适配，同时支持APP、小程序、H5、鸿蒙！实现了与JeecgBoot平台完美对接，目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。",
+            "stars": "1,327",
+            "forks": "706",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "🎉一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配|网易云音乐|极简主义音乐播放器",
+            "url": "https://github.com/imsyy/SPlayer",
+            "name": "imsyy /SPlayer",
+            "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+            "stars": "3,646",
+            "forks": "679",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "🎉(若易)官方仓库基于SpringBoot、春泉安全、智威汤逊、VUE3和VITE、Element Plus的前后端分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "5,356",
+            "forks": "2,138",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        }
+    ]
+}
