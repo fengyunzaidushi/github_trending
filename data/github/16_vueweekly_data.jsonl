@@ -73304,3 +73304,157 @@
         }
     ]
 }
+{
+    "03月16日": [
+        {
+            "zh_des": "全面esm+VUE3+VitE+元素加+打字脚本编写的一款后台管理系统(兼容移动端)",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "17,362",
+            "forks": "3,273",
+            "language": "Vue",
+            "stars_today": "116 stars this week"
+        },
+        {
+            "zh_des": "直观的Vue UI库，由Reka UI和TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,581",
+            "forks": "656",
+            "language": "Vue",
+            "stars_today": "53 stars this week"
+        },
+        {
+            "zh_des": "🚀为您打造的可自我托管的个人仪表板。包括状态检查、窗口小部件、主题、图标包、用户界面编辑器等等！",
+            "url": "https://github.com/Lissy93/dashy",
+            "name": "Lissy93 /dashy",
+            "description": "🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!",
+            "stars": "20,099",
+            "forks": "1,493",
+            "language": "Vue",
+            "stars_today": "144 stars this week"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,149",
+            "forks": "7,393",
+            "language": "Vue",
+            "stars_today": "138 stars this week"
+        },
+        {
+            "zh_des": "面向Web的Vue.js 2.0用户界面工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,198",
+            "forks": "14,643",
+            "language": "Vue",
+            "stars_today": "18 stars this week"
+        },
+        {
+            "zh_des": "☀️A精心设计的管理模板/VUE管理员/VUE模板/VUE3管理员/VUE3模板/VUE3后台/VUE3模板",
+            "url": "https://github.com/un-pany/v3-admin-vite",
+            "name": "un-pany /v3-admin-vite",
+            "description": "☀️ A crafted admin template / vue admin / vue template / vue3 admin / vue3 template / vue3 后台 / vue3 模板",
+            "stars": "5,930",
+            "forks": "1,005",
+            "language": "Vue",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块实现浏览器的自动化",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "15,321",
+            "forks": "1,670",
+            "language": "Vue",
+            "stars_today": "150 stars this week"
+        },
+        {
+            "zh_des": "一个基于VUE3+TS开发的单一应用程序组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni",
+            "name": "Moonofweisheng /wot-design-uni",
+            "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "stars": "1,368",
+            "forks": "208",
+            "language": "Vue",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "🎉(若易)官方仓库基于SpringBoot、春泉安全、智威汤逊、VUE3和VITE、Element Plus的前后端分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "5,369",
+            "forks": "2,142",
+            "language": "Vue",
+            "stars_today": "36 stars this week"
+        },
+        {
+            "zh_des": "基于大模型碎布知识库的知识图谱问答系统。Llamaindex+VueJS+烧瓶+Neo4j.大模型适配OpenAI、国内主流大模型平台的模型调用、本地vllm部署。支持推理模型DeepSeek-R1、联网检索。",
+            "url": "https://github.com/xerrors/Yuxi-Know",
+            "name": "xerrors /Yuxi-Know",
+            "description": "基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。",
+            "stars": "597",
+            "forks": "40",
+            "language": "Vue",
+            "stars_today": "190 stars this week"
+        },
+        {
+            "zh_des": "Tiny RDM(Tiny Redis Desktop Manager)--一个现代的、丰富多彩的、超轻量级的Redis图形用户界面客户端，适用于Mac、Windows和Linux。",
+            "url": "https://github.com/tiny-craft/tiny-rdm",
+            "name": "tiny-craft /tiny-rdm",
+            "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.",
+            "stars": "9,948",
+            "forks": "494",
+            "language": "Vue",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "🎉VUE ADMIN，VUE3 ADMIN，VUE3.0 ADMIN，VUE后台管理，VUE-ADMIN，VUE 3.0-ADMIN，ADMIN，VUE-ADMIN，VUE-ELEMENT-ADMIN，ANT-DESIGN，vAB ADMIN PRO，vAB ADMIN PLUS，VUE ADMIN PLUS，VUE ADMIN PRO",
+            "url": "https://github.com/zxwk1998/vue-admin-better",
+            "name": "zxwk1998 /vue-admin-better",
+            "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+            "stars": "17,419",
+            "forks": "3,755",
+            "language": "Vue",
+            "stars_today": "45 stars this week"
+        },
+        {
+            "zh_des": "一种神奇的Vue adminhttps://panjiachen.github.io/vue-element-admin🎉",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "88,923",
+            "forks": "30,557",
+            "language": "Vue",
+            "stars_today": "84 stars this week"
+        },
+        {
+            "zh_des": "高颜值的第三方网易云播放器，支持视窗/MacOS/linux",
+            "url": "https://github.com/qier222/YesPlayMusic",
+            "name": "qier222 /YesPlayMusic",
+            "description": "高颜值的第三方网易云播放器，支持 Windows / macOS / Linux",
+            "stars": "30,526",
+            "forks": "4,475",
+            "language": "Vue",
+            "stars_today": "73 stars this week"
+        },
+        {
+            "zh_des": "✨✨✨Geeker Admin，基于Vue3.4、Type脚本、Vite5、Pinia、Element-Plus开源的一套后台管理框架.",
+            "url": "https://github.com/HalseySpicy/Geeker-Admin",
+            "name": "HalseySpicy /Geeker-Admin",
+            "description": "✨✨✨ Geeker Admin，基于 Vue3.4、TypeScript、Vite5、Pinia、Element-Plus 开源的一套后台管理框架。",
+            "stars": "7,553",
+            "forks": "1,578",
+            "language": "Vue",
+            "stars_today": "25 stars this week"
+        }
+    ]
+}
