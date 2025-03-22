@@ -75128,3 +75128,147 @@
         }
     ]
 }
+{
+    "03月22日": [
+        {
+            "zh_des": "直观的Vue UI库由Reka UI和Tailwind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,619",
+            "forks": "666",
+            "language": "Vue",
+            "stars_today": "49 stars this week"
+        },
+        {
+            "zh_des": "全面ESM+Vue3+Vite+Element-Plus+ TypScript编写的一款后台管理系统（电容移动端）",
+            "url": "https://github.com/pure-admin/vue-pure-admin",
+            "name": "pure-admin /vue-pure-admin",
+            "description": "全面ESM+Vue3+Vite+Element-Plus+TypeScript编写的一款后台管理系统（兼容移动端）",
+            "stars": "17,485",
+            "forks": "3,288",
+            "language": "Vue",
+            "stars_today": "139 stars this week"
+        },
+        {
+            "zh_des": "显示（RuoYi）官方图库基于SpringBoot，Spring Security，JWT，Vue3 & Vite，Element Plus 的前段分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "5,394",
+            "forks": "2,150",
+            "language": "Vue",
+            "stars_today": "31 stars this week"
+        },
+        {
+            "zh_des": "您的服务器的一个非常简单的静态主页。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,900",
+            "forks": "830",
+            "language": "Vue",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "一个现代化的vue管理面板，使用Vue 3、ShadCN UI、Vite、TypScript和Monorepo构建。速度很快！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,253",
+            "forks": "7,412",
+            "language": "Vue",
+            "stars_today": "133 stars this week"
+        },
+        {
+            "zh_des": "验证一个带分析的简单/快速/安全链接缩短器，100%在Cloudflare上运行。",
+            "url": "https://github.com/ccbikai/Sink",
+            "name": "ccbikai /Sink",
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "stars": "3,988",
+            "forks": "2,355",
+            "language": "Vue",
+            "stars_today": "136 stars this week"
+        },
+        {
+            "zh_des": "个人主页，我的个人主页，个人主页密码，主页模板，主页",
+            "url": "https://github.com/imsyy/home",
+            "name": "imsyy /home",
+            "description": "个人主页，我的个人主页，个人主页源码，主页模板，homepage",
+            "stars": "3,879",
+            "forks": "2,630",
+            "language": "Vue",
+            "stars_today": "39 stars this week"
+        },
+        {
+            "zh_des": "音频书架移动应用程序",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,584",
+            "forks": "206",
+            "language": "Vue",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "一个开源UI组件库，用于为Vue构建高质量、可访问的设计系统和Web应用程序。以前是萝卜素",
+            "url": "https://github.com/unovue/reka-ui",
+            "name": "unovue /reka-ui",
+            "description": "An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue",
+            "stars": "4,505",
+            "forks": "305",
+            "language": "Vue",
+            "stars_today": "86 stars this week"
+        },
+        {
+            "zh_des": "显示管理员，vue 3管理员，vue3.0管理员，vue后台管理，vue-admin，vue3.0-管理员，管理，vue-admin，vue-Element-管理员，ant-design，vab管理专业，vab管理+，vue管理专业",
+            "url": "https://github.com/zxwk1998/vue-admin-better",
+            "name": "zxwk1998 /vue-admin-better",
+            "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+            "stars": "17,451",
+            "forks": "3,753",
+            "language": "Vue",
+            "stars_today": "41 stars this week"
+        },
+        {
+            "zh_des": "关键部门个人的 ChatGPT图像站",
+            "url": "https://github.com/dairoot/ChatGPT-Mirror",
+            "name": "dairoot /ChatGPT-Mirror",
+            "description": "🚀 一键部署个人的 ChatGPT 镜像站",
+            "stars": "963",
+            "forks": "185",
+            "language": "Vue",
+            "stars_today": "23 stars this week"
+        },
+        {
+            "zh_des": "强大的Web服务器和环境管理器。支持macOS / Windows / Linux",
+            "url": "https://github.com/xpf0000/FlyEnv",
+            "name": "xpf0000 /FlyEnv",
+            "description": "Powerful Web Server and Environment Manager. Support macOS / Windows / Linux",
+            "stars": "1,095",
+            "forks": "93",
+            "language": "Vue",
+            "stars_today": "24 stars this week"
+        },
+        {
+            "zh_des": "shadcn-ui的Vue端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,604",
+            "forks": "400",
+            "language": "Vue",
+            "stars_today": "105 stars this week"
+        },
+        {
+            "zh_des": "Vue.js 2.0 Web UI工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,209",
+            "forks": "14,637",
+            "language": "Vue",
+            "stars_today": "18 stars this week"
+        }
+    ]
+}
