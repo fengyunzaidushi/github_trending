@@ -76818,3 +76818,167 @@
         }
     ]
 }
+{
+    "03月30日": [
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,216",
+            "forks": "1,413",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "验证一个带分析的简单/快速/安全链接缩短器，100%在Cloudflare上运行。",
+            "url": "https://github.com/ccbikai/Sink",
+            "name": "ccbikai /Sink",
+            "description": "⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.",
+            "stars": "4,108",
+            "forks": "2,407",
+            "language": "Vue",
+            "stars_today": "44 stars today"
+        },
+        {
+            "zh_des": "基于大模型 RAG 知识库的知识图谱回答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI，国内主流大模型平台的模型调试，本地 vllm部。支持推广模型DeepSeek-R1，互联网检测。",
+            "url": "https://github.com/xerrors/Yuxi-Know",
+            "name": "xerrors /Yuxi-Know",
+            "description": "基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。",
+            "stars": "754",
+            "forks": "69",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "一款长期自定义的完整安全评估工具，支持经常网络安全问题扫描和自定义 poc| 使用之前务必先阅读文档",
+            "url": "https://github.com/chaitin/xray",
+            "name": "chaitin /xray",
+            "description": "一款长亭自研的完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc | 使用之前务必先阅读文档",
+            "stars": "10,731",
+            "forks": "1,848",
+            "language": "Vue",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "关键部门个人的 ChatGPT图像站",
+            "url": "https://github.com/dairoot/ChatGPT-Mirror",
+            "name": "dairoot /ChatGPT-Mirror",
+            "description": "🚀 一键部署个人的 ChatGPT 镜像站",
+            "stars": "993",
+            "forks": "193",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "Naive Ui Administration是一款基于 Vue3、Vite3 和TypScript的先进中后台解决方案，集成了前沿的前端技术和类型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "5,252",
+            "forks": "958",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。| 一个服务器，NAS导航面板，主页，浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "3,592",
+            "forks": "386",
+            "language": "Vue",
+            "stars_today": "11 stars today"
+        },
+        {
+            "zh_des": "微信Markdown编辑器|一款高级简评的微信 Markdown 编辑器：支持 Markdown语言，色盘取色，多图上传，按键下载文档，自定义 CSS样本，按键重置等特色",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "8,309",
+            "forks": "1,341",
+            "language": "Vue",
+            "stars_today": "32 stars today"
+        },
+        {
+            "zh_des": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持黑模式，国际化和自定义主题。",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni",
+            "name": "Moonofweisheng /wot-design-uni",
+            "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "stars": "1,419",
+            "forks": "208",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "AI 助手全套开源解决方案，自带运营管理后台，打开箱立即使用。集成了 ChatGPT、Azure、ChatGLM、凤凰星火、文心等多个平台的大语言模型。支持 MJ AI插画、Stable Multiple AI插画、微型热弗格森等插件工具。使用Go + Vue3 + element-plus现实。",
+            "url": "https://github.com/yangjian102621/geekai",
+            "name": "yangjian102621 /geekai",
+            "description": "AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI 绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。",
+            "stars": "4,149",
+            "forks": "1,014",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "Wiki.js |基于Node.js构建的现代化且强大的维基应用程序",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,941",
+            "forks": "2,870",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "显示管理员，vue 3管理员，vue3.0管理员，vue后台管理，vue-admin，vue3.0-管理员，管理，vue-admin，vue-Element-管理员，ant-design，vab管理专业，vab管理+，vue管理专业",
+            "url": "https://github.com/zxwk1998/vue-admin-better",
+            "name": "zxwk1998 /vue-admin-better",
+            "description": "🎉 vue admin,vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design,vab admin pro,vab admin plus,vue admin plus,vue admin pro",
+            "stars": "17,479",
+            "forks": "3,755",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "📺 一个基于 UptimeRobot API 的在线状态面板| 站点监测 | 状态检测 |基于UptimeRobot API的在线状态面板|UptimeRobot、状态、网站",
+            "url": "https://github.com/imsyy/site-status",
+            "name": "imsyy /site-status",
+            "description": "📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site",
+            "stars": "645",
+            "forks": "484",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "轻松扫描并生成定制二维码卸载",
+            "url": "https://github.com/lyqht/mini-qr",
+            "name": "lyqht /mini-qr",
+            "description": "Scan & generate customized qr codes easily 👾",
+            "stars": "969",
+            "forks": "119",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "Vue3，Element Plus，typescript后台管理系统",
+            "url": "https://github.com/lin-xin/vue-manage-system",
+            "name": "lin-xin /vue-manage-system",
+            "description": "Vue3、Element Plus、typescript后台管理系统",
+            "stars": "19,213",
+            "forks": "6,087",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "显示神奇的视频管理员https：panjiachen.github.io/vue-element-admin",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "89,025",
+            "forks": "30,559",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        }
+    ]
+}
