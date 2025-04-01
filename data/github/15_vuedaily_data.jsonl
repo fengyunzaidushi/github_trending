@@ -77728,3 +77728,187 @@
         }
     ]
 }
+{
+    "04月01日": [
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。| 一个服务器，NAS导航面板，主页，浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "3,633",
+            "forks": "390",
+            "language": "Vue",
+            "stars_today": "13 stars today"
+        },
+        {
+            "zh_des": "微信Markdown编辑器|一款高级简评的微信 Markdown 编辑器：支持 Markdown语言，色盘取色，多图上传，按键下载文档，自定义 CSS样本，按键重置等特色",
+            "url": "https://github.com/doocs/md",
+            "name": "doocs /md",
+            "description": "✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+            "stars": "8,395",
+            "forks": "1,352",
+            "language": "Vue",
+            "stars_today": "21 stars today"
+        },
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,241",
+            "forks": "1,417",
+            "language": "Vue",
+            "stars_today": "15 stars today"
+        },
+        {
+            "zh_des": "📄Vue 3的收件箱文档",
+            "url": "https://github.com/vuejs/docs",
+            "name": "vuejs /docs",
+            "description": "📄 Documentation for Vue 3",
+            "stars": "3,024",
+            "forks": "4,651",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "🌈基于Ant Design和Vue的企业级UI组件。🐜",
+            "url": "https://github.com/vueComponent/ant-design-vue",
+            "name": "vueComponent /ant-design-vue",
+            "description": "🌈 An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "stars": "20,694",
+            "forks": "3,834",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "显示（RuoYi）官方图库基于SpringBoot，Spring Security，JWT，Vue3 & Vite，Element Plus 的前段分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "5,453",
+            "forks": "2,160",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "基于vue 3、typescript、element-plus和vite的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "3,060",
+            "forks": "746",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "⚡️ Blazing fast scrolling for any amount of data",
+            "url": "https://github.com/Akryum/vue-virtual-scroller",
+            "name": "Akryum /vue-virtual-scroller",
+            "description": "⚡️ Blazing fast scrolling for any amount of data",
+            "stars": "10,035",
+            "forks": "936",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "使用Nuxt UI Pro制作的Nuxt仪表板模板。",
+            "url": "https://github.com/nuxt-ui-pro/dashboard",
+            "name": "nuxt-ui-pro /dashboard",
+            "description": "Nuxt Dashboard Template made with Nuxt UI Pro.",
+            "stars": "524",
+            "forks": "120",
+            "language": "Vue",
+            "stars_today": "1 star today"
+        },
+        {
+            "zh_des": "Vue.js 2.0 Web UI工具包",
+            "url": "https://github.com/ElemeFE/element",
+            "name": "ElemeFE /element",
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "stars": "54,216",
+            "forks": "14,636",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "PowerPoint-ist（/' pau ðp Inspectist/），一个在线演示应用程序，复制MS PowerPoint的大部分常用功能，允许在线编辑和演示PPT。支持AIPPT。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+            "stars": "6,765",
+            "forks": "1,334",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "基于大模型 RAG 知识库的知识图谱回答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI，国内主流大模型平台的模型调试，本地 vllm部。支持推广模型DeepSeek-R1，互联网检测。",
+            "url": "https://github.com/xerrors/Yuxi-Know",
+            "name": "xerrors /Yuxi-Know",
+            "description": "基于大模型 RAG 知识库的知识图谱问答系统。Llamaindex + VueJS + Flask + Neo4j。大模型适配 OpenAI、国内主流大模型平台的模型调用、本地 vllm 部署。支持推理模型DeepSeek-R1、联网检索。",
+            "stars": "780",
+            "forks": "72",
+            "language": "Vue",
+            "stars_today": "14 stars today"
+        },
+        {
+            "zh_des": "包罗万象的Python备忘单",
+            "url": "https://github.com/wilfredinni/python-cheatsheet",
+            "name": "wilfredinni /python-cheatsheet",
+            "description": "All-inclusive Python cheatsheet",
+            "stars": "4,558",
+            "forks": "1,312",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "Naive Ui Administration是一款基于 Vue3、Vite3 和TypScript的先进中后台解决方案，集成了前沿的前端技术和类型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "5,256",
+            "forks": "959",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        },
+        {
+            "zh_des": "一个现代化的vue管理面板，使用Vue 3、ShadCN UI、Vite、TypScript和Monorepo构建。速度很快！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,475",
+            "forks": "7,452",
+            "language": "Vue",
+            "stars_today": "18 stars today"
+        },
+        {
+            "zh_des": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持黑模式，国际化和自定义主题。",
+            "url": "https://github.com/Moonofweisheng/wot-design-uni",
+            "name": "Moonofweisheng /wot-design-uni",
+            "description": "一个基于Vue3+TS开发的uni-app组件库，提供70+高质量组件，支持暗黑模式、国际化和自定义主题。",
+            "stars": "1,430",
+            "forks": "208",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "Wiki.js |基于Node.js构建的现代化且强大的维基应用程序",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "25,957",
+            "forks": "2,871",
+            "language": "Vue",
+            "stars_today": "8 stars today"
+        },
+        {
+            "zh_des": "基于uni-app的，全端电容的，高性能UI框架",
+            "url": "https://github.com/dcloudio/uni-ui",
+            "name": "dcloudio /uni-ui",
+            "description": "基于uni-app的、全端兼容的、高性能UI框架",
+            "stars": "1,952",
+            "forks": "671",
+            "language": "Vue",
+            "stars_today": "0 stars today"
+        }
+    ]
+}
