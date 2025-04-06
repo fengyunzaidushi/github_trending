@@ -80112,3 +80112,157 @@
         }
     ]
 }
+{
+    "04月06日": [
+        {
+            "zh_des": "服务器、NAS导航面板、主页、浏览器主页。|一个服务器、NAS导航面板、主页、浏览器首页。",
+            "url": "https://github.com/hslr-s/sun-panel",
+            "name": "hslr-s /sun-panel",
+            "description": "A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。",
+            "stars": "3,667",
+            "forks": "395",
+            "language": "Vue",
+            "stars_today": "71 stars this week"
+        },
+        {
+            "zh_des": "使用Vue3、Shadcn UI、Vite、TypeScrip和Monorepo构建的现代VUE管理面板。太快了！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,541",
+            "forks": "7,477",
+            "language": "Vue",
+            "stars_today": "134 stars this week"
+        },
+        {
+            "zh_des": "为开发人员收集方便的在线工具，有很棒的用户界面。",
+            "url": "https://github.com/CorentinTh/it-tools",
+            "name": "CorentinTh /it-tools",
+            "description": "Collection of handy online tools for developers, with great UX.",
+            "stars": "28,354",
+            "forks": "3,387",
+            "language": "Vue",
+            "stars_today": "203 stars this week"
+        },
+        {
+            "zh_des": "使用Vue&Nuxt创建漂亮的网站。",
+            "url": "https://github.com/unovue/inspira-ui",
+            "name": "unovue /inspira-ui",
+            "description": "Build beautiful website using Vue & Nuxt.",
+            "stars": "2,547",
+            "forks": "102",
+            "language": "Vue",
+            "stars_today": "365 stars this week"
+        },
+        {
+            "zh_des": "新一代Vue用户界面组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,287",
+            "forks": "1,421",
+            "language": "Vue",
+            "stars_today": "77 stars this week"
+        },
+        {
+            "zh_des": "现代、精简、免费和开源的客户服务软件",
+            "url": "https://github.com/frappe/helpdesk",
+            "name": "frappe /helpdesk",
+            "description": "Modern, Streamlined, Free and Open Source Customer Service Software",
+            "stars": "2,095",
+            "forks": "387",
+            "language": "Vue",
+            "stars_today": "22 stars this week"
+        },
+        {
+            "zh_des": "🎉一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配|网易云音乐|极简主义音乐播放器",
+            "url": "https://github.com/imsyy/SPlayer",
+            "name": "imsyy /SPlayer",
+            "description": "🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player",
+            "stars": "3,882",
+            "forks": "711",
+            "language": "Vue",
+            "stars_today": "75 stars this week"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商城免费开源多语言商城系统、Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、应用程序，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "6,756",
+            "forks": "1,626",
+            "language": "Vue",
+            "stars_today": "30 stars this week"
+        },
+        {
+            "zh_des": "Shadcn-ui的VUE端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,816",
+            "forks": "422",
+            "language": "Vue",
+            "stars_today": "78 stars this week"
+        },
+        {
+            "zh_des": "一个非常简单的静态主页为您的服务器。",
+            "url": "https://github.com/bastienwirtz/homer",
+            "name": "bastienwirtz /homer",
+            "description": "A very simple static homepage for your server.",
+            "stars": "9,979",
+            "forks": "835",
+            "language": "Vue",
+            "stars_today": "45 stars this week"
+        },
+        {
+            "zh_des": "一款开源简洁高颜值的酷狗第三方客户端是一款开源、简洁、美观的酷狗第三方客户端，支持Windows/MacOS/LINUX",
+            "url": "https://github.com/iAJue/MoeKoeMusic",
+            "name": "iAJue /MoeKoeMusic",
+            "description": "一款开源简洁高颜值的酷狗第三方客户端 An open-source, concise, and aesthetically pleasing third-party client for KuGou that supports Windows / macOS / Linux",
+            "stars": "1,937",
+            "forks": "129",
+            "language": "Vue",
+            "stars_today": "95 stars this week"
+        },
+        {
+            "zh_des": "🚀一键部署个人的聊天GPT镜像站",
+            "url": "https://github.com/dairoot/ChatGPT-Mirror",
+            "name": "dairoot /ChatGPT-Mirror",
+            "description": "🚀 一键部署个人的 ChatGPT 镜像站",
+            "stars": "1,019",
+            "forks": "194",
+            "language": "Vue",
+            "stars_today": "28 stars this week"
+        },
+        {
+            "zh_des": "直观的Vue UI库，由Reka UI和TailWind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,676",
+            "forks": "683",
+            "language": "Vue",
+            "stars_today": "30 stars this week"
+        },
+        {
+            "zh_des": "用Python和Vue.js编写的WireGuard VPN的简单仪表板",
+            "url": "https://github.com/donaldzou/WGDashboard",
+            "name": "donaldzou /WGDashboard",
+            "description": "Simple dashboard for WireGuard VPN written in Python & Vue.js",
+            "stars": "1,910",
+            "forks": "296",
+            "language": "Vue",
+            "stars_today": "13 stars this week"
+        },
+        {
+            "zh_des": "朴素的用户界面管理是一款基于VUE 3、VITE 3和打字脚本的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目.无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "url": "https://github.com/jekip/naive-ui-admin",
+            "name": "jekip /naive-ui-admin",
+            "description": "Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求",
+            "stars": "5,263",
+            "forks": "969",
+            "language": "Vue",
+            "stars_today": "13 stars this week"
+        }
+    ]
+}
