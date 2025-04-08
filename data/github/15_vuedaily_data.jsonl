@@ -80324,3 +80324,187 @@
         }
     ]
 }
+{
+    "04月08日": [
+        {
+            "zh_des": "一个浏览器扩展，用于通过连接块来自动化您的浏览器",
+            "url": "https://github.com/AutomaApp/automa",
+            "name": "AutomaApp /automa",
+            "description": "A browser extension for automating your browser by connecting blocks",
+            "stars": "16,448",
+            "forks": "1,777",
+            "language": "Vue",
+            "stars_today": "33 stars today"
+        },
+        {
+            "zh_des": "显示神奇的视频管理员https：panjiachen.github.io/vue-element-admin",
+            "url": "https://github.com/PanJiaChen/vue-element-admin",
+            "name": "PanJiaChen /vue-element-admin",
+            "description": "🎉 A magical vue adminhttps://panjiachen.github.io/vue-element-admin",
+            "stars": "89,075",
+            "forks": "30,563",
+            "language": "Vue",
+            "stars_today": "9 stars today"
+        },
+        {
+            "zh_des": "一个现代化的vue管理面板，使用Vue 3、ShadCN UI、Vite、TypScript和Monorepo构建。速度很快！",
+            "url": "https://github.com/vbenjs/vue-vben-admin",
+            "name": "vbenjs /vue-vben-admin",
+            "description": "A modern vue admin panel built with Vue3, Shadcn UI, Vite, TypeScript, and Monorepo. It's fast!",
+            "stars": "27,585",
+            "forks": "7,485",
+            "language": "Vue",
+            "stars_today": "24 stars today"
+        },
+        {
+            "zh_des": "显示（RuoYi）官方图库基于SpringBoot，Spring Security，JWT，Vue3 & Vite，Element Plus 的前段分离权限管理系统",
+            "url": "https://github.com/yangzongzhuan/RuoYi-Vue3",
+            "name": "yangzongzhuan /RuoYi-Vue3",
+            "description": "🎉 (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统",
+            "stars": "5,481",
+            "forks": "2,170",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "☀️ A crafted admin template / vue admin, vue template, vue3 admin, vue3 template, vue 后台, vue模板, vue3 后台, vue3 模板",
+            "url": "https://github.com/un-pany/v3-admin-vite",
+            "name": "un-pany /v3-admin-vite",
+            "description": "☀️ A crafted admin template / vue admin, vue template, vue3 admin, vue3 template, vue 后台, vue 模板, vue3 后台, vue3 模板",
+            "stars": "5,999",
+            "forks": "1,015",
+            "language": "Vue",
+            "stars_today": "3 stars today"
+        },
+        {
+            "zh_des": "基于智能体 RAG 知识库的知识图谱回答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI，Olama，vLLM，国内主流大模型平台的模型调试。支持推广模型DeepSeek-R1，互联网检测，工具可调。",
+            "url": "https://github.com/xerrors/Yuxi-Know",
+            "name": "xerrors /Yuxi-Know",
+            "description": "基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。",
+            "stars": "878",
+            "forks": "83",
+            "language": "Vue",
+            "stars_today": "46 stars today"
+        },
+        {
+            "zh_des": "Tiny RCM（Tiny Redis桌面管理器）-一款适合Mac、Windows和Linux的现代、色彩缤纷、超轻量级Redis图形用户界面客户端。",
+            "url": "https://github.com/tiny-craft/tiny-rdm",
+            "name": "tiny-craft /tiny-rdm",
+            "description": "Tiny RDM (Tiny Redis Desktop Manager) - A modern, colorful, super lightweight Redis GUI client for Mac, Windows, and Linux.",
+            "stars": "10,131",
+            "forks": "502",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Wiki.js |基于Node.js构建的现代化且强大的维基应用程序",
+            "url": "https://github.com/requarks/wiki",
+            "name": "requarks /wiki",
+            "description": "Wiki.js | A modern and powerful wiki app built on Node.js",
+            "stars": "26,002",
+            "forks": "2,875",
+            "language": "Vue",
+            "stars_today": "12 stars today"
+        },
+        {
+            "zh_des": "下一代Vue UI组件库",
+            "url": "https://github.com/primefaces/primevue",
+            "name": "primefaces /primevue",
+            "description": "Next Generation Vue UI Component Library",
+            "stars": "12,296",
+            "forks": "1,424",
+            "language": "Vue",
+            "stars_today": "7 stars today"
+        },
+        {
+            "zh_des": "Vue3，Element Plus，typescript后台管理系统",
+            "url": "https://github.com/lin-xin/vue-manage-system",
+            "name": "lin-xin /vue-manage-system",
+            "description": "Vue3、Element Plus、typescript后台管理系统",
+            "stars": "19,234",
+            "forks": "6,094",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "音频书架移动应用程序",
+            "url": "https://github.com/advplyr/audiobookshelf-app",
+            "name": "advplyr /audiobookshelf-app",
+            "description": "Mobile application for Audiobookshelf",
+            "stars": "1,624",
+            "forks": "213",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        },
+        {
+            "zh_des": "基于vue 3、typescript、element-plus和vite的后台管理系统",
+            "url": "https://github.com/kailong321200875/vue-element-plus-admin",
+            "name": "kailong321200875 /vue-element-plus-admin",
+            "description": "A backend management system based on vue3, typescript, element-plus, and vite",
+            "stars": "3,070",
+            "forks": "751",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "道管理后台，基于 Vue3 + Element Plus实现，支持RSC动态权限有限，数据权限有限，SaaS 多用户，Flowable 工作流，三方登录，支持，短信，曼城，CRM，企业资源管理，AI 大模型等功能。",
+            "url": "https://github.com/yudaocode/yudao-ui-admin-vue3",
+            "name": "yudaocode /yudao-ui-admin-vue3",
+            "description": "芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。",
+            "stars": "2,212",
+            "forks": "966",
+            "language": "Vue",
+            "stars_today": "6 stars today"
+        },
+        {
+            "zh_des": "直观的Vue UI库由Reka UI和Tailwind CSS提供支持。",
+            "url": "https://github.com/nuxt/ui",
+            "name": "nuxt /ui",
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "stars": "4,685",
+            "forks": "685",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "🔥CRMEB开源商场免费开源多语言商场系统，TP6框架商场，系统可商用;包含小程序商场，H5商场，众号商场，PC商场，App，支持分销，Butix，价格，杀戮，优惠，积分，会员等，小程序直播，面DIY，前后端分离，方便二开，更有详细使用文件，接口文件，字符，二开文本/视频教程，欢迎大家提出意见和建议",
+            "url": "https://github.com/crmeb/CRMEB",
+            "name": "crmeb /CRMEB",
+            "description": "🔥CRMEB开源商城免费开源多语言商城系统，Tp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城、App，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面DIY，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议",
+            "stars": "6,768",
+            "forks": "1,629",
+            "language": "Vue",
+            "stars_today": "5 stars today"
+        },
+        {
+            "zh_des": "使用Nuxt UI Pro制作的Nuxt仪表板模板。",
+            "url": "https://github.com/nuxt-ui-pro/dashboard",
+            "name": "nuxt-ui-pro /dashboard",
+            "description": "Nuxt Dashboard Template made with Nuxt UI Pro.",
+            "stars": "530",
+            "forks": "121",
+            "language": "Vue",
+            "stars_today": "2 stars today"
+        },
+        {
+            "zh_des": "shadcn-ui的Vue端口",
+            "url": "https://github.com/unovue/shadcn-vue",
+            "name": "unovue /shadcn-vue",
+            "description": "Vue port of shadcn-ui",
+            "stars": "6,837",
+            "forks": "426",
+            "language": "Vue",
+            "stars_today": "10 stars today"
+        },
+        {
+            "zh_des": "PowerPoint-ist（/' pau ðp Inspectist/），一个在线演示应用程序，复制MS PowerPoint的大部分常用功能，允许在线编辑和演示PPT。支持AIPPT。",
+            "url": "https://github.com/pipipi-pikachu/PPTist",
+            "name": "pipipi-pikachu /PPTist",
+            "description": "PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. Support AIPPT.",
+            "stars": "6,797",
+            "forks": "1,345",
+            "language": "Vue",
+            "stars_today": "4 stars today"
+        }
+    ]
+}
