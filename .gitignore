@@ -175,4 +175,4 @@ htmlcov.*
 *.pkl
 *-structure.csv
 *-structure.json
-
+.specstory/
